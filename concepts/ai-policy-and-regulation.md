@@ -13,7 +13,7 @@ confidence: high
 Anthropic's externally-facing policy positions: how frontier AI should be
 regulated, when third-party testing matters, how export controls should be
 structured, and the geopolitical framing of US AI leadership. The
-[[the-anthropic-institute|Anthropic Institute]] is the dedicated venue for
+[[anthropic-news-the-anthropic-institute|Anthropic Institute]] is the dedicated venue for
 this work.
 
 ## What the sources say
@@ -41,5 +41,5 @@ this work.
 - [[anthropic]]
 - [[dario-amodei]]
 - [[responsible-scaling-policy]]
-- [[the-anthropic-institute]]
+- [[anthropic-news-the-anthropic-institute]]
 - [[ai-cybersecurity]]

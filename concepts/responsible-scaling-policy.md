@@ -33,6 +33,6 @@ mitigation requirements (security, deployment safeguards, evaluation cadence).
 
 - [[ai-safety-levels]]
 - [[ai-policy-and-regulation]]
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 - [[ai-alignment]]
 - [[anthropic]]

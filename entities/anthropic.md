@@ -14,7 +14,7 @@ AI safety company founded in 2021 by [[dario-amodei]], Daniela Amodei, and
 other former OpenAI researchers. Develops the [[claude-models|Claude]] family
 of LLMs, the [[claude-code]] CLI, [[model-context-protocol|MCP]], and
 publishes the [[transformer-circuits-thread]] and the
-[[anthropic-economic-index]].
+[[anthropic-news-the-anthropic-economic-index]].
 
 ## Foundational positioning
 
@@ -74,9 +74,9 @@ publishes the [[transformer-circuits-thread]] and the
 
 ## Research and policy arms
 
-- [[the-anthropic-institute]] — Policy and research institute
+- [[anthropic-news-the-anthropic-institute]] — Policy and research institute
 - [[transformer-circuits-thread]] — Interpretability publication venue
-- [[anthropic-economic-index]] — Empirical economics-of-AI research line
+- [[anthropic-news-the-anthropic-economic-index]] — Empirical economics-of-AI research line
 
 ## Related
 

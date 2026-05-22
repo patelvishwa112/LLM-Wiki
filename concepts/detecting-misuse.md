@@ -13,7 +13,7 @@ confidence: high
 Anthropic publishes periodic reports on observed and disrupted misuse of
 Claude — influence operations, fraud rings, cyber operations, and policy
 violations — and the systems used to detect them at scale (telemetry,
-classifiers, [[clio-tool|Clio]]-style privacy-preserving analytics).
+classifiers, [[anthropic-research-clio|Clio]]-style privacy-preserving analytics).
 
 ## What the sources say
 
@@ -36,6 +36,6 @@ classifiers, [[clio-tool|Clio]]-style privacy-preserving analytics).
 
 - [[ai-cybersecurity]]
 - [[ai-persuasion]]
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 - [[clio-tool]]
 - [[jailbreaks-and-defenses]]

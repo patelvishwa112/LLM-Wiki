@@ -31,7 +31,7 @@ empirical report on usage.
 
 ## Related
 
-- [[anthropic-economic-index]]
+- [[anthropic-news-the-anthropic-economic-index]]
 - [[enterprise-and-industry-applications]]
 - [[anthropic]]
 - [[claude-models]]

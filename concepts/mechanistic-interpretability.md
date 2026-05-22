@@ -19,21 +19,23 @@ Anthropic's dedicated publication venue for interpretability research:
 [[transformer-circuits-thread]]
 
 Key publications in order:
-1. [[tcircuits-2021-framework]] — A Mathematical Framework for Transformer Circuits
-2. [[tcircuits-2022-in-context-learning-and-induction-heads]] — In-context Learning and Induction Heads
-3. [[tcircuits-2022-toy-model]] — Toy Models of Superposition
-4. [[tcircuits-2023-monosemantic-features]] — Towards Monosemanticity
-5. [[tcircuits-2024-scaling-monosemanticity]] — Scaling Monosemanticity
+1. [[tcircuits-framework-index]] — A Mathematical Framework for Transformer Circuits
+2. [[tcircuits-in-context-learning-and-induction-heads-index]] — In-context Learning and Induction Heads
+3. [[tcircuits-toy_model-index]] — Toy Models of Superposition
+4. [[tcircuits-monosemantic-features-index]] — Towards Monosemanticity
+5. [[tcircuits-scaling-monosemanticity-index]] — Scaling Monosemanticity
 6. [[tcircuits-2026-nla]] — Natural Language Autoencoders (2026)
 
 ## Major Discoveries
 
 ### Superposition
 Neural networks represent more features than they have dimensions.
-[[tcircuits-2022-toy-model]]
+See [[superposition]] for a full synthesis.
+[[tcircuits-toy_model-index]]
 
 ### Sparse Autoencoders / Dictionary Learning
 Decomposing model activations into interpretable features.
+See [[sparse-autoencoders]] for a full synthesis.
 [[arxiv-2406.04093]]
 
 ### Mapping Claude's Mind

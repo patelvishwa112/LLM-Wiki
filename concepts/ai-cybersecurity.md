@@ -13,7 +13,7 @@ confidence: high
 Two-sided framing: (1) AI as a defender — using Claude to find and fix
 vulnerabilities and assist SOC workflows; (2) AI as a threat surface — the
 risk that frontier models accelerate offensive cyber operations. Anthropic's
-[[frontier-red-team]] tracks both sides and publishes periodic threat
+[[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]] tracks both sides and publishes periodic threat
 intelligence.
 
 ## What the sources say
@@ -34,7 +34,7 @@ intelligence.
 
 ## Related
 
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 - [[detecting-misuse]]
 - [[claude-code]]
 - [[ai-safety-levels]]

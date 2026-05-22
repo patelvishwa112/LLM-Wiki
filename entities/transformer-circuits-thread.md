@@ -15,12 +15,12 @@ Hosted at [transformer-circuits.pub](https://transformer-circuits.pub).
 
 ## Publications
 
-1. [[tcircuits-2021-framework]] — A Mathematical Framework for Transformer Circuits (2021)
-2. [[tcircuits-2022-solu]] — Softmax Linear Units (2022)
-3. [[tcircuits-2022-in-context-learning-and-induction-heads]] — In-context Learning and Induction Heads (2022)
-4. [[tcircuits-2022-toy-model]] — Toy Models of Superposition (2022)
-5. [[tcircuits-2023-monosemantic-features]] — Towards Monosemanticity (2023-2024)
-6. [[tcircuits-2024-scaling-monosemanticity]] — Scaling Monosemanticity (2024)
+1. [[tcircuits-framework-index]] — A Mathematical Framework for Transformer Circuits (2021)
+2. [[tcircuits-solu-index]] — Softmax Linear Units (2022)
+3. [[tcircuits-in-context-learning-and-induction-heads-index]] — In-context Learning and Induction Heads (2022)
+4. [[tcircuits-toy_model-index]] — Toy Models of Superposition (2022)
+5. [[tcircuits-monosemantic-features-index]] — Towards Monosemanticity (2023-2024)
+6. [[tcircuits-scaling-monosemanticity-index]] — Scaling Monosemanticity (2024)
 7. [[tcircuits-2026-nla]] — Natural Language Autoencoders (2026)
 
 ## Significance

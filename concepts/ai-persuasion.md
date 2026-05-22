@@ -23,7 +23,7 @@ exposure to model-generated arguments.
 
 ## Related
 
-- [[societal-impacts]]
 - [[ai-policy-and-regulation]]
 - [[detecting-misuse]]
 - [[claude-values-and-character]]
+- [[anthropic]]

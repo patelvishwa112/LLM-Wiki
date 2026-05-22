@@ -33,5 +33,5 @@ the Paris AI Action Summit, and the contested Department of War engagement.
 
 - [[anthropic]]
 - [[ai-policy-and-regulation]]
-- [[the-anthropic-institute]]
+- [[anthropic-news-the-anthropic-institute]]
 - [[scaling-laws]]

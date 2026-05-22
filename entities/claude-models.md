@@ -38,7 +38,7 @@ Anthropic's family of large language models, designed to be helpful, honest, and
 ### Claude 3.7 Sonnet (2025)
 - Extended thinking mode
 - Improved agentic capabilities
-- [[pdf-claude-3-7-sonnet-system-card]]
+- [[pdf-claude-3.7-sonnet-system-card]]
 
 ### Claude 4 (2025)
 - Claude Opus 4: Top-tier performance
@@ -47,10 +47,10 @@ Anthropic's family of large language models, designed to be helpful, honest, and
 
 ### Claude Opus 4.6 / 4.7 (2026)
 - Latest Opus: stronger coding, agents, vision
-- [[anthropic-news-claude-opus-4.7]]
+- [[anthropic-news-claude-opus-4-7]]
 
 ## Safety & Evaluations
 
 - [[anthropic-research-constitutional-classifiers]]
-- [[anthropic-research-many-shot-jailbreaking]]
-- [[anthropic-research-responsible-scaling-policy]]
+- [[arxiv-2404.11018]] — Many-Shot In-Context Learning (jailbreak technique)
+- [[responsible-scaling-policy]]

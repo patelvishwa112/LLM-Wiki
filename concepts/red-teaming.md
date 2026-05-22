@@ -11,7 +11,7 @@ confidence: high
 # Red Teaming
 
 Adversarial testing of frontier models for dangerous capabilities, misuse
-pathways, and alignment failures. At Anthropic the [[frontier-red-team]]
+pathways, and alignment failures. At Anthropic the [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 exercises models against weaponization scenarios — cyber, bio, and AI-driven
 attacks — and operationalizes findings into [[responsible-scaling-policy]]
 evaluations.
@@ -33,7 +33,7 @@ evaluations.
 
 ## Related
 
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 - [[jailbreaks-and-defenses]]
 - [[ai-cybersecurity]]
 - [[ai-biosecurity-and-nuclear]]

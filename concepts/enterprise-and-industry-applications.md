@@ -39,7 +39,7 @@ Accenture (catalogued under [[anthropic]]).
 ## Related
 
 - [[claude-for-education]]
-- [[anthropic-economic-index]]
+- [[anthropic-news-the-anthropic-economic-index]]
 - [[anthropic]]
 - [[claude-models]]
 - [[claude-code]]

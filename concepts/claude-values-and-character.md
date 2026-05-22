@@ -12,7 +12,7 @@ confidence: high
 
 What does Claude actually value in production, as opposed to what its training
 constitution prescribes? Anthropic's empirical work analyzes real conversation
-data (via privacy-preserving methods, see [[clio-tool|Clio]]) to map Claude's
+data (via privacy-preserving methods, see [[anthropic-research-clio|Clio]]) to map Claude's
 operative values; the constitution work specifies them.
 
 ## What the sources say
@@ -36,5 +36,5 @@ operative values; the constitution work specifies them.
 - [[constitutional-ai]]
 - [[persona-vectors]]
 - [[model-welfare]]
-- [[clio-tool]]
+- [[anthropic-research-clio]]
 - [[claude-models]]

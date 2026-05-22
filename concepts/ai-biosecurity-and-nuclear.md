@@ -22,13 +22,13 @@ for these domains.
   models
 
 Biosecurity is referenced across multiple sources as a primary trigger for
-ASL-3 evaluations, and Anthropic's [[frontier-red-team]] runs continuous
+ASL-3 evaluations, and Anthropic's [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]] runs continuous
 elicitation studies in this space.
 
 ## Related
 
 - [[ai-safety-levels]]
 - [[responsible-scaling-policy]]
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 - [[red-teaming]]
 - [[ai-cybersecurity]]

@@ -36,5 +36,5 @@ tier. ASLs are the rungs of the [[responsible-scaling-policy]] ladder.
 - [[responsible-scaling-policy]]
 - [[ai-cybersecurity]]
 - [[ai-biosecurity-and-nuclear]]
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
 - [[ai-policy-and-regulation]]

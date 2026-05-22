@@ -49,26 +49,26 @@ and website on 2026-05-22.
 - [[anthropic-news-3-5-models-and-computer-use]] — Introducing computer use, a new Claude 3.5 Sonnet, and Claude 3.5 Haiku
 - [[anthropic-news-accenture-aws-anthropic]] — Accenture, AWS, Anthropic Collaboration
 - [[anthropic-news-activating-asl3-protections]] — Activating AI Safety Level 3 protections
-- [[anthropic-news-a-new-initiative-for-developing-third-party-model-evaluation]] — A new initiative for developing third-party model evaluations
+- [[anthropic-news-a-new-initiative-for-developing-third-party-model-evaluations]] — A new initiative for developing third-party model evaluations
 - [[anthropic-news-advancing-claude-for-education]] — Advancing Claude for Education
 - [[anthropic-news-advancing-claude-for-financial-services]] — Advancing Claude for Financial Services
 - [[anthropic-news-announcing-our-updated-responsible-scaling-policy]] — Announcing our updated Responsible Scaling Policy
-- [[anthropic-news-anthropic-achieves-iso-42001-certification-for-responsible-a]] — Anthropic achieves ISO 42001 certification for responsible AI
-- [[anthropic-news-anthropic-and-the-department-of-defense-to-advance-responsib]] — Anthropic awarded $200M DOD agreement for AI capabilities
-- [[anthropic-news-anthropic-and-iceland-announce-one-of-the-world-s-first-nati]] — Anthropic and Iceland announce one of the world’s first national AI education pilots
+- [[anthropic-news-anthropic-achieves-iso-42001-certification-for-responsible-ai]] — Anthropic achieves ISO 42001 certification for responsible AI
+- [[anthropic-news-anthropic-and-the-department-of-defense-to-advance-responsible-ai-in-defense-ope]] — Anthropic awarded $200M DOD agreement for AI capabilities
+- [[anthropic-news-anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pi]] — Anthropic and Iceland announce one of the world’s first national AI education pilots
 - [[anthropic-news-anthropic-education-report-how-educators-use-claude]] — Anthropic education report: How educators use Claude
-- [[anthropic-news-anthropic-education-report-how-university-students-use-claud]] — Anthropic Education Report: How University Students Use Claude
+- [[anthropic-news-anthropic-education-report-how-university-students-use-claude]] — Anthropic Education Report: How University Students Use Claude
 - [[anthropic-news-anthropic-economic-index-insights-from-claude-sonnet-3-7]] — Anthropic Economic Index: Insights from Claude 3.7 Sonnet
 - [[anthropic-news-anthropic-is-endorsing-sb-53]] — Anthropic is endorsing SB 53
-- [[anthropic-news-anthropic-expands-global-leadership-in-enterprise-ai-naming-]] — Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of In
+- [[anthropic-news-anthropic-expands-global-leadership-in-enterprise-ai-naming-chris-ciauri-as-mana]] — Anthropic expands global leadership in enterprise AI, naming Chris Ciauri as Managing Director of In
 - [[anthropic-news-anthropic-nec]] — Anthropic and NEC partner to build AI-native engineering at scale in Japan
-- [[anthropic-news-anthropic-partners-with-menlo-ventures-to-launch-anthology-f]] — Anthropic partners with Menlo Ventures to launch Anthology Fund
-- [[anthropic-news-anthropic-partners-with-u-s-national-labs-for-first-1-000-sc]] — Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam
-- [[anthropic-news-anthropic-partners-with-the-university-of-chicago-s-becker-f]] — Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI ec
+- [[anthropic-news-anthropic-partners-with-menlo-ventures-to-launch-anthology-fund]] — Anthropic partners with Menlo Ventures to launch Anthology Fund
+- [[anthropic-news-anthropic-partners-with-u-s-national-labs-for-first-1-000-scientist-ai-jam]] — Anthropic partners with U.S. National Labs for first 1,000 Scientist AI Jam
+- [[anthropic-news-anthropic-partners-with-the-university-of-chicago-s-becker-friedman-institute-on]] — Anthropic partners with the University of Chicago’s Becker Friedman Institute for Economics on AI ec
 - [[anthropic-news-anthropic-raises-series-e-at-usd61-5b-post-money-valuation]] — Anthropic raises Series E at $61.5B post-money valuation
 - [[anthropic-news-anthropic-raises-series-f-at-usd183b-post-money-valuation]] — Anthropic raises $13B Series F at $183B post-money valuation
-- [[anthropic-news-anthropic-signs-pledge-to-americas-youth-investing-in-ai-edu]] — Anthropic joins White House pledge for AI education
-- [[anthropic-news-anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-]] — Anthropic signs CMS health tech pledge
+- [[anthropic-news-anthropic-signs-pledge-to-americas-youth-investing-in-ai-education]] — Anthropic joins White House pledge for AI education
+- [[anthropic-news-anthropic-signs-cms-health-tech-ecosystem-pledge-to-advance-healthcare-interoper]] — Anthropic signs CMS health tech pledge
 - [[anthropic-news-build-ai-in-america]] — Build AI in America: Anthropic Energy Report
 - [[anthropic-news-challenges-in-red-teaming-ai-systems]] — Challenges in Red Teaming AI Systems
 - [[anthropic-news-child-safety-principles]] — Aligning on child safety principles
@@ -102,7 +102,7 @@ and website on 2026-05-22.
 - [[anthropic-news-contextual-retrieval]] — Contextual Retrieval in AI Systems
 - [[anthropic-news-developing-computer-use]] — Developing a computer use model
 - [[anthropic-news-disrupting-AI-espionage]] — Disrupting the first reported AI-orchestrated cyber espionage campaign
-- [[anthropic-news-developing-nuclear-safeguards-for-ai-through-public-private-]] — Developing nuclear safeguards for AI through public-private partnership
+- [[anthropic-news-developing-nuclear-safeguards-for-ai-through-public-private-partnership]] — Developing nuclear safeguards for AI through public-private partnership
 - [[anthropic-news-detecting-countering-misuse-aug-2025]] — Detecting and countering misuse of AI: August 2025
 - [[anthropic-news-economic-futures-uk-europe]] — Launching the Anthropic Economic Futures Programme in the UK and Europe
 - [[anthropic-news-donate-public-first-action]] — Anthropic is donating $20 million to Public First Action
@@ -112,7 +112,7 @@ and website on 2026-05-22.
 - [[anthropic-news-expanding-our-use-of-google-cloud-tpus-and-services]] — Expanding our use of Google Cloud TPUs and Services
 - [[anthropic-news-finance-agents]] — Agents for financial services
 - [[anthropic-news-fine-tune-claude-3-haiku]] — Fine-tune Claude 3 Haiku in Amazon Bedrock | Claude
-- [[anthropic-news-federal-government-departments-and-agencies-can-now-purchase]] — U.S. federal departments and agencies can now more quickly and easily get access to Claude
+- [[anthropic-news-federal-government-departments-and-agencies-can-now-purchase-claude-through-the-]] — U.S. federal departments and agencies can now more quickly and easily get access to Claude
 - [[anthropic-news-github-copilot]] — Claude 3.5 Sonnet on GitHub Copilot
 - [[anthropic-news-golden-gate-claude]] — Golden Gate Claude
 - [[anthropic-news-head-of-EMEA-new-roles]] — Anthropic Appoints Guillaume Princen as Head of EMEA and Announces 100+ New Roles Across the Region
@@ -126,12 +126,12 @@ and website on 2026-05-22.
 - [[anthropic-news-introducing-the-anthropic-economic-futures-program]] — Anthropic Economic Futures Program Launch
 - [[anthropic-news-investing-in-energy-to-secure-america-s-ai-future]] — Investing in energy to secure America's AI future
 - [[anthropic-news-jay-kreps-appointed-to-board-of-directors]] — Jay Kreps appointed to Anthropic's Board of Directors
-- [[anthropic-news-lawrence-livermore-national-laboratory-expands-claude-for-en]] — Claude for Enterprise Powers LLNL Research
+- [[anthropic-news-lawrence-livermore-national-laboratory-expands-claude-for-enterprise-to-empower-]] — Claude for Enterprise Powers LLNL Research
 - [[anthropic-news-mou-uk-government]] — Anthropic signs MOU with UK Government to explore how AI can transform UK public services
 - [[anthropic-news-model-context-protocol]] — Introducing the Model Context Protocol
 - [[anthropic-news-mike-krieger-joins-anthropic]] — Mike Krieger joins Anthropic as Chief Product Officer
 - [[anthropic-news-model-safety-bug-bounty]] — Expanding our model safety bug bounty program
-- [[anthropic-news-offering-expanded-claude-access-across-all-three-branches-of]] — Offering expanded Claude access across all three branches of government
+- [[anthropic-news-offering-expanded-claude-access-across-all-three-branches-of-government]] — Offering expanded Claude access across all three branches of government
 - [[anthropic-news-paris-ai-summit]] — Statement from Dario Amodei on the Paris AI Action Summit
 - [[anthropic-news-our-approach-to-understanding-and-addressing-ai-harms]] — Understanding and Addressing AI Harms
 - [[anthropic-news-paul-smith-to-join-anthropic]] — Paul Smith to join Anthropic as Chief Commercial Officer
@@ -140,11 +140,11 @@ and website on 2026-05-22.
 - [[anthropic-news-responsible-scaling-policy-v3]] — Responsible Scaling Policy Version 3.0
 - [[anthropic-news-reflections-on-our-responsible-scaling-policy]] — Reflections on our Responsible Scaling Policy
 - [[anthropic-news-salesforce-partnership]] — Salesforce integrates Anthropic's Claude AI to boost Einstein capabilities
-- [[anthropic-news-securing-america-s-compute-advantage-anthropic-s-position-on]] — Anthropic's AI Export Controls Framework Response
+- [[anthropic-news-securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule]] — Anthropic's AI Export Controls Framework Response
 - [[anthropic-news-statement-department-of-war]] — Statement from Dario Amodei on our discussions with the Department of War
 - [[anthropic-news-statement-comments-secretary-war]] — Statement on the comments from Secretary of War Pete Hegseth
 - [[anthropic-news-statement-dario-amodei-american-ai-leadership]] — A statement from Dario Amodei on Anthropic's commitment to American AI leadership
-- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our]] — Progress from our Frontier Red Team
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]] — Progress from our Frontier Red Team
 - [[anthropic-news-the-anthropic-economic-index]] — Introducing the Anthropic Economic Index
 - [[anthropic-news-testing-and-mitigating-elections-related-risks]] — Testing and mitigating elections-related risks
 - [[anthropic-news-testing-our-safety-defenses-with-a-new-bug-bounty-program]] — Testing our safety defenses with a new bug bounty program

@@ -30,4 +30,4 @@ controlled red-team scenarios and develops mitigations.
 - [[deceptive-alignment]]
 - [[alignment-faking]]
 - [[reward-hacking-and-tampering]]
-- [[frontier-red-team]]
+- [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
