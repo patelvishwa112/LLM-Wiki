@@ -12,3 +12,9 @@ sha256: 166c8a42b09f30cdd636faa6be00fc47e642392adce658d055edd4d4e001f778
 **Ingested:** 2026-05-22
 
 A paper from Anthropic describing a new way to guard LLMs against jailbreaking
+
+## Related
+
+- [[anthropic-publications]]
+- [[constitutional-ai]]
+- [[jailbreaks-and-defenses]]

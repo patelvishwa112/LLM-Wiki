@@ -14,3 +14,7 @@ sha256: 2264facf766bfa003992ea7c06c52be8981adfa9c1f61fbc52e1595aa402b6ac
 **Ingested:** 2026-05-22
 
 [PDF document - not extractable via web] Title: Reasoning Models Don't Always Say What They Think
+
+## Related
+
+- [[extended-thinking]]

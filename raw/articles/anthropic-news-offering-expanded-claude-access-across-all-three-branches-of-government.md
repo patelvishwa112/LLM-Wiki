@@ -12,3 +12,7 @@ sha256: 3b9c90ee7a89de1e25e2986296076d56f69541938af7e7bb1da2c2fa2d29d8b2
 **Ingested:** 2026-05-22
 
 We are removing barriers to government AI adoption by offering Claude for Enterprise and Claude for Government to all three branches of government, including federal civilian executive branch agencies, as well as legislative and judiciary branches of government, for $1.
+
+## Related
+
+- [[anthropic]]

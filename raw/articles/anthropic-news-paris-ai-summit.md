@@ -12,3 +12,9 @@ sha256: f203adb9a06f39e8a886269a425ff44f843db25855a5c70c1559835169264766
 **Ingested:** 2026-05-22
 
 A call for greater focus and urgency
+
+## Related
+
+- [[ai-policy-and-regulation]]
+- [[anthropic-publications]]
+- [[dario-amodei]]

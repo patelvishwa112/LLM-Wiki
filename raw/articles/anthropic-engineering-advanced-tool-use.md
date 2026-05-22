@@ -12,3 +12,8 @@ sha256: e91db430a93137a8db04bd4f4105df39b50ec71d1d6888e7b0bd7ff3320b0999
 **Ingested:** 2026-05-22
 
 Claude can now discover, learn, and execute tools dynamically to enable agents that take action in the real world. Here’s how.
+
+## Related
+
+- [[ai-agents]]
+- [[anthropic-publications]]

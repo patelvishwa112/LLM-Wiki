@@ -12,3 +12,8 @@ sha256: db9213c2e155675f0a1affb3b0a857f2216ca004b7b5220ae789ec548b89776a
 **Ingested:** 2026-05-22
 
 All modern language models sometimes act like they have emotions. What’s behind these behaviors? Our interpretability team investigates.
+
+## Related
+
+- [[anthropic-publications]]
+- [[model-welfare]]

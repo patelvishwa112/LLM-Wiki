@@ -12,3 +12,8 @@ sha256: cda35b99e99c18b65b87a8708300b33382a9858e82535e45234ee83d25d715e3
 **Ingested:** 2026-05-22
 
 The Model Context Protocol (MCP) is an open standard for connecting AI assistants to the systems where data lives, including content repositories, business tools, and development environments. Its aim is to help frontier models produce better, more relevant responses.
+
+## Related
+
+- [[anthropic-publications]]
+- [[model-context-protocol]]

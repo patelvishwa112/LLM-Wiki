@@ -12,3 +12,8 @@ sha256: e46cde029061638dee0548cc1686506c46b20efbfc774118e47b07e057611584
 **Ingested:** 2026-05-22
 
 A paper from Anthropic describing persona vectors and their applications to monitoring and controlling model behavior
+
+## Related
+
+- [[anthropic-publications]]
+- [[persona-vectors]]

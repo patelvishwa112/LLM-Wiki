@@ -17,3 +17,11 @@
 - Updated index.md with full catalog
 - **Total raw sources:** 216
 - **Total wiki pages:** 224
+
+## [2026-05-22] organize | Claude Code: Wiki graph reorganization
+- Expanded SCHEMA.md tag taxonomy with 40+ explicit tags
+- Created 32 concept pages covering all major Anthropic research areas
+- Created 7 entity pages (Anthropic org, people, tools, programs)
+- Added `## Related` backlinks to 216 raw source files
+- Total wiki pages: 258 (39 concepts/entities + 216 raw + 3 meta)
+- Ready for Obsidian graph view

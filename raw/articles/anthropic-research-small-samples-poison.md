@@ -12,3 +12,7 @@ sha256: 91ff88a31ec347e6f8887222958345cfbe827a3de63aba69b2a8b93608aa2d73
 **Ingested:** 2026-05-22
 
 Anthropic research on data-poisoning attacks in large language models
+
+## Related
+
+- [[anthropic-publications]]

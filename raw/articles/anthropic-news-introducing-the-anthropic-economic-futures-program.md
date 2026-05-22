@@ -12,3 +12,7 @@ sha256: 093aa0bed2e38f1a7adda327787607e1be1dc872fcf69d871afffcde66d3fa13
 **Ingested:** 2026-05-22
 
 Anthropic's new research initiative exploring AI's impact on the future of work and economy, developing policy frameworks for a changing workforce.
+
+## Related
+
+- [[anthropic-publications]]

@@ -12,3 +12,8 @@ sha256: 9d2f40d83fcf824b5367994f2e6d2485b77fc281aca77696a766746c81b89a25
 **Ingested:** 2026-05-22
 
 Claude for Education
+
+## Related
+
+- [[anthropic-publications]]
+- [[claude-for-education]]

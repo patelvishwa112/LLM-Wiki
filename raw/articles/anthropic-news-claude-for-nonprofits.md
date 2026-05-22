@@ -12,3 +12,8 @@ sha256: 23112de9fb0dbc4e1f770a8121157dce90fa1f139faccdb682f0d82493881563
 **Ingested:** 2026-05-22
 
 Anthropic launches Claude for Nonprofits to help organizations maximize their impact, featuring free AI training and discounted rates for nonprofits.
+
+## Related
+
+- [[anthropic-publications]]
+- [[enterprise-and-industry-applications]]

@@ -12,3 +12,8 @@ sha256: 5471ed5fdb009fcd643fd2936cb6f4fb8454b7feaaa6b6cced8814d199158012
 **Ingested:** 2026-05-22
 
 Discussing Claude's new thought process
+
+## Related
+
+- [[anthropic-publications]]
+- [[extended-thinking]]

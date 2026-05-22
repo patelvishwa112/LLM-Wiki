@@ -12,3 +12,8 @@ sha256: 53e28867a4841bf1476b885ecc5da3886f18568e9594b76d4ed8c59ebe4ee81e
 **Ingested:** 2026-05-22
 
 Announcing a dramatic increase in Anthropic's compute resources
+
+## Related
+
+- [[anthropic-publications]]
+- [[anthropic]]

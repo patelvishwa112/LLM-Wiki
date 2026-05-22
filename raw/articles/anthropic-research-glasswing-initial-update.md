@@ -12,3 +12,7 @@ sha256: cace17cbdb126874d211944f683a62447e679bc5ade39d4f24ff063006f357e3
 **Ingested:** 2026-05-22
 
 An early update on what we've learned from Project Glasswing.
+
+## Related
+
+- [[anthropic-publications]]

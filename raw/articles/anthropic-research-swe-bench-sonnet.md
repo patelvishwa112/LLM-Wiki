@@ -12,3 +12,8 @@ sha256: 74344ffe6ae1c0a46078d91c1dc53f594a2097c3f557da50498d83bfec2ea1d1
 **Ingested:** 2026-05-22
 
 Explore Claude's breakthrough performance on SWE-Bench, demonstrating advanced software engineering capabilities and code generation accuracy. Learn about our technical evaluation methods.
+
+## Related
+
+- [[anthropic-publications]]
+- [[claude-code]]

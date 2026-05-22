@@ -12,3 +12,8 @@ sha256: 27fef29416c7e2261cfbe5811e3e007968658c960491ef62e073668344cf2190
 **Ingested:** 2026-05-22
 
 A statement from our CEO on national security uses of AI
+
+## Related
+
+- [[anthropic-publications]]
+- [[dario-amodei]]

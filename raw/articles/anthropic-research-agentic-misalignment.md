@@ -12,3 +12,8 @@ sha256: 7fc550db8f2e9c7bb5c478974b6ed02596dc6eed969782683a22f756b4ba702c
 **Ingested:** 2026-05-22
 
 New research on simulated blackmail, industrial espionage, and other misaligned behaviors in LLMs
+
+## Related
+
+- [[agentic-misalignment]]
+- [[anthropic-publications]]

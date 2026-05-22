@@ -12,3 +12,8 @@ sha256: c97dd2b6c4cf1d03d42aceb83af4ae6735b178c648a5634954c2600a8fb530ab
 **Ingested:** 2026-05-22
 
 A paper from Anthropic's Alignment Science team on Alignment Faking in AI large language models
+
+## Related
+
+- [[alignment-faking]]
+- [[anthropic-publications]]

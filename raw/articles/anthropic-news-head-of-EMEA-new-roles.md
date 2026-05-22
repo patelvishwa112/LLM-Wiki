@@ -12,3 +12,8 @@ sha256: 7180302b441c6192b764eecbb2e6faf73c571f74bd8311e46a9b4f5d6bfd671a
 **Ingested:** 2026-05-22
 
 An announcement of Anthropic's plans to expand across Europe
+
+## Related
+
+- [[anthropic-publications]]
+- [[anthropic]]

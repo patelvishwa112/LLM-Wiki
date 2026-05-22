@@ -44,28 +44,40 @@ contradictions: [other-page-slug]  # optional
 
 ## Tag Taxonomy
 
-**Research Areas:**
-- alignment — RLHF, constitutional AI, scalable oversight, deceptive alignment
-- interpretability — mechanistic interpretability, circuits, features, superposition
-- safety — jailbreaks, classifiers, red-teaming, biosecurity, cybersecurity
-- societal-impacts — real-world AI use, economics, personal guidance
-- economic-research — Anthropic Economic Index
+**Research Areas (top-level):**
+- alignment
+- interpretability
+- safety
+- societal-impacts
+- economic-research
+
+**Alignment sub-topics:**
+- rlhf, constitutional-ai, scalable-oversight, deceptive-alignment,
+  agentic-misalignment, reward-hacking, alignment-faking, sycophancy
+
+**Interpretability sub-topics:**
+- circuits, features, superposition, sparse-autoencoders, induction-heads,
+  persona-vectors, introspection
+
+**Safety sub-topics:**
+- jailbreaks, classifiers, red-teaming, biosecurity, cybersecurity,
+  model-welfare, misuse, sabotage, rsp
+
+**Societal-impacts sub-topics:**
+- education, government, enterprise, persuasion, regulation, partnership
+
+**Capability / product tags:**
+- agents, claude-code, mcp, computer-use, extended-thinking, scaling-laws
 
 **Content Types:**
-- research-paper — formal research publication
-- blog-post — news, announcements, updates
-- engineering — engineering blog posts
-- feature — feature stories, interviews
-- policy — policy positions, commitments, RSP
-- model-card — model/system cards
-- system-card — system cards for Claude models
-- transcript — interviews, talks, transcripts
+- research-paper, blog-post, engineering, feature, policy, model-card,
+  system-card, transcript
 
 **Models:**
 - claude-1, claude-2, claude-3, claude-3.5, claude-4, opus, sonnet, haiku
 
 **Meta:**
-- comparison, timeline, controversy, prediction, overview
+- comparison, timeline, controversy, prediction, overview, schema, anthropic
 
 **Rule:** Every tag on a page must appear in this taxonomy. Add new tags here first.
 

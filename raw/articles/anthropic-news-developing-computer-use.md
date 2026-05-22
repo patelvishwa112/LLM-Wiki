@@ -12,3 +12,8 @@ sha256: c447ce9c7f123f5f5ca519aa2e2c152f31bc9b9fe94f9704849924117317a59a
 **Ingested:** 2026-05-22
 
 Developing a computer use model
+
+## Related
+
+- [[anthropic-publications]]
+- [[computer-use]]

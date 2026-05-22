@@ -12,3 +12,8 @@ sha256: 3eb5d00b97775f2864e88e4e87484b2eddbc9b22c9a09fbc53a2f68e92f7e24c
 **Ingested:** 2026-05-22
 
 Build AI in America: Anthropic Energy Report
+
+## Related
+
+- [[anthropic-publications]]
+- [[anthropic]]

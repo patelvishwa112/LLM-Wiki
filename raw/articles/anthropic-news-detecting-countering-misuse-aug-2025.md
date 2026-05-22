@@ -12,3 +12,8 @@ sha256: 04b8d641220ed8a67baaee4db33037dd84d2263639210a4c2e028b8f9d9d6c0b
 **Ingested:** 2026-05-22
 
 Anthropic's threat intelligence report on AI cybercrime and other abuses
+
+## Related
+
+- [[anthropic-publications]]
+- [[detecting-misuse]]

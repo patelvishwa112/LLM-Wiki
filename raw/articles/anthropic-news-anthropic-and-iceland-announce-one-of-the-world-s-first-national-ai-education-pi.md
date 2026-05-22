@@ -12,3 +12,7 @@ sha256: a2c695e9a42fb2194e85516b8a286cc7bcac12e8f229dec0f8a8d5d509b520b3
 **Ingested:** 2026-05-22
 
 Anthropic and Iceland announce national AI education pilot
+
+## Related
+
+- [[claude-for-education]]

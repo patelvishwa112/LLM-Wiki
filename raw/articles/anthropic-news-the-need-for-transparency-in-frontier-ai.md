@@ -12,3 +12,8 @@ sha256: a3b4455b5eeb688efb382f2174e9bb8706c2916ed7a27a48be444f0f575b5756
 **Ingested:** 2026-05-22
 
 A targeted approach to increasing transparency in frontier AI development, focusing on safety standards and accountability measures for advanced AI systems.
+
+## Related
+
+- [[ai-policy-and-regulation]]
+- [[anthropic-publications]]

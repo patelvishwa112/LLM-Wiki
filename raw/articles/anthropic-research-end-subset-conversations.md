@@ -12,3 +12,8 @@ sha256: 692f9ce328b511064ab6d3e7056ce146798d435b7e8cca310aaf06d044b40144
 **Ingested:** 2026-05-22
 
 An update on our exploratory research on model welfare
+
+## Related
+
+- [[anthropic-publications]]
+- [[model-welfare]]

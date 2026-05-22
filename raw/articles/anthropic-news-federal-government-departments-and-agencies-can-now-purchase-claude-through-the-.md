@@ -12,3 +12,7 @@ sha256: 1af005ed713ea88e00c0c160f2da56c0a40b659d4f54481fd907a26aa46dc7e9
 **Ingested:** 2026-05-22
 
 Claude is now available for purchase through the General Services Administration (GSA) schedule, making it easier for all U.S. federal government departments and agencies to quickly access Claude, with pre-negotiated pricing and terms that comply with federal acquisition regulations.
+
+## Related
+
+- [[anthropic]]

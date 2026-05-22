@@ -12,3 +12,7 @@ sha256: 7e339d1b515acee6ce762a555b2591ec9742ef897110a707a31af2d4beeddf79
 **Ingested:** 2026-05-22
 
 Anthropic submits detailed recommendations for strengthening US export controls on advanced AI chips and model weights. We advocate for maintaining America's compute advantage, adjusting tiering systems, and reducing no-license thresholds to secure AI leadership.
+
+## Related
+
+- [[ai-policy-and-regulation]]

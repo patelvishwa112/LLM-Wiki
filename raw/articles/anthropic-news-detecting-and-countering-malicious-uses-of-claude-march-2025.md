@@ -12,3 +12,8 @@ sha256: e21bffbee1461cc9210e82b33e037e7643598ea13948b7e6142f8496fb348c5e
 **Ingested:** 2026-05-22
 
 Detecting and Countering Malicious Uses of Claude
+
+## Related
+
+- [[anthropic-publications]]
+- [[detecting-misuse]]

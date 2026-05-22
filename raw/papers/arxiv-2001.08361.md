@@ -14,3 +14,7 @@ sha256: 7a4b44df0e54324b169604bcbdc287baf786385b858fd8b3dda98327aee4a1f9
 **Ingested:** 2026-05-22
 
 [Scraping failed: Bad Request: Failed to scrape. Server returned non-JSON response: 400 Bad Request - Full response status: 400] Title: Scaling Laws for Neural Language Models. See: https://arxiv.org/abs/2001.08361
+
+## Related
+
+- [[scaling-laws]]

@@ -12,3 +12,8 @@ sha256: 44c3d52d529d3fd152a3fab1d4b29b36c5a06c6718b8871891703434587a0fca
 **Ingested:** 2026-05-22
 
 A refreshed, more powerful Claude 3.5 Sonnet, Claude 3.5 Haiku, and a new experimental AI capability: computer use.
+
+## Related
+
+- [[anthropic-publications]]
+- [[computer-use]]

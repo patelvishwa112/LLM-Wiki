@@ -12,3 +12,7 @@ sha256: d232b3666591bfae162f4fa5fc9a2e49c29c4607a11045b7aece10814b71a40b
 **Ingested:** 2026-05-22
 
 Anthropic's latest interpretability research: a new microscope to understand Claude's internal mechanisms
+
+## Related
+
+- [[anthropic-publications]]

@@ -12,3 +12,8 @@ sha256: 59e833c0624690661aeb95e94738608b25b634dc2ccc3792527ee5d171349c82
 **Ingested:** 2026-05-22
 
 A blog post for developers, describing a new method for complex tool-use situations
+
+## Related
+
+- [[ai-agents]]
+- [[anthropic-publications]]

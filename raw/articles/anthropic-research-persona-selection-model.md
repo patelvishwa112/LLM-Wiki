@@ -12,3 +12,8 @@ sha256: b5785ab07c5f2e84f60e9d0198f7fa417e0a9db3afc38f20e832d8c75feb7340
 **Ingested:** 2026-05-22
 
 A theory of why AI models act like humans
+
+## Related
+
+- [[anthropic-publications]]
+- [[persona-vectors]]

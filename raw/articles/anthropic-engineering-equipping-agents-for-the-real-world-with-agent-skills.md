@@ -12,3 +12,8 @@ sha256: 21f048317d050d9fdbd2c92a75b04d7e0bfa513e244e715c7db33bbe30085264
 **Ingested:** 2026-05-22
 
 Discover how Anthropic builds AI agents with practical capabilities through modular skills, enabling them to handle complex real-world tasks more effectively and reliably.
+
+## Related
+
+- [[ai-agents]]
+- [[anthropic-publications]]

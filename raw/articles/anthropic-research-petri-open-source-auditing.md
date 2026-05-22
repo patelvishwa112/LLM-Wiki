@@ -12,3 +12,7 @@ sha256: a6be5ca1953bb83f8ba0170826c81dc8b3749d444c4bcdb95da5f8367554810f
 **Ingested:** 2026-05-22
 
 A new automated auditing tool for AI safety research
+
+## Related
+
+- [[anthropic-publications]]

@@ -12,3 +12,8 @@ sha256: 4d81a3ca5300ec2c59ef285eb7136834b233d2019a591b76a604d3579ec89bf8
 **Ingested:** 2026-05-22
 
 Alongside other leading AI companies, we’re committed to implementing robust child safety measures in the development, deployment, and maintenance of generative AI technologies.
+
+## Related
+
+- [[anthropic-publications]]
+- [[anthropic]]

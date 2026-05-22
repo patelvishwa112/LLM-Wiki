@@ -12,3 +12,8 @@ sha256: ddb0752d6a922c27dad2e223ab56871f122f72c2fa5b81c991732de1cb2bb812
 **Ingested:** 2026-05-22
 
 Anthropic economic research on productivity gains
+
+## Related
+
+- [[anthropic-publications]]
+- [[claude-code]]

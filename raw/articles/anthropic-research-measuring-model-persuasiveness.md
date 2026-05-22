@@ -12,3 +12,8 @@ sha256: 59be256700d2c35a63eac9010cde0ecd1f84dd5f55b7f508e4edd73c18d795b2
 **Ingested:** 2026-05-22
 
 Anthropic developed a way to test how persuasive language models (LMs) are, and analyzed how persuasiveness scales across different versions of Claude.
+
+## Related
+
+- [[ai-persuasion]]
+- [[anthropic-publications]]

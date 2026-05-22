@@ -12,3 +12,8 @@ sha256: 73e9530f25810dd8e7bc725719990702e717033b084f1e3603ba91f2d695575c
 **Ingested:** 2026-05-22
 
 A first look at new education-specific integrations, expanded student programs, and university updates.
+
+## Related
+
+- [[anthropic-publications]]
+- [[claude-for-education]]

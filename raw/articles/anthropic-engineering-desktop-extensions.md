@@ -12,3 +12,8 @@ sha256: 02ae490ad84738fa8bd76ce2c1100d434d2a4dc317620a1d16521ba974a79ce7
 **Ingested:** 2026-05-22
 
 Claude Desktop Extensions: One-click MCP server installation for Claude Desktop
+
+## Related
+
+- [[anthropic-publications]]
+- [[model-context-protocol]]

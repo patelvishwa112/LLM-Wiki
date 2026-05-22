@@ -12,3 +12,8 @@ sha256: f2e6d5c93058c603bf3c49781036e3fa37c262a646e08c3118f769466fc454ef
 **Ingested:** 2026-05-22
 
 Lessons and observations from generative AI in the first major election year since Claude has been available.
+
+## Related
+
+- [[anthropic-publications]]
+- [[detecting-misuse]]

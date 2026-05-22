@@ -12,3 +12,7 @@ sha256: dd7756f2b3677c844aa1ca6c723546c1dfc5a10ed2e769bfd34ef4e04d8cf335
 **Ingested:** 2026-05-22
 
 The second update from the Anthropic Economic Index
+
+## Related
+
+- [[anthropic-publications]]

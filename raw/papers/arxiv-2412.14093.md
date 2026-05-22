@@ -14,3 +14,7 @@ sha256: 76b19e8eca5a7471816beae3fe6de1f567a855e7348cb22fdcc830f89989efbd
 **Ingested:** 2026-05-22
 
 [Scraping failed: Bad Request: Failed to scrape. Server returned non-JSON response: 400 Bad Request - Full response status: 400] Title: Alignment Faking in Large Language Models. See: https://arxiv.org/abs/2412.14093
+
+## Related
+
+- [[alignment-faking]]

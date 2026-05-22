@@ -12,3 +12,8 @@ sha256: dcf32550799b56351e2c08671db055a2ad2dd7986f961312d4449a4f4253affd
 **Ingested:** 2026-05-22
 
 A new set of evaluations to test the sabotage and monitoring capabilities of LLM AI models
+
+## Related
+
+- [[anthropic-publications]]
+- [[deceptive-alignment]]

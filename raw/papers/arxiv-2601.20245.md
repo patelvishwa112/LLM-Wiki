@@ -14,3 +14,7 @@ sha256: 4104f3709669a2af76432c955892f427013490ec08b41141974693e59e77c21a
 **Ingested:** 2026-05-22
 
 [Scraping failed: Bad Request: Failed to scrape. Server returned non-JSON response: 400 Bad Request - Full response status: 400] Title: How AI Impacts Skill Formation (Coding Skills Study). See: https://arxiv.org/abs/2601.20245
+
+## Related
+
+- [[anthropic]]

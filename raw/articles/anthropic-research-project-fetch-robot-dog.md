@@ -12,3 +12,7 @@ sha256: db41fafc360d2a585bd5900575c0ce3e949541b004bc197c1e908442d70aee1c
 **Ingested:** 2026-05-22
 
 A practical experiment on AI's ability to affect the physical world
+
+## Related
+
+- [[anthropic-publications]]

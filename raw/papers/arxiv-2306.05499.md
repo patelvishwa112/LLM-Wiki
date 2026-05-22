@@ -14,3 +14,7 @@ sha256: 14d637bebeef685fe9da15f1a7785ff5a39bc733e0dd9ae8bc232b429f8309c9
 **Ingested:** 2026-05-22
 
 [Scraping failed: Bad Request: Failed to scrape. Server returned non-JSON response: 400 Bad Request - Full response status: 400] Title: Prompt Injection Attacks on LLM-Integrated Applications. See: https://arxiv.org/abs/2306.05499
+
+## Related
+
+- [[jailbreaks-and-defenses]]

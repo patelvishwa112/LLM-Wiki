@@ -12,3 +12,7 @@ sha256: ab72001d5430d23248b5090dddd3be2582d8e4f5f3b5d5964dc9b95656bfe02f
 **Ingested:** 2026-05-22
 
 Anthropic collaborates with the University of Chicago's Becker Friedman Institute to research AI's effects on labor markets, productivity, and economic distribution, enhancing our Economic Index initiative with expert analysis.
+
+## Related
+
+- [[anthropic-economic-index]]

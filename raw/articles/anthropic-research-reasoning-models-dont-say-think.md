@@ -12,3 +12,8 @@ sha256: 76a5d18dcc365217f963eb5c35ee7c62dfdf5b28a226b123525c085fdb84aa43
 **Ingested:** 2026-05-22
 
 Research from Anthropic on the faithfulness of AI models' Chain-of-Thought
+
+## Related
+
+- [[anthropic-publications]]
+- [[extended-thinking]]

@@ -12,3 +12,7 @@ sha256: cf33d9a8aaa4cad84a27c1980118fbeb19cd10f956a216f33b8bdbb94f5fe640
 **Ingested:** 2026-05-22
 
 How Claude turned around its failing vending machine business
+
+## Related
+
+- [[anthropic-publications]]

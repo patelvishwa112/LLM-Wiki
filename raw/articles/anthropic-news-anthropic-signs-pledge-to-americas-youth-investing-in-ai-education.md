@@ -12,3 +12,7 @@ sha256: 15f65d71c1cd46a5c62a24c976dfbe6bd1f4a735f6cac8fd9c7498e0ec353ee4
 **Ingested:** 2026-05-22
 
 Anthropic signs White House pledge investing in AI education for America's youth, supporting AI students and educators nationwide
+
+## Related
+
+- [[claude-for-education]]

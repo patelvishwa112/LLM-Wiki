@@ -14,3 +14,9 @@ sha256: b40d593decacaaf45619bd4006d6b05d9a8d394797a8066d304732ffa3de3f1c
 **Ingested:** 2026-05-22
 
 [Scraping failed: Bad Request: Failed to scrape. Server returned non-JSON response: 400 Bad Request - Full response status: 400] Title: Reward Modeling for Mitigating Overoptimization in RLHF. See: https://arxiv.org/abs/2210.10760
+
+## Related
+
+- [[reward-hacking-and-tampering]]
+- [[rlhf]]
+- [[scalable-oversight]]

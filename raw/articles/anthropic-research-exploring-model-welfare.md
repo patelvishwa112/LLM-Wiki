@@ -12,3 +12,8 @@ sha256: d4949765c4af0122aba230d509649a16d154589f90752cb08370bc7eef1e58b0
 **Ingested:** 2026-05-22
 
 Announcing a new research program at Anthropic on model welfare
+
+## Related
+
+- [[anthropic-publications]]
+- [[model-welfare]]

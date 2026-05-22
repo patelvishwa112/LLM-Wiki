@@ -12,3 +12,8 @@ sha256: c679143cc20ff255c0f6f6fb75192026182b24743f461573d6d6142ff28675a3
 **Ingested:** 2026-05-22
 
 A collaboration between Anthropic's Alignment Science and Interpretability teams
+
+## Related
+
+- [[anthropic-publications]]
+- [[deceptive-alignment]]

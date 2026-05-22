@@ -14,3 +14,7 @@ sha256: 6d2e27d812eb5a7705e6865d75dd60dc5c15973aade4540507e42a140c5ce327
 **Ingested:** 2026-05-22
 
 [PDF document - not extractable via web] Title: Claude 3.7 Sonnet System Card
+
+## Related
+
+- [[anthropic]]

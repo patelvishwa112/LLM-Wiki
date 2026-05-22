@@ -12,3 +12,8 @@ sha256: 2de61bd2f635c9a0fb252f8c511313797e2e462be824db051f3e94020c963239
 **Ingested:** 2026-05-22
 
 Demystifying evals for AI agents
+
+## Related
+
+- [[ai-agents]]
+- [[anthropic-publications]]

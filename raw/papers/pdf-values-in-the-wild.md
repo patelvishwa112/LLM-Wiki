@@ -14,3 +14,7 @@ sha256: e8b4455fbe38e1d837fe60f23ec1c8c424e1441885c8bffb4ff266fb4c4b1221
 **Ingested:** 2026-05-22
 
 [PDF document - not extractable via web] Title: Values in the Wild
+
+## Related
+
+- [[claude-values-and-character]]
