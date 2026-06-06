@@ -75,6 +75,7 @@
 - [[llm-engineering-projects-roadmap-2026]] — [Step-By-Step LLM Engineering Projects (2026 Edition)](https://x.com/theahmadosman/status/2058745340895870985)
 - [[claude-code-self-correcting-setup]] — [How to Make Claude Code Fix Its Own Mistakes Automatically](https://x.com/zodchiii/status/2059563487676784696)
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
+- [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 
 ### Coding Tools
 
@@ -290,6 +291,7 @@
 - [[memory-is-retained-consequence]] `[memory, agents, enterprise, knowledge-graphs, infrastructure]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] `[training, rl, models, microsoft, mai, data-quality, ablations]`
 - [[mid-career-dissatisfaction]] `[career, productivity]`
+- [[mlx-engine-v185-kv-cache-agentic]] `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving, optimization]`
 - [[mnilax]] `[ai-ml]`
 - [[mnilax]] `[ai-ml]`
 - [[mushtaqbilalphd]] `[models]`
