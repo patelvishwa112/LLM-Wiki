@@ -2,12 +2,20 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 340 unique tags across 150 processed notes.
+> 345 unique tags across 151 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
 
-### agents (49)
+### agent-architecture (5)
+
+- [[21-agent-building-mistakes]]
+- [[coding-agent-harness-eight-pillars]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[iii-agent-harness-workers]]
+- [[quarq-agent-memory-architecture]]
+
+### agents (50)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -35,6 +43,7 @@
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
+- [[harness-is-the-product-context-aware-agents]]
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
@@ -74,6 +83,14 @@
 - [[rlhf]]
 - [[scalable-oversight]]
 - [[sycophancy]]
+
+### anthropic (5)
+
+- [[anthropic-internal-claude-code-workflow]]
+- [[anthropic-natural-language-autoencoders]]
+- [[anthropic-publications]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[priests-of-agi-interpretability-crisis]]
 
 ### architecture (9)
 
@@ -382,13 +399,6 @@
 - [[anthropic-natural-language-autoencoders]]
 - [[persona-vectors-paper]]
 
-### agent-architecture (4)
-
-- [[21-agent-building-mistakes]]
-- [[coding-agent-harness-eight-pillars]]
-- [[iii-agent-harness-workers]]
-- [[quarq-agent-memory-architecture]]
-
 ### agent-engineering (2)
 
 - [[dive-into-claude-code-vila-lab]]
@@ -422,13 +432,6 @@
 
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[how-to-read-company-ai-analyst]]
-
-### anthropic (4)
-
-- [[anthropic-internal-claude-code-workflow]]
-- [[anthropic-natural-language-autoencoders]]
-- [[anthropic-publications]]
-- [[priests-of-agi-interpretability-crisis]]
 
 ### antigravity (2)
 
@@ -504,6 +507,11 @@
 - [[ai-alignment]]
 - [[claude-values-and-character]]
 - [[constitutional-ai]]
+
+### context-engineering (2)
+
+- [[Agent Systems and Context Engineering Projects 2026]]
+- [[harness-is-the-product-context-aware-agents]]
 
 ### continual-learning (2)
 
@@ -589,6 +597,11 @@
 
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
+
+### harness (2)
+
+- [[coding-agent-harness-eight-pillars]]
+- [[harness-is-the-product-context-aware-agents]]
 
 ### harness-engineering (3)
 
@@ -764,10 +777,11 @@
 - [[exp1-sae-gap-closure-initial-result]]
 - [[persona-vectors-paper]]
 
-### subagents (2)
+### subagents (3)
 
 - [[claude-dynamic-workflows-second-brain]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[harness-is-the-product-context-aware-agents]]
 
 ### superposition (3)
 
@@ -779,6 +793,11 @@
 
 - [[persona-vectors-paper]]
 - [[sycophancy]]
+
+### token-economy (2)
+
+- [[harness-is-the-product-context-aware-agents]]
+- [[opus-48-token-economy-guide]]
 
 ### tools (3)
 
@@ -839,9 +858,12 @@
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
 - **code-review** — [[feedback-loops-claude-code-less-babysitting]]
+- **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
 - **computer-use** — [[computer-use]]
-- **context-engineering** — [[Agent Systems and Context Engineering Projects 2026]]
+- **context-management** — [[harness-is-the-product-context-aware-agents]]
+- **context-rot** — [[harness-is-the-product-context-aware-agents]]
+- **context-window** — [[harness-is-the-product-context-aware-agents]]
 - **copilot** — [[agent-memory-landscape-2026]]
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
 - **course** — [[learn-harness-engineering]]
@@ -896,8 +918,8 @@
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hardware** — [[inference-engines-2026]]
-- **harness** — [[coding-agent-harness-eight-pillars]]
 - **hooks** — [[claude-code-self-correcting-setup]]
+- **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
@@ -1024,7 +1046,6 @@
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
 - **testing** — [[540k-lines-i-didnt-need-garry-tan]]
 - **time-management** — [[units-of-time-alfred-lin]]
-- **token-economy** — [[opus-48-token-economy-guide]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
 - **trading** — [[markov-chains-polymarket-trading]]
