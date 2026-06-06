@@ -1,0 +1,46 @@
+---
+tags: ["interpretability"]
+source: https://x.com/googlegemma/status/2051694045869879749
+date: 2026-05-05
+type: bookmark
+---
+
+# googlegemma
+
+## Key Takeaways
+- URL: https://x.com/googlegemma/status/2051694045869879749
+- - https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+- ![image](https://pbs.twimg.com/media/HHkUMWFbIAA-zo3?format=jpg&name=small)
+- ![image](https://pbs.twimg.com/media/HHGe81YasAEz4_5?format=jpg&name=medium)
+- ![image](https://pbs.twimg.com/media/HHGfk2GaYAAMLmH?format=png&name=small)
+
+## Full Content
+# Tweet by @googlegemma
+URL: https://x.com/googlegemma/status/2051694045869879749
+Date: 2026-05-05T16:02:33.000Z
+
+---
+
+## Links
+
+- https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/
+
+## Images
+
+![image](https://pbs.twimg.com/media/HHkUMWFbIAA-zo3?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHGe81YasAEz4_5?format=jpg&name=medium)
+![image](https://pbs.twimg.com/media/HHGfk2GaYAAMLmH?format=png&name=small)
+![image](https://pbs.twimg.com/media/HHGgJTFaoAAmamF?format=jpg&name=900x900)
+![image](https://pbs.twimg.com/media/HHGgbAQb0AAExSp?format=png&name=small)
+![image](https://pbs.twimg.com/media/HHGgkQhbEAADM2Z?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHGh00CaAAAIvvj?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHGg_zWaAAArpwN?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHGhF5qaEAATM8g?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHGhViXaIAAgO3j?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHGh_4MbUAA6ngV?format=png&name=small)
+![image](https://pbs.twimg.com/media/HHGiFJnbcAAXCT1?format=png&name=small)
+![image](https://pbs.twimg.com/media/HHGiNphbQAAjn0k?format=png&name=900x900)
+
+
+## Source
+[https://x.com/googlegemma/status/2051694045869879749](https://x.com/googlegemma/status/2051694045869879749)

@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Obsidian config (personal settings, plugins)
+.obsidian/
+
+# Personal/sensitive — never push
+Career/
+PERSONAL.md
+
+# Raw scrape artifacts (auto-generated, not curated content)
+raw/scrape_batches.json
+raw/scrape_results.json
+raw/bookmarks_index.json
+raw/bookmark_urls.txt
+
+# Git internals we don't want tracked
+.git/
+
+# Vault cache / temp
+*.tmp
+*.bak

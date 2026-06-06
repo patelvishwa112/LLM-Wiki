@@ -1,0 +1,62 @@
+---
+tags: ["productivity", "papers"]
+source: https://x.com/gauri__gupta/status/2051882947758993815
+date: 2026-05-06
+type: bookmark
+---
+
+# gauri__gupta
+
+## Key Takeaways
+- URL: https://x.com/gauri__gupta/status/2051882947758993815
+- - https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html
+- - https://www.youtube.com/watch?v=LKwyHWYEIMQ&t=14s
+- - https://www.youtube.com/watch?v=nC2nU9j9DVQ
+- - https://www.youtube.com/watch?v=Mn_9W1nCFLo&t=3869s
+
+## Full Content
+# Tweet by @gauri__gupta
+URL: https://x.com/gauri__gupta/status/2051882947758993815
+Date: 2026-05-06T04:33:11.000Z
+
+---
+
+## Links
+
+- https://docs.nvidia.com/deeplearning/performance/dl-performance-matrix-multiplication/index.html
+- https://www.youtube.com/watch?v=LKwyHWYEIMQ&t=14s
+- https://www.youtube.com/watch?v=nC2nU9j9DVQ
+- https://www.youtube.com/watch?v=Mn_9W1nCFLo&t=3869s
+- https://docs.google.com/presentation/d/14hK7SmkUNfSEIRGyptFD2bGO7K9sJOTnwjAVg3vgg6g/edit?slide=id.g286de50af37_0_933#slide=id.g286de50af37_0_933
+- https://www.youtube.com/watch?v=0VdNflU08yA
+- https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
+- https://www.youtube.com/watch?v=hc0u4avAkuM
+- https://www.youtube.com/watch?v=toUSzwR0EV8
+- https://www.youtube.com/watch?v=UVX7SYGCKkA
+- https://docs.google.com/presentation/d/14SxjHdkvIw80FCAu5c1NGvFKDVF5DgvD2MJ1OwQ-5Gs/edit?slide=id.g24fe79ce068_0_154#slide=id.g24fe79ce068_0_154
+- https://arxiv.org/abs/1811.06965
+- https://arxiv.org/abs/1806.03377
+- https://arxiv.org/abs/2011.06448
+- https://arxiv.org/abs/1909.08053
+- https://github.com/NVIDIA/Megatron-LM
+- https://arxiv.org/abs/2105.03824
+- https://arxiv.org/abs/2104.04473
+- https://arxiv.org/abs/2101.03961
+- https://arxiv.org/abs/2112.06905
+- https://arxiv.org/abs/2006.16668
+- https://arxiv.org/abs/2202.08906
+- https://cs229s.stanford.edu/fall2023/calendar/
+- https://web.stanford.edu/class/cs224n/
+- https://docs.nvidia.com/nemo-framework/user-guide/24.07/nemotoolkit/index.html
+- https://lilianweng.github.io/posts/2023-01-10-inference-optimization/
+- https://www.youtube.com/watch?v=hc0u4avAkuM
+- https://www.youtube.com/watch?v=toUSzwR0EV8
+- https://www.youtube.com/watch?v=UVX7SYGCKkA
+
+## Images
+
+![image](https://pbs.twimg.com/media/HHnFA9hbwAAVjo6?format=jpg&name=small)
+
+
+## Source
+[https://x.com/gauri__gupta/status/2051882947758993815](https://x.com/gauri__gupta/status/2051882947758993815)

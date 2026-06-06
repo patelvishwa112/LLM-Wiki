@@ -1,0 +1,46 @@
+---
+tags: ["agents"]
+source: https://x.com/antpalkin/status/2046654122892403188
+date: 2026-04-21
+type: bookmark
+---
+
+# antpalkin
+
+## Key Takeaways
+- URL: https://x.com/antpalkin/status/2046654122892403188
+- - https://polymarket.com/?r=antopotoshka
+- - https://polymarket.com/@coinman2?r=antopotoshka#RLOep5t
+- - https://polymarket.com/@coinman2?r=antopotoshka#RLOep5t
+- - https://github.com/Polymarket/agents
+
+## Full Content
+# Tweet by @antpalkin
+URL: https://x.com/antpalkin/status/2046654122892403188
+Date: 2026-04-21T18:15:42.000Z
+
+---
+
+## Links
+
+- https://polymarket.com/?r=antopotoshka
+- https://polymarket.com/@coinman2?r=antopotoshka#RLOep5t
+- https://polymarket.com/@coinman2?r=antopotoshka#RLOep5t
+- https://github.com/Polymarket/agents
+- https://polymarket.com/@coinman2?r=antopotoshka#RLOep5t
+
+## Images
+
+![image](https://pbs.twimg.com/media/HGcS5ESWAAATI2C?format=png&name=small)
+![image](https://pbs.twimg.com/media/HGcY3vvWwAAyIvQ?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HGcf2LXXYAIMaBz?format=png&name=small)
+![image](https://pbs.twimg.com/media/HGcoE0qW4AA4uot?format=png&name=small)
+![image](https://pbs.twimg.com/media/HGcoV3IWcAAagQz?format=png&name=small)
+![image](https://pbs.twimg.com/media/HGcoh_TWMAA6eMu?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HGcoswCW4AEFe7c?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HGco4tGXUAATpsS?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HGckQlwWwAA-Oml?format=png&name=small)
+
+
+## Source
+[https://x.com/antpalkin/status/2046654122892403188](https://x.com/antpalkin/status/2046654122892403188)

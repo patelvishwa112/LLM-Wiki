@@ -1,0 +1,50 @@
+---
+tags: ["papers", "training"]
+source: https://x.com/neural_avb/status/2054585001757614172
+date: 2026-05-01
+type: bookmark
+---
+
+# neural_avb
+
+## Key Takeaways
+- URL: https://x.com/neural_avb/status/2054585001757614172
+- - https://thinkingmachines.ai/blog/on-policy-distillation/
+- - https://thinkingmachines.ai/blog/on-policy-distillation/
+- - http://arxiv.org/abs/2605.10889
+- - http://paperbreakdown.com/abs/2605.10889
+
+## Full Content
+# Tweet by @neural_avb
+URL: https://x.com/neural_avb/status/2054585001757614172
+Date: 2026-05-01T02:23:07.000Z
+
+---
+
+## Links
+
+- https://thinkingmachines.ai/blog/on-policy-distillation/
+- https://thinkingmachines.ai/blog/on-policy-distillation/
+- http://arxiv.org/abs/2605.10889
+- http://paperbreakdown.com/abs/2605.10889
+
+## Images
+
+![image](https://pbs.twimg.com/media/HINZ8I_bUAAP73a?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINZ2fhaoAESOqU?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINZjotaoAAf8Ci?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HHMv0UFaEAAfCtk?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HH5Er2kbEAAz_OC?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINYxf2bwAAyjp8?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINK6lzbEAA_Ijh?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINMkelaoAA04db?format=png&name=small)
+![image](https://pbs.twimg.com/media/HINLwJWbgAIwwiI?format=jpg&name=900x900)
+![image](https://pbs.twimg.com/media/HINY50XaUAA_z7r?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINZAvcacAAxjBu?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINZMgaaoAARVdF?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINZOodacAAEjmO?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINZVSWa4AEPfpG?format=jpg&name=small)
+
+
+## Source
+[https://x.com/neural_avb/status/2054585001757614172](https://x.com/neural_avb/status/2054585001757614172)

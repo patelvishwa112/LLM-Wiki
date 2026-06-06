@@ -1,0 +1,47 @@
+---
+tags: ["interpretability"]
+source: https://x.com/MushtaqBilalPhD/status/2054565093430493609
+date: 2026-05-13
+type: bookmark
+---
+
+# MushtaqBilalPhD
+
+## Key Takeaways
+- URL: https://x.com/MushtaqBilalPhD/status/2054565093430493609
+- ![image](https://pbs.twimg.com/media/HINHtumXoAAUvIx?format=jpg&name=small)
+- ![image](https://pbs.twimg.com/media/HINGXqkW0AAh0Ck?format=jpg&name=small)
+- ![image](https://pbs.twimg.com/media/HINGbMSWEAE3uP4?format=jpg&name=small)
+- ![image](https://pbs.twimg.com/media/HINGt5MXsAEjV5O?format=jpg&name=small)
+
+## Full Content
+# Tweet by @MushtaqBilalPhD
+URL: https://x.com/MushtaqBilalPhD/status/2054565093430493609
+Date: 2026-05-13T14:11:04.000Z
+
+---
+
+## Images
+
+![image](https://pbs.twimg.com/media/HINHtumXoAAUvIx?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINGXqkW0AAh0Ck?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINGbMSWEAE3uP4?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINGt5MXsAEjV5O?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINGw3mWMAE1kw3?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HING0PrXEAAJspe?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HING3MTXMAA5xiM?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HING7OFXgAETYe3?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHFMqXYAA7L3N?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHH9ZXgAEZbxF?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHLQ8XQAA7pkk?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHPbjXQAARcm3?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHTfOWMAAWJHC?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHWB-XYAAjWh9?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHY6tXAAAUiXZ?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHdHpXUAA4lmp?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHlzTWEAA5aF1?format=jpg&name=small)
+![image](https://pbs.twimg.com/media/HINHp-nXwAAWaf8?format=jpg&name=small)
+
+
+## Source
+[https://x.com/MushtaqBilalPhD/status/2054565093430493609](https://x.com/MushtaqBilalPhD/status/2054565093430493609)
