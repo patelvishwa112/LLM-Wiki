@@ -83,6 +83,7 @@
 - [[deepseek-v4-now-speaks-claude-code-natively]] — [DeepSeek V4 now speaks Claude Code natively.](https://x.com/godofprompt/status/2052798956699017621)
 - [[15-claude-code-settings-most-developers-never-touc]] — [15 Claude Code Settings Most Developers Never Touch (And Why They Should)](https://x.com/zodchiii/status/2053042131111927976)
 - [[problem-first-skill-invert-bad-ideas]] — [/problem-first: a simple skill to invert bad ideas](https://x.com/nurijanian/status/2063186118409929161) `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
+- [[pm-as-context-compressor]] — [The PM as the Context Compressor](https://x.com/nurijanian/status/2063188643683192835) `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 
 ### Design
@@ -300,7 +301,8 @@
 - [[new-anthropic-research-natural-language-autoencode]] `[evals, papers]`
 - [[new-blackboard-lecture-w]] `[papers, models]`
 - [[nrehiew]] `[papers, training]`
-- [[parameter-decomposition-has-just-started-working-o]] `[models, interpretability]`
+- [[persona-vectors-paper]] `[interpretability, safety, steering]`
+- [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`
 - [[problem-first-skill-invert-bad-ideas]] `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[ramplabs]] `[ai-ml]`
