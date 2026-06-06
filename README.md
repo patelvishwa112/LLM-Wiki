@@ -43,9 +43,7 @@ SCHEMA.md               — Frontmatter spec and tag taxonomy
 
 ## Using with an AI Agent
 
-This wiki is designed for agent consumption. Point your agent at `CLAUDE.md` for navigation conventions. Use tag-based search for topic retrieval. Processed notes have structured YAML frontmatter optimized for programmatic access.
-
-See the [wiki-search skill](https://github.com/patelvishwa112/LLM-Wiki) for a retrieval playbook that works with the vault structure.
+This wiki is designed for agent consumption. Point your agent at `CLAUDE.md` for navigation conventions. Use `entities/TAG-INDEX.md` for tag-to-article cross-referencing. Processed notes have structured YAML frontmatter optimized for programmatic access.
 
 ## Contributing
 
