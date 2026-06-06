@@ -8,14 +8,13 @@ An open, compunding knowledge graph of AI research, agent architectures, prompt 
 
 ```
 raw/                    — Raw scraped articles (author_statusid.md)
+  anthropic/            —   Anthropic research: articles, papers, transcripts
 processed/              — Synthesized notes with YAML frontmatter
   tags: [...]           —   Multi-domain tags
   source: URL           —   Link back to original
-  type: bookmark        —   Content classification
+  type: concept         —   Note type: bookmark, concept, entity, comparison
   related: [[...]]      —   Explicit wikilinks
-concepts/               — Concept explainer pages
-entities/               — Entity profiles (companies, projects, people)
-comparisons/            — Head-to-head comparison notes
+entities/               — Entity profiles (companies, people, projects, models)
 Bookmarks Index.md      — Master index by topic + A-Z
 CLAUDE.md               — Vault conventions and navigation
 SCHEMA.md               — Frontmatter spec and tag taxonomy

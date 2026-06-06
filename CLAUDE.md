@@ -9,13 +9,17 @@
 
 ```
 raw/                    — Raw scraped articles (author_statusid.md)
-processed/              — Processed/synthesized wiki notes with YAML frontmatter
+  anthropic/            —   Anthropic research: articles, papers, transcripts
+processed/              — Processed/synthesized notes with YAML frontmatter
   tags: [...]           —   Multi-domain tags for cross-topic reasoning
   source: URL           —   Link back to original
-  type: bookmark        —   Content classification
+  type: concept         —   Note type: bookmark, concept, entity, comparison
   related: [[...]]      —   Explicit wikilinks to connected notes
+entities/               — Entity profiles (companies, people, projects, models)
 Bookmarks Index.md      — Master index organized by topic
 SCHEMA.md               — Structural conventions
+CLAUDE.md               — Vault conventions and navigation
+PERSONAL.md             — Personal context (gitignored)
 ```
 
 ## Knowledge Domains (by tag cluster)
