@@ -43,6 +43,53 @@ PERSONAL.md             — Personal context (gitignored)
 4. **Cross-domain is where insight lives.** The most valuable connections live between domains — e.g., Markov Chain state transitions ↔ agent FSM design ↔ browser workflow convergence.
 5. **The Bookmarks Index is the entry point.** It organizes everything by topic. Start there when exploring a new domain.
 
+## Vault Operations
+
+### File Placement Rules
+
+Every file has exactly one correct home:
+
+| Content Type | Destination | Example |
+|-------------|-------------|---------|
+| Raw scraped article (X, web, paper) | `raw/author_statusid.md` | `raw/nurijanian_2063186118409929161.md` |
+| Anthropic research source | `raw/anthropic/articles/` or `papers/` | `raw/anthropic/papers/arxiv-2204.05862.md` |
+| Synthesized/processed note | `processed/slug.md` | `processed/problem-first-skill-invert-bad-ideas.md` |
+| Entity profile (company, person, tool) | `entities/name.md` | `entities/deepseek.md` |
+| Career or personal document | `Career/` (gitignored) | `Career/Resume - May 2026.md` |
+| Owner identity/context | `PERSONAL.md` (gitignored) | — |
+
+### Ingestion Workflow
+
+When adding a new article or source:
+
+1. **Save raw** → `raw/author_statusid.md` with `source_url`, `ingested` date, `sha256`
+2. **Create processed note** → `processed/slug.md` with YAML frontmatter (tags, source, type, summary, related)
+3. **Update Bookmarks Index** → add to both By Topic section and A-Z listing
+4. **Regenerate TAG-INDEX** → run the tag extraction script to rebuild `entities/TAG-INDEX.md`
+5. **Create entity pages** → if the article introduces a new company, person, tool, or concept that warrants a standalone entity page, create one in `entities/`
+6. **Run wiki-sync** → `~/scripts/wiki-sync.sh` or wait for cron job (`c09d51fd4ed2`, every 6 hours)
+
+### Sensitive Information Policy
+
+**NEVER include in tracked files:**
+- Owner's name, employer, job title, location
+- Resume content, career plans, compensation targets
+- Personal filesystem paths (`/Users/...`, `~/.hermes/...`)
+- API keys, tokens, credentials
+- Any information that identifies the vault owner
+
+**Where personal info lives:**
+- `PERSONAL.md` — owner identity and context (gitignored)
+- `Career/` — resume, transition plan, portfolio plan, job tracking (gitignored)
+
+**Before every commit, verify:** no personal references in tracked files. If a processed note mentions the owner, strip it — the note should only contain the article's content and analysis, not personalized commentary.
+
+### Entities Maintenance
+
+`entities/TAG-INDEX.md` is the master cross-reference mapping every tag to all processed articles. It must be regenerated whenever new processed notes are added or tags change.
+
+The entities/ folder also contains standalone entity profiles for significant companies, people, tools, and models. These complement but do not replace the TAG-INDEX.
+
 ## Intelligence Operations
 
 ### Connection Finder
