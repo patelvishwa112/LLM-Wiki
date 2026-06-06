@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 345 unique tags across 151 processed notes.
+> 350 unique tags across 152 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -200,9 +200,10 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### llm (6)
+### llm (7)
 
 - [[Llama SAE Interpretability Project]]
+- [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -294,9 +295,10 @@
 - [[opus-48-token-economy-guide]]
 - [[units-of-time-alfred-lin]]
 
-### prompt-engineering (10)
+### prompt-engineering (11)
 
 - [[ai-writing-style-personalization]]
+- [[automate-writing-llm-prompts-dspy]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-hidden-settings]]
 - [[claude-cowork-plugin-building-guide]]
@@ -443,9 +445,10 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
 
-### automation (2)
+### automation (3)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- [[automate-writing-llm-prompts-dspy]]
 - [[claude-cowork-14-day-guide]]
 
 ### autoresearch (2)
@@ -564,6 +567,11 @@
 
 - [[enterprise-and-industry-applications]]
 - [[memory-is-retained-consequence]]
+
+### evaluation (2)
+
+- [[automate-writing-llm-prompts-dspy]]
+- [[microsoft-mai-thinking1-rank-noninvariance]]
 
 ### experiment (3)
 
@@ -699,8 +707,9 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 
-### production (2)
+### production (3)
 
+- [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 
@@ -886,6 +895,7 @@
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **document-processing** — [[why-layout-matters-document-processing]]
+- **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
 - **education** — [[claude-for-education]]
 - **efficiency** — [[hrm-text-1b-reasoning-model]]
@@ -893,7 +903,6 @@
 - **entity-extraction** — [[graphiti-knowledge-graph-agent-memory]]
 - **environment** — [[harbor-rl-coding-environments]]
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
-- **evaluation** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **evidence** — [[research-agent-evidence-operator]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **extended-thinking** — [[extended-thinking]]
@@ -941,6 +950,7 @@
 - **life** — [[units-of-time-alfred-lin]]
 - **linux** — [[ubuntu-shuttleworth-story]]
 - **llama** — [[Llama SAE Interpretability Project]]
+- **llm-as-judge** — [[automate-writing-llm-prompts-dspy]]
 - **llm-engines** — [[inference-engines-2026]]
 - **llm-ops** — [[continuous-trace-intelligence-braintrust-topics]]
 - **llm-training** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -953,6 +963,7 @@
 - **markov-chains** — [[markov-chains-polymarket-trading]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **mem0** — [[agent-memory-landscape-2026]]
+- **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **misuse** — [[detecting-misuse]]
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
@@ -998,6 +1009,7 @@
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **prompt-injection** — [[nvidia-skillspector-security-scanner]]
+- **prompt-optimization** — [[automate-writing-llm-prompts-dspy]]
 - **prompts** — [[15-prompts-cut-coding-costs-88-percent]]
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
@@ -1008,6 +1020,7 @@
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **regulation** — [[ai-policy-and-regulation]]
 - **reinforcement-learning** — [[world-models-agent-imagination]]
+- **reliability** — [[automate-writing-llm-prompts-dspy]]
 - **research-agent** — [[research-agent-evidence-operator]]
 - **research-agents** — [[21-agent-building-mistakes]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
