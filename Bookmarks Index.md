@@ -86,6 +86,7 @@
 - [[problem-first-skill-invert-bad-ideas]] — [/problem-first: a simple skill to invert bad ideas](https://x.com/nurijanian/status/2063186118409929161) `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[pm-as-context-compressor]] — [The PM as the Context Compressor](https://x.com/nurijanian/status/2063188643683192835) `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
+- [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 
 ### Design
 
@@ -302,6 +303,7 @@
 - [[neuralavb]] `[papers, training]`
 - [[new-anthropic-research-natural-language-autoencode]] `[evals, papers]`
 - [[new-blackboard-lecture-w]] `[papers, models]`
+- [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[nrehiew]] `[papers, training]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`

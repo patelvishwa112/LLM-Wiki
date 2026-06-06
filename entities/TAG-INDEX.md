@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 329 unique tags across 149 processed notes.
+> 340 unique tags across 150 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -102,7 +102,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (23)
+### claude-code (24)
 
 - [[50-mcp-servers-guide]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -125,16 +125,18 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[goal-primitive-guide]]
 - [[learn-harness-engineering]]
+- [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### codex (6)
+### codex (7)
 
 - [[50-mcp-servers-guide]]
 - [[agent-memory-landscape-2026]]
 - [[coding-agent-harness-eight-pillars]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[learn-harness-engineering]]
+- [[nvidia-skillspector-security-scanner]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
 ### coding-tools (6)
@@ -190,13 +192,14 @@
 - [[quarq-agent-memory-architecture]]
 - [[what-is-kv-cache-llms]]
 
-### mcp (5)
+### mcp (6)
 
 - [[50-mcp-servers-guide]]
 - [[claude-hidden-features-guide]]
 - [[generative-ui-is-the-new-frontend]]
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
+- [[nvidia-skillspector-security-scanner]]
 
 ### mechanistic-interpretability (5)
 
@@ -320,7 +323,7 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (11)
+### skills (12)
 
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[autobrowse-browser-agent-memory]]
@@ -332,6 +335,7 @@
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[hermes-kanban-mission-control]]
+- [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 
 ### slm (5)
@@ -425,6 +429,11 @@
 - [[anthropic-natural-language-autoencoders]]
 - [[anthropic-publications]]
 - [[priests-of-agi-interpretability-crisis]]
+
+### antigravity (2)
+
+- [[mcp-server-workflow-problems]]
+- [[nvidia-skillspector-security-scanner]]
 
 ### attention (2)
 
@@ -798,6 +807,7 @@
 - **a2ui** — [[generative-ui-is-the-new-frontend]]
 - **ablations** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
+- **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
@@ -806,7 +816,6 @@
 - **ai-safety** — [[recursive-self-improvement-2028-prediction]]
 - **alignment-faking** — [[alignment-faking]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
-- **antigravity** — [[mcp-server-workflow-problems]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **artifacts** — [[claude-hidden-features-guide]]
 - **arxiv** — [[persona-vectors-paper]]
@@ -825,6 +834,7 @@
 - **canonical** — [[ubuntu-shuttleworth-story]]
 - **catalog** — [[50-mcp-servers-guide]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
+- **ci-cd** — [[nvidia-skillspector-security-scanner]]
 - **classifiers** — [[jailbreaks-and-defenses]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
@@ -843,6 +853,7 @@
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **cuda** — [[pytorch-profiler-beginners-guide]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
+- **cursor** — [[nvidia-skillspector-security-scanner]]
 - **cybersecurity** — [[ai-cybersecurity]]
 - **data** — [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
@@ -877,6 +888,7 @@
 - **gemini** — [[50-mcp-servers-guide]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
+- **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **goal** — [[hermes-goal-mode-guide]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
@@ -931,6 +943,7 @@
 - **nla** — [[anthropic-natural-language-autoencoders]]
 - **nlp** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **notes** — [[sutton-barto-rl-notes]]
+- **nvidia** — [[nvidia-skillspector-security-scanner]]
 - **observability** — [[continuous-trace-intelligence-braintrust-topics]]
 - **ocr** — [[why-layout-matters-document-processing]]
 - **openai** — [[macro-evals-for-agentic-systems-openai-cookbook]]
@@ -962,6 +975,7 @@
 - **probing** — [[ghost-in-residual-stream-experiment]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
+- **prompt-injection** — [[nvidia-skillspector-security-scanner]]
 - **prompts** — [[15-prompts-cut-coding-costs-88-percent]]
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
@@ -984,10 +998,12 @@
 - **sae-steering** — [[Llama SAE Interpretability Project]]
 - **saga** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **saliency** — [[priests-of-agi-interpretability-crisis]]
+- **sarif** — [[nvidia-skillspector-security-scanner]]
 - **scalable-oversight** — [[scalable-oversight]]
 - **scaling-laws** — [[scaling-laws]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]
 - **search** — [[rethinking-search-as-code-generation]]
+- **security** — [[nvidia-skillspector-security-scanner]]
 - **self-correction** — [[claude-code-self-correcting-setup]]
 - **self-improvement** — [[sia-recursive-self-improving-agent]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
@@ -997,9 +1013,12 @@
 - **settings** — [[claude-code-hidden-settings]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
+- **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
+- **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]
+- **supply-chain** — [[nvidia-skillspector-security-scanner]]
 - **sutton-barto** — [[sutton-barto-rl-notes]]
 - **swarms** — [[how-to-build-ai-agent-swarms]]
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
