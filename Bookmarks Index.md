@@ -89,6 +89,7 @@
 - [[pm-as-context-compressor]] — [The PM as the Context Compressor](https://x.com/nurijanian/status/2063188643683192835) `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
 
 ### Design
 
@@ -201,8 +202,9 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 
-- [[15-claude-code-settings-most-developers-never-touc]] `[coding-tools]`
-- [[15-prompts-cut-coding-costs-88-percent]] `[claude, kimi, cost-optimization, prompts, workflows, orchestration, agents]`
+- [[15-claude-code-settings-most-developers-never-touc]] `[claude-code, coding-tools, productivity]`
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]] `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
+- [[15-prompts-cut-coding-costs-88-percent]] `[claude, kimi, cost-optimization, prompts, coding-tools, workflows]`
 - [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
 - [[claude-cowork-14-day-guide]] `[claude, cowork, automation, productivity, workflows]`
 - [[claude-code-self-correcting-setup]] `[claude-code, engineering]`

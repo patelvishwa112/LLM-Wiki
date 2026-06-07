@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 350 unique tags across 152 processed notes.
+> 364 unique tags across 153 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -119,8 +119,9 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (24)
+### claude-code (25)
 
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
@@ -342,8 +343,9 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (12)
+### skills (13)
 
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[autobrowse-browser-agent-memory]]
 - [[claude-cowork-60-power-moves]]
@@ -472,6 +474,11 @@
 - [[jp-morgan-quant-python-training]]
 - [[mid-career-dissatisfaction]]
 - [[units-of-time-alfred-lin]]
+
+### catalog (2)
+
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- [[50-mcp-servers-guide]]
 
 ### circuits (3)
 
@@ -834,6 +841,7 @@
 
 - **a2ui** — [[generative-ui-is-the-new-frontend]]
 - **ablations** — [[microsoft-mai-thinking1-rank-noninvariance]]
+- **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
@@ -860,7 +868,6 @@
 - **business-ideas** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **business-models** — [[the-html-brand-input-based-outcomes]]
 - **canonical** — [[ubuntu-shuttleworth-story]]
-- **catalog** — [[50-mcp-servers-guide]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
 - **ci-cd** — [[nvidia-skillspector-security-scanner]]
 - **classifiers** — [[jailbreaks-and-defenses]]
@@ -870,7 +877,9 @@
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
 - **computer-use** — [[computer-use]]
+- **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-management** — [[harness-is-the-product-context-aware-agents]]
+- **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]
 - **context-window** — [[harness-is-the-product-context-aware-agents]]
 - **copilot** — [[agent-memory-landscape-2026]]
@@ -883,6 +892,7 @@
 - **crypto** — [[how-to-read-company-ai-analyst]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **cuda** — [[pytorch-profiler-beginners-guide]]
+- **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
 - **cursor** — [[nvidia-skillspector-security-scanner]]
 - **cybersecurity** — [[ai-cybersecurity]]
@@ -895,6 +905,7 @@
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **document-processing** — [[why-layout-matters-document-processing]]
+- **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
 - **education** — [[claude-for-education]]
@@ -914,6 +925,7 @@
 - **firecrawl** — [[claude-code-investment-research-setup]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
 - **frontend** — [[generative-ui-is-the-new-frontend]]
+- **frontend-design** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **fundamentals** — [[what-is-kv-cache-llms]]
 - **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
 - **gemini** — [[50-mcp-servers-guide]]
@@ -924,6 +936,7 @@
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
+- **gsd** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hardware** — [[inference-engines-2026]]
@@ -934,6 +947,7 @@
 - **imagination** — [[world-models-agent-imagination]]
 - **induction-heads** — [[induction-heads]]
 - **inference-optimization** — [[trimming-introduction]]
+- **interview-me** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **investing** — [[how-to-read-company-ai-analyst]]
 - **investment-research** — [[claude-code-investment-research-setup]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
@@ -962,8 +976,10 @@
 - **market-research** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **markov-chains** — [[markov-chains-polymarket-trading]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **mem0** — [[agent-memory-landscape-2026]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
+- **meta-skills** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **misuse** — [[detecting-misuse]]
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
@@ -975,6 +991,7 @@
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
 - **nla** — [[anthropic-natural-language-autoencoders]]
 - **nlp** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- **notebooklm** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **notes** — [[sutton-barto-rl-notes]]
 - **nvidia** — [[nvidia-skillspector-security-scanner]]
 - **observability** — [[continuous-trace-intelligence-braintrust-topics]]
@@ -1047,11 +1064,13 @@
 - **serving** — [[inference-engines-2026]]
 - **settings** — [[claude-code-hidden-settings]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
+- **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
+- **superpowers** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]
 - **supply-chain** — [[nvidia-skillspector-security-scanner]]
 - **sutton-barto** — [[sutton-barto-rl-notes]]
@@ -1063,6 +1082,7 @@
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
 - **trading** — [[markov-chains-polymarket-trading]]
 - **trimming** — [[trimming-introduction]]
+- **twitter** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]
 - **vault** — [[research-agent-evidence-operator]]
