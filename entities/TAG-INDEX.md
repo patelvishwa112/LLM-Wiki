@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 408 unique tags across 159 processed notes.
+> 415 unique tags across 160 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -122,7 +122,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (26)
+### claude-code (27)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -147,6 +147,7 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[goal-primitive-guide]]
 - [[learn-harness-engineering]]
+- [[level-above-phd-knowledge-works-without-you]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -520,9 +521,10 @@
 - [[anthropic-internal-claude-code-workflow]]
 - [[coding-agent-harness-eight-pillars]]
 
-### compounding (2)
+### compounding (3)
 
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
 ### constitutional-ai (3)
@@ -682,10 +684,11 @@
 - [[how-to-build-agent-that-never-forgets]]
 - [[memory-is-retained-consequence]]
 
-### knowledge-management (3)
+### knowledge-management (4)
 
 - [[claude-code-investment-research-setup]]
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
 ### learning (2)
@@ -824,10 +827,11 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### second-brain (2)
+### second-brain (3)
 
 - [[claude-dynamic-workflows-second-brain]]
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[level-above-phd-knowledge-works-without-you]]
 
 ### societal-impacts (4)
 
@@ -911,6 +915,7 @@
 - **ablations** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **active-recall** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **adversarial** — [[level-above-phd-knowledge-works-without-you]]
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
@@ -919,6 +924,7 @@
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
 - **agentic-misalignment** — [[agentic-misalignment]]
 - **agents-md** — [[voxyz-ai-10-lessons-agents-md]]
+- **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
 - **ai-safety** — [[recursive-self-improvement-2028-prediction]]
 - **alignment-faking** — [[alignment-faking]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -995,6 +1001,7 @@
 - **evidence** — [[research-agent-evidence-operator]]
 - **execution** — [[jim-simons-medallion-quant-framework]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
+- **expertise** — [[level-above-phd-knowledge-works-without-you]]
 - **extended-thinking** — [[extended-thinking]]
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
@@ -1026,6 +1033,7 @@
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
+- **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
 - **indexing** — [[how-vector-database-works]]
@@ -1038,6 +1046,7 @@
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
+- **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
@@ -1102,6 +1111,7 @@
 - **personal-project** — [[Llama SAE Interpretability Project]]
 - **personal-tools** — [[Non-Obvious Agent Projects]]
 - **persuasion** — [[ai-persuasion]]
+- **phd** — [[level-above-phd-knowledge-works-without-you]]
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **pipelines** — [[why-layout-matters-document-processing]]
 - **playwright** — [[claude-code-investment-research-setup]]
@@ -1193,6 +1203,7 @@
 - **vocabulary** — [[trimming-introduction]]
 - **weather** — [[mosaic-probabilistic-weather-model]]
 - **workers** — [[iii-agent-harness-workers]]
+- **workflow** — [[level-above-phd-knowledge-works-without-you]]
 - **workflow-automation** — [[claude-code-investment-research-setup]]
 - **writing** — [[ai-writing-style-personalization]]
 - **yann-lecun** — [[joint-embedding-predictive-architecture-jepa]]

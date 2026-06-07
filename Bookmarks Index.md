@@ -182,6 +182,7 @@
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] — [Karpathy's AutoResearch is changing how campaigns get optimized and most markete](https://x.com/shannholmberg/status/2052780393326092407)
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
+- [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 
 ### Rl
 
@@ -304,6 +305,7 @@
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
 - [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
+- [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[maziyarpanahi]] `[ai-ml]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
