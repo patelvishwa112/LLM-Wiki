@@ -2,20 +2,21 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 406 unique tags across 158 processed notes.
+> 408 unique tags across 159 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
 
-### agent-architecture (5)
+### agent-architecture (6)
 
 - [[21-agent-building-mistakes]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[coding-agent-harness-eight-pillars]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 
-### agents (50)
+### agents (51)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -30,6 +31,7 @@
 - [[anthropic-internal-claude-code-workflow]]
 - [[autobrowse-browser-agent-memory]]
 - [[autoscientists-decentralized-ai-research-agents]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-slm-training-bootstrap]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-plugin-building-guide]]
@@ -120,7 +122,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (25)
+### claude-code (26)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -128,6 +130,7 @@
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-memory-landscape-2026]]
 - [[anthropic-internal-claude-code-workflow]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-hidden-settings]]
 - [[claude-code-investment-research-setup]]
@@ -229,9 +232,10 @@
 - [[persona-vectors-paper]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 
-### memory (6)
+### memory (7)
 
 - [[agent-memory-landscape-2026]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[claude-hidden-features-guide]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
@@ -388,10 +392,11 @@
 - [[rl-environments-guide-llm]]
 - [[sia-recursive-self-improving-agent]]
 
-### workflows (7)
+### workflows (8)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Dynamic Workflows in Claude Code]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[claude-cowork-14-day-guide]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[every-agentic-engineering-hack-june-2026]]
@@ -756,10 +761,11 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 
-### production (3)
+### production (4)
 
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 
 ### project-ideas (2)
@@ -865,9 +871,10 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
 
-### tools (3)
+### tools (4)
 
 - [[50-mcp-servers-guide]]
+- [[claude-code-changed-what-agents-look-like]]
 - [[huggingface-model-architecture-visualizer]]
 - [[osiris-open-source-palantir-tool]]
 
@@ -881,8 +888,9 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
 
-### verification (2)
+### verification (3)
 
+- [[claude-code-changed-what-agents-look-like]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[learn-harness-engineering]]
 
@@ -919,6 +927,7 @@
 - **arxiv** — [[persona-vectors-paper]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
+- **autonomous** — [[claude-code-changed-what-agents-look-like]]
 - **autonomous-machine-intelligence** — [[joint-embedding-predictive-architecture-jepa]]
 - **autonomy** — [[hermes-goal-mode-guide]]
 - **bandit** — [[curiosity-bayesian-bandit]]
@@ -942,6 +951,7 @@
 - **computer-use** — [[computer-use]]
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **context** — [[claude-code-changed-what-agents-look-like]]
 - **context-management** — [[harness-is-the-product-context-aware-agents]]
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]

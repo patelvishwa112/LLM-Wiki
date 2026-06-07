@@ -44,6 +44,7 @@
 - [[Dynamic Workflows in Claude Code]] — [A Harness for Every Task: Dynamic Workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 - [[harness-is-the-product-context-aware-agents]] — [The Harness Is the Product: Building Context-Aware Agent Harnesses](https://x.com/0x_kaize/status/2063343984521490722) `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] — [Kimi K2.6 runs 300 parallel agents. Here's what comes out.](https://x.com/sprytixl/status/2062420467034513604) `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
+- [[claude-code-changed-what-agents-look-like]] — [Claude Code Just Changed What "Agents" Look Like](https://x.com/suryanshti777/status/2061393185126097356) `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[generative-ui-is-the-new-frontend]] — [Generative UI Is the New Frontend](https://x.com/saboo_shubham_/status/2062220865643982875) `[agents, generative-ui, mcp, ag-ui]`
 - [[feedback-loops-claude-code-less-babysitting]] — [Feedback loops: Help Claude Code complete ambitious tasks with less babysitting](https://x.com/delba_oliveira/status/2062203743387459836) `[claude-code, agents, skills, verification]`
 - [[how-to-build-agent-that-never-forgets]] — [how to build an agent that never forgets](https://x.com/rohit4verse/status/2012925228159295810) `[agents, memory, knowledge-graphs, architecture]`
@@ -212,6 +213,7 @@
 - [[15-prompts-cut-coding-costs-88-percent]] `[claude, kimi, cost-optimization, prompts, coding-tools, workflows]`
 - [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
 - [[claude-cowork-14-day-guide]] `[claude, cowork, automation, productivity, workflows]`
+- [[claude-code-changed-what-agents-look-like]] `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-code-self-correcting-setup]] `[claude-code, engineering]`
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[2-months-ago-i-started-building-unified-memory-lay]] `[agents, models]`
