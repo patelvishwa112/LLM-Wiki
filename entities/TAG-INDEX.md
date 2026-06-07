@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 428 unique tags across 167 processed notes.
+> 431 unique tags across 168 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -26,11 +26,12 @@
 - [[iii-agent-harness-workers]]
 - [[rethinking-search-as-code-generation]]
 
-### agent-ops (5)
+### agent-ops (6)
 
 - [[21-agent-building-mistakes]]
 - [[agent-harness-engineering-agentforge]]
 - [[anthropic-internal-claude-code-workflow]]
+- [[anthropic-self-service-analytics-claude]]
 - [[harness-engineering-2026-discipline]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
@@ -108,11 +109,12 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (6)
+### anthropic (7)
 
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
 - [[anthropic-publications]]
+- [[anthropic-self-service-analytics-claude]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[priests-of-agi-interpretability-crisis]]
@@ -147,7 +149,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (30)
+### claude-code (31)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -156,6 +158,7 @@
 - [[agent-memory-landscape-2026]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-internal-claude-code-workflow]]
+- [[anthropic-self-service-analytics-claude]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-hidden-settings]]
@@ -200,8 +203,9 @@
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
 
-### evals (6)
+### evals (7)
 
+- [[anthropic-self-service-analytics-claude]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
@@ -384,12 +388,13 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (16)
+### skills (17)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[agent-harness-engineering-agentforge]]
 - [[ai-survival-guide-ikea-style]]
+- [[anthropic-self-service-analytics-claude]]
 - [[autobrowse-browser-agent-memory]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-60-power-moves]]
@@ -639,8 +644,9 @@
 - [[ai-agents]]
 - [[claude-code-self-correcting-setup]]
 
-### enterprise (3)
+### enterprise (4)
 
+- [[anthropic-self-service-analytics-claude]]
 - [[enterprise-and-industry-applications]]
 - [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
@@ -1059,6 +1065,8 @@
 - **cursor** — [[nvidia-skillspector-security-scanner]]
 - **cybersecurity** — [[ai-cybersecurity]]
 - **data** — [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
+- **data-analytics** — [[anthropic-self-service-analytics-claude]]
+- **data-engineering** — [[anthropic-self-service-analytics-claude]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
@@ -1243,6 +1251,7 @@
 - **self-improvement** — [[sia-recursive-self-improving-agent]]
 - **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
+- **semantic-layer** — [[anthropic-self-service-analytics-claude]]
 - **semantic-search** — [[how-vector-database-works]]
 - **semantic-state** — [[memory-is-retained-consequence]]
 - **sentra** — [[memory-is-retained-consequence]]

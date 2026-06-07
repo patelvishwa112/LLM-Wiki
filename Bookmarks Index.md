@@ -110,6 +110,7 @@
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
+- [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 
 ### Evals
 
@@ -244,6 +245,7 @@
 - [[akshaypachaar]] `[agents, papers]`
 - [[amitiitbhu]] `[ai-ml]`
 - [[anshuman-athletickoder-on-building-agents-from-fir]] `[training, agents]`
+- [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[antpalkin]] `[agents]`
 - [[article]] `[evals, agents]`
 - [[article]] `[evals, coding-tools]`
