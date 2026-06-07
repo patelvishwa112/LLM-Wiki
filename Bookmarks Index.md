@@ -43,6 +43,7 @@
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
 - [[Dynamic Workflows in Claude Code]] — [A Harness for Every Task: Dynamic Workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 - [[harness-is-the-product-context-aware-agents]] — [The Harness Is the Product: Building Context-Aware Agent Harnesses](https://x.com/0x_kaize/status/2063343984521490722) `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]] — [Kimi K2.6 runs 300 parallel agents. Here's what comes out.](https://x.com/sprytixl/status/2062420467034513604) `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[generative-ui-is-the-new-frontend]] — [Generative UI Is the New Frontend](https://x.com/saboo_shubham_/status/2062220865643982875) `[agents, generative-ui, mcp, ag-ui]`
 - [[feedback-loops-claude-code-less-babysitting]] — [Feedback loops: Help Claude Code complete ambitious tasks with less babysitting](https://x.com/delba_oliveira/status/2062203743387459836) `[claude-code, agents, skills, verification]`
 - [[how-to-build-agent-that-never-forgets]] — [how to build an agent that never forgets](https://x.com/rohit4verse/status/2012925228159295810) `[agents, memory, knowledge-graphs, architecture]`
@@ -288,6 +289,7 @@
 - [[jp-morgan-pays-650000-a-year-for-quants-they-built]] `[finance, productivity]`
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] `[papers]`
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] `[productivity, papers]`
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[kirillkweb3]] `[agents]`
 - [[lotteverheyden]] `[ai-ml]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`

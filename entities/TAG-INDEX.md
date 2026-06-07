@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 364 unique tags across 153 processed notes.
+> 370 unique tags across 154 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -252,13 +252,14 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[rl-environments-guide-llm]]
 
-### multi-agent (8)
+### multi-agent (9)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[rlm-recursive-llm-query-system]]
@@ -447,11 +448,12 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
 
-### automation (3)
+### automation (4)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[claude-cowork-14-day-guide]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### autoresearch (2)
 
@@ -640,10 +642,11 @@
 - [[memory-is-retained-consequence]]
 - [[rl-environments-guide-llm]]
 
-### kimi (2)
+### kimi (3)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[how-to-build-ai-agent-swarms]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### knowledge-graphs (2)
 
@@ -665,6 +668,11 @@
 
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
+
+### market-research (2)
+
+- [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### mlx (2)
 
@@ -845,6 +853,7 @@
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
+- **agent-swarm** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
 - **agentic-misalignment** — [[agentic-misalignment]]
@@ -905,6 +914,7 @@
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **document-processing** — [[why-layout-matters-document-processing]]
+- **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
@@ -955,7 +965,9 @@
 - **kelly-criterion** — [[markov-chains-polymarket-trading]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
+- **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
+- **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **knowledge-graph** — [[graphiti-knowledge-graph-agent-memory]]
 - **kv-cache** — [[what-is-kv-cache-llms]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
@@ -973,7 +985,6 @@
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
-- **market-research** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **markov-chains** — [[markov-chains-polymarket-trading]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -986,6 +997,7 @@
 - **model-compression** — [[trimming-introduction]]
 - **model-welfare** — [[model-welfare]]
 - **monte-carlo** — [[markov-chains-polymarket-trading]]
+- **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **multilingual** — [[trimming-introduction]]
 - **n8n** — [[knowledge-system-compounding-obsidian-vellum]]
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
@@ -1004,6 +1016,7 @@
 - **osmosis** — [[multi-lora-training-osmosis]]
 - **overview** — [[anthropic-publications]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
+- **parallel-agents** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **parallelism** — [[how-to-build-ai-agent-swarms]]
 - **parsing** — [[why-layout-matters-document-processing]]
 - **patching** — [[ghost-in-residual-stream-experiment]]
