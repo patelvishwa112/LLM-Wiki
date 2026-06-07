@@ -15,7 +15,7 @@ source: https://x.com/bytemohit/status/2063493300884246598
 date: 2026-06-07
 author: Mohit Goyal (@ByteMohit)
 type: bookmark
-summary: Building AgentForge — an agent harness from scratch in Python — taught that an agent is not a model but a runtime. The model is ~20% of the engineering. The other 80% is the harness: action space, approval policy, observation format, context budget, recovery paths, and persistence. Covers 13 components with concrete code lessons.
+summary: "Building AgentForge — an agent harness from scratch in Python — taught that an agent is not a model but a runtime. The model is ~20% of the engineering. The other 80% is the harness: action space, approval policy, observation format, context budget, recovery paths, and persistence. Covers 13 components with concrete code lessons."
 related:
   - "[[21-agent-building-mistakes]]"
   - "[[agentic-engineering-harness-is-all-you-need]]"
