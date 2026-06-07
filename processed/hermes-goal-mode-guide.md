@@ -7,7 +7,7 @@ published: 2026-06-02
 authors: ["zaimiri (@zaimiri)"]
 type: bookmark
 raw: "[[raw/zaimiri_2061745669077926042]]"
-related: ["[[dynamic-workflows-where-plan-lives]]", "[[agent-memory-landscape-2026]]"]
+related: ["[[dynamic-workflows-where-plan-lives]]", "[[agent-memory-landscape-2026]]", "[[hermes-agent-model-stack-guide]]"]
 ---
 
 # Hermes /goal — Standing Jobs Instead of Disposable Prompts
