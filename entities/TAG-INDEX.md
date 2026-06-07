@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 435 unique tags across 170 processed notes.
+> 438 unique tags across 171 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -110,8 +110,9 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (9)
+### anthropic (10)
 
+- [[ai-native-engineering-org]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
@@ -152,13 +153,14 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (33)
+### claude-code (34)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-memory-landscape-2026]]
+- [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-internal-claude-code-workflow]]
@@ -339,8 +341,9 @@
 - [[iii-agent-harness-workers]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### productivity (12)
+### productivity (13)
 
+- [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-slash-command-library]]
@@ -571,6 +574,11 @@
 
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[rethinking-search-as-code-generation]]
+
+### code-review (2)
+
+- [[ai-native-engineering-org]]
+- [[feedback-loops-claude-code-less-babysitting]]
 
 ### coding-agents (2)
 
@@ -1031,6 +1039,7 @@
 - **agentic-misalignment** — [[agentic-misalignment]]
 - **agents-md** — [[voxyz-ai-10-lessons-agents-md]]
 - **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
+- **ai-native** — [[ai-native-engineering-org]]
 - **ai-safety** — [[recursive-self-improvement-2028-prediction]]
 - **alignment-faking** — [[alignment-faking]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1059,7 +1068,6 @@
 - **classifiers** — [[jailbreaks-and-defenses]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
-- **code-review** — [[feedback-loops-claude-code-less-babysitting]]
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
 - **computer-use** — [[computer-use]]
@@ -1103,6 +1111,7 @@
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
 - **efficiency** — [[hrm-text-1b-reasoning-model]]
 - **energy-based-models** — [[joint-embedding-predictive-architecture-jepa]]
+- **engineering-management** — [[ai-native-engineering-org]]
 - **ensemble-methods** — [[mosaic-probabilistic-weather-model]]
 - **entity-extraction** — [[graphiti-knowledge-graph-agent-memory]]
 - **environment** — [[harbor-rl-coding-environments]]
@@ -1297,6 +1306,7 @@
 - **sutton-barto** — [[sutton-barto-rl-notes]]
 - **swarms** — [[how-to-build-ai-agent-swarms]]
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
+- **team-structure** — [[ai-native-engineering-org]]
 - **templates** — [[claude-code-slash-command-library]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
