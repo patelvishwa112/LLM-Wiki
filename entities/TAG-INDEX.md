@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 423 unique tags across 165 processed notes.
+> 426 unique tags across 166 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -90,7 +90,7 @@
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
 
-### alignment (13)
+### alignment (14)
 
 - [[agentic-misalignment]]
 - [[ai-alignment]]
@@ -102,6 +102,7 @@
 - [[persona-vectors-paper]]
 - [[persona-vectors]]
 - [[reward-hacking-and-tampering]]
+- [[rlhf-from-first-principles]]
 - [[rlhf]]
 - [[scalable-oversight]]
 - [[sycophancy]]
@@ -407,7 +408,7 @@
 - [[multi-lora-training-osmosis]]
 - [[sia-recursive-self-improving-agent]]
 
-### training (16)
+### training (17)
 
 - [[adapad-lora-parallel-deflation]]
 - [[claude-code-slm-training-bootstrap]]
@@ -424,6 +425,7 @@
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-environments-guide-llm]]
+- [[rlhf-from-first-principles]]
 - [[sia-recursive-self-improving-agent]]
 
 ### workflows (8)
@@ -548,11 +550,12 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
-### constitutional-ai (3)
+### constitutional-ai (4)
 
 - [[ai-alignment]]
 - [[claude-values-and-character]]
 - [[constitutional-ai]]
+- [[rlhf-from-first-principles]]
 
 ### context-engineering (2)
 
@@ -679,9 +682,10 @@
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
 
-### fundamentals (2)
+### fundamentals (3)
 
 - [[how-gpu-executes-code-first-principles]]
+- [[rlhf-from-first-principles]]
 - [[what-is-kv-cache-llms]]
 
 ### hardware (2)
@@ -874,10 +878,11 @@
 - [[Llama SAE Interpretability Project]]
 - [[autoscientists-decentralized-ai-research-agents]]
 
-### rlhf (3)
+### rlhf (4)
 
 - [[ai-alignment]]
 - [[constitutional-ai]]
+- [[rlhf-from-first-principles]]
 - [[rlhf]]
 
 ### rsp (2)
@@ -1059,6 +1064,7 @@
 - **document-processing** — [[why-layout-matters-document-processing]]
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **dpo** — [[rlhf-from-first-principles]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
@@ -1184,6 +1190,7 @@
 - **playwright** — [[claude-code-investment-research-setup]]
 - **policy-engine** — [[iii-agent-harness-workers]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
+- **ppo** — [[rlhf-from-first-principles]]
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
@@ -1212,6 +1219,7 @@
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **retrieval** — [[quarq-agent-memory-architecture]]
 - **reward-hacking** — [[reward-hacking-and-tampering]]
+- **reward-modeling** — [[rlhf-from-first-principles]]
 - **roadmap** — [[llm-engineering-projects-roadmap-2026]]
 - **rsi** — [[sia-recursive-self-improving-agent]]
 - **sabotage** — [[deceptive-alignment]]

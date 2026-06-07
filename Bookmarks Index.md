@@ -202,6 +202,7 @@
 - [[2026-is-shaping-up-to-be-the-year-of-opd-more-spec]] — [2026 is shaping up to be the year of OPD, more specifically OPSD](https://x.com/neural_avb/status/2054640032087146727)
 - [[check-this---bootstrapping-claude-to-train-a-slm]] — [Check this - Bootstrapping Claude to train a SLM!](https://x.com/neural_avb/status/2057201992666411518)
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
+- [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 
 ### Weather
 
@@ -346,6 +347,7 @@
 - [[rethinking-search-as-code-generation]] `[agents, search, architecture, sac]`
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
+- [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`
