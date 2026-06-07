@@ -37,7 +37,6 @@
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
-- [[hermes-agent-model-stack-guide]] — [Hermes Agent Model Stack — The Best Models For Each Job](https://x.com/zaimiri/status/2063694809592635430) `[hermes, hermes-agent, models, model-selection, llm-providers, cost-optimization, agent-ops]`
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[multi-lora-training-osmosis]] — [Training Thousands of LoRA Adapters Concurrently](https://x.com/_weexiao/status/2061855508156563871)
 - [[540k-lines-i-didnt-need-garry-tan]] — [540,000 Lines of Code I Didn't Need — Garry Tan](https://x.com/garrytan/status/2061454423034110372)
@@ -395,7 +394,6 @@
 - [[new-blackboard-lecture-w]] `[papers, models]`
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
-- [[hermes-agent-model-stack-guide]] `[hermes, hermes-agent, models, model-selection, llm-providers, cost-optimization, agent-ops]`
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
