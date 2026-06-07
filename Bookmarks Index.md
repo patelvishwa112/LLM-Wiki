@@ -83,6 +83,7 @@
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
+- [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 
 ### Coding Tools
 
@@ -284,6 +285,7 @@
 - [[hermes-goal-mode-guide]] `[hermes, goal, productivity, workflows]`
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
 - [[hermes-agent-changed-how-i-work]] `[agents, productivity]`
+- [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`

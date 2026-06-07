@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 415 unique tags across 161 processed notes.
+> 417 unique tags across 162 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -554,6 +554,11 @@
 - [[Non-Obvious Agent Projects]]
 - [[priests-of-agi-interpretability-crisis]]
 
+### cuda (2)
+
+- [[how-gpu-executes-code-first-principles]]
+- [[pytorch-profiler-beginners-guide]]
+
 ### deceptive-alignment (2)
 
 - [[alignment-faking]]
@@ -640,6 +645,16 @@
 
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
+
+### fundamentals (2)
+
+- [[how-gpu-executes-code-first-principles]]
+- [[what-is-kv-cache-llms]]
+
+### hardware (2)
+
+- [[how-gpu-executes-code-first-principles]]
+- [[inference-engines-2026]]
 
 ### harness (2)
 
@@ -742,6 +757,11 @@
 
 - [[adapad-lora-parallel-deflation]]
 - [[general-intelligence-rethinking-exploration-2022]]
+
+### parallelism (2)
+
+- [[how-gpu-executes-code-first-principles]]
+- [[how-to-build-ai-agent-swarms]]
 
 ### parameter-decomposition (2)
 
@@ -973,7 +993,6 @@
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **crypto** — [[how-to-read-company-ai-analyst]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
-- **cuda** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
 - **cursor** — [[nvidia-skillspector-security-scanner]]
@@ -1013,7 +1032,6 @@
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
 - **frontend** — [[generative-ui-is-the-new-frontend]]
 - **frontend-design** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
-- **fundamentals** — [[what-is-kv-cache-llms]]
 - **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
 - **gemini** — [[50-mcp-servers-guide]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
@@ -1021,12 +1039,13 @@
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **goal** — [[hermes-goal-mode-guide]]
 - **government** — [[ai-policy-and-regulation]]
+- **gpu** — [[how-gpu-executes-code-first-principles]]
+- **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
 - **gsd** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
-- **hardware** — [[inference-engines-2026]]
 - **hnsw** — [[how-vector-database-works]]
 - **hooks** — [[claude-code-self-correcting-setup]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
@@ -1103,7 +1122,6 @@
 - **overview** — [[anthropic-publications]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
 - **parallel-agents** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
-- **parallelism** — [[how-to-build-ai-agent-swarms]]
 - **parsing** — [[why-layout-matters-document-processing]]
 - **patching** — [[ghost-in-residual-stream-experiment]]
 - **perfetto** — [[pytorch-profiler-beginners-guide]]
