@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 397 unique tags across 157 processed notes.
+> 406 unique tags across 158 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -622,10 +622,11 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### finance (3)
+### finance (4)
 
 - [[claude-code-investment-research-setup]]
 - [[how-to-read-company-ai-analyst]]
+- [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
 
 ### fine-tuning (2)
@@ -659,6 +660,11 @@
 - [[agent-memory-landscape-2026]]
 - [[memory-is-retained-consequence]]
 - [[rl-environments-guide-llm]]
+
+### kelly-criterion (2)
+
+- [[jim-simons-medallion-quant-framework]]
+- [[markov-chains-polymarket-trading]]
 
 ### kimi (3)
 
@@ -696,6 +702,11 @@
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+
+### markov-chains (2)
+
+- [[jim-simons-medallion-quant-framework]]
+- [[markov-chains-polymarket-trading]]
 
 ### mlx (2)
 
@@ -767,8 +778,9 @@
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 
-### quant (2)
+### quant (3)
 
+- [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
 - [[markov-chains-polymarket-trading]]
 
@@ -858,6 +870,11 @@
 - [[50-mcp-servers-guide]]
 - [[huggingface-model-architecture-visualizer]]
 - [[osiris-open-source-palantir-tool]]
+
+### trading (2)
+
+- [[jim-simons-medallion-quant-framework]]
+- [[markov-chains-polymarket-trading]]
 
 ### transformers (2)
 
@@ -966,8 +983,10 @@
 - **environment** — [[harbor-rl-coding-environments]]
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **evidence** — [[research-agent-evidence-operator]]
+- **execution** — [[jim-simons-medallion-quant-framework]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **extended-thinking** — [[extended-thinking]]
+- **factor-model** — [[jim-simons-medallion-quant-framework]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fault-tolerance** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **feedback-loops** — [[feedback-loops-claude-code-less-babysitting]]
@@ -993,6 +1012,7 @@
 - **hardware** — [[inference-engines-2026]]
 - **hnsw** — [[how-vector-database-works]]
 - **hooks** — [[claude-code-self-correcting-setup]]
+- **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
@@ -1007,8 +1027,8 @@
 - **ivf** — [[how-vector-database-works]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **jepa** — [[joint-embedding-predictive-architecture-jepa]]
+- **jim-simons** — [[jim-simons-medallion-quant-framework]]
 - **kanban** — [[hermes-kanban-mission-control]]
-- **kelly-criterion** — [[markov-chains-polymarket-trading]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
@@ -1030,8 +1050,8 @@
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
-- **markov-chains** — [[markov-chains-polymarket-trading]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- **medallion** — [[jim-simons-medallion-quant-framework]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **mem0** — [[agent-memory-landscape-2026]]
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
@@ -1046,6 +1066,7 @@
 - **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **multilingual** — [[trimming-introduction]]
 - **n8n** — [[knowledge-system-compounding-obsidian-vellum]]
+- **neural-network** — [[jim-simons-medallion-quant-framework]]
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
 - **nla** — [[anthropic-natural-language-autoencoders]]
 - **nlp** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -1094,9 +1115,11 @@
 - **recursive-self-improvement** — [[recursive-self-improvement-2028-prediction]]
 - **red-teaming** — [[red-teaming]]
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- **regime-detection** — [[jim-simons-medallion-quant-framework]]
 - **regulation** — [[ai-policy-and-regulation]]
 - **reinforcement-learning** — [[world-models-agent-imagination]]
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
+- **renaissance-technologies** — [[jim-simons-medallion-quant-framework]]
 - **representation-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **research-agent** — [[research-agent-evidence-operator]]
 - **research-agents** — [[21-agent-building-mistakes]]
@@ -1126,6 +1149,7 @@
 - **serving** — [[inference-engines-2026]]
 - **settings** — [[claude-code-hidden-settings]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
+- **signal-detection** — [[jim-simons-medallion-quant-framework]]
 - **similarity-search** — [[how-vector-database-works]]
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
@@ -1146,7 +1170,6 @@
 - **time-management** — [[units-of-time-alfred-lin]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
-- **trading** — [[markov-chains-polymarket-trading]]
 - **trimming** — [[trimming-introduction]]
 - **twitter** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **typescript** — [[mcp-server-workflow-problems]]

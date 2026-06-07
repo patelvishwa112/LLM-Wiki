@@ -122,6 +122,7 @@
 ### Finance
 
 - [[jp-morgan-pays-650000-a-year-for-quants-they-built]] — [J.P. Morgan pays $650,000+ a year for quants. They built this exact Python train](https://x.com/RohOnChain/status/2056097405783945392)
+- [[jim-simons-medallion-quant-framework]] — [How Jim Simon's Algorithm Prints Money While You Sleep (The Exact Quant Framework)](https://x.com/ritonchain/status/2063308228323328247) `[quant, jim-simons, medallion, renaissance-technologies, trading, markov-chains, kelly-criterion, hurst-exponent, factor-model, finance]`
 - [[how-to-read-company-ai-analyst]] — [How to Read Any Company With AI Like an Analyst](https://x.com/gemchange_ltd/status/2060757358297469365)
 - [[article]] — [Article](https://x.com/RohOnChain/status/2056753978042712565)
 - [[tradermorin]] — [TraderMorin](https://x.com/TraderMorin/status/2055267575945150852)
@@ -290,6 +291,7 @@
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] `[models, rl]`
 - [[introducing-hrm-text]] `[papers, models]`
+- [[jim-simons-medallion-quant-framework]] `[quant, jim-simons, medallion, renaissance-technologies, trading, markov-chains, kelly-criterion, hurst-exponent, factor-model, finance]`
 - [[jp-morgan-pays-650000-a-year-for-quants-they-built]] `[finance, productivity]`
 - [[joint-embedding-predictive-architecture-jepa]] `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] `[papers]`
