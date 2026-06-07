@@ -227,6 +227,8 @@
 
 - [[finished-going-through-studying-and-taking-detaile]] — [Finished going through, studying and taking detailed notes on Parts I & II of th](https://x.com/latentchiz/status/2054605079349485675)
 - [[harbor-rl-coding-environments]] — [RL Coding Environments 101: Why Harbor Exists](https://x.com/adithya_s_k/status/2054961319179420035)
+- [[rl-interview-questions-2026]] — [RL Interview Questions 2026](https://x.com/sheriyuo/status/2063295181131247674) `[rl, rlhf, training, interview-questions, ppo, grpo, infrastructure]`
+- [[rl-interview-answers-2026]] — [RL Interview Answers 2026](https://x.com/vivek_2332/status/2063566811749331353) `[rl, rlhf, training, interview-answers, ppo, grpo, infrastructure, async-rl, moe]`
 
 
 ### Security
