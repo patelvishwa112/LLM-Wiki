@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 431 unique tags across 168 processed notes.
+> 434 unique tags across 169 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -26,13 +26,14 @@
 - [[iii-agent-harness-workers]]
 - [[rethinking-search-as-code-generation]]
 
-### agent-ops (6)
+### agent-ops (7)
 
 - [[21-agent-building-mistakes]]
 - [[agent-harness-engineering-agentforge]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
 - [[harness-engineering-2026-discipline]]
+- [[llms-securing-source-code]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
 ### agents (54)
@@ -109,7 +110,7 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (7)
+### anthropic (8)
 
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
@@ -117,6 +118,7 @@
 - [[anthropic-self-service-analytics-claude]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[llms-securing-source-code]]
 - [[priests-of-agi-interpretability-crisis]]
 
 ### architecture (10)
@@ -149,7 +151,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (31)
+### claude-code (32)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -179,6 +181,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[learn-harness-engineering]]
 - [[level-above-phd-knowledge-works-without-you]]
+- [[llms-securing-source-code]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -202,6 +205,14 @@
 - [[harbor-rl-coding-environments]]
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
+
+### enterprise (5)
+
+- [[anthropic-self-service-analytics-claude]]
+- [[enterprise-and-industry-applications]]
+- [[llms-securing-source-code]]
+- [[mcp-core-architecture-explained]]
+- [[memory-is-retained-consequence]]
 
 ### evals (7)
 
@@ -388,7 +399,7 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (17)
+### skills (18)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -405,6 +416,7 @@
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[hermes-kanban-mission-control]]
+- [[llms-securing-source-code]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 
@@ -643,13 +655,6 @@
 
 - [[ai-agents]]
 - [[claude-code-self-correcting-setup]]
-
-### enterprise (4)
-
-- [[anthropic-self-service-analytics-claude]]
-- [[enterprise-and-industry-applications]]
-- [[mcp-core-architecture-explained]]
-- [[memory-is-retained-consequence]]
 
 ### evaluation (2)
 
@@ -919,6 +924,11 @@
 - [[claude-dynamic-workflows-second-brain]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[level-above-phd-knowledge-works-without-you]]
+
+### security (2)
+
+- [[llms-securing-source-code]]
+- [[nvidia-skillspector-security-scanner]]
 
 ### societal-impacts (4)
 
@@ -1241,12 +1251,12 @@
 - **sae-steering** — [[Llama SAE Interpretability Project]]
 - **saga** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **saliency** — [[priests-of-agi-interpretability-crisis]]
+- **sandbox** — [[llms-securing-source-code]]
 - **sarif** — [[nvidia-skillspector-security-scanner]]
 - **scalable-oversight** — [[scalable-oversight]]
 - **scaling-laws** — [[scaling-laws]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]
 - **search** — [[rethinking-search-as-code-generation]]
-- **security** — [[nvidia-skillspector-security-scanner]]
 - **self-correction** — [[claude-code-self-correcting-setup]]
 - **self-improvement** — [[sia-recursive-self-improving-agent]]
 - **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
@@ -1279,6 +1289,7 @@
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
 - **templates** — [[claude-code-slash-command-library]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
+- **threat-modeling** — [[llms-securing-source-code]]
 - **time-management** — [[units-of-time-alfred-lin]]
 - **tool-design** — [[agent-harness-engineering-agentforge]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
@@ -1294,6 +1305,7 @@
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vlm** — [[why-layout-matters-document-processing]]
 - **vocabulary** — [[trimming-introduction]]
+- **vulnerability-scanning** — [[llms-securing-source-code]]
 - **weather** — [[mosaic-probabilistic-weather-model]]
 - **workers** — [[iii-agent-harness-workers]]
 - **workflow** — [[level-above-phd-knowledge-works-without-you]]

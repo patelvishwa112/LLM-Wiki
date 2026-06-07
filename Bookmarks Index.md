@@ -111,6 +111,7 @@
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
+- [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 
 ### Evals
 
@@ -321,6 +322,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
+- [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[maziyarpanahi]] `[ai-ml]`
 - [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
