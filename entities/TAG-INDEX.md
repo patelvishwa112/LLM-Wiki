@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 419 unique tags across 163 processed notes.
+> 421 unique tags across 164 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -143,7 +143,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (28)
+### claude-code (29)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -156,6 +156,7 @@
 - [[claude-code-hidden-settings]]
 - [[claude-code-investment-research-setup]]
 - [[claude-code-self-correcting-setup]]
+- [[claude-code-slash-command-library]]
 - [[claude-code-slm-training-bootstrap]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-hidden-features-guide]]
@@ -184,8 +185,9 @@
 - [[nvidia-skillspector-security-scanner]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (6)
+### coding-tools (7)
 
+- [[claude-code-slash-command-library]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
@@ -314,8 +316,9 @@
 - [[iii-agent-harness-workers]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### productivity (9)
+### productivity (10)
 
+- [[claude-code-slash-command-library]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-cowork-60-power-moves]]
 - [[every-agentic-engineering-hack-june-2026]]
@@ -374,12 +377,13 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (14)
+### skills (15)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[agent-harness-engineering-agentforge]]
 - [[autobrowse-browser-agent-memory]]
+- [[claude-code-slash-command-library]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-plugin-building-guide]]
 - [[claude-dynamic-workflows-second-brain]]
@@ -1229,6 +1233,7 @@
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
+- **slash-commands** — [[claude-code-slash-command-library]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
@@ -1241,6 +1246,7 @@
 - **sutton-barto** — [[sutton-barto-rl-notes]]
 - **swarms** — [[how-to-build-ai-agent-swarms]]
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
+- **templates** — [[claude-code-slash-command-library]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **time-management** — [[units-of-time-alfred-lin]]
 - **tool-design** — [[agent-harness-engineering-agentforge]]

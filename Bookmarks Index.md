@@ -96,6 +96,7 @@
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
+- [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 
 ### Design
 
@@ -219,6 +220,7 @@
 - [[claude-cowork-14-day-guide]] `[claude, cowork, automation, productivity, workflows]`
 - [[claude-code-changed-what-agents-look-like]] `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-code-self-correcting-setup]] `[claude-code, engineering]`
+- [[claude-code-slash-command-library]] `[claude-code, slash-commands, skills, productivity, templates]`
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[2-months-ago-i-started-building-unified-memory-lay]] `[agents, models]`
 - [[2026-is-shaping-up-to-be-the-year-of-opd-more-spec]] `[training]`
