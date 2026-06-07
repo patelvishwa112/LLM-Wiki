@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 421 unique tags across 164 processed notes.
+> 423 unique tags across 165 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -127,10 +127,11 @@
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
 
-### claude (13)
+### claude (14)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- [[ai-survival-guide-ikea-style]]
 - [[ai-writing-style-personalization]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[claude-cowork-14-day-guide]]
@@ -143,13 +144,14 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (29)
+### claude-code (30)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-memory-landscape-2026]]
+- [[ai-survival-guide-ikea-style]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
@@ -316,8 +318,9 @@
 - [[iii-agent-harness-workers]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### productivity (10)
+### productivity (11)
 
+- [[ai-survival-guide-ikea-style]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-cowork-60-power-moves]]
@@ -377,11 +380,12 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (15)
+### skills (16)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[agent-harness-engineering-agentforge]]
+- [[ai-survival-guide-ikea-style]]
 - [[autobrowse-browser-agent-memory]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-60-power-moves]]
@@ -516,8 +520,9 @@
 - [[induction-heads]]
 - [[mechanistic-interpretability]]
 
-### claude-cowork (3)
+### claude-cowork (4)
 
+- [[ai-survival-guide-ikea-style]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-plugin-building-guide]]
 - [[claude-hidden-features-guide]]
@@ -996,6 +1001,7 @@
 - **ann** — [[how-vector-database-works]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **arxiv** — [[persona-vectors-paper]]
+- **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
@@ -1003,6 +1009,7 @@
 - **autonomy** — [[hermes-goal-mode-guide]]
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
+- **beginner** — [[ai-survival-guide-ikea-style]]
 - **biosecurity** — [[ai-biosecurity-and-nuclear]]
 - **braintrust** — [[continuous-trace-intelligence-braintrust-topics]]
 - **browser-agents** — [[autobrowse-browser-agent-memory]]
