@@ -153,6 +153,7 @@
 - [[article]] — [Article](https://x.com/eng_khairallah1/status/2054132051536961540)
 - [[mcp-server-workflow-problems]] — [Build an MCP server to solve your annoying workflow problems](https://medium.com/google-cloud/build-an-mcp-server-to-solve-your-annoying-workflow-problems-aa696d5ccf44)
 - [[50-mcp-servers-guide]] — [50 MCP Servers That Give Claude, Codex & Gemini Superpowers](https://x.com/explorax_/status/2062448236439155173) `[mcp, agents, claude-code, codex, catalog]`
+- [[mcp-core-architecture-explained]] — [MCP Core Architecture Explained: Hosts, Clients, Servers, Tools, Resources, and Prompts](https://x.com/techyoutbe/status/2063553215623577693) `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 
 ### Models
 
@@ -319,6 +320,7 @@
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[maziyarpanahi]] `[ai-ml]`
+- [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
 - [[memory-is-retained-consequence]] `[memory, agents, enterprise, knowledge-graphs, infrastructure]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] `[training, rl, models, microsoft, mai, data-quality, ablations]`

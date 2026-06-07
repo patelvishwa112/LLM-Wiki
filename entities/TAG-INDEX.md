@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 426 unique tags across 166 processed notes.
+> 428 unique tags across 167 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -34,7 +34,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### agents (53)
+### agents (54)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -77,6 +77,7 @@
 - [[learn-harness-engineering]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
+- [[mcp-core-architecture-explained]]
 - [[mcp-server-workflow-problems]]
 - [[memory-is-retained-consequence]]
 - [[openclaw-hermes-supervisor-setup]]
@@ -116,7 +117,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### architecture (9)
+### architecture (10)
 
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[dive-into-claude-code-vila-lab]]
@@ -125,6 +126,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
+- [[mcp-core-architecture-explained]]
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
 
@@ -243,13 +245,14 @@
 - [[quarq-agent-memory-architecture]]
 - [[what-is-kv-cache-llms]]
 
-### mcp (7)
+### mcp (8)
 
 - [[50-mcp-servers-guide]]
 - [[agent-harness-engineering-agentforge]]
 - [[claude-hidden-features-guide]]
 - [[generative-ui-is-the-new-frontend]]
 - [[how-to-read-company-ai-analyst]]
+- [[mcp-core-architecture-explained]]
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
 
@@ -407,6 +410,14 @@
 - [[huggingface-model-architecture-visualizer]]
 - [[multi-lora-training-osmosis]]
 - [[sia-recursive-self-improving-agent]]
+
+### tools (5)
+
+- [[50-mcp-servers-guide]]
+- [[claude-code-changed-what-agents-look-like]]
+- [[huggingface-model-architecture-visualizer]]
+- [[mcp-core-architecture-explained]]
+- [[osiris-open-source-palantir-tool]]
 
 ### training (17)
 
@@ -628,9 +639,10 @@
 - [[ai-agents]]
 - [[claude-code-self-correcting-setup]]
 
-### enterprise (2)
+### enterprise (3)
 
 - [[enterprise-and-industry-applications]]
+- [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
 
 ### evaluation (2)
@@ -950,13 +962,6 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
 
-### tools (4)
-
-- [[50-mcp-servers-guide]]
-- [[claude-code-changed-what-agents-look-like]]
-- [[huggingface-model-architecture-visualizer]]
-- [[osiris-open-source-palantir-tool]]
-
 ### trading (2)
 
 - [[jim-simons-medallion-quant-framework]]
@@ -1201,6 +1206,7 @@
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **prompt-optimization** — [[automate-writing-llm-prompts-dspy]]
+- **protocol-design** — [[mcp-core-architecture-explained]]
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
@@ -1240,6 +1246,7 @@
 - **semantic-search** — [[how-vector-database-works]]
 - **semantic-state** — [[memory-is-retained-consequence]]
 - **sentra** — [[memory-is-retained-consequence]]
+- **separation-of-concerns** — [[mcp-core-architecture-explained]]
 - **serving** — [[inference-engines-2026]]
 - **settings** — [[claude-code-hidden-settings]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
