@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 456 unique tags across 189 processed notes.
+> 459 unique tags across 190 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -43,7 +43,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[zero-trust-ai-agents]]
 
-### agents (66)
+### agents (67)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -56,6 +56,7 @@
 - [[agent-memory-landscape-2026]]
 - [[agentic-misalignment]]
 - [[ai-agents]]
+- [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[autobrowse-browser-agent-memory]]
 - [[autoscientists-decentralized-ai-research-agents]]
@@ -129,9 +130,10 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (24)
+### anthropic (25)
 
 - [[ai-native-engineering-org]]
+- [[anthropic-ant-cli-guide]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
@@ -190,7 +192,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (38)
+### claude-code (39)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -199,6 +201,7 @@
 - [[agent-memory-landscape-2026]]
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
+- [[anthropic-ant-cli-guide]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-internal-claude-code-workflow]]
@@ -312,9 +315,10 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[research-agent-evidence-operator]]
 
-### infrastructure (5)
+### infrastructure (6)
 
 - [[agent-memory-landscape-2026]]
+- [[anthropic-ant-cli-guide]]
 - [[memory-is-retained-consequence]]
 - [[rl-environments-guide-llm]]
 - [[rl-interview-answers-2026]]
@@ -345,10 +349,11 @@
 - [[rl-interview-questions-2026]]
 - [[what-is-kv-cache-llms]]
 
-### mcp (13)
+### mcp (14)
 
 - [[50-mcp-servers-guide]]
 - [[agent-harness-engineering-agentforge]]
+- [[anthropic-ant-cli-guide]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[claude-hidden-features-guide]]
 - [[claude-managed-agents]]
@@ -922,6 +927,11 @@
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
 
+### managed-agents (2)
+
+- [[anthropic-ant-cli-guide]]
+- [[code-w-claude-london-2026]]
+
 ### market-research (2)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -1166,6 +1176,7 @@
 - **alignment-faking** — [[alignment-faking]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **ann** — [[how-vector-database-works]]
+- **ant-cli** — [[anthropic-ant-cli-guide]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
@@ -1189,6 +1200,7 @@
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
 - **ci-cd** — [[nvidia-skillspector-security-scanner]]
 - **classifiers** — [[jailbreaks-and-defenses]]
+- **cli** — [[anthropic-ant-cli-guide]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
@@ -1225,6 +1237,7 @@
 - **deepmind** — [[mosaic-probabilistic-weather-model]]
 - **design** — [[the-html-brand-input-based-outcomes]]
 - **desktop** — [[claude-cowork-14-day-guide]]
+- **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **dlp** — [[claude-compliance-security-partners]]
@@ -1313,7 +1326,6 @@
 - **local-llms** — [[21-agent-building-mistakes]]
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
-- **managed-agents** — [[code-w-claude-london-2026]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
