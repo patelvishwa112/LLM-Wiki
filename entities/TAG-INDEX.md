@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 388 unique tags across 156 processed notes.
+> 397 unique tags across 157 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -567,9 +567,10 @@
 - [[claude-for-education]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 
-### embeddings (3)
+### embeddings (4)
 
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
+- [[how-vector-database-works]]
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
@@ -604,6 +605,11 @@
 
 - [[curiosity-bayesian-bandit]]
 - [[general-intelligence-rethinking-exploration-2022]]
+
+### faiss (2)
+
+- [[how-vector-database-works]]
+- [[quarq-agent-memory-architecture]]
 
 ### faithfulness (2)
 
@@ -771,10 +777,11 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[multi-lora-training-osmosis]]
 
-### rag (3)
+### rag (4)
 
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[how-to-build-agent-that-never-forgets]]
+- [[how-vector-database-works]]
 - [[quarq-agent-memory-architecture]]
 
 ### research (2)
@@ -890,6 +897,7 @@
 - **ai-safety** — [[recursive-self-improvement-2028-prediction]]
 - **alignment-faking** — [[alignment-faking]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- **ann** — [[how-vector-database-works]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **arxiv** — [[persona-vectors-paper]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
@@ -924,6 +932,7 @@
 - **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **copilot** — [[agent-memory-landscape-2026]]
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
+- **cosine-similarity** — [[how-vector-database-works]]
 - **course** — [[learn-harness-engineering]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **creativity** — [[the-html-brand-input-based-outcomes]]
@@ -959,7 +968,6 @@
 - **evidence** — [[research-agent-evidence-operator]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **extended-thinking** — [[extended-thinking]]
-- **faiss** — [[quarq-agent-memory-architecture]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fault-tolerance** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **feedback-loops** — [[feedback-loops-claude-code-less-babysitting]]
@@ -983,17 +991,20 @@
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hardware** — [[inference-engines-2026]]
+- **hnsw** — [[how-vector-database-works]]
 - **hooks** — [[claude-code-self-correcting-setup]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
+- **indexing** — [[how-vector-database-works]]
 - **induction-heads** — [[induction-heads]]
 - **inference-optimization** — [[trimming-introduction]]
 - **interview-me** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **investing** — [[how-to-read-company-ai-analyst]]
 - **investment-research** — [[claude-code-investment-research-setup]]
+- **ivf** — [[how-vector-database-works]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **kanban** — [[hermes-kanban-mission-control]]
@@ -1065,6 +1076,7 @@
 - **playwright** — [[claude-code-investment-research-setup]]
 - **policy-engine** — [[iii-agent-harness-workers]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
+- **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
 - **pretraining** — [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -1108,11 +1120,13 @@
 - **self-improvement** — [[sia-recursive-self-improving-agent]]
 - **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
+- **semantic-search** — [[how-vector-database-works]]
 - **semantic-state** — [[memory-is-retained-consequence]]
 - **sentra** — [[memory-is-retained-consequence]]
 - **serving** — [[inference-engines-2026]]
 - **settings** — [[claude-code-hidden-settings]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
+- **similarity-search** — [[how-vector-database-works]]
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
@@ -1139,6 +1153,7 @@
 - **ubuntu** — [[ubuntu-shuttleworth-story]]
 - **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **vault** — [[research-agent-evidence-operator]]
+- **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vlm** — [[why-layout-matters-document-processing]]
