@@ -79,6 +79,7 @@
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
+- [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 
 ### Coding Tools
 
@@ -288,6 +289,7 @@
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] `[models, rl]`
 - [[introducing-hrm-text]] `[papers, models]`
 - [[jp-morgan-pays-650000-a-year-for-quants-they-built]] `[finance, productivity]`
+- [[joint-embedding-predictive-architecture-jepa]] `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] `[papers]`
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] `[productivity, papers]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 376 unique tags across 155 processed notes.
+> 388 unique tags across 156 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -567,9 +567,10 @@
 - [[claude-for-education]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 
-### embeddings (2)
+### embeddings (3)
 
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
+- [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
 ### encoding-deployment-gap (3)
@@ -867,6 +868,11 @@
 - [[huggingface-model-architecture-visualizer]]
 - [[osiris-open-source-palantir-tool]]
 
+### world-models (2)
+
+- [[joint-embedding-predictive-architecture-jepa]]
+- [[world-models-agent-imagination]]
+
 ## Single-Use Tags
 
 - **a2ui** — [[generative-ui-is-the-new-frontend]]
@@ -888,6 +894,7 @@
 - **arxiv** — [[persona-vectors-paper]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
+- **autonomous-machine-intelligence** — [[joint-embedding-predictive-architecture-jepa]]
 - **autonomy** — [[hermes-goal-mode-guide]]
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
@@ -908,11 +915,13 @@
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
 - **computer-use** — [[computer-use]]
+- **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-management** — [[harness-is-the-product-context-aware-agents]]
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]
 - **context-window** — [[harness-is-the-product-context-aware-agents]]
+- **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **copilot** — [[agent-memory-landscape-2026]]
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
 - **course** — [[learn-harness-engineering]]
@@ -942,6 +951,7 @@
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
 - **efficiency** — [[hrm-text-1b-reasoning-model]]
+- **energy-based-models** — [[joint-embedding-predictive-architecture-jepa]]
 - **ensemble-methods** — [[mosaic-probabilistic-weather-model]]
 - **entity-extraction** — [[graphiti-knowledge-graph-agent-memory]]
 - **environment** — [[harbor-rl-coding-environments]]
@@ -976,6 +986,7 @@
 - **hooks** — [[claude-code-self-correcting-setup]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
+- **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
 - **induction-heads** — [[induction-heads]]
@@ -984,6 +995,7 @@
 - **investing** — [[how-to-read-company-ai-analyst]]
 - **investment-research** — [[claude-code-investment-research-setup]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
+- **jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **kanban** — [[hermes-kanban-mission-control]]
 - **kelly-criterion** — [[markov-chains-polymarket-trading]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
@@ -1011,6 +1023,7 @@
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **mem0** — [[agent-memory-landscape-2026]]
+- **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
 - **meta-skills** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
@@ -1072,6 +1085,7 @@
 - **regulation** — [[ai-policy-and-regulation]]
 - **reinforcement-learning** — [[world-models-agent-imagination]]
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
+- **representation-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **research-agent** — [[research-agent-evidence-operator]]
 - **research-agents** — [[21-agent-building-mistakes]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
@@ -1092,6 +1106,7 @@
 - **security** — [[nvidia-skillspector-security-scanner]]
 - **self-correction** — [[claude-code-self-correcting-setup]]
 - **self-improvement** — [[sia-recursive-self-improving-agent]]
+- **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
 - **semantic-state** — [[memory-is-retained-consequence]]
 - **sentra** — [[memory-is-retained-consequence]]
@@ -1122,12 +1137,14 @@
 - **twitter** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]
+- **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **vault** — [[research-agent-evidence-operator]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
+- **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vlm** — [[why-layout-matters-document-processing]]
 - **vocabulary** — [[trimming-introduction]]
 - **weather** — [[mosaic-probabilistic-weather-model]]
 - **workers** — [[iii-agent-harness-workers]]
 - **workflow-automation** — [[claude-code-investment-research-setup]]
-- **world-models** — [[world-models-agent-imagination]]
 - **writing** — [[ai-writing-style-personalization]]
+- **yann-lecun** — [[joint-embedding-predictive-architecture-jepa]]
