@@ -2,21 +2,39 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 417 unique tags across 162 processed notes.
+> 419 unique tags across 163 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
 
-### agent-architecture (6)
+### agent-architecture (7)
 
 - [[21-agent-building-mistakes]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[coding-agent-harness-eight-pillars]]
+- [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 
-### agents (51)
+### agent-harness (6)
+
+- [[Dynamic Workflows in Claude Code]]
+- [[agent-harness-engineering-agentforge]]
+- [[harness-engineering-2026-discipline]]
+- [[hermes-harness-deep-dive-aparnadhinak]]
+- [[iii-agent-harness-workers]]
+- [[rethinking-search-as-code-generation]]
+
+### agent-ops (5)
+
+- [[21-agent-building-mistakes]]
+- [[agent-harness-engineering-agentforge]]
+- [[anthropic-internal-claude-code-workflow]]
+- [[harness-engineering-2026-discipline]]
+- [[voxyz-ai-10-lessons-agents-md]]
+
+### agents (53)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -25,6 +43,7 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[Non-Obvious Agent Projects]]
+- [[agent-harness-engineering-agentforge]]
 - [[agent-memory-landscape-2026]]
 - [[agentic-misalignment]]
 - [[ai-agents]]
@@ -45,6 +64,7 @@
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
+- [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
@@ -86,11 +106,12 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (5)
+### anthropic (6)
 
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
 - [[anthropic-publications]]
+- [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[priests-of-agi-interpretability-crisis]]
 
@@ -122,7 +143,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (27)
+### claude-code (28)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -146,6 +167,7 @@
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[goal-primitive-guide]]
+- [[harness-engineering-2026-discipline]]
 - [[learn-harness-engineering]]
 - [[level-above-phd-knowledge-works-without-you]]
 - [[nvidia-skillspector-security-scanner]]
@@ -216,9 +238,10 @@
 - [[quarq-agent-memory-architecture]]
 - [[what-is-kv-cache-llms]]
 
-### mcp (6)
+### mcp (7)
 
 - [[50-mcp-servers-guide]]
+- [[agent-harness-engineering-agentforge]]
 - [[claude-hidden-features-guide]]
 - [[generative-ui-is-the-new-frontend]]
 - [[how-to-read-company-ai-analyst]]
@@ -336,8 +359,9 @@
 - [[rlm-recursive-llm-query-system]]
 - [[sutton-barto-rl-notes]]
 
-### safety (11)
+### safety (12)
 
+- [[agent-harness-engineering-agentforge]]
 - [[ai-alignment]]
 - [[ai-biosecurity-and-nuclear]]
 - [[ai-cybersecurity]]
@@ -350,10 +374,11 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (13)
+### skills (14)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
+- [[agent-harness-engineering-agentforge]]
 - [[autobrowse-browser-agent-memory]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-plugin-building-guide]]
@@ -416,24 +441,11 @@
 - [[dive-into-claude-code-vila-lab]]
 - [[learn-harness-engineering]]
 
-### agent-harness (4)
-
-- [[Dynamic Workflows in Claude Code]]
-- [[hermes-harness-deep-dive-aparnadhinak]]
-- [[iii-agent-harness-workers]]
-- [[rethinking-search-as-code-generation]]
-
 ### agent-memory (3)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[autobrowse-browser-agent-memory]]
 - [[graphiti-knowledge-graph-agent-memory]]
-
-### agent-ops (3)
-
-- [[21-agent-building-mistakes]]
-- [[anthropic-internal-claude-code-workflow]]
-- [[voxyz-ai-10-lessons-agents-md]]
 
 ### ai-agents (2)
 
@@ -538,16 +550,23 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[harness-is-the-product-context-aware-agents]]
 
+### context-management (3)
+
+- [[agent-harness-engineering-agentforge]]
+- [[harness-engineering-2026-discipline]]
+- [[harness-is-the-product-context-aware-agents]]
+
 ### continual-learning (2)
 
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[quarq-agent-memory-architecture]]
 
-### cost-optimization (3)
+### cost-optimization (4)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[claude-code-cost-optimization-prompts]]
 - [[deepseek-v4-claude-code-setup]]
+- [[harness-engineering-2026-discipline]]
 
 ### critique (2)
 
@@ -634,6 +653,11 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
+### feedback-loops (2)
+
+- [[feedback-loops-claude-code-less-babysitting]]
+- [[harness-engineering-2026-discipline]]
+
 ### finance (4)
 
 - [[claude-code-investment-research-setup]]
@@ -661,10 +685,11 @@
 - [[coding-agent-harness-eight-pillars]]
 - [[harness-is-the-product-context-aware-agents]]
 
-### harness-engineering (3)
+### harness-engineering (4)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
+- [[harness-engineering-2026-discipline]]
 - [[learn-harness-engineering]]
 
 ### huggingface (2)
@@ -747,6 +772,11 @@
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
 
+### openai (2)
+
+- [[harness-engineering-2026-discipline]]
+- [[macro-evals-for-agentic-systems-openai-cookbook]]
+
 ### openclaw (3)
 
 - [[21-agent-building-mistakes]]
@@ -801,6 +831,11 @@
 - [[claude-hidden-features-guide]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
+
+### prompt-injection (2)
+
+- [[agent-harness-engineering-agentforge]]
+- [[nvidia-skillspector-security-scanner]]
 
 ### prompts (2)
 
@@ -873,8 +908,9 @@
 - [[exp1-sae-gap-closure-initial-result]]
 - [[persona-vectors-paper]]
 
-### subagents (3)
+### subagents (4)
 
+- [[agent-harness-engineering-agentforge]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[harness-is-the-product-context-aware-agents]]
@@ -889,6 +925,11 @@
 
 - [[persona-vectors-paper]]
 - [[sycophancy]]
+
+### testing (2)
+
+- [[540k-lines-i-didnt-need-garry-tan]]
+- [[agent-harness-engineering-agentforge]]
 
 ### token-economy (2)
 
@@ -978,7 +1019,6 @@
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context** — [[claude-code-changed-what-agents-look-like]]
-- **context-management** — [[harness-is-the-product-context-aware-agents]]
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]
 - **context-window** — [[harness-is-the-product-context-aware-agents]]
@@ -1025,7 +1065,6 @@
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fault-tolerance** — [[fault-tolerance-langgraph-retries-timeouts]]
-- **feedback-loops** — [[feedback-loops-claude-code-less-babysitting]]
 - **feynman-technique** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **finetuning** — [[persona-vectors-paper]]
 - **firecrawl** — [[claude-code-investment-research-setup]]
@@ -1113,7 +1152,6 @@
 - **nvidia** — [[nvidia-skillspector-security-scanner]]
 - **observability** — [[continuous-trace-intelligence-braintrust-topics]]
 - **ocr** — [[why-layout-matters-document-processing]]
-- **openai** — [[macro-evals-for-agentic-systems-openai-cookbook]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
 - **opportunity-discovery** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **opus** — [[opus-48-token-economy-guide]]
@@ -1144,7 +1182,6 @@
 - **probing** — [[ghost-in-residual-stream-experiment]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
-- **prompt-injection** — [[nvidia-skillspector-security-scanner]]
 - **prompt-optimization** — [[automate-writing-llm-prompts-dspy]]
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
@@ -1204,8 +1241,9 @@
 - **sutton-barto** — [[sutton-barto-rl-notes]]
 - **swarms** — [[how-to-build-ai-agent-swarms]]
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
-- **testing** — [[540k-lines-i-didnt-need-garry-tan]]
+- **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **time-management** — [[units-of-time-alfred-lin]]
+- **tool-design** — [[agent-harness-engineering-agentforge]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
 - **trimming** — [[trimming-introduction]]
