@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 370 unique tags across 154 processed notes.
+> 376 unique tags across 155 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -104,7 +104,7 @@
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
 
-### claude (12)
+### claude (13)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -116,6 +116,7 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[how-to-build-ai-agent-swarms]]
 - [[iceberg-opus-48-prompts]]
+- [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
@@ -443,6 +444,11 @@
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
 
+### artifacts (2)
+
+- [[claude-hidden-features-guide]]
+- [[learn-anything-3x-faster-claude-9-study-systems]]
+
 ### attention (2)
 
 - [[everything-you-didnt-want-to-know-about-architectures]]
@@ -556,6 +562,11 @@
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
 
+### education (2)
+
+- [[claude-for-education]]
+- [[learn-anything-3x-faster-claude-9-study-systems]]
+
 ### embeddings (2)
 
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
@@ -659,6 +670,11 @@
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[research-agent-evidence-operator]]
 
+### learning (2)
+
+- [[learn-anything-3x-faster-claude-9-study-systems]]
+- [[llm-engineering-projects-roadmap-2026]]
+
 ### llm-engineering (2)
 
 - [[coding-agent-harness-eight-pillars]]
@@ -733,10 +749,16 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
 
-### projects (2)
+### projects (3)
 
 - [[claude-hidden-features-guide]]
+- [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
+
+### prompts (2)
+
+- [[15-prompts-cut-coding-costs-88-percent]]
+- [[learn-anything-3x-faster-claude-9-study-systems]]
 
 ### quant (2)
 
@@ -850,6 +872,7 @@
 - **a2ui** — [[generative-ui-is-the-new-frontend]]
 - **ablations** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **active-recall** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
@@ -862,7 +885,6 @@
 - **alignment-faking** — [[alignment-faking]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **approval-gate** — [[iii-agent-harness-workers]]
-- **artifacts** — [[claude-hidden-features-guide]]
 - **arxiv** — [[persona-vectors-paper]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
@@ -917,8 +939,8 @@
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
+- **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
-- **education** — [[claude-for-education]]
 - **efficiency** — [[hrm-text-1b-reasoning-model]]
 - **ensemble-methods** — [[mosaic-probabilistic-weather-model]]
 - **entity-extraction** — [[graphiti-knowledge-graph-agent-memory]]
@@ -931,6 +953,7 @@
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fault-tolerance** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **feedback-loops** — [[feedback-loops-claude-code-less-babysitting]]
+- **feynman-technique** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **finetuning** — [[persona-vectors-paper]]
 - **firecrawl** — [[claude-code-investment-research-setup]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
@@ -972,7 +995,6 @@
 - **kv-cache** — [[what-is-kv-cache-llms]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **layout** — [[why-layout-matters-document-processing]]
-- **learning** — [[llm-engineering-projects-roadmap-2026]]
 - **life** — [[units-of-time-alfred-lin]]
 - **linux** — [[ubuntu-shuttleworth-story]]
 - **llama** — [[Llama SAE Interpretability Project]]
@@ -1040,7 +1062,6 @@
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **prompt-injection** — [[nvidia-skillspector-security-scanner]]
 - **prompt-optimization** — [[automate-writing-llm-prompts-dspy]]
-- **prompts** — [[15-prompts-cut-coding-costs-88-percent]]
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
@@ -1080,9 +1101,12 @@
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
+- **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
+- **study-techniques** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **superpowers** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]
 - **supply-chain** — [[nvidia-skillspector-security-scanner]]
