@@ -97,6 +97,7 @@
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
+- [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 
 ### Design
 
@@ -247,6 +248,7 @@
 - [[amitiitbhu]] `[ai-ml]`
 - [[anshuman-athletickoder-on-building-agents-from-fir]] `[training, agents]`
 - [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
+- [[anthropic-claude-code-skills-lessons]] `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[antpalkin]] `[agents]`
 - [[article]] `[evals, agents]`
 - [[article]] `[evals, coding-tools]`

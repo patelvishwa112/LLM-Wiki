@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 434 unique tags across 169 processed notes.
+> 435 unique tags across 170 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -110,8 +110,9 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (8)
+### anthropic (9)
 
+- [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
 - [[anthropic-publications]]
@@ -151,7 +152,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (32)
+### claude-code (33)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -159,6 +160,7 @@
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-memory-landscape-2026]]
 - [[ai-survival-guide-ikea-style]]
+- [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
 - [[claude-code-changed-what-agents-look-like]]
@@ -337,9 +339,10 @@
 - [[iii-agent-harness-workers]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### productivity (11)
+### productivity (12)
 
 - [[ai-survival-guide-ikea-style]]
+- [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-cowork-60-power-moves]]
@@ -399,12 +402,13 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### skills (18)
+### skills (19)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[agent-harness-engineering-agentforge]]
 - [[ai-survival-guide-ikea-style]]
+- [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-self-service-analytics-claude]]
 - [[autobrowse-browser-agent-memory]]
 - [[claude-code-slash-command-library]]
@@ -474,8 +478,9 @@
 - [[anthropic-natural-language-autoencoders]]
 - [[persona-vectors-paper]]
 
-### agent-engineering (2)
+### agent-engineering (3)
 
+- [[anthropic-claude-code-skills-lessons]]
 - [[dive-into-claude-code-vila-lab]]
 - [[learn-harness-engineering]]
 
@@ -727,6 +732,11 @@
 - [[dive-into-claude-code-vila-lab]]
 - [[harness-engineering-2026-discipline]]
 - [[learn-harness-engineering]]
+
+### hooks (2)
+
+- [[anthropic-claude-code-skills-lessons]]
+- [[claude-code-self-correcting-setup]]
 
 ### huggingface (2)
 
@@ -1126,7 +1136,6 @@
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hnsw** — [[how-vector-database-works]]
-- **hooks** — [[claude-code-self-correcting-setup]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
@@ -1223,6 +1232,7 @@
 - **probing** — [[ghost-in-residual-stream-experiment]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
+- **progressive-disclosure** — [[anthropic-claude-code-skills-lessons]]
 - **prompt-optimization** — [[automate-writing-llm-prompts-dspy]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
 - **pruning** — [[trimming-introduction]]
