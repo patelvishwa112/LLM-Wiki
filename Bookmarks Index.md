@@ -1,6 +1,6 @@
 # X Bookmarks Index
 
-> Auto-generated 2026-05-25. 91 bookmarks organized by topic.
+> Auto-generated 2026-06-07. 366 bookmarks organized by topic.
 
 ## By Topic
 
@@ -59,6 +59,17 @@
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
 - [[agent-harness-engineering-agentforge]] — [Agent Harness Engineering — Lessons from Building AgentForge](https://x.com/bytemohit/status/2063493300884246598) `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 
+
+- [[claude-code-dynamic-workflows-intro]] — [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
+- [[claude-managed-agents]] — [Claude Managed Agents: Production Agents 10x Faster](https://claude.com/blog/claude-managed-agents) `[agents, anthropic, enterprise, mcp, claude, agent-ops]`
+- [[code-w-claude-london-2026]] — [Code w/ Claude London 2026](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`
+- [[coderabbit-claude-agent-orchestration]] — [CodeRabbit: Agent Orchestration on Claude](https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system) `[anthropic, claude-code, agents, orchestration, code-review, planning, evals, startups]`
+- [[harnessing-claudes-intelligence]] — [Harnessing Claude's Intelligence](https://claude.com/blog/harnessing-claudes-intelligence) `[agents, agent-harness, claude, skills, mcp, prompt-engineering]`
+- [[managed-agents-built-in-memory]] — [Managed Agents: Built-in Memory](https://claude.com/blog/claude-managed-agents-memory) `[agents, memory, anthropic, enterprise, agent-ops]`
+- [[managed-agents-dreaming-orchestration]] — [Managed Agents: Dreaming, Outcomes & Multiagent Orchestration](https://claude.com/blog/new-in-claude-managed-agents) `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`
+- [[managed-agents-sandbox-mcp]] — [Managed Agents: Self-Hosted Sandboxes & MCP Tunnels](https://claude.com/blog/claude-managed-agents-updates) `[agents, mcp, enterprise, anthropic, security, agent-ops]`
+- [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
+
 ### Ai Ml
 
 - [[chrishayduk]] — [ChrisHayduk](https://x.com/ChrisHayduk/status/2053807198870880743)
@@ -98,6 +109,11 @@
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
+
+
+- [[anthropic-gtm-claude-code-workflows]] — [GTM Engineering with Claude Code: Jared Sires' Workflows](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, claude-cowork, gtm, sales, skills, productivity, enterprise, mcp]`
+- [[claude-code-dynamic-workflows-intro]] — [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
+- [[code-w-claude-london-2026]] — [Code w/ Claude London 2026](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`
 
 ### Design
 
@@ -141,6 +157,9 @@
 - [[zodchiii]] — [zodchiii](https://x.com/zodchiii/status/2054137878968439247)
 - [[zostaff]] — [zostaff](https://x.com/zostaff/status/2054533153893613839)
 
+
+- [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
+
 ### Interpretability
 
 - [[mushtaqbilalphd]] — [MushtaqBilalPhD](https://x.com/MushtaqBilalPhD/status/2054565093430493609)
@@ -157,6 +176,9 @@
 - [[mcp-server-workflow-problems]] — [Build an MCP server to solve your annoying workflow problems](https://medium.com/google-cloud/build-an-mcp-server-to-solve-your-annoying-workflow-problems-aa696d5ccf44)
 - [[50-mcp-servers-guide]] — [50 MCP Servers That Give Claude, Codex & Gemini Superpowers](https://x.com/explorax_/status/2062448236439155173) `[mcp, agents, claude-code, codex, catalog]`
 - [[mcp-core-architecture-explained]] — [MCP Core Architecture Explained: Hosts, Clients, Servers, Tools, Resources, and Prompts](https://x.com/techyoutbe/status/2063553215623577693) `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
+
+
+- [[managed-agents-sandbox-mcp]] — [Managed Agents: Self-Hosted Sandboxes & MCP Tunnels](https://claude.com/blog/claude-managed-agents-updates) `[agents, mcp, enterprise, anthropic, security, agent-ops]`
 
 ### Models
 
@@ -194,10 +216,24 @@
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[ai-native-engineering-org]] — [Running an AI-Native Engineering Org](https://claude.com/blog/running-an-ai-native-engineering-org) `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 
+
+- [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
+- [[anthropic-gtm-claude-code-workflows]] — [GTM Engineering with Claude Code: Jared Sires' Workflows](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, claude-cowork, gtm, sales, skills, productivity, enterprise, mcp]`
+- [[claude-cowork-best-practices]] — [Claude Cowork Best Practices](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork) `[claude-cowork, anthropic, productivity, knowledge-work, agents, enterprise]`
+- [[claude-cowork-product-guide]] — [The Claude Cowork Product Guide](https://claude.com/blog/the-claude-cowork-product-guide) `[claude-cowork, anthropic, productivity, enterprise, agents, skills, knowledge-work]`
+- [[claude-interactive-visuals]] — [Claude Interactive Visuals](https://claude.com/blog/claude-builds-visuals) `[claude, artifacts, productivity, claude-cowork]`
+
 ### Rl
 
 - [[finished-going-through-studying-and-taking-detaile]] — [Finished going through, studying and taking detailed notes on Parts I & II of th](https://x.com/latentchiz/status/2054605079349485675)
 - [[harbor-rl-coding-environments]] — [RL Coding Environments 101: Why Harbor Exists](https://x.com/adithya_s_k/status/2054961319179420035)
+
+
+### Security
+
+- [[claude-compliance-security-partners]] — [Claude Compliance API & Security Partners](https://claude.com/blog/compliance-api-security-partners) `[anthropic, security, compliance, enterprise, claude, dlp, siem]`
+- [[opus-cybersecurity-partners]] — [Opus in Cybersecurity: Partner Deployments](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity) `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
+- [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
 
 ### Training
 
@@ -215,42 +251,27 @@
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] — [Today we release Mosaic, a probabilistic weather model that shifts the Pareto fr](https://x.com/maxxxzdn/status/2057026766380659085)
 
 ## All Bookmarks (A-Z)
-- [[macro-evals-for-agentic-systems-openai-cookbook]] `[evals]`
-- [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]] `[evals]`
-- [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
-- [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
-
 - [[15-claude-code-settings-most-developers-never-touc]] `[claude-code, coding-tools, productivity]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
 - [[15-prompts-cut-coding-costs-88-percent]] `[claude, kimi, cost-optimization, prompts, coding-tools, workflows]`
-- [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
-- [[claude-cowork-14-day-guide]] `[claude, cowork, automation, productivity, workflows]`
-- [[claude-code-changed-what-agents-look-like]] `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
-- [[claude-code-self-correcting-setup]] `[claude-code, engineering]`
-- [[claude-code-slash-command-library]] `[claude-code, slash-commands, skills, productivity, templates]`
-- [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[2-months-ago-i-started-building-unified-memory-lay]] `[agents, models]`
 - [[2026-is-shaping-up-to-be-the-year-of-opd-more-spec]] `[training]`
 - [[50-mcp-servers-guide]] `[mcp, agents, claude-code, codex, gemini, tools, catalog]`
 - [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
-- [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
-- [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
-- [[multi-lora-training-osmosis]] `[lora, rl, training, qwen, slm]`
-- [[must-read]] `[training, rl]`
-- [[automate-writing-llm-prompts-dspy]] `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
-- [[avichawla]] `[models]`
-- [[avichawla]] `[ai-ml]`
-- [[aiedge]] `[agents]`
-- [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
-- [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
+- [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
 - [[agent-harness-engineering-agentforge]] `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
+- [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
+- [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
+- [[aiedge]] `[agents]`
 - [[akshaypachaar]] `[agents]`
 - [[akshaypachaar]] `[agents, papers]`
 - [[amitiitbhu]] `[ai-ml]`
 - [[anshuman-athletickoder-on-building-agents-from-fir]] `[training, agents]`
-- [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[anthropic-claude-code-skills-lessons]] `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
+- [[anthropic-finance-claude-cowork]] `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
+- [[anthropic-gtm-claude-code-workflows]] `[anthropic, claude-code, claude-cowork, gtm, sales, skills, productivity, enterprise, mcp]`
+- [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[antpalkin]] `[agents]`
 - [[article]] `[evals, agents]`
 - [[article]] `[evals, coding-tools]`
@@ -267,20 +288,41 @@
 - [[article]] `[coding-tools, design]`
 - [[article]] `[agents, coding-tools]`
 - [[ashwingop]] `[productivity]`
+- [[automate-writing-llm-prompts-dspy]] `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[avi-chawla-avichawla-how-top-ai-labs-are-building]] `[agents, coding-tools]`
+- [[avichawla]] `[models]`
+- [[avichawla]] `[ai-ml]`
 - [[brain-dump-of-howwhy-we-use-evals-to-measure-agent]] `[evals, agents]`
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] `[agents, business-ideas]`
 - [[can-llms-adapt-continually-without-losing-base-ski]] `[training, coding-tools]`
 - [[check-this---bootstrapping-claude-to-train-a-slm]] `[training, evals]`
-- [[claude-dynamic-workflows-second-brain]] `[claude-code, dynamic-workflows, obsidian, second-brain, skills, subagents]`
 - [[chrishayduk]] `[ai-ml]`
+- [[claude-code-changed-what-agents-look-like]] `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
+- [[claude-code-dynamic-workflows-intro]] `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
+- [[claude-code-self-correcting-setup]] `[claude-code, engineering]`
+- [[claude-code-slash-command-library]] `[claude-code, slash-commands, skills, productivity, templates]`
+- [[claude-compliance-security-partners]] `[anthropic, security, compliance, enterprise, claude, dlp, siem]`
+- [[claude-cowork-14-day-guide]] `[claude, cowork, automation, productivity, workflows]`
+- [[claude-cowork-best-practices]] `[claude-cowork, anthropic, productivity, knowledge-work, agents, enterprise]`
+- [[claude-cowork-product-guide]] `[claude-cowork, anthropic, productivity, enterprise, agents, skills, knowledge-work]`
+- [[claude-dynamic-workflows-second-brain]] `[claude-code, dynamic-workflows, obsidian, second-brain, skills, subagents]`
+- [[claude-interactive-visuals]] `[claude, artifacts, productivity, claude-cowork]`
+- [[claude-managed-agents]] `[agents, anthropic, enterprise, mcp, claude, agent-ops]`
+- [[code-w-claude-london-2026]] `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`
+- [[coderabbit-claude-agent-orchestration]] `[anthropic, claude-code, agents, orchestration, code-review, planning, evals, startups]`
+- [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
 - [[daily-dose-of-premium-content]] `[agents, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
+- [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`
 - [[dimitrispapail]] `[papers]`
+- [[dimitrispapail]] `[papers]`
+- [[dive-into-claude-code-vila-lab]] `[claude-code, architecture, agent-engineering, harness-engineering, paper, hermes, openclaw]`
+- [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
+- [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
@@ -288,45 +330,48 @@
 - [[gaurigupta]] `[productivity, papers]`
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
 - [[googlegemma]] `[interpretability]`
-- [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
-- [[dimitrispapail]] `[papers]`
-- [[dive-into-claude-code-vila-lab]] `[claude-code, architecture, agent-engineering, harness-engineering, paper, hermes, openclaw]`
-- [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
-- [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
+- [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]] `[evals]`
 - [[harbor-rl-coding-environments]] `[rl, agents, evals, training]`
-- [[harness-is-the-product-context-aware-agents]] `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
 - [[harness-engineering-2026-discipline]] `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops, agent-ops, cost-optimization, context-management]`
+- [[harness-is-the-product-context-aware-agents]] `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
+- [[harnessing-claudes-intelligence]] `[agents, agent-harness, claude, skills, mcp, prompt-engineering]`
 - [[here-is-the-full-timeline-of-policy-gradients-from]] `[finance, coding-tools]`
+- [[hermes-agent-changed-how-i-work]] `[agents, productivity]`
 - [[hermes-goal-mode-guide]] `[hermes, goal, productivity, workflows]`
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
-- [[hermes-agent-changed-how-i-work]] `[agents, productivity]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
-- [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
+- [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
-- [[how-to-set-up-your-content-system]] `[agents, productivity]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
-- [[inference-engines-2026]] `[ai-ml, serving]`
+- [[how-to-set-up-your-content-system]] `[agents, productivity]`
+- [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[huge-kudos-to-barbara-su-rice-cs---msc-stanford-sh]] `[ai-ml]`
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] `[models, rl]`
+- [[inference-engines-2026]] `[ai-ml, serving]`
 - [[introducing-hrm-text]] `[papers, models]`
 - [[jim-simons-medallion-quant-framework]] `[quant, jim-simons, medallion, renaissance-technologies, trading, markov-chains, kelly-criterion, hurst-exponent, factor-model, finance]`
-- [[jp-morgan-pays-650000-a-year-for-quants-they-built]] `[finance, productivity]`
 - [[joint-embedding-predictive-architecture-jepa]] `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
+- [[jp-morgan-pays-650000-a-year-for-quants-they-built]] `[finance, productivity]`
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] `[papers]`
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] `[productivity, papers]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[kirillkweb3]] `[agents]`
-- [[lotteverheyden]] `[ai-ml]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
-- [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
+- [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
+- [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
+- [[lotteverheyden]] `[ai-ml]`
+- [[macro-evals-for-agentic-systems-openai-cookbook]] `[evals]`
+- [[managed-agents-built-in-memory]] `[agents, memory, anthropic, enterprise, agent-ops]`
+- [[managed-agents-dreaming-orchestration]] `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`
+- [[managed-agents-sandbox-mcp]] `[agents, mcp, enterprise, anthropic, security, agent-ops]`
 - [[maziyarpanahi]] `[ai-ml]`
 - [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
@@ -336,28 +381,33 @@
 - [[mlx-engine-v185-kv-cache-agentic]] `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving, optimization]`
 - [[mnilax]] `[ai-ml]`
 - [[mnilax]] `[ai-ml]`
+- [[multi-lora-training-osmosis]] `[lora, rl, training, qwen, slm]`
 - [[mushtaqbilalphd]] `[models]`
 - [[mushtaqbilalphd]] `[ai-ml]`
 - [[mushtaqbilalphd]] `[interpretability]`
+- [[must-read]] `[training, rl]`
 - [[my-apologies-to-deepseek-v4-pro-i-was-not-aware-ab]] `[evals, coding-tools]`
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] `[models, interpretability]`
 - [[neuralavb]] `[papers, training]`
 - [[new-anthropic-research-natural-language-autoencode]] `[evals, papers]`
 - [[new-blackboard-lecture-w]] `[papers, models]`
-- [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[nrehiew]] `[papers, training]`
+- [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
+- [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
+- [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
+- [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`
 - [[problem-first-skill-invert-bad-ideas]] `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[ramplabs]] `[ai-ml]`
 - [[rawworks]] `[evals, papers]`
-- [[ridarketh]] `[ai-ml]`
 - [[research-agent-evidence-operator]] `[research-agent, agents, evidence, vault, compounding]`
 - [[rethinking-search-as-code-generation]] `[agents, search, architecture, sac]`
-- [[rohonchain]] `[ai-ml]`
-- [[rohonchain]] `[ai-ml]`
+- [[ridarketh]] `[ai-ml]`
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
+- [[rohonchain]] `[ai-ml]`
+- [[rohonchain]] `[ai-ml]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`
@@ -379,6 +429,7 @@
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
 - [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[youre-burning-200month-on-claude-these-20-prompts]] `[agents, coding-tools]`
+- [[zero-trust-ai-agents]] `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
 - [[zodchiii]] `[finance]`
 - [[zodchiii]] `[finance]`
 - [[zostaff]] `[finance, papers]`
