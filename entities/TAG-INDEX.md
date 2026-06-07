@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 415 unique tags across 160 processed notes.
+> 415 unique tags across 161 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)

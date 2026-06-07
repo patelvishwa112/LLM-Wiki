@@ -57,6 +57,7 @@
 - [[claude-dynamic-workflows-second-brain]] — [Claude Dynamic Workflows for Your Second Brain](https://x.com/artemxtech/status/2062582596190498864) `[claude-code, dynamic-workflows, obsidian, second-brain]`
 - [[dive-into-claude-code-vila-lab]] — [Dive into Claude Code (architectural analysis)](https://github.com/VILA-Lab/Dive-into-Claude-Code) `[claude-code, architecture, agent-engineering, paper, hermes]`
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
+- [[agent-harness-engineering-agentforge]] — [Agent Harness Engineering — Lessons from Building AgentForge](https://x.com/bytemohit/status/2063493300884246598) `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 
 ### Ai Ml
 
@@ -229,6 +230,7 @@
 - [[avichawla]] `[models]`
 - [[avichawla]] `[ai-ml]`
 - [[aiedge]] `[agents]`
+- [[agent-harness-engineering-agentforge]] `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
 - [[akshaypachaar]] `[agents]`
 - [[akshaypachaar]] `[agents, papers]`
