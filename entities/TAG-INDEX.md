@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 478 unique tags across 196 processed notes.
+> 480 unique tags across 197 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -46,7 +46,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[zero-trust-ai-agents]]
 
-### agents (71)
+### agents (72)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -63,6 +63,7 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
+- [[anthropic-recursive-self-improvement]]
 - [[autobrowse-browser-agent-memory]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-changed-what-agents-look-like]]
@@ -120,12 +121,13 @@
 - [[wtf-is-a-loop]]
 - [[zero-trust-ai-agents]]
 
-### alignment (15)
+### alignment (16)
 
 - [[agentic-misalignment]]
 - [[ai-alignment]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[alignment-faking]]
+- [[anthropic-recursive-self-improvement]]
 - [[claude-values-and-character]]
 - [[constitutional-ai]]
 - [[deceptive-alignment]]
@@ -138,7 +140,7 @@
 - [[scalable-oversight]]
 - [[sycophancy]]
 
-### anthropic (25)
+### anthropic (26)
 
 - [[ai-native-engineering-org]]
 - [[anthropic-ant-cli-guide]]
@@ -148,6 +150,7 @@
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
 - [[anthropic-publications]]
+- [[anthropic-recursive-self-improvement]]
 - [[anthropic-self-service-analytics-claude]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-compliance-security-partners]]
@@ -544,7 +547,7 @@
 - [[rlhf-from-first-principles]]
 - [[rlhf]]
 
-### safety (13)
+### safety (14)
 
 - [[agent-harness-engineering-agentforge]]
 - [[ai-alignment]]
@@ -554,6 +557,7 @@
 - [[ai-persuasion]]
 - [[ai-safety-levels]]
 - [[anthropic-natural-language-autoencoders]]
+- [[anthropic-recursive-self-improvement]]
 - [[detecting-misuse]]
 - [[jailbreaks-and-defenses]]
 - [[model-welfare]]
@@ -707,9 +711,10 @@
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[recursive-self-improvement-2028-prediction]]
 
-### benchmarks (3)
+### benchmarks (4)
 
 - [[agent-memory-landscape-2026]]
+- [[anthropic-recursive-self-improvement]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 
@@ -740,9 +745,10 @@
 - [[claude-code-self-correcting-setup]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### code-generation (2)
+### code-generation (3)
 
 - [[540k-lines-i-didnt-need-garry-tan]]
+- [[anthropic-recursive-self-improvement]]
 - [[rethinking-search-as-code-generation]]
 
 ### code-review (3)
@@ -1116,6 +1122,11 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[multi-lora-training-osmosis]]
 
+### recursive-self-improvement (2)
+
+- [[anthropic-recursive-self-improvement]]
+- [[recursive-self-improvement-2028-prediction]]
+
 ### research (2)
 
 - [[Llama SAE Interpretability Project]]
@@ -1229,6 +1240,7 @@
 - **a2ui** — [[generative-ui-is-the-new-frontend]]
 - **ablations** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **acceleration** — [[anthropic-recursive-self-improvement]]
 - **active-recall** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **adversarial** — [[level-above-phd-knowledge-works-without-you]]
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
@@ -1469,7 +1481,6 @@
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
 - **reasoning** — [[hrm-text-1b-reasoning-model]]
 - **recursive-language-models** — [[rlm-structured-outputs]]
-- **recursive-self-improvement** — [[recursive-self-improvement-2028-prediction]]
 - **red-teaming** — [[red-teaming]]
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **regime-detection** — [[jim-simons-medallion-quant-framework]]
@@ -1480,6 +1491,7 @@
 - **representation-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **research-agent** — [[research-agent-evidence-operator]]
 - **research-agents** — [[21-agent-building-mistakes]]
+- **research-automation** — [[anthropic-recursive-self-improvement]]
 - **research-methodology** — [[training-llm-from-scratch-5-lessons]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **retrieval** — [[quarq-agent-memory-architecture]]
