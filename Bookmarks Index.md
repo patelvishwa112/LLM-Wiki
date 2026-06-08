@@ -246,6 +246,7 @@
 - [[check-this---bootstrapping-claude-to-train-a-slm]] — [Check this - Bootstrapping Claude to train a SLM!](https://x.com/neural_avb/status/2057201992666411518)
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
+- [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 
 ### Weather
 
@@ -424,6 +425,7 @@
 - [[theturingpost]] `[agents]`
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] `[weather, models]`
 - [[tradermorin]] `[finance]`
+- [[training-llm-from-scratch-5-lessons]] `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[trq212]] `[models]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
