@@ -58,6 +58,8 @@
 - [[dive-into-claude-code-vila-lab]] — [Dive into Claude Code (architectural analysis)](https://github.com/VILA-Lab/Dive-into-Claude-Code) `[claude-code, architecture, agent-engineering, paper, hermes]`
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
 - [[agent-harness-engineering-agentforge]] — [Agent Harness Engineering — Lessons from Building AgentForge](https://x.com/bytemohit/status/2063493300884246598) `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
+- [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
+- [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
 
 - [[claude-code-dynamic-workflows-intro]] — [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
@@ -156,6 +158,7 @@
 - [[zodchiii]] — [zodchiii](https://x.com/zodchiii/status/2052368125480354000)
 - [[zodchiii]] — [zodchiii](https://x.com/zodchiii/status/2054137878968439247)
 - [[zostaff]] — [zostaff](https://x.com/zostaff/status/2054533153893613839)
+- [[4-agent-trading-desk]] — [How to build a 4-agent trading desk that finds and trades opportunities while you sleep](https://x.com/zodchiii/status/2063919809281110474) `[agents, trading, multi-agent, orchestration, automation, finance]`
 
 
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
@@ -254,6 +257,7 @@
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] — [Today we release Mosaic, a probabilistic weather model that shifts the Pareto fr](https://x.com/maxxxzdn/status/2057026766380659085)
 
 ## All Bookmarks (A-Z)
+- [[4-agent-trading-desk]] `[agents, trading, multi-agent, orchestration, automation, finance]`
 - [[15-claude-code-settings-most-developers-never-touc]] `[claude-code, coding-tools, productivity]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
 - [[15-prompts-cut-coding-costs-88-percent]] `[claude, kimi, cost-optimization, prompts, coding-tools, workflows]`
@@ -410,6 +414,7 @@
 - [[rethinking-search-as-code-generation]] `[agents, search, architecture, sac]`
 - [[ridarketh]] `[ai-ml]`
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
+- [[rlm-structured-outputs]] `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
@@ -432,6 +437,7 @@
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
+- [[wtf-is-a-loop]] `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[youre-burning-200month-on-claude-these-20-prompts]] `[agents, coding-tools]`
 - [[zero-trust-ai-agents]] `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`

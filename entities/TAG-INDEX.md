@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 459 unique tags across 190 processed notes.
+> 477 unique tags across 195 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -17,15 +17,18 @@
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 
-### agent-harness (7)
+### agent-harness (10)
 
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-harness-engineering-agentforge]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[harness-engineering-2026-discipline]]
 - [[harnessing-claudes-intelligence]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[iii-agent-harness-workers]]
 - [[rethinking-search-as-code-generation]]
+- [[rlm-structured-outputs]]
+- [[wtf-is-a-loop]]
 
 ### agent-ops (13)
 
@@ -43,10 +46,11 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[zero-trust-ai-agents]]
 
-### agents (67)
+### agents (71)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
+- [[4-agent-trading-desk]]
 - [[50-mcp-servers-guide]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -56,6 +60,7 @@
 - [[agent-memory-landscape-2026]]
 - [[agentic-misalignment]]
 - [[ai-agents]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[autobrowse-browser-agent-memory]]
@@ -106,17 +111,20 @@
 - [[rethinking-search-as-code-generation]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
+- [[rlm-structured-outputs]]
 - [[sia-recursive-self-improving-agent]]
 - [[the-html-brand-input-based-outcomes]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
+- [[wtf-is-a-loop]]
 - [[zero-trust-ai-agents]]
 
-### alignment (14)
+### alignment (15)
 
 - [[agentic-misalignment]]
 - [[ai-alignment]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[alignment-faking]]
 - [[claude-values-and-character]]
 - [[constitutional-ai]]
@@ -158,7 +166,7 @@
 - [[priests-of-agi-interpretability-crisis]]
 - [[zero-trust-ai-agents]]
 
-### architecture (10)
+### architecture (11)
 
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[dive-into-claude-code-vila-lab]]
@@ -170,6 +178,15 @@
 - [[mcp-core-architecture-explained]]
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
+- [[training-llm-from-scratch-5-lessons]]
+
+### automation (5)
+
+- [[4-agent-trading-desk]]
+- [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- [[automate-writing-llm-prompts-dspy]]
+- [[claude-cowork-14-day-guide]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### claude (18)
 
@@ -192,7 +209,7 @@
 - [[opus-48-token-economy-guide]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (39)
+### claude-code (40)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -233,6 +250,7 @@
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 - [[voxyz-ai-10-lessons-agents-md]]
+- [[wtf-is-a-loop]]
 
 ### claude-cowork (9)
 
@@ -295,8 +313,9 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 
-### finance (5)
+### finance (6)
 
+- [[4-agent-trading-desk]]
 - [[anthropic-finance-claude-cowork]]
 - [[claude-code-investment-research-setup]]
 - [[how-to-read-company-ai-analyst]]
@@ -315,14 +334,16 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[research-agent-evidence-operator]]
 
-### infrastructure (6)
+### infrastructure (8)
 
 - [[agent-memory-landscape-2026]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
 - [[memory-is-retained-consequence]]
 - [[rl-environments-guide-llm]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
+- [[training-llm-from-scratch-5-lessons]]
 
 ### interpretability (11)
 
@@ -338,7 +359,7 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### llm (8)
+### llm (9)
 
 - [[Llama SAE Interpretability Project]]
 - [[automate-writing-llm-prompts-dspy]]
@@ -347,12 +368,14 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[quarq-agent-memory-architecture]]
 - [[rl-interview-questions-2026]]
+- [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### mcp (14)
+### mcp (15)
 
 - [[50-mcp-servers-guide]]
 - [[agent-harness-engineering-agentforge]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[claude-hidden-features-guide]]
@@ -401,9 +424,10 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[rl-environments-guide-llm]]
 
-### multi-agent (11)
+### multi-agent (12)
 
 - [[21-agent-building-mistakes]]
+- [[4-agent-trading-desk]]
 - [[Dynamic Workflows in Claude Code]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
@@ -415,17 +439,19 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[rlm-recursive-llm-query-system]]
 
-### open-source (5)
+### open-source (6)
 
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[osiris-open-source-palantir-tool]]
 - [[quarq-agent-memory-architecture]]
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### orchestration (13)
+### orchestration (15)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
+- [[4-agent-trading-desk]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[autoscientists-decentralized-ai-research-agents]]
@@ -438,6 +464,7 @@
 - [[iii-agent-harness-workers]]
 - [[managed-agents-dreaming-orchestration]]
 - [[openclaw-hermes-supervisor-setup]]
+- [[wtf-is-a-loop]]
 
 ### productivity (18)
 
@@ -475,7 +502,15 @@
 - [[rlm-recursive-llm-query-system]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### rl (18)
+### rag (5)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[graphiti-knowledge-graph-agent-memory]]
+- [[how-to-build-agent-that-never-forgets]]
+- [[how-vector-database-works]]
+- [[quarq-agent-memory-architecture]]
+
+### rl (19)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[claude-code-slm-training-bootstrap]]
@@ -495,6 +530,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlm-recursive-llm-query-system]]
 - [[sutton-barto-rl-notes]]
+- [[training-llm-from-scratch-5-lessons]]
 
 ### rlhf (6)
 
@@ -505,12 +541,13 @@
 - [[rlhf-from-first-principles]]
 - [[rlhf]]
 
-### safety (12)
+### safety (13)
 
 - [[agent-harness-engineering-agentforge]]
 - [[ai-alignment]]
 - [[ai-biosecurity-and-nuclear]]
 - [[ai-cybersecurity]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-persuasion]]
 - [[ai-safety-levels]]
 - [[anthropic-natural-language-autoencoders]]
@@ -529,11 +566,12 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (23)
+### skills (25)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[agent-harness-engineering-agentforge]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
@@ -554,6 +592,7 @@
 - [[llms-securing-source-code]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
+- [[wtf-is-a-loop]]
 
 ### slm (5)
 
@@ -563,6 +602,14 @@
 - [[multi-lora-training-osmosis]]
 - [[sia-recursive-self-improving-agent]]
 
+### subagents (5)
+
+- [[agent-harness-engineering-agentforge]]
+- [[claude-dynamic-workflows-second-brain]]
+- [[dynamic-workflows-where-plan-lives]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[rlm-structured-outputs]]
+
 ### tools (5)
 
 - [[50-mcp-servers-guide]]
@@ -571,9 +618,10 @@
 - [[mcp-core-architecture-explained]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (19)
+### training (21)
 
 - [[adapad-lora-parallel-deflation]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[claude-code-slm-training-bootstrap]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
@@ -592,6 +640,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 - [[sia-recursive-self-improving-agent]]
+- [[training-llm-from-scratch-5-lessons]]
 
 ### workflows (8)
 
@@ -648,13 +697,6 @@
 
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
-
-### automation (4)
-
-- [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
-- [[automate-writing-llm-prompts-dspy]]
-- [[claude-cowork-14-day-guide]]
-- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### autoresearch (2)
 
@@ -841,11 +883,22 @@
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
 
-### fundamentals (3)
+### from-scratch (2)
 
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[training-llm-from-scratch-5-lessons]]
+
+### fundamentals (4)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-gpu-executes-code-first-principles]]
 - [[rlhf-from-first-principles]]
 - [[what-is-kv-cache-llms]]
+
+### gpu (2)
+
+- [[how-gpu-executes-code-first-principles]]
+- [[training-llm-from-scratch-5-lessons]]
 
 ### grpo (2)
 
@@ -879,8 +932,9 @@
 - [[huggingface-model-architecture-visualizer]]
 - [[trimming-introduction]]
 
-### inference (2)
+### inference (3)
 
+- [[ai-engineering-roadmap-2026-from-scratch]]
 - [[inference-engines-2026]]
 - [[what-is-kv-cache-llms]]
 
@@ -911,6 +965,11 @@
 
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
+
+### kv-cache (2)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[what-is-kv-cache-llms]]
 
 ### learning (2)
 
@@ -1051,17 +1110,15 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[multi-lora-training-osmosis]]
 
-### rag (4)
-
-- [[graphiti-knowledge-graph-agent-memory]]
-- [[how-to-build-agent-that-never-forgets]]
-- [[how-vector-database-works]]
-- [[quarq-agent-memory-architecture]]
-
 ### research (2)
 
 - [[Llama SAE Interpretability Project]]
 - [[autoscientists-decentralized-ai-research-agents]]
+
+### roadmap (2)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[llm-engineering-projects-roadmap-2026]]
 
 ### rsp (2)
 
@@ -1074,11 +1131,21 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
+### scaling-laws (2)
+
+- [[scaling-laws]]
+- [[training-llm-from-scratch-5-lessons]]
+
 ### second-brain (3)
 
 - [[claude-dynamic-workflows-second-brain]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[level-above-phd-knowledge-works-without-you]]
+
+### serving (2)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[inference-engines-2026]]
 
 ### societal-impacts (4)
 
@@ -1099,13 +1166,6 @@
 - [[beyond-ghost-sae-experiment-proposals]]
 - [[exp1-sae-gap-closure-initial-result]]
 - [[persona-vectors-paper]]
-
-### subagents (4)
-
-- [[agent-harness-engineering-agentforge]]
-- [[claude-dynamic-workflows-second-brain]]
-- [[dynamic-workflows-where-plan-lives]]
-- [[harness-is-the-product-context-aware-agents]]
 
 ### superposition (3)
 
@@ -1128,8 +1188,9 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
 
-### trading (2)
+### trading (3)
 
+- [[4-agent-trading-desk]]
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
@@ -1157,6 +1218,7 @@
 
 ## Single-Use Tags
 
+- **2026** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **a2ui** — [[generative-ui-is-the-new-frontend]]
 - **ablations** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -1171,6 +1233,7 @@
 - **agentic-misalignment** — [[agentic-misalignment]]
 - **agents-md** — [[voxyz-ai-10-lessons-agents-md]]
 - **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
+- **ai-engineering** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **ai-native** — [[ai-native-engineering-org]]
 - **ai-safety** — [[recursive-self-improvement-2028-prediction]]
 - **alignment-faking** — [[alignment-faking]]
@@ -1219,6 +1282,7 @@
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
 - **cosine-similarity** — [[how-vector-database-works]]
 - **course** — [[learn-harness-engineering]]
+- **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **creativity** — [[the-html-brand-input-based-outcomes]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1243,6 +1307,7 @@
 - **dlp** — [[claude-compliance-security-partners]]
 - **document-processing** — [[why-layout-matters-document-processing]]
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- **documentation** — [[training-llm-from-scratch-5-lessons]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dpo** — [[rlhf-from-first-principles]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
@@ -1258,6 +1323,7 @@
 - **evidence** — [[research-agent-evidence-operator]]
 - **execution** — [[jim-simons-medallion-quant-framework]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
+- **experiments** — [[training-llm-from-scratch-5-lessons]]
 - **expertise** — [[level-above-phd-knowledge-works-without-you]]
 - **extended-thinking** — [[extended-thinking]]
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
@@ -1276,7 +1342,6 @@
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **goal** — [[hermes-goal-mode-guide]]
 - **government** — [[ai-policy-and-regulation]]
-- **gpu** — [[how-gpu-executes-code-first-principles]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
@@ -1285,6 +1350,7 @@
 - **gtm** — [[anthropic-gtm-claude-code-workflows]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hnsw** — [[how-vector-database-works]]
+- **hrm** — [[training-llm-from-scratch-5-lessons]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
@@ -1304,6 +1370,7 @@
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
+- **json-schema** — [[rlm-structured-outputs]]
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
@@ -1312,7 +1379,6 @@
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **knowledge-graph** — [[graphiti-knowledge-graph-agent-memory]]
-- **kv-cache** — [[what-is-kv-cache-llms]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **life** — [[units-of-time-alfred-lin]]
@@ -1325,6 +1391,7 @@
 - **local-ai** — [[inference-engines-2026]]
 - **local-llms** — [[21-agent-building-mistakes]]
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
+- **loops** — [[wtf-is-a-loop]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1342,7 +1409,9 @@
 - **moe** — [[rl-interview-answers-2026]]
 - **monte-carlo** — [[markov-chains-polymarket-trading]]
 - **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- **mtp** — [[training-llm-from-scratch-5-lessons]]
 - **multilingual** — [[trimming-introduction]]
+- **multimodal** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **n8n** — [[knowledge-system-compounding-obsidian-vellum]]
 - **neural-network** — [[jim-simons-medallion-quant-framework]]
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
@@ -1391,6 +1460,7 @@
 - **python** — [[jp-morgan-quant-python-training]]
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
 - **reasoning** — [[hrm-text-1b-reasoning-model]]
+- **recursive-language-models** — [[rlm-structured-outputs]]
 - **recursive-self-improvement** — [[recursive-self-improvement-2028-prediction]]
 - **red-teaming** — [[red-teaming]]
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -1402,11 +1472,12 @@
 - **representation-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **research-agent** — [[research-agent-evidence-operator]]
 - **research-agents** — [[21-agent-building-mistakes]]
+- **research-methodology** — [[training-llm-from-scratch-5-lessons]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **retrieval** — [[quarq-agent-memory-architecture]]
 - **reward-hacking** — [[reward-hacking-and-tampering]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
-- **roadmap** — [[llm-engineering-projects-roadmap-2026]]
+- **rlm** — [[rlm-structured-outputs]]
 - **rsi** — [[sia-recursive-self-improving-agent]]
 - **sabotage** — [[deceptive-alignment]]
 - **sac** — [[rethinking-search-as-code-generation]]
@@ -1417,7 +1488,6 @@
 - **sandbox** — [[llms-securing-source-code]]
 - **sarif** — [[nvidia-skillspector-security-scanner]]
 - **scalable-oversight** — [[scalable-oversight]]
-- **scaling-laws** — [[scaling-laws]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]
 - **search** — [[rethinking-search-as-code-generation]]
 - **self-correction** — [[claude-code-self-correcting-setup]]
@@ -1429,8 +1499,8 @@
 - **semantic-state** — [[memory-is-retained-consequence]]
 - **sentra** — [[memory-is-retained-consequence]]
 - **separation-of-concerns** — [[mcp-core-architecture-explained]]
-- **serving** — [[inference-engines-2026]]
 - **settings** — [[claude-code-hidden-settings]]
+- **sft** — [[training-llm-from-scratch-5-lessons]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
 - **siem** — [[claude-compliance-security-partners]]
 - **signal-detection** — [[jim-simons-medallion-quant-framework]]
@@ -1445,6 +1515,7 @@
 - **startups** — [[coderabbit-claude-agent-orchestration]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
+- **structured-outputs** — [[rlm-structured-outputs]]
 - **study-techniques** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **superpowers** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]
@@ -1457,9 +1528,11 @@
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
 - **time-management** — [[units-of-time-alfred-lin]]
+- **tiny-models** — [[training-llm-from-scratch-5-lessons]]
 - **tool-design** — [[agent-harness-engineering-agentforge]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
+- **transformer** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **trimming** — [[trimming-introduction]]
 - **twitter** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **typescript** — [[mcp-server-workflow-problems]]
