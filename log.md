@@ -5,6 +5,10 @@
 > Actions: ingest, update, query, lint, create, archive, delete
 > When this file exceeds 500 entries, rotate: rename to log-YYYY.md, start fresh.
 
+## [2026-06-08] ingest | recursive-self-improvement
+Source: https://www.anthropic.com/institute/recursive-self-improvement
+The Anthropic Institute: AI accelerating AI development. >80% code Claude-authored, 8x engineer productivity, 5-stage evolution toward recursive self-improvement. Three futures mapped.
+
 ## [2026-05-22] create | Wiki initialized
 - Domain: Anthropic AI Research
 - Structure created with SCHEMA.md, index.md, log.md

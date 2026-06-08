@@ -1,7 +1,7 @@
 # Wiki Index
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-05-22 | 32 concepts, 7 entities, 216 raw sources = 255 pages
+> Last updated: 2026-06-08 | 37 concepts, 7 entities, 221 raw sources = 265 pages
 
 ## Overview
 - [[anthropic-publications]] — Complete inventory of 358 Anthropic publications
@@ -43,6 +43,7 @@
 - [[responsible-scaling-policy]] — Responsible Scaling Policy
 - [[reward-hacking-and-tampering]] — Reward Hacking and Tampering
 - [[rlhf]] — RLHF (Reinforcement Learning from Human Feedback)
+- [[recursive-self-improvement]] — Recursive Self-Improvement (Anthropic Institute, June 2026)
 - [[scalable-oversight]] — Scalable Oversight
 - [[scaling-laws]] — Scaling Laws
 - [[sparse-autoencoders]] — Sparse Autoencoders (Dictionary Learning)
