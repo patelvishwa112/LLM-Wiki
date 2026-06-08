@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 480 unique tags across 197 processed notes.
+> 492 unique tags across 199 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -17,10 +17,11 @@
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 
-### agent-harness (10)
+### agent-harness (11)
 
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-harness-engineering-agentforge]]
+- [[agent-harness-should-repair-itself]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[harness-engineering-2026-discipline]]
 - [[harnessing-claudes-intelligence]]
@@ -46,7 +47,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[zero-trust-ai-agents]]
 
-### agents (72)
+### agents (73)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[21-agent-building-mistakes]]
@@ -57,6 +58,7 @@
 - [[Dynamic Workflows in Claude Code]]
 - [[Non-Obvious Agent Projects]]
 - [[agent-harness-engineering-agentforge]]
+- [[agent-harness-should-repair-itself]]
 - [[agent-memory-landscape-2026]]
 - [[agentic-misalignment]]
 - [[ai-agents]]
@@ -307,8 +309,9 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (8)
+### evals (9)
 
+- [[agent-harness-should-repair-itself]]
 - [[anthropic-self-service-analytics-claude]]
 - [[coderabbit-claude-agent-orchestration]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
@@ -471,6 +474,14 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[wtf-is-a-loop]]
 
+### production (5)
+
+- [[agent-harness-should-repair-itself]]
+- [[automate-writing-llm-prompts-dspy]]
+- [[big-book-of-llms]]
+- [[claude-code-changed-what-agents-look-like]]
+- [[fault-tolerance-langgraph-retries-timeouts]]
+
 ### productivity (19)
 
 - [[ai-native-engineering-org]]
@@ -516,7 +527,7 @@
 - [[how-vector-database-works]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (19)
+### rl (20)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[claude-code-slm-training-bootstrap]]
@@ -531,6 +542,7 @@
 - [[on-policy-distillation-resources-2026]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
+- [[rl-algo-comprehensive-qa]]
 - [[rl-environments-guide-llm]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
@@ -626,7 +638,7 @@
 - [[mcp-core-architecture-explained]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (21)
+### training (22)
 
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -643,6 +655,7 @@
 - [[on-policy-distillation-resources-2026]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
+- [[rl-algo-comprehensive-qa]]
 - [[rl-environments-guide-llm]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
@@ -819,15 +832,21 @@
 - [[alignment-faking]]
 - [[deceptive-alignment]]
 
-### deepseek (2)
+### deepseek (3)
 
 - [[deepseek-v4-claude-code-setup]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
+- [[rl-algo-comprehensive-qa]]
 
 ### distillation (2)
 
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+
+### dpo (2)
+
+- [[rl-algo-comprehensive-qa]]
+- [[rlhf-from-first-principles]]
 
 ### education (2)
 
@@ -911,8 +930,9 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### grpo (2)
+### grpo (3)
 
+- [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
 
@@ -1017,6 +1037,16 @@
 - [[Llama SAE Interpretability Project]]
 - [[ghost-in-residual-stream-experiment]]
 
+### moe (2)
+
+- [[rl-algo-comprehensive-qa]]
+- [[rl-interview-answers-2026]]
+
+### observability (2)
+
+- [[agent-harness-should-repair-itself]]
+- [[continuous-trace-intelligence-braintrust-topics]]
+
 ### obsidian (3)
 
 - [[claude-code-investment-research-setup]]
@@ -1076,18 +1106,12 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 
-### ppo (3)
+### ppo (4)
 
+- [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
-
-### production (4)
-
-- [[automate-writing-llm-prompts-dspy]]
-- [[big-book-of-llms]]
-- [[claude-code-changed-what-agents-look-like]]
-- [[fault-tolerance-langgraph-retries-timeouts]]
 
 ### project-ideas (2)
 
@@ -1196,10 +1220,11 @@
 - [[persona-vectors-paper]]
 - [[sycophancy]]
 
-### testing (2)
+### testing (3)
 
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[agent-harness-engineering-agentforge]]
+- [[agent-harness-should-repair-itself]]
 
 ### token-economy (2)
 
@@ -1242,6 +1267,7 @@
 - **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **acceleration** — [[anthropic-recursive-self-improvement]]
 - **active-recall** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **advantage** — [[rl-algo-comprehensive-qa]]
 - **adversarial** — [[level-above-phd-knowledge-works-without-you]]
 - **ag-ui** — [[generative-ui-is-the-new-frontend]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
@@ -1281,6 +1307,7 @@
 - **canonical** — [[ubuntu-shuttleworth-story]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
 - **ci-cd** — [[nvidia-skillspector-security-scanner]]
+- **cispo** — [[rl-algo-comprehensive-qa]]
 - **classifiers** — [[jailbreaks-and-defenses]]
 - **cli** — [[anthropic-ant-cli-guide]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
@@ -1311,11 +1338,13 @@
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
 - **cursor** — [[nvidia-skillspector-security-scanner]]
+- **dapo** — [[rl-algo-comprehensive-qa]]
 - **data** — [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - **data-analytics** — [[anthropic-self-service-analytics-claude]]
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **debian** — [[ubuntu-shuttleworth-story]]
+- **debugging** — [[agent-harness-should-repair-itself]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
 - **deepmind** — [[mosaic-probabilistic-weather-model]]
 - **design** — [[the-html-brand-input-based-outcomes]]
@@ -1328,7 +1357,6 @@
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **documentation** — [[training-llm-from-scratch-5-lessons]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
-- **dpo** — [[rlhf-from-first-principles]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
@@ -1365,6 +1393,7 @@
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
 - **gsd** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **gspo** — [[rl-algo-comprehensive-qa]]
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **gtm** — [[anthropic-gtm-claude-code-workflows]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
@@ -1377,6 +1406,7 @@
 - **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
+- **importance-sampling** — [[rl-algo-comprehensive-qa]]
 - **indexing** — [[how-vector-database-works]]
 - **induction-heads** — [[induction-heads]]
 - **inference-optimization** — [[trimming-introduction]]
@@ -1395,6 +1425,7 @@
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- **kl-divergence** — [[rl-algo-comprehensive-qa]]
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **knowledge-graph** — [[graphiti-knowledge-graph-agent-memory]]
@@ -1425,7 +1456,6 @@
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
 - **model-compression** — [[trimming-introduction]]
 - **model-welfare** — [[model-welfare]]
-- **moe** — [[rl-interview-answers-2026]]
 - **monte-carlo** — [[markov-chains-polymarket-trading]]
 - **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **mtp** — [[training-llm-from-scratch-5-lessons]]
@@ -1439,9 +1469,10 @@
 - **notebooklm** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **notes** — [[sutton-barto-rl-notes]]
 - **nvidia** — [[nvidia-skillspector-security-scanner]]
-- **observability** — [[continuous-trace-intelligence-braintrust-topics]]
 - **ocr** — [[why-layout-matters-document-processing]]
+- **opd** — [[rl-algo-comprehensive-qa]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
+- **opik** — [[agent-harness-should-repair-itself]]
 - **opportunity-discovery** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **osint** — [[osiris-open-source-palantir-tool]]
 - **osmosis** — [[multi-lora-training-osmosis]]
@@ -1484,6 +1515,7 @@
 - **red-teaming** — [[red-teaming]]
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **regime-detection** — [[jim-simons-medallion-quant-framework]]
+- **regression-testing** — [[agent-harness-should-repair-itself]]
 - **regulation** — [[ai-policy-and-regulation]]
 - **reinforcement-learning** — [[world-models-agent-imagination]]
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
@@ -1495,6 +1527,7 @@
 - **research-methodology** — [[training-llm-from-scratch-5-lessons]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **retrieval** — [[quarq-agent-memory-architecture]]
+- **reward-design** — [[rl-algo-comprehensive-qa]]
 - **reward-hacking** — [[reward-hacking-and-tampering]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
 - **rlm** — [[rlm-structured-outputs]]
@@ -1512,6 +1545,7 @@
 - **search** — [[rethinking-search-as-code-generation]]
 - **self-correction** — [[claude-code-self-correcting-setup]]
 - **self-improvement** — [[sia-recursive-self-improving-agent]]
+- **self-repair** — [[agent-harness-should-repair-itself]]
 - **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
 - **semantic-layer** — [[anthropic-self-service-analytics-claude]]

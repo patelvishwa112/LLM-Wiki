@@ -58,6 +58,7 @@
 - [[dive-into-claude-code-vila-lab]] — [Dive into Claude Code (architectural analysis)](https://github.com/VILA-Lab/Dive-into-Claude-Code) `[claude-code, architecture, agent-engineering, paper, hermes]`
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
 - [[agent-harness-engineering-agentforge]] — [Agent Harness Engineering — Lessons from Building AgentForge](https://x.com/bytemohit/status/2063493300884246598) `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
+- [[agent-harness-should-repair-itself]] — [Your Agent Harness Should Repair Itself](https://x.com/akshay_pachaar/status/2064051835636498924) `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[anthropic-recursive-self-improvement]] — [When AI Builds Itself — Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
@@ -234,6 +235,7 @@
 - [[harbor-rl-coding-environments]] — [RL Coding Environments 101: Why Harbor Exists](https://x.com/adithya_s_k/status/2054961319179420035)
 - [[rl-interview-questions-2026]] — [RL Interview Questions 2026](https://x.com/sheriyuo/status/2063295181131247674) `[rl, rlhf, training, interview-questions, ppo, grpo, infrastructure]`
 - [[rl-interview-answers-2026]] — [RL Interview Answers 2026](https://x.com/vivek_2332/status/2063566811749331353) `[rl, rlhf, training, interview-answers, ppo, grpo, infrastructure, async-rl, moe]`
+- [[rl-algo-comprehensive-qa]] — [RL ALGO — Comprehensive Q&A](https://www.k-a.in/rl-algo.html) `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
 
 
 ### Security
@@ -269,6 +271,7 @@
 - [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
 - [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
 - [[agent-harness-engineering-agentforge]] `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
+- [[agent-harness-should-repair-itself]] `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
@@ -417,6 +420,7 @@
 - [[research-agent-evidence-operator]] `[research-agent, agents, evidence, vault, compounding]`
 - [[rethinking-search-as-code-generation]] `[agents, search, architecture, sac]`
 - [[ridarketh]] `[ai-ml]`
+- [[rl-algo-comprehensive-qa]] `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[rlm-structured-outputs]] `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 - [[rohonchain]] `[ai-ml]`
