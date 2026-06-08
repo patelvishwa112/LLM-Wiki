@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 477 unique tags across 195 processed notes.
+> 478 unique tags across 196 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -188,7 +188,7 @@
 - [[claude-cowork-14-day-guide]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
-### claude (18)
+### claude (19)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -201,6 +201,7 @@
 - [[claude-hidden-features-guide]]
 - [[claude-interactive-visuals]]
 - [[claude-managed-agents]]
+- [[claude-personal-assistant-zero-dollars]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harnessing-claudes-intelligence]]
 - [[how-to-build-ai-agent-swarms]]
@@ -252,7 +253,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[wtf-is-a-loop]]
 
-### claude-cowork (9)
+### claude-cowork (10)
 
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-finance-claude-cowork]]
@@ -263,6 +264,7 @@
 - [[claude-cowork-product-guide]]
 - [[claude-hidden-features-guide]]
 - [[claude-interactive-visuals]]
+- [[claude-personal-assistant-zero-dollars]]
 
 ### codex (7)
 
@@ -466,7 +468,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[wtf-is-a-loop]]
 
-### productivity (18)
+### productivity (19)
 
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
@@ -479,6 +481,7 @@
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
 - [[claude-interactive-visuals]]
+- [[claude-personal-assistant-zero-dollars]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[hermes-goal-mode-guide]]
 - [[iceberg-opus-48-prompts]]
@@ -566,7 +569,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (25)
+### skills (26)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -584,6 +587,7 @@
 - [[claude-cowork-product-guide]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-hidden-features-guide]]
+- [[claude-personal-assistant-zero-dollars]]
 - [[colleague-skill-dot-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -765,9 +769,10 @@
 - [[constitutional-ai]]
 - [[rlhf-from-first-principles]]
 
-### context-engineering (2)
+### context-engineering (3)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
+- [[claude-personal-assistant-zero-dollars]]
 - [[harness-is-the-product-context-aware-agents]]
 
 ### context-management (3)
@@ -1083,9 +1088,10 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
 
-### projects (3)
+### projects (4)
 
 - [[claude-hidden-features-guide]]
+- [[claude-personal-assistant-zero-dollars]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
 
@@ -1136,9 +1142,10 @@
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### second-brain (3)
+### second-brain (4)
 
 - [[claude-dynamic-workflows-second-brain]]
+- [[claude-personal-assistant-zero-dollars]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[level-above-phd-knowledge-works-without-you]]
 
@@ -1434,6 +1441,7 @@
 - **patching** — [[ghost-in-residual-stream-experiment]]
 - **perfetto** — [[pytorch-profiler-beginners-guide]]
 - **perplexity** — [[rethinking-search-as-code-generation]]
+- **personal-assistant** — [[claude-personal-assistant-zero-dollars]]
 - **personal-project** — [[Llama SAE Interpretability Project]]
 - **personal-tools** — [[Non-Obvious Agent Projects]]
 - **persuasion** — [[ai-persuasion]]

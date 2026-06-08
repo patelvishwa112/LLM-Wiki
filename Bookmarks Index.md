@@ -225,6 +225,7 @@
 - [[claude-cowork-best-practices]] — [Claude Cowork Best Practices](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork) `[claude-cowork, anthropic, productivity, knowledge-work, agents, enterprise]`
 - [[claude-cowork-product-guide]] — [The Claude Cowork Product Guide](https://claude.com/blog/the-claude-cowork-product-guide) `[claude-cowork, anthropic, productivity, enterprise, agents, skills, knowledge-work]`
 - [[claude-interactive-visuals]] — [Claude Interactive Visuals](https://claude.com/blog/claude-builds-visuals) `[claude, artifacts, productivity, claude-cowork]`
+- [[claude-personal-assistant-zero-dollars]] — [I Built a Personal AI Assistant With Claude for $0](https://x.com/0xMortyx/status/2063967160620245116) `[claude, claude-cowork, productivity, personal-assistant, projects, context-engineering, second-brain]`
 
 ### Rl
 
@@ -316,6 +317,7 @@
 - [[claude-dynamic-workflows-second-brain]] `[claude-code, dynamic-workflows, obsidian, second-brain, skills, subagents]`
 - [[claude-interactive-visuals]] `[claude, artifacts, productivity, claude-cowork]`
 - [[claude-managed-agents]] `[agents, anthropic, enterprise, mcp, claude, agent-ops]`
+- [[claude-personal-assistant-zero-dollars]] `[claude, claude-cowork, productivity, personal-assistant, projects, context-engineering, second-brain]`
 - [[code-w-claude-london-2026]] `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`
 - [[coderabbit-claude-agent-orchestration]] `[anthropic, claude-code, agents, orchestration, code-review, planning, evals, startups]`
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
