@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 492 unique tags across 199 processed notes.
+> 504 unique tags across 200 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -171,7 +171,7 @@
 - [[priests-of-agi-interpretability-crisis]]
 - [[zero-trust-ai-agents]]
 
-### architecture (11)
+### architecture (12)
 
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[dive-into-claude-code-vila-lab]]
@@ -181,6 +181,7 @@
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
 - [[mcp-core-architecture-explained]]
+- [[notes-on-foundation-models]]
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
 - [[training-llm-from-scratch-5-lessons]]
@@ -1254,9 +1255,15 @@
 - [[huggingface-model-architecture-visualizer]]
 - [[osiris-open-source-palantir-tool]]
 
-### world-models (2)
+### vlm (2)
+
+- [[notes-on-foundation-models]]
+- [[why-layout-matters-document-processing]]
+
+### world-models (3)
 
 - [[joint-embedding-predictive-architecture-jepa]]
+- [[notes-on-foundation-models]]
 - [[world-models-agent-imagination]]
 
 ## Single-Use Tags
@@ -1282,6 +1289,7 @@
 - **ai-native** — [[ai-native-engineering-org]]
 - **ai-safety** — [[recursive-self-improvement-2028-prediction]]
 - **alignment-faking** — [[alignment-faking]]
+- **alphafold** — [[notes-on-foundation-models]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **ann** — [[how-vector-database-works]]
 - **ant-cli** — [[anthropic-ant-cli-guide]]
@@ -1297,6 +1305,7 @@
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
 - **beginner** — [[ai-survival-guide-ikea-style]]
+- **biological-models** — [[notes-on-foundation-models]]
 - **biosecurity** — [[ai-biosecurity-and-nuclear]]
 - **braintrust** — [[continuous-trace-intelligence-braintrust-topics]]
 - **browser-agents** — [[autobrowse-browser-agent-memory]]
@@ -1351,6 +1360,7 @@
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
+- **diffusion** — [[notes-on-foundation-models]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **dlp** — [[claude-compliance-security-partners]]
 - **document-processing** — [[why-layout-matters-document-processing]]
@@ -1361,6 +1371,7 @@
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **dynamic-workflows** — [[claude-dynamic-workflows-second-brain]]
 - **efficiency** — [[hrm-text-1b-reasoning-model]]
+- **encoders** — [[notes-on-foundation-models]]
 - **energy-based-models** — [[joint-embedding-predictive-architecture-jepa]]
 - **engineering-management** — [[ai-native-engineering-org]]
 - **ensemble-methods** — [[mosaic-probabilistic-weather-model]]
@@ -1379,7 +1390,9 @@
 - **feynman-technique** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **finetuning** — [[persona-vectors-paper]]
 - **firecrawl** — [[claude-code-investment-research-setup]]
+- **flow-matching** — [[notes-on-foundation-models]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
+- **foundation-models** — [[notes-on-foundation-models]]
 - **frontend** — [[generative-ui-is-the-new-frontend]]
 - **frontend-design** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
@@ -1405,11 +1418,13 @@
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
 - **iii** — [[iii-agent-harness-workers]]
+- **image-generation** — [[notes-on-foundation-models]]
 - **imagination** — [[world-models-agent-imagination]]
 - **importance-sampling** — [[rl-algo-comprehensive-qa]]
 - **indexing** — [[how-vector-database-works]]
 - **induction-heads** — [[induction-heads]]
 - **inference-optimization** — [[trimming-introduction]]
+- **interaction-models** — [[notes-on-foundation-models]]
 - **interview-answers** — [[rl-interview-answers-2026]]
 - **interview-me** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **interview-questions** — [[rl-interview-questions-2026]]
@@ -1453,6 +1468,7 @@
 - **meta-skills** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **misuse** — [[detecting-misuse]]
+- **mixture-of-transformers** — [[notes-on-foundation-models]]
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
 - **model-compression** — [[trimming-introduction]]
 - **model-welfare** — [[model-welfare]]
@@ -1510,6 +1526,7 @@
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
+- **realtime** — [[notes-on-foundation-models]]
 - **reasoning** — [[hrm-text-1b-reasoning-model]]
 - **recursive-language-models** — [[rlm-structured-outputs]]
 - **red-teaming** — [[red-teaming]]
@@ -1595,8 +1612,9 @@
 - **vault** — [[research-agent-evidence-operator]]
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
+- **video-generation** — [[notes-on-foundation-models]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
-- **vlm** — [[why-layout-matters-document-processing]]
+- **vla** — [[notes-on-foundation-models]]
 - **vocabulary** — [[trimming-introduction]]
 - **vulnerability-scanning** — [[llms-securing-source-code]]
 - **weather** — [[mosaic-probabilistic-weather-model]]

@@ -112,6 +112,7 @@
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
+- [[notes-on-foundation-models]] — [Notes on Foundation Models](https://x.com/bqbrady/status/2064055370809778371) `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion]`
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[anthropic-ant-cli-guide]] — [Anthropic's ant CLI — Full Guide](https://x.com/hey_madni/status/2063606029146034375) `[anthropic, ant-cli, claude-code, managed-agents, mcp, cli, agents, dev-tools]`
@@ -408,6 +409,7 @@
 - [[new-blackboard-lecture-w]] `[papers, models]`
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
+- [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
