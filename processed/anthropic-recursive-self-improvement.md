@@ -6,7 +6,7 @@ type: article
 authors: ["Marina Favaro", "Jack Clark"]
 title: "When AI Builds Itself — Recursive Self-Improvement"
 summary: "The Anthropic Institute's definitive analysis showing AI is already accelerating AI development: >80% of Anthropic's code is Claude-authored, engineers ship 8x more code, task horizons doubled from 4min to 16+ hours. Three futures mapped, with compounding efficiency as the most likely path."
-raw: "[[raw/anthropic/recursive-self-improvement]]"
+raw: "[[raw/recursive-self-improvement]]"
 related: ["[[wtf-is-a-loop]]", "[[harness-is-the-product-context-aware-agents]]", "[[claude-managed-agents]]", "[[claude-code-dynamic-workflows-intro]]"]
 ---
 

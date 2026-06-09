@@ -1,6 +1,7 @@
 ---
 tags: [claude-code, skills, catalog, superpowers, gsd, context-mode, frontend-design, content-research, documents, meetings, notebooklm, interview-me, twitter, academic-research, skill-creator, meta-skills, curation]
 source: https://x.com/vaibhavsisinty/status/2063290847723192610
+raw: "[[raw/vaibhavsisinty_2063290847723192610]]"
 type: article
 author: Vaibhav Sisinty (@VaibhavSisinty)
 date: 2026-06-06

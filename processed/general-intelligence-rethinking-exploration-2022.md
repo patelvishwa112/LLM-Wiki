@@ -1,6 +1,7 @@
 ---
 tags: ["rl", "exploration", "general-intelligence", "papers", "self-teaching"]
 source: https://x.com/willccbb/status/2055696342211576074
+raw: "[[raw/willccbb_2055696342211576074]]"
 date: 2026-05-16
 type: note
 related: ["curiosity-bayesian-bandit", "rl-environments-guide-llm", "recursive-self-improvement-2028-prediction"]

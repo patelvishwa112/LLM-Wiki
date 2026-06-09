@@ -12,6 +12,7 @@ tags:
   - testing
   - agent-ops
 source: https://x.com/bytemohit/status/2063493300884246598
+raw: "[[raw/bytemohit_2063493300884246598]]"
 date: 2026-06-07
 author: Mohit Goyal (@ByteMohit)
 type: bookmark

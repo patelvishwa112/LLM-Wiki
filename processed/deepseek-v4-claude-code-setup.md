@@ -1,6 +1,7 @@
 ---
 tags: ["claude-code", "deepseek", "cost-optimization"]
 source: https://x.com/godofprompt/status/2052798956699017621
+raw: "[[raw/godofprompt_2052798956699017621]]"
 date: 2026-05-08
 type: processed-note
 related:

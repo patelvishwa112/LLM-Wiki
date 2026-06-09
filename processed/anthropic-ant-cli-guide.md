@@ -10,6 +10,7 @@ tags:
   - dev-tools
   - infrastructure
 source: https://x.com/hey_madni/status/2063606029146034375
+raw: "[[raw/hey_madni_2063606029146034375]]"
 date: 2026-06-07
 author: Madni Aghadi (@hey_madni)
 type: bookmark

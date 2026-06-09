@@ -10,6 +10,7 @@ tags:
   - sandbox
   - agent-ops
 source: https://claude.com/blog/using-llms-to-secure-source-code
+raw: "[[raw/anthropic-securing-source-code-llms]]"
 date: 2026-05-27
 author: Eugene Yan, Henna Dattani, et al. (Anthropic)
 type: bookmark

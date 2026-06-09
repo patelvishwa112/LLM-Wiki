@@ -9,6 +9,7 @@ tags:
   - infrastructure
   - llm
 source: https://x.com/sheriyuo/status/2063295181131247674
+raw: "[[raw/sheriyuo_2063295181131247674]]"
 date: 2026-06-06
 author: Xiuyu Li (@sheriyuo)
 type: bookmark

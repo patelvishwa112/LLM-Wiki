@@ -7,6 +7,7 @@ tags:
   - fundamentals
   - hardware
 source: https://x.com/rocky_t07/status/2059997637726937492
+raw: "[[raw/rocky_t07_2059997637726937492]]"
 date: 2026-05-28
 author: Rocky (@Rocky_T07)
 type: bookmark

@@ -1,6 +1,7 @@
 ---
 tags: [skills, agents, claude-code, claude-cowork, pm, problem-first, triage, templates]
 source: https://x.com/nurijanian/status/2063186118409929161
+raw: "[[raw/nurijanian_2063186118409929161]]"
 date: 2026-06-06
 type: bookmark
 author: nurijanian

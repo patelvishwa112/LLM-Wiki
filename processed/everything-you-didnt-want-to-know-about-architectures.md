@@ -1,6 +1,7 @@
 ---
 tags: ["architecture", "transformers", "training", "llm", "hyperparameters", "stability", "attention"]
 source: https://youtu.be/lVynu4bo1rY
+raw: "[[raw/youtube_lVynu4bo1rY]]"
 date: 2026-05-25
 type: lecture
 duration: "1:29:10"

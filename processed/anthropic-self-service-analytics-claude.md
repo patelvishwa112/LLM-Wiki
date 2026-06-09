@@ -10,6 +10,7 @@ tags:
   - semantic-layer
   - data-engineering
 source: https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
+raw: "[[raw/anthropic-self-service-analytics-claude]]"
 date: 2026-06-03
 author: Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry (Anthropic)
 type: bookmark

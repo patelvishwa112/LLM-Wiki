@@ -1,6 +1,7 @@
 ---
 tags: ["agent-harness", "hermes", "architecture", "agents", "analysis"]
 source: "https://x.com/aparnadhinak/status/2060406977357070522"
+raw: "[[raw/aparnadhinak_2060406977357070522]]"
 author: "Aparna Dhinakaran (@aparnadhinak)"
 date: 2026-05-29
 type: analysis

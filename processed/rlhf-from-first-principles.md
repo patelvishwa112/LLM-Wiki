@@ -9,6 +9,7 @@ tags:
   - constitutional-ai
   - fundamentals
 source: https://x.com/itsreallyvivek/status/2063610589621219596
+raw: "[[raw/itsreallyvivek_2063610589621219596]]"
 date: 2026-06-07
 author: Vivek (@itsreallyvivek)
 type: bookmark

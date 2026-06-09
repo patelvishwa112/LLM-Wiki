@@ -8,6 +8,7 @@ tags:
   - parallelism
   - agent-ops
 source: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
+raw: "[[raw/anthropic-dynamic-workflows-claude-code]]"
 date: 2026-05-28
 author: Anthropic
 type: bookmark

@@ -2,6 +2,7 @@
 title: "Anthropic's Internal Claude Code Workflow (Boris Cherny)"
 tags: ["claude-code", "agents", "agent-ops", "anthropic", "claude", "coding-agents"]
 source: https://x.com/polydao/status/2060810164068856130
+raw: "[[raw/polydao_2060810164068856130]]"
 date: 2026-05-30
 published: 2026-05-30
 authors: ["Mr. Buzzoni (@polydao)", "Boris Cherny (Anthropic)"]

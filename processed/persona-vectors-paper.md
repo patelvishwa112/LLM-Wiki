@@ -1,6 +1,7 @@
 ---
 tags: ["persona-vectors", "mechanistic-interpretability", "steering", "activation-engineering", "alignment", "sycophancy", "finetuning", "arxiv"]
 source: https://arxiv.org/abs/2507.21509
+raw: "[[raw/persona-vectors-arxiv-2507.21509]]"
 date: 2026-05-28
 type: paper
 authors: ["Runjin Chen", "Andy Arditi", "Henry Sleight", "Owain Evans", "Jack Lindsey"]

@@ -7,6 +7,7 @@ tags:
   - productivity
   - skills
 source: https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers
+raw: "[[raw/anthropic-finance-team-claude]]"
 date: 2026-06-07
 author: Alice Fong (Anthropic, Corporate Finance & Strategy)
 type: bookmark

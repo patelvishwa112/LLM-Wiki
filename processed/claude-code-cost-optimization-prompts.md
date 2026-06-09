@@ -1,6 +1,7 @@
 ---
 tags: ["claude-code", "cost-optimization", "prompt-engineering"]
 source: https://x.com/thegreatest_sv/status/2053128520138739985
+raw: "[[raw/thegreatest_sv_2053128520138739985]]"
 date: 2026-05-09
 type: processed-note
 related:

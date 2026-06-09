@@ -1,6 +1,7 @@
 ---
 tags: [claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, dual-coding, projects, artifacts, education, prompts]
 source: https://x.com/0xmorlex/status/2063238361926496345
+raw: "[[raw/0xmorlex_2063238361926496345]]"
 type: article
 author: Morlex (@0xMorlex)
 date: 2026-06-06

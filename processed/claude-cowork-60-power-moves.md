@@ -1,6 +1,7 @@
 ---
 tags: ["claude-cowork", "agents", "productivity", "skills"]
 source: https://x.com/shmidtqq/status/2051755298772095238
+raw: "[[raw/shmidtqq_2051755298772095238]]"
 date: 2026-05-05
 type: processed-note
 related:

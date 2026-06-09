@@ -1,6 +1,7 @@
 ---
 tags: ["models", "weather", "probabilistic-modeling", "deepmind", "ensemble-methods"]
 source: https://x.com/maxxxzdn/status/2057026766380659085
+raw: "[[raw/maxxxzdn_2057026766380659085]]"
 date: 2026-05-20
 type: note
 ---

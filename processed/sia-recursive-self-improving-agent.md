@@ -2,6 +2,7 @@
 title: "SIA — Open Source Recursive Self Improving AI Agent (hexo.ai)"
 tags: ["agents", "self-improvement", "rsi", "training", "slm", "open-source"]
 source: https://x.com/rohanpaul_ai/status/2060063592448446778
+raw: "[[raw/rohanpaul_ai_2060063592448446778]]"
 date: 2026-05-30
 published: 2026-05-28
 authors: ["Rohan Paul", "Kunal Bhatia (hexo.ai)"]

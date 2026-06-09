@@ -8,6 +8,7 @@ tags:
   - enterprise
   - agents
 source: https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity
+raw: "[[raw/anthropic-partners-opus-cybersecurity]]"
 date: 2026-06-07
 author: Anthropic
 type: bookmark

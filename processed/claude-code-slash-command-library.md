@@ -7,6 +7,7 @@ tags:
   - coding-tools
   - templates
 source: https://x.com/0x_rody/status/2063549084695158936
+raw: "[[raw/0x_rody_2063549084695158936]]"
 date: 2026-06-07
 author: rody (@0x_rody)
 type: bookmark

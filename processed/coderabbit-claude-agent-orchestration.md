@@ -9,6 +9,7 @@ tags:
   - evals
   - startups
 source: https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system
+raw: "[[raw/anthropic-coderabbit-agent-orchestration]]"
 date: 2026-05-27
 author: Anthropic (CodeRabbit case study)
 type: bookmark

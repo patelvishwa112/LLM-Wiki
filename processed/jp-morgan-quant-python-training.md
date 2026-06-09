@@ -1,6 +1,7 @@
 ---
 tags: ["finance", "quant", "python", "training", "career"]
 source: https://x.com/RohOnChain/status/2056097405783945392
+raw: "[[raw/RohOnChain_2056097405783945392]]"
 date: 2026-04-28
 type: bookmark
 related: [[markov-chains-polymarket-trading]]

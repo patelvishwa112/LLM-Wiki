@@ -1,6 +1,7 @@
 ---
 tags: ["agents", "agent-harness", "iii", "agent-architecture", "workers", "orchestration", "policy-engine", "approval-gate"]
 source: https://x.com/mfpiccolo/status/2060069083878408689
+raw: "[[raw/mfpiccolo_2060069083878408689]]"
 date: 2026-05-28
 type: bookmark
 author: mfpiccolo

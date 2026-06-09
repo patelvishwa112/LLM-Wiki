@@ -1,6 +1,7 @@
 ---
 tags: ["knowledge-graph", "agent-memory", "graphiti", "rag", "open-source", "entity-extraction"]
 source: https://x.com/_avichawla/status/2058449798039228568
+raw: "[[raw/avichawla_2058449798039228568]]"
 date: 2026-05-29
 type: bookmark
 author: _avichawla

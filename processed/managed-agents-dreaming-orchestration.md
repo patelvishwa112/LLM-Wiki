@@ -7,6 +7,7 @@ tags:
   - multi-agent
   - agent-ops
 source: https://claude.com/blog/new-in-claude-managed-agents
+raw: "[[raw/anthropic-managed-agents-dreaming]]"
 date: 2026-06-07
 author: Anthropic
 type: bookmark

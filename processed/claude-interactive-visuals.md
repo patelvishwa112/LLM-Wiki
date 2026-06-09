@@ -5,6 +5,7 @@ tags:
   - productivity
   - claude-cowork
 source: https://claude.com/blog/claude-builds-visuals
+raw: "[[raw/anthropic-claude-builds-visuals]]"
 date: 2026-06-07
 author: Anthropic
 type: bookmark

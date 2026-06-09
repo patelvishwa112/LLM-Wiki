@@ -1,6 +1,7 @@
 ---
 tags: ["training", "lora", "fine-tuning", "models", "papers"]
 source: https://x.com/optimalab1/status/2055029895676174338
+raw: "[[raw/optimalab1_2055029895676174338]]"
 date: 2026-05-14
 type: note
 related: ["how-to-build-your-own-llm-from-scratch-in-5-stages"]

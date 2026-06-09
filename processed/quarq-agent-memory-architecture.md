@@ -1,6 +1,7 @@
 ---
 tags: [llm, agent-architecture, memory, continual-learning, retrieval, open-source, faiss, rag]
 source: https://x.com/quarqlabs/status/2059320863070286177
+raw: "[[raw/quarqlabs_2059320863070286177]]"
 author: QuarqLabs (@quarqlabs)
 date: 2026-05-26
 scraped: 2026-05-27

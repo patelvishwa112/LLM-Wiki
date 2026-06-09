@@ -2,6 +2,7 @@
 title: "AutoScientists — Decentralized AI Agents for Collaborative Research (Harvard)"
 tags: ["agents", "multi-agent", "orchestration", "research", "decentralized"]
 source: https://x.com/techwith_ram/status/2060944217023893538
+raw: "[[raw/techwith_ram_2060944217023893538]]"
 date: 2026-05-31
 published: 2026-05-31
 authors: ["Harvard MIMS Lab"]

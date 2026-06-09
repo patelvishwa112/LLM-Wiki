@@ -1,6 +1,7 @@
 ---
 tags: [second-brain, claude-code, knowledge-management, judgment, ai-augmentation, phd, expertise, idea-generation, adversarial, compounding, workflow]
 source: https://x.com/borntogambles/status/2062345673245176126
+raw: "[[raw/borntogambles_2062345673245176126]]"
 type: article
 author: Born to gamble (@borntogambles)
 date: 2026-06-03

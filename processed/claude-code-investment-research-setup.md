@@ -1,6 +1,7 @@
 ---
 tags: [claude-code, investment-research, obsidian, knowledge-management, finance, workflow-automation, playwright, firecrawl]
 source: https://x.com/leopardracer/status/2058949350315667829
+raw: "[[raw/leopardracer_2058949350315667829]]"
 author: "@leopardracer"
 date: 2026-05-25
 scraped: 2026-05-26

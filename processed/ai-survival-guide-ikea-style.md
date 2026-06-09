@@ -8,6 +8,7 @@ tags:
   - beginner
   - ask-user-question
 source: https://x.com/rubenhassid/status/2063471959158260119
+raw: "[[raw/rubenhassid_2063471959158260119]]"
 date: 2026-06-06
 author: Ruben Hassid (@rubenhassid)
 type: bookmark

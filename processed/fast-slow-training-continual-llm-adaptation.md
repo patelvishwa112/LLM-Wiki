@@ -1,6 +1,7 @@
 ---
 tags: ["training", "rl", "continual-learning", "models", "fast-slow-training"]
 source: https://x.com/KushaSareen/status/2054586907904901245
+raw: "[[raw/KushaSareen_2054586907904901245]]"
 date: 2026-05-13
 type: note
 related: ["on-policy-distillation-resources-2026", "alphago-mcts-llm-rl-dwarkesh-eric-jang", "rl-environments-guide-llm"]

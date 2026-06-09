@@ -8,6 +8,7 @@ tags:
   - code-review
   - ai-native
 source: https://claude.com/blog/running-an-ai-native-engineering-org
+raw: "[[raw/anthropic-ai-native-engineering-org]]"
 date: 2026-06-03
 author: Fiona Fung (Anthropic, Director of Engineering for Claude Code & Claude Cowork)
 type: bookmark

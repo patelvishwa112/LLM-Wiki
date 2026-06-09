@@ -1,6 +1,7 @@
 ---
 tags: [ai-agents, coding-agents, harness, claude-code, codex, nimbalyst, agent-architecture, llm-engineering]
 source: https://x.com/wirthkarl/status/2059270673730580732
+raw: "[[raw/wirthkarl_2059270673730580732]]"
 author: Karl Wirth (@wirthkarl)
 date: 2026-05-26
 scraped: 2026-05-26

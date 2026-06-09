@@ -1,6 +1,7 @@
 ---
 tags: ["llm-engineering", "roadmap", "projects", "learning"]
 source: https://x.com/theahmadosman/status/2058745340895870985
+raw: "[[raw/theahmadosman_2058745340895870985]]"
 date: 2026-05-24
 type: bookmark
 ---

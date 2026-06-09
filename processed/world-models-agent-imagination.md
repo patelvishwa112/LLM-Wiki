@@ -1,6 +1,7 @@
 ---
 tags: ["agents", "world-models", "reinforcement-learning", "imagination"]
 source: https://x.com/oprydai/status/2053790376813830250
+raw: "[[raw/oprydai_2053790376813830250]]"
 date: 2026-05-11
 type: bookmark
 related: [[markov-chains-polymarket-trading]]

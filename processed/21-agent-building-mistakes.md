@@ -1,6 +1,7 @@
 ---
 tags: ["agents", "hermes", "openclaw", "agent-architecture", "research-agents", "local-llms", "multi-agent", "agent-ops"]
 source: https://x.com/gkisokay/status/2059986597391823286
+raw: "[[raw/gkisokay_2059986597391823286]]"
 date: 2026-05-28
 type: bookmark
 author: gkisokay

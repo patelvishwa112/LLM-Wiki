@@ -10,6 +10,7 @@ tags:
   - enterprise
   - mcp
 source: https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering
+raw: "[[raw/anthropic-gtm-engineering-claude-code]]"
 date: 2026-06-05
 author: Anthropic
 type: bookmark

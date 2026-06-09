@@ -1,6 +1,7 @@
 ---
 tags: ["evals", "agents", "memory", "benchmarks"]
 source: https://x.com/0xVK__/status/2051403242530341265
+raw: "[[raw/0xVK___2051403242530341265]]"
 date: 2026-05-03
 type: bookmark
 ---

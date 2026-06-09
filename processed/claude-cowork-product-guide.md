@@ -8,6 +8,7 @@ tags:
   - skills
   - knowledge-work
 source: https://claude.com/blog/the-claude-cowork-product-guide
+raw: "[[raw/anthropic-claude-cowork-product-guide]]"
 date: 2026-06-05
 author: Anthropic
 type: bookmark

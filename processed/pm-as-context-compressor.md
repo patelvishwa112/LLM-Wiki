@@ -1,6 +1,7 @@
 ---
 tags: [pm, context-compression, productivity, skills, claude-code, agent-templates, communication, stakeholders]
 source: https://x.com/nurijanian/status/2063188643683192835
+raw: "[[raw/nurijanian_2063188643683192835]]"
 date: 2026-06-06
 type: bookmark
 author: nurijanian

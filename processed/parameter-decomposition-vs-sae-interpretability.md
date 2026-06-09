@@ -1,6 +1,7 @@
 ---
 tags: ["interpretability", "models", "parameter-decomposition", "sae"]
 source: https://x.com/BartBussmann/status/2051738729841041746
+raw: "[[raw/BartBussmann_2051738729841041746]]"
 date: 2026-05-05
 type: note
 related: ["goodfire-parameter-decomposition-interpretability", "priests-of-agi-interpretability-crisis"]

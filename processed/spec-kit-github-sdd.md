@@ -1,6 +1,7 @@
 ---
 tags: [spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools, workflows]
 source: https://github.com/github/spec-kit
+raw: "[[raw/github_spec-kit]]"
 date: 2026-06-06
 type: bookmark
 author: github

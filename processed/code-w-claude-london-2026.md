@@ -8,6 +8,7 @@ tags:
   - developer-platform
   - conference
 source: https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build
+raw: "[[raw/anthropic-code-w-claude-london-2026]]"
 date: 2026-06-07
 author: Anthropic
 type: bookmark

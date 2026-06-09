@@ -6,6 +6,7 @@ tags:
   - enterprise
   - agent-ops
 source: https://claude.com/blog/claude-managed-agents-memory
+raw: "[[raw/anthropic-managed-agents-memory]]"
 date: 2026-06-07
 author: Anthropic
 type: bookmark

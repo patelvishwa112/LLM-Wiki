@@ -1,6 +1,7 @@
 ---
 tags: ["agents", "rl", "training", "fine-tuning", "grpo"]
 source: https://x.com/athleticKoder/status/2057091692235481560
+raw: "[[raw/athleticKoder_2057091692235481560]]"
 date: 2026-05-20
 type: bookmark
 related: [[21-agent-building-mistakes]], [[coding-agent-harness-eight-pillars]]

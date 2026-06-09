@@ -7,6 +7,7 @@ tags:
   - agents
   - enterprise
 source: https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork
+raw: "[[raw/anthropic-claude-cowork-best-practices]]"
 date: 2026-06-03
 author: Austin Lau (Anthropic, Growth Marketing)
 type: bookmark

@@ -1,6 +1,7 @@
 ---
 tags: ["agents", "content-creation", "productivity", "social-media", "ai-content"]
 source: https://x.com/shannholmberg/status/2053077052069449780
+raw: "[[raw/shannholmberg_2053077052069449780]]"
 date: 2026-05-08
 type: bookmark
 related: [[hermes-agent-user-experience]], [[hermes-agent-use-cases-multi-agent-setup]], [[karpathy-autoresearch-marketing-optimization]]

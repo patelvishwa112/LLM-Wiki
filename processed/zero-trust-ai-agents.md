@@ -7,6 +7,7 @@ tags:
   - anthropic
   - agent-ops
 source: https://claude.com/blog/zero-trust-for-ai-agents
+raw: "[[raw/anthropic-zero-trust-ai-agents]]"
 date: 2026-05-27
 author: Anthropic
 type: bookmark

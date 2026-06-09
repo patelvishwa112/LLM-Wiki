@@ -1,6 +1,7 @@
 ---
 tags: ["browser-agents", "agent-memory", "autobrowse", "skills", "browserbase", "agents"]
 source: https://x.com/kylejeong/status/2052103973377867913
+raw: "[[raw/kylejeong_2052103973377867913]]"
 date: 2026-05-28
 type: bookmark
 authors: ["kylejeong", "_shubhankar"]

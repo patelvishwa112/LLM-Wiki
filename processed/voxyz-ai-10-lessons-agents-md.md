@@ -2,6 +2,7 @@
 title: "10 Lessons from Shipping with AI Coding Agents (AGENTS.md / CLAUDE.md)"
 tags: ["agents", "claude-code", "codex", "prompt-engineering", "agent-ops", "agents-md", "claude-md"]
 source: https://x.com/voxyz_ai/status/2060753730643837205
+raw: "[[raw/voxyz_ai_2060753730643837205]]"
 date: 2026-05-30
 published: 2026-05-30
 authors: ["Vox (@Voxyz_ai)"]

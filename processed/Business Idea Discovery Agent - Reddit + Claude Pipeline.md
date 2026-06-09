@@ -10,6 +10,7 @@ tags:
   - praw
   - nlp
 source: https://x.com/damir_akaza/article/2059621796052193667
+raw: "[[raw/damir_akaza_2059621796052193667]]"
 type: bookmark
 created: 2026-05-30
 related:

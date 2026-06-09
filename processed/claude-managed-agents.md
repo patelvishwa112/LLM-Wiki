@@ -7,6 +7,7 @@ tags:
   - claude
   - agent-ops
 source: https://claude.com/blog/claude-managed-agents
+raw: "[[raw/anthropic-managed-agents]]"
 date: 2026-06-07
 author: Anthropic
 type: bookmark

@@ -1,6 +1,7 @@
 ---
 tags: ["interpretability", "models", "parameter-decomposition", "sae", "causal-ablation"]
 source: https://x.com/leedsharkey/status/2051717264286609516
+raw: "[[raw/leedsharkey_2051717264286609516]]"
 date: 2026-05-05
 type: note
 related: ["parameter-decomposition-vs-sae-interpretability", "priests-of-agi-interpretability-crisis", "anthropic-natural-language-autoencoders"]

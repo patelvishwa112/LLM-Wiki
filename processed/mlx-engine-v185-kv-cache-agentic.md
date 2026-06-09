@@ -1,6 +1,7 @@
 ---
 tags: [mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving, optimization, open-source]
 source: https://x.com/ostensiblyneil/status/2063006720616734835
+raw: "[[raw/ostensiblyneil_2063006720616734835]]"
 date: 2026-06-06
 type: bookmark
 author: ostensiblyneil

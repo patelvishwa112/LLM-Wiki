@@ -13,6 +13,7 @@ tags:
   - agent-ops
   - cost-optimization
 source: https://x.com/sairahul1/status/2063544956158185927
+raw: "[[raw/sairahul1_2063544956158185927]]"
 date: 2026-06-07
 author: Rahul (@sairahul1)
 type: bookmark

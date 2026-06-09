@@ -1,6 +1,7 @@
 ---
 tags: [dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, llm-as-judge, production, reliability]
 source: https://towardsdatascience.com/automate-writing-your-llm-prompts/
+raw: "[[raw/towardsdatascience_automate-writing-your-llm-prompts]]"
 type: article
 author: W Brett Kennedy
 date: 2026-06-05

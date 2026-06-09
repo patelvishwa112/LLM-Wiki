@@ -1,6 +1,7 @@
 ---
 tags: ["tools", "model-architecture", "visualization", "slm", "huggingface"]
 source: https://x.com/andrew_n_carr/status/2051102625613897887
+raw: "[[raw/andrew_n_carr_2051102625613897887]]"
 date: 2026-05-04
 type: bookmark
 ---

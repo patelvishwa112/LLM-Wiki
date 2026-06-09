@@ -1,6 +1,7 @@
 ---
 tags: [skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, claude-code, codex, antigravity, cursor, mcp, prompt-injection, ci-cd, github-actions, sarif]
 source: https://x.com/dani_avila7/status/2063336153630011728
+raw: "[[raw/dani_avila7_2063336153630011728]]"
 type: article
 author: Daniel San (@dani_avila7)
 date: 2026-06-06

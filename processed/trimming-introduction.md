@@ -1,6 +1,7 @@
 ---
 tags: ["trimming", "pruning", "model-compression", "vocabulary", "multilingual", "embeddings", "inference-optimization", "huggingface"]
 source: https://huggingface.co/blog/lbourdois/introduction-to-trimming
+raw: "[[raw/hf_trimming_intro_2026-05-28]]"
 date: 2026-05-28
 type: bookmark
 author: Loïck BOURDOIS et al.

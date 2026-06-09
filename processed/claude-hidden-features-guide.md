@@ -1,6 +1,7 @@
 ---
 tags: ["claude", "claude-code", "claude-cowork", "prompt-engineering", "artifacts", "projects", "memory", "skills", "mcp", "scheduled-tasks"]
 source: https://x.com/anatolikopadze/status/2057813254617858078
+raw: "[[raw/anatolikopadze_2057813254617858078]]"
 date: 2026-05-28
 type: bookmark
 author: AnatoliKopadze

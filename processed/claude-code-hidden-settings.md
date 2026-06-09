@@ -1,6 +1,7 @@
 ---
 tags: ["claude-code", "prompt-engineering", "settings"]
 source: https://x.com/zodchiii/status/2053042131111927976
+raw: "[[raw/zodchiii_2053042131111927976]]"
 date: 2026-05-09
 type: processed-note
 related:

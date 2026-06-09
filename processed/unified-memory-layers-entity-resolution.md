@@ -1,6 +1,7 @@
 ---
 tags: ["agents", "agent-memory", "knowledge-graphs", "entity-resolution"]
 source: https://x.com/pauliusztin_/status/2058163537114259691
+raw: "[[raw/pauliusztin__2058163537114259691]]"
 date: 2026-05-23
 type: bookmark
 related: [[graphiti-knowledge-graph-agent-memory]], [[quarq-agent-memory-architecture]], [[autobrowse-browser-agent-memory]]

@@ -8,6 +8,7 @@ tags:
   - separation-of-concerns
   - enterprise
 source: https://x.com/techyoutbe/status/2063553215623577693
+raw: "[[raw/techyoutbe_2063553215623577693]]"
 date: 2026-06-07
 author: Tech Fusionist (@techyoutbe)
 type: bookmark

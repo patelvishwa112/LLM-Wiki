@@ -1,6 +1,7 @@
 ---
 tags: ["recursive-self-improvement", "autoresearch", "ai-safety", "forecasting"]
 source: https://x.com/TheTuringPost/status/2051451337427030477
+raw: "[[raw/TheTuringPost_2051451337427030477]]"
 date: 2026-05-04
 type: note
 related: ["alphago-mcts-llm-rl-dwarkesh-eric-jang", "general-intelligence-rethinking-exploration-2022"]

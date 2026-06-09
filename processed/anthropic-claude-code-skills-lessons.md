@@ -8,6 +8,7 @@ tags:
   - hooks
   - progressive-disclosure
 source: https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills
+raw: "[[raw/anthropic-claude-code-skills-lessons]]"
 date: 2026-06-03
 author: Thariq Shihipar (Anthropic, Claude Code team)
 type: bookmark

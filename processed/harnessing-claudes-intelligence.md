@@ -7,6 +7,7 @@ tags:
   - mcp
   - prompt-engineering
 source: https://claude.com/blog/harnessing-claudes-intelligence
+raw: "[[raw/anthropic-harnessing-claudes-intelligence]]"
 date: 2026-06-07
 author: Anthropic (Lance Martin)
 type: bookmark

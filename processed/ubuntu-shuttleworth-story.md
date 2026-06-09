@@ -1,6 +1,7 @@
 ---
 tags: [ubuntu, linux, shuttleworth, canonical, debian, open-source, business]
 source: https://medium.com/@canartuc/575-million-founder-12-developers-the-product-running-60-of-the-cloud-9b7659a01f84
+raw: "[[raw/canartuc_9b7659a01f84]]"
 author: Can Artuc
 date: 2026-05-14
 scraped: 2026-05-26
