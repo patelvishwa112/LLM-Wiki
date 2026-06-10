@@ -73,6 +73,7 @@
 - [[managed-agents-dreaming-orchestration]] — [Managed Agents: Dreaming, Outcomes & Multiagent Orchestration](https://claude.com/blog/new-in-claude-managed-agents) `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`
 - [[managed-agents-sandbox-mcp]] — [Managed Agents: Self-Hosted Sandboxes & MCP Tunnels](https://claude.com/blog/claude-managed-agents-updates) `[agents, mcp, enterprise, anthropic, security, agent-ops]`
 - [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
+- [[designing-loops-with-fable-5]] — [Designing loops with Fable 5](https://x.com/RLanceMartin/status/2064397389189071163) `[anthropic, fable-5, claude, agents, loops, self-correction, memory, continual-learning]`
 
 ### Ai Ml
 
@@ -100,6 +101,7 @@
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[ai-engineering-roadmap-2026-from-scratch]] — [The 2026 AI Engineering Roadmap — Build It From Scratch](https://x.com/ghumare64/status/2063574610889560271) `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
+- [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 
 ### Coding Tools
 
@@ -134,6 +136,7 @@
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
+- [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
 
 ### Evals
 
@@ -165,6 +168,7 @@
 
 
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
+- [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 
 ### Interpretability
 
@@ -436,6 +440,7 @@
 - [[the-big-book-of-large-language-models]] `[models]`
 - [[the-html-brand-input-based-outcomes]] `[design, agents, claude, creativity, strategy, business-models]`
 - [[the-ultimate-guide-to-goal]] `[agents, coding-tools]`
+- [[the-untrainable]] `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[thesmartape]] `[ai-ml]`
 - [[theturingpost]] `[agents]`
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] `[weather, models]`
