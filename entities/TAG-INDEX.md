@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 573 unique tags across 242 processed notes.
+> 578 unique tags across 243 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -634,7 +634,7 @@
 - [[how-vector-database-works]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (20)
+### rl (21)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[claude-code-slm-training-bootstrap]]
@@ -647,6 +647,7 @@
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+- [[opsd-off-policy-self-distillation]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
@@ -755,7 +756,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (23)
+### training (24)
 
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -770,6 +771,7 @@
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+- [[opsd-off-policy-self-distillation]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
@@ -1092,11 +1094,28 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### grpo (3)
+### grpo (4)
 
+- [[opsd-off-policy-self-distillation]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
+
+### off-policy (1)
+
+- [[opsd-off-policy-self-distillation]]
+
+### opsd (1)
+
+- [[opsd-off-policy-self-distillation]]
+
+### policy-optimization (1)
+
+- [[opsd-off-policy-self-distillation]]
+
+### self-distillation (1)
+
+- [[opsd-off-policy-self-distillation]]
 
 ### hardware (2)
 
