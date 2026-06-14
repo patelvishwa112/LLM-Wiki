@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 578 unique tags across 243 processed notes.
+> 573 unique tags across 244 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -61,7 +61,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (86)
+### agents (87)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -123,6 +123,7 @@
 - [[learn-harness-engineering]]
 - [[leerob-x-post-2065469795529588940]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
+- [[loop-engineering-14-step-roadmap]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-dreaming-orchestration]]
@@ -219,6 +220,14 @@
 - [[rlm-recursive-llm-query-system]]
 - [[training-llm-from-scratch-5-lessons]]
 
+### automation (5)
+
+- [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- [[automate-writing-llm-prompts-dspy]]
+- [[claude-cowork-14-day-guide]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[loop-engineering-14-step-roadmap]]
+
 ### career (5)
 
 - [[anthropic-engineering-hiring-resumes]]
@@ -256,7 +265,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (48)
+### claude-code (49)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -297,6 +306,7 @@
 - [[learn-harness-engineering]]
 - [[level-above-phd-knowledge-works-without-you]]
 - [[llms-securing-source-code]]
+- [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[nvidia-skillspector-security-scanner]]
@@ -466,7 +476,7 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
-### mcp (20)
+### mcp (21)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -483,6 +493,7 @@
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
 - [[how-to-read-company-ai-analyst]]
+- [[loop-engineering-14-step-roadmap]]
 - [[managed-agents-sandbox-mcp]]
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
@@ -634,7 +645,7 @@
 - [[how-vector-database-works]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (21)
+### rl (20)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[claude-code-slm-training-bootstrap]]
@@ -647,7 +658,6 @@
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
-- [[opsd-off-policy-self-distillation]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
@@ -696,7 +706,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (30)
+### skills (31)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -722,6 +732,7 @@
 - [[hermes-kanban-mission-control]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[llms-securing-source-code]]
+- [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[nvidia-skillspector-security-scanner]]
@@ -756,7 +767,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (24)
+### training (23)
 
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -771,7 +782,6 @@
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
-- [[opsd-off-policy-self-distillation]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
@@ -860,13 +870,6 @@
 
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
-
-### automation (4)
-
-- [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
-- [[automate-writing-llm-prompts-dspy]]
-- [[claude-cowork-14-day-guide]]
-- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### autoresearch (3)
 
@@ -1094,28 +1097,11 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### grpo (4)
+### grpo (3)
 
-- [[opsd-off-policy-self-distillation]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
-
-### off-policy (1)
-
-- [[opsd-off-policy-self-distillation]]
-
-### opsd (1)
-
-- [[opsd-off-policy-self-distillation]]
-
-### policy-optimization (1)
-
-- [[opsd-off-policy-self-distillation]]
-
-### self-distillation (1)
-
-- [[opsd-off-policy-self-distillation]]
 
 ### hardware (2)
 
@@ -1210,6 +1196,11 @@
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[learnings-training-llm-from-scratch]]
+
+### loop-engineering (2)
+
+- [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering]]
 
 ### lora (2)
 
@@ -1476,10 +1467,11 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### sub-agents (3)
+### sub-agents (4)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[harness-is-the-product-280k]]
+- [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
 ### superposition (3)
@@ -1549,6 +1541,11 @@
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[notes-on-foundation-models]]
 - [[why-layout-matters-document-processing]]
+
+### worktrees (2)
+
+- [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering]]
 
 ### world-models (4)
 
@@ -1769,7 +1766,6 @@
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **loop** — [[how-to-be-good-at-research]]
 - **loop-driven-development** — [[loop-driven-development]]
-- **loop-engineering** — [[loop-engineering]]
 - **macro** — [[ray-dalio-x-post]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
@@ -1952,7 +1948,6 @@
 - **workers** — [[iii-agent-harness-workers]]
 - **workflow** — [[level-above-phd-knowledge-works-without-you]]
 - **workflow-automation** — [[claude-code-investment-research-setup]]
-- **worktrees** — [[loop-engineering]]
 - **yann-lecun** — [[joint-embedding-predictive-architecture-jepa]]
 - **zero-cost** — [[personal-ai-assistant-claude-0-cost]]
 - **zero-trust** — [[zero-trust-ai-agents]]
