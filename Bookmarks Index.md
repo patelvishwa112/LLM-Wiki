@@ -37,6 +37,7 @@
 - [[knowledge-system-compounding-obsidian-vellum]] — [Knowledge System That Compounds — Obsidian + Vellum](https://x.com/_0xpainn/status/2061014710984511916)
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
+- [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[multi-lora-training-osmosis]] — [Training Thousands of LoRA Adapters Concurrently](https://x.com/_weexiao/status/2061855508156563871)
@@ -50,8 +51,12 @@
 - [[feedback-loops-claude-code-less-babysitting]] — [Feedback loops: Help Claude Code complete ambitious tasks with less babysitting](https://x.com/delba_oliveira/status/2062203743387459836) `[claude-code, agents, skills, verification]`
 - [[how-to-build-agent-that-never-forgets]] — [how to build an agent that never forgets](https://x.com/rohit4verse/status/2012925228159295810) `[agents, memory, knowledge-graphs, architecture]`
 - [[how-to-build-ai-agent-swarms]] — [How to Build AI Agent Swarms (Complete Guide)](https://x.com/av1dlive/status/2062561213532471707) `[agents, multi-agent, swarms, kimi, claude]`
+- [[building-your-first-ai-agent-clear-path]] — [Building your first AI Agent; A clear path!](Reddit r/AgentsOfAI) `[agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]`
+- [[how-to-build-first-ai-agent-claude-full-course]] — [How to Actually Build Your First AI Agent Using Claude (Full Course)](https://x.com/eng_khairallah1/status/2065721530546373016) `[agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]`
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
 - [[fault-tolerance-langgraph-retries-timeouts]] — [Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers](https://x.com/sydneyrunkle/status/2062588423295111208) `[agents, langgraph, fault-tolerance, production]`
+- [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
+- [[2-ways-self-evolving-agents-model-harness]] — [2 Ways towards Self-Evolving Agents](https://x.com/qinzytech/status/2066585405479371092) `[agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]`
 - [[every-agentic-engineering-hack-june-2026]] — [Every Agentic Engineering Hack I Know (June 2026)](https://x.com/mvanhorn/status/2061877533885473181) `[agentic-engineering, claude-code, codex, productivity]`
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
