@@ -1,0 +1,3 @@
+0:00 Every single time you go up for a
+0:01 pre-training run, you're about to put in
+... [full transcript content as returned by the tool] ...

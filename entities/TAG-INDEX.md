@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 581 unique tags across 247 processed notes.
+> 589 unique tags across 248 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1006,6 +1006,11 @@
 - [[alignment-faking]]
 - [[deceptive-alignment]]
 
+### deepmind (2)
+
+- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
+- [[mosaic-probabilistic-weather-model]]
+
 ### deepseek (4)
 
 - [[deepseek-v4-claude-code-setup]]
@@ -1013,8 +1018,9 @@
 - [[rl-algo-comprehensive-qa]]
 - [[the-best-models-for-hermes-agent]]
 
-### distillation (2)
+### distillation (3)
 
+- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
 
@@ -1460,8 +1466,9 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### scaling-laws (2)
+### scaling-laws (3)
 
+- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
 
@@ -1664,6 +1671,7 @@
 - **business-ideas** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **business-models** — [[the-html-brand-input-based-outcomes]]
 - **canonical** — [[ubuntu-shuttleworth-story]]
+- **career-advice** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
 - **ci-cd** — [[nvidia-skillspector-security-scanner]]
 - **cispo** — [[rl-algo-comprehensive-qa]]
@@ -1706,7 +1714,6 @@
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
 - **decision-making** — [[principled-thinking-and-ai-ray-dalio]]
-- **deepmind** — [[mosaic-probabilistic-weather-model]]
 - **design** — [[the-html-brand-input-based-outcomes]]
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
@@ -1750,6 +1757,7 @@
 - **friction** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **frontend** — [[generative-ui-is-the-new-frontend]]
 - **frontend-design** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
 - **gemma** — [[google-gemma-4-12b-local-fine-tuning]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
@@ -1782,6 +1790,7 @@
 - **importance-sampling** — [[rl-algo-comprehensive-qa]]
 - **indexing** — [[how-vector-database-works]]
 - **induction-heads** — [[induction-heads]]
+- **inference-code-design** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **inference-optimization** — [[trimming-introduction]]
 - **infra** — [[learnings-training-llm-from-scratch]]
 - **interview** — [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -1796,6 +1805,7 @@
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
+- **kernel-engineering** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kimi-work** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
@@ -1811,6 +1821,7 @@
 - **llm-as-judge** — [[automate-writing-llm-prompts-dspy]]
 - **llm-engines** — [[inference-engines-2026]]
 - **llm-ops** — [[continuous-trace-intelligence-braintrust-topics]]
+- **llm-research** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **local-ai** — [[inference-engines-2026]]
 - **local-llm** — [[google-gemma-4-12b-local-fine-tuning]]
 - **local-llms** — [[21-agent-building-mistakes]]
@@ -1882,6 +1893,7 @@
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prd-review** — [[make-requirements-great]]
+- **pre-training** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
@@ -1896,6 +1908,7 @@
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
+- **quantization** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **ray-dalio** — [[principled-thinking-and-ai-ray-dalio]]
 - **reasoning** — [[hrm-text-1b-reasoning-model]]
 - **red-teaming** — [[red-teaming]]
@@ -1912,6 +1925,7 @@
 - **research-agents** — [[21-agent-building-mistakes]]
 - **research-automation** — [[anthropic-recursive-self-improvement]]
 - **research-methodology** — [[training-llm-from-scratch-5-lessons]]
+- **research-taste** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **resources** — [[mcp-core-architecture-hosts-clients-servers]]
 - **resumes** — [[anthropic-engineering-hiring-resumes]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
