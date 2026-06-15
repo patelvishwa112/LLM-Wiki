@@ -65,6 +65,7 @@
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
 
+- [[9-step-loop-claude-code-senior-engineer]] — [The 9-Step Loop That Turns Claude Code Into a Senior Engineer](https://x.com/0xmortyx/status/2066469702075920794) `[claude-code, agents, loop-engineering, sub-agents, hooks, plan-mode, claude-md, review, senior-engineer, slash-commands]`
 - [[claude-code-dynamic-workflows-intro]] — [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
 - [[claude-managed-agents]] — [Claude Managed Agents: Production Agents 10x Faster](https://claude.com/blog/claude-managed-agents) `[agents, anthropic, enterprise, mcp, claude, agent-ops]`
 - [[code-w-claude-london-2026]] — [Code w/ Claude London 2026](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`

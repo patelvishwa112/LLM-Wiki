@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 574 unique tags across 245 processed notes.
+> 577 unique tags across 246 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -61,7 +61,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (87)
+### agents (88)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -69,6 +69,7 @@
 - [[4-agent-trading-desk]]
 - [[50-mcp-servers-guide]]
 - [[540k-lines-i-didnt-need-garry-tan]]
+- [[9-step-loop-claude-code-senior-engineer]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[Non-Obvious Agent Projects]]
@@ -266,11 +267,12 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (49)
+### claude-code (50)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
+- [[9-step-loop-claude-code-senior-engineer]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-memory-landscape-2026]]
@@ -751,6 +753,14 @@
 - [[multi-lora-training-osmosis]]
 - [[sia-recursive-self-improving-agent]]
 
+### sub-agents (5)
+
+- [[6-mcp-servers-0-calls-280k-wasted]]
+- [[9-step-loop-claude-code-senior-engineer]]
+- [[harness-is-the-product-280k]]
+- [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering]]
+
 ### subagents (6)
 
 - [[agent-harness-engineering-agentforge]]
@@ -904,8 +914,9 @@
 - [[induction-heads]]
 - [[mechanistic-interpretability]]
 
-### claude-md (2)
+### claude-md (3)
 
+- [[9-step-loop-claude-code-senior-engineer]]
 - [[claude-code-self-correcting-setup]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
@@ -1126,8 +1137,9 @@
 - [[harness-engineering-2026-discipline]]
 - [[learn-harness-engineering]]
 
-### hooks (2)
+### hooks (3)
 
+- [[9-step-loop-claude-code-senior-engineer]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
 
@@ -1203,8 +1215,9 @@
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[learnings-training-llm-from-scratch]]
 
-### loop-engineering (2)
+### loop-engineering (3)
 
+- [[9-step-loop-claude-code-senior-engineer]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
@@ -1458,6 +1471,11 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[training-llm-from-scratch-5-lessons]]
 
+### slash-commands (2)
+
+- [[9-step-loop-claude-code-senior-engineer]]
+- [[claude-code-slash-command-library]]
+
 ### societal-impacts (4)
 
 - [[ai-persuasion]]
@@ -1482,13 +1500,6 @@
 
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
-
-### sub-agents (4)
-
-- [[6-mcp-servers-0-calls-280k-wasted]]
-- [[harness-is-the-product-280k]]
-- [[loop-engineering-14-step-roadmap]]
-- [[loop-engineering]]
 
 ### superposition (3)
 
@@ -1841,6 +1852,7 @@
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **pipelines** — [[why-layout-matters-document-processing]]
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
+- **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
 - **planning** — [[coderabbit-claude-agent-orchestration]]
 - **playbooks** — [[how-to-automate-disaster-recovery-with-agents]]
 - **playwright** — [[claude-code-investment-research-setup]]
@@ -1884,6 +1896,7 @@
 - **resumes** — [[anthropic-engineering-hiring-resumes]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **retrieval** — [[quarq-agent-memory-architecture]]
+- **review** — [[9-step-loop-claude-code-senior-engineer]]
 - **reward-design** — [[rl-algo-comprehensive-qa]]
 - **reward-hacking** — [[reward-hacking-and-tampering]]
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
@@ -1908,6 +1921,7 @@
 - **semantic-layer** — [[anthropic-self-service-analytics-claude]]
 - **semantic-search** — [[how-vector-database-works]]
 - **semantic-state** — [[memory-is-retained-consequence]]
+- **senior-engineer** — [[9-step-loop-claude-code-senior-engineer]]
 - **sentra** — [[memory-is-retained-consequence]]
 - **separation-of-concerns** — [[mcp-core-architecture-explained]]
 - **servers** — [[mcp-core-architecture-hosts-clients-servers]]
@@ -1919,7 +1933,6 @@
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
-- **slash-commands** — [[claude-code-slash-command-library]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
