@@ -197,6 +197,7 @@
 - [[mushtaqbilalphd]] — [MushtaqBilalPhD](https://x.com/MushtaqBilalPhD/status/2052338632426467550)
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] — [if you're looking for a long read for the weekend: the ultimate guide to RL envi](https://x.com/SergioPaniego/status/2053120052157628678)
 - [[avichawla]] — [_avichawla](https://x.com/_avichawla/status/2052326975034048754)
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]] — [How To Build Your Own LLM from Scratch (The 5-Stage Pipeline Behind GPT and Claude)](https://x.com/sairahul1/status/2066076937806856661) `[llm, training, tokenization, alignment, rlhf, data, evaluation, transformer, pretraining, sft]`
 - [[the-big-book-of-large-language-models]] — [The Big Book of Large Language Models](https://x.com/hamptonism/status/2051978299635589592)
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] — [My team at @GoodfireAI has been cooking up a new way to do interpretability: dec](https://x.com/leedsharkey/status/2051717264286609516)
 - [[trq212]] — [trq212](https://x.com/trq212/status/2052809885763747935)

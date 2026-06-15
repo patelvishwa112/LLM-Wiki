@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 573 unique tags across 244 processed notes.
+> 574 unique tags across 245 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -151,7 +151,7 @@
 - [[wtf-is-a-loop]]
 - [[zero-trust-ai-agents]]
 
-### alignment (17)
+### alignment (18)
 
 - [[agentic-misalignment]]
 - [[ai-alignment]]
@@ -162,6 +162,7 @@
 - [[constitutional-ai]]
 - [[deceptive-alignment]]
 - [[extended-thinking]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[persona-vectors-paper]]
 - [[persona-vectors]]
 - [[reward-hacking-and-tampering]]
@@ -454,13 +455,14 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### llm (10)
+### llm (11)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[quarq-agent-memory-architecture]]
 - [[rl-interview-questions-2026]]
@@ -668,10 +670,11 @@
 - [[sutton-barto-rl-notes]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### rlhf (8)
+### rlhf (9)
 
 - [[ai-alignment]]
 - [[constitutional-ai]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[learnings-training-llm-from-scratch]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
@@ -767,7 +770,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (23)
+### training (24)
 
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -775,6 +778,7 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[harbor-rl-coding-environments]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
 - [[jp-morgan-quant-python-training]]
@@ -960,8 +964,9 @@
 - [[ai-cybersecurity]]
 - [[opus-cybersecurity-partners]]
 
-### data (2)
+### data (3)
 
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[learnings-training-llm-from-scratch]]
 
@@ -1023,9 +1028,10 @@
 - [[anthropic-engineering-hiring-resumes]]
 - [[claude-code-self-correcting-setup]]
 
-### evaluation (2)
+### evaluation (3)
 
 - [[automate-writing-llm-prompts-dspy]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 
 ### experiment (3)
@@ -1330,6 +1336,11 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 
+### pretraining (2)
+
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
+
 ### project-ideas (2)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1442,6 +1453,11 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[inference-engines-2026]]
 
+### sft (2)
+
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- [[training-llm-from-scratch-5-lessons]]
+
 ### societal-impacts (4)
 
 - [[ai-persuasion]]
@@ -1506,6 +1522,11 @@
 - [[4-agent-trading-desk]]
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
+
+### transformer (2)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 
 ### transformers (3)
 
@@ -1830,7 +1851,6 @@
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prd-review** — [[make-requirements-great]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
-- **pretraining** — [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
 - **probes** — [[priests-of-agi-interpretability-crisis]]
@@ -1892,7 +1912,6 @@
 - **separation-of-concerns** — [[mcp-core-architecture-explained]]
 - **servers** — [[mcp-core-architecture-hosts-clients-servers]]
 - **settings** — [[claude-code-hidden-settings]]
-- **sft** — [[training-llm-from-scratch-5-lessons]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
 - **siem** — [[claude-compliance-security-partners]]
 - **signal-detection** — [[jim-simons-medallion-quant-framework]]
@@ -1924,10 +1943,10 @@
 - **threat-modeling** — [[llms-securing-source-code]]
 - **time-management** — [[units-of-time-alfred-lin]]
 - **tiny-models** — [[training-llm-from-scratch-5-lessons]]
+- **tokenization** — [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - **tool-design** — [[agent-harness-engineering-agentforge]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
-- **transformer** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **trimming** — [[trimming-introduction]]
 - **twitter** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **typescript** — [[mcp-server-workflow-problems]]
