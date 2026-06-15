@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 577 unique tags across 246 processed notes.
+> 581 unique tags across 247 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -61,7 +61,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (88)
+### agents (89)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -143,6 +143,7 @@
 - [[rlm-structured-outputs]]
 - [[rryssf-x-post-2065451210019102945]]
 - [[ryanbai1412-x-post-2065466603358306470]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[sia-recursive-self-improving-agent]]
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
@@ -480,7 +481,7 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
-### mcp (21)
+### mcp (22)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -503,6 +504,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
 
 ### mechanistic-interpretability (5)
 
@@ -702,6 +704,14 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
+### second-brain (5)
+
+- [[claude-dynamic-workflows-second-brain]]
+- [[claude-personal-assistant-zero-dollars]]
+- [[knowledge-system-compounding-obsidian-vellum]]
+- [[level-above-phd-knowledge-works-without-you]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
+
 ### security (6)
 
 - [[claude-compliance-security-partners]]
@@ -842,6 +852,11 @@
 - [[autobrowse-browser-agent-memory]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
+
+### agent-swarm (2)
+
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
 
 ### ai (2)
 
@@ -1178,6 +1193,11 @@
 - [[how-to-build-ai-agent-swarms]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
+### knowledge-graph (2)
+
+- [[graphiti-knowledge-graph-agent-memory]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
+
 ### knowledge-graphs (2)
 
 - [[how-to-build-agent-that-never-forgets]]
@@ -1271,11 +1291,12 @@
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (3)
+### obsidian (4)
 
 - [[claude-code-investment-research-setup]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
 
 ### on-policy-distillation (2)
 
@@ -1329,6 +1350,11 @@
 
 - [[claude-personal-assistant-zero-dollars]]
 - [[personal-ai-assistant-claude-0-cost]]
+
+### playbooks (2)
+
+- [[how-to-automate-disaster-recovery-with-agents]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
 
 ### policy (3)
 
@@ -1438,13 +1464,6 @@
 
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
-
-### second-brain (4)
-
-- [[claude-dynamic-workflows-second-brain]]
-- [[claude-personal-assistant-zero-dollars]]
-- [[knowledge-system-compounding-obsidian-vellum]]
-- [[level-above-phd-knowledge-works-without-you]]
 
 ### self-correction (2)
 
@@ -1607,7 +1626,6 @@
 - **agent-loops** — [[loop-driven-development]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
-- **agent-swarm** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
 - **agentic-misalignment** — [[agentic-misalignment]]
@@ -1626,6 +1644,7 @@
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **async-rl** — [[rl-interview-answers-2026]]
+- **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
@@ -1728,6 +1747,7 @@
 - **firecrawl** — [[claude-code-investment-research-setup]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
 - **foundation-models** — [[notes-on-foundation-models]]
+- **friction** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **frontend** — [[generative-ui-is-the-new-frontend]]
 - **frontend-design** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
@@ -1778,10 +1798,10 @@
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- **kimi-work** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **kl-divergence** — [[rl-algo-comprehensive-qa]]
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
-- **knowledge-graph** — [[graphiti-knowledge-graph-agent-memory]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **legibility** — [[the-untrainable]]
@@ -1821,6 +1841,7 @@
 - **multilingual** — [[trimming-introduction]]
 - **n8n** — [[knowledge-system-compounding-obsidian-vellum]]
 - **neural-network** — [[jim-simons-medallion-quant-framework]]
+- **night-shift** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
 - **nla** — [[anthropic-natural-language-autoencoders]]
 - **nlp** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -1854,7 +1875,6 @@
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
 - **planning** — [[coderabbit-claude-agent-orchestration]]
-- **playbooks** — [[how-to-automate-disaster-recovery-with-agents]]
 - **playwright** — [[claude-code-investment-research-setup]]
 - **pm** — [[make-requirements-great]]
 - **policy-engine** — [[iii-agent-harness-workers]]

@@ -22,6 +22,7 @@
 - [[daily-dose-of-premium-content]] — [daily dose of premium content](https://x.com/oprydai/status/2053790376813830250)
 - [[2-months-ago-i-started-building-unified-memory-lay]] — [2 months ago, I started building unified memory layers with knowledge graphs.](https://x.com/pauliusztin_/status/2058163537114259691)
 - [[article]] — [Article](https://x.com/sairahul1/status/2055569492357586984)
+- [[second-brain-obsidian-night-shift-300-agent-swarm]] — [How To Build a Second Brain That Runs Itself With Obsidian (Full Course)](https://x.com/eng_khairallah1/status/2066437136354545981) `[obsidian, second-brain, agents, kimi-work, agent-swarm, knowledge-graph, atomic-notes, friction, playbooks, mcp, night-shift]`
 - [[how-to-set-up-your-content-system]] — [how to set up your content system](https://x.com/shannholmberg/status/2053077052069449780)
 - [[hermes-agent-changed-how-i-work]] — [Hermes Agent changed how I work](https://x.com/shannholmberg/status/2055335043904492011)
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] — [How to Find Business Ideas by Reading What People Already Want](https://x.com/damir_akaza/article/2059621796052193667)
