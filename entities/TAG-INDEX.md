@@ -17,12 +17,13 @@
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 
-### agent-harness (16)
+### agent-harness (17)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-should-repair-itself]]
+- [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[building-a-good-vertical-agent]]
 - [[harness-engineering-2026-discipline]]
