@@ -59,6 +59,7 @@
 - [[2-ways-self-evolving-agents-model-harness]] — [2 Ways towards Self-Evolving Agents](https://x.com/qinzytech/status/2066585405479371092) `[agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]`
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
 - [[universal-agent-thesis]] — [Universal AgentThesis](https://x.com/cobusgreylingza/status/2066593705906012188) `[agents, agent-harness, self-evolving-agents, tool-use, autonomy, architecture]`
+- [[using-claude-to-go-viral-on-x-mrbeast-framework]] — [Using Claude to go Viral on X… (Mr. Beasts Framework)](https://x.com/mattepstein/status/2066664675542999369) `[claude, x, viral-content, mrbeast, content-creation, prompt-engineering, growth]`
 - [[every-agentic-engineering-hack-june-2026]] — [Every Agentic Engineering Hack I Know (June 2026)](https://x.com/mvanhorn/status/2061877533885473181) `[agentic-engineering, claude-code, codex, productivity]`
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
