@@ -7,6 +7,10 @@
 
 ## High-Frequency Tags (5+ articles)
 
+### ai-research (1)
+
+- [[how-to-be-good-at-ai-research]]
+
 ### agent-architecture (7)
 
 - [[21-agent-building-mistakes]]
