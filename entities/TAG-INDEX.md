@@ -7,6 +7,18 @@
 
 ## High-Frequency Tags (5+ articles)
 
+### agent-loops (1)
+
+- [[self-improvement-loop-for-skills-zach-lloyd]]
+
+### self-improving-systems (1)
+
+- [[self-improvement-loop-for-skills-zach-lloyd]]
+
+### skills (1)
+
+- [[self-improvement-loop-for-skills-zach-lloyd]]
+
 ### ai-research (1)
 
 - [[how-to-be-good-at-ai-research]]
