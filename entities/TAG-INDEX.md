@@ -19,6 +19,14 @@
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 
+### ui (1)
+
+- [[10-rules-polished-ui-claude]]
+
+### frontend-design (1)
+
+- [[10-rules-polished-ui-claude]]
+
 ### ai-research (1)
 
 - [[how-to-be-good-at-ai-research]]
