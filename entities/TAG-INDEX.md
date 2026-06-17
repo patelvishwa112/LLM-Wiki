@@ -1487,7 +1487,11 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### scaling-laws (3)
+### bitter-lesson (2)
+
+- [[encoder-free-models-bitter-lesson]]
+
+### scaling-laws (5)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[scaling-laws]]
