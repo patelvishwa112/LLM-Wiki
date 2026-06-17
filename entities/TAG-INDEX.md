@@ -561,7 +561,11 @@
 - [[rl-environments-guide-llm]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (11)
+### storm (1)
+
+- [[stanford-storm-method-claude-research]]
+
+### multi-agent (8)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
