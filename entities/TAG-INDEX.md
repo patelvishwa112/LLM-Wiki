@@ -1135,12 +1135,13 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harness-engineering-2026-discipline]]
 
-### fine-tuning (4)
+### fine-tuning (5)
 
 - [[adapad-lora-parallel-deflation]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[multi-lora-training-osmosis]]
+- [[peft-beyond-lora]]
 
 ### from-scratch (3)
 
@@ -1277,10 +1278,11 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
-### lora (2)
+### lora (3)
 
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
+- [[peft-beyond-lora]]
 
 ### managed-agents (3)
 
