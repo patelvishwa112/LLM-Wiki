@@ -60,6 +60,7 @@
 - [[rlm-structured-outputs]]
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
+- [[two-tracks-not-ten-agents]]
 
 ### agent-ops (13)
 
