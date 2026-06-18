@@ -702,6 +702,7 @@
 - [[rlm-recursive-llm-query-system]]
 - [[sutton-barto-rl-notes]]
 - [[training-llm-from-scratch-5-lessons]]
+- [[weight-synchronization-rl-post-training]]
 
 ### rlhf (9)
 
