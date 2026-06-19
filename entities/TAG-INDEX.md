@@ -880,12 +880,13 @@
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
 
-### agent-memory (4)
+### agent-memory (5)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[autobrowse-browser-agent-memory]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
+- [[graph-memory-reconstruction-llms]]
 
 ### agent-swarm (2)
 
