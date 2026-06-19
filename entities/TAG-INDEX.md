@@ -257,13 +257,14 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[loop-engineering-14-step-roadmap]]
 
-### career (5)
+### career (6)
 
 - [[anthropic-engineering-hiring-resumes]]
 - [[how-to-be-good-at-research]]
 - [[jp-morgan-quant-python-training]]
 - [[mid-career-dissatisfaction]]
 - [[units-of-time-alfred-lin]]
+- [[career-guide-early-twenties-optimize-for-learning]]
 
 ### claude (26)
 
@@ -1258,10 +1259,11 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[what-is-kv-cache-llms]]
 
-### learning (2)
+### learning (3)
 
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
+- [[career-guide-early-twenties-optimize-for-learning]]
 
 ### llm-engineering (2)
 
