@@ -7,9 +7,10 @@
 
 ## High-Frequency Tags (5+ articles)
 
-### agent-loops (1)
+### agent-loops (2)
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[guide-to-goal-codex]]
 
 ### self-improving-systems (2)
 
