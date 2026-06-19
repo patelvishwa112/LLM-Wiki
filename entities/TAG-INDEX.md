@@ -11,9 +11,10 @@
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 
-### self-improving-systems (1)
+### self-improving-systems (2)
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[recursive-self-improvement-ai-101]]
 
 ### skills (1)
 
