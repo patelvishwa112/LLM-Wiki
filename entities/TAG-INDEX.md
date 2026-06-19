@@ -805,7 +805,7 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
-### subagents (6)
+### subagents (7)
 
 - [[agent-harness-engineering-agentforge]]
 - [[claude-dynamic-workflows-second-brain]]
@@ -813,6 +813,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
+- [[claude-subagents-vs-agent-teams]]
 
 ### tools (7)
 
