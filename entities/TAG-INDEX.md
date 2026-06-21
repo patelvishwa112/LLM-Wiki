@@ -37,7 +37,7 @@
 
 - [[how-to-be-good-at-ai-research]]
 
-### agent-architecture (7)
+### agent-architecture (8)
 
 - [[21-agent-building-mistakes]]
 - [[claude-code-changed-what-agents-look-like]]
@@ -46,8 +46,9 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
+- [[production-rag-agents-technmak]]
 
-### agent-harness (18)
+### agent-harness (19)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -68,6 +69,7 @@
 - [[your-agent-harness-should-repair-itself]]
 - [[two-tracks-not-ten-agents]]
 - [[ai-chief-of-staff-morning-brief]]
+- [[production-rag-agents-technmak]]
 
 ### agent-ops (13)
 
@@ -2203,6 +2205,14 @@
 ### ai-loops (1)
 
 - [[ai-loops-anatoli-kopadze]]
+
+### rag (1)
+
+- [[production-rag-agents-technmak]]
+
+### retrieval (1)
+
+- [[production-rag-agents-technmak]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
