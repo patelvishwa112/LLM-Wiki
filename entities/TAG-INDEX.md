@@ -7,10 +7,11 @@
 
 ## High-Frequency Tags (5+ articles)
 
-### agent-loops (2)
+### agent-loops (3)
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[guide-to-goal-codex]]
+- [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
 ### self-improving-systems (2)
 
@@ -297,12 +298,13 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (50)
+### claude-code (51)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[9-step-loop-claude-code-senior-engineer]]
+- [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-memory-landscape-2026]]
@@ -501,9 +503,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loops (6)
+### loops (7)
 
 - [[designing-loops-with-fable-5]]
+- [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[fable-5-mythos-prompting-masterclass]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[the-full-loop-in-code]]
