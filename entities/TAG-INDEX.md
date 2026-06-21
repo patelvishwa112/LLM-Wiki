@@ -18,9 +18,10 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[recursive-self-improvement-ai-101]]
 
-### skills (1)
+### skills (2)
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[ai-chief-of-staff-morning-brief]]
 
 ### ui (1)
 
@@ -44,7 +45,7 @@
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 
-### agent-harness (17)
+### agent-harness (18)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -64,6 +65,7 @@
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
 - [[two-tracks-not-ten-agents]]
+- [[ai-chief-of-staff-morning-brief]]
 
 ### agent-ops (13)
 
@@ -2175,6 +2177,22 @@
 - **logprobs** — [[continuous-batching-grpo-trl]]
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **post-agent-companies** — [[post-agent-companies]]
+
+### morning-brief (1)
+
+- [[ai-chief-of-staff-morning-brief]]
+
+### chief-of-staff (1)
+
+- [[ai-chief-of-staff-morning-brief]]
+
+### people-radar (1)
+
+- [[ai-chief-of-staff-morning-brief]]
+
+### executive-ai (1)
+
+- [[ai-chief-of-staff-morning-brief]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
