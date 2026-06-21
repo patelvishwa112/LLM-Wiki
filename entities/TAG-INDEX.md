@@ -37,7 +37,7 @@
 
 - [[how-to-be-good-at-ai-research]]
 
-### agent-architecture (8)
+### agent-architecture (9)
 
 - [[21-agent-building-mistakes]]
 - [[claude-code-changed-what-agents-look-like]]
@@ -47,6 +47,7 @@
 - [[iii-agent-harness-workers]]
 - [[quarq-agent-memory-architecture]]
 - [[production-rag-agents-technmak]]
+- [[mcp-model-context-protocol]]
 
 ### agent-harness (19)
 
@@ -2213,6 +2214,14 @@
 ### retrieval (1)
 
 - [[production-rag-agents-technmak]]
+
+### mcp (1)
+
+- [[mcp-model-context-protocol]]
+
+### model-context-protocol (1)
+
+- [[mcp-model-context-protocol]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
