@@ -50,7 +50,7 @@
 - [[mcp-model-context-protocol]]
 - [[ai-agent-loop-architecture-buinevici]]
 
-### agent-harness (19)
+### agent-harness (20)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -72,8 +72,9 @@
 - [[two-tracks-not-ten-agents]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[production-rag-agents-technmak]]
-
-### agent-ops (13)
+- [[mcp-model-context-protocol]]
+- [[ai-agent-loop-architecture-buinevici]]
+- [[claude-md-12-rules-mikenevermiss]]
 
 - [[21-agent-building-mistakes]]
 - [[agent-harness-engineering-agentforge]]
@@ -2231,6 +2232,10 @@
 ### guardrails (1)
 
 - [[ai-agent-loop-architecture-buinevici]]
+
+### claude-md (1)
+
+- [[claude-md-12-rules-mikenevermiss]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
