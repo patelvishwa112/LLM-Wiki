@@ -37,7 +37,7 @@
 
 - [[how-to-be-good-at-ai-research]]
 
-### agent-architecture (9)
+### agent-architecture (10)
 
 - [[21-agent-building-mistakes]]
 - [[claude-code-changed-what-agents-look-like]]
@@ -48,6 +48,7 @@
 - [[quarq-agent-memory-architecture]]
 - [[production-rag-agents-technmak]]
 - [[mcp-model-context-protocol]]
+- [[ai-agent-loop-architecture-buinevici]]
 
 ### agent-harness (19)
 
@@ -2222,6 +2223,14 @@
 ### model-context-protocol (1)
 
 - [[mcp-model-context-protocol]]
+
+### agent-loop (1)
+
+- [[ai-agent-loop-architecture-buinevici]]
+
+### guardrails (1)
+
+- [[ai-agent-loop-architecture-buinevici]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
