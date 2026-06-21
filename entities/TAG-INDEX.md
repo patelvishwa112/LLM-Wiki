@@ -7,16 +7,18 @@
 
 ## High-Frequency Tags (5+ articles)
 
-### agent-loops (3)
+### agent-loops (4)
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[guide-to-goal-codex]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
+- [[ai-loops-anatoli-kopadze]]
 
-### self-improving-systems (2)
+### self-improving-systems (3)
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[recursive-self-improvement-ai-101]]
+- [[ai-loops-anatoli-kopadze]]
 
 ### skills (2)
 
@@ -2193,6 +2195,14 @@
 ### executive-ai (1)
 
 - [[ai-chief-of-staff-morning-brief]]
+
+### wtf-is-a-loop (1)
+
+- [[ai-loops-anatoli-kopadze]]
+
+### ai-loops (1)
+
+- [[ai-loops-anatoli-kopadze]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
