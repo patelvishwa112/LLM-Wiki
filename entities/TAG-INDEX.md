@@ -2236,6 +2236,18 @@
 ### claude-md (1)
 
 - [[claude-md-12-rules-mikenevermiss]]
+
+### distillation (1)
+
+- [[knowledge-distillation-theturingpost]]
+
+### efficiency (1)
+
+- [[knowledge-distillation-theturingpost]]
+
+### scaling-laws (1)
+
+- [[knowledge-distillation-theturingpost]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
