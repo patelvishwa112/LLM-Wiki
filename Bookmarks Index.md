@@ -63,6 +63,8 @@
 - [[every-agentic-engineering-hack-june-2026]] — [Every Agentic Engineering Hack I Know (June 2026)](https://x.com/mvanhorn/status/2061877533885473181) `[agentic-engineering, claude-code, codex, productivity]`
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
+- [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
+- [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[claude-dynamic-workflows-second-brain]] — [Claude Dynamic Workflows for Your Second Brain](https://x.com/artemxtech/status/2062582596190498864) `[claude-code, dynamic-workflows, obsidian, second-brain]`
 - [[dive-into-claude-code-vila-lab]] — [Dive into Claude Code (architectural analysis)](https://github.com/VILA-Lab/Dive-into-Claude-Code) `[claude-code, architecture, agent-engineering, paper, hermes]`
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
@@ -213,6 +215,7 @@
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] — [My team at @GoodfireAI has been cooking up a new way to do interpretability: dec](https://x.com/leedsharkey/status/2051717264286609516)
 - [[trq212]] — [trq212](https://x.com/trq212/status/2052809885763747935)
 - [[what-is-kv-cache-llms]] — [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927) `[llm, transformers, attention, kv-cache, fundamentals]`
+- [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 
 ### Papers
 
@@ -373,6 +376,7 @@
 - [[hermes-agent-changed-how-i-work]] `[agents, productivity]`
 - [[hermes-goal-mode-guide]] `[hermes, goal, productivity, workflows]`
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
+- [[hermes-seven-skills-cobi-bean]] `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, mermaid, meta-skills, superpowers]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
@@ -444,6 +448,7 @@
 - [[rl-algo-comprehensive-qa]] `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[rlm-structured-outputs]] `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
+- [[sakana-fugu-orchestrator-models]] `[orchestration, multi-agent, sakana-ai, models, agent-harness, grpo, collective-intelligence, routing]`
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 696 unique tags across 298 processed notes.
+> 701 unique tags across 300 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (26)
+### agent-harness (28)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -42,6 +42,7 @@
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
+- [[hermes-seven-skills-cobi-bean]]
 - [[iii-agent-harness-workers]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -50,6 +51,7 @@
 - [[rethinking-search-as-code-generation]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
+- [[sakana-fugu-orchestrator-models]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[vscode-copilot-token-efficiency]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
@@ -64,7 +66,7 @@
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
 
-### agent-ops (20)
+### agent-ops (21)
 
 - [[21-agent-building-mistakes]]
 - [[agent-harness-engineering-agentforge]]
@@ -76,6 +78,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[evals-strategic-ip-garrettlord]]
 - [[harness-engineering-2026-discipline]]
+- [[hermes-seven-skills-cobi-bean]]
 - [[llms-securing-source-code]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[managed-agents-built-in-memory]]
@@ -502,7 +505,15 @@
 - [[multi-lora-training-osmosis]]
 - [[peft-beyond-lora]]
 
-### hermes (11)
+### grpo (5)
+
+- [[continuous-batching-grpo-trl]]
+- [[rl-algo-comprehensive-qa]]
+- [[rl-interview-answers-2026]]
+- [[rl-interview-questions-2026]]
+- [[sakana-fugu-orchestrator-models]]
+
+### hermes (12)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-landscape-2026]]
@@ -511,6 +522,7 @@
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
+- [[hermes-seven-skills-cobi-bean]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[research-agent-evidence-operator]]
 - [[the-best-models-for-hermes-agent]]
@@ -637,7 +649,7 @@
 - [[how-to-be-good-at-research]]
 - [[knowledge-distillation-theturingpost]]
 
-### models (13)
+### models (14)
 
 - [[adapad-lora-parallel-deflation]]
 - [[big-book-of-llms]]
@@ -651,9 +663,10 @@
 - [[mosaic-probabilistic-weather-model]]
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[rl-environments-guide-llm]]
+- [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (14)
+### multi-agent (15)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -666,14 +679,16 @@
 - [[managed-agents-dreaming-orchestration]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[rlm-recursive-llm-query-system]]
+- [[sakana-fugu-orchestrator-models]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[stanford-storm-method-claude-research]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### obsidian (5)
+### obsidian (6)
 
 - [[claude-code-investment-research-setup]]
 - [[claude-dynamic-workflows-second-brain]]
+- [[hermes-seven-skills-cobi-bean]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
@@ -687,7 +702,7 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### orchestration (15)
+### orchestration (16)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -703,6 +718,7 @@
 - [[iii-agent-harness-workers]]
 - [[managed-agents-dreaming-orchestration]]
 - [[openclaw-hermes-supervisor-setup]]
+- [[sakana-fugu-orchestrator-models]]
 - [[wtf-is-a-loop]]
 
 ### production (8)
@@ -867,7 +883,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (37)
+### skills (38)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -894,6 +910,7 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harnessing-claudes-intelligence]]
 - [[hermes-kanban-mission-control]]
+- [[hermes-seven-skills-cobi-bean]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[llms-securing-source-code]]
@@ -1360,13 +1377,6 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### grpo (4)
-
-- [[continuous-batching-grpo-trl]]
-- [[rl-algo-comprehensive-qa]]
-- [[rl-interview-answers-2026]]
-- [[rl-interview-questions-2026]]
-
 ### hardware (3)
 
 - [[0xsojalsec-llms-local]]
@@ -1513,6 +1523,11 @@
 - [[how-to-be-good-at-ai-research]]
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
+
+### meta-skills (2)
+
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- [[hermes-seven-skills-cobi-bean]]
 
 ### mlx (2)
 
@@ -1801,6 +1816,11 @@
 - [[mechanistic-interpretability]]
 - [[superposition]]
 
+### superpowers (2)
+
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- [[hermes-seven-skills-cobi-bean]]
+
 ### sycophancy (2)
 
 - [[persona-vectors-paper]]
@@ -1959,6 +1979,7 @@
 - **clients** — [[mcp-core-architecture-hosts-clients-servers]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
+- **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communities** — [[0xsojalsec-llms-local]]
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
@@ -2134,9 +2155,9 @@
 - **medallion** — [[jim-simons-medallion-quant-framework]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **mem0** — [[agent-memory-landscape-2026]]
+- **mermaid** — [[hermes-seven-skills-cobi-bean]]
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
-- **meta-skills** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
@@ -2259,12 +2280,14 @@
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rlvr** — [[why-on-policy-distillation-works]]
 - **rollouts** — [[continuous-batching-grpo-trl]]
+- **routing** — [[sakana-fugu-orchestrator-models]]
 - **rsi** — [[sia-recursive-self-improving-agent]]
 - **rubrics** — [[evals-strategic-ip-garrettlord]]
 - **sabotage** — [[deceptive-alignment]]
 - **sac** — [[rethinking-search-as-code-generation]]
 - **sae-steering** — [[Llama SAE Interpretability Project]]
 - **saga** — [[fault-tolerance-langgraph-retries-timeouts]]
+- **sakana-ai** — [[sakana-fugu-orchestrator-models]]
 - **sales** — [[anthropic-gtm-claude-code-workflows]]
 - **saliency** — [[priests-of-agi-interpretability-crisis]]
 - **sandbox** — [[llms-securing-source-code]]
@@ -2297,6 +2320,7 @@
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **startups** — [[coderabbit-claude-agent-orchestration]]
@@ -2304,7 +2328,6 @@
 - **storm** — [[stanford-storm-method-claude-research]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
 - **study-techniques** — [[learn-anything-3x-faster-claude-9-study-systems]]
-- **superpowers** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **superstars** — [[effort-position-leverage-principles]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]
 - **supply-chain** — [[nvidia-skillspector-security-scanner]]
