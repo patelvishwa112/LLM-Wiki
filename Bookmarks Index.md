@@ -401,6 +401,7 @@
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
+- [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
 - [[lotteverheyden]] `[ai-ml]`
 - [[macro-evals-for-agentic-systems-openai-cookbook]] `[evals]`
 - [[managed-agents-built-in-memory]] `[agents, memory, anthropic, enterprise, agent-ops]`
