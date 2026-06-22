@@ -2248,6 +2248,26 @@
 ### scaling-laws (1)
 
 - [[knowledge-distillation-theturingpost]]
+
+### pattern-recognition (1)
+
+- [[pattern-recognition-as-expertise-jaynitx]]
+
+### chunking (1)
+
+- [[pattern-recognition-as-expertise-jaynitx]]
+
+### deliberate-practice (1)
+
+- [[pattern-recognition-as-expertise-jaynitx]]
+
+### expertise (1)
+
+- [[pattern-recognition-as-expertise-jaynitx]]
+
+### recognition-primed-decision-making (1)
+
+- [[pattern-recognition-as-expertise-jaynitx]]
 - **phoebe** — [[post-agent-companies]]
 - **network-effects** — [[post-agent-companies]]
 - **ai-strategy** — [[post-agent-companies]]
