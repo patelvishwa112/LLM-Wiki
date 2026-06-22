@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 696 unique tags across 297 processed notes.
+> 696 unique tags across 298 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (25)
+### agent-harness (26)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -44,6 +44,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[iii-agent-harness-workers]]
 - [[leopardracer-ai-workflows-prompts]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
 - [[rethinking-search-as-code-generation]]
@@ -63,7 +64,7 @@
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
 
-### agent-ops (19)
+### agent-ops (20)
 
 - [[21-agent-building-mistakes]]
 - [[agent-harness-engineering-agentforge]]
@@ -76,6 +77,7 @@
 - [[evals-strategic-ip-garrettlord]]
 - [[harness-engineering-2026-discipline]]
 - [[llms-securing-source-code]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-dreaming-orchestration]]
 - [[managed-agents-sandbox-mcp]]
@@ -95,7 +97,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (95)
+### agents (96)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -161,6 +163,7 @@
 - [[leerob-x-post-2065469795529588940]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-dreaming-orchestration]]
@@ -322,7 +325,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (56)
+### claude-code (57)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -369,6 +372,7 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[llms-securing-source-code]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[nvidia-skillspector-security-scanner]]
@@ -424,12 +428,13 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (5)
+### context-engineering (6)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[personal-ai-assistant-claude-0-cost]]
 
 ### cost-optimization (6)
@@ -700,7 +705,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[wtf-is-a-loop]]
 
-### production (7)
+### production (8)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-harness-should-repair-itself]]
@@ -708,6 +713,7 @@
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
 ### productivity (20)
@@ -1472,10 +1478,11 @@
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
 
-### loop-engineering (3)
+### loop-engineering (4)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 
 ### lora (3)
@@ -1530,10 +1537,11 @@
 - [[fable-5-system-prompt]]
 - [[how-to-actually-use-claude-fable-5]]
 
-### observability (3)
+### observability (4)
 
 - [[agent-harness-should-repair-itself]]
 - [[continuous-trace-intelligence-braintrust-topics]]
+- [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
 ### on-policy-distillation (3)
@@ -1699,6 +1707,11 @@
 
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
+
+### reward-hacking (2)
+
+- [[loop-engineering-technical-roadmap-h100envy]]
+- [[reward-hacking-and-tampering]]
 
 ### rlm (2)
 
@@ -2240,7 +2253,6 @@
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **review** — [[9-step-loop-claude-code-senior-engineer]]
 - **reward-design** — [[rl-algo-comprehensive-qa]]
-- **reward-hacking** — [[reward-hacking-and-tampering]]
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
 - **risk-management** — [[4-agent-trading-desk]]
