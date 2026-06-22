@@ -232,6 +232,7 @@
 - [[article]] — [Article](https://x.com/cyrilXBT/status/2052235121416188114)
 - [[gaurigupta]] — [gauri__gupta](https://x.com/gauri__gupta/status/2051882947758993815)
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] — [Karpathy's AutoResearch is changing how campaigns get optimized and most markete](https://x.com/shannholmberg/status/2052780393326092407)
+- [[career-platform-email-list-ryan-holiday]] — [Here's the Most Important Career (and Life) Asset You Can Develop](https://x.com/ryanholiday/status/2068709749617561704) `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
@@ -459,6 +460,7 @@
 - [[tradermorin]] `[finance]`
 - [[training-llm-from-scratch-5-lessons]] `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[trq212]] `[models]`
+- [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
