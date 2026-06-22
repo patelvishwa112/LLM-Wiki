@@ -37,7 +37,7 @@
 
 - [[how-to-be-good-at-ai-research]]
 
-### agent-architecture (10)
+### agent-architecture (11)
 
 - [[21-agent-building-mistakes]]
 - [[claude-code-changed-what-agents-look-like]]
