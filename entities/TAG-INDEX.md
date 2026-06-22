@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 691 unique tags across 297 processed notes.
+> 696 unique tags across 297 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -281,10 +281,11 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[loop-engineering-14-step-roadmap]]
 
-### career (6)
+### career (7)
 
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
+- [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-research]]
 - [[jp-morgan-quant-python-training]]
 - [[mid-career-dissatisfaction]]
@@ -709,13 +710,14 @@
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (19)
+### productivity (20)
 
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
+- [[career-platform-email-list-ryan-holiday]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-cowork-60-power-moves]]
@@ -1498,8 +1500,9 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### meta-learning (3)
+### meta-learning (4)
 
+- [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-ai-research]]
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
@@ -1910,6 +1913,7 @@
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
+- **audience-building** — [[career-platform-email-list-ryan-holiday]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
@@ -1967,6 +1971,7 @@
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **creativity** — [[the-html-brand-input-based-outcomes]]
+- **creator-economy** — [[career-platform-email-list-ryan-holiday]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **crypto** — [[how-to-read-company-ai-analyst]]
@@ -1998,6 +2003,7 @@
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
+- **email-list** — [[career-platform-email-list-ryan-holiday]]
 - **energy-based-models** — [[joint-embedding-predictive-architecture-jepa]]
 - **engineering-management** — [[ai-native-engineering-org]]
 - **ensemble-methods** — [[mosaic-probabilistic-weather-model]]
@@ -2165,6 +2171,7 @@
 - **patching** — [[ghost-in-residual-stream-experiment]]
 - **pattern-recognition** — [[pattern-recognition-as-expertise-jaynitx]]
 - **peft** — [[peft-beyond-lora]]
+- **perennial-seller** — [[career-platform-email-list-ryan-holiday]]
 - **perfetto** — [[pytorch-profiler-beginners-guide]]
 - **perplexity** — [[rethinking-search-as-code-generation]]
 - **personal-brand** — [[athcanft-grow-x-make-money]]
@@ -2180,6 +2187,7 @@
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
 - **planning** — [[coderabbit-claude-agent-orchestration]]
+- **platform** — [[career-platform-email-list-ryan-holiday]]
 - **playwright** — [[claude-code-investment-research-setup]]
 - **pm** — [[make-requirements-great]]
 - **policy-engine** — [[iii-agent-harness-workers]]

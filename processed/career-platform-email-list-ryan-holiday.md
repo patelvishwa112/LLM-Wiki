@@ -6,7 +6,6 @@ type: bookmark
 author: ryanholiday
 summary: "Ryan Holiday argues that a durable career platform—especially an owned email list—is more valuable than office or follower counts, using Churchill's wilderness years and his own list growth as proof."
 raw: "[[raw/ryanholiday_2068709749617561704]]"
-related: [[units-of-time-alfred-lin]], [[mid-career-dissatisfaction]], [[career-guide-early-twenties-optimize-for-learning]], [[5-ai-skills-six-figures-2027]], [[second-self-vs-second-brain-obsidian]]
 ---
 
 # Career Platform and Email List as Durable Influence
