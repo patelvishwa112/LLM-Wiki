@@ -112,6 +112,7 @@
 - [[llm-engineering-projects-roadmap-2026]] — [Step-By-Step LLM Engineering Projects (2026 Edition)](https://x.com/theahmadosman/status/2058745340895870985)
 - [[claude-code-self-correcting-setup]] — [How to Make Claude Code Fix Its Own Mistakes Automatically](https://x.com/zodchiii/status/2059563487676784696)
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
+- [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
@@ -220,6 +221,7 @@
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] — [My team at @GoodfireAI has been cooking up a new way to do interpretability: dec](https://x.com/leedsharkey/status/2051717264286609516)
 - [[trq212]] — [trq212](https://x.com/trq212/status/2052809885763747935)
 - [[what-is-kv-cache-llms]] — [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927) `[llm, transformers, attention, kv-cache, fundamentals]`
+- [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 
 ### Papers
@@ -394,6 +396,7 @@
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`
+- [[how-vllm-works-amitiitbhu]] `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[huge-kudos-to-barbara-su-rice-cs---msc-stanford-sh]] `[ai-ml]`
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 716 unique tags across 304 processed notes.
+> 718 unique tags across 305 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -101,7 +101,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (97)
+### agents (98)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -161,6 +161,7 @@
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-read-company-ai-analyst]]
+- [[how-vllm-works-amitiitbhu]]
 - [[iceberg-opus-48-prompts]]
 - [[iii-agent-harness-workers]]
 - [[learn-harness-engineering]]
@@ -543,6 +544,14 @@
 - [[peft-beyond-lora]]
 - [[trimming-introduction]]
 
+### inference (5)
+
+- [[0xsojalsec-llms-local]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[how-vllm-works-amitiitbhu]]
+- [[inference-engines-2026]]
+- [[what-is-kv-cache-llms]]
+
 ### infrastructure (10)
 
 - [[2026-ai-engineering-roadmap]]
@@ -571,7 +580,7 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### llm (12)
+### llm (13)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -581,6 +590,7 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
+- [[how-vllm-works-amitiitbhu]]
 - [[quarq-agent-memory-architecture]]
 - [[rl-interview-questions-2026]]
 - [[training-llm-from-scratch-5-lessons]]
@@ -1194,6 +1204,11 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[quarq-agent-memory-architecture]]
 
+### continuous-batching (2)
+
+- [[continuous-batching-grpo-trl]]
+- [[how-vllm-works-amitiitbhu]]
+
 ### creator-economy (2)
 
 - [[career-platform-email-list-ryan-holiday]]
@@ -1393,9 +1408,10 @@
 - [[goal-loss-functions-distill-product]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### gpu (2)
+### gpu (3)
 
 - [[how-gpu-executes-code-first-principles]]
+- [[how-vllm-works-amitiitbhu]]
 - [[training-llm-from-scratch-5-lessons]]
 
 ### hardware (3)
@@ -1421,13 +1437,6 @@
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
-
-### inference (4)
-
-- [[0xsojalsec-llms-local]]
-- [[ai-engineering-roadmap-2026-from-scratch]]
-- [[inference-engines-2026]]
-- [[what-is-kv-cache-llms]]
 
 ### investing (4)
 
@@ -1476,10 +1485,11 @@
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
 
-### kv-cache (3)
+### kv-cache (4)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
+- [[how-vllm-works-amitiitbhu]]
 - [[what-is-kv-cache-llms]]
 
 ### learning (4)
@@ -1810,9 +1820,10 @@
 - [[agent-harness-should-repair-itself]]
 - [[your-agent-harness-should-repair-itself]]
 
-### serving (2)
+### serving (3)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 
 ### sft (2)
@@ -1919,6 +1930,11 @@
 
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[notes-on-foundation-models]]
+
+### vllm (2)
+
+- [[0xsojalsec-llms-local]]
+- [[how-vllm-works-amitiitbhu]]
 
 ### vlm (3)
 
@@ -2037,7 +2053,6 @@
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]
 - **context-window** — [[harness-is-the-product-context-aware-agents]]
-- **continuous-batching** — [[continuous-batching-grpo-trl]]
 - **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **copilot** — [[agent-memory-landscape-2026]]
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
@@ -2241,6 +2256,7 @@
 - **osint** — [[osiris-open-source-palantir-tool]]
 - **osmosis** — [[multi-lora-training-osmosis]]
 - **overview** — [[anthropic-publications]]
+- **pagedattention** — [[how-vllm-works-amitiitbhu]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
 - **parallel-agents** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **parameter-efficient** — [[peft-beyond-lora]]
@@ -2389,6 +2405,7 @@
 - **test-suites** — [[loop-driven-development]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
+- **throughput** — [[how-vllm-works-amitiitbhu]]
 - **time-management** — [[units-of-time-alfred-lin]]
 - **tiny-models** — [[training-llm-from-scratch-5-lessons]]
 - **token-capital** — [[token-capital-scaffolding-process-governance]]
@@ -2418,7 +2435,6 @@
 - **vibe-coding** — [[ten-commandments-building-product-feitong-yang]]
 - **vision** — [[how-to-actually-use-claude-fable-5]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
-- **vllm** — [[0xsojalsec-llms-local]]
 - **vocabulary** — [[trimming-introduction]]
 - **voice** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **vscode** — [[vscode-copilot-token-efficiency]]
