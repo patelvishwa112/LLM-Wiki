@@ -65,6 +65,7 @@
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
 - [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
+- [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, retention]`
 - [[claude-dynamic-workflows-second-brain]] — [Claude Dynamic Workflows for Your Second Brain](https://x.com/artemxtech/status/2062582596190498864) `[claude-code, dynamic-workflows, obsidian, second-brain]`
 - [[dive-into-claude-code-vila-lab]] — [Dive into Claude Code (architectural analysis)](https://github.com/VILA-Lab/Dive-into-Claude-Code) `[claude-code, architecture, agent-engineering, paper, hermes]`
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
@@ -237,6 +238,7 @@
 - [[gaurigupta]] — [gauri__gupta](https://x.com/gauri__gupta/status/2051882947758993815)
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] — [Karpathy's AutoResearch is changing how campaigns get optimized and most markete](https://x.com/shannholmberg/status/2052780393326092407)
 - [[career-platform-email-list-ryan-holiday]] — [Here's the Most Important Career (and Life) Asset You Can Develop](https://x.com/ryanholiday/status/2068709749617561704) `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity]`
+- [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
@@ -456,6 +458,7 @@
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`
 - [[suppose-our-context-is-1m-chars-and-we-want-each-s]] `[evals, coding-tools]`
 - [[techwithram]] `[ai-ml]`
+- [[ten-commandments-building-product-feitong-yang]] `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus, user-research]`
 - [[the-60-claude-cowork-moves-that-replaced-half-my-j]] `[agents, coding-tools]`
 - [[the-big-book-of-large-language-models]] `[models]`
 - [[the-html-brand-input-based-outcomes]] `[design, agents, claude, creativity, strategy, business-models]`
