@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 721 unique tags across 306 processed notes.
+> 721 unique tags across 307 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (29)
+### agent-harness (30)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -46,6 +46,7 @@
 - [[hermes-seven-skills-cobi-bean]]
 - [[iii-agent-harness-workers]]
 - [[leopardracer-ai-workflows-prompts]]
+- [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
@@ -101,7 +102,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (99)
+### agents (100)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -168,6 +169,7 @@
 - [[leerob-x-post-2065469795529588940]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-built-in-memory]]
@@ -334,7 +336,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (58)
+### claude-code (59)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -382,6 +384,7 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[llms-securing-source-code]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
@@ -438,12 +441,13 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (6)
+### context-engineering (7)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[personal-ai-assistant-claude-0-cost]]
 
@@ -482,7 +486,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (10)
+### evals (11)
 
 - [[agent-harness-should-repair-itself]]
 - [[anthropic-self-service-analytics-claude]]
@@ -493,6 +497,7 @@
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
+- [[loop-engineering-clearly-explained]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 
 ### finance (6)
@@ -604,6 +609,14 @@
 - [[rl-interview-questions-2026]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
+
+### loop-engineering (5)
+
+- [[9-step-loop-claude-code-senior-engineer]]
+- [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-clearly-explained]]
+- [[loop-engineering-technical-roadmap-h100envy]]
+- [[loop-engineering]]
 
 ### loops (8)
 
@@ -748,7 +761,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[wtf-is-a-loop]]
 
-### production (8)
+### production (9)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-harness-should-repair-itself]]
@@ -756,6 +769,7 @@
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
+- [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
@@ -791,7 +805,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (25)
+### prompt-engineering (26)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -810,6 +824,7 @@
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[iceberg-opus-48-prompts]]
 - [[leopardracer-ai-workflows-prompts]]
+- [[loop-engineering-clearly-explained]]
 - [[mcp-model-context-protocol]]
 - [[opus-48-token-economy-guide]]
 - [[production-rag-agents-technmak]]
@@ -1527,13 +1542,6 @@
 
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
-
-### loop-engineering (4)
-
-- [[9-step-loop-claude-code-senior-engineer]]
-- [[loop-engineering-14-step-roadmap]]
-- [[loop-engineering-technical-roadmap-h100envy]]
-- [[loop-engineering]]
 
 ### lora (3)
 
