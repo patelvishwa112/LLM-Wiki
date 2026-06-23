@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 721 unique tags across 307 processed notes.
+> 722 unique tags across 308 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -102,7 +102,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (100)
+### agents (101)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -198,6 +198,7 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
+- [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[who-will-set-price-intelligence]]
 - [[why-layout-matters-document-processing]]
@@ -411,7 +412,7 @@
 - [[claude-interactive-visuals]]
 - [[claude-personal-assistant-zero-dollars]]
 
-### codex (9)
+### codex (10)
 
 - [[50-mcp-servers-guide]]
 - [[agent-memory-landscape-2026]]
@@ -421,6 +422,7 @@
 - [[loop-engineering]]
 - [[nvidia-skillspector-security-scanner]]
 - [[the-best-models-for-hermes-agent]]
+- [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
 ### coding-tools (7)
@@ -460,12 +462,13 @@
 - [[harness-is-the-product-280k]]
 - [[vscode-copilot-token-efficiency]]
 
-### distillation (5)
+### distillation (6)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+- [[training-agents-class-1-sft-by-agent]]
 - [[why-on-policy-distillation-works]]
 
 ### enterprise (15)
@@ -542,12 +545,13 @@
 - [[the-best-models-for-hermes-agent]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### huggingface (5)
+### huggingface (6)
 
 - [[continuous-batching-grpo-trl]]
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[huggingface-model-architecture-visualizer]]
 - [[peft-beyond-lora]]
+- [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
 ### inference (5)
@@ -1014,7 +1018,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (28)
+### training (29)
 
 - [[0xsojalsec-llms-local]]
 - [[adapad-lora-parallel-deflation]]
@@ -1041,6 +1045,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 - [[sia-recursive-self-improving-agent]]
+- [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
@@ -1429,6 +1434,11 @@
 - [[50-mcp-servers-guide]]
 - [[the-best-models-for-hermes-agent]]
 
+### gemma (2)
+
+- [[google-gemma-4-12b-local-fine-tuning]]
+- [[training-agents-class-1-sft-by-agent]]
+
 ### github-copilot (2)
 
 - [[github-qubot-data-analytics-agent]]
@@ -1543,11 +1553,12 @@
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
 
-### lora (3)
+### lora (4)
 
 - [[adapad-lora-parallel-deflation]]
 - [[multi-lora-training-osmosis]]
 - [[peft-beyond-lora]]
+- [[training-agents-class-1-sft-by-agent]]
 
 ### managed-agents (3)
 
@@ -1843,9 +1854,10 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 
-### sft (2)
+### sft (3)
 
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
 ### slash-commands (2)
@@ -1928,6 +1940,11 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
 
+### trl (2)
+
+- [[continuous-batching-grpo-trl]]
+- [[training-agents-class-1-sft-by-agent]]
+
 ### twitter (2)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -2003,6 +2020,7 @@
 - **agent-loop** — [[ai-agent-loop-architecture-buinevici]]
 - **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
+- **agent-traces** — [[training-agents-class-1-sft-by-agent]]
 - **agent-training** — [[continuous-batching-grpo-trl]]
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
@@ -2146,7 +2164,6 @@
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
-- **gemma** — [[google-gemma-4-12b-local-fine-tuning]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
@@ -2442,7 +2459,6 @@
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
 - **trimming** — [[trimming-introduction]]
 - **trino** — [[github-qubot-data-analytics-agent]]
-- **trl** — [[continuous-batching-grpo-trl]]
 - **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]

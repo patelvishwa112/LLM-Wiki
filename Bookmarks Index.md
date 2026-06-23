@@ -287,6 +287,7 @@
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
+- [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 
 ### Weather
 
@@ -483,6 +484,7 @@
 - [[theturingpost]] `[agents]`
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] `[weather, models]`
 - [[tradermorin]] `[finance]`
+- [[training-agents-class-1-sft-by-agent]] `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[training-llm-from-scratch-5-lessons]] `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[trq212]] `[models]`
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
