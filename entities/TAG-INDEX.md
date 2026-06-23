@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 708 unique tags across 301 processed notes.
+> 712 unique tags across 302 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -489,10 +489,11 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 
-### finance (5)
+### finance (6)
 
 - [[anthropic-finance-claude-cowork]]
 - [[claude-code-investment-research-setup]]
+- [[dqn-adaptive-trade-execution-ritonchain]]
 - [[how-to-read-company-ai-analyst]]
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
@@ -1294,6 +1295,11 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 
+### execution (2)
+
+- [[dqn-adaptive-trade-execution-ritonchain]]
+- [[jim-simons-medallion-quant-framework]]
+
 ### experiment (3)
 
 - [[beyond-ghost-sae-experiment-proposals]]
@@ -1513,8 +1519,9 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
-### markov-chains (2)
+### markov-chains (3)
 
+- [[dqn-adaptive-trade-execution-ritonchain]]
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
@@ -1680,8 +1687,9 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[mcp-core-architecture-hosts-clients-servers]]
 
-### quant (3)
+### quant (4)
 
+- [[dqn-adaptive-trade-execution-ritonchain]]
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
 - [[markov-chains-polymarket-trading]]
@@ -1707,8 +1715,9 @@
 - [[agent-harness-should-repair-itself]]
 - [[your-agent-harness-should-repair-itself]]
 
-### reinforcement-learning (2)
+### reinforcement-learning (3)
 
+- [[dqn-adaptive-trade-execution-ritonchain]]
 - [[weight-synchronization-rl-post-training]]
 - [[world-models-agent-imagination]]
 
@@ -1853,9 +1862,10 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
 
-### trading (3)
+### trading (4)
 
 - [[4-agent-trading-desk]]
+- [[dqn-adaptive-trade-execution-ritonchain]]
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
@@ -2045,6 +2055,7 @@
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **documentation** — [[training-llm-from-scratch-5-lessons]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **dqn** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
@@ -2059,7 +2070,6 @@
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **esm** — [[notes-on-foundation-models]]
 - **evidence** — [[research-agent-evidence-operator]]
-- **execution** — [[jim-simons-medallion-quant-framework]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **experiments** — [[training-llm-from-scratch-5-lessons]]
 - **extended-thinking** — [[extended-thinking]]
@@ -2350,6 +2360,7 @@
 - **synthesis** — [[second-self-vs-second-brain-obsidian]]
 - **synthetic-data** — [[claude-code-slm-training-bootstrap]]
 - **system-prompt** — [[fable-5-system-prompt]]
+- **systematic-trading** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **taste** — [[how-to-be-good-at-research]]
 - **tdd** — [[loop-driven-development]]
 - **team-structure** — [[ai-native-engineering-org]]
@@ -2369,6 +2380,7 @@
 - **trimming** — [[trimming-introduction]]
 - **trino** — [[github-qubot-data-analytics-agent]]
 - **trl** — [[continuous-batching-grpo-trl]]
+- **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]
 - **ui** — [[10-rules-polished-ui-claude]]
@@ -2389,6 +2401,7 @@
 - **vocabulary** — [[trimming-introduction]]
 - **vscode** — [[vscode-copilot-token-efficiency]]
 - **vulnerability-scanning** — [[llms-securing-source-code]]
+- **vwap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **weasel-words** — [[make-requirements-great]]
 - **weather** — [[mosaic-probabilistic-weather-model]]
 - **web-performance** — [[browser-internals-chromium-architecture]]
