@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 712 unique tags across 302 processed notes.
+> 716 unique tags across 303 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -288,7 +288,7 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[loop-engineering-14-step-roadmap]]
 
-### career (7)
+### career (8)
 
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
@@ -296,6 +296,7 @@
 - [[how-to-be-good-at-research]]
 - [[jp-morgan-quant-python-training]]
 - [[mid-career-dissatisfaction]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[units-of-time-alfred-lin]]
 
 ### claude (28)
@@ -734,7 +735,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (20)
+### productivity (21)
 
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
@@ -755,6 +756,7 @@
 - [[mcp-server-workflow-problems]]
 - [[mid-career-dissatisfaction]]
 - [[opus-48-token-economy-guide]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[units-of-time-alfred-lin]]
 
 ### projects (5)
@@ -1184,6 +1186,11 @@
 
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[quarq-agent-memory-architecture]]
+
+### creator-economy (2)
+
+- [[career-platform-email-list-ryan-holiday]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ### critique (2)
 
@@ -1919,10 +1926,11 @@
 - [[notes-on-foundation-models]]
 - [[world-models-agent-imagination]]
 
-### writing (2)
+### writing (3)
 
 - [[ai-writing-style-personalization]]
 - [[how-to-be-good-at-research]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ## Single-Use Tags
 
@@ -2012,6 +2020,7 @@
 - **conference** — [[code-w-claude-london-2026]]
 - **content-creation** — [[athcanft-grow-x-make-money]]
 - **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **content-strategy** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **context** — [[claude-code-changed-what-agents-look-like]]
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]
@@ -2026,7 +2035,6 @@
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **creativity** — [[the-html-brand-input-based-outcomes]]
-- **creator-economy** — [[career-platform-email-list-ryan-holiday]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **crypto** — [[how-to-read-company-ai-analyst]]
@@ -2092,6 +2100,7 @@
 - **gemma** — [[google-gemma-4-12b-local-fine-tuning]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
+- **ghostwriting** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
@@ -2347,6 +2356,7 @@
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **storm** — [[stanford-storm-method-claude-research]]
@@ -2399,6 +2409,7 @@
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vllm** — [[0xsojalsec-llms-local]]
 - **vocabulary** — [[trimming-introduction]]
+- **voice** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **vscode** — [[vscode-copilot-token-efficiency]]
 - **vulnerability-scanning** — [[llms-securing-source-code]]
 - **vwap** — [[dqn-adaptive-trade-execution-ritonchain]]

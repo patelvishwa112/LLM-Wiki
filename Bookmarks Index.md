@@ -24,6 +24,7 @@
 - [[article]] — [Article](https://x.com/sairahul1/status/2055569492357586984)
 - [[second-brain-obsidian-night-shift-300-agent-swarm]] — [How To Build a Second Brain That Runs Itself With Obsidian (Full Course)](https://x.com/eng_khairallah1/status/2066437136354545981) `[obsidian, second-brain, agents, kimi-work, agent-swarm, knowledge-graph, atomic-notes, friction, playbooks, mcp, night-shift]`
 - [[how-to-set-up-your-content-system]] — [how to set up your content system](https://x.com/shannholmberg/status/2053077052069449780)
+- [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity]`
 - [[hermes-agent-changed-how-i-work]] — [Hermes Agent changed how I work](https://x.com/shannholmberg/status/2055335043904492011)
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] — [How to Find Business Ideas by Reading What People Already Want](https://x.com/damir_akaza/article/2059621796052193667)
 - [[the-60-claude-cowork-moves-that-replaced-half-my-j]] — [The 60 Claude Cowork Moves That Replaced Half My Job (Most Users Know 6)](https://x.com/shmidtqq/status/2051755298772095238)
@@ -239,6 +240,7 @@
 - [[gaurigupta]] — [gauri__gupta](https://x.com/gauri__gupta/status/2051882947758993815)
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] — [Karpathy's AutoResearch is changing how campaigns get optimized and most markete](https://x.com/shannholmberg/status/2052780393326092407)
 - [[career-platform-email-list-ryan-holiday]] — [Here's the Most Important Career (and Life) Asset You Can Develop](https://x.com/ryanholiday/status/2068709749617561704) `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity]`
+- [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
@@ -442,6 +444,7 @@
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
+- [[premium-ghostwriter-five-skills-nicolas-cole]] `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`
 - [[problem-first-skill-invert-bad-ideas]] `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[ramplabs]] `[ai-ml]`
