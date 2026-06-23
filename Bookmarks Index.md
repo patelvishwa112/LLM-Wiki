@@ -189,6 +189,7 @@
 
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
+- [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 
 ### Interpretability
 
@@ -487,6 +488,7 @@
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
+- [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[wtf-is-a-loop]] `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[youre-burning-200month-on-claude-these-20-prompts]] `[agents, coding-tools]`

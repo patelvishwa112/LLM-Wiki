@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 718 unique tags across 305 processed notes.
+> 721 unique tags across 306 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -101,7 +101,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (98)
+### agents (99)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -197,6 +197,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
 - [[voxyz-ai-10-lessons-agents-md]]
+- [[who-will-set-price-intelligence]]
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
 - [[wtf-is-a-loop]]
@@ -579,6 +580,14 @@
 - [[priests-of-agi-interpretability-crisis]]
 - [[sparse-autoencoders]]
 - [[superposition]]
+
+### investing (5)
+
+- [[how-to-read-company-ai-analyst]]
+- [[principled-thinking-and-ai-ray-dalio]]
+- [[ray-dalio-x-post]]
+- [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
 
 ### llm (13)
 
@@ -1082,15 +1091,21 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[coding-agent-harness-eight-pillars]]
 
+### ai-economics (2)
+
+- [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
+
 ### ai-engineering (2)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 
-### ai-strategy (2)
+### ai-strategy (3)
 
 - [[post-agent-companies]]
 - [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
 
 ### analysis (2)
 
@@ -1313,10 +1328,11 @@
 - [[anthropic-engineering-hiring-resumes]]
 - [[claude-code-self-correcting-setup]]
 
-### enterprise-ai (2)
+### enterprise-ai (3)
 
 - [[the-untrainable]]
 - [[token-capital-scaffolding-process-governance]]
+- [[who-will-set-price-intelligence]]
 
 ### evaluation (3)
 
@@ -1437,13 +1453,6 @@
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
-
-### investing (4)
-
-- [[how-to-read-company-ai-analyst]]
-- [[principled-thinking-and-ai-ray-dalio]]
-- [[ray-dalio-x-post]]
-- [[the-untrainable]]
 
 ### json-schema (2)
 
@@ -1843,10 +1852,11 @@
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
 
-### startups (2)
+### startups (3)
 
 - [[coderabbit-claude-agent-orchestration]]
 - [[ten-commandments-building-product-feitong-yang]]
+- [[who-will-set-price-intelligence]]
 
 ### steering (3)
 
@@ -1914,6 +1924,11 @@
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[athcanft-grow-x-make-money]]
+
+### venture-capital (2)
+
+- [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
 
 ### vertical-agents (2)
 
@@ -1986,7 +2001,6 @@
 - **agentic-misalignment** — [[agentic-misalignment]]
 - **agents-md** — [[voxyz-ai-10-lessons-agents-md]]
 - **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
-- **ai-economics** — [[the-untrainable]]
 - **ai-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **ai-native** — [[ai-native-engineering-org]]
 - **ai-research** — [[how-to-be-good-at-ai-research]]
@@ -2127,6 +2141,7 @@
 - **gemma** — [[google-gemma-4-12b-local-fine-tuning]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
+- **geopolitics** — [[who-will-set-price-intelligence]]
 - **ghostwriting** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
@@ -2164,6 +2179,7 @@
 - **induction-heads** — [[induction-heads]]
 - **inference-code-design** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **inference-optimization** — [[trimming-introduction]]
+- **inference-time-compute** — [[who-will-set-price-intelligence]]
 - **infra** — [[learnings-training-llm-from-scratch]]
 - **internal-agent** — [[github-qubot-data-analytics-agent]]
 - **interview** — [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -2248,6 +2264,7 @@
 - **ollama** — [[0xsojalsec-llms-local]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
 - **opd** — [[rl-algo-comprehensive-qa]]
+- **open-weights** — [[who-will-set-price-intelligence]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
 - **opportunity-discovery** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -2430,7 +2447,6 @@
 - **vault-architecture** — [[second-self-vs-second-brain-obsidian]]
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
-- **venture-capital** — [[the-untrainable]]
 - **vercel** — [[leerob-x-post-2065469795529588940]]
 - **vibe-coding** — [[ten-commandments-building-product-feitong-yang]]
 - **vision** — [[how-to-actually-use-claude-fable-5]]
