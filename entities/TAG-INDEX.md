@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 716 unique tags across 303 processed notes.
+> 716 unique tags across 304 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (28)
+### agent-harness (29)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -36,6 +36,7 @@
 - [[agent-harness-should-repair-itself]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[harness-engineering-2026-discipline]]
@@ -299,7 +300,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[units-of-time-alfred-lin]]
 
-### claude (28)
+### claude (29)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -307,6 +308,7 @@
 - [[ai-survival-guide-ikea-style]]
 - [[ai-writing-style-personalization]]
 - [[anthropic-internal-claude-code-workflow]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-compliance-security-partners]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-dynamic-workflows-second-brain]]
@@ -330,7 +332,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (57)
+### claude-code (58)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -348,6 +350,7 @@
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-dynamic-workflows-intro]]
@@ -516,10 +519,11 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### hermes (12)
+### hermes (13)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-landscape-2026]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[colleague-skill-dot-skill]]
 - [[dive-into-claude-code-vila-lab]]
 - [[hermes-goal-mode-guide]]
@@ -593,7 +597,7 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
-### mcp (25)
+### mcp (26)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -604,6 +608,7 @@
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-ant-cli-managed-agents]]
 - [[anthropic-gtm-claude-code-workflows]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-hidden-features-guide]]
 - [[claude-managed-agents]]
 - [[code-w-claude-london-2026]]
@@ -767,13 +772,14 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (24)
+### prompt-engineering (25)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-loops-anatoli-kopadze]]
 - [[ai-writing-style-personalization]]
 - [[automate-writing-llm-prompts-dspy]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-hidden-settings]]
 - [[claude-cowork-plugin-building-guide]]
@@ -887,7 +893,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (38)
+### skills (39)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -901,6 +907,7 @@
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-self-service-analytics-claude]]
 - [[autobrowse-browser-agent-memory]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-plugin-building-guide]]
@@ -1668,6 +1675,11 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 
+### progressive-disclosure (2)
+
+- [[anthropic-claude-code-skills-lessons]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+
 ### project-ideas (2)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -2274,7 +2286,6 @@
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
-- **progressive-disclosure** — [[anthropic-claude-code-skills-lessons]]
 - **prompt-caching** — [[vscode-copilot-token-efficiency]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
 - **providers** — [[the-best-models-for-hermes-agent]]
