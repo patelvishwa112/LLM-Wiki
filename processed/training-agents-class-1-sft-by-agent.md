@@ -47,5 +47,4 @@ Concrete **loop-engineering meets MLOps** pattern: an agent runs the training lo
 - [[loop-engineering-clearly-explained]]
 - [[multi-lora-training-osmosis]]
 - [[training-llm-from-scratch-5-lessons]]
-- [[avi-chawla-avichawla-how-top-ai-labs-are-building]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
