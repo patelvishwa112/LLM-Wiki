@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 722 unique tags across 310 processed notes.
+> 723 unique tags across 311 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -613,13 +613,14 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
-### llm (13)
+### llm (14)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[aiedge-glm-5.2-guide]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
+- [[build-your-own-llm-workshop-justin-angel]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -873,9 +874,10 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (22)
+### rl (23)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- [[build-your-own-llm-workshop-justin-angel]]
 - [[claude-code-slm-training-bootstrap]]
 - [[continuous-batching-grpo-trl]]
 - [[curiosity-bayesian-bandit]]
@@ -1045,11 +1047,12 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (29)
+### training (30)
 
 - [[0xsojalsec-llms-local]]
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[build-your-own-llm-workshop-justin-angel]]
 - [[claude-code-slm-training-bootstrap]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
@@ -1272,6 +1275,11 @@
 - [[continuous-batching-grpo-trl]]
 - [[how-vllm-works-amitiitbhu]]
 
+### course (2)
+
+- [[build-your-own-llm-workshop-justin-angel]]
+- [[learn-harness-engineering]]
+
 ### creator-economy (2)
 
 - [[career-platform-email-list-ryan-holiday]]
@@ -1439,9 +1447,10 @@
 - [[harness-engineering-2026-discipline]]
 - [[token-capital-scaffolding-process-governance]]
 
-### from-scratch (3)
+### from-scratch (4)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[build-your-own-llm-workshop-justin-angel]]
 - [[learnings-training-llm-from-scratch]]
 - [[training-llm-from-scratch-5-lessons]]
 
@@ -1722,8 +1731,9 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 
-### pretraining (2)
+### pretraining (3)
 
+- [[build-your-own-llm-workshop-justin-angel]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 
@@ -1953,9 +1963,10 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 
-### transformers (3)
+### transformers (4)
 
 - [[2026-ai-engineering-roadmap]]
+- [[build-your-own-llm-workshop-justin-angel]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[what-is-kv-cache-llms]]
 
@@ -2117,7 +2128,6 @@
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
 - **cosine-similarity** — [[how-vector-database-works]]
 - **costly-signals** — [[effort-position-leverage-principles]]
-- **course** — [[learn-harness-engineering]]
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **creativity** — [[the-html-brand-input-based-outcomes]]
@@ -2224,6 +2234,7 @@
 - **inference-optimization** — [[trimming-introduction]]
 - **inference-time-compute** — [[who-will-set-price-intelligence]]
 - **infra** — [[learnings-training-llm-from-scratch]]
+- **instruction-tuning** — [[build-your-own-llm-workshop-justin-angel]]
 - **internal-agent** — [[github-qubot-data-analytics-agent]]
 - **interview** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **interview-answers** — [[rl-interview-answers-2026]]
