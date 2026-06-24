@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 722 unique tags across 309 processed notes.
+> 722 unique tags across 310 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (31)
+### agent-harness (32)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -56,6 +56,7 @@
 - [[rlm-structured-outputs]]
 - [[sakana-fugu-orchestrator-models]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
@@ -103,7 +104,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (102)
+### agents (103)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -201,6 +202,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
 - [[training-agents-class-1-sft-by-agent]]
+- [[twenty-core-agent-concepts-sairahul1]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[who-will-set-price-intelligence]]
 - [[why-layout-matters-document-processing]]
@@ -340,7 +342,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (60)
+### claude-code (61)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -398,6 +400,7 @@
 - [[self-evolving-autoresearch-workflow-loops]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[the-full-loop-in-code]]
+- [[twenty-core-agent-concepts-sairahul1]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
@@ -525,6 +528,14 @@
 - [[multi-lora-training-osmosis]]
 - [[peft-beyond-lora]]
 
+### fundamentals (5)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[how-gpu-executes-code-first-principles]]
+- [[rlhf-from-first-principles]]
+- [[twenty-core-agent-concepts-sairahul1]]
+- [[what-is-kv-cache-llms]]
+
 ### grpo (5)
 
 - [[continuous-batching-grpo-trl]]
@@ -638,7 +649,7 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
-### mcp (26)
+### mcp (27)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -665,6 +676,7 @@
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
+- [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
 
 ### mechanistic-interpretability (6)
@@ -732,6 +744,14 @@
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[stanford-storm-method-claude-research]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
+
+### observability (5)
+
+- [[agent-harness-should-repair-itself]]
+- [[continuous-trace-intelligence-braintrust-topics]]
+- [[loop-engineering-technical-roadmap-h100envy]]
+- [[twenty-core-agent-concepts-sairahul1]]
+- [[your-agent-harness-should-repair-itself]]
 
 ### obsidian (6)
 
@@ -1004,7 +1024,7 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
-### subagents (7)
+### subagents (8)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1013,6 +1033,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
+- [[twenty-core-agent-concepts-sairahul1]]
 
 ### tools (7)
 
@@ -1429,13 +1450,6 @@
 - [[10-rules-polished-ui-claude]]
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 
-### fundamentals (4)
-
-- [[ai-engineering-roadmap-2026-from-scratch]]
-- [[how-gpu-executes-code-first-principles]]
-- [[rlhf-from-first-principles]]
-- [[what-is-kv-cache-llms]]
-
 ### gemini (2)
 
 - [[50-mcp-servers-guide]]
@@ -1461,6 +1475,11 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[how-vllm-works-amitiitbhu]]
 - [[training-llm-from-scratch-5-lessons]]
+
+### guardrails (2)
+
+- [[ai-agent-loop-architecture-buinevici]]
+- [[twenty-core-agent-concepts-sairahul1]]
 
 ### hardware (3)
 
@@ -1618,13 +1637,6 @@
 - [[fable-5-mythos-prompting-masterclass]]
 - [[fable-5-system-prompt]]
 - [[how-to-actually-use-claude-fable-5]]
-
-### observability (4)
-
-- [[agent-harness-should-repair-itself]]
-- [[continuous-trace-intelligence-braintrust-topics]]
-- [[loop-engineering-technical-roadmap-h100envy]]
-- [[your-agent-harness-should-repair-itself]]
 
 ### on-policy-distillation (3)
 
@@ -2189,7 +2201,6 @@
 - **gspo** — [[rl-algo-comprehensive-qa]]
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **gtm** — [[anthropic-gtm-claude-code-workflows]]
-- **guardrails** — [[ai-agent-loop-architecture-buinevici]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hallucination** — [[why-on-policy-distillation-works]]
 - **hiring** — [[anthropic-engineering-hiring-resumes]]
