@@ -78,6 +78,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
 - [[loop-engineering-clearly-explained]] — [Loop Engineering Clearly Explained](https://x.com/akshay_pachaar/status/2069118430582866051) `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
+- [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
 
@@ -420,6 +421,7 @@
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
+- [[loop-designer-ten-step-roadmap-de1lymoon]] `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[loop-engineering-14-step-roadmap]] `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
 - [[loop-engineering-clearly-explained]] `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`

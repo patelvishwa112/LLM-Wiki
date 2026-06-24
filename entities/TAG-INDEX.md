@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 722 unique tags across 308 processed notes.
+> 722 unique tags across 309 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (30)
+### agent-harness (31)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -46,6 +46,7 @@
 - [[hermes-seven-skills-cobi-bean]]
 - [[iii-agent-harness-workers]]
 - [[leopardracer-ai-workflows-prompts]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[post-agent-companies]]
@@ -102,7 +103,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (101)
+### agents (102)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -168,6 +169,7 @@
 - [[learn-harness-engineering]]
 - [[leerob-x-post-2065469795529588940]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -286,12 +288,13 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### automation (5)
+### automation (6)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[claude-cowork-14-day-guide]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 
 ### career (8)
@@ -337,7 +340,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (59)
+### claude-code (60)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -384,6 +387,7 @@
 - [[leopardracer-ai-workflows-prompts]]
 - [[level-above-phd-knowledge-works-without-you]]
 - [[llms-securing-source-code]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -614,9 +618,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (5)
+### loop-engineering (6)
 
 - [[9-step-loop-claude-code-senior-engineer]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -931,7 +936,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (39)
+### skills (40)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -963,6 +968,7 @@
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[llms-securing-source-code]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
@@ -1050,11 +1056,12 @@
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### verification (6)
+### verification (7)
 
 - [[claude-code-changed-what-agents-look-like]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[learn-harness-engineering]]
+- [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
