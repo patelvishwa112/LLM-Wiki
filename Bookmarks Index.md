@@ -41,6 +41,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
+- [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[multi-lora-training-osmosis]] — [Training Thousands of LoRA Adapters Concurrently](https://x.com/_weexiao/status/2061855508156563871)
 - [[540k-lines-i-didnt-need-garry-tan]] — [540,000 Lines of Code I Didn't Need — Garry Tan](https://x.com/garrytan/status/2061454423034110372)
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
@@ -399,6 +400,7 @@
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
+- [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`

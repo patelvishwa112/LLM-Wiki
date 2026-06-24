@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 723 unique tags across 311 processed notes.
+> 726 unique tags across 312 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (32)
+### agent-harness (33)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -44,6 +44,7 @@
 - [[harnessing-claudes-intelligence]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-give-your-agent-memory]]
 - [[iii-agent-harness-workers]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -62,13 +63,14 @@
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
 
-### agent-memory (5)
+### agent-memory (6)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[autobrowse-browser-agent-memory]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
+- [[how-to-give-your-agent-memory]]
 
 ### agent-ops (21)
 
@@ -104,7 +106,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (103)
+### agents (104)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -163,6 +165,7 @@
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-give-your-agent-memory]]
 - [[how-to-read-company-ai-analyst]]
 - [[how-vllm-works-amitiitbhu]]
 - [[iceberg-opus-48-prompts]]
@@ -496,7 +499,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (11)
+### evals (12)
 
 - [[agent-harness-should-repair-itself]]
 - [[anthropic-self-service-analytics-claude]]
@@ -506,6 +509,7 @@
 - [[evals-strategic-ip-garrettlord]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
+- [[how-to-give-your-agent-memory]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[loop-engineering-clearly-explained]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
@@ -746,10 +750,11 @@
 - [[stanford-storm-method-claude-research]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (5)
+### observability (6)
 
 - [[agent-harness-should-repair-itself]]
 - [[continuous-trace-intelligence-braintrust-topics]]
+- [[how-to-give-your-agent-memory]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
@@ -2257,7 +2262,9 @@
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
+- **langchain** — [[how-to-give-your-agent-memory]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
+- **langsmith** — [[how-to-give-your-agent-memory]]
 - **latency** — [[vscode-copilot-token-efficiency]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **legibility** — [[the-untrainable]]
@@ -2368,6 +2375,7 @@
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
 - **probes** — [[priests-of-agi-interpretability-crisis]]
+- **procedural-memory** — [[how-to-give-your-agent-memory]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product** — [[ten-commandments-building-product-feitong-yang]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
