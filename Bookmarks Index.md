@@ -94,6 +94,7 @@
 - [[managed-agents-dreaming-orchestration]] — [Managed Agents: Dreaming, Outcomes & Multiagent Orchestration](https://claude.com/blog/new-in-claude-managed-agents) `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`
 - [[managed-agents-sandbox-mcp]] — [Managed Agents: Self-Hosted Sandboxes & MCP Tunnels](https://claude.com/blog/claude-managed-agents-updates) `[agents, mcp, enterprise, anthropic, security, agent-ops]`
 - [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
+- [[secure-automated-learning-loops-modal-claude-code]] — [How we built secure automated learning loops in Modal and Claude Code](https://x.com/oliviersm199/status/2069790892530016547) `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[designing-loops-with-fable-5]] — [Designing loops with Fable 5](https://x.com/RLanceMartin/status/2064397389189071163) `[anthropic, fable-5, claude, agents, loops, self-correction, memory, continual-learning]`
 
 ### Ai Ml
@@ -476,6 +477,7 @@
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[rlm-structured-outputs]] `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 - [[sakana-fugu-orchestrator-models]] `[orchestration, multi-agent, sakana-ai, models, agent-harness, grpo, collective-intelligence, routing]`
+- [[secure-automated-learning-loops-modal-claude-code]] `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 730 unique tags across 313 processed notes.
+> 735 unique tags across 314 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -345,7 +345,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (61)
+### claude-code (62)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -400,6 +400,7 @@
 - [[make-requirements-great]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
+- [[secure-automated-learning-loops-modal-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[the-full-loop-in-code]]
@@ -1097,7 +1098,7 @@
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### workflows (8)
+### workflows (9)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1107,6 +1108,7 @@
 - [[every-agentic-engineering-hack-june-2026]]
 - [[hermes-goal-mode-guide]]
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[secure-automated-learning-loops-modal-claude-code]]
 
 ## Mid-Frequency Tags (2-4 articles)
 
@@ -1132,6 +1134,11 @@
 
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
+
+### agent-security (2)
+
+- [[nvidia-skillspector-security-scanner]]
+- [[secure-automated-learning-loops-modal-claude-code]]
 
 ### agent-swarm (3)
 
@@ -1765,10 +1772,11 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
 
-### prompt-injection (2)
+### prompt-injection (3)
 
 - [[agent-harness-engineering-agentforge]]
 - [[nvidia-skillspector-security-scanner]]
+- [[secure-automated-learning-loops-modal-claude-code]]
 
 ### prompt-optimization (3)
 
@@ -1869,6 +1877,11 @@
 - [[goodfire-parameter-decomposition-interpretability]]
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
+
+### sandbox (2)
+
+- [[llms-securing-source-code]]
+- [[secure-automated-learning-loops-modal-claude-code]]
 
 ### self-correction (2)
 
@@ -2062,7 +2075,6 @@
 - **agent-frameworks** — [[0xsojalsec-llms-local]]
 - **agent-infrastructure** — [[anthropic-ant-cli-managed-agents]]
 - **agent-loop** — [[ai-agent-loop-architecture-buinevici]]
-- **agent-security** — [[nvidia-skillspector-security-scanner]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
 - **agent-traces** — [[training-agents-class-1-sft-by-agent]]
 - **agent-training** — [[continuous-batching-grpo-trl]]
@@ -2090,6 +2102,7 @@
 - **audience-building** — [[career-platform-email-list-ryan-holiday]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
+- **automated-learning** — [[secure-automated-learning-loops-modal-claude-code]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
 - **autonomous-machine-intelligence** — [[joint-embedding-predictive-architecture-jepa]]
 - **autonomy** — [[hermes-goal-mode-guide]]
@@ -2159,6 +2172,7 @@
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
+- **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **design** — [[the-html-brand-input-based-outcomes]]
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
@@ -2280,6 +2294,7 @@
 - **leverage** — [[effort-position-leverage-principles]]
 - **life** — [[units-of-time-alfred-lin]]
 - **linux** — [[ubuntu-shuttleworth-story]]
+- **litellm** — [[secure-automated-learning-loops-modal-claude-code]]
 - **llama** — [[Llama SAE Interpretability Project]]
 - **llama-cpp** — [[0xsojalsec-llms-local]]
 - **llm-as-judge** — [[automate-writing-llm-prompts-dspy]]
@@ -2310,6 +2325,7 @@
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
 - **moats** — [[the-untrainable]]
+- **modal** — [[secure-automated-learning-loops-modal-claude-code]]
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
 - **model-compression** — [[trimming-introduction]]
 - **model-context-protocol** — [[mcp-model-context-protocol]]
@@ -2442,7 +2458,6 @@
 - **sakana-ai** — [[sakana-fugu-orchestrator-models]]
 - **sales** — [[anthropic-gtm-claude-code-workflows]]
 - **saliency** — [[priests-of-agi-interpretability-crisis]]
-- **sandbox** — [[llms-securing-source-code]]
 - **sarif** — [[nvidia-skillspector-security-scanner]]
 - **scalable-oversight** — [[scalable-oversight]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]
@@ -2493,6 +2508,7 @@
 - **tdd** — [[loop-driven-development]]
 - **team-structure** — [[ai-native-engineering-org]]
 - **templates** — [[claude-code-slash-command-library]]
+- **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
