@@ -118,6 +118,7 @@
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
+- [[are-you-still-tuning-llms-by-hand-gepa]] — [Are you still tuning your LLMs by hand? - An ode to GEPA](https://x.com/harold_matmul/status/2069836410052325711) `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
@@ -325,6 +326,7 @@
 - [[anthropic-recursive-self-improvement]] `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[antpalkin]] `[agents]`
+- [[are-you-still-tuning-llms-by-hand-gepa]] `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[article]] `[evals, agents]`
 - [[article]] `[evals, coding-tools]`
 - [[article]] `[finance, productivity]`

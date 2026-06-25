@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 726 unique tags across 312 processed notes.
+> 730 unique tags across 313 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -499,10 +499,11 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (12)
+### evals (13)
 
 - [[agent-harness-should-repair-itself]]
 - [[anthropic-self-service-analytics-claude]]
+- [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[coderabbit-claude-agent-orchestration]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
@@ -840,12 +841,13 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (26)
+### prompt-engineering (27)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-loops-anatoli-kopadze]]
 - [[ai-writing-style-personalization]]
+- [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-code-cost-optimization-prompts]]
@@ -1354,6 +1356,11 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
+### dspy (2)
+
+- [[are-you-still-tuning-llms-by-hand-gepa]]
+- [[automate-writing-llm-prompts-dspy]]
+
 ### dynamic-workflows (2)
 
 - [[claude-dynamic-workflows-second-brain]]
@@ -1736,8 +1743,9 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 
-### pretraining (3)
+### pretraining (4)
 
+- [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -1762,8 +1770,9 @@
 - [[agent-harness-engineering-agentforge]]
 - [[nvidia-skillspector-security-scanner]]
 
-### prompt-optimization (2)
+### prompt-optimization (3)
 
+- [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[leopardracer-ai-workflows-prompts]]
 
@@ -2165,7 +2174,6 @@
 - **documentation** — [[training-llm-from-scratch-5-lessons]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dqn** — [[dqn-adaptive-trade-execution-ritonchain]]
-- **dspy** — [[automate-writing-llm-prompts-dspy]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
@@ -2201,6 +2209,7 @@
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
+- **gepa** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **ghostwriting** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
@@ -2275,6 +2284,7 @@
 - **llama-cpp** — [[0xsojalsec-llms-local]]
 - **llm-as-judge** — [[automate-writing-llm-prompts-dspy]]
 - **llm-engines** — [[inference-engines-2026]]
+- **llm-judges** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **llm-ops** — [[continuous-trace-intelligence-braintrust-topics]]
 - **llm-research** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **local-llm** — [[google-gemma-4-12b-local-fine-tuning]]
@@ -2285,6 +2295,7 @@
 - **loop-driven-development** — [[loop-driven-development]]
 - **macro** — [[ray-dalio-x-post]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
+- **mai-thinking** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **market-dynamics** — [[effort-position-leverage-principles]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -2295,6 +2306,7 @@
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
+- **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
 - **moats** — [[the-untrainable]]
