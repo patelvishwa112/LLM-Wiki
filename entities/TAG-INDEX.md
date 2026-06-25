@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 735 unique tags across 315 processed notes.
+> 743 unique tags across 316 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1734,10 +1734,11 @@
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 
-### pm (2)
+### pm (3)
 
 - [[make-requirements-great]]
 - [[ten-commandments-building-product-feitong-yang]]
+- [[testing-business-ideas-product-operating-system]]
 
 ### policy (3)
 
@@ -1936,10 +1937,11 @@
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
 
-### startups (3)
+### startups (4)
 
 - [[coderabbit-claude-agent-orchestration]]
 - [[ten-commandments-building-product-feitong-yang]]
+- [[testing-business-ideas-product-operating-system]]
 - [[who-will-set-price-intelligence]]
 
 ### steering (3)
@@ -2107,6 +2109,7 @@
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
+- **assumption-mapping** — [[testing-business-ideas-product-operating-system]]
 - **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **audience-building** — [[career-platform-email-list-ryan-holiday]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
@@ -2189,6 +2192,7 @@
 - **devops** — [[how-to-automate-disaster-recovery-with-agents]]
 - **disaster-recovery** — [[how-to-automate-disaster-recovery-with-agents]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
+- **discovery** — [[testing-business-ideas-product-operating-system]]
 - **distributed-systems** — [[10-hall-of-fame-engineering-papers]]
 - **distribution** — [[ten-commandments-building-product-feitong-yang]]
 - **dlp** — [[claude-compliance-security-partners]]
@@ -2211,6 +2215,7 @@
 - **esm** — [[notes-on-foundation-models]]
 - **evidence** — [[research-agent-evidence-operator]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
+- **experimentation** — [[testing-business-ideas-product-operating-system]]
 - **experiments** — [[training-llm-from-scratch-5-lessons]]
 - **extended-thinking** — [[extended-thinking]]
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
@@ -2299,6 +2304,7 @@
 - **langsmith** — [[how-to-give-your-agent-memory]]
 - **latency** — [[vscode-copilot-token-efficiency]]
 - **layout** — [[why-layout-matters-document-processing]]
+- **lean-startup** — [[testing-business-ideas-product-operating-system]]
 - **legibility** — [[the-untrainable]]
 - **leverage** — [[effort-position-leverage-principles]]
 - **life** — [[units-of-time-alfred-lin]]
@@ -2415,6 +2421,8 @@
 - **procedural-memory** — [[how-to-give-your-agent-memory]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product** — [[ten-commandments-building-product-feitong-yang]]
+- **product-discovery** — [[testing-business-ideas-product-operating-system]]
+- **product-management** — [[testing-business-ideas-product-operating-system]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
@@ -2500,6 +2508,7 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
+- **stakeholders** — [[testing-business-ideas-product-operating-system]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **storm** — [[stanford-storm-method-claude-research]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
@@ -2519,6 +2528,7 @@
 - **templates** — [[claude-code-slash-command-library]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
+- **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
 - **throughput** — [[how-vllm-works-amitiitbhu]]
