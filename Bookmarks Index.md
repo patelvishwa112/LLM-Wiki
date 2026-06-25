@@ -54,6 +54,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] — [How to Build a Claude Skill (Never Paste the Same Prompt Twice)](https://x.com/0xlagosaur/status/2068693290581414390) `[skills, claude, claude-code, prompt-engineering, progressive-disclosure]`
 - [[how-to-build-agent-that-never-forgets]] — [how to build an agent that never forgets](https://x.com/rohit4verse/status/2012925228159295810) `[agents, memory, knowledge-graphs, architecture]`
 - [[how-to-build-ai-agent-swarms]] — [How to Build AI Agent Swarms (Complete Guide)](https://x.com/av1dlive/status/2062561213532471707) `[agents, multi-agent, swarms, kimi, claude]`
+- [[from-1-agent-to-swarm-orchestration-roadmap]] — [From 1 agent to a swarm: a roadmap for orchestrating agent loops](https://x.com/0xmorlex/status/2070079645148451263) `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness]`
 - [[building-your-first-ai-agent-clear-path]] — [Building your first AI Agent; A clear path!](Reddit r/AgentsOfAI) `[agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]`
 - [[how-to-build-first-ai-agent-claude-full-course]] — [How to Actually Build Your First AI Agent Using Claude (Full Course)](https://x.com/eng_khairallah1/status/2065721530546373016) `[agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]`
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
@@ -386,6 +387,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
+- [[from-1-agent-to-swarm-orchestration-roadmap]] `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness, loop-engineering]`
 - [[gaurigupta]] `[productivity, papers]`
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
 - [[googlegemma]] `[interpretability]`

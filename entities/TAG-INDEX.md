@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 735 unique tags across 314 processed notes.
+> 735 unique tags across 315 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (33)
+### agent-harness (34)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -39,6 +39,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[claude-md-12-rules-mikenevermiss]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
@@ -106,7 +107,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (104)
+### agents (105)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -149,6 +150,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[generative-ui-is-the-new-frontend]]
 - [[goal-loss-functions-distill-product]]
 - [[goal-primitive-guide]]
@@ -345,7 +347,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (62)
+### claude-code (63)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -384,6 +386,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -636,9 +639,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (6)
+### loop-engineering (7)
 
 - [[9-step-loop-claude-code-senior-engineer]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
@@ -734,12 +738,13 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (15)
+### multi-agent (16)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
@@ -779,7 +784,7 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### orchestration (16)
+### orchestration (17)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -789,6 +794,7 @@
 - [[claude-code-dynamic-workflows-intro]]
 - [[coderabbit-claude-agent-orchestration]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1034,12 +1040,13 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
-### subagents (8)
+### subagents (9)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
@@ -1088,10 +1095,11 @@
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### verification (7)
+### verification (8)
 
 - [[claude-code-changed-what-agents-look-like]]
 - [[feedback-loops-claude-code-less-babysitting]]
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[learn-harness-engineering]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[self-improving-agent-swarm-kimi-loop]]
@@ -2039,8 +2047,9 @@
 - [[notes-on-foundation-models]]
 - [[why-layout-matters-document-processing]]
 
-### worktrees (2)
+### worktrees (3)
 
+- [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
