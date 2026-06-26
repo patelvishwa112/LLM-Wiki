@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 749 unique tags across 319 processed notes.
+> 751 unique tags across 320 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -110,7 +110,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (108)
+### agents (109)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -195,6 +195,7 @@
 - [[mcp-server-workflow-problems]]
 - [[memory-is-retained-consequence]]
 - [[modern-ai-robotics-first-principles]]
+- [[multi-perspective-prd-review-claude-code]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[opus-cybersecurity-partners]]
 - [[post-agent-companies]]
@@ -353,7 +354,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (64)
+### claude-code (65)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -408,6 +409,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
+- [[multi-perspective-prd-review-claude-code]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 - [[secure-automated-learning-loops-modal-claude-code]]
@@ -751,7 +753,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (18)
+### multi-agent (19)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -765,6 +767,7 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-dreaming-orchestration]]
+- [[multi-perspective-prd-review-claude-code]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[rlm-recursive-llm-query-system]]
 - [[sakana-fugu-orchestrator-models]]
@@ -1404,9 +1407,10 @@
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[automate-writing-llm-prompts-dspy]]
 
-### dynamic-workflows (2)
+### dynamic-workflows (3)
 
 - [[claude-dynamic-workflows-second-brain]]
+- [[multi-perspective-prd-review-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 
 ### education (2)
@@ -1779,9 +1783,10 @@
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 
-### pm (3)
+### pm (4)
 
 - [[make-requirements-great]]
+- [[multi-perspective-prd-review-claude-code]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
@@ -1815,6 +1820,11 @@
 
 - [[ghost-in-residual-stream-experiment]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
+
+### product-management (2)
+
+- [[multi-perspective-prd-review-claude-code]]
+- [[testing-business-ideas-product-operating-system]]
 
 ### progressive-disclosure (2)
 
@@ -1901,6 +1911,11 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
+### review (2)
+
+- [[9-step-loop-claude-code-senior-engineer]]
+- [[multi-perspective-prd-review-claude-code]]
+
 ### reward-hacking (2)
 
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -1982,6 +1997,11 @@
 - [[ai-policy-and-regulation]]
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
+
+### stakeholders (2)
+
+- [[multi-perspective-prd-review-claude-code]]
+- [[testing-business-ideas-product-operating-system]]
 
 ### startups (4)
 
@@ -2233,6 +2253,7 @@
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
+- **delegation** — [[multi-perspective-prd-review-claude-code]]
 - **design** — [[the-html-brand-input-based-outcomes]]
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
@@ -2459,6 +2480,7 @@
 - **postgres** — [[daleverett-polygress-agent-era]]
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- **prd** — [[multi-perspective-prd-review-claude-code]]
 - **prd-review** — [[make-requirements-great]]
 - **pre-training** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
@@ -2469,7 +2491,6 @@
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product** — [[ten-commandments-building-product-feitong-yang]]
 - **product-discovery** — [[testing-business-ideas-product-operating-system]]
-- **product-management** — [[testing-business-ideas-product-operating-system]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
@@ -2504,7 +2525,6 @@
 - **resumes** — [[anthropic-engineering-hiring-resumes]]
 - **retention** — [[ten-commandments-building-product-feitong-yang]]
 - **retries** — [[fault-tolerance-langgraph-retries-timeouts]]
-- **review** — [[9-step-loop-claude-code-senior-engineer]]
 - **reward-design** — [[rl-algo-comprehensive-qa]]
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
@@ -2555,7 +2575,6 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
-- **stakeholders** — [[testing-business-ideas-product-operating-system]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **storm** — [[stanford-storm-method-claude-research]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]

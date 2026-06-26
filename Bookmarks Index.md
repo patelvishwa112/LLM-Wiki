@@ -35,6 +35,7 @@
 - [[colleague-skill-dot-skill]] — [COLLEAGUE.SKILL: Expertise as Editable, Versioned Files](https://x.com/alphasignalai/status/2061521674546119026)
 - [[opus-48-token-economy-guide]] — [Opus 4.8 Token Economy Guide](https://x.com/0x_kaize/status/2061475678143365248)
 - [[dynamic-workflows-where-plan-lives]] — [Dynamic Workflows: The Plan Moves Out of Chat](https://x.com/voxyz_ai/status/2061782441606451381)
+- [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, dynamic-workflows]`
 - [[knowledge-system-compounding-obsidian-vellum]] — [Knowledge System That Compounds — Obsidian + Vellum](https://x.com/_0xpainn/status/2061014710984511916)
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
@@ -139,6 +140,7 @@
 - [[15-claude-code-settings-most-developers-never-touc]] — [15 Claude Code Settings Most Developers Never Touch (And Why They Should)](https://x.com/zodchiii/status/2053042131111927976)
 - [[problem-first-skill-invert-bad-ideas]] — [/problem-first: a simple skill to invert bad ideas](https://x.com/nurijanian/status/2063186118409929161) `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[pm-as-context-compressor]] — [The PM as the Context Compressor](https://x.com/nurijanian/status/2063188643683192835) `[pm, context-compression, productivity, skills, communication, stakeholders]`
+- [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows]`
 - [[testing-business-ideas-product-operating-system]] — [Testing Business Ideas as a product operating system](https://x.com/nurijanian/status/2070110096294642034) `[pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, stakeholders, discovery]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
@@ -457,6 +459,7 @@
 - [[mnilax]] `[ai-ml]`
 - [[mnilax]] `[ai-ml]`
 - [[multi-lora-training-osmosis]] `[lora, rl, training, qwen, slm]`
+- [[multi-perspective-prd-review-claude-code]] `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows, product-management]`
 - [[mushtaqbilalphd]] `[models]`
 - [[mushtaqbilalphd]] `[ai-ml]`
 - [[mushtaqbilalphd]] `[interpretability]`
