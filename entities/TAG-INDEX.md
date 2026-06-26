@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 751 unique tags across 320 processed notes.
+> 753 unique tags across 321 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -110,7 +110,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (109)
+### agents (110)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -197,6 +197,7 @@
 - [[modern-ai-robotics-first-principles]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[openclaw-hermes-supervisor-setup]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[opus-cybersecurity-partners]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
@@ -310,6 +311,14 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
+
+### benchmarks (5)
+
+- [[agent-memory-landscape-2026]]
+- [[anthropic-recursive-self-improvement]]
+- [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
+- [[longmemeval-evaluating-agent-memory-across-sessions]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 
 ### career (8)
 
@@ -486,12 +495,13 @@
 - [[harness-is-the-product-280k]]
 - [[vscode-copilot-token-efficiency]]
 
-### distillation (6)
+### distillation (7)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[why-on-policy-distillation-works]]
 
@@ -582,11 +592,12 @@
 - [[the-best-models-for-hermes-agent]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### huggingface (6)
+### huggingface (7)
 
 - [[continuous-batching-grpo-trl]]
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[huggingface-model-architecture-visualizer]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[peft-beyond-lora]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
@@ -794,10 +805,11 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (6)
+### open-source (7)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[graphiti-knowledge-graph-agent-memory]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[osiris-open-source-palantir-tool]]
 - [[quarq-agent-memory-architecture]]
 - [[sia-recursive-self-improving-agent]]
@@ -911,7 +923,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (23)
+### rl (24)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -926,6 +938,7 @@
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
@@ -1087,7 +1100,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (30)
+### training (31)
 
 - [[0xsojalsec-llms-local]]
 - [[adapad-lora-parallel-deflation]]
@@ -1106,6 +1119,7 @@
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[peft-beyond-lora]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[rl-agents-system-prompt-reward-function]]
@@ -1180,6 +1194,11 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[self-improving-agent-swarm-kimi-loop]]
 
+### agent-traces (2)
+
+- [[openthoughts-agent-data-recipes-agentic-models]]
+- [[training-agents-class-1-sft-by-agent]]
+
 ### ai (2)
 
 - [[modern-ai-robotics-first-principles]]
@@ -1236,13 +1255,6 @@
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[recursive-self-improvement-2028-prediction]]
 - [[self-evolving-autoresearch-workflow-loops]]
-
-### benchmarks (4)
-
-- [[agent-memory-landscape-2026]]
-- [[anthropic-recursive-self-improvement]]
-- [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
-- [[longmemeval-evaluating-agent-memory-across-sessions]]
 
 ### books (2)
 
@@ -1980,9 +1992,10 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 
-### sft (3)
+### sft (4)
 
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
@@ -2153,7 +2166,6 @@
 - **agent-infrastructure** — [[anthropic-ant-cli-managed-agents]]
 - **agent-loop** — [[ai-agent-loop-architecture-buinevici]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
-- **agent-traces** — [[training-agents-class-1-sft-by-agent]]
 - **agent-training** — [[continuous-batching-grpo-trl]]
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
@@ -2247,6 +2259,7 @@
 - **curiosity** — [[curiosity-bayesian-bandit]]
 - **curriculum** — [[2026-ai-engineering-roadmap]]
 - **dapo** — [[rl-algo-comprehensive-qa]]
+- **data-curation** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **database** — [[daleverett-polygress-agent-era]]
@@ -2590,6 +2603,7 @@
 - **systematic-trading** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **taste** — [[how-to-be-good-at-research]]
 - **tdd** — [[loop-driven-development]]
+- **teacher-model** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **team-structure** — [[ai-native-engineering-org]]
 - **templates** — [[claude-code-slash-command-library]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]

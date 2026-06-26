@@ -281,6 +281,7 @@
 - [[rl-interview-questions-2026]] — [RL Interview Questions 2026](https://x.com/sheriyuo/status/2063295181131247674) `[rl, rlhf, training, interview-questions, ppo, grpo, infrastructure]`
 - [[rl-interview-answers-2026]] — [RL Interview Answers 2026](https://x.com/vivek_2332/status/2063566811749331353) `[rl, rlhf, training, interview-answers, ppo, grpo, infrastructure, async-rl, moe]`
 - [[rl-algo-comprehensive-qa]] — [RL ALGO — Comprehensive Q&A](https://www.k-a.in/rl-algo.html) `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
+- [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, teacher-model, huggingface]`
 
 
 ### Security
@@ -300,6 +301,7 @@
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
+- [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
 
 ### Weather
@@ -473,6 +475,7 @@
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
+- [[openthoughts-agent-data-recipes-agentic-models]] `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, huggingface, benchmarks, teacher-model]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
