@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 746 unique tags across 318 processed notes.
+> 749 unique tags across 319 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -66,11 +66,12 @@
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
 
-### agent-memory (6)
+### agent-memory (7)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[autobrowse-browser-agent-memory]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
 - [[how-to-give-your-agent-memory]]
@@ -109,7 +110,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (107)
+### agents (108)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -154,6 +155,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[generative-ui-is-the-new-frontend]]
 - [[goal-loss-functions-distill-product]]
 - [[goal-primitive-guide]]
@@ -560,7 +562,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### hermes (14)
+### hermes (15)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-landscape-2026]]
@@ -568,6 +570,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[colleague-skill-dot-skill]]
 - [[dive-into-claude-code-vila-lab]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
@@ -778,10 +781,11 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (6)
+### obsidian (7)
 
 - [[claude-code-investment-research-setup]]
 - [[claude-dynamic-workflows-second-brain]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
@@ -893,10 +897,11 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[vscode-copilot-token-efficiency]]
 
-### rag (7)
+### rag (8)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-vector-database-works]]
@@ -967,10 +972,11 @@
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### second-brain (7)
+### second-brain (8)
 
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-personal-assistant-zero-dollars]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[level-above-phd-knowledge-works-without-you]]
@@ -1508,6 +1514,11 @@
 - [[10-rules-polished-ui-claude]]
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 
+### garry-tan (2)
+
+- [[540k-lines-i-didnt-need-garry-tan]]
+- [[gbrain-markdown-git-brain-mem0]]
+
 ### gemini (2)
 
 - [[50-mcp-servers-guide]]
@@ -1585,8 +1596,9 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[self-improving-agent-swarm-kimi-loop]]
 
-### knowledge-graph (3)
+### knowledge-graph (4)
 
+- [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
@@ -1666,6 +1678,11 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
+### mem0 (2)
+
+- [[agent-memory-landscape-2026]]
+- [[gbrain-markdown-git-brain-mem0]]
+
 ### meta-learning (4)
 
 - [[career-platform-email-list-ryan-holiday]]
@@ -1713,10 +1730,11 @@
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[vscode-copilot-token-efficiency]]
 
-### openclaw (3)
+### openclaw (4)
 
 - [[21-agent-building-mistakes]]
 - [[dive-into-claude-code-vila-lab]]
+- [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
 
 ### opik (2)
@@ -1877,8 +1895,9 @@
 - [[how-to-be-good-at-ai-research]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### retrieval (2)
+### retrieval (3)
 
+- [[gbrain-markdown-git-brain-mem0]]
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
@@ -2262,12 +2281,13 @@
 - **frontend** — [[generative-ui-is-the-new-frontend]]
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
-- **garry-tan** — [[540k-lines-i-didnt-need-garry-tan]]
+- **gbrain** — [[gbrain-markdown-git-brain-mem0]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
 - **gepa** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **ghostwriting** — [[premium-ghostwriter-five-skills-nicolas-cole]]
+- **git** — [[gbrain-markdown-git-brain-mem0]]
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
@@ -2359,7 +2379,6 @@
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
-- **mem0** — [[agent-memory-landscape-2026]]
 - **mermaid** — [[hermes-seven-skills-cobi-bean]]
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
@@ -2596,6 +2615,7 @@
 - **weather** — [[mosaic-probabilistic-weather-model]]
 - **web-performance** — [[browser-internals-chromium-architecture]]
 - **weight-synchronization** — [[weight-synchronization-rl-post-training]]
+- **wikilinks** — [[gbrain-markdown-git-brain-mem0]]
 - **workers** — [[iii-agent-harness-workers]]
 - **workflow** — [[level-above-phd-knowledge-works-without-you]]
 - **workflow-automation** — [[claude-code-investment-research-setup]]

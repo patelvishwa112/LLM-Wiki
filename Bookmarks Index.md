@@ -38,6 +38,7 @@
 - [[knowledge-system-compounding-obsidian-vellum]] — [Knowledge System That Compounds — Obsidian + Vellum](https://x.com/_0xpainn/status/2061014710984511916)
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
+- [[gbrain-markdown-git-brain-mem0]] — [A Brain in a Git Repo: How GBrain Works](https://x.com/mem0ai/status/2070541048527609885) `[agents, agent-memory, mem0, gbrain, knowledge-graph, wikilinks, rag, openclaw, hermes]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
@@ -393,6 +394,7 @@
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness, loop-engineering]`
 - [[gaurigupta]] `[productivity, papers]`
+- [[gbrain-markdown-git-brain-mem0]] `[agents, agent-memory, mem0, gbrain, garry-tan, knowledge-graph, obsidian, wikilinks, rag, retrieval, openclaw, hermes, second-brain, git]`
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
 - [[googlegemma]] `[interpretability]`
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]] `[evals]`
