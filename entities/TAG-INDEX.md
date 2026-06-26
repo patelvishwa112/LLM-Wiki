@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 744 unique tags across 317 processed notes.
+> 746 unique tags across 318 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,13 +27,14 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (35)
+### agent-harness (36)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-harness-should-repair-itself]]
+- [[agent-swarms-production-governance]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -108,7 +109,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (106)
+### agents (107)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -124,6 +125,7 @@
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-harness-should-repair-itself]]
 - [[agent-memory-landscape-2026]]
+- [[agent-swarms-production-governance]]
 - [[agentic-misalignment]]
 - [[ai-agent-loop-architecture-buinevici]]
 - [[ai-agents]]
@@ -470,9 +472,10 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### cost-optimization (6)
+### cost-optimization (7)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
+- [[agent-swarms-production-governance]]
 - [[claude-code-cost-optimization-prompts]]
 - [[deepseek-v4-claude-code-setup]]
 - [[harness-engineering-2026-discipline]]
@@ -557,10 +560,11 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### hermes (13)
+### hermes (14)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-landscape-2026]]
+- [[agent-swarms-production-governance]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[colleague-skill-dot-skill]]
 - [[dive-into-claude-code-vila-lab]]
@@ -744,10 +748,11 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (17)
+### multi-agent (18)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
+- [[agent-swarms-production-governance]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -791,12 +796,13 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### orchestration (17)
+### orchestration (18)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
+- [[agent-swarms-production-governance]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[coderabbit-claude-agent-orchestration]]
@@ -811,10 +817,11 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[wtf-is-a-loop]]
 
-### production (9)
+### production (10)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-harness-should-repair-itself]]
+- [[agent-swarms-production-governance]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
@@ -1048,10 +1055,11 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
-### subagents (9)
+### subagents (10)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
+- [[agent-swarms-production-governance]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -1519,6 +1527,11 @@
 
 - [[goal-loss-functions-distill-product]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
+
+### governance (2)
+
+- [[agent-swarms-production-governance]]
+- [[token-capital-scaffolding-process-governance]]
 
 ### gpu (3)
 
@@ -2166,6 +2179,7 @@
 - **company-brain** — [[memory-is-retained-consequence]]
 - **compliance** — [[claude-compliance-security-partners]]
 - **compounding-systems** — [[token-capital-scaffolding-process-governance]]
+- **compression** — [[agent-swarms-production-governance]]
 - **computer-use** — [[computer-use]]
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **concept-bottleneck-models** — [[mechanistic-interpretability-is-not-the-whole-field]]
@@ -2178,6 +2192,7 @@
 - **context-rot** — [[harness-is-the-product-context-aware-agents]]
 - **context-window** — [[harness-is-the-product-context-aware-agents]]
 - **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
+- **coordination** — [[agent-swarms-production-governance]]
 - **copilot** — [[agent-memory-landscape-2026]]
 - **copilotkit** — [[generative-ui-is-the-new-frontend]]
 - **cosine-similarity** — [[how-vector-database-works]]
@@ -2258,7 +2273,6 @@
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **goal** — [[hermes-goal-mode-guide]]
 - **google** — [[google-gemma-4-12b-local-fine-tuning]]
-- **governance** — [[token-capital-scaffolding-process-governance]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]

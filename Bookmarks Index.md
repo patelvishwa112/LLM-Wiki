@@ -82,6 +82,7 @@
 - [[loop-engineering-clearly-explained]] — [Loop Engineering Clearly Explained](https://x.com/akshay_pachaar/status/2069118430582866051) `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[human-in-the-loop-agent-loops]] — [Human in the /loop](https://x.com/ericzakariasson/status/2070493377267646797) `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, cursor, cloud-agents]`
+- [[agent-swarms-production-governance]] — [Your Agent Isn't Slow. It's Doing 4 Jobs at Once](https://x.com/nyk_builderz/status/2070346338269819043) `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression]`
 - [[twenty-core-agent-concepts-sairahul1]] — [Twenty core ideas behind every AI agent](https://x.com/sairahul1/status/2069351848742629693) `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
@@ -316,6 +317,7 @@
 - [[agent-harness-engineering-agentforge]] `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 - [[agent-harness-should-repair-itself]] `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
+- [[agent-swarms-production-governance]] `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression, coordination, cost-optimization]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
