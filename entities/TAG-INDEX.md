@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 743 unique tags across 316 processed notes.
+> 744 unique tags across 317 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (34)
+### agent-harness (35)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -46,6 +46,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-give-your-agent-memory]]
+- [[human-in-the-loop-agent-loops]]
 - [[iii-agent-harness-workers]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -107,7 +108,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (105)
+### agents (106)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -170,6 +171,7 @@
 - [[how-to-give-your-agent-memory]]
 - [[how-to-read-company-ai-analyst]]
 - [[how-vllm-works-amitiitbhu]]
+- [[human-in-the-loop-agent-loops]]
 - [[iceberg-opus-48-prompts]]
 - [[iii-agent-harness-workers]]
 - [[learn-harness-engineering]]
@@ -347,7 +349,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (63)
+### claude-code (64)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -391,6 +393,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
+- [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[level-above-phd-knowledge-works-without-you]]
@@ -503,7 +506,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (13)
+### evals (14)
 
 - [[agent-harness-should-repair-itself]]
 - [[anthropic-self-service-analytics-claude]]
@@ -515,6 +518,7 @@
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
 - [[how-to-give-your-agent-memory]]
+- [[human-in-the-loop-agent-loops]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[loop-engineering-clearly-explained]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
@@ -639,10 +643,11 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (7)
+### loop-engineering (8)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[human-in-the-loop-agent-loops]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
@@ -660,7 +665,7 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
-### mcp (27)
+### mcp (28)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -679,6 +684,7 @@
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
 - [[how-to-read-company-ai-analyst]]
+- [[human-in-the-loop-agent-loops]]
 - [[loop-engineering-14-step-roadmap]]
 - [[managed-agents-sandbox-mcp]]
 - [[mcp-core-architecture-explained]]
@@ -738,7 +744,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (16)
+### multi-agent (17)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -747,6 +753,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
+- [[human-in-the-loop-agent-loops]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-dreaming-orchestration]]
@@ -816,7 +823,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (21)
+### productivity (22)
 
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
@@ -833,6 +840,7 @@
 - [[claude-personal-assistant-zero-dollars]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[hermes-goal-mode-guide]]
+- [[human-in-the-loop-agent-loops]]
 - [[iceberg-opus-48-prompts]]
 - [[mcp-server-workflow-problems]]
 - [[mid-career-dissatisfaction]]
@@ -1095,11 +1103,12 @@
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### verification (8)
+### verification (9)
 
 - [[claude-code-changed-what-agents-look-like]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[self-improving-agent-swarm-kimi-loop]]
@@ -1316,6 +1325,11 @@
 
 - [[how-gpu-executes-code-first-principles]]
 - [[pytorch-profiler-beginners-guide]]
+
+### cursor (2)
+
+- [[human-in-the-loop-agent-loops]]
+- [[nvidia-skillspector-security-scanner]]
 
 ### cybersecurity (2)
 
@@ -2144,6 +2158,7 @@
 - **classifiers** — [[jailbreaks-and-defenses]]
 - **clients** — [[mcp-core-architecture-hosts-clients-servers]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
+- **cloud-agents** — [[human-in-the-loop-agent-loops]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communities** — [[0xsojalsec-llms-local]]
@@ -2177,7 +2192,6 @@
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
 - **curriculum** — [[2026-ai-engineering-roadmap]]
-- **cursor** — [[nvidia-skillspector-security-scanner]]
 - **dapo** — [[rl-algo-comprehensive-qa]]
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]

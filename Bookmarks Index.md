@@ -81,6 +81,7 @@
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
 - [[loop-engineering-clearly-explained]] — [Loop Engineering Clearly Explained](https://x.com/akshay_pachaar/status/2069118430582866051) `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
+- [[human-in-the-loop-agent-loops]] — [Human in the /loop](https://x.com/ericzakariasson/status/2070493377267646797) `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, cursor, cloud-agents]`
 - [[twenty-core-agent-concepts-sairahul1]] — [Twenty core ideas behind every AI agent](https://x.com/sairahul1/status/2069351848742629693) `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
@@ -402,6 +403,7 @@
 - [[hermes-goal-mode-guide]] `[hermes, goal, productivity, workflows]`
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
 - [[hermes-seven-skills-cobi-bean]] `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, mermaid, meta-skills, superpowers]`
+- [[human-in-the-loop-agent-loops]] `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, productivity, cursor, cloud-agents, multi-agent]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
