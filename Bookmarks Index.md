@@ -45,6 +45,7 @@
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
+- [[self-learning-agents-three-layers-user-signal]] — [Self-learning agents: model, harness, context — learn from real users](https://x.com/ataiiam/status/2069797329809395978) `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
 - [[multi-lora-training-osmosis]] — [Training Thousands of LoRA Adapters Concurrently](https://x.com/_weexiao/status/2061855508156563871)
 - [[540k-lines-i-didnt-need-garry-tan]] — [540,000 Lines of Code I Didn't Need — Garry Tan](https://x.com/garrytan/status/2061454423034110372)
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
@@ -502,6 +503,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]] `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
+- [[self-learning-agents-three-layers-user-signal]] `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`

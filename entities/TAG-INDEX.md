@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 761 unique tags across 324 processed notes.
+> 762 unique tags across 325 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (37)
+### agent-harness (38)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -61,13 +61,14 @@
 - [[rlm-structured-outputs]]
 - [[sakana-fugu-orchestrator-models]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[self-learning-agents-three-layers-user-signal]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
 
-### agent-memory (7)
+### agent-memory (8)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -76,6 +77,7 @@
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
 - [[how-to-give-your-agent-memory]]
+- [[self-learning-agents-three-layers-user-signal]]
 
 ### agent-ops (21)
 
@@ -111,7 +113,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (111)
+### agents (112)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -212,6 +214,7 @@
 - [[ryanbai1412-x-post-2065466603358306470]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[self-improving-agent-swarm-kimi-loop]]
+- [[self-learning-agents-three-layers-user-signal]]
 - [[sia-recursive-self-improving-agent]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[the-html-brand-input-based-outcomes]]
@@ -587,7 +590,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### hermes (15)
+### hermes (16)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-landscape-2026]]
@@ -602,6 +605,7 @@
 - [[hermes-seven-skills-cobi-bean]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[research-agent-evidence-operator]]
+- [[self-learning-agents-three-layers-user-signal]]
 - [[the-best-models-for-hermes-agent]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
@@ -1036,7 +1040,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (40)
+### skills (41)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1076,6 +1080,7 @@
 - [[opus-48-token-economy-guide]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[self-improving-agent-swarm-kimi-loop]]
+- [[self-learning-agents-three-layers-user-signal]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
@@ -1200,6 +1205,11 @@
 
 - [[anthropic-natural-language-autoencoders]]
 - [[persona-vectors-paper]]
+
+### ag-ui (2)
+
+- [[generative-ui-is-the-new-frontend]]
+- [[self-learning-agents-three-layers-user-signal]]
 
 ### agent-engineering (3)
 
@@ -1372,6 +1382,11 @@
 
 - [[continuous-batching-grpo-trl]]
 - [[how-vllm-works-amitiitbhu]]
+
+### copilotkit (2)
+
+- [[generative-ui-is-the-new-frontend]]
+- [[self-learning-agents-three-layers-user-signal]]
 
 ### course (2)
 
@@ -1869,6 +1884,11 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 
+### procedural-memory (2)
+
+- [[how-to-give-your-agent-memory]]
+- [[self-learning-agents-three-layers-user-signal]]
+
 ### product-management (2)
 
 - [[multi-perspective-prd-review-claude-code]]
@@ -2195,7 +2215,6 @@
 - **adapters** — [[peft-beyond-lora]]
 - **advantage** — [[rl-algo-comprehensive-qa]]
 - **adversarial** — [[level-above-phd-knowledge-works-without-you]]
-- **ag-ui** — [[generative-ui-is-the-new-frontend]]
 - **agent-era** — [[daleverett-polygress-agent-era]]
 - **agent-evaluation** — [[evals-strategic-ip-garrettlord]]
 - **agent-frameworks** — [[0xsojalsec-llms-local]]
@@ -2281,7 +2300,6 @@
 - **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **coordination** — [[agent-swarms-production-governance]]
 - **copilot** — [[agent-memory-landscape-2026]]
-- **copilotkit** — [[generative-ui-is-the-new-frontend]]
 - **cosine-similarity** — [[how-vector-database-works]]
 - **costly-signals** — [[effort-position-leverage-principles]]
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
@@ -2539,7 +2557,6 @@
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
 - **probes** — [[priests-of-agi-interpretability-crisis]]
-- **procedural-memory** — [[how-to-give-your-agent-memory]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product** — [[ten-commandments-building-product-feitong-yang]]
 - **product-discovery** — [[testing-business-ideas-product-operating-system]]
@@ -2602,6 +2619,7 @@
 - **self-distillation** — [[why-on-policy-distillation-works]]
 - **self-evolving** — [[self-evolving-autoresearch-workflow-loops]]
 - **self-improving** — [[self-improving-agent-swarm-kimi-loop]]
+- **self-learning** — [[self-learning-agents-three-layers-user-signal]]
 - **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
 - **self-verification** — [[how-to-actually-use-claude-fable-5]]
