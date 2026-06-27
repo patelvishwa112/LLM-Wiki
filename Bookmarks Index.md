@@ -237,6 +237,7 @@
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] — [My team at @GoodfireAI has been cooking up a new way to do interpretability: dec](https://x.com/leedsharkey/status/2051717264286609516)
 - [[trq212]] — [trq212](https://x.com/trq212/status/2052809885763747935)
 - [[what-is-kv-cache-llms]] — [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927) `[llm, transformers, attention, kv-cache, fundamentals]`
+- [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 
@@ -439,6 +440,7 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[kirillkweb3]] `[agents]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
+- [[kv-caching-llms-clearly-explained-avichawla]] `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, fundamentals, serving, gpu]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
