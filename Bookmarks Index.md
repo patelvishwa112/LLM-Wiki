@@ -41,6 +41,7 @@
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
 - [[gbrain-markdown-git-brain-mem0]] — [A Brain in a Git Repo: How GBrain Works](https://x.com/mem0ai/status/2070541048527609885) `[agents, agent-memory, mem0, gbrain, knowledge-graph, wikilinks, rag, openclaw, hermes]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
+- [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
@@ -169,6 +170,7 @@
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
+- [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents]`
 
 ### Evals
 
@@ -384,6 +386,7 @@
 - [[daily-dose-of-premium-content]] `[agents, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
+- [[deep-agents-prompt-caching]] `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents, observability, inference, token-economy]`
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`
 - [[dimitrispapail]] `[papers]`

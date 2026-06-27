@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 753 unique tags across 321 processed notes.
+> 754 unique tags across 322 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (36)
+### agent-harness (37)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -40,6 +40,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[claude-md-12-rules-mikenevermiss]]
+- [[deep-agents-prompt-caching]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -110,7 +111,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (110)
+### agents (111)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -151,6 +152,7 @@
 - [[colleague-skill-dot-skill]]
 - [[computer-use]]
 - [[continuous-trace-intelligence-braintrust-topics]]
+- [[deep-agents-prompt-caching]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -485,11 +487,12 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### cost-optimization (7)
+### cost-optimization (8)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
 - [[claude-code-cost-optimization-prompts]]
+- [[deep-agents-prompt-caching]]
 - [[deepseek-v4-claude-code-setup]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -602,10 +605,11 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (5)
+### inference (6)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[deep-agents-prompt-caching]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 - [[what-is-kv-cache-llms]]
@@ -645,6 +649,14 @@
 - [[ray-dalio-x-post]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
+
+### kv-cache (5)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[continuous-batching-grpo-trl]]
+- [[deep-agents-prompt-caching]]
+- [[how-vllm-works-amitiitbhu]]
+- [[what-is-kv-cache-llms]]
 
 ### llm (14)
 
@@ -786,10 +798,11 @@
 - [[stanford-storm-method-claude-research]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (6)
+### observability (7)
 
 - [[agent-harness-should-repair-itself]]
 - [[continuous-trace-intelligence-braintrust-topics]]
+- [[deep-agents-prompt-caching]]
 - [[how-to-give-your-agent-memory]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1636,12 +1649,15 @@
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
 
-### kv-cache (4)
+### langchain (2)
 
-- [[ai-engineering-roadmap-2026-from-scratch]]
-- [[continuous-batching-grpo-trl]]
-- [[how-vllm-works-amitiitbhu]]
-- [[what-is-kv-cache-llms]]
+- [[deep-agents-prompt-caching]]
+- [[how-to-give-your-agent-memory]]
+
+### langsmith (2)
+
+- [[deep-agents-prompt-caching]]
+- [[how-to-give-your-agent-memory]]
 
 ### learning (4)
 
@@ -1847,6 +1863,11 @@
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
+
+### prompt-caching (2)
+
+- [[deep-agents-prompt-caching]]
+- [[vscode-copilot-token-efficiency]]
 
 ### prompt-injection (3)
 
@@ -2062,8 +2083,9 @@
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-should-repair-itself]]
 
-### token-economy (2)
+### token-economy (3)
 
+- [[deep-agents-prompt-caching]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
 
@@ -2265,6 +2287,7 @@
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
+- **deep-agents** — [[deep-agents-prompt-caching]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **delegation** — [[multi-perspective-prd-review-claude-code]]
 - **design** — [[the-html-brand-input-based-outcomes]]
@@ -2381,9 +2404,7 @@
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
-- **langchain** — [[how-to-give-your-agent-memory]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
-- **langsmith** — [[how-to-give-your-agent-memory]]
 - **latency** — [[vscode-copilot-token-efficiency]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **lean-startup** — [[testing-business-ideas-product-operating-system]]
@@ -2507,7 +2528,6 @@
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
-- **prompt-caching** — [[vscode-copilot-token-efficiency]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
 - **providers** — [[the-best-models-for-hermes-agent]]
 - **pruning** — [[trimming-introduction]]
