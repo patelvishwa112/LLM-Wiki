@@ -5,7 +5,7 @@ date: 2026-03-27
 type: bookmark
 author: "Amit Shekhar (@amitiitbhu)"
 raw: "[[raw/amitiitbhu_2037413998279491927]]"
-related: ["[[kv-caching-llms-clearly-explained-avichawla]]", "[[how-vllm-works-amitiitbhu]]"]
+related: ["[[kv-caching-llms-clearly-explained-avichawla]]", "[[how-vllm-works-amitiitbhu]]", "[[attention-qkv-math-amitiitbhu]]"]
 ---
 
 # What is KV Cache in LLMs?

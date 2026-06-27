@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 758 unique tags across 323 processed notes.
+> 761 unique tags across 324 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -508,6 +508,14 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[why-on-policy-distillation-works]]
 
+### embeddings (5)
+
+- [[attention-qkv-math-amitiitbhu]]
+- [[deepseek-v4-pro-threejs-embedding-visualization]]
+- [[how-vector-database-works]]
+- [[joint-embedding-predictive-architecture-jepa]]
+- [[trimming-introduction]]
+
 ### enterprise (15)
 
 - [[anthropic-finance-claude-cowork]]
@@ -561,9 +569,10 @@
 - [[multi-lora-training-osmosis]]
 - [[peft-beyond-lora]]
 
-### fundamentals (6)
+### fundamentals (7)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[attention-qkv-math-amitiitbhu]]
 - [[how-gpu-executes-code-first-principles]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[rlhf-from-first-principles]]
@@ -661,11 +670,12 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### llm (15)
+### llm (16)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[aiedge-glm-5.2-guide]]
+- [[attention-qkv-math-amitiitbhu]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -1151,9 +1161,10 @@
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### transformers (5)
+### transformers (6)
 
 - [[2026-ai-engineering-roadmap]]
+- [[attention-qkv-math-amitiitbhu]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
@@ -1270,8 +1281,9 @@
 - [[rl-interview-answers-2026]]
 - [[weight-synchronization-rl-post-training]]
 
-### attention (3)
+### attention (4)
 
+- [[attention-qkv-math-amitiitbhu]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
@@ -1451,8 +1463,9 @@
 - [[multi-perspective-prd-review-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 
-### education (2)
+### education (3)
 
+- [[attention-qkv-math-amitiitbhu]]
 - [[claude-for-education]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 
@@ -1460,13 +1473,6 @@
 
 - [[hrm-text-1b-reasoning-model]]
 - [[knowledge-distillation-theturingpost]]
-
-### embeddings (4)
-
-- [[deepseek-v4-pro-threejs-embedding-visualization]]
-- [[how-vector-database-works]]
-- [[joint-embedding-predictive-architecture-jepa]]
-- [[trimming-introduction]]
 
 ### encoding-deployment-gap (3)
 
@@ -2440,6 +2446,7 @@
 - **mai-thinking** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **market-dynamics** — [[effort-position-leverage-principles]]
+- **math** — [[attention-qkv-math-amitiitbhu]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -2544,6 +2551,7 @@
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
 - **pytorch** — [[pytorch-profiler-beginners-guide]]
+- **qkv** — [[attention-qkv-math-amitiitbhu]]
 - **quantization** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **qubot** — [[github-qubot-data-analytics-agent]]
 - **ray-dalio** — [[principled-thinking-and-ai-ray-dalio]]
@@ -2615,6 +2623,7 @@
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]

@@ -237,6 +237,7 @@
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] — [My team at @GoodfireAI has been cooking up a new way to do interpretability: dec](https://x.com/leedsharkey/status/2051717264286609516)
 - [[trq212]] — [trq212](https://x.com/trq212/status/2052809885763747935)
 - [[what-is-kv-cache-llms]] — [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927) `[llm, transformers, attention, kv-cache, fundamentals]`
+- [[attention-qkv-math-amitiitbhu]] — [Math behind Attention - Q, K, and V](https://x.com/amitiitbhu/status/2040027305297526811) `[transformers, attention, llm, fundamentals, math, qkv, softmax, embeddings]`
 - [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
@@ -356,6 +357,7 @@
 - [[article]] `[coding-tools, design]`
 - [[article]] `[agents, coding-tools]`
 - [[ashwingop]] `[productivity]`
+- [[attention-qkv-math-amitiitbhu]] `[transformers, attention, llm, fundamentals, math, qkv, softmax, embeddings, education]`
 - [[automate-writing-llm-prompts-dspy]] `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] `[skills, claude, claude-code, prompt-engineering, progressive-disclosure, agent-harness, hermes, mcp]`
 - [[build-your-own-llm-workshop-justin-angel]] `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
