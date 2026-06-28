@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 762 unique tags across 325 processed notes.
+> 762 unique tags across 326 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (38)
+### agent-harness (39)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -67,8 +67,9 @@
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-memory (8)
+### agent-memory (9)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -78,6 +79,7 @@
 - [[harness-is-the-product-280k]]
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### agent-ops (21)
 
@@ -113,7 +115,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (112)
+### agents (113)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -226,6 +228,7 @@
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
 - [[wtf-is-a-loop]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
 
 ### alignment (18)
@@ -368,7 +371,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[the-html-brand-input-based-outcomes]]
 
-### claude-code (65)
+### claude-code (66)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -435,6 +438,7 @@
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### claude-cowork (10)
 
@@ -448,6 +452,14 @@
 - [[claude-hidden-features-guide]]
 - [[claude-interactive-visuals]]
 - [[claude-personal-assistant-zero-dollars]]
+
+### claude-md (5)
+
+- [[9-step-loop-claude-code-senior-engineer]]
+- [[claude-code-self-correcting-setup]]
+- [[second-self-vs-second-brain-obsidian]]
+- [[voxyz-ai-10-lessons-agents-md]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### codex (10)
 
@@ -1040,7 +1052,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### skills (41)
+### skills (42)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1083,6 +1095,7 @@
 - [[self-learning-agents-three-layers-user-signal]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### slm (6)
 
@@ -1245,6 +1258,11 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 
+### agents-md (2)
+
+- [[voxyz-ai-10-lessons-agents-md]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
+
 ### ai (2)
 
 - [[modern-ai-robotics-first-principles]]
@@ -1331,13 +1349,6 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[mechanistic-interpretability]]
 
-### claude-md (4)
-
-- [[9-step-loop-claude-code-senior-engineer]]
-- [[claude-code-self-correcting-setup]]
-- [[second-self-vs-second-brain-obsidian]]
-- [[voxyz-ai-10-lessons-agents-md]]
-
 ### cli (2)
 
 - [[anthropic-ant-cli-guide]]
@@ -1367,11 +1378,12 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
-### context-management (3)
+### context-management (4)
 
 - [[agent-harness-engineering-agentforge]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### continual-learning (2)
 
@@ -2225,7 +2237,6 @@
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
 - **agentic-misalignment** — [[agentic-misalignment]]
-- **agents-md** — [[voxyz-ai-10-lessons-agents-md]]
 - **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
 - **ai-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **ai-native** — [[ai-native-engineering-org]]
