@@ -1,69 +1,34 @@
-# Wiki Index
+---
+okf_version: "0.1"
+title: LLM Wiki Knowledge Bundle
+description: Agent- and human-readable knowledge graph (bookmarks, concepts, entities) for AI research, agents, harness design, and related domains.
+---
 
-> Content catalog. Every wiki page listed under its type with a one-line summary.
-> Last updated: 2026-06-08 | 37 concepts, 7 entities, 221 raw sources = 265 pages
+# LLM Wiki — bundle index
 
-## Overview
-- [[anthropic-publications]] — Complete inventory of 358 Anthropic publications
+Progressive disclosure entry for OKF v0.1 consumers. Read this file first; open concepts only as needed.
 
-## Entities
-- [[anthropic]] — Anthropic
-- [[claude-code]] — Claude Code
-- [[claude-models]] — Claude Models
-- [[dario-amodei]] — Dario Amodei
-- [[mike-krieger]] — Mike Krieger
-- [[model-context-protocol]] — Model Context Protocol (MCP)
-- [[transformer-circuits-thread]] — Transformer Circuits Thread
+## Navigation
+
+* [Vault conventions and intelligence ops](CLAUDE.md) — placement rules, ingestion SOP, OKF alignment
+* [Bookmarks by topic and A-Z](Bookmarks%20Index.md) — primary human entry; topic sections + tag badges
+* [Tag cross-reference](entities/TAG-INDEX.md) — every tag → processed concept slugs
+* [Frontmatter schema](SCHEMA.md) — tags, types, page thresholds
 
 ## Concepts
-- [[agentic-misalignment]] — Agentic Misalignment
-- [[ai-agents]] — AI Agents
-- [[ai-alignment]] — AI Alignment
-- [[ai-biosecurity-and-nuclear]] — AI Biosecurity and Nuclear Safeguards
-- [[ai-cybersecurity]] — AI Cybersecurity
-- [[ai-persuasion]] — AI Persuasion
-- [[ai-policy-and-regulation]] — AI Policy and Regulation
-- [[ai-safety-levels]] — AI Safety Levels (ASL)
-- [[alignment-faking]] — Alignment Faking
-- [[anthropic-publications]] — Anthropic Publications Master Index
-- [[claude-for-education]] — Claude for Education
-- [[claude-values-and-character]] — Claude's Values and Character
-- [[computer-use]] — Computer Use
-- [[constitutional-ai]] — Constitutional AI
-- [[deceptive-alignment]] — Deceptive Alignment
-- [[detecting-misuse]] — Detecting and Countering Misuse
-- [[enterprise-and-industry-applications]] — Enterprise and Industry Applications
-- [[extended-thinking]] — Extended Thinking
-- [[induction-heads]] — Induction Heads
-- [[jailbreaks-and-defenses]] — Jailbreaks and Defenses
-- [[mechanistic-interpretability]] — Mechanistic Interpretability
-- [[model-welfare]] — Model Welfare
-- [[persona-vectors]] — Persona Vectors
-- [[red-teaming]] — Red Teaming
-- [[responsible-scaling-policy]] — Responsible Scaling Policy
-- [[reward-hacking-and-tampering]] — Reward Hacking and Tampering
-- [[rlhf]] — RLHF (Reinforcement Learning from Human Feedback)
-- [[recursive-self-improvement]] — Recursive Self-Improvement (Anthropic Institute, June 2026)
-- [[scalable-oversight]] — Scalable Oversight
-- [[scaling-laws]] — Scaling Laws
-- [[sparse-autoencoders]] — Sparse Autoencoders (Dictionary Learning)
-- [[superposition]] — Superposition
-- [[sycophancy]] — Sycophancy
 
-## Comparisons
-<!-- None yet -->
+* [processed/](processed/) — one markdown file per concept (OKF concept documents). Required frontmatter: `type`. Required for new ingests: `description` (one line; may match `summary`).
+* [entities/](entities/) — entity profiles (people, orgs, tools, models) plus TAG-INDEX
 
-## Queries
-<!-- None yet -->
+## Source material (archive)
 
-## Raw Sources
+* [raw/](raw/) — full scraped captures (X, web, papers). Provenance for processed notes via `raw: "[[raw/...]]"` in concept frontmatter. Not required for minimal OKF export subsets.
 
-### Articles (174 files)
-Anthropic blog posts, news, and research articles from anthropic.com.
+## Agent retrieval order
 
-### Papers (42 files)
-ArXiv papers, Transformer Circuits Thread publications, and PDFs.
+1. This `index.md` or Bookmarks Index (topic fit)
+2. `entities/TAG-INDEX.md` for tag → slug list
+3. `read_file` on 1–3 `processed/<slug>.md` files
+4. Follow `## Related` wikilinks; read `raw/` only when verbatim source matters
 
-## Meta
-- [SCHEMA.md](SCHEMA.md) — Wiki conventions, tag taxonomy, and operational rules
-- [log.md](log.md) — Chronological action log
+Do not load the full bundle into session context.

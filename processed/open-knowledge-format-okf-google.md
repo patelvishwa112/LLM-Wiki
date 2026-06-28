@@ -5,6 +5,7 @@ date: 2026-06-28
 type: concept
 author: google-cloud
 summary: "OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karpathy LLM-wiki pattern without a mandatory SDK."
+description: "OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karpathy LLM-wiki pattern without a mandatory SDK."
 raw: "[[raw/googlecloud_okf-open-knowledge-format]]"
 ---
 
@@ -51,6 +52,8 @@ Validates the vault’s existing bet: **markdown + frontmatter + wikilinks + git
 **Already OKF-aligned (~80%):** flat concept files, YAML frontmatter, tags, git distribution, cross-links, human+agent readable.
 
 ### Tier 1 — Low effort (1–2 sessions, no mass moves)
+
+**Status: adopted 2026-06-28** (`index.md`, `CLAUDE.md` OKF section, ingestion skills + memory updated).
 
 - Add bundle root `index.md` with `okf_version: "0.1"` in frontmatter (only place index may have YAML per spec) + pointer to `CLAUDE.md` / navigation doc.
 - Document OKF mapping in `CLAUDE.md` (processed = concepts, raw = citation/archive layer outside strict bundle if desired).

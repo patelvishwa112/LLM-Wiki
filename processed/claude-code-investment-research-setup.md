@@ -1,5 +1,7 @@
 ---
 tags: [claude-code, investment-research, obsidian, knowledge-management, finance, workflow-automation, playwright, firecrawl]
+type: bookmark
+description: "Finance workflow using Claude Code with Obsidian, Playwright, and Firecrawl for investment research."
 source: https://x.com/leopardracer/status/2058949350315667829
 raw: "[[raw/leopardracer_2058949350315667829]]"
 author: "@leopardracer"

@@ -16,6 +16,7 @@ processed/              — Processed/synthesized notes with YAML frontmatter
   type: concept         —   Note type: bookmark, concept, entity, comparison
   related: [[...]]      —   Explicit wikilinks to connected notes
 entities/               — Entity profiles (companies, people, projects, models)
+index.md                — OKF v0.1 bundle index (read first)
 Bookmarks Index.md      — Master index organized by topic
 SCHEMA.md               — Structural conventions
 CLAUDE.md               — Vault conventions and navigation
@@ -42,6 +43,21 @@ PERSONAL.md             — Personal context (gitignored)
 3. **Raw notes are source material.** `raw/author_statusid.md` contains the full original article. Processed notes are distilled versions. When detail matters, read the raw.
 4. **Cross-domain is where insight lives.** The most valuable connections live between domains — e.g., Markov Chain state transitions ↔ agent FSM design ↔ browser workflow convergence.
 5. **The Bookmarks Index is the entry point.** It organizes everything by topic. Start there when exploring a new domain.
+6. **OKF bundle root:** Read `index.md` first for progressive disclosure (agents and humans).
+
+## OKF alignment (Open Knowledge Format v0.1)
+
+This repository is an **OKF-style knowledge bundle**: git-distributed markdown concepts with YAML frontmatter.
+
+| OKF role | Vault path |
+|----------|------------|
+| Bundle index | `index.md` (`okf_version: "0.1"`) |
+| Concepts | `processed/*.md` — **required:** `type`; **required on new ingests:** `description` (one-line; quote if it contains `: `) |
+| Optional indexes | `Bookmarks Index.md`, `entities/TAG-INDEX.md` (synthesized navigation) |
+| Entity concepts | `entities/*.md` (exclude `TAG-INDEX.md` from concept count) |
+| Citations / archive | `raw/` — provenance; may be omitted from slim OKF exports |
+
+**Agent rules:** Pull knowledge on demand — index → tags → specific concept files. Never mirror the whole wiki into harness MEMORY.md.
 
 ## Vault Operations
 
@@ -63,7 +79,7 @@ Every file has exactly one correct home:
 When adding a new article or source:
 
 1. **Save raw** → `raw/author_statusid.md` with `source_url`, `ingested` date, `sha256`
-2. **Create processed note** → `processed/slug.md` with YAML frontmatter (tags, source, type, summary, related)
+2. **Create processed note** → `processed/slug.md` with YAML frontmatter (`tags`, `source`, `date`, **`type`** (required), **`description`** (required, one line; OKF — duplicate `summary` text if both present), quoted `summary` optional, `raw: "[[raw/...]]"`). Put `## Related` wikilinks in the body only, not invalid `related:` YAML lists.
 3. **Update Bookmarks Index** → add to both By Topic section and A-Z listing
 4. **Regenerate TAG-INDEX** → run the tag extraction script to rebuild `entities/TAG-INDEX.md`
 5. **Create entity pages** → if the article introduces a new company, person, tool, or concept that warrants a standalone entity page, create one in `entities/`

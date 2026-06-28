@@ -8,6 +8,8 @@ tags:
   - llm
   - research
   - personal-project
+type: concept
+description: "Personal Llama SAE interpretability project — sparse autoencoders and steering on local MLX stack."
 created: 2026-05-30
 status: active
 repo: https://github.com/patelvishwa112/llama-sae-interp

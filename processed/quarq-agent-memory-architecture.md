@@ -1,5 +1,7 @@
 ---
 tags: [llm, agent-architecture, memory, continual-learning, retrieval, open-source, faiss, rag]
+type: bookmark
+description: "Quarq open-source memory-first agent architecture with four-layer continual learning design."
 source: https://x.com/quarqlabs/status/2059320863070286177
 raw: "[[raw/quarqlabs_2059320863070286177]]"
 author: QuarqLabs (@quarqlabs)

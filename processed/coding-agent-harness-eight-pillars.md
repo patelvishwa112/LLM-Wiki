@@ -1,5 +1,7 @@
 ---
 tags: [ai-agents, coding-agents, harness, claude-code, codex, nimbalyst, agent-architecture, llm-engineering]
+type: bookmark
+description: "Eight failure modes and eight harness pillars around Claude Code and Codex (Nimbalyst)."
 source: https://x.com/wirthkarl/status/2059270673730580732
 raw: "[[raw/wirthkarl_2059270673730580732]]"
 author: Karl Wirth (@wirthkarl)
