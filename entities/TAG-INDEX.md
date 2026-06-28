@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 762 unique tags across 326 processed notes.
+> 764 unique tags across 327 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (39)
+### agent-harness (40)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
@@ -54,6 +54,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
+- [[open-knowledge-format-okf-google]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
 - [[rethinking-search-as-code-generation]]
@@ -115,7 +116,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (113)
+### agents (114)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2026-ai-engineering-roadmap]]
@@ -202,6 +203,7 @@
 - [[memory-is-retained-consequence]]
 - [[modern-ai-robotics-first-principles]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[open-knowledge-format-okf-google]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[opus-cybersecurity-partners]]
@@ -677,6 +679,14 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
+### knowledge-graph (5)
+
+- [[gbrain-markdown-git-brain-mem0]]
+- [[graphiti-knowledge-graph-agent-memory]]
+- [[open-knowledge-format-okf-google]]
+- [[second-brain-obsidian-night-shift-300-agent-swarm]]
+- [[second-self-vs-second-brain-obsidian]]
+
 ### kv-cache (6)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -838,20 +848,22 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (7)
+### obsidian (8)
 
 - [[claude-code-investment-research-setup]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[open-knowledge-format-okf-google]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (7)
+### open-source (8)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[graphiti-knowledge-graph-agent-memory]]
+- [[open-knowledge-format-okf-google]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[osiris-open-source-palantir-tool]]
 - [[quarq-agent-memory-architecture]]
@@ -1031,7 +1043,7 @@
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### second-brain (8)
+### second-brain (9)
 
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-personal-assistant-zero-dollars]]
@@ -1039,6 +1051,7 @@
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[level-above-phd-knowledge-works-without-you]]
+- [[open-knowledge-format-okf-google]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
@@ -1671,13 +1684,6 @@
 - [[how-to-build-ai-agent-swarms]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[self-improving-agent-swarm-kimi-loop]]
-
-### knowledge-graph (4)
-
-- [[gbrain-markdown-git-brain-mem0]]
-- [[graphiti-knowledge-graph-agent-memory]]
-- [[second-brain-obsidian-night-shift-300-agent-swarm]]
-- [[second-self-vs-second-brain-obsidian]]
 
 ### knowledge-graphs (2)
 
@@ -2393,6 +2399,7 @@
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **goal** — [[hermes-goal-mode-guide]]
 - **google** — [[google-gemma-4-12b-local-fine-tuning]]
+- **google-cloud** — [[open-knowledge-format-okf-google]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
@@ -2657,6 +2664,7 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
+- **standards** — [[open-knowledge-format-okf-google]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **storm** — [[stanford-storm-method-claude-research]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
