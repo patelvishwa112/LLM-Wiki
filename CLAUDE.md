@@ -59,6 +59,8 @@ This repository is an **OKF-style knowledge bundle**: git-distributed markdown c
 
 **Agent rules:** Pull knowledge on demand — index → tags → specific concept files. Never mirror the whole wiki into harness MEMORY.md.
 
+**Frontmatter hygiene:** Do not put `related: [[wikilinks]]` in YAML (breaks PyYAML/TAG-INDEX). Use `## Related` in the body only. Run `python3 scripts/okf-frontmatter-fix.py` after bulk imports if needed.
+
 ## Vault Operations
 
 ### File Placement Rules

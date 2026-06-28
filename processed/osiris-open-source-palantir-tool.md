@@ -1,10 +1,14 @@
 ---
-tags: ["open-source", "osint", "tools", "visualization"]
+tags:
+- open-source
+- osint
+- tools
+- visualization
 source: https://x.com/Anubhavhing/status/2056701575431884986
-raw: "[[raw/Anubhavhing_2056701575431884986]]"
+raw: '[[raw/Anubhavhing_2056701575431884986]]'
 date: 2026-05-19
 type: processed-note
-related: []
+description: 'Osiris: Open Source Palantir Alternative'
 ---
 
 # Osiris: Open Source Palantir Alternative

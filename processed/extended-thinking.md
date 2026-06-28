@@ -3,9 +3,16 @@ title: Extended Thinking
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [extended-thinking, alignment]
-sources: [raw/anthropic/articles/anthropic-research-visible-extended-thinking.md, raw/anthropic/articles/anthropic-research-reasoning-models-dont-say-think.md, raw/anthropic/papers/pdf-reasoning-models-don't-always-say-what-they-think.md, raw/anthropic/papers/arxiv-2307.13702.md]
+tags:
+- extended-thinking
+- alignment
+sources:
+- raw/anthropic/articles/anthropic-research-visible-extended-thinking.md
+- raw/anthropic/articles/anthropic-research-reasoning-models-dont-say-think.md
+- raw/anthropic/papers/pdf-reasoning-models-don't-always-say-what-they-think.md
+- raw/anthropic/papers/arxiv-2307.13702.md
 confidence: high
+description: Extended Thinking
 ---
 
 # Extended Thinking

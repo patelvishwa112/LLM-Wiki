@@ -1,12 +1,36 @@
 ---
-tags: [pattern-recognition, chunking, deliberate-practice, expertise, recognition-primed-decision-making]
+tags:
+- pattern-recognition
+- chunking
+- deliberate-practice
+- expertise
+- recognition-primed-decision-making
 source: https://x.com/jaynitx/status/2054200520575967698
 type: bookmark
-related: [[how-to-be-good-at-ai-research], [effort-position-leverage-principles]]
-summary: |
-  "@jaynitx shares a high-engagement thread on how pattern recognition (chunking) is the true foundation of expertise. Draws from chess masters (50k–100k patterns), deliberate practice with tight feedback loops, and Gary Klein’s Recognition-Primed Decision Making. Covers how to build it faster through high volume + active analysis, while warning about false patterns. Applies across domains: content, programming, investing, reading."
-why_it_matters: |
-  "Excellent mental model for how real expertise develops — directly relevant to the vault’s emphasis on deliberate practice, cross-domain learning, and becoming a better thinker/researcher. The chunking concept explains why high-volume, high-quality feedback loops compound so powerfully. Strong alignment with the 'learn principles first' philosophy."
+related:
+- - how-to-be-good-at-ai-research
+- - effort-position-leverage-principles
+summary: '"@jaynitx shares a high-engagement thread on how pattern recognition (chunking)
+  is the true foundation of expertise. Draws from chess masters (50k–100k patterns),
+  deliberate practice with tight feedback loops, and Gary Klein’s Recognition-Primed
+  Decision Making. Covers how to build it faster through high volume + active analysis,
+  while warning about false patterns. Applies across domains: content, programming,
+  investing, reading."
+
+  '
+why_it_matters: '"Excellent mental model for how real expertise develops — directly
+  relevant to the vault’s emphasis on deliberate practice, cross-domain learning,
+  and becoming a better thinker/researcher. The chunking concept explains why high-volume,
+  high-quality feedback loops compound so powerfully. Strong alignment with the ''learn
+  principles first'' philosophy."
+
+  '
+description: '"@jaynitx shares a high-engagement thread on how pattern recognition
+  (chunking) is the true foundation of expertise. Draws from chess masters (50k–100k
+  patterns), deliberate practice with tight feedback loops, and Gary Klein’s Recognition-Primed
+  Decision Making. Covers how to build it faster through high volume + active analysis,
+  while warning about false patterns. Applies across domains: content, programming,
+  investing, reading."'
 ---
 
 # Pattern Recognition Is the Real Foundation of Expertise

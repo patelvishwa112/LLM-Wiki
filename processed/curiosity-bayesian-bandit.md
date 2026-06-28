@@ -1,10 +1,15 @@
 ---
-tags: ["rl", "exploration", "curiosity", "bayesian", "bandit"]
+tags:
+- rl
+- exploration
+- curiosity
+- bayesian
+- bandit
 source: https://x.com/FrancescoSacco1/status/2051674951602594002
-raw: "[[raw/FrancescoSacco1_2051674951602594002]]"
+raw: '[[raw/FrancescoSacco1_2051674951602594002]]'
 date: 2026-05-05
 type: note
-related: ["sutton-barto-rl-notes", "general-intelligence-rethinking-exploration-2022"]
+description: What Is Curiosity? A Bayesian Bandit Perspective
 ---
 
 # What Is Curiosity? A Bayesian Bandit Perspective

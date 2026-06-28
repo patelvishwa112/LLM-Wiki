@@ -1,12 +1,21 @@
 ---
-title: "How to Read Any Company With AI Like an Analyst"
-tags: ["finance", "agents", "mcp", "coding-tools", "investing", "crypto", "analysis"]
+title: How to Read Any Company With AI Like an Analyst
+tags:
+- finance
+- agents
+- mcp
+- coding-tools
+- investing
+- crypto
+- analysis
 source: https://x.com/gemchange_ltd/status/2060757358297469365
 date: 2026-06-01
 published: 2026-05-30
-authors: ["@gemchange_ltd"]
+authors:
+- '@gemchange_ltd'
 type: bookmark
-raw: "[[raw/x_gemchange_ltd_how-to-read-company-ai-analyst]]"
+raw: '[[raw/x_gemchange_ltd_how-to-read-company-ai-analyst]]'
+description: How to Read Any Company With AI Like an Analyst
 ---
 
 # How to Read Any Company With AI Like an Analyst

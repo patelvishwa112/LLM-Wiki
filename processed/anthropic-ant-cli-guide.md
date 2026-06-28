@@ -1,25 +1,36 @@
 ---
 tags:
-  - anthropic
-  - ant-cli
-  - claude-code
-  - managed-agents
-  - mcp
-  - cli
-  - agents
-  - dev-tools
-  - infrastructure
+- anthropic
+- ant-cli
+- claude-code
+- managed-agents
+- mcp
+- cli
+- agents
+- dev-tools
+- infrastructure
 source: https://x.com/hey_madni/status/2063606029146034375
-raw: "[[raw/hey_madni_2063606029146034375]]"
+raw: '[[raw/hey_madni_2063606029146034375]]'
 date: 2026-06-07
 author: Madni Aghadi (@hey_madni)
 type: bookmark
-summary: "Comprehensive guide to Anthropic's ant CLI — a typed API client for the Claude platform. Covers installation, output formats, the four Managed Agents primitives (Agent, Environment, Session, Events), the full deploy workflow, Dreaming/Outcomes/multi-agent orchestration, self-hosted sandboxes with worker polling, MCP tunnels, Claude Code integration via /claude-api skill, agents-as-code CI/CD, and production shell pipelines. Four major releases in 55 days drove 80x Q1 growth."
+summary: Comprehensive guide to Anthropic's ant CLI — a typed API client for the Claude
+  platform. Covers installation, output formats, the four Managed Agents primitives
+  (Agent, Environment, Session, Events), the full deploy workflow, Dreaming/Outcomes/multi-agent
+  orchestration, self-hosted sandboxes with worker polling, MCP tunnels, Claude Code
+  integration via /claude-api skill, agents-as-code CI/CD, and production shell pipelines.
+  Four major releases in 55 days drove 80x Q1 growth.
 related:
-  - "[[claude-managed-agents]]"
-  - "[[managed-agents-sandbox-mcp]]"
-  - "[[managed-agents-dreaming-orchestration]]"
-  - "[[claude-code-slash-command-library]]"
+- '[[claude-managed-agents]]'
+- '[[managed-agents-sandbox-mcp]]'
+- '[[managed-agents-dreaming-orchestration]]'
+- '[[claude-code-slash-command-library]]'
+description: Comprehensive guide to Anthropic's ant CLI — a typed API client for the
+  Claude platform. Covers installation, output formats, the four Managed Agents primitives
+  (Agent, Environment, Session, Events), the full deploy workflow, Dreaming/Outcomes/multi-agent
+  orchestration, self-hosted sandboxes with worker polling, MCP tunnels, Claude Code
+  integration via /claude-api skill, agents-as-code CI/CD, and production shell pipelines.
+  Four major releases in 55 days drove 80x Q1 growth.
 ---
 
 # Anthropic's ant CLI — Full Guide

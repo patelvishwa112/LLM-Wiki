@@ -3,9 +3,15 @@ title: Persona Vectors
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [interpretability, persona-vectors, alignment]
-sources: [raw/anthropic/articles/anthropic-research-persona-vectors.md, raw/anthropic/articles/anthropic-research-persona-selection-model.md]
+tags:
+- interpretability
+- persona-vectors
+- alignment
+sources:
+- raw/anthropic/articles/anthropic-research-persona-vectors.md
+- raw/anthropic/articles/anthropic-research-persona-selection-model.md
 confidence: high
+description: Persona Vectors
 ---
 
 # Persona Vectors

@@ -1,12 +1,22 @@
 ---
-tags: ["mechanistic-interpretability", "probing", "patching", "faithfulness", "encoding-deployment-gap", "superposition", "experiment", "mlx", "qwen"]
+tags:
+- mechanistic-interpretability
+- probing
+- patching
+- faithfulness
+- encoding-deployment-gap
+- superposition
+- experiment
+- mlx
+- qwen
 type: experiment
 date: 2026-05-27
 project: ~/Projects/ghost-in-residual-stream/
 repo: ghost-in-residual-stream
 model: Qwen2.5-0.5B-Instruct (MLX 4-bit)
 hardware: Apple M1 Mac Mini, 8GB RAM
-related: ["[[priests-of-agi-interpretability-crisis]]", "[[sparse-autoencoders]]", "[[superposition]]", "[[mechanistic-interpretability]]"]
+description: 'The Ghost in the Residual Stream: I Probed Every Layer of a 0.5B Model
+  and Found Something Weird'
 ---
 
 # The Ghost in the Residual Stream: I Probed Every Layer of a 0.5B Model and Found Something Weird

@@ -1,11 +1,16 @@
 ---
-tags: ["claude-cowork", "agents", "prompt-engineering", "skills"]
+tags:
+- claude-cowork
+- agents
+- prompt-engineering
+- skills
 source: https://x.com/shmidtqq/status/2053107967898140931
-raw: "[[raw/shmidtqq_2053107967898140931]]"
+raw: '[[raw/shmidtqq_2053107967898140931]]'
 date: 2026-05-09
 type: processed-note
 related:
-  - "[[claude-cowork-60-power-moves]]"
+- '[[claude-cowork-60-power-moves]]'
+description: Building Claude Cowork Plugins That Actually Work
 ---
 
 # Building Claude Cowork Plugins That Actually Work

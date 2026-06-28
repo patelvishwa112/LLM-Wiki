@@ -1,8 +1,14 @@
 ---
-tags: ["claude-code", "self-correction", "hooks", "claude-md", "engineering"]
+tags:
+- claude-code
+- self-correction
+- hooks
+- claude-md
+- engineering
 source: https://x.com/zodchiii/status/2059563487676784696
 date: 2026-05-27
 type: bookmark
+description: How to Make Claude Code Fix Its Own Mistakes Automatically
 ---
 
 # How to Make Claude Code Fix Its Own Mistakes Automatically

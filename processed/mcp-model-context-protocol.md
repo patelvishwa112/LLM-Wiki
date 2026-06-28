@@ -1,12 +1,39 @@
 ---
-tags: [mcp, model-context-protocol, agent-architecture, agents, prompt-engineering, agent-ops]
+tags:
+- mcp
+- model-context-protocol
+- agent-architecture
+- agents
+- prompt-engineering
+- agent-ops
 source: https://x.com/imarun_chauhan/status/2068272573805367561
 type: bookmark
-related: [[native-mcp], [mcp-builder], [agent-architecture], [iii-agent-harness-workers]]
-summary: |
-  "Arun Chauhan (@imarun_chauhan) explains Model Context Protocol (MCP) as an open-source standard that unifies how AI agents connect to external tools, data sources, and workflows. Contrasts fragmented custom integrations (Before) with a single standardized MCP layer (After). Includes a detailed 11-panel infographic showing architecture, flow (User → MCP Client → LangGraph → GPT → MCP Server → External APIs), perspectives, lifecycle, and protocol details."
-why_it_matters: |
-  "MCP is a foundational protocol for agent interoperability and tool use (directly relevant to the vault's native-mcp and mcp-builder skills). The visual architecture and before/after framing provide clear mental models for agent-harness design. Emphasizes standardization over custom per-tool plumbing — a key pattern for scalable agent systems."
+related:
+- - native-mcp
+- - mcp-builder
+- - agent-architecture
+- - iii-agent-harness-workers
+summary: '"Arun Chauhan (@imarun_chauhan) explains Model Context Protocol (MCP) as
+  an open-source standard that unifies how AI agents connect to external tools, data
+  sources, and workflows. Contrasts fragmented custom integrations (Before) with a
+  single standardized MCP layer (After). Includes a detailed 11-panel infographic
+  showing architecture, flow (User → MCP Client → LangGraph → GPT → MCP Server → External
+  APIs), perspectives, lifecycle, and protocol details."
+
+  '
+why_it_matters: '"MCP is a foundational protocol for agent interoperability and tool
+  use (directly relevant to the vault''s native-mcp and mcp-builder skills). The visual
+  architecture and before/after framing provide clear mental models for agent-harness
+  design. Emphasizes standardization over custom per-tool plumbing — a key pattern
+  for scalable agent systems."
+
+  '
+description: '"Arun Chauhan (@imarun_chauhan) explains Model Context Protocol (MCP)
+  as an open-source standard that unifies how AI agents connect to external tools,
+  data sources, and workflows. Contrasts fragmented custom integrations (Before) with
+  a single standardized MCP layer (After). Includes a detailed 11-panel infographic
+  showing architecture, flow (User → MCP Client → LangGraph → GPT → MCP Server → External
+  APIs), perspectives, lifecycle, and protocol details."'
 ---
 
 # What is MCP (Model Context Protocol)?

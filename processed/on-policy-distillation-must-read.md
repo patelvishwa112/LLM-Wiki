@@ -1,10 +1,14 @@
 ---
-tags: ["training", "on-policy-distillation", "rl", "distillation"]
+tags:
+- training
+- on-policy-distillation
+- rl
+- distillation
 source: https://x.com/adithya_s_k/status/2054558351116447861
-raw: "[[raw/adithya_s_k_2054558351116447861]]"
+raw: '[[raw/adithya_s_k_2054558351116447861]]'
 date: 2026-05-13
 type: note
-related: ["on-policy-distillation-resources-2026"]
+description: 'On-Policy Distillation: Must-Read Articles'
 ---
 
 # On-Policy Distillation: Must-Read Articles

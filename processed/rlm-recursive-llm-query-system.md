@@ -1,12 +1,18 @@
 ---
-tags: ["agents", "multi-agent", "architecture", "prompt-engineering", "rl"]
+tags:
+- agents
+- multi-agent
+- architecture
+- prompt-engineering
+- rl
 source: https://x.com/neural_avb/status/2054906931664585027
-raw: "[[raw/neural_avb_2054906931664585027]]"
+raw: '[[raw/neural_avb_2054906931664585027]]'
 date: 2026-05-14
 type: processed-note
 related:
-  - "[[iii-agent-harness-workers]]"
-  - "[[coding-agent-harness-eight-pillars]]"
+- '[[iii-agent-harness-workers]]'
+- '[[coding-agent-harness-eight-pillars]]'
+description: 'RLM: Recursive LLM Querying System Prompt'
 ---
 
 # RLM: Recursive LLM Querying System Prompt

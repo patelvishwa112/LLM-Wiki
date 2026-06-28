@@ -1,8 +1,19 @@
 ---
-tags: [token-capital, ai-scaffolding, process-design, feedback-loops, governance, human-capital, enterprise-ai, compounding-systems, agent-architecture, meta-learning]
+tags:
+- token-capital
+- ai-scaffolding
+- process-design
+- feedback-loops
+- governance
+- human-capital
+- enterprise-ai
+- compounding-systems
+- agent-architecture
+- meta-learning
 source: https://x.com/mardehaym/status/2067547456993177984
 type: bookmark
 ingested: 2026-06-18
+description: Token Capital Requires Scaffolding, Process, and Governance
 ---
 
 # Token Capital Requires Scaffolding, Process, and Governance

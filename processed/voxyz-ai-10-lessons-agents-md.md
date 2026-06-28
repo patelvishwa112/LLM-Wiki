@@ -1,14 +1,22 @@
 ---
-title: "10 Lessons from Shipping with AI Coding Agents (AGENTS.md / CLAUDE.md)"
-tags: ["agents", "claude-code", "codex", "prompt-engineering", "agent-ops", "agents-md", "claude-md"]
+title: 10 Lessons from Shipping with AI Coding Agents (AGENTS.md / CLAUDE.md)
+tags:
+- agents
+- claude-code
+- codex
+- prompt-engineering
+- agent-ops
+- agents-md
+- claude-md
 source: https://x.com/voxyz_ai/status/2060753730643837205
-raw: "[[raw/voxyz_ai_2060753730643837205]]"
+raw: '[[raw/voxyz_ai_2060753730643837205]]'
 date: 2026-05-30
 published: 2026-05-30
-authors: ["Vox (@Voxyz_ai)"]
+authors:
+- Vox (@Voxyz_ai)
 type: article
-related: ["[[raw/voxyz_ai_2060753730643837205]]"]
 status: processed
+description: 10 Lessons from Shipping with AI Coding Agents
 ---
 
 # 10 Lessons from Shipping with AI Coding Agents
@@ -70,3 +78,7 @@ The entry file grows like a test suite. Every repeated mistake becomes a more sp
 ## Source
 
 [Original X post by @Voxyz_ai](https://x.com/voxyz_ai/status/2060753730643837205)
+
+## Related
+
+- [[raw/voxyz_ai_2060753730643837205]]

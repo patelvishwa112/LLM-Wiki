@@ -1,13 +1,20 @@
 ---
-title: "Dynamic Workflows — The Plan Moves Out of Chat"
-tags: ["claude-code", "workflows", "agents", "subagents", "orchestration", "architecture"]
+title: Dynamic Workflows — The Plan Moves Out of Chat
+tags:
+- claude-code
+- workflows
+- agents
+- subagents
+- orchestration
+- architecture
 source: https://x.com/voxyz_ai/status/2061782441606451381
 date: 2026-06-02
 published: 2026-06-02
-authors: ["Vox (@Voxyz_ai)"]
+authors:
+- Vox (@Voxyz_ai)
 type: bookmark
-raw: "[[raw/voxyz_ai_2061782441606451381]]"
-related: ["[[opus-48-token-economy-guide]]"]
+raw: '[[raw/voxyz_ai_2061782441606451381]]'
+description: Claude Code Dynamic Workflows — Vox's 5 Rules
 ---
 
 # Claude Code Dynamic Workflows — Vox's 5 Rules
@@ -54,3 +61,7 @@ References:
 - Anthropic blog: Introducing Dynamic Workflows in Claude Code
 - Docs: code.claude.com/docs/en/workflows
 - Agents docs: code.claude.com/docs/en/agents
+
+## Related
+
+- [[opus-48-token-economy-guide]]

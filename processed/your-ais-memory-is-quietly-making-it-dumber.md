@@ -1,11 +1,26 @@
 ---
-tags: [agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]
+tags:
+- agents
+- agent-memory
+- claude-md
+- skills
+- agent-harness
+- context-management
+- claude-code
+- agents-md
 source: https://x.com/mvanhorn/status/2070966613994795489
 date: 2026-06-28
 type: bookmark
 author: mvanhorn
-summary: "Matt Van Horn cut 218 auto-loaded memory files to six after the harness silently truncated a 46KB index; argues push memory and bloated CLAUDE.md degrade adherence, and skill-specific lessons belong in versioned skills as PRs—not private memory journals."
-raw: "[[raw/mvanhorn_2070966613994795489]]"
+summary: Matt Van Horn cut 218 auto-loaded memory files to six after the harness silently
+  truncated a 46KB index; argues push memory and bloated CLAUDE.md degrade adherence,
+  and skill-specific lessons belong in versioned skills as PRs—not private memory
+  journals.
+raw: '[[raw/mvanhorn_2070966613994795489]]'
+description: Matt Van Horn cut 218 auto-loaded memory files to six after the harness
+  silently truncated a 46KB index; argues push memory and bloated CLAUDE.md degrade
+  adherence, and skill-specific lessons belong in versioned skills as PRs—not private
+  memory journals.
 ---
 
 # Your AI's Memory Is Quietly Making It Dumber

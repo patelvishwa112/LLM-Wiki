@@ -1,11 +1,25 @@
 ---
-tags: ["loop-engineering", "agents", "agent-harness", "context-engineering", "claude-code", "prompt-engineering", "production", "evals"]
+tags:
+- loop-engineering
+- agents
+- agent-harness
+- context-engineering
+- claude-code
+- prompt-engineering
+- production
+- evals
 source: https://x.com/akshay_pachaar/status/2069118430582866051
 date: 2026-06-23
 type: bookmark
 author: akshay_pachaar
-summary: "Accessible loop-engineering primer: the while-loop is solved; value is harness + brakes (completion checks, context rot, idempotent tools, critic). Boris Cherny builds loops, not prompts; same model + better loop can jump benchmark ranks."
-raw: "[[raw/akshay_pachaar_2069118430582866051]]"
+summary: 'Accessible loop-engineering primer: the while-loop is solved; value is harness
+  + brakes (completion checks, context rot, idempotent tools, critic). Boris Cherny
+  builds loops, not prompts; same model + better loop can jump benchmark ranks.'
+raw: '[[raw/akshay_pachaar_2069118430582866051]]'
+description: 'Accessible loop-engineering primer: the while-loop is solved; value
+  is harness + brakes (completion checks, context rot, idempotent tools, critic).
+  Boris Cherny builds loops, not prompts; same model + better loop can jump benchmark
+  ranks.'
 ---
 
 # Loop Engineering Clearly Explained

@@ -1,13 +1,21 @@
 ---
-title: "COLLEAGUE.SKILL — Expertise as Editable, Versioned Files"
-tags: ["skills", "agents", "agent-skills", "knowledge-capture", "claude-code", "hermes"]
+title: COLLEAGUE.SKILL — Expertise as Editable, Versioned Files
+tags:
+- skills
+- agents
+- agent-skills
+- knowledge-capture
+- claude-code
+- hermes
 source: https://x.com/alphasignalai/status/2061521674546119026
 date: 2026-06-02
 published: 2026-06-01
-authors: ["AlphaSignal AI", "Shanghai AI Lab"]
+authors:
+- AlphaSignal AI
+- Shanghai AI Lab
 type: bookmark
-raw: "[[raw/alphasignalai_2061521674546119026]]"
-related: ["[[rethinking-search-as-code-generation]]"]
+raw: '[[raw/alphasignalai_2061521674546119026]]'
+description: COLLEAGUE.SKILL — dot-skill Paper from Shanghai AI Lab
 ---
 
 # COLLEAGUE.SKILL — dot-skill Paper from Shanghai AI Lab
@@ -49,3 +57,7 @@ Key caution: persona tagging can encode bias. Hermes's persona is already define
 - Repo: https://github.com/titanwings/colleague-skill
 - Gallery: https://titanwings.github.io/colleague-skill-site/
 - Agent Skills standard: https://agentskills.io/home
+
+## Related
+
+- [[rethinking-search-as-code-generation]]

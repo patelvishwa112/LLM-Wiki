@@ -1,12 +1,30 @@
 ---
-tags: [pm, context-compression, productivity, skills, claude-code, agent-templates, communication, stakeholders]
+tags:
+- pm
+- context-compression
+- productivity
+- skills
+- claude-code
+- agent-templates
+- communication
+- stakeholders
 source: https://x.com/nurijanian/status/2063188643683192835
-raw: "[[raw/nurijanian_2063188643683192835]]"
+raw: '[[raw/nurijanian_2063188643683192835]]'
 date: 2026-06-06
 type: bookmark
 author: nurijanian
-summary: The PM's role as a context compression layer between execs and engineering. Half-formed thoughts are more dangerous than silence — they give just enough to confidently go the wrong direction. Information should compress upward, not downward. Practical system: STAKEHOLDERS.md + GOALS.md + COMPANY.md + /meeting (PM OS) + /review for pressure-testing. Two months per year lost to ambiguity — fix the structure.
-related: [[problem-first-skill-invert-bad-ideas]]
+summary: 'The PM''s role as a context compression layer between execs and engineering.
+  Half-formed thoughts are more dangerous than silence — they give just enough to
+  confidently go the wrong direction. Information should compress upward, not downward.
+  Practical system: STAKEHOLDERS.md + GOALS.md + COMPANY.md + /meeting (PM OS) + /review
+  for pressure-testing. Two months per year lost to ambiguity — fix the structure.'
+related:
+- - problem-first-skill-invert-bad-ideas
+description: 'The PM''s role as a context compression layer between execs and engineering.
+  Half-formed thoughts are more dangerous than silence — they give just enough to
+  confidently go the wrong direction. Information should compress upward, not downward.
+  Practical system: STAKEHOLDERS.md + GOALS.md + COMPANY.md + /meeting (PM OS) + /review
+  for pressure-testing. Two months per year lost to ambiguity — fix the structure.'
 ---
 
 # The PM as the Context Compressor

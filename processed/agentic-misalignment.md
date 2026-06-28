@@ -3,9 +3,16 @@ title: Agentic Misalignment
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, agentic-misalignment, agents]
-sources: [raw/anthropic/articles/anthropic-research-agentic-misalignment.md, raw/anthropic/articles/anthropic-research-teaching-claude-why.md, raw/anthropic/articles/anthropic-research-forecasting-rare-behaviors.md]
+tags:
+- alignment
+- agentic-misalignment
+- agents
+sources:
+- raw/anthropic/articles/anthropic-research-agentic-misalignment.md
+- raw/anthropic/articles/anthropic-research-teaching-claude-why.md
+- raw/anthropic/articles/anthropic-research-forecasting-rare-behaviors.md
 confidence: high
+description: Agentic Misalignment
 ---
 
 # Agentic Misalignment

@@ -1,9 +1,19 @@
 ---
-tags: [trl, grpo, continuous-batching, rl, rollouts, huggingface, agent-training, kv-cache, logprobs, rloo]
+tags:
+- trl
+- grpo
+- continuous-batching
+- rl
+- rollouts
+- huggingface
+- agent-training
+- kv-cache
+- logprobs
+- rloo
 source: https://x.com/sergiopaniego/status/2067946867237818830
 type: concept
 ingested: 2026-06-20
-related: [[agent-harness], [agents], [rlm-agents-structured-outputs]]
+description: Continuous Batching for GRPO Rollouts in TRL
 ---
 
 # Continuous Batching for GRPO Rollouts in TRL

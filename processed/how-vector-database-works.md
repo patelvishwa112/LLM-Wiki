@@ -1,10 +1,23 @@
 ---
-tags: [vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search, indexing]
+tags:
+- vector-database
+- embeddings
+- similarity-search
+- ann
+- hnsw
+- ivf
+- pq
+- faiss
+- cosine-similarity
+- rag
+- semantic-search
+- indexing
 source: https://outcomeschool.com/blog/how-does-a-vector-database-work
-raw: "[[raw/outcomeschool_vector-database]]"
+raw: '[[raw/outcomeschool_vector-database]]'
 type: article
 author: Amit Shekhar (Outcome School)
 date: 2026-06-05
+description: How Does a Vector Database Work?
 ---
 
 # How Does a Vector Database Work?

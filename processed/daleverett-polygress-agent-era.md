@@ -1,8 +1,15 @@
 ---
-tags: [postgres, polygress, agent-era, database, agent-architecture, ml-infra]
+tags:
+- postgres
+- polygress
+- agent-era
+- database
+- agent-architecture
+- ml-infra
 source: https://x.com/daleverett/status/2066210160876683667?s=46
 type: bookmark
 ingested: 2026-06-20
+description: 'Polygress: Postgres for the Agent era'
 ---
 
 # Polygress: Postgres for the Agent era

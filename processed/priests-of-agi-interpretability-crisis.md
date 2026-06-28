@@ -1,8 +1,16 @@
 ---
-tags: ["interpretability", "faithfulness", "sae", "probes", "saliency", "critique", "anthropic"]
+tags:
+- interpretability
+- faithfulness
+- sae
+- probes
+- saliency
+- critique
+- anthropic
 source: https://x.com/juliusadml/status/2055042139869045110
 date: 2026-05-14
 type: bookmark
+description: Priests of AGI
 ---
 
 # Priests of AGI

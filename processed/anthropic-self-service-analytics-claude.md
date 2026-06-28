@@ -1,24 +1,37 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - data-analytics
-  - skills
-  - enterprise
-  - evals
-  - agent-ops
-  - semantic-layer
-  - data-engineering
+- anthropic
+- claude-code
+- data-analytics
+- skills
+- enterprise
+- evals
+- agent-ops
+- semantic-layer
+- data-engineering
 source: https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
-raw: "[[raw/anthropic-self-service-analytics-claude]]"
+raw: '[[raw/anthropic-self-service-analytics-claude]]'
 date: 2026-06-03
 author: Chen Chang, Clement Peng, Justin Leder, Johanne Jiao, Josh Cherry (Anthropic)
 type: bookmark
-summary: "Anthropic's internal self-service analytics system: 95% of business queries automated via Claude at ~95% accuracy. Four-layer stack: data foundations (canonical datasets, colocated artifacts, metadata as product), sources of truth (semantic layer, lineage, business context), skills (pairwise routing + domain docs, 21% → 95%+ accuracy), and validation (offline evals, ablations, adversarial review, provenance footers, active correction harvesting). Three failure modes: entity ambiguity, staleness, retrieval failure."
+summary: 'Anthropic''s internal self-service analytics system: 95% of business queries
+  automated via Claude at ~95% accuracy. Four-layer stack: data foundations (canonical
+  datasets, colocated artifacts, metadata as product), sources of truth (semantic
+  layer, lineage, business context), skills (pairwise routing + domain docs, 21% →
+  95%+ accuracy), and validation (offline evals, ablations, adversarial review, provenance
+  footers, active correction harvesting). Three failure modes: entity ambiguity, staleness,
+  retrieval failure.'
 related:
-  - "[[harness-engineering-2026-discipline]]"
-  - "[[claude-code-slash-command-library]]"
-  - "[[15-claude-skills-that-stuck-vaibhav-sisinty]]"
+- '[[harness-engineering-2026-discipline]]'
+- '[[claude-code-slash-command-library]]'
+- '[[15-claude-skills-that-stuck-vaibhav-sisinty]]'
+description: 'Anthropic''s internal self-service analytics system: 95% of business
+  queries automated via Claude at ~95% accuracy. Four-layer stack: data foundations
+  (canonical datasets, colocated artifacts, metadata as product), sources of truth
+  (semantic layer, lineage, business context), skills (pairwise routing + domain docs,
+  21% → 95%+ accuracy), and validation (offline evals, ablations, adversarial review,
+  provenance footers, active correction harvesting). Three failure modes: entity ambiguity,
+  staleness, retrieval failure.'
 ---
 
 # Anthropic Self-Service Analytics with Claude

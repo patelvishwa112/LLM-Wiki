@@ -1,11 +1,26 @@
 ---
-tags: ["foundation-models", "vlm", "vla", "world-models", "alphaFold", "esm", "multimodal", "architecture"]
+tags:
+- foundation-models
+- vlm
+- vla
+- world-models
+- alphaFold
+- esm
+- multimodal
+- architecture
 source: https://x.com/bqbrady/status/2064055370809778371
 date: 2026-06-08
 type: bookmark
 author: bqbrady
-summary: "Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs (RT-2 lineage + memory harnesses), world models, and biological models (ESM, AlphaFold 2/3). Includes glossary."
-raw: "[[raw/bqbrady_2064055370809778371]]"
+summary: 'Deep, intuition-level survey of foundation model architecture path dependency:
+  image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers,
+  realtime interaction models (Moshi-style), VLAs (RT-2 lineage + memory harnesses),
+  world models, and biological models (ESM, AlphaFold 2/3). Includes glossary.'
+raw: '[[raw/bqbrady_2064055370809778371]]'
+description: 'Deep, intuition-level survey of foundation model architecture path dependency:
+  image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers,
+  realtime interaction models (Moshi-style), VLAs (RT-2 lineage + memory harnesses),
+  world models, and biological models (ESM, AlphaFold 2/3). Includes glossary.'
 ---
 
 # Notes on Foundation Models

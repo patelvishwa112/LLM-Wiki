@@ -1,8 +1,22 @@
 ---
-tags: [github-copilot, token-efficiency, prompt-caching, tool-search, agent-harness, vscode, anthropic, openai, cost-optimization, latency, mcp, prompt-engineering, agent-architecture]
+tags:
+- github-copilot
+- token-efficiency
+- prompt-caching
+- tool-search
+- agent-harness
+- vscode
+- anthropic
+- openai
+- cost-optimization
+- latency
+- mcp
+- prompt-engineering
+- agent-architecture
 source: https://code.visualstudio.com/blogs/2026/06/17/improving-token-efficiency-in-github-copilot
 type: bookmark
 ingested: 2026-06-19
+description: Improving Token Efficiency in GitHub Copilot Agentic Harness (VS Code)
 ---
 
 # Improving Token Efficiency in GitHub Copilot Agentic Harness (VS Code)

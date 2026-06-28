@@ -1,18 +1,19 @@
 ---
 tags:
-  - agents
-  - context-engineering
-  - harness-engineering
-  - agent-memory
-  - orchestration
-  - project-ideas
-  - claude-code
+- agents
+- context-engineering
+- harness-engineering
+- agent-memory
+- orchestration
+- project-ideas
+- claude-code
 created: 2026-05-30
 source: Claude Code DeepSeek V4 Pro research session
 type: research-synthesis
 related:
-  - "[[Llama SAE Interpretability Project]]"
-  - "[[Bookmarks Index]]"
+- '[[Llama SAE Interpretability Project]]'
+- '[[Bookmarks Index]]'
+description: Agent Systems & Context Engineering — Project Ideas (2026)
 ---
 
 # Agent Systems & Context Engineering — Project Ideas (2026)

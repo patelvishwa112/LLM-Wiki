@@ -1,12 +1,34 @@
 ---
-tags: [agent-loops, wtf-is-a-loop, skills, agent-architecture, prompt-engineering, self-improving-systems]
+tags:
+- agent-loops
+- wtf-is-a-loop
+- skills
+- agent-architecture
+- prompt-engineering
+- self-improving-systems
 source: https://x.com/anatolikopadze/status/2068328135611822149
 type: bookmark
-related: [[wtf-is-a-loop], [self-improvement-loop-for-skills-zach-lloyd], [wtf-is-a-loop-part-2-15-loops-ai-agents]]
-summary: |
-  "Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift from one-prompt-at-a-time usage to autonomous iterative workflows. A real loop requires Goal + Verify (the most critical element) + State + Stop condition. Includes when loops are worth building, coding applications, cost considerations, and a lightweight tool (Mira) for non-engineers."
-why_it_matters: |
-  "Directly complements the vault's existing loop and agent-harness content. Strong emphasis on verifiable outcomes, sub-agents (maker/checker separation), and cost-per-accepted-change tracking. Provides practical entry points (simple self-checking prompts) and clear decision criteria for when to invest in loops vs. normal prompting."
+related:
+- - wtf-is-a-loop
+- - self-improvement-loop-for-skills-zach-lloyd
+- - wtf-is-a-loop-part-2-15-loops-ai-agents
+summary: '"Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift from one-prompt-at-a-time
+  usage to autonomous iterative workflows. A real loop requires Goal + Verify (the
+  most critical element) + State + Stop condition. Includes when loops are worth building,
+  coding applications, cost considerations, and a lightweight tool (Mira) for non-engineers."
+
+  '
+why_it_matters: '"Directly complements the vault''s existing loop and agent-harness
+  content. Strong emphasis on verifiable outcomes, sub-agents (maker/checker separation),
+  and cost-per-accepted-change tracking. Provides practical entry points (simple self-checking
+  prompts) and clear decision criteria for when to invest in loops vs. normal prompting."
+
+  '
+description: '"Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift from
+  one-prompt-at-a-time usage to autonomous iterative workflows. A real loop requires
+  Goal + Verify (the most critical element) + State + Stop condition. Includes when
+  loops are worth building, coding applications, cost considerations, and a lightweight
+  tool (Mira) for non-engineers."'
 ---
 
 # AI Loops: From One Prompt to Autonomous Workflows

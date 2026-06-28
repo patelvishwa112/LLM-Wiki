@@ -1,10 +1,16 @@
 ---
-tags: ["interpretability", "safety", "anthropic", "nla", "autoencoders", "activation-engineering"]
+tags:
+- interpretability
+- safety
+- anthropic
+- nla
+- autoencoders
+- activation-engineering
 source: https://x.com/AnthropicAI/status/2052435436157452769
-raw: "[[raw/AnthropicAI_2052435436157452769]]"
+raw: '[[raw/AnthropicAI_2052435436157452769]]'
 date: 2026-05-07
 type: note
-related: ["priests-of-agi-interpretability-crisis", "goodfire-parameter-decomposition-interpretability"]
+description: 'Anthropic: Natural Language Autoencoders'
 ---
 
 # Anthropic: Natural Language Autoencoders

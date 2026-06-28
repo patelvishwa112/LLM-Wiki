@@ -1,12 +1,30 @@
 ---
-tags: ["llm", "training", "tokenization", "alignment", "rlhf", "data", "evaluation", "transformer", "pretraining", "sft"]
+tags:
+- llm
+- training
+- tokenization
+- alignment
+- rlhf
+- data
+- evaluation
+- transformer
+- pretraining
+- sft
 source: https://x.com/sairahul1/status/2066076937806856661
 date: 2026-06-14
 type: bookmark
 author: sairahul1
-title: "How To Build Your Own LLM from Scratch (The 5-Stage Pipeline Behind GPT and Claude)"
-summary: "A complete 5-stage pipeline for building a working LLM from scratch: data cleaning, BPE tokenization, decoder-only transformer training with next-token prediction, SFT + RLHF alignment, and evaluation with perplexity + human benchmarks. Includes minimal PyTorch code and 5 niche LLM product ideas."
-raw: "[[raw/sairahul1_2066076937806856661]]"
+title: How To Build Your Own LLM from Scratch (The 5-Stage Pipeline Behind GPT and
+  Claude)
+summary: 'A complete 5-stage pipeline for building a working LLM from scratch: data
+  cleaning, BPE tokenization, decoder-only transformer training with next-token prediction,
+  SFT + RLHF alignment, and evaluation with perplexity + human benchmarks. Includes
+  minimal PyTorch code and 5 niche LLM product ideas.'
+raw: '[[raw/sairahul1_2066076937806856661]]'
+description: 'A complete 5-stage pipeline for building a working LLM from scratch:
+  data cleaning, BPE tokenization, decoder-only transformer training with next-token
+  prediction, SFT + RLHF alignment, and evaluation with perplexity + human benchmarks.
+  Includes minimal PyTorch code and 5 niche LLM product ideas.'
 ---
 
 ## Key Takeaways

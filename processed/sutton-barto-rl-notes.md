@@ -1,10 +1,14 @@
 ---
-tags: ["rl", "sutton-barto", "books", "notes"]
+tags:
+- rl
+- sutton-barto
+- books
+- notes
 source: https://x.com/latentchiz/status/2054605079349485675
-raw: "[[raw/latentchiz_2054605079349485675]]"
+raw: '[[raw/latentchiz_2054605079349485675]]'
 date: 2026-03-30
 type: note
-related: ["alphago-mcts-llm-rl-dwarkesh-eric-jang", "rl-environments-guide-llm", "curiosity-bayesian-bandit"]
+description: Sutton & Barto RL Notes — Parts I & II
 ---
 
 # Sutton & Barto RL Notes — Parts I & II

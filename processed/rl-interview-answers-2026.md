@@ -1,23 +1,32 @@
 ---
 tags:
-  - rl
-  - rlhf
-  - training
-  - interview-answers
-  - ppo
-  - grpo
-  - infrastructure
-  - async-rl
-  - moe
+- rl
+- rlhf
+- training
+- interview-answers
+- ppo
+- grpo
+- infrastructure
+- async-rl
+- moe
 source: https://x.com/vivek_2332/status/2063566811749331353
-raw: "[[raw/vivek_2332_2063566811749331353]]"
+raw: '[[raw/vivek_2332_2063566811749331353]]'
 date: 2026-06-07
 author: Vivek (@vivek_2332)
 type: bookmark
-summary: "Answers to Xiuyu Li's RL Interview Questions 2026. Covers 15+ algorithm questions (Actor-Critic, PPO/GRPO variants, DPO reward hacking, train-inference mismatch, KL penalty removal, OPD) and 13 infrastructure questions (model copies in GRPO, KV cache, FP8/INT8, async frameworks, Expert Parallelism, staleness, FSDP vs Megatron). Recommends PrimeIntellect over VeRL/TRL/Unsloth/AReaL/slime."
+summary: Answers to Xiuyu Li's RL Interview Questions 2026. Covers 15+ algorithm questions
+  (Actor-Critic, PPO/GRPO variants, DPO reward hacking, train-inference mismatch,
+  KL penalty removal, OPD) and 13 infrastructure questions (model copies in GRPO,
+  KV cache, FP8/INT8, async frameworks, Expert Parallelism, staleness, FSDP vs Megatron).
+  Recommends PrimeIntellect over VeRL/TRL/Unsloth/AReaL/slime.
 related:
-  - "[[rl-interview-questions-2026]]"
-  - "[[rlhf-from-first-principles]]"
+- '[[rl-interview-questions-2026]]'
+- '[[rlhf-from-first-principles]]'
+description: Answers to Xiuyu Li's RL Interview Questions 2026. Covers 15+ algorithm
+  questions (Actor-Critic, PPO/GRPO variants, DPO reward hacking, train-inference
+  mismatch, KL penalty removal, OPD) and 13 infrastructure questions (model copies
+  in GRPO, KV cache, FP8/INT8, async frameworks, Expert Parallelism, staleness, FSDP
+  vs Megatron). Recommends PrimeIntellect over VeRL/TRL/Unsloth/AReaL/slime.
 ---
 
 # RL Interview Answers 2026

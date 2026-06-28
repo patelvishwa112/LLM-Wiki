@@ -1,13 +1,37 @@
 ---
-tags: ["rl", "grpo", "ppo", "dpo", "moe", "deepseek", "training", "advantage", "kl-divergence", "importance-sampling", "reward-design", "opd", "dapo", "gspo", "cispo"]
+tags:
+- rl
+- grpo
+- ppo
+- dpo
+- moe
+- deepseek
+- training
+- advantage
+- kl-divergence
+- importance-sampling
+- reward-design
+- opd
+- dapo
+- gspo
+- cispo
 source: https://www.k-a.in/rl-algo.html
 date: 2026-06-08
 type: bookmark
 author: k-a.in
-title: "RL ALGO — Comprehensive Q&A"
-summary: "Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computation, KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution. Based on Xiuyu Li's interview questions."
-raw: "[[raw/kain_rl-algo]]"
-related: ["[[rlhf-from-first-principles]]", "[[rl-interview-questions-2026]]", "[[rl-interview-answers-2026]]", "[[here-is-the-full-timeline-of-policy-gradients-from]]"]
+title: RL ALGO — Comprehensive Q&A
+summary: Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computation,
+  KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution.
+  Based on Xiuyu Li's interview questions.
+raw: '[[raw/kain_rl-algo]]'
+related:
+- '[[rlhf-from-first-principles]]'
+- '[[rl-interview-questions-2026]]'
+- '[[rl-interview-answers-2026]]'
+- '[[here-is-the-full-timeline-of-policy-gradients-from]]'
+description: Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computation,
+  KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution.
+  Based on Xiuyu Li's interview questions.
 ---
 
 # RL ALGO — Comprehensive Q&A

@@ -1,21 +1,30 @@
 ---
 tags:
-  - mcp
-  - architecture
-  - agents
-  - tools
-  - protocol-design
-  - separation-of-concerns
-  - enterprise
+- mcp
+- architecture
+- agents
+- tools
+- protocol-design
+- separation-of-concerns
+- enterprise
 source: https://x.com/techyoutbe/status/2063553215623577693
-raw: "[[raw/techyoutbe_2063553215623577693]]"
+raw: '[[raw/techyoutbe_2063553215623577693]]'
 date: 2026-06-07
 author: Tech Fusionist (@techyoutbe)
 type: bookmark
-summary: "MCP core architecture broken into a clean mental model: 8 components (User, Host, Client, Server, Tools, Resources, Prompts, Backend), 5 layers, and strict separation of concerns. Key principle: host orchestrates, client communicates, server exposes capabilities, backend does the real work. Covers request lifecycle, deployment shapes, common mistakes, and architectural trade-offs."
+summary: 'MCP core architecture broken into a clean mental model: 8 components (User,
+  Host, Client, Server, Tools, Resources, Prompts, Backend), 5 layers, and strict
+  separation of concerns. Key principle: host orchestrates, client communicates, server
+  exposes capabilities, backend does the real work. Covers request lifecycle, deployment
+  shapes, common mistakes, and architectural trade-offs.'
 related:
-  - "[[50-mcp-servers-guide]]"
-  - "[[generative-ui-is-the-new-frontend]]"
+- '[[50-mcp-servers-guide]]'
+- '[[generative-ui-is-the-new-frontend]]'
+description: 'MCP core architecture broken into a clean mental model: 8 components
+  (User, Host, Client, Server, Tools, Resources, Prompts, Backend), 5 layers, and
+  strict separation of concerns. Key principle: host orchestrates, client communicates,
+  server exposes capabilities, backend does the real work. Covers request lifecycle,
+  deployment shapes, common mistakes, and architectural trade-offs.'
 ---
 
 # MCP Core Architecture Explained

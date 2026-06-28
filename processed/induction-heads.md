@@ -3,9 +3,16 @@ title: Induction Heads
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [interpretability, induction-heads, circuits]
-sources: [raw/anthropic/papers/tcircuits-in-context-learning-and-induction-heads-index.md, raw/anthropic/papers/arxiv-2202.07785.md, raw/anthropic/papers/arxiv-2303.03846.md]
+tags:
+- interpretability
+- induction-heads
+- circuits
+sources:
+- raw/anthropic/papers/tcircuits-in-context-learning-and-induction-heads-index.md
+- raw/anthropic/papers/arxiv-2202.07785.md
+- raw/anthropic/papers/arxiv-2303.03846.md
 confidence: high
+description: Induction Heads
 ---
 
 # Induction Heads

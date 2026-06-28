@@ -1,10 +1,14 @@
 ---
-tags: ["agents", "hermes-agent", "productivity", "agent-frameworks"]
+tags:
+- agents
+- hermes-agent
+- productivity
+- agent-frameworks
 source: https://x.com/shannholmberg/status/2055335043904492011
-raw: "[[raw/shannholmberg_2055335043904492011]]"
+raw: '[[raw/shannholmberg_2055335043904492011]]'
 date: 2026-05-12
 type: bookmark
-related: [[hermes-agent-use-cases-multi-agent-setup]], [[hermes-harness-deep-dive-aparnadhinak]]
+description: Hermes Agent — User Experience and Productivity Impact
 ---
 
 # Hermes Agent — User Experience and Productivity Impact

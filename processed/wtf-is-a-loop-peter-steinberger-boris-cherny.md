@@ -1,11 +1,26 @@
 ---
-tags: ["loops", "agent-orchestration", "skills", "verification", "claude-code", "hermes"]
+tags:
+- loops
+- agent-orchestration
+- skills
+- verification
+- claude-code
+- hermes
 source: https://x.com/mvanhorn/status/2063865685558903149
 date: 2026-06-08
 type: bookmark
 author: mvanhorn
-summary: "Synthesis of the 'design loops that prompt your agents' discourse: loops are cron + decision-maker; lineage ReAct → ralph → /goal → multi-agent supervision; the loop is only as good as its feedback/verification; the expensive resource shifted from tokens to loop management; reusable skills inside the loop are the real asset (not prompts)."
-raw: "[[raw/mvanhorn_2063865685558903149]]"
+summary: 'Synthesis of the ''design loops that prompt your agents'' discourse: loops
+  are cron + decision-maker; lineage ReAct → ralph → /goal → multi-agent supervision;
+  the loop is only as good as its feedback/verification; the expensive resource shifted
+  from tokens to loop management; reusable skills inside the loop are the real asset
+  (not prompts).'
+raw: '[[raw/mvanhorn_2063865685558903149]]'
+description: 'Synthesis of the ''design loops that prompt your agents'' discourse:
+  loops are cron + decision-maker; lineage ReAct → ralph → /goal → multi-agent supervision;
+  the loop is only as good as its feedback/verification; the expensive resource shifted
+  from tokens to loop management; reusable skills inside the loop are the real asset
+  (not prompts).'
 ---
 
 # WTF Is a Loop? Peter Steinberger vs. Boris Cherny

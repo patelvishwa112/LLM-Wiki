@@ -1,11 +1,17 @@
 ---
-tags: ["llm", "transformers", "attention", "kv-cache", "inference", "fundamentals"]
+tags:
+- llm
+- transformers
+- attention
+- kv-cache
+- inference
+- fundamentals
 source: https://x.com/amitiitbhu/status/2037413998279491927
 date: 2026-03-27
 type: bookmark
-author: "Amit Shekhar (@amitiitbhu)"
-raw: "[[raw/amitiitbhu_2037413998279491927]]"
-related: ["[[kv-caching-llms-clearly-explained-avichawla]]", "[[how-vllm-works-amitiitbhu]]", "[[attention-qkv-math-amitiitbhu]]"]
+author: Amit Shekhar (@amitiitbhu)
+raw: '[[raw/amitiitbhu_2037413998279491927]]'
+description: What is KV Cache in LLMs?
 ---
 
 # What is KV Cache in LLMs?
@@ -20,3 +26,9 @@ related: ["[[kv-caching-llms-clearly-explained-avichawla]]", "[[how-vllm-works-a
 ## Summary
 
 Amit Shekhar provides a clear, example-driven explanation of KV Cache in LLMs. Starting from how LLMs generate text token-by-token, he walks through the attention mechanism (Q/K/V), demonstrates the repeated computation problem with a worked example, then shows how KV Cache eliminates it by storing and reusing Key/Value pairs. The article closes with the speed-memory trade-off and a preview of Paged Attention.
+
+## Related
+
+- [[kv-caching-llms-clearly-explained-avichawla]]
+- [[how-vllm-works-amitiitbhu]]
+- [[attention-qkv-math-amitiitbhu]]

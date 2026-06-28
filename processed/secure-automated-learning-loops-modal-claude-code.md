@@ -1,11 +1,26 @@
 ---
-tags: ["terse", "modal", "claude-code", "agent-security", "prompt-injection", "litellm", "sandbox", "automated-learning", "workflows", "defense-in-depth"]
+tags:
+- terse
+- modal
+- claude-code
+- agent-security
+- prompt-injection
+- litellm
+- sandbox
+- automated-learning
+- workflows
+- defense-in-depth
 source: https://x.com/oliviersm199/status/2069790892530016547
 date: 2026-06-24
 type: bookmark
 author: oliviersm199
-summary: "Terse CTO Olivier Morissette on weekly workflow review loops via Modal sandboxes and Claude Code, with six application-layer defenses against attacker-controlled code and logs."
-raw: "[[raw/oliviersm199_2069790892530016547]]"
+summary: Terse CTO Olivier Morissette on weekly workflow review loops via Modal sandboxes
+  and Claude Code, with six application-layer defenses against attacker-controlled
+  code and logs.
+raw: '[[raw/oliviersm199_2069790892530016547]]'
+description: Terse CTO Olivier Morissette on weekly workflow review loops via Modal
+  sandboxes and Claude Code, with six application-layer defenses against attacker-controlled
+  code and logs.
 ---
 
 # Secure Automated Learning Loops (Terse, Modal, Claude Code)

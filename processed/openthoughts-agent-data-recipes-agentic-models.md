@@ -1,11 +1,29 @@
 ---
-tags: [training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, huggingface, benchmarks, teacher-model]
+tags:
+- training
+- agents
+- rl
+- sft
+- data-curation
+- agent-traces
+- distillation
+- open-source
+- huggingface
+- benchmarks
+- teacher-model
 source: https://x.com/sergiopaniego/status/2070511769315930493
 date: 2026-06-26
 type: bookmark
 author: sergiopaniego
-summary: "OpenThoughts-Agent: open 6-stage agent training data pipeline (100+ ablations) — task mix/diversity dominates (~30 pts), GLM-4.7 beats GPT-5.3-Codex as teacher, 5+ turn traces, don't rewrite tasks; OpenThinkerAgent-32B 44.8% avg/7 benches; 8B RL wins on pymethods2test, SFT+RL > SFT or RL alone."
-raw: "[[raw/sergiopaniego_2070511769315930493]]"
+summary: 'OpenThoughts-Agent: open 6-stage agent training data pipeline (100+ ablations)
+  — task mix/diversity dominates (~30 pts), GLM-4.7 beats GPT-5.3-Codex as teacher,
+  5+ turn traces, don''t rewrite tasks; OpenThinkerAgent-32B 44.8% avg/7 benches;
+  8B RL wins on pymethods2test, SFT+RL > SFT or RL alone.'
+raw: '[[raw/sergiopaniego_2070511769315930493]]'
+description: 'OpenThoughts-Agent: open 6-stage agent training data pipeline (100+
+  ablations) — task mix/diversity dominates (~30 pts), GLM-4.7 beats GPT-5.3-Codex
+  as teacher, 5+ turn traces, don''t rewrite tasks; OpenThinkerAgent-32B 44.8% avg/7
+  benches; 8B RL wins on pymethods2test, SFT+RL > SFT or RL alone.'
 ---
 
 # OpenThoughts-Agent — Data Recipes for Agentic Models

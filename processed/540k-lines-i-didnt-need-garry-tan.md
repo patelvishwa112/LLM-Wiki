@@ -1,13 +1,23 @@
 ---
-title: "540,000 Lines of Code I Didn't Need — Garry Tan on the Skillify Era"
-tags: ["skills", "agents", "garry-tan", "gstack", "markdown", "code-generation", "testing", "architecture", "skill-pack"]
+title: 540,000 Lines of Code I Didn't Need — Garry Tan on the Skillify Era
+tags:
+- skills
+- agents
+- garry-tan
+- gstack
+- markdown
+- code-generation
+- testing
+- architecture
+- skill-pack
 source: https://x.com/garrytan/status/2061454423034110372
 date: 2026-06-02
 published: 2026-06-01
-authors: ["Garry Tan (@garrytan)"]
+authors:
+- Garry Tan (@garrytan)
 type: bookmark
-raw: "[[raw/garrytan_2061454423034110372]]"
-related: ["[[colleague-skill-dot-skill]]", "[[rethinking-search-as-code-generation]]", "[[hermes-goal-mode-guide]]"]
+raw: '[[raw/garrytan_2061454423034110372]]'
+description: 540,000 Lines I Didn't Need — Garry Tan's Skillify Manifesto
 ---
 
 # 540,000 Lines I Didn't Need — Garry Tan's Skillify Manifesto
@@ -55,3 +65,9 @@ This is the meta-skill for everything we've built today. Hermes already has the 
 The 540K line lesson: Hermes's skill system IS the right architecture. Markdown instructions + thin code + tests. The Foxconn factory is what happens when you bolt 276K lines of tests onto a worker that doesn't need them. The question for your setup: which of your Hermes workflows are skill packs and which are just code you'll regret?
 
 "The scarce resource becomes clarity, taste, and judgment. The engineer who writes the least code is often the one building the most."
+
+## Related
+
+- [[colleague-skill-dot-skill]]
+- [[rethinking-search-as-code-generation]]
+- [[hermes-goal-mode-guide]]

@@ -1,11 +1,16 @@
 ---
-tags: ["agent-harness", "hermes", "architecture", "agents", "analysis"]
-source: "https://x.com/aparnadhinak/status/2060406977357070522"
-raw: "[[raw/aparnadhinak_2060406977357070522]]"
-author: "Aparna Dhinakaran (@aparnadhinak)"
+tags:
+- agent-harness
+- hermes
+- architecture
+- agents
+- analysis
+source: https://x.com/aparnadhinak/status/2060406977357070522
+raw: '[[raw/aparnadhinak_2060406977357070522]]'
+author: Aparna Dhinakaran (@aparnadhinak)
 date: 2026-05-29
 type: analysis
-related: ["iii-agent-harness-workers", "coding-agent-harness-eight-pillars"]
+description: Hermes Agent Harness Deep Dive by Aparna Dhinakaran (May 2026)
 ---
 
 # Hermes Agent Harness Deep Dive by Aparna Dhinakaran (May 2026)

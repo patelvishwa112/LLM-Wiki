@@ -1,10 +1,15 @@
 ---
-tags: ["agents", "hermes-agent", "multi-agent", "productivity", "agent-crews"]
+tags:
+- agents
+- hermes-agent
+- multi-agent
+- productivity
+- agent-crews
 source: https://x.com/vmiss33/status/2050984556790939731
-raw: "[[raw/vmiss33_2050984556790939731]]"
+raw: '[[raw/vmiss33_2050984556790939731]]'
 date: 2026-05-03
 type: bookmark
-related: [[hermes-agent-user-experience]], [[hermes-harness-deep-dive-aparnadhinak]], [[sub-agents-inference-time-scaling]]
+description: Hermes Agent Use Cases — Multi-Agent Setup and Philosophy
 ---
 
 # Hermes Agent Use Cases — Multi-Agent Setup and Philosophy

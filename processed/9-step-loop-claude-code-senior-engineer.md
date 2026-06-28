@@ -1,12 +1,29 @@
 ---
-tags: ["claude-code", "agents", "loop-engineering", "sub-agents", "hooks", "plan-mode", "claude-md", "review", "senior-engineer", "slash-commands"]
+tags:
+- claude-code
+- agents
+- loop-engineering
+- sub-agents
+- hooks
+- plan-mode
+- claude-md
+- review
+- senior-engineer
+- slash-commands
 source: https://x.com/0xmortyx/status/2066469702075920794
 date: 2026-06-15
 type: bookmark
 author: 0xMortyx
-title: "The 9-Step Loop That Turns Claude Code Into a Senior Engineer"
-summary: "A 9-step senior-engineer workflow for Claude Code using plan mode, Explore subagent, CLAUDE.md, hooks, review subagents, and slash commands. Turns ad-hoc prompting into a repeatable disciplined loop: explore → plan → standards → build small → enforce with hooks → test → review → fix → ship via /ship command."
-raw: "[[raw/0xmortyx_2066469702075920794]]"
+title: The 9-Step Loop That Turns Claude Code Into a Senior Engineer
+summary: 'A 9-step senior-engineer workflow for Claude Code using plan mode, Explore
+  subagent, CLAUDE.md, hooks, review subagents, and slash commands. Turns ad-hoc prompting
+  into a repeatable disciplined loop: explore → plan → standards → build small → enforce
+  with hooks → test → review → fix → ship via /ship command.'
+raw: '[[raw/0xmortyx_2066469702075920794]]'
+description: 'A 9-step senior-engineer workflow for Claude Code using plan mode, Explore
+  subagent, CLAUDE.md, hooks, review subagents, and slash commands. Turns ad-hoc prompting
+  into a repeatable disciplined loop: explore → plan → standards → build small → enforce
+  with hooks → test → review → fix → ship via /ship command.'
 ---
 
 ## Key Takeaways

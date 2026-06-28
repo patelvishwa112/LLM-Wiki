@@ -3,9 +3,16 @@ title: Model Welfare
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, model-welfare]
-sources: [raw/anthropic/articles/anthropic-research-exploring-model-welfare.md, raw/anthropic/articles/anthropic-research-end-subset-conversations.md, raw/anthropic/articles/anthropic-research-emotion-concepts-function.md, raw/anthropic/articles/anthropic-research-introspection.md]
+tags:
+- safety
+- model-welfare
+sources:
+- raw/anthropic/articles/anthropic-research-exploring-model-welfare.md
+- raw/anthropic/articles/anthropic-research-end-subset-conversations.md
+- raw/anthropic/articles/anthropic-research-emotion-concepts-function.md
+- raw/anthropic/articles/anthropic-research-introspection.md
 confidence: medium
+description: Model Welfare
 ---
 
 # Model Welfare

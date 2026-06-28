@@ -1,21 +1,31 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - engineering-management
-  - productivity
-  - team-structure
-  - code-review
-  - ai-native
+- anthropic
+- claude-code
+- engineering-management
+- productivity
+- team-structure
+- code-review
+- ai-native
 source: https://claude.com/blog/running-an-ai-native-engineering-org
-raw: "[[raw/anthropic-ai-native-engineering-org]]"
+raw: '[[raw/anthropic-ai-native-engineering-org]]'
 date: 2026-06-03
 author: Fiona Fung (Anthropic, Director of Engineering for Claude Code & Claude Cowork)
 type: bookmark
-summary: "How the Claude Code team restructured for AI-native engineering. Four broken norms: JIT planning replaces roadmaps, ask Claude instead of authors, humans review only domain expertise (Claude handles style/bugs/tests), roles blur (PMs code, engineers design). Three core principles: dogfood, flat team, kill obsolete processes. Three metrics: onboarding ramp, PR cycle time, Claude-assisted commits (100%)."
+summary: 'How the Claude Code team restructured for AI-native engineering. Four broken
+  norms: JIT planning replaces roadmaps, ask Claude instead of authors, humans review
+  only domain expertise (Claude handles style/bugs/tests), roles blur (PMs code, engineers
+  design). Three core principles: dogfood, flat team, kill obsolete processes. Three
+  metrics: onboarding ramp, PR cycle time, Claude-assisted commits (100%).'
 related:
-  - "[[anthropic-claude-code-skills-lessons]]"
-  - "[[harness-engineering-2026-discipline]]"
+- '[[anthropic-claude-code-skills-lessons]]'
+- '[[harness-engineering-2026-discipline]]'
+description: 'How the Claude Code team restructured for AI-native engineering. Four
+  broken norms: JIT planning replaces roadmaps, ask Claude instead of authors, humans
+  review only domain expertise (Claude handles style/bugs/tests), roles blur (PMs
+  code, engineers design). Three core principles: dogfood, flat team, kill obsolete
+  processes. Three metrics: onboarding ramp, PR cycle time, Claude-assisted commits
+  (100%).'
 ---
 
 # Running an AI-Native Engineering Org

@@ -1,11 +1,31 @@
 ---
-tags: ["hermes", "models", "providers", "codex", "claude", "gemini", "deepseek", "openrouter", "nous-portal"]
+tags:
+- hermes
+- models
+- providers
+- codex
+- claude
+- gemini
+- deepseek
+- openrouter
+- nous-portal
 source: https://x.com/zaimiri/status/2063694809592635430
 date: 2026-06-07
 type: bookmark
 author: zaimiri
-summary: "Practical model stack for Hermes Agent: Codex OAuth as the default daily driver (removes per-token anxiety for long loops), Claude Sonnet 4.6 for high-trust review, Gemini 2.5 Pro for long-context reading, DeepSeek V3.2 or Qwen3 Coder for cheap volume work, OpenRouter for flexibility, and Nous Portal for one-login simplicity. Stresses that the 'best' model is the one you can afford to run for hours without hesitation."
-raw: "[[raw/zaimiri_2063694809592635430]]"
+summary: 'Practical model stack for Hermes Agent: Codex OAuth as the default daily
+  driver (removes per-token anxiety for long loops), Claude Sonnet 4.6 for high-trust
+  review, Gemini 2.5 Pro for long-context reading, DeepSeek V3.2 or Qwen3 Coder for
+  cheap volume work, OpenRouter for flexibility, and Nous Portal for one-login simplicity.
+  Stresses that the ''best'' model is the one you can afford to run for hours without
+  hesitation.'
+raw: '[[raw/zaimiri_2063694809592635430]]'
+description: 'Practical model stack for Hermes Agent: Codex OAuth as the default daily
+  driver (removes per-token anxiety for long loops), Claude Sonnet 4.6 for high-trust
+  review, Gemini 2.5 Pro for long-context reading, DeepSeek V3.2 or Qwen3 Coder for
+  cheap volume work, OpenRouter for flexibility, and Nous Portal for one-login simplicity.
+  Stresses that the ''best'' model is the one you can afford to run for hours without
+  hesitation.'
 ---
 
 # The Best Models For Hermes Agent

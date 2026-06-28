@@ -1,23 +1,34 @@
 ---
 tags:
-  - security
-  - anthropic
-  - claude-code
-  - vulnerability-scanning
-  - skills
-  - enterprise
-  - threat-modeling
-  - sandbox
-  - agent-ops
+- security
+- anthropic
+- claude-code
+- vulnerability-scanning
+- skills
+- enterprise
+- threat-modeling
+- sandbox
+- agent-ops
 source: https://claude.com/blog/using-llms-to-secure-source-code
-raw: "[[raw/anthropic-securing-source-code-llms]]"
+raw: '[[raw/anthropic-securing-source-code-llms]]'
 date: 2026-05-27
 author: Eugene Yan, Henna Dattani, et al. (Anthropic)
 type: bookmark
-summary: "Anthropic's guide to using Claude Opus for security: a 6-step find-and-fix loop (threat model → sandbox → discovery → verification → triage → patching). Key insight: discovery is now easy to parallelize; the bottleneck is verification, triage, and patching. 1,596 OSS vulns disclosed, 97 patched. Well-defined threat model → 90% exploitable findings. Adversarial verifier halves non-exploitables; PoC requirement → near-zero FPR."
+summary: 'Anthropic''s guide to using Claude Opus for security: a 6-step find-and-fix
+  loop (threat model → sandbox → discovery → verification → triage → patching). Key
+  insight: discovery is now easy to parallelize; the bottleneck is verification, triage,
+  and patching. 1,596 OSS vulns disclosed, 97 patched. Well-defined threat model →
+  90% exploitable findings. Adversarial verifier halves non-exploitables; PoC requirement
+  → near-zero FPR.'
 related:
-  - "[[anthropic-self-service-analytics-claude]]"
-  - "[[nvidia-skillspector-security-scanner]]"
+- '[[anthropic-self-service-analytics-claude]]'
+- '[[nvidia-skillspector-security-scanner]]'
+description: 'Anthropic''s guide to using Claude Opus for security: a 6-step find-and-fix
+  loop (threat model → sandbox → discovery → verification → triage → patching). Key
+  insight: discovery is now easy to parallelize; the bottleneck is verification, triage,
+  and patching. 1,596 OSS vulns disclosed, 97 patched. Well-defined threat model →
+  90% exploitable findings. Adversarial verifier halves non-exploitables; PoC requirement
+  → near-zero FPR.'
 ---
 
 # Using LLMs to Secure Source Code

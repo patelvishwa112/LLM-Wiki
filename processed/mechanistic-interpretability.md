@@ -3,9 +3,16 @@ title: Mechanistic Interpretability
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [interpretability, circuits, features, superposition]
-sources: [raw/anthropic/articles/*, raw/anthropic/papers/*]
+tags:
+- interpretability
+- circuits
+- features
+- superposition
+sources:
+- raw/anthropic/articles/*
+- raw/anthropic/papers/*
 confidence: high
+description: Mechanistic Interpretability
 ---
 
 # Mechanistic Interpretability

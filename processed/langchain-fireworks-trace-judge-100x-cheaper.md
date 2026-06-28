@@ -1,9 +1,19 @@
 ---
-tags: [agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]
+tags:
+- agents
+- agent-harness
+- observability
+- eval
+- training
+- cost-optimization
+- langchain
+- fireworks
+- llm-judges
+- trace-data
 source: https://x.com/vtrivedy10/status/2066571435871551655
 type: bookmark
-related: [[agent-memory-landscape-2026]], [[harness-is-the-product-context-aware-agents]]
 ingested: 2026-06-15
+description: Building a 100x Cheaper Trace Judge with Fireworks
 ---
 
 # Building a 100x Cheaper Trace Judge with Fireworks
@@ -30,3 +40,8 @@ Fine-tuning open models on large-scale trace data can produce trace judges that 
 
 ---
 *Processed from X post 2026-06-15. Cross-link to agent observability and eval domains.*
+
+## Related
+
+- [[agent-memory-landscape-2026]]
+- [[harness-is-the-product-context-aware-agents]]

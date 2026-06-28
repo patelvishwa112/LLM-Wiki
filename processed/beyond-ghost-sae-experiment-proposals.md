@@ -1,25 +1,28 @@
 ---
-title: "Beyond the Ghost — SAE-Based Experiment Proposals for Understanding and Steering Model Behavior"
+title: Beyond the Ghost — SAE-Based Experiment Proposals for Understanding and Steering
+  Model Behavior
 date: 2026-05-29
 type: proposal
 tags:
-  - interpretability
-  - sparse-autoencoders
-  - experiment
-  - steering
-  - circuits
-  - mechanistic-interpretability
-  - encoding-deployment-gap
+- interpretability
+- sparse-autoencoders
+- experiment
+- steering
+- circuits
+- mechanistic-interpretability
+- encoding-deployment-gap
 status: draft
 related:
-  - "[[ghost-in-residual-stream-experiment]]"
-  - "[[sparse-autoencoders]]"
-  - "[[persona-vectors]]"
-  - "[[priests-of-agi-interpretability-crisis]]"
-  - "[[anthropic-natural-language-autoencoders]]"
-  - "[[goodfire-parameter-decomposition-interpretability]]"
-  - "[[raw/anthropic_evaluating-feature-steering]]"
-  - "[[raw/anthropic_tracing-thoughts]]"
+- '[[ghost-in-residual-stream-experiment]]'
+- '[[sparse-autoencoders]]'
+- '[[persona-vectors]]'
+- '[[priests-of-agi-interpretability-crisis]]'
+- '[[anthropic-natural-language-autoencoders]]'
+- '[[goodfire-parameter-decomposition-interpretability]]'
+- '[[raw/anthropic_evaluating-feature-steering]]'
+- '[[raw/anthropic_tracing-thoughts]]'
+description: 'Beyond the Ghost: SAE Experiments for Understanding and Steering Model
+  Behavior'
 ---
 
 # Beyond the Ghost: SAE Experiments for Understanding and Steering Model Behavior

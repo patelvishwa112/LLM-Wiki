@@ -1,9 +1,15 @@
 ---
-tags: [agents, agent-harness, multi-agent, orchestration, productivity, agent-ops]
+tags:
+- agents
+- agent-harness
+- multi-agent
+- orchestration
+- productivity
+- agent-ops
 source: https://x.com/hugobarauna/status/2067690067288572209
 type: bookmark
-related: [[agent-harness-engineering-claude-14-step-roadmap]], [[multi-agent-orchestration]], [[wtf-is-a-loop]]
 ingested: 2026-06-18
+description: You don't need ten agents. You need two tracks.
 ---
 
 # You don't need ten agents. You need two tracks.
@@ -25,3 +31,9 @@ The hype around running 10+ coding agents in parallel for productivity is mislea
 
 ---
 *Processed from X post 2026-06-18. High-signal take on agent productivity and workflow design.*
+
+## Related
+
+- [[agent-harness-engineering-claude-14-step-roadmap]]
+- [[multi-agent-orchestration]]
+- [[wtf-is-a-loop]]

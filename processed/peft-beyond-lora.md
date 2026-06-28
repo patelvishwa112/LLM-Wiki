@@ -1,9 +1,17 @@
 ---
-tags: [peft, lora, fine-tuning, parameter-efficient, adapters, huggingface, training, slm]
+tags:
+- peft
+- lora
+- fine-tuning
+- parameter-efficient
+- adapters
+- huggingface
+- training
+- slm
 source: https://huggingface.co/blog/peft-beyond-lora
 type: article
-related: [[multi-lora-training-osmosis], [training-llm-from-scratch-5-lessons]]
 ingested: 2026-06-18
+description: 'Beyond LoRA: Can you beat the most popular fine-tuning technique?'
 ---
 
 # Beyond LoRA: Can you beat the most popular fine-tuning technique?

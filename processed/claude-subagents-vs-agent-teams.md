@@ -1,9 +1,15 @@
 ---
-tags: [agents, subagents, claude, multi-agent, orchestration, agent-teams]
+tags:
+- agents
+- subagents
+- claude
+- multi-agent
+- orchestration
+- agent-teams
 source: https://x.com/_avichawla/status/2050463606719000627
 type: bookmark
-related: [[agent-harness-engineering-claude-14-step-roadmap]], [[multi-agent-orchestration]], [[claude-code-changed-what-agents-look-like]]
 ingested: 2026-06-19
+description: Claude Subagents vs. Agent Teams, clearly explained
 ---
 
 # Claude Subagents vs. Agent Teams, clearly explained
@@ -25,3 +31,9 @@ When a task feels complex, the default impulse is to reach for multi-agent syste
 
 ---
 *Processed from X post 2026-05-02 (ingested 2026-06-19). High-engagement explainer on subagents vs. agent teams.*
+
+## Related
+
+- [[agent-harness-engineering-claude-14-step-roadmap]]
+- [[multi-agent-orchestration]]
+- [[claude-code-changed-what-agents-look-like]]

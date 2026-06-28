@@ -1,10 +1,14 @@
 ---
-tags: ["models", "llm", "books", "production"]
+tags:
+- models
+- llm
+- books
+- production
 source: https://x.com/hamptonism/status/2051978299635589592
-raw: "[[raw/hamptonism_2051978299635589592]]"
+raw: '[[raw/hamptonism_2051978299635589592]]'
 date: 2026-05-06
 type: note
-related: ["how-to-build-your-own-llm-from-scratch-in-5-stages", "inference-engines-2026", "everything-you-didnt-want-to-know-about-architectures"]
+description: The Big Book of Large Language Models
 ---
 
 # The Big Book of Large Language Models

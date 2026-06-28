@@ -1,11 +1,17 @@
 ---
-tags: ["agents", "memory", "knowledge-graphs", "rag", "architecture", "cron"]
+tags:
+- agents
+- memory
+- knowledge-graphs
+- rag
+- architecture
+- cron
 source: https://x.com/rohit4verse/status/2012925228159295810
 date: 2026-01-18
 type: bookmark
-author: "Rohit (@rohit4verse)"
-raw: "[[raw/rohit4verse_2012925228159295810]]"
-related: []
+author: Rohit (@rohit4verse)
+raw: '[[raw/rohit4verse_2012925228159295810]]'
+description: How to Build an Agent That Never Forgets
 ---
 
 # How to Build an Agent That Never Forgets

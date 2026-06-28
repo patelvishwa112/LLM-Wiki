@@ -1,12 +1,15 @@
 ---
-tags: [agents, vertical-agents]
+tags:
+- agents
+- vertical-agents
 source: https://x.com/brainsandtennis/status/2065190286519906657
 date: 2026-06-12
 type: bookmark
 author: brainsandtennis
-summary: "Building a Good Vertical Agent by Peter Wang"
-raw: "[[raw/brainsandtennis_2065190286519906657]]"
+summary: Building a Good Vertical Agent by Peter Wang
+raw: '[[raw/brainsandtennis_2065190286519906657]]'
 related: []
+description: Building a Good Vertical Agent by Peter Wang
 ---
 
 # Building a Good Vertical Agent by Peter Wang

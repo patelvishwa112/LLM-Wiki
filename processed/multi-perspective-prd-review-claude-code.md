@@ -1,11 +1,28 @@
 ---
-tags: [pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows, product-management]
+tags:
+- pm
+- prd
+- claude-code
+- agents
+- multi-agent
+- stakeholders
+- review
+- delegation
+- dynamic-workflows
+- product-management
 source: https://x.com/nurijanian/status/2066439099712741827
 date: 2026-06-15
 type: bookmark
 author: nurijanian
-summary: "Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng, design, exec, legal, UX, customer, devil's advocate) surface PRD objections before circulation — maps to dynamic workflows fan-out; packages as multi-perspective-review in PM OS."
-raw: "[[raw/nurijanian_2066439099712741827]]"
+summary: 'Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng,
+  design, exec, legal, UX, customer, devil''s advocate) surface PRD objections before
+  circulation — maps to dynamic workflows fan-out; packages as multi-perspective-review
+  in PM OS.'
+raw: '[[raw/nurijanian_2066439099712741827]]'
+description: 'Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng,
+  design, exec, legal, UX, customer, devil''s advocate) surface PRD objections before
+  circulation — maps to dynamic workflows fan-out; packages as multi-perspective-review
+  in PM OS.'
 ---
 
 # Multi-Perspective PRD Review (Claude Code)

@@ -1,20 +1,21 @@
 ---
 tags:
-  - ai-agents
-  - business-ideas
-  - reddit-scraping
-  - claude
-  - opportunity-discovery
-  - market-research
-  - automation
-  - praw
-  - nlp
+- ai-agents
+- business-ideas
+- reddit-scraping
+- claude
+- opportunity-discovery
+- market-research
+- automation
+- praw
+- nlp
 source: https://x.com/damir_akaza/article/2059621796052193667
-raw: "[[raw/damir_akaza_2059621796052193667]]"
+raw: '[[raw/damir_akaza_2059621796052193667]]'
 type: bookmark
 created: 2026-05-30
 related:
-  - "[[Bookmarks Index]]"
+- '[[Bookmarks Index]]'
+description: Business Idea Discovery Agent — Reddit Scraping + Claude Pipeline
 ---
 
 # Business Idea Discovery Agent — Reddit Scraping + Claude Pipeline

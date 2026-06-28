@@ -1,13 +1,26 @@
 ---
-tags: ["agents", "loops", "claude-code", "orchestration", "agent-harness", "skills"]
+tags:
+- agents
+- loops
+- claude-code
+- orchestration
+- agent-harness
+- skills
 source: https://x.com/mvanhorn/status/2063865685558903149
 date: 2026-06-08
 type: bookmark
 author: mvanhorn
-title: "WTF Is a Loop? Peter Steinberger vs. Boris Cherny"
-summary: "A deep analysis of AI coding loops: what they are, their 5-year lineage from ReAct to orchestration, why the loop (not the model) is now the expensive part, and how skills inside loops create compounding systems."
-raw: "[[raw/mvanhorn_2063865685558903149]]"
-related: ["[[rlm-structured-outputs]]", "[[4-agent-trading-desk]]"]
+title: WTF Is a Loop? Peter Steinberger vs. Boris Cherny
+summary: 'A deep analysis of AI coding loops: what they are, their 5-year lineage
+  from ReAct to orchestration, why the loop (not the model) is now the expensive part,
+  and how skills inside loops create compounding systems.'
+raw: '[[raw/mvanhorn_2063865685558903149]]'
+related:
+- '[[rlm-structured-outputs]]'
+- '[[4-agent-trading-desk]]'
+description: 'A deep analysis of AI coding loops: what they are, their 5-year lineage
+  from ReAct to orchestration, why the loop (not the model) is now the expensive part,
+  and how skills inside loops create compounding systems.'
 ---
 
 # WTF Is a Loop?

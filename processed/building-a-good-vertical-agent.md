@@ -1,11 +1,25 @@
 ---
-tags: ["agents", "agent-harness", "context-engineering", "vertical-agents", "systems"]
+tags:
+- agents
+- agent-harness
+- context-engineering
+- vertical-agents
+- systems
 source: https://x.com/brainsandtennis/status/2065190286519906657
 date: 2026-06-11
 type: bookmark
 author: brainsandtennis
-summary: "Peter Wang on building production-grade vertical agents: treat context as a CPU-style L1/L2/L3 memory hierarchy, invest heavily in compressing the common case (L1), defer occasional capabilities to on-demand curated specs (L2), and provide a bounded escape hatch to the raw API via a mining skill (L3). One execute_code tool beats many narrow tools."
-raw: "[[raw/brainsandtennis_2065190286519906657]]"
+summary: 'Peter Wang on building production-grade vertical agents: treat context as
+  a CPU-style L1/L2/L3 memory hierarchy, invest heavily in compressing the common
+  case (L1), defer occasional capabilities to on-demand curated specs (L2), and provide
+  a bounded escape hatch to the raw API via a mining skill (L3). One execute_code
+  tool beats many narrow tools.'
+raw: '[[raw/brainsandtennis_2065190286519906657]]'
+description: 'Peter Wang on building production-grade vertical agents: treat context
+  as a CPU-style L1/L2/L3 memory hierarchy, invest heavily in compressing the common
+  case (L1), defer occasional capabilities to on-demand curated specs (L2), and provide
+  a bounded escape hatch to the raw API via a mining skill (L3). One execute_code
+  tool beats many narrow tools.'
 ---
 
 # Building a Good Vertical Agent

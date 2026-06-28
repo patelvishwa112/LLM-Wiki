@@ -1,11 +1,18 @@
 ---
-tags: ["agents", "langgraph", "fault-tolerance", "retries", "error-handling", "saga", "production"]
+tags:
+- agents
+- langgraph
+- fault-tolerance
+- retries
+- error-handling
+- saga
+- production
 source: https://x.com/sydneyrunkle/status/2062588423295111208
 date: 2026-06-04
 type: bookmark
-author: "Sydney Runkle & @quanzhenglong (LangChain)"
-raw: "[[raw/sydneyrunkle_2062588423295111208]]"
-related: ["[[feedback-loops-claude-code-less-babysitting]]", "[[learn-harness-engineering]]"]
+author: Sydney Runkle & @quanzhenglong (LangChain)
+raw: '[[raw/sydneyrunkle_2062588423295111208]]'
+description: 'Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers'
 ---
 
 # Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers
@@ -23,3 +30,8 @@ related: ["[[feedback-loops-claude-code-less-babysitting]]", "[[learn-harness-en
 Sydney Runkle and Quanzhen Long (LangChain) walk through LangGraph's three fault tolerance primitives and how they compose into production-grade agent reliability. RetryPolicy handles transient failures with exponential backoff and jitter. TimeoutPolicy caps node execution with both wall-clock and progress-based idle timeouts. Error handlers provide a clean escape hatch after retries are exhausted — with atomic checkpointing so the handler resumes correctly even if the host crashes.
 
 The SAGA pattern example (flight booking) demonstrates the real power: a multi-step workflow where each step can fail, and a compensate node undoes only what needs undoing. The fault tolerance config lives right alongside the business logic via `add_node()` — no separate infrastructure layer.
+
+## Related
+
+- [[feedback-loops-claude-code-less-babysitting]]
+- [[learn-harness-engineering]]

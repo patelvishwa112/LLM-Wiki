@@ -1,11 +1,18 @@
 ---
-tags: ["claude", "kimi", "cost-optimization", "prompts", "workflows", "orchestration", "agents"]
+tags:
+- claude
+- kimi
+- cost-optimization
+- prompts
+- workflows
+- orchestration
+- agents
 source: https://x.com/0xdepressionn/status/2062185806999994444
 date: 2026-06-03
 type: bookmark
-author: "Dep (@0xDepressionn)"
-raw: "[[raw/0xdepressionn_2062185806999994444]]"
-related: ["[[how-to-build-ai-agent-swarms]]"]
+author: Dep (@0xDepressionn)
+raw: '[[raw/0xdepressionn_2062185806999994444]]'
+description: 15 Prompts That Cut AI Coding Costs 88% ($62K → $7.8K/month)
 ---
 
 # 15 Prompts That Cut AI Coding Costs 88% ($62K → $7.8K/month)
@@ -20,3 +27,7 @@ related: ["[[how-to-build-ai-agent-swarms]]"]
 ## Summary
 
 Dep provides a complete 15-prompt system for running Opus 4.8 + Kimi K2.6 as a hybrid AI workflow that cuts costs 88% while maintaining quality. The core architectural insight: Opus was built to orchestrate, not execute. Dynamic Workflows manages hundreds of parallel subagents — Kimi runs the actual work at 1/25th the token cost. The 15 prompts cover the full lifecycle from project planning through quality review to monthly cost optimization and stakeholder ROI reporting.
+
+## Related
+
+- [[how-to-build-ai-agent-swarms]]

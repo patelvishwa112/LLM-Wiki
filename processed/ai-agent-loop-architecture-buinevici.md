@@ -1,12 +1,39 @@
 ---
-tags: [agent-architecture, agent-loop, guardrails, agents, agent-ops, mcp]
+tags:
+- agent-architecture
+- agent-loop
+- guardrails
+- agents
+- agent-ops
+- mcp
 source: https://x.com/igor_buinevici/status/2067246032648364310
 type: bookmark
-related: [[wtf-is-a-loop], [ai-loops-anatoli-kopadze], [iii-agent-harness-workers], [mcp-model-context-protocol]]
-summary: |
-  "Igor Buinevici shares Brij Kishore Pandey’s clear explanation of the universal AI agent architecture: Perceive ➤ Remember ➤ Think ➤ Plan ➤ Act ➤ Observe (with Guardrails). Emphasizes that the core loop is the same across frameworks (LangGraph, CrewAI, OpenAI Agents SDK, Google ADK); production agents differ only in the depth of each layer. Includes a detailed color-coded infographic showing the full loop, memory layer, and continuous guardrails."
-why_it_matters: |
-  "Excellent mental model for agent architecture that directly complements the vault’s existing loop and agent-harness notes. Highlights MCP as a key connector in the Act layer. The visual (Guardrails as a vertical safety layer spanning all components) is a strong pattern for reliable agent design. 'Learn principles first. Tools will keep changing.' aligns perfectly with long-term vault goals."
+related:
+- - wtf-is-a-loop
+- - ai-loops-anatoli-kopadze
+- - iii-agent-harness-workers
+- - mcp-model-context-protocol
+summary: '"Igor Buinevici shares Brij Kishore Pandey’s clear explanation of the universal
+  AI agent architecture: Perceive ➤ Remember ➤ Think ➤ Plan ➤ Act ➤ Observe (with
+  Guardrails). Emphasizes that the core loop is the same across frameworks (LangGraph,
+  CrewAI, OpenAI Agents SDK, Google ADK); production agents differ only in the depth
+  of each layer. Includes a detailed color-coded infographic showing the full loop,
+  memory layer, and continuous guardrails."
+
+  '
+why_it_matters: '"Excellent mental model for agent architecture that directly complements
+  the vault’s existing loop and agent-harness notes. Highlights MCP as a key connector
+  in the Act layer. The visual (Guardrails as a vertical safety layer spanning all
+  components) is a strong pattern for reliable agent design. ''Learn principles first.
+  Tools will keep changing.'' aligns perfectly with long-term vault goals."
+
+  '
+description: '"Igor Buinevici shares Brij Kishore Pandey’s clear explanation of the
+  universal AI agent architecture: Perceive ➤ Remember ➤ Think ➤ Plan ➤ Act ➤ Observe
+  (with Guardrails). Emphasizes that the core loop is the same across frameworks (LangGraph,
+  CrewAI, OpenAI Agents SDK, Google ADK); production agents differ only in the depth
+  of each layer. Includes a detailed color-coded infographic showing the full loop,
+  memory layer, and continuous guardrails."'
 ---
 
 # Every AI Agent Works in a Similar Way Behind the Scenes

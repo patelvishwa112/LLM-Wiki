@@ -1,11 +1,26 @@
 ---
-tags: [ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]
+tags:
+- ghostwriting
+- writing
+- career
+- content-strategy
+- creator-economy
+- productivity
+- voice
+- specialization
 source: https://x.com/nicolascole77/status/2069037098464940233
-raw: "[[raw/nicolascole77_2069037098464940233]]"
+raw: '[[raw/nicolascole77_2069037098464940233]]'
 date: 2026-06-23
 type: bookmark
 author: nicolascole77
-summary: "Nicolas Cole's five skills before charging $2k+/mo as a premium ghostwriter: client leadership (not employee mode), pre-writing topic strategy, five voice archetypes, platform specialization, and tech/AI scaling with curiosity—not 'being a good writer' alone."
+summary: 'Nicolas Cole''s five skills before charging $2k+/mo as a premium ghostwriter:
+  client leadership (not employee mode), pre-writing topic strategy, five voice archetypes,
+  platform specialization, and tech/AI scaling with curiosity—not ''being a good writer''
+  alone.'
+description: 'Nicolas Cole''s five skills before charging $2k+/mo as a premium ghostwriter:
+  client leadership (not employee mode), pre-writing topic strategy, five voice archetypes,
+  platform specialization, and tech/AI scaling with curiosity—not ''being a good writer''
+  alone.'
 ---
 
 # Premium Ghostwriter — Five Skills

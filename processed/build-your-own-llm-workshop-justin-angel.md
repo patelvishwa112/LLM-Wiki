@@ -1,12 +1,25 @@
 ---
-tags: ["training", "llm", "from-scratch", "course", "transformers", "pretraining", "instruction-tuning", "rl"]
+tags:
+- training
+- llm
+- from-scratch
+- course
+- transformers
+- pretraining
+- instruction-tuning
+- rl
 source: https://x.com/justinangel/status/2069482255312195980
 date: 2026-06-23
 type: resource
 author: justinangel
-title: "Build Your Own LLM — free workshop (23 videos + deck + exercises)"
-summary: "Justin Angel released a no-prereq in-person workshop as free playlist, 250-page slides, and 50 Excel/coding labs covering sampling through transformers, pre-training, instruction tuning, and SimPO RL."
-raw: "[[raw/justinangel_2069482255312195980]]"
+title: Build Your Own LLM — free workshop (23 videos + deck + exercises)
+summary: Justin Angel released a no-prereq in-person workshop as free playlist, 250-page
+  slides, and 50 Excel/coding labs covering sampling through transformers, pre-training,
+  instruction tuning, and SimPO RL.
+raw: '[[raw/justinangel_2069482255312195980]]'
+description: Justin Angel released a no-prereq in-person workshop as free playlist,
+  250-page slides, and 50 Excel/coding labs covering sampling through transformers,
+  pre-training, instruction tuning, and SimPO RL.
 ---
 
 ## Key takeaways

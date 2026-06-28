@@ -1,13 +1,20 @@
 ---
-title: "Hermes /goal — How to Turn a Chat Message Into a Standing Job"
-tags: ["hermes", "goal", "productivity", "agents", "workflows", "autonomy"]
+title: Hermes /goal — How to Turn a Chat Message Into a Standing Job
+tags:
+- hermes
+- goal
+- productivity
+- agents
+- workflows
+- autonomy
 source: https://x.com/zaimiri/status/2061745669077926042
 date: 2026-06-02
 published: 2026-06-02
-authors: ["zaimiri (@zaimiri)"]
+authors:
+- zaimiri (@zaimiri)
 type: bookmark
-raw: "[[raw/zaimiri_2061745669077926042]]"
-related: ["[[dynamic-workflows-where-plan-lives]]", "[[agent-memory-landscape-2026]]"]
+raw: '[[raw/zaimiri_2061745669077926042]]'
+description: Hermes /goal — Standing Jobs Instead of Disposable Prompts
 ---
 
 # Hermes /goal — Standing Jobs Instead of Disposable Prompts
@@ -53,3 +60,8 @@ Final reply: [reporting format]
 **Use for:** fix test suites, clean doc folders, inspect repos + write plans, research passes with sourced briefs, migrate prompts into skills, debug tools until commands work, draft → lint → revise → route pipelines.
 
 **Skip for:** one-off questions, tiny edits, tasks needing taste calls every 2 minutes, sensitive actions without approval gates, tasks where done can't be described.
+
+## Related
+
+- [[dynamic-workflows-where-plan-lives]]
+- [[agent-memory-landscape-2026]]

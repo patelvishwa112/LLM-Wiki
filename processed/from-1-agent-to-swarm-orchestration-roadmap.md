@@ -1,11 +1,27 @@
 ---
-tags: ["agents", "multi-agent", "orchestration", "claude-code", "subagents", "worktrees", "verification", "agent-harness", "loop-engineering"]
+tags:
+- agents
+- multi-agent
+- orchestration
+- claude-code
+- subagents
+- worktrees
+- verification
+- agent-harness
+- loop-engineering
 source: https://x.com/0xmorlex/status/2070079645148451263
 date: 2026-06-25
 type: bookmark
 author: 0xmorlex
-summary: "Claude Code–focused roadmap from one reliable agent loop to a swarm: orchestrator plus isolated subagent workers, git worktrees for parallel edits, independent verifiers per lane, workflows for composition, shared claim-and-record state, cost routing by role, and structural guardrails instead of human supervision."
-raw: "[[raw/0xmorlex_2070079645148451263]]"
+summary: 'Claude Code–focused roadmap from one reliable agent loop to a swarm: orchestrator
+  plus isolated subagent workers, git worktrees for parallel edits, independent verifiers
+  per lane, workflows for composition, shared claim-and-record state, cost routing
+  by role, and structural guardrails instead of human supervision.'
+raw: '[[raw/0xmorlex_2070079645148451263]]'
+description: 'Claude Code–focused roadmap from one reliable agent loop to a swarm:
+  orchestrator plus isolated subagent workers, git worktrees for parallel edits, independent
+  verifiers per lane, workflows for composition, shared claim-and-record state, cost
+  routing by role, and structural guardrails instead of human supervision.'
 ---
 
 # From 1 agent to a swarm: orchestration roadmap

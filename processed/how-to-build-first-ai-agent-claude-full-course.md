@@ -1,9 +1,16 @@
 ---
-tags: [agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]
+tags:
+- agents
+- claude
+- claude-code
+- beginner
+- workflow
+- agent-harness
+- practical-guide
 source: https://x.com/eng_khairallah1/status/2065721530546373016
 type: bookmark
-related: [[building-your-first-ai-agent-clear-path]], [[langchain-fireworks-trace-judge-100x-cheaper]], [[harness-is-the-product-context-aware-agents]]
 ingested: 2026-06-15
+description: How to Actually Build Your First AI Agent Using Claude (Full Course)
 ---
 
 # How to Actually Build Your First AI Agent Using Claude (Full Course)
@@ -30,3 +37,9 @@ A practical, Claude-centric walkthrough for building real AI agents that perform
 
 ---
 *Processed from X post 2026-06-15. High-engagement Claude agent tutorial.*
+
+## Related
+
+- [[building-your-first-ai-agent-clear-path]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[harness-is-the-product-context-aware-agents]]

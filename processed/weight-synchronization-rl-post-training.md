@@ -1,9 +1,15 @@
 ---
-tags: [rl, reinforcement-learning, async-rl, training, weight-synchronization, infrastructure]
+tags:
+- rl
+- reinforcement-learning
+- async-rl
+- training
+- weight-synchronization
+- infrastructure
 source: https://x.com/vivek_2332/status/2067644233511743528
 type: bookmark
-related: [[rl-training-infrastructure]]
 ingested: 2026-06-18
+description: Weight Synchronization in RL Post-Training
 ---
 
 # Weight Synchronization in RL Post-Training
@@ -25,3 +31,7 @@ Addresses the challenge of weight synchronization in asynchronous Reinforcement 
 
 ---
 *Processed from X post 2026-06-18. Link share on RL weight sync challenges in async training.*
+
+## Related
+
+- [[rl-training-infrastructure]]

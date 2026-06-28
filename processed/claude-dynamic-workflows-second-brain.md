@@ -1,11 +1,18 @@
 ---
-tags: ["claude-code", "dynamic-workflows", "obsidian", "second-brain", "skills", "subagents", "claude"]
+tags:
+- claude-code
+- dynamic-workflows
+- obsidian
+- second-brain
+- skills
+- subagents
+- claude
 source: https://x.com/artemxtech/status/2062582596190498864
 date: 2026-06-04
 type: bookmark
-author: "Artem Zhutov (@ArtemXTech)"
-raw: "[[raw/artemxtech_2062582596190498864]]"
-related: ["[[every-agentic-engineering-hack-june-2026]]", "[[feedback-loops-claude-code-less-babysitting]]", "[[learn-harness-engineering]]"]
+author: Artem Zhutov (@ArtemXTech)
+raw: '[[raw/artemxtech_2062582596190498864]]'
+description: Claude Dynamic Workflows for Your Second Brain
 ---
 
 # Claude Dynamic Workflows for Your Second Brain
@@ -20,3 +27,9 @@ related: ["[[every-agentic-engineering-hack-june-2026]]", "[[feedback-loops-clau
 ## Summary
 
 Artem Zhutov demonstrates Claude Dynamic Workflows applied to knowledge management rather than coding. The core insight: Dynamic Workflows turn Claude Code into a deterministic, reliable system for processing unstructured personal knowledge at scale. Three real examples show mining sessions for recurring corrections, mining daily notes for repeating patterns, and mining NotebookLM notebooks for implementable ideas — each producing structured HTML reports with verified evidence. The workflows-embedded-in-skills pattern is the recommended integration approach.
+
+## Related
+
+- [[every-agentic-engineering-hack-june-2026]]
+- [[feedback-loops-claude-code-less-babysitting]]
+- [[learn-harness-engineering]]

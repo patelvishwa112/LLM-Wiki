@@ -1,28 +1,40 @@
 ---
 tags:
-  - agents
-  - agent-harness
-  - harness-engineering
-  - agent-architecture
-  - claude-code
-  - openai
-  - anthropic
-  - thoughtworks
-  - context-management
-  - feedback-loops
-  - agent-ops
-  - cost-optimization
+- agents
+- agent-harness
+- harness-engineering
+- agent-architecture
+- claude-code
+- openai
+- anthropic
+- thoughtworks
+- context-management
+- feedback-loops
+- agent-ops
+- cost-optimization
 source: https://x.com/sairahul1/status/2063544956158185927
-raw: "[[raw/sairahul1_2063544956158185927]]"
+raw: '[[raw/sairahul1_2063544956158185927]]'
 date: 2026-06-07
 author: Rahul (@sairahul1)
 type: bookmark
-summary: "Harness Engineering emerged as a discipline in 2026. The core formula: Agent = Model + Harness. Covers the 5 harness artifacts (AGENT.md, JSON feature lists, session routines, sprint contracts, task templates), the 3 camps (OpenAI environment-first, Anthropic doer-vs-judge, ThoughtWorks 2x2 framework), 5 universal principles, and the paradox of harness decay — build to delete. Same model + better harness = +13% performance. Full harness 22x cost but working software vs broken demo."
+summary: 'Harness Engineering emerged as a discipline in 2026. The core formula: Agent
+  = Model + Harness. Covers the 5 harness artifacts (AGENT.md, JSON feature lists,
+  session routines, sprint contracts, task templates), the 3 camps (OpenAI environment-first,
+  Anthropic doer-vs-judge, ThoughtWorks 2x2 framework), 5 universal principles, and
+  the paradox of harness decay — build to delete. Same model + better harness = +13%
+  performance. Full harness 22x cost but working software vs broken demo.'
 related:
-  - "[[agent-harness-engineering-agentforge]]"
-  - "[[harness-is-the-product-context-aware-agents]]"
-  - "[[claude-code-changed-what-agents-look-like]]"
-  - "[[agent-memory-landscape-2026]]"
+- '[[agent-harness-engineering-agentforge]]'
+- '[[harness-is-the-product-context-aware-agents]]'
+- '[[claude-code-changed-what-agents-look-like]]'
+- '[[agent-memory-landscape-2026]]'
+description: 'Harness Engineering emerged as a discipline in 2026. The core formula:
+  Agent = Model + Harness. Covers the 5 harness artifacts (AGENT.md, JSON feature
+  lists, session routines, sprint contracts, task templates), the 3 camps (OpenAI
+  environment-first, Anthropic doer-vs-judge, ThoughtWorks 2x2 framework), 5 universal
+  principles, and the paradox of harness decay — build to delete. Same model + better
+  harness = +13% performance. Full harness 22x cost but working software vs broken
+  demo.'
 ---
 
 # Harness Engineering — What Every AI Engineer Needs to Know in 2026

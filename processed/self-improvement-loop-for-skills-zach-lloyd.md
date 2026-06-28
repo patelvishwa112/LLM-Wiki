@@ -1,17 +1,22 @@
 ---
 tags:
-  - skills
-  - agent-loops
-  - self-improving-systems
-  - claude-code
-  - agent-harness
+- skills
+- agent-loops
+- self-improving-systems
+- claude-code
+- agent-harness
 source: https://x.com/zachlloydtweets/status/2066908445425496348
 type: bookmark
 related:
-  - [[agent-harness-engineering-claude-14-step-roadmap]]
-  - [[wtf-is-a-loop]]
-  - [[loop-engineering]]
-summary: "Zach Lloyd (Warp founder) breaks down how to build a real self-improvement loop for Skills — moving beyond vague 'agent loops' to concrete mechanisms for continuous skill improvement in AI systems."
+- - - agent-harness-engineering-claude-14-step-roadmap
+- - - wtf-is-a-loop
+- - - loop-engineering
+summary: Zach Lloyd (Warp founder) breaks down how to build a real self-improvement
+  loop for Skills — moving beyond vague 'agent loops' to concrete mechanisms for continuous
+  skill improvement in AI systems.
+description: Zach Lloyd (Warp founder) breaks down how to build a real self-improvement
+  loop for Skills — moving beyond vague 'agent loops' to concrete mechanisms for continuous
+  skill improvement in AI systems.
 ---
 
 # How to Build a Self-Improvement Loop for Your Skills

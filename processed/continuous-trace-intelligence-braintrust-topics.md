@@ -1,11 +1,18 @@
 ---
-tags: ["observability", "traces", "llm-ops", "clustering", "braintrust", "clio", "agents"]
+tags:
+- observability
+- traces
+- llm-ops
+- clustering
+- braintrust
+- clio
+- agents
 source: https://x.com/ankrgyl/status/2062635408182427859
 date: 2026-06-04
 type: bookmark
-author: "Ankur Goyal (Braintrust CEO)"
-raw: "[[raw/ankrgyl_2062635408182427859]]"
-related: []
+author: Ankur Goyal (Braintrust CEO)
+raw: '[[raw/ankrgyl_2062635408182427859]]'
+description: How Braintrust Made Continuous Trace Intelligence Possible at Scale
 ---
 
 # How Braintrust Made Continuous Trace Intelligence Possible at Scale

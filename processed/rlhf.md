@@ -3,9 +3,16 @@ title: RLHF (Reinforcement Learning from Human Feedback)
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, rlhf]
-sources: [raw/anthropic/papers/arxiv-2204.05862.md, raw/anthropic/papers/arxiv-2009.01325.md, raw/anthropic/papers/arxiv-2112.00114.md, raw/anthropic/papers/arxiv-2210.10760.md]
+tags:
+- alignment
+- rlhf
+sources:
+- raw/anthropic/papers/arxiv-2204.05862.md
+- raw/anthropic/papers/arxiv-2009.01325.md
+- raw/anthropic/papers/arxiv-2112.00114.md
+- raw/anthropic/papers/arxiv-2210.10760.md
 confidence: high
+description: RLHF
 ---
 
 # RLHF

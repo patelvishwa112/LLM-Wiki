@@ -1,12 +1,38 @@
 ---
-tags: ["frontier-labs", "deepmind", "pre-training", "scaling-laws", "research-taste", "kernel-engineering", "distillation", "quantization", "inference-code-design", "career-advice", "llm-research"]
+tags:
+- frontier-labs
+- deepmind
+- pre-training
+- scaling-laws
+- research-taste
+- kernel-engineering
+- distillation
+- quantization
+- inference-code-design
+- career-advice
+- llm-research
 source: https://youtu.be/cDyi91onoJ8
 date: 2026-06-15
 type: lecture
 author: Vlad Fineberg (Google DeepMind Pre-training Area Lead)
-title: "How to Get a Job at a Frontier Lab — Vlad Fineberg (DeepMind)"
-summary: "Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier labs actually hire for: low-level kernel engineering for LLM runtime, research taste as a stochastic MDP skill, scaling laws intuition, distillation infrastructure, inference code design, and quantization. He explains why software engineers struggle with research uncertainty, the Prime Directive of literature review, pre-training war stories (Flash 2.0 pipeline prefill), MFU realities, and concrete exercises to demonstrate fit. Essential viewing for anyone targeting OpenAI, Anthropic, Google DeepMind, or similar."
-raw: "[[raw/youtube_cDyi91onoJ8_timestamped]]"
+title: How to Get a Job at a Frontier Lab — Vlad Fineberg (DeepMind)
+summary: 'Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier
+  labs actually hire for: low-level kernel engineering for LLM runtime, research taste
+  as a stochastic MDP skill, scaling laws intuition, distillation infrastructure,
+  inference code design, and quantization. He explains why software engineers struggle
+  with research uncertainty, the Prime Directive of literature review, pre-training
+  war stories (Flash 2.0 pipeline prefill), MFU realities, and concrete exercises
+  to demonstrate fit. Essential viewing for anyone targeting OpenAI, Anthropic, Google
+  DeepMind, or similar.'
+raw: '[[raw/youtube_cDyi91onoJ8_timestamped]]'
+description: 'Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills
+  frontier labs actually hire for: low-level kernel engineering for LLM runtime, research
+  taste as a stochastic MDP skill, scaling laws intuition, distillation infrastructure,
+  inference code design, and quantization. He explains why software engineers struggle
+  with research uncertainty, the Prime Directive of literature review, pre-training
+  war stories (Flash 2.0 pipeline prefill), MFU realities, and concrete exercises
+  to demonstrate fit. Essential viewing for anyone targeting OpenAI, Anthropic, Google
+  DeepMind, or similar.'
 ---
 
 ## Overview & Why This Matters

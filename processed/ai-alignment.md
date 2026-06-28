@@ -3,9 +3,16 @@ title: AI Alignment
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, safety, rlhf, constitutional-ai]
-sources: [raw/anthropic/articles/*, raw/anthropic/papers/*]
+tags:
+- alignment
+- safety
+- rlhf
+- constitutional-ai
+sources:
+- raw/anthropic/articles/*
+- raw/anthropic/papers/*
 confidence: high
+description: AI Alignment
 ---
 
 # AI Alignment

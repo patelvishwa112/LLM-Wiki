@@ -1,10 +1,14 @@
 ---
-tags: ["rl", "training", "infrastructure", "models"]
+tags:
+- rl
+- training
+- infrastructure
+- models
 source: https://x.com/SergioPaniego/status/2053120052157628678
-raw: "[[raw/SergioPaniego_2053120052157628678]]"
+raw: '[[raw/SergioPaniego_2053120052157628678]]'
 date: 2026-05-09
 type: note
-related: ["fast-slow-training-continual-llm-adaptation", "sutton-barto-rl-notes", "general-intelligence-rethinking-exploration-2022"]
+description: RL Environments Guide for LLMs
 ---
 
 # RL Environments Guide for LLMs

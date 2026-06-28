@@ -1,12 +1,24 @@
 ---
-tags: ["agents", "agent-harness", "mcp", "claude-code", "fundamentals", "observability", "guardrails", "subagents"]
+tags:
+- agents
+- agent-harness
+- mcp
+- claude-code
+- fundamentals
+- observability
+- guardrails
+- subagents
 source: https://x.com/sairahul1/status/2069351848742629693
 date: 2026-06-24
 type: bookmark
 author: sairahul1
-title: "Twenty core ideas behind every AI agent"
-summary: "Framework-agnostic map of twenty recurring agent concepts across six layers, from execution loops and state through config, MCP, subagents, guardrails, and tracing."
-raw: "[[raw/sairahul1_2069351848742629693]]"
+title: Twenty core ideas behind every AI agent
+summary: Framework-agnostic map of twenty recurring agent concepts across six layers,
+  from execution loops and state through config, MCP, subagents, guardrails, and tracing.
+raw: '[[raw/sairahul1_2069351848742629693]]'
+description: Framework-agnostic map of twenty recurring agent concepts across six
+  layers, from execution loops and state through config, MCP, subagents, guardrails,
+  and tracing.
 ---
 
 ## Key takeaways

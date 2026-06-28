@@ -1,22 +1,31 @@
 ---
 tags:
-  - claude-code
-  - anthropic
-  - agents
-  - managed-agents
-  - mcp
-  - developer-platform
-  - conference
+- claude-code
+- anthropic
+- agents
+- managed-agents
+- mcp
+- developer-platform
+- conference
 source: https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build
-raw: "[[raw/anthropic-code-w-claude-london-2026]]"
+raw: '[[raw/anthropic-code-w-claude-london-2026]]'
 date: 2026-06-07
 author: Anthropic
 type: bookmark
-summary: "Recap of Code w/ Claude London 2026: two new Managed Agents capabilities announced — self-hosted sandboxes (public beta) for tool execution within enterprise perimeters, and MCP tunnels (research preview) for connecting agents to private MCP servers without public internet exposure. Teams including Amplitude, Clay, and Rogo are already building on these features."
+summary: 'Recap of Code w/ Claude London 2026: two new Managed Agents capabilities
+  announced — self-hosted sandboxes (public beta) for tool execution within enterprise
+  perimeters, and MCP tunnels (research preview) for connecting agents to private
+  MCP servers without public internet exposure. Teams including Amplitude, Clay, and
+  Rogo are already building on these features.'
 related:
-  - "[[claude-code]]"
-  - "[[model-context-protocol]]"
-  - "[[ai-agents]]"
+- '[[claude-code]]'
+- '[[model-context-protocol]]'
+- '[[ai-agents]]'
+description: 'Recap of Code w/ Claude London 2026: two new Managed Agents capabilities
+  announced — self-hosted sandboxes (public beta) for tool execution within enterprise
+  perimeters, and MCP tunnels (research preview) for connecting agents to private
+  MCP servers without public internet exposure. Teams including Amplitude, Clay, and
+  Rogo are already building on these features.'
 ---
 
 # Code w/ Claude London 2026

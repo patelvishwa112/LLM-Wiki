@@ -3,9 +3,17 @@ title: Deceptive Alignment
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, deceptive-alignment, sabotage]
-sources: [raw/anthropic/papers/arxiv-2401.05566.md, raw/anthropic/articles/anthropic-research-auditing-hidden-objectives.md, raw/anthropic/articles/anthropic-research-sabotage-evaluations.md, raw/anthropic/articles/anthropic-research-shade-arena-sabotage-monitoring.md]
+tags:
+- alignment
+- deceptive-alignment
+- sabotage
+sources:
+- raw/anthropic/papers/arxiv-2401.05566.md
+- raw/anthropic/articles/anthropic-research-auditing-hidden-objectives.md
+- raw/anthropic/articles/anthropic-research-sabotage-evaluations.md
+- raw/anthropic/articles/anthropic-research-shade-arena-sabotage-monitoring.md
 confidence: high
+description: Deceptive Alignment
 ---
 
 # Deceptive Alignment

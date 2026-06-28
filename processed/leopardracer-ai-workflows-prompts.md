@@ -1,8 +1,17 @@
 ---
-tags: [ai-workflows, prompt-engineering, agent-harness, skills, claude-code, prompt-optimization, workflow-design, second-brain]
+tags:
+- ai-workflows
+- prompt-engineering
+- agent-harness
+- skills
+- claude-code
+- prompt-optimization
+- workflow-design
+- second-brain
 source: https://x.com/leopardracer/status/2067892652306018598?s=46
 type: bookmark
 ingested: 2026-06-19
+description: How to Build AI Workflows When You're Tired of Optimizing Prompts
 ---
 
 # How to Build AI Workflows When You're Tired of Optimizing Prompts

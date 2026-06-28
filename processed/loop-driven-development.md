@@ -1,11 +1,24 @@
 ---
-tags: ["loop-driven-development", "oracles", "test-suites", "feedback", "agent-loops", "tdd"]
+tags:
+- loop-driven-development
+- oracles
+- test-suites
+- feedback
+- agent-loops
+- tdd
 source: https://x.com/nfcampos/status/2064746971944956299
 date: 2026-06-10
 type: bookmark
 author: nfcampos
-summary: "Loop Driven Development (LDD): the oracle problem, behavior coverage, four quadrants of feedback (independence + queryability), mining test suites, querying authoritative oracles, distance assertions, and the shift from writing code to designing the training environment for agent loops."
-raw: "[[raw/nfcampos_2064746971944956299]]"
+summary: 'Loop Driven Development (LDD): the oracle problem, behavior coverage, four
+  quadrants of feedback (independence + queryability), mining test suites, querying
+  authoritative oracles, distance assertions, and the shift from writing code to designing
+  the training environment for agent loops.'
+raw: '[[raw/nfcampos_2064746971944956299]]'
+description: 'Loop Driven Development (LDD): the oracle problem, behavior coverage,
+  four quadrants of feedback (independence + queryability), mining test suites, querying
+  authoritative oracles, distance assertions, and the shift from writing code to designing
+  the training environment for agent loops.'
 ---
 
 # Loop Driven Development

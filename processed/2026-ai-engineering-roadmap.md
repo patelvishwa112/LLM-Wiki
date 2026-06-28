@@ -1,11 +1,28 @@
 ---
-tags: ["ai-engineering", "roadmap", "transformers", "agents", "mcp", "infrastructure", "safety", "curriculum"]
+tags:
+- ai-engineering
+- roadmap
+- transformers
+- agents
+- mcp
+- infrastructure
+- safety
+- curriculum
 source: https://x.com/ghumare64/status/2063574610889560271
 date: 2026-06-07
 type: bookmark
 author: ghumare64
-summary: "12-layer 2026 AI Engineering roadmap: build from scratch (math → backprop → transformers + KV cache → full LLM + DPO → RAG → multimodal → MCP/A2A → agent loops → long-horizon agents → vLLM/serving → Constitutional AI) and ship reusable skills/artifacts at every layer. Designed to close the gap between slogan-level knowledge and mechanism-level understanding."
-raw: "[[raw/ghumare64_2063574610889560271]]"
+summary: '12-layer 2026 AI Engineering roadmap: build from scratch (math → backprop
+  → transformers + KV cache → full LLM + DPO → RAG → multimodal → MCP/A2A → agent
+  loops → long-horizon agents → vLLM/serving → Constitutional AI) and ship reusable
+  skills/artifacts at every layer. Designed to close the gap between slogan-level
+  knowledge and mechanism-level understanding.'
+raw: '[[raw/ghumare64_2063574610889560271]]'
+description: '12-layer 2026 AI Engineering roadmap: build from scratch (math → backprop
+  → transformers + KV cache → full LLM + DPO → RAG → multimodal → MCP/A2A → agent
+  loops → long-horizon agents → vLLM/serving → Constitutional AI) and ship reusable
+  skills/artifacts at every layer. Designed to close the gap between slogan-level
+  knowledge and mechanism-level understanding.'
 ---
 
 # The 2026 AI Engineering Roadmap

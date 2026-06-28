@@ -1,13 +1,35 @@
 ---
-tags: ["anthropic", "recursive-self-improvement", "agents", "safety", "alignment", "acceleration", "code-generation", "research-automation", "benchmarks"]
+tags:
+- anthropic
+- recursive-self-improvement
+- agents
+- safety
+- alignment
+- acceleration
+- code-generation
+- research-automation
+- benchmarks
 source: https://www.anthropic.com/institute/recursive-self-improvement
 date: 2026-06-08
 type: article
-authors: ["Marina Favaro", "Jack Clark"]
-title: "When AI Builds Itself — Recursive Self-Improvement"
-summary: "The Anthropic Institute's definitive analysis showing AI is already accelerating AI development: >80% of Anthropic's code is Claude-authored, engineers ship 8x more code, task horizons doubled from 4min to 16+ hours. Three futures mapped, with compounding efficiency as the most likely path."
-raw: "[[raw/recursive-self-improvement]]"
-related: ["[[wtf-is-a-loop]]", "[[harness-is-the-product-context-aware-agents]]", "[[claude-managed-agents]]", "[[claude-code-dynamic-workflows-intro]]"]
+authors:
+- Marina Favaro
+- Jack Clark
+title: When AI Builds Itself — Recursive Self-Improvement
+summary: 'The Anthropic Institute''s definitive analysis showing AI is already accelerating
+  AI development: >80% of Anthropic''s code is Claude-authored, engineers ship 8x
+  more code, task horizons doubled from 4min to 16+ hours. Three futures mapped, with
+  compounding efficiency as the most likely path.'
+raw: '[[raw/recursive-self-improvement]]'
+related:
+- '[[wtf-is-a-loop]]'
+- '[[harness-is-the-product-context-aware-agents]]'
+- '[[claude-managed-agents]]'
+- '[[claude-code-dynamic-workflows-intro]]'
+description: 'The Anthropic Institute''s definitive analysis showing AI is already
+  accelerating AI development: >80% of Anthropic''s code is Claude-authored, engineers
+  ship 8x more code, task horizons doubled from 4min to 16+ hours. Three futures mapped,
+  with compounding efficiency as the most likely path.'
 ---
 
 # Recursive Self-Improvement

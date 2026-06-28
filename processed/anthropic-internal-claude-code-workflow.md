@@ -1,13 +1,21 @@
 ---
-title: "Anthropic's Internal Claude Code Workflow (Boris Cherny)"
-tags: ["claude-code", "agents", "agent-ops", "anthropic", "claude", "coding-agents"]
+title: Anthropic's Internal Claude Code Workflow (Boris Cherny)
+tags:
+- claude-code
+- agents
+- agent-ops
+- anthropic
+- claude
+- coding-agents
 source: https://x.com/polydao/status/2060810164068856130
-raw: "[[raw/polydao_2060810164068856130]]"
+raw: '[[raw/polydao_2060810164068856130]]'
 date: 2026-05-30
 published: 2026-05-30
-authors: ["Mr. Buzzoni (@polydao)", "Boris Cherny (Anthropic)"]
+authors:
+- Mr. Buzzoni (@polydao)
+- Boris Cherny (Anthropic)
 type: article
-related: ["[[raw/polydao_2060810164068856130]]", "[[processed/voxyz-ai-10-lessons-agents-md]]"]
+description: Anthropic's Internal Claude Code Workflow
 ---
 
 # Anthropic's Internal Claude Code Workflow
@@ -25,3 +33,8 @@ related: ["[[raw/polydao_2060810164068856130]]", "[[processed/voxyz-ai-10-lesson
 ## Why It Matters
 
 This is how the team that built Claude uses Claude Code. Not as a chatbot — as an autonomous coding agent. The key shift: trust the agent with verification (tests), give it context (log pipes), let it run in parallel (worktrees), and eliminate friction (pre-approved commands, persistent memory).
+
+## Related
+
+- [[raw/polydao_2060810164068856130]]
+- [[processed/voxyz-ai-10-lessons-agents-md]]

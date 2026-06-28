@@ -1,9 +1,15 @@
 ---
-tags: [self-improving-systems, recursive-self-improvement, agents, research, automation, ai-research]
+tags:
+- self-improving-systems
+- recursive-self-improvement
+- agents
+- research
+- automation
+- ai-research
 source: https://x.com/TheTuringPost/status/2067777046483288355
 type: bookmark
-related: [[self-improvement-loop-for-skills-zach-lloyd]], [[self-evolving-agents-model-harness]], [[agent-loops]]
 ingested: 2026-06-19
+description: 'AI 101: What is Recursive Self-Improvement?'
 ---
 
 # AI 101: What is Recursive Self-Improvement?
@@ -25,3 +31,9 @@ Recursive self-improvement refers to AI systems that can automate and improve th
 
 ---
 *Processed from X post 2026-06-19. High-signal overview of recursive self-improvement in AI research.*
+
+## Related
+
+- [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[self-evolving-agents-model-harness]]
+- [[agent-loops]]

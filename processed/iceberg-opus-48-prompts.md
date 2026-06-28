@@ -1,12 +1,18 @@
 ---
-title: "Iceberg: The Prompts That Unleash Opus 4.8"
-tags: ["prompt-engineering", "claude", "agents", "productivity"]
+title: 'Iceberg: The Prompts That Unleash Opus 4.8'
+tags:
+- prompt-engineering
+- claude
+- agents
+- productivity
 source: https://x.com/0xchasetm/status/2061363479525663170
 date: 2026-06-01
 published: 2026-06-01
-authors: ["@0xChaseTM"]
+authors:
+- '@0xChaseTM'
 type: bookmark
-raw: "[[raw/x_0xchasetm_iceberg-opus-48-prompts]]"
+raw: '[[raw/x_0xchasetm_iceberg-opus-48-prompts]]'
+description: 'Iceberg: The Prompts That Unleash Opus 4.8'
 ---
 
 # Iceberg: The Prompts That Unleash Opus 4.8

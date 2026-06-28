@@ -1,24 +1,34 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - claude-cowork
-  - gtm
-  - sales
-  - skills
-  - productivity
-  - enterprise
-  - mcp
+- anthropic
+- claude-code
+- claude-cowork
+- gtm
+- sales
+- skills
+- productivity
+- enterprise
+- mcp
 source: https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering
-raw: "[[raw/anthropic-gtm-engineering-claude-code]]"
+raw: '[[raw/anthropic-gtm-engineering-claude-code]]'
 date: 2026-06-05
 author: Anthropic
 type: bookmark
-summary: "How Jared Sires, a non-technical AE at Anthropic, used Claude Code to build CLAFTS (email drafting in his voice), daily brief/recap skills, and a 20+ skill Sales plugin for Claude Cowork. The plugin — used by 80% of the sales org — integrates Salesforce, Intercom, Gong, Gmail, Google Drive, BigQuery via MCP. Key skills: /customer-context (360° account view in 90s) and /pipeline-management (at-risk deals, forecasting)."
+summary: 'How Jared Sires, a non-technical AE at Anthropic, used Claude Code to build
+  CLAFTS (email drafting in his voice), daily brief/recap skills, and a 20+ skill
+  Sales plugin for Claude Cowork. The plugin — used by 80% of the sales org — integrates
+  Salesforce, Intercom, Gong, Gmail, Google Drive, BigQuery via MCP. Key skills: /customer-context
+  (360° account view in 90s) and /pipeline-management (at-risk deals, forecasting).'
 related:
-  - "[[claude-cowork-product-guide]]"
-  - "[[claude-cowork-best-practices]]"
-  - "[[anthropic-claude-code-skills-lessons]]"
+- '[[claude-cowork-product-guide]]'
+- '[[claude-cowork-best-practices]]'
+- '[[anthropic-claude-code-skills-lessons]]'
+description: 'How Jared Sires, a non-technical AE at Anthropic, used Claude Code to
+  build CLAFTS (email drafting in his voice), daily brief/recap skills, and a 20+
+  skill Sales plugin for Claude Cowork. The plugin — used by 80% of the sales org
+  — integrates Salesforce, Intercom, Gong, Gmail, Google Drive, BigQuery via MCP.
+  Key skills: /customer-context (360° account view in 90s) and /pipeline-management
+  (at-risk deals, forecasting).'
 ---
 
 # GTM Engineering with Claude Code: Jared Sires' Workflows

@@ -1,12 +1,27 @@
 ---
-tags: ["agents", "claude-code", "loop-engineering", "automation", "mcp", "skills", "worktrees", "sub-agents"]
+tags:
+- agents
+- claude-code
+- loop-engineering
+- automation
+- mcp
+- skills
+- worktrees
+- sub-agents
 source: https://x.com/0xCodez/status/2064374643729773029
 date: 2026-06-09
 type: bookmark
 author: 0xCodez
-title: "Loop engineering: the 14-step roadmap from prompter to loop designer"
-summary: "A 14-step framework for moving from manual prompting to designing autonomous agent loops, covering the 4-condition test, five building blocks (automations, worktrees, skills, connectors, sub-agents), state management, verification gates, and common failure modes."
-raw: "[[raw/0xcodez_2064374643729773029]]"
+title: 'Loop engineering: the 14-step roadmap from prompter to loop designer'
+summary: A 14-step framework for moving from manual prompting to designing autonomous
+  agent loops, covering the 4-condition test, five building blocks (automations, worktrees,
+  skills, connectors, sub-agents), state management, verification gates, and common
+  failure modes.
+raw: '[[raw/0xcodez_2064374643729773029]]'
+description: A 14-step framework for moving from manual prompting to designing autonomous
+  agent loops, covering the 4-condition test, five building blocks (automations, worktrees,
+  skills, connectors, sub-agents), state management, verification gates, and common
+  failure modes.
 ---
 
 ## Key Takeaways

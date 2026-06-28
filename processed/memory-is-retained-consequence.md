@@ -1,13 +1,22 @@
 ---
-title: "Memory Is Retained Consequence — Ashwin Gopinath on Agent Memory Architecture"
-tags: ["memory", "agents", "enterprise", "knowledge-graphs", "semantic-state", "sentra", "company-brain", "infrastructure"]
+title: Memory Is Retained Consequence — Ashwin Gopinath on Agent Memory Architecture
+tags:
+- memory
+- agents
+- enterprise
+- knowledge-graphs
+- semantic-state
+- sentra
+- company-brain
+- infrastructure
 source: https://x.com/ashwingop/status/2061836996541083912
 date: 2026-06-02
 published: 2026-06-02
-authors: ["Ashwin Gopinath (@ashwingop)"]
+authors:
+- Ashwin Gopinath (@ashwingop)
 type: bookmark
-raw: "[[raw/ashwingop_2061836996541083912]]"
-related: ["[[agent-memory-landscape-2026]]", "[[research-agent-evidence-operator]]", "[[knowledge-system-compounding-obsidian-vellum]]"]
+raw: '[[raw/ashwingop_2061836996541083912]]'
+description: Memory Is Retained Consequence
 ---
 
 # Memory Is Retained Consequence
@@ -37,3 +46,9 @@ Ashwin Gopinath (Sentra founder) on the architecture of agent memory. The thesis
 ## The Memory Market
 
 Mem0 (personalization), Zep/Graphiti (temporal truth), Letta (runtime state), Hindsight (epistemic structure), Glean (enterprise search), Google Agentspace, Zapier, ServiceNow, Granola, Otter — all approaching memory from different wedges. Each wedge is right about something. None answers the full question: what from the past should survive because it changes future work?
+
+## Related
+
+- [[agent-memory-landscape-2026]]
+- [[research-agent-evidence-operator]]
+- [[knowledge-system-compounding-obsidian-vellum]]

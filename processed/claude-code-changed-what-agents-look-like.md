@@ -1,10 +1,21 @@
 ---
-tags: [claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, context, production]
+tags:
+- claude-code
+- agents
+- agent-architecture
+- verification
+- memory
+- tools
+- workflows
+- autonomous
+- context
+- production
 source: https://x.com/suryanshti777/status/2061393185126097356
-raw: "[[raw/suryanshti777_2061393185126097356]]"
+raw: '[[raw/suryanshti777_2061393185126097356]]'
 type: article
 author: Suryansh Tiwari (@Suryanshti777)
 date: 2026-06-01
+description: Claude Code Just Changed What "Agents" Look Like
 ---
 
 # Claude Code Just Changed What "Agents" Look Like

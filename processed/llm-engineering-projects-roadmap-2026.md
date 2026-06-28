@@ -1,9 +1,14 @@
 ---
-tags: ["llm-engineering", "roadmap", "projects", "learning"]
+tags:
+- llm-engineering
+- roadmap
+- projects
+- learning
 source: https://x.com/theahmadosman/status/2058745340895870985
-raw: "[[raw/theahmadosman_2058745340895870985]]"
+raw: '[[raw/theahmadosman_2058745340895870985]]'
 date: 2026-05-24
 type: bookmark
+description: Step-By-Step LLM Engineering Projects (2026 Edition)
 ---
 
 # Step-By-Step LLM Engineering Projects (2026 Edition)

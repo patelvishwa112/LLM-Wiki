@@ -1,13 +1,21 @@
 ---
-title: "Opus 4.8 Token Economy — Stop Burning Your Daily Limit in 30 Minutes"
-tags: ["claude", "claude-code", "opus", "token-economy", "prompt-engineering", "skills", "productivity"]
+title: Opus 4.8 Token Economy — Stop Burning Your Daily Limit in 30 Minutes
+tags:
+- claude
+- claude-code
+- opus
+- token-economy
+- prompt-engineering
+- skills
+- productivity
 source: https://x.com/0x_kaize/status/2061475678143365248
 date: 2026-06-02
 published: 2026-06-01
-authors: ["kaize (@0x_kaize)"]
+authors:
+- kaize (@0x_kaize)
 type: bookmark
-raw: "[[raw/0x_kaize_2061475678143365248]]"
-related: "[[colleague-skill-dot-skill]]"
+raw: '[[raw/0x_kaize_2061475678143365248]]'
+description: Opus 4.8 Token Economy Guide
 ---
 
 # Opus 4.8 Token Economy Guide
@@ -72,3 +80,7 @@ Safe permissions: allow read/edit/test/commit, block .env reading, SSH key acces
 ## Relevance
 
 Practical token management for anyone using Claude heavily. The effort routing pattern applies to any LLM usage. The skill file approach for content generation is essentially what Hermes already does with its persona and skill system. The safe permissions pattern is worth reviewing against Hermes's tool access controls.
+
+## Related
+
+- [[colleague-skill-dot-skill]]

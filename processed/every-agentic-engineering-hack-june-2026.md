@@ -1,11 +1,18 @@
 ---
-tags: ["agentic-engineering", "claude-code", "codex", "productivity", "skills", "workflows", "hacks"]
+tags:
+- agentic-engineering
+- claude-code
+- codex
+- productivity
+- skills
+- workflows
+- hacks
 source: https://x.com/mvanhorn/status/2061877533885473181
 date: 2026-06-03
 type: bookmark
-author: "Matt Van Horn (@mvanhorn)"
-raw: "[[raw/mvanhorn_2061877533885473181]]"
-related: ["[[feedback-loops-claude-code-less-babysitting]]", "[[learn-harness-engineering]]"]
+author: Matt Van Horn (@mvanhorn)
+raw: '[[raw/mvanhorn_2061877533885473181]]'
+description: Every Agentic Engineering Hack I Know (June 2026)
 ---
 
 # Every Agentic Engineering Hack I Know (June 2026)
@@ -21,3 +28,8 @@ related: ["[[feedback-loops-claude-code-less-babysitting]]", "[[learn-harness-en
 ## Summary
 
 Matt Van Horn's sequel to his 913K-view "Every Claude Code Hack I Know" — 22 practical hacks for agentic engineering, validated by shipping three products (last30days at 27K stars, Printing Press at 4K+ stars, Agent Cookie) and becoming a top contributor to CPython and Go. The hacks range from workflow philosophy (plan.md for everything, voice dictation, don't read your own plans) to technical setup (cmux for parallel agents, permission-skipping, Mac mini as always-on agent server) to meta-practices (recording everything, accepting AI psychosis, writing the article itself using the techniques).
+
+## Related
+
+- [[feedback-loops-claude-code-less-babysitting]]
+- [[learn-harness-engineering]]

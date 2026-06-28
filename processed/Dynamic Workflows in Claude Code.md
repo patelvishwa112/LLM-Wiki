@@ -1,13 +1,21 @@
 ---
-title: "A Harness for Every Task: Dynamic Workflows in Claude Code"
-tags: ["claude-code", "agents", "workflows", "multi-agent", "orchestration", "agent-harness"]
+title: 'A Harness for Every Task: Dynamic Workflows in Claude Code'
+tags:
+- claude-code
+- agents
+- workflows
+- multi-agent
+- orchestration
+- agent-harness
 source: https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code
 date: 2026-06-02
 published: 2026-06-02
-authors: ["Thariq Shihipar", "Sid Bidasaria"]
+authors:
+- Thariq Shihipar
+- Sid Bidasaria
 type: article
-related: ["[[Claude Code Best Practices]]", "[[Agent Harness Architecture]]", "[[Agentic Workflow Patterns]]"]
-raw: "[[raw/claude-com_dynamic-workflows]]"
+raw: '[[raw/claude-com_dynamic-workflows]]'
+description: 'A Harness for Every Task: Dynamic Workflows in Claude Code'
 ---
 
 # A Harness for Every Task: Dynamic Workflows in Claude Code
@@ -58,3 +66,9 @@ Dynamic workflows combat all three by spawning separate subagents, each with iso
 - Save workflows to `~/.claude/workflows` or distribute as skills
 - Works for non-technical work too — often more useful there
 - Quick workflows possible: "quick adversarial review of an assumption"
+
+## Related
+
+- [[Claude Code Best Practices]]
+- [[Agent Harness Architecture]]
+- [[Agentic Workflow Patterns]]

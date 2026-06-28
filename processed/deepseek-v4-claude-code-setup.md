@@ -1,12 +1,16 @@
 ---
-tags: ["claude-code", "deepseek", "cost-optimization"]
+tags:
+- claude-code
+- deepseek
+- cost-optimization
 source: https://x.com/godofprompt/status/2052798956699017621
-raw: "[[raw/godofprompt_2052798956699017621]]"
+raw: '[[raw/godofprompt_2052798956699017621]]'
 date: 2026-05-08
 type: processed-note
 related:
-  - "[[claude-code-investment-research-setup]]"
-  - "[[claude-code-cost-optimization-prompts]]"
+- '[[claude-code-investment-research-setup]]'
+- '[[claude-code-cost-optimization-prompts]]'
+description: DeepSeek V4 as a Parallel Claude Code Session
 ---
 
 # DeepSeek V4 as a Parallel Claude Code Session

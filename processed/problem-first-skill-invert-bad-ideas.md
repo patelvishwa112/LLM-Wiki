@@ -1,12 +1,28 @@
 ---
-tags: [skills, agents, claude-code, claude-cowork, pm, problem-first, triage, templates]
+tags:
+- skills
+- agents
+- claude-code
+- claude-cowork
+- pm
+- problem-first
+- triage
+- templates
 source: https://x.com/nurijanian/status/2063186118409929161
-raw: "[[raw/nurijanian_2063186118409929161]]"
+raw: '[[raw/nurijanian_2063186118409929161]]'
 date: 2026-06-06
 type: bookmark
 author: nurijanian
-summary: A Claude/Cowork skill that decompresses proposed solutions back into underlying problems. Treats solutions as "compressed confessions" of sensed-but-unarticulated problems. 8-section output includes assumption challenges with risk+validation tests and 3 alternative framings. Also works in reverse for triaging your own ideas — 90% die at "evidence status: none."
-related: [[feedback-loops-claude-code-less-babysitting]], [[Dynamic Workflows in Claude Code]], [[colleague-skill-dot-skill]]
+summary: 'A Claude/Cowork skill that decompresses proposed solutions back into underlying
+  problems. Treats solutions as "compressed confessions" of sensed-but-unarticulated
+  problems. 8-section output includes assumption challenges with risk+validation tests
+  and 3 alternative framings. Also works in reverse for triaging your own ideas —
+  90% die at "evidence status: none."'
+description: 'A Claude/Cowork skill that decompresses proposed solutions back into
+  underlying problems. Treats solutions as "compressed confessions" of sensed-but-unarticulated
+  problems. 8-section output includes assumption challenges with risk+validation tests
+  and 3 alternative framings. Also works in reverse for triaging your own ideas —
+  90% die at "evidence status: none."'
 ---
 
 # /problem-first — A Skill to Invert Bad Ideas
@@ -50,3 +66,9 @@ Under time pressure, humans skip sections 3 (assumption challenges), 5 (alternat
 The bottleneck is triage capacity, not idea generation. Ran across 50 backlog ideas → 90% died at evidence status → 3-5 survived → 1 pitched with evidence pack assembled.
 
 This pattern generalizes beyond PM: any time a stakeholder proposes a specific technical change, decompress before executing.
+
+## Related
+
+- [[feedback-loops-claude-code-less-babysitting]]
+- [[Dynamic Workflows in Claude Code]]
+- [[colleague-skill-dot-skill]]

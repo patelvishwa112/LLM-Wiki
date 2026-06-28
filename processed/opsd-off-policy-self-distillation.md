@@ -1,10 +1,27 @@
 ---
-tags: [rl, off-policy, self-distillation, opsd, opd, training, llm, agents, grpo, distillation, policy-optimization]
+tags:
+- rl
+- off-policy
+- self-distillation
+- opsd
+- opd
+- training
+- llm
+- agents
+- grpo
+- distillation
+- policy-optimization
 source: https://x.com/ar0cket1/status/2054108160450064571
 type: bookmark
-summary: "ar0cket1 shares early experimental results on Off-Policy Self-Distillation (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD's sample efficiency and training stability. Work in progress after 1+ week of experiments, with results shared via X Article cover image."
-related: [[rl-training-pipelines]], [[off-policy-rl]], [[grpo-advantages]], [[self-distillation]], [[ar0cket1]]
+summary: 'ar0cket1 shares early experimental results on Off-Policy Self-Distillation
+  (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD''s sample
+  efficiency and training stability. Work in progress after 1+ week of experiments,
+  with results shared via X Article cover image.'
 ingested: 2026-06-13
+description: 'ar0cket1 shares early experimental results on Off-Policy Self-Distillation
+  (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD''s sample
+  efficiency and training stability. Work in progress after 1+ week of experiments,
+  with results shared via X Article cover image.'
 ---
 
 # Off-Policy Self-Distillation (OPSD)
@@ -34,3 +51,11 @@ ingested: 2026-06-13
 **Raw Source:** [[raw/ar0cket1_2054108160450064571]]
 
 *Note: Full X Article content inaccessible without authentication; synthesized from post text, metadata, and related activity.*
+
+## Related
+
+- [[rl-training-pipelines]]
+- [[off-policy-rl]]
+- [[grpo-advantages]]
+- [[self-distillation]]
+- [[ar0cket1]]

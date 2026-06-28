@@ -1,12 +1,31 @@
 ---
-tags: [mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving, optimization, open-source]
+tags:
+- mlx
+- apple-silicon
+- inference
+- kv-cache
+- agents
+- agentic-workflows
+- vlm
+- lm-studio
+- serving
+- optimization
+- open-source
 source: https://x.com/ostensiblyneil/status/2063006720616734835
-raw: "[[raw/ostensiblyneil_2063006720616734835]]"
+raw: '[[raw/ostensiblyneil_2063006720616734835]]'
 date: 2026-06-06
 type: bookmark
 author: ostensiblyneil
-summary: MLX Engine v1.8.5 (LM Studio) adds disk-backed KV cache checkpointing for agentic workflows and continuous batching for VLMs. Solves the cache-rewind problem for models like Qwen 3.5 and Gemma 4. 256-token block boundaries, LRU disk store, unified-memory-aware eviction. Benchmarks: 2.2x faster parallel chat, 82% less extra RAM, 3.5x faster repeated image prompts on M3 Max.
-related: [[inference-engines-2026]], [[what-is-kv-cache-llms]]
+summary: 'MLX Engine v1.8.5 (LM Studio) adds disk-backed KV cache checkpointing for
+  agentic workflows and continuous batching for VLMs. Solves the cache-rewind problem
+  for models like Qwen 3.5 and Gemma 4. 256-token block boundaries, LRU disk store,
+  unified-memory-aware eviction. Benchmarks: 2.2x faster parallel chat, 82% less extra
+  RAM, 3.5x faster repeated image prompts on M3 Max.'
+description: 'MLX Engine v1.8.5 (LM Studio) adds disk-backed KV cache checkpointing
+  for agentic workflows and continuous batching for VLMs. Solves the cache-rewind
+  problem for models like Qwen 3.5 and Gemma 4. 256-token block boundaries, LRU disk
+  store, unified-memory-aware eviction. Benchmarks: 2.2x faster parallel chat, 82%
+  less extra RAM, 3.5x faster repeated image prompts on M3 Max.'
 ---
 
 # MLX Engine v1.8.5 — KV Cache for Agentic Workflows
@@ -34,3 +53,8 @@ Open-source models (Qwen 3.5, Gemma 4) use hybrid/sliding-window attention that 
 ## Relevance
 
 MLX Engine runs on Apple Silicon — directly applicable to Mac Mini M1 workflows. Disk-backed KV cache makes local agentic inference viable by keeping memory footprint manageable across multi-turn agent sessions. Continuous batching enables concurrent VLM requests.
+
+## Related
+
+- [[inference-engines-2026]]
+- [[what-is-kv-cache-llms]]

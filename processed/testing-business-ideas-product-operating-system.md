@@ -1,11 +1,28 @@
 ---
-tags: [pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, startups, stakeholders, product-management, discovery, lean-startup]
+tags:
+- pm
+- product-discovery
+- experimentation
+- assumption-mapping
+- testing-business-ideas
+- startups
+- stakeholders
+- product-management
+- discovery
+- lean-startup
 source: https://x.com/nurijanian/status/2070110096294642034
 date: 2026-06-25
 type: bookmark
 author: nurijanian
-summary: "Advanced reference on Testing Business Ideas (Bland & Osterwalder): not assumption mapping basics but the operating system—search vs execution, team design, experiment flow (Backlog/Setup/Run/Learn), WIP limits, ceremonies, stakeholder reviews, and staged funding. Minimum viable cadence for normal product teams."
-raw: "[[raw/nurijanian_2070110096294642034]]"
+summary: 'Advanced reference on Testing Business Ideas (Bland & Osterwalder): not
+  assumption mapping basics but the operating system—search vs execution, team design,
+  experiment flow (Backlog/Setup/Run/Learn), WIP limits, ceremonies, stakeholder reviews,
+  and staged funding. Minimum viable cadence for normal product teams.'
+raw: '[[raw/nurijanian_2070110096294642034]]'
+description: 'Advanced reference on Testing Business Ideas (Bland & Osterwalder):
+  not assumption mapping basics but the operating system—search vs execution, team
+  design, experiment flow (Backlog/Setup/Run/Learn), WIP limits, ceremonies, stakeholder
+  reviews, and staged funding. Minimum viable cadence for normal product teams.'
 ---
 
 # Testing Business Ideas as a Product Operating System

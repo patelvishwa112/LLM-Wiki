@@ -3,9 +3,16 @@ title: AI Safety Levels (ASL)
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, policy, rsp]
-sources: [raw/anthropic/articles/anthropic-news-activating-asl3-protections.md, raw/anthropic/papers/responsible-scaling-policy.md, raw/anthropic/articles/anthropic-news-responsible-scaling-policy-v3.md]
+tags:
+- safety
+- policy
+- rsp
+sources:
+- raw/anthropic/articles/anthropic-news-activating-asl3-protections.md
+- raw/anthropic/papers/responsible-scaling-policy.md
+- raw/anthropic/articles/anthropic-news-responsible-scaling-policy-v3.md
 confidence: high
+description: AI Safety Levels (ASL)
 ---
 
 # AI Safety Levels (ASL)

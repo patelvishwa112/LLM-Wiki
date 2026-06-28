@@ -1,11 +1,17 @@
 ---
-tags: ["design", "agents", "claude", "creativity", "strategy", "business-models"]
+tags:
+- design
+- agents
+- claude
+- creativity
+- strategy
+- business-models
 source: https://x.com/emmettshine/status/2054539694097015171
 date: 2026-05-13
 type: bookmark
-author: "Emmett Shine & Alex Leiphart (Little Plains)"
-raw: "[[raw/emmettshine_2054539694097015171]]"
-related: ["[[generative-ui-is-the-new-frontend]]"]
+author: Emmett Shine & Alex Leiphart (Little Plains)
+raw: '[[raw/emmettshine_2054539694097015171]]'
+description: 'The HTML Brand: The Rise of Input-Based Outcomes'
 ---
 
 # The HTML Brand: The Rise of Input-Based Outcomes
@@ -28,3 +34,7 @@ The breakthrough is enabled by Claude Design, which lets them work visually, ver
 Their key insight: the agentic system handles correctness and consistency, but only human creativity (what they call magic_trick.md) can produce the left-of-center moves that make work memorable. They use Diplo's concept of "vocabulary" — accumulated experience and taste — as the analogy. The atomic kit is the record library; magic_trick.md is knowing which record to play on which night.
 
 The business model is evolving from time-and-materials toward software-style licensing. The upfront strategy work concentrates the value; the ongoing relationship is about maintaining access to a living, improving system.
+
+## Related
+
+- [[generative-ui-is-the-new-frontend]]

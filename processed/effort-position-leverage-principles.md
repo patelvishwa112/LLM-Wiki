@@ -1,9 +1,18 @@
 ---
-tags: [leverage, signaling, career-strategy, market-dynamics, position-vs-effort, costly-signals, superstars, deliberate-practice]
+tags:
+- leverage
+- signaling
+- career-strategy
+- market-dynamics
+- position-vs-effort
+- costly-signals
+- superstars
+- deliberate-practice
 source: https://x.com/incentivising/status/2068248923563573366
 type: concept
 ingested: 2026-06-20
-related: [[career-coaching], [ai-native-engineering-org]]
+description: Effort is Linear, Position is Exponential — Five Principles of Market
+  Reality
 ---
 
 # Effort is Linear, Position is Exponential — Five Principles of Market Reality

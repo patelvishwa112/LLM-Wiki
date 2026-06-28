@@ -1,10 +1,15 @@
 ---
-tags: ["agents", "rag", "filesystem", "agent-interface", "assistants"]
+tags:
+- agents
+- rag
+- filesystem
+- agent-interface
+- assistants
 source: https://x.com/densumesh/status/2039765361533637016
-raw: "[[raw/densumesh_2039765361533637016]]"
+raw: '[[raw/densumesh_2039765361533637016]]'
 date: 2026-04-02
 type: bookmark
-related: [[autobrowse-browser-agent-memory]], [[hermes-harness-deep-dive-aparnadhinak]]
+description: Virtual Filesystem for AI Assistants — Beyond RAG
 ---
 
 # Virtual Filesystem for AI Assistants — Beyond RAG

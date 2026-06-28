@@ -1,10 +1,17 @@
 ---
-tags: ["harness-engineering", "agents", "claude-code", "codex", "agent-engineering", "verification", "course"]
+tags:
+- harness-engineering
+- agents
+- claude-code
+- codex
+- agent-engineering
+- verification
+- course
 source: https://walkinglabs.github.io/learn-harness-engineering/en/
 date: 2026-06-05
 type: resource
-author: "Walking Labs"
-related: ["[[feedback-loops-claude-code-less-babysitting]]", "[[openclaw-hermes-supervisor-setup]]"]
+author: Walking Labs
+description: Learn Harness Engineering
 ---
 
 # Learn Harness Engineering
@@ -37,3 +44,8 @@ Clear Objective → AGENTS.md → Initialization (init.sh) → Run Tasks (AI Age
 - **Lectures** — Theory: why capable agents still fail, harness design principles
 - **Projects** — Hands-on: build a reliable agentic environment from scratch
 - **Resource Library** — Copy-ready templates: AGENTS.md, feature_list.json, claude-progress.md
+
+## Related
+
+- [[feedback-loops-claude-code-less-babysitting]]
+- [[openclaw-hermes-supervisor-setup]]

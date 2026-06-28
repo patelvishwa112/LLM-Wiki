@@ -3,9 +3,20 @@ title: Detecting and Countering Misuse
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, misuse]
-sources: [raw/anthropic/articles/anthropic-news-detecting-and-countering-malicious-uses-of-claude-march-2025.md, raw/anthropic/articles/anthropic-news-detecting-countering-misuse-aug-2025.md, raw/anthropic/articles/anthropic-news-elections-ai-2024.md, raw/anthropic/articles/anthropic-news-testing-and-mitigating-elections-related-risks.md, raw/anthropic/articles/anthropic-news-preparing-for-global-elections-in-2024.md, raw/anthropic/articles/anthropic-news-disrupting-AI-espionage.md, raw/anthropic/papers/pdf-threat-intelligence-report-august-2025.md, raw/anthropic/articles/anthropic-news-our-approach-to-understanding-and-addressing-ai-harms.md]
+tags:
+- safety
+- misuse
+sources:
+- raw/anthropic/articles/anthropic-news-detecting-and-countering-malicious-uses-of-claude-march-2025.md
+- raw/anthropic/articles/anthropic-news-detecting-countering-misuse-aug-2025.md
+- raw/anthropic/articles/anthropic-news-elections-ai-2024.md
+- raw/anthropic/articles/anthropic-news-testing-and-mitigating-elections-related-risks.md
+- raw/anthropic/articles/anthropic-news-preparing-for-global-elections-in-2024.md
+- raw/anthropic/articles/anthropic-news-disrupting-AI-espionage.md
+- raw/anthropic/papers/pdf-threat-intelligence-report-august-2025.md
+- raw/anthropic/articles/anthropic-news-our-approach-to-understanding-and-addressing-ai-harms.md
 confidence: high
+description: Detecting and Countering Misuse
 ---
 
 # Detecting and Countering Misuse

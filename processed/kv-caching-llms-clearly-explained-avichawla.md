@@ -1,11 +1,30 @@
 ---
-tags: [llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, fundamentals, serving, gpu]
+tags:
+- llm
+- inference
+- kv-cache
+- transformers
+- attention
+- ttft
+- prefill
+- gqa
+- mqa
+- fundamentals
+- serving
+- gpu
 source: https://x.com/_avichawla/status/2034902650534187503
 date: 2026-03-20
 type: bookmark
 author: _avichawla
-summary: "Avi Chawla: six-part KV cache primer — last-token generation, Q/K/V reuse, O(n²) waste without cache, prefill vs decode (TTFT), memory cost (Qwen 72B example), GQA/MQA and paged attention follow-ons; ~5× decode speedup; links provider prompt caching as separate TTFT lever."
-raw: "[[raw/_avichawla_2034902650534187503]]"
+summary: 'Avi Chawla: six-part KV cache primer — last-token generation, Q/K/V reuse,
+  O(n²) waste without cache, prefill vs decode (TTFT), memory cost (Qwen 72B example),
+  GQA/MQA and paged attention follow-ons; ~5× decode speedup; links provider prompt
+  caching as separate TTFT lever.'
+raw: '[[raw/_avichawla_2034902650534187503]]'
+description: 'Avi Chawla: six-part KV cache primer — last-token generation, Q/K/V
+  reuse, O(n²) waste without cache, prefill vs decode (TTFT), memory cost (Qwen 72B
+  example), GQA/MQA and paged attention follow-ons; ~5× decode speedup; links provider
+  prompt caching as separate TTFT lever.'
 ---
 
 # KV Caching in LLMs (Avi Chawla)

@@ -1,21 +1,30 @@
 ---
 tags:
-  - rlhf
-  - training
-  - alignment
-  - reward-modeling
-  - ppo
-  - dpo
-  - constitutional-ai
-  - fundamentals
+- rlhf
+- training
+- alignment
+- reward-modeling
+- ppo
+- dpo
+- constitutional-ai
+- fundamentals
 source: https://x.com/itsreallyvivek/status/2063610589621219596
-raw: "[[raw/itsreallyvivek_2063610589621219596]]"
+raw: '[[raw/itsreallyvivek_2063610589621219596]]'
 date: 2026-06-07
 author: Vivek (@itsreallyvivek)
 type: bookmark
-summary: "RLHF explained from first principles: the three-phase pipeline (SFT → reward model → PPO loop), Bradley-Terry preference modeling, the KL penalty as a leash against reward hacking, and common failure modes (reward hacking, distributional shift, labeler bias). Covers post-RLHF developments: DPO, Constitutional AI, RLAIF. Core insight: measured preferences ≠ actual values ≠ what's genuinely good."
+summary: 'RLHF explained from first principles: the three-phase pipeline (SFT → reward
+  model → PPO loop), Bradley-Terry preference modeling, the KL penalty as a leash
+  against reward hacking, and common failure modes (reward hacking, distributional
+  shift, labeler bias). Covers post-RLHF developments: DPO, Constitutional AI, RLAIF.
+  Core insight: measured preferences ≠ actual values ≠ what''s genuinely good.'
 related:
-  - "[[automate-writing-llm-prompts-dspy]]"
+- '[[automate-writing-llm-prompts-dspy]]'
+description: 'RLHF explained from first principles: the three-phase pipeline (SFT
+  → reward model → PPO loop), Bradley-Terry preference modeling, the KL penalty as
+  a leash against reward hacking, and common failure modes (reward hacking, distributional
+  shift, labeler bias). Covers post-RLHF developments: DPO, Constitutional AI, RLAIF.
+  Core insight: measured preferences ≠ actual values ≠ what''s genuinely good.'
 ---
 
 # What Every Programmer Should Know About RLHF

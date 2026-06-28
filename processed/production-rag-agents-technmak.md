@@ -1,12 +1,38 @@
 ---
-tags: [agent-architecture, agent-harness, rag, agents, retrieval, prompt-engineering, agent-ops]
+tags:
+- agent-architecture
+- agent-harness
+- rag
+- agents
+- retrieval
+- prompt-engineering
+- agent-ops
 source: https://x.com/technmak/status/2068683947899273295
 type: bookmark
-related: [[21-agent-building-mistakes], [coding-agent-harness-eight-pillars], [harness-engineering-2026-discipline], [iii-agent-harness-workers]]
-summary: |
-  "@techNmak's Part 2 post on production AI systems. Focuses on where real systems fail: retrieval (RAG pipeline stages from ingestion to evaluation) and agent design (tool design, observation, verification, memory, termination). Strong emphasis on 'Model proposes. System verifies. Tool executes.' Includes practical interview scenarios that distinguish builders from readers."
-why_it_matters: |
-  "One of the best single posts on practical RAG + agent engineering. Systems-thinking heavy, anti-hype, and laser-focused on production failure modes. Directly relevant to agent-harness design, verification loops, tool safety, memory architecture, and evaluation. Complements existing vault notes on agent building mistakes and harness engineering."
+related:
+- - 21-agent-building-mistakes
+- - coding-agent-harness-eight-pillars
+- - harness-engineering-2026-discipline
+- - iii-agent-harness-workers
+summary: '"@techNmak''s Part 2 post on production AI systems. Focuses on where real
+  systems fail: retrieval (RAG pipeline stages from ingestion to evaluation) and agent
+  design (tool design, observation, verification, memory, termination). Strong emphasis
+  on ''Model proposes. System verifies. Tool executes.'' Includes practical interview
+  scenarios that distinguish builders from readers."
+
+  '
+why_it_matters: '"One of the best single posts on practical RAG + agent engineering.
+  Systems-thinking heavy, anti-hype, and laser-focused on production failure modes.
+  Directly relevant to agent-harness design, verification loops, tool safety, memory
+  architecture, and evaluation. Complements existing vault notes on agent building
+  mistakes and harness engineering."
+
+  '
+description: '"@techNmak''s Part 2 post on production AI systems. Focuses on where
+  real systems fail: retrieval (RAG pipeline stages from ingestion to evaluation)
+  and agent design (tool design, observation, verification, memory, termination).
+  Strong emphasis on ''Model proposes. System verifies. Tool executes.'' Includes
+  practical interview scenarios that distinguish builders from readers."'
 ---
 
 # Production AI Systems: RAG and Agents (Part 2)

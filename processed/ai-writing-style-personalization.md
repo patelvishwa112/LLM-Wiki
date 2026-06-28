@@ -1,11 +1,15 @@
 ---
-tags: ["prompt-engineering", "writing", "claude"]
+tags:
+- prompt-engineering
+- writing
+- claude
 source: https://x.com/rubenhassid/status/2050878032609530144
-raw: "[[raw/rubenhassid_2050878032609530144]]"
+raw: '[[raw/rubenhassid_2050878032609530144]]'
 date: 2026-04-29
 type: processed-note
 related:
-  - "[[claude-code-cost-optimization-prompts]]"
+- '[[claude-code-cost-optimization-prompts]]'
+description: 'Anti-AI Writing Style: Making AI Sound Human'
 ---
 
 # Anti-AI Writing Style: Making AI Sound Human

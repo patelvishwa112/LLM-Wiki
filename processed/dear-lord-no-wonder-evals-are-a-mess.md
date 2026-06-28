@@ -1,9 +1,12 @@
 ---
-tags: ["evals", "models"]
+tags:
+- evals
+- models
 source: https://x.com/yacinelearning/status/2057813285936714194
-raw: "[[raw/yacinelearning_2057813285936714194]]"
+raw: '[[raw/yacinelearning_2057813285936714194]]'
 date: 2026-05-22
 type: bookmark
+description: dear lord no wonder evals are a mess
 ---
 
 # dear lord no wonder evals are a mess

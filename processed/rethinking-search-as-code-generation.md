@@ -1,12 +1,21 @@
 ---
-title: "Rethinking Search as Code Generation"
-tags: ["search", "agents", "perplexity", "sac", "architecture", "code-generation", "agent-harness"]
+title: Rethinking Search as Code Generation
+tags:
+- search
+- agents
+- perplexity
+- sac
+- architecture
+- code-generation
+- agent-harness
 source: https://research.perplexity.ai/articles/rethinking-search-as-code-generation
 date: 2026-06-02
 published: 2026-06-01
-authors: ["Perplexity Research"]
+authors:
+- Perplexity Research
 type: article
-raw: "[[raw/perplexity_rethinking-search-as-code-generation]]"
+raw: '[[raw/perplexity_rethinking-search-as-code-generation]]'
+description: Rethinking Search as Code Generation
 ---
 
 # Rethinking Search as Code Generation

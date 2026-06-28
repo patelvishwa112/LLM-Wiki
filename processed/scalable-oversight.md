@@ -3,9 +3,16 @@ title: Scalable Oversight
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, scalable-oversight]
-sources: [raw/anthropic/papers/arxiv-2211.03540.md, raw/anthropic/papers/arxiv-2312.09390.md, raw/anthropic/papers/arxiv-2211.00593.md, raw/anthropic/papers/arxiv-2210.10760.md]
+tags:
+- alignment
+- scalable-oversight
+sources:
+- raw/anthropic/papers/arxiv-2211.03540.md
+- raw/anthropic/papers/arxiv-2312.09390.md
+- raw/anthropic/papers/arxiv-2211.00593.md
+- raw/anthropic/papers/arxiv-2210.10760.md
 confidence: high
+description: Scalable Oversight
 ---
 
 # Scalable Oversight

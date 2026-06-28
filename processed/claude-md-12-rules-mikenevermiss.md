@@ -1,12 +1,38 @@
 ---
-tags: [claude-code, agent-harness, skills, prompt-engineering, agent-ops]
+tags:
+- claude-code
+- agent-harness
+- skills
+- prompt-engineering
+- agent-ops
 source: https://x.com/mikenevermiss/status/2068197417506222428
 type: bookmark
-related: [[hermes-agent-skill-authoring], [writing-plans], [iii-agent-harness-workers], [agent-harness-engineering-claude-14-step-roadmap]]
-summary: |
-  "@mikenevermiss proposes an expanded 12-rule CLAUDE.md template for Claude Code (building on the original 4 rules from Karpathy/Forrest). Addresses modern multi-agent setups, hooks, skill libraries, and long-running workflows. Includes a clean, concise full template and claims it drops unsupervised error rates to ~3%. Key additions: hard token budgets, git worktrees for agents, PROGRESS.md checkpoints, separate research/implementation sessions, scoped hooks, and unique skill descriptions."
-why_it_matters: |
-  "Directly relevant to the vault's own CLAUDE.md conventions and the hermes-agent-skill-authoring skill. The 12 rules provide a battle-tested pattern for reliable agent behavior in complex projects. Strong emphasis on verifiability, cost control, isolation, and explicit failure modes aligns with production agent-harness design. The template is short enough for high compliance."
+related:
+- - hermes-agent-skill-authoring
+- - writing-plans
+- - iii-agent-harness-workers
+- - agent-harness-engineering-claude-14-step-roadmap
+summary: '"@mikenevermiss proposes an expanded 12-rule CLAUDE.md template for Claude
+  Code (building on the original 4 rules from Karpathy/Forrest). Addresses modern
+  multi-agent setups, hooks, skill libraries, and long-running workflows. Includes
+  a clean, concise full template and claims it drops unsupervised error rates to ~3%.
+  Key additions: hard token budgets, git worktrees for agents, PROGRESS.md checkpoints,
+  separate research/implementation sessions, scoped hooks, and unique skill descriptions."
+
+  '
+why_it_matters: '"Directly relevant to the vault''s own CLAUDE.md conventions and
+  the hermes-agent-skill-authoring skill. The 12 rules provide a battle-tested pattern
+  for reliable agent behavior in complex projects. Strong emphasis on verifiability,
+  cost control, isolation, and explicit failure modes aligns with production agent-harness
+  design. The template is short enough for high compliance."
+
+  '
+description: '"@mikenevermiss proposes an expanded 12-rule CLAUDE.md template for
+  Claude Code (building on the original 4 rules from Karpathy/Forrest). Addresses
+  modern multi-agent setups, hooks, skill libraries, and long-running workflows. Includes
+  a clean, concise full template and claims it drops unsupervised error rates to ~3%.
+  Key additions: hard token budgets, git worktrees for agents, PROGRESS.md checkpoints,
+  separate research/implementation sessions, scoped hooks, and unique skill descriptions."'
 ---
 
 # Updated CLAUDE.md Pattern for Claude Code (12 Rules)

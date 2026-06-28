@@ -1,22 +1,27 @@
 ---
 tags:
-  - agents
-  - agent-harness
-  - claude
-  - skills
-  - mcp
-  - prompt-engineering
+- agents
+- agent-harness
+- claude
+- skills
+- mcp
+- prompt-engineering
 source: https://claude.com/blog/harnessing-claudes-intelligence
-raw: "[[raw/anthropic-harnessing-claudes-intelligence]]"
+raw: '[[raw/anthropic-harnessing-claudes-intelligence]]'
 date: 2026-06-07
 author: Anthropic (Lance Martin)
 type: bookmark
-summary: "Design patterns for building applications that keep pace with Claude's evolving intelligence — use what it already knows, ask what you can stop doing, and set boundaries carefully."
+summary: Design patterns for building applications that keep pace with Claude's evolving
+  intelligence — use what it already knows, ask what you can stop doing, and set boundaries
+  carefully.
 related:
-  - "[[agent-harness-engineering-agentforge]]"
-  - "[[claude-code-changed-what-agents-look-like]]"
-  - "[[anthropic-claude-code-skills-lessons]]"
-  - "[[harness-engineering-2026-discipline]]"
+- '[[agent-harness-engineering-agentforge]]'
+- '[[claude-code-changed-what-agents-look-like]]'
+- '[[anthropic-claude-code-skills-lessons]]'
+- '[[harness-engineering-2026-discipline]]'
+description: Design patterns for building applications that keep pace with Claude's
+  evolving intelligence — use what it already knows, ask what you can stop doing,
+  and set boundaries carefully.
 ---
 
 # Harnessing Claude's Intelligence

@@ -1,11 +1,25 @@
 ---
-tags: [loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]
+tags:
+- loop-engineering
+- agent-harness
+- agents
+- reward-hacking
+- observability
+- context-engineering
+- claude-code
+- production
+- agent-ops
 source: https://x.com/h100envy/status/2068987470960623783
 date: 2026-06-22
 type: bookmark
 author: h100envy
-summary: "Step-by-step technical roadmap for autonomous agent loops: external deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking gates, disk state, isolation, and JSONL observability."
-raw: "[[raw/h100envy_2068987470960623783]]"
+summary: 'Step-by-step technical roadmap for autonomous agent loops: external deterministic
+  checks, stateless iterations, narrow context budgets, anti-reward-hacking gates,
+  disk state, isolation, and JSONL observability.'
+raw: '[[raw/h100envy_2068987470960623783]]'
+description: 'Step-by-step technical roadmap for autonomous agent loops: external
+  deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking
+  gates, disk state, isolation, and JSONL observability.'
 ---
 
 # Loop Engineering: Technical Roadmap for Autonomous Loops

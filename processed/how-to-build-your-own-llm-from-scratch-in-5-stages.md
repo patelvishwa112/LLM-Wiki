@@ -1,9 +1,16 @@
 ---
-tags: ["llm", "training", "models", "pretraining", "post-training", "data"]
+tags:
+- llm
+- training
+- models
+- pretraining
+- post-training
+- data
 source: https://x.com/0xcodez/status/2058911661973454915
-raw: "[[raw/0xcodez_2058911661973454915]]"
+raw: '[[raw/0xcodez_2058911661973454915]]'
 date: 2026-05-25
 type: bookmark
+description: How to Build Your Own LLM From Scratch in 5 Stages
 ---
 
 # How to Build Your Own LLM From Scratch in 5 Stages

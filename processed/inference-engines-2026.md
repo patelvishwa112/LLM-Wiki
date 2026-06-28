@@ -1,8 +1,14 @@
 ---
-tags: ["inference", "llm-engines", "serving", "hardware", "local-ai"]
+tags:
+- inference
+- llm-engines
+- serving
+- hardware
+- local-ai
 source: https://x.com/theahmadosman/status/2057183854444843202
 date: 2026-05-20
 type: bookmark
+description: Inference Engines for LLMs & Local AI Hardware (2026 Edition)
 ---
 
 # Inference Engines for LLMs & Local AI Hardware (2026 Edition)

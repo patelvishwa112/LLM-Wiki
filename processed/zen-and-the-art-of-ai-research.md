@@ -1,9 +1,15 @@
 ---
-tags: [ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]
+tags:
+- ai-research
+- career
+- mechanistic-interpretability
+- training
+- reading-writing
+- research-skills
 source: https://x.com/jxmnop/status/2066668040557867368
 type: bookmark
-related: [[5-ai-skills-six-figures-2027]], [[agent-memory-landscape-2026]]
 ingested: 2026-06-15
+description: Zen and the Art of AI Research
 ---
 
 # Zen and the Art of AI Research
@@ -30,3 +36,8 @@ This simple loop compounds into research capability.
 
 ---
 *Processed from X post 2026-06-15. Practical AI research onboarding guide.*
+
+## Related
+
+- [[5-ai-skills-six-figures-2027]]
+- [[agent-memory-landscape-2026]]

@@ -1,9 +1,14 @@
 ---
-tags: [career, learning, early-career, decision-making, personal-growth]
+tags:
+- career
+- learning
+- early-career
+- decision-making
+- personal-growth
 source: https://x.com/richzou/status/2066647074935079413
 type: bookmark
-related: []
 ingested: 2026-06-18
+description: A career guide for people in their early twenties
 ---
 
 # A career guide for people in their early twenties

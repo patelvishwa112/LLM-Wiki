@@ -1,16 +1,21 @@
 ---
 tags:
-  - claude
-  - multi-agent
-  - research
-  - storm
-  - agent-orchestration
+- claude
+- multi-agent
+- research
+- storm
+- agent-orchestration
 source: https://x.com/heynavtoor/status/2067194761446920264
 type: bookmark
 related:
-  - [[multi-agent-orchestration]]
-  - [[agent-harness-engineering-claude-14-step-roadmap]]
-summary: "Nav Toor shares the Stanford STORM method — a multi-agent research system that enables Claude to conduct deep, PhD-level research by orchestrating multiple specialized agents instead of single-shot prompting."
+- - - multi-agent-orchestration
+- - - agent-harness-engineering-claude-14-step-roadmap
+summary: Nav Toor shares the Stanford STORM method — a multi-agent research system
+  that enables Claude to conduct deep, PhD-level research by orchestrating multiple
+  specialized agents instead of single-shot prompting.
+description: Nav Toor shares the Stanford STORM method — a multi-agent research system
+  that enables Claude to conduct deep, PhD-level research by orchestrating multiple
+  specialized agents instead of single-shot prompting.
 ---
 
 # The Stanford STORM Method: How to Make Claude Research Like a PhD in Minutes

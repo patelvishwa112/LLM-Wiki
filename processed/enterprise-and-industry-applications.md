@@ -3,9 +3,19 @@ title: Enterprise and Industry Applications
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [societal-impacts, enterprise]
-sources: [raw/anthropic/articles/anthropic-news-claude-for-financial-services.md, raw/anthropic/articles/anthropic-news-advancing-claude-for-financial-services.md, raw/anthropic/articles/anthropic-news-finance-agents.md, raw/anthropic/articles/anthropic-news-claude-for-life-sciences.md, raw/anthropic/articles/anthropic-news-healthcare-life-sciences.md, raw/anthropic/articles/anthropic-news-claude-for-small-business.md, raw/anthropic/articles/anthropic-news-claude-for-nonprofits.md]
+tags:
+- societal-impacts
+- enterprise
+sources:
+- raw/anthropic/articles/anthropic-news-claude-for-financial-services.md
+- raw/anthropic/articles/anthropic-news-advancing-claude-for-financial-services.md
+- raw/anthropic/articles/anthropic-news-finance-agents.md
+- raw/anthropic/articles/anthropic-news-claude-for-life-sciences.md
+- raw/anthropic/articles/anthropic-news-healthcare-life-sciences.md
+- raw/anthropic/articles/anthropic-news-claude-for-small-business.md
+- raw/anthropic/articles/anthropic-news-claude-for-nonprofits.md
 confidence: high
+description: Enterprise and Industry Applications
 ---
 
 # Enterprise and Industry Applications

@@ -1,13 +1,22 @@
 ---
-title: "The Research Agent — Building an Evidence Operator That Compounds"
-tags: ["research-agent", "agents", "hermes", "evidence", "vault", "knowledge-management", "compounding", "operator-surfaces"]
+title: The Research Agent — Building an Evidence Operator That Compounds
+tags:
+- research-agent
+- agents
+- hermes
+- evidence
+- vault
+- knowledge-management
+- compounding
+- operator-surfaces
 source: https://x.com/gkisokay/status/2051275483996909982
 date: 2026-06-02
 published: 2026-05-04
-authors: ["Graeme (@gkisokay)"]
+authors:
+- Graeme (@gkisokay)
 type: bookmark
-raw: "[[raw/gkisokay_2051275483996909982]]"
-related: ["[[knowledge-system-compounding-obsidian-vellum]]"]
+raw: '[[raw/gkisokay_2051275483996909982]]'
+description: The Research Agent — Evidence Operator
 ---
 
 # The Research Agent — Evidence Operator
@@ -69,3 +78,7 @@ Each arrow is a deliberate transformation. Each stage has its own file type. If 
 Research agent = evidence collector. Main = conscious operator. Subconscious = pattern-noticer. Coder = builder. QA = auditor. Content = publisher.
 
 Everything is downstream from research. But research does not own the machine — it contributes evidence and implications. When research, judgment, building, and publishing collapse into one agent, every interesting signal becomes an action item.
+
+## Related
+
+- [[knowledge-system-compounding-obsidian-vellum]]

@@ -1,12 +1,19 @@
 ---
-tags: ["claude-code", "slm", "training", "rl", "synthetic-data", "agents"]
+tags:
+- claude-code
+- slm
+- training
+- rl
+- synthetic-data
+- agents
 source: https://x.com/neural_avb/status/2057201992666411518
-raw: "[[raw/neural_avb_2057201992666411518]]"
+raw: '[[raw/neural_avb_2057201992666411518]]'
 date: 2026-05-20
 type: processed-note
 related:
-  - "[[coding-agent-harness-eight-pillars]]"
-  - "[[rl-agents-system-prompt-reward-function]]"
+- '[[coding-agent-harness-eight-pillars]]'
+- '[[rl-agents-system-prompt-reward-function]]'
+description: Bootstrapping Claude Code to Train a Small Language Model
 ---
 
 # Bootstrapping Claude Code to Train a Small Language Model

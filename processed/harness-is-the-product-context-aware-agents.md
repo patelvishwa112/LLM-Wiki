@@ -1,10 +1,23 @@
 ---
-tags: [agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, context-window, token-economy, hydradb, anthropic]
+tags:
+- agents
+- harness
+- context-management
+- context-engineering
+- compaction
+- agent-architecture
+- subagents
+- context-rot
+- context-window
+- token-economy
+- hydradb
+- anthropic
 source: https://x.com/0x_kaize/status/2063343984521490722
-raw: "[[raw/0x_kaize_2063343984521490722]]"
+raw: '[[raw/0x_kaize_2063343984521490722]]'
 type: article
 author: kaize (@0x_kaize)
 date: 2026-06-06
+description: 'The Harness Is the Product: Building Context-Aware Agent Harnesses'
 ---
 
 # The Harness Is the Product: Building Context-Aware Agent Harnesses

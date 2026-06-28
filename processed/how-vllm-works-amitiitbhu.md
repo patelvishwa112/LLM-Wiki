@@ -1,11 +1,26 @@
 ---
-tags: [vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]
+tags:
+- vllm
+- inference
+- serving
+- kv-cache
+- pagedattention
+- continuous-batching
+- gpu
+- llm
+- agents
+- throughput
 source: https://x.com/amitiitbhu/status/2069384034074107905
-raw: "[[raw/amitiitbhu_2069384034074107905]]"
+raw: '[[raw/amitiitbhu_2069384034074107905]]'
 date: 2026-06-23
 type: bookmark
 author: amitiitbhu
-summary: "Amit Shekhar explains vLLM: KV cache as the serving bottleneck, naive max-length reservation vs PagedAttention block tables and prefix sharing, static vs continuous batching, and OpenAI-compatible deployment for chat and agent workloads."
+summary: 'Amit Shekhar explains vLLM: KV cache as the serving bottleneck, naive max-length
+  reservation vs PagedAttention block tables and prefix sharing, static vs continuous
+  batching, and OpenAI-compatible deployment for chat and agent workloads.'
+description: 'Amit Shekhar explains vLLM: KV cache as the serving bottleneck, naive
+  max-length reservation vs PagedAttention block tables and prefix sharing, static
+  vs continuous batching, and OpenAI-compatible deployment for chat and agent workloads.'
 ---
 
 # How vLLM Works

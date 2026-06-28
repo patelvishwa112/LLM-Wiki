@@ -1,22 +1,23 @@
 ---
-title: "Exp1 Initial Result — 0% Causal Efficacy with Pre-Trained SAE on Llama 1B"
+title: Exp1 Initial Result — 0% Causal Efficacy with Pre-Trained SAE on Llama 1B
 date: 2026-05-29
 type: experiment
 tags:
-  - interpretability
-  - sparse-autoencoders
-  - experiment
-  - steering
-  - encoding-deployment-gap
-  - exp1-gap-closure
+- interpretability
+- sparse-autoencoders
+- experiment
+- steering
+- encoding-deployment-gap
+- exp1-gap-closure
 status: in-progress
 project: ~/Projects/llama-sae-interp/
 model: Llama-3.2-1B-Instruct
 hardware: Apple M1 Mac Mini, 8GB RAM
 sae: sae-Llama-3.2-1B-131k (pre-trained, HuggingFace)
 related:
-  - "[[beyond-ghost-sae-experiment-proposals]]"
-  - "[[ghost-in-residual-stream-experiment]]"
+- '[[beyond-ghost-sae-experiment-proposals]]'
+- '[[ghost-in-residual-stream-experiment]]'
+description: 'Exp1: SAE Gap Closure — Initial Result (Pre-Trained SAE)'
 ---
 
 # Exp1: SAE Gap Closure — Initial Result (Pre-Trained SAE)

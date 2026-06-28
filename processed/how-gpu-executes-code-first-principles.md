@@ -1,19 +1,26 @@
 ---
 tags:
-  - gpu
-  - gpu-architecture
-  - cuda
-  - parallelism
-  - fundamentals
-  - hardware
+- gpu
+- gpu-architecture
+- cuda
+- parallelism
+- fundamentals
+- hardware
 source: https://x.com/rocky_t07/status/2059997637726937492
-raw: "[[raw/rocky_t07_2059997637726937492]]"
+raw: '[[raw/rocky_t07_2059997637726937492]]'
 date: 2026-05-28
 author: Rocky (@Rocky_T07)
 type: bookmark
-summary: A first-principles walkthrough of how GPUs execute code — from the thread hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline, to why GPUs revolutionized parallel computation. Includes the memory aid GBWT (Grid → Block → Warp → Thread).
+summary: A first-principles walkthrough of how GPUs execute code — from the thread
+  hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline,
+  to why GPUs revolutionized parallel computation. Includes the memory aid GBWT (Grid
+  → Block → Warp → Thread).
 related:
-  - "[[what-is-kv-cache-llms]]"
+- '[[what-is-kv-cache-llms]]'
+description: A first-principles walkthrough of how GPUs execute code — from the thread
+  hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline,
+  to why GPUs revolutionized parallel computation. Includes the memory aid GBWT (Grid
+  → Block → Warp → Thread).
 ---
 
 # How GPUs Execute Code — First Principles

@@ -1,21 +1,32 @@
 ---
 tags:
-  - claude-code
-  - anthropic
-  - agents
-  - multi-agent
-  - orchestration
-  - parallelism
-  - agent-ops
+- claude-code
+- anthropic
+- agents
+- multi-agent
+- orchestration
+- parallelism
+- agent-ops
 source: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
-raw: "[[raw/anthropic-dynamic-workflows-claude-code]]"
+raw: '[[raw/anthropic-dynamic-workflows-claude-code]]'
 date: 2026-05-28
 author: Anthropic
 type: bookmark
-summary: "Dynamic workflows in Claude Code: Claude autonomously writes orchestration scripts that fan out tens to hundreds of parallel subagents, checks its own work, and iterates until answers converge. Use cases: codebase-wide bug hunts, large migrations, security audits, adversarial verification. Bun was ported from Zig to Rust (750K lines, 99.8% test pass) in 11 days using dynamic workflows. Available in research preview on Max/Team/Enterprise plans."
+summary: 'Dynamic workflows in Claude Code: Claude autonomously writes orchestration
+  scripts that fan out tens to hundreds of parallel subagents, checks its own work,
+  and iterates until answers converge. Use cases: codebase-wide bug hunts, large migrations,
+  security audits, adversarial verification. Bun was ported from Zig to Rust (750K
+  lines, 99.8% test pass) in 11 days using dynamic workflows. Available in research
+  preview on Max/Team/Enterprise plans.'
 related:
-  - "[[kimi-k2.6-agent-swarm-300-parallel-agents]]"
-  - "[[harness-engineering-2026-discipline]]"
+- '[[kimi-k2.6-agent-swarm-300-parallel-agents]]'
+- '[[harness-engineering-2026-discipline]]'
+description: 'Dynamic workflows in Claude Code: Claude autonomously writes orchestration
+  scripts that fan out tens to hundreds of parallel subagents, checks its own work,
+  and iterates until answers converge. Use cases: codebase-wide bug hunts, large migrations,
+  security audits, adversarial verification. Bun was ported from Zig to Rust (750K
+  lines, 99.8% test pass) in 11 days using dynamic workflows. Available in research
+  preview on Max/Team/Enterprise plans.'
 ---
 
 # Dynamic Workflows in Claude Code

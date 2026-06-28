@@ -1,10 +1,21 @@
 ---
-tags: [kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, market-research, document-to-skill, automation, knowledge-compounding]
+tags:
+- kimi
+- kimi-k2.6
+- agent-swarm
+- parallel-agents
+- multi-agent
+- moonshot
+- market-research
+- document-to-skill
+- automation
+- knowledge-compounding
 source: https://x.com/sprytixl/status/2062420467034513604
-raw: "[[raw/sprytixl_2062420467034513604]]"
+raw: '[[raw/sprytixl_2062420467034513604]]'
 type: article
 author: Sprytix (@Sprytixl)
 date: 2026-06-04
+description: 'Kimi K2.6: 300 Parallel Agents in One Run'
 ---
 
 # Kimi K2.6: 300 Parallel Agents in One Run

@@ -3,9 +3,14 @@ title: Reward Hacking and Tampering
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, reward-hacking]
-sources: [raw/anthropic/articles/anthropic-research-reward-tampering.md, raw/anthropic/papers/arxiv-2210.10760.md]
+tags:
+- alignment
+- reward-hacking
+sources:
+- raw/anthropic/articles/anthropic-research-reward-tampering.md
+- raw/anthropic/papers/arxiv-2210.10760.md
 confidence: high
+description: Reward Hacking and Tampering
 ---
 
 # Reward Hacking and Tampering

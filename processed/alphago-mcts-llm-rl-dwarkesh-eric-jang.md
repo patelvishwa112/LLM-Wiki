@@ -1,10 +1,16 @@
 ---
-tags: ["rl", "mcts", "alphago", "llm-training", "credit-assignment", "autoresearch"]
+tags:
+- rl
+- mcts
+- alphago
+- llm-training
+- credit-assignment
+- autoresearch
 source: https://x.com/dwarkesh_sp/status/2055324348332871779
-raw: "[[raw/dwarkesh_sp_2055324348332871779]]"
+raw: '[[raw/dwarkesh_sp_2055324348332871779]]'
 date: 2026-05-15
 type: note
-related: ["sutton-barto-rl-notes", "fast-slow-training-continual-llm-adaptation", "rl-environments-guide-llm", "recursive-self-improvement-2028-prediction"]
+description: AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang
 ---
 
 # AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang

@@ -1,11 +1,24 @@
 ---
-tags: [career, platform, email-list, creator-economy, audience-building, perennial-seller, meta-learning, productivity]
+tags:
+- career
+- platform
+- email-list
+- creator-economy
+- audience-building
+- perennial-seller
+- meta-learning
+- productivity
 source: https://x.com/ryanholiday/status/2068709749617561704
 date: 2026-06-21
 type: bookmark
 author: ryanholiday
-summary: "Ryan Holiday argues that a durable career platform—especially an owned email list—is more valuable than office or follower counts, using Churchill's wilderness years and his own list growth as proof."
-raw: "[[raw/ryanholiday_2068709749617561704]]"
+summary: Ryan Holiday argues that a durable career platform—especially an owned email
+  list—is more valuable than office or follower counts, using Churchill's wilderness
+  years and his own list growth as proof.
+raw: '[[raw/ryanholiday_2068709749617561704]]'
+description: Ryan Holiday argues that a durable career platform—especially an owned
+  email list—is more valuable than office or follower counts, using Churchill's wilderness
+  years and his own list growth as proof.
 ---
 
 # Career Platform and Email List as Durable Influence

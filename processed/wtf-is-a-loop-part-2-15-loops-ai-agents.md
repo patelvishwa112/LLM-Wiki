@@ -1,9 +1,17 @@
 ---
-tags: [claude-code, agent-loops, loops, agent-harness, verification, agent-ops, multi-agent, goal-execution]
+tags:
+- claude-code
+- agent-loops
+- loops
+- agent-harness
+- verification
+- agent-ops
+- multi-agent
+- goal-execution
 source: https://x.com/mvanhorn/status/2068426104088748331
 type: bookmark
 ingested: 2026-06-21
-related: [[guide-to-goal-codex], [self-improvement-loop-for-skills-zach-lloyd], [coding-agent-harness-eight-pillars]]
+description: 'WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running'
 ---
 
 # WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running

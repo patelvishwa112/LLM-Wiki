@@ -1,12 +1,15 @@
 ---
-tags: [macro, investing]
+tags:
+- macro
+- investing
 source: https://x.com/raydalio/status/2064758466447818954
 date: 2026-06-12
 type: bookmark
 author: raydalio
-summary: "Ray Dalio post on X"
-raw: "[[raw/raydalio_2064758466447818954]]"
+summary: Ray Dalio post on X
+raw: '[[raw/raydalio_2064758466447818954]]'
 related: []
+description: Ray Dalio post on X
 ---
 
 # Ray Dalio post on X

@@ -1,11 +1,20 @@
 ---
-tags: ["papers", "distributed-systems", "systems", "engineering"]
+tags:
+- papers
+- distributed-systems
+- systems
+- engineering
 source: https://x.com/thesupereng/status/2065361684747719164
 date: 2026-06-12
 type: bookmark
 author: thesupereng
-summary: "A curated reading path through 10 foundational systems papers that shaped Hadoop, Cassandra, Kafka, Kubernetes, OpenTelemetry, and modern distributed infrastructure, with one-line ideas and visible industry legacy for each."
-raw: "[[raw/thesupereng_2065361684747719164]]"
+summary: A curated reading path through 10 foundational systems papers that shaped
+  Hadoop, Cassandra, Kafka, Kubernetes, OpenTelemetry, and modern distributed infrastructure,
+  with one-line ideas and visible industry legacy for each.
+raw: '[[raw/thesupereng_2065361684747719164]]'
+description: A curated reading path through 10 foundational systems papers that shaped
+  Hadoop, Cassandra, Kafka, Kubernetes, OpenTelemetry, and modern distributed infrastructure,
+  with one-line ideas and visible industry legacy for each.
 ---
 
 # 10 Hall of Fame Engineering Papers

@@ -1,11 +1,24 @@
 ---
-tags: ["claude", "projects", "personal-assistant", "context-engineering", "artifacts", "zero-cost"]
+tags:
+- claude
+- projects
+- personal-assistant
+- context-engineering
+- artifacts
+- zero-cost
 source: https://x.com/0xmortyx/status/2063967160620245116
 date: 2026-06-08
 type: bookmark
 author: 0xmortyx
-summary: "Zero-extra-cost personal assistant built entirely inside one Claude Project: master prompt + three context files (about_me, preferences, goals) + web search + Artifacts. Everything compounds in persistent context. No external tools or automation platforms required."
-raw: "[[raw/0xmortyx_2063967160620245116]]"
+summary: 'Zero-extra-cost personal assistant built entirely inside one Claude Project:
+  master prompt + three context files (about_me, preferences, goals) + web search
+  + Artifacts. Everything compounds in persistent context. No external tools or automation
+  platforms required.'
+raw: '[[raw/0xmortyx_2063967160620245116]]'
+description: 'Zero-extra-cost personal assistant built entirely inside one Claude
+  Project: master prompt + three context files (about_me, preferences, goals) + web
+  search + Artifacts. Everything compounds in persistent context. No external tools
+  or automation platforms required.'
 ---
 
 # I Built a Personal AI Assistant With Claude for $0 - Here's Exactly How

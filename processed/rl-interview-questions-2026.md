@@ -1,23 +1,32 @@
 ---
 tags:
-  - rl
-  - rlhf
-  - training
-  - interview-questions
-  - ppo
-  - grpo
-  - infrastructure
-  - llm
+- rl
+- rlhf
+- training
+- interview-questions
+- ppo
+- grpo
+- infrastructure
+- llm
 source: https://x.com/sheriyuo/status/2063295181131247674
-raw: "[[raw/sheriyuo_2063295181131247674]]"
+raw: '[[raw/sheriyuo_2063295181131247674]]'
 date: 2026-06-06
 author: Xiuyu Li (@sheriyuo)
 type: bookmark
-summary: "35 RL interview questions distilled from Zhihu experiences and recent discussions, spanning Algorithm (19) and Infrastructure (16). Covers Actor-Critic, PPO/GRPO variants, reward design, KL penalty, DPO, MoE train-inference mismatch, async RL frameworks, KV cache, parallelism strategies, and staleness. Modern RL hiring expects full-stack understanding."
+summary: 35 RL interview questions distilled from Zhihu experiences and recent discussions,
+  spanning Algorithm (19) and Infrastructure (16). Covers Actor-Critic, PPO/GRPO variants,
+  reward design, KL penalty, DPO, MoE train-inference mismatch, async RL frameworks,
+  KV cache, parallelism strategies, and staleness. Modern RL hiring expects full-stack
+  understanding.
 related:
-  - "[[rl-interview-answers-2026]]"
-  - "[[rlhf-from-first-principles]]"
-  - "[[microsoft-mai-thinking1-rank-noninvariance]]"
+- '[[rl-interview-answers-2026]]'
+- '[[rlhf-from-first-principles]]'
+- '[[microsoft-mai-thinking1-rank-noninvariance]]'
+description: 35 RL interview questions distilled from Zhihu experiences and recent
+  discussions, spanning Algorithm (19) and Infrastructure (16). Covers Actor-Critic,
+  PPO/GRPO variants, reward design, KL penalty, DPO, MoE train-inference mismatch,
+  async RL frameworks, KV cache, parallelism strategies, and staleness. Modern RL
+  hiring expects full-stack understanding.
 ---
 
 # RL Interview Questions 2026

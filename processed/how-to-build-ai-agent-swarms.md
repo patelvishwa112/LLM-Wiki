@@ -1,11 +1,21 @@
 ---
-tags: ["agents", "multi-agent", "swarms", "orchestration", "kimi", "claude", "kimi-k2", "parallelism", "rl", "architecture"]
+tags:
+- agents
+- multi-agent
+- swarms
+- orchestration
+- kimi
+- claude
+- kimi-k2
+- parallelism
+- rl
+- architecture
 source: https://x.com/av1dlive/status/2062561213532471707
 date: 2026-06-04
 type: bookmark
-author: "Avid (@Av1dlive)"
-raw: "[[raw/av1dlive_2062561213532471707]]"
-related: ["[[openclaw-hermes-supervisor-setup]]"]
+author: Avid (@Av1dlive)
+raw: '[[raw/av1dlive_2062561213532471707]]'
+description: How to Build AI Agent Swarms (Complete Guide)
 ---
 
 # How to Build AI Agent Swarms (Complete Guide)
@@ -24,3 +34,7 @@ related: ["[[openclaw-hermes-supervisor-setup]]"]
 Avid provides an exhaustive technical guide to building AI agent swarms, centered on Kimi K2.6 (Moonshot AI's 1T-parameter open-weight MoE) and Claude Opus 4.8. The guide covers the full stack: training infrastructure (MuonClip optimizer, PARL reinforcement learning), serving infrastructure (Mooncake's KVCache-centric disaggregated architecture handling 100B+ tokens/day), the execution model (300 sub-agents, 4,000 coordinated steps, wave-based parallelism), and the four swarm architecture patterns.
 
 The core recommendation: use Claude Opus 4.8 for planning and verification (its honesty improvements make it the right anchor where false confidence is catastrophic), and Kimi K2.6 for parallel execution (cost-effective at scale, swarm behavior trained into the model). The guide includes prompt templates, Python code for failure isolation, and seven guardrails for production reliability.
+
+## Related
+
+- [[openclaw-hermes-supervisor-setup]]

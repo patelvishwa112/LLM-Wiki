@@ -1,11 +1,31 @@
 ---
-tags: [agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, productivity, cursor, cloud-agents, multi-agent]
+tags:
+- agents
+- loop-engineering
+- claude-code
+- agent-harness
+- evals
+- verification
+- mcp
+- productivity
+- cursor
+- cloud-agents
+- multi-agent
 source: https://x.com/ericzakariasson/status/2070493377267646797
 date: 2026-06-26
 type: bookmark
 author: ericzakariasson
-summary: "Eric Zakariasson (Cursor): long agent tasks need a scorable definition of done (eval score, tests, Playwright QA, p95, validation counts), a /loop with explicit stop conditions, /notify via MCP (Slack) for human-in-the-loop decisions, cloud runners for multi-hour work, and ~3–5 parallel loops with a cap when pings stack up."
-raw: "[[raw/ericzakariasson_2070493377267646797]]"
+summary: 'Eric Zakariasson (Cursor): long agent tasks need a scorable definition of
+  done (eval score, tests, Playwright QA, p95, validation counts), a /loop with explicit
+  stop conditions, /notify via MCP (Slack) for human-in-the-loop decisions, cloud
+  runners for multi-hour work, and ~3–5 parallel loops with a cap when pings stack
+  up.'
+raw: '[[raw/ericzakariasson_2070493377267646797]]'
+description: 'Eric Zakariasson (Cursor): long agent tasks need a scorable definition
+  of done (eval score, tests, Playwright QA, p95, validation counts), a /loop with
+  explicit stop conditions, /notify via MCP (Slack) for human-in-the-loop decisions,
+  cloud runners for multi-hour work, and ~3–5 parallel loops with a cap when pings
+  stack up.'
 ---
 
 # Human in the /loop

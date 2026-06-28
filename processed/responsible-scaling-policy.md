@@ -3,9 +3,17 @@ title: Responsible Scaling Policy
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, policy, rsp]
-sources: [raw/anthropic/papers/responsible-scaling-policy.md, raw/anthropic/articles/anthropic-news-responsible-scaling-policy-v3.md, raw/anthropic/articles/anthropic-news-announcing-our-updated-responsible-scaling-policy.md, raw/anthropic/articles/anthropic-news-reflections-on-our-responsible-scaling-policy.md]
+tags:
+- safety
+- policy
+- rsp
+sources:
+- raw/anthropic/papers/responsible-scaling-policy.md
+- raw/anthropic/articles/anthropic-news-responsible-scaling-policy-v3.md
+- raw/anthropic/articles/anthropic-news-announcing-our-updated-responsible-scaling-policy.md
+- raw/anthropic/articles/anthropic-news-reflections-on-our-responsible-scaling-policy.md
 confidence: high
+description: Responsible Scaling Policy (RSP)
 ---
 
 # Responsible Scaling Policy (RSP)

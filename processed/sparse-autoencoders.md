@@ -3,9 +3,20 @@ title: Sparse Autoencoders (Dictionary Learning)
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [interpretability, sparse-autoencoders, features]
-sources: [raw/anthropic/papers/tcircuits-monosemantic-features-index.md, raw/anthropic/papers/tcircuits-scaling-monosemanticity-index.md, raw/anthropic/papers/arxiv-2406.04093.md, raw/anthropic/articles/anthropic-research-mapping-mind-language-model.md, raw/anthropic/articles/anthropic-research-natural-language-autoencoders.md, raw/anthropic/papers/tcircuits-2026-nla.md, raw/anthropic/articles/anthropic-research-evaluating-feature-steering.md]
+tags:
+- interpretability
+- sparse-autoencoders
+- features
+sources:
+- raw/anthropic/papers/tcircuits-monosemantic-features-index.md
+- raw/anthropic/papers/tcircuits-scaling-monosemanticity-index.md
+- raw/anthropic/papers/arxiv-2406.04093.md
+- raw/anthropic/articles/anthropic-research-mapping-mind-language-model.md
+- raw/anthropic/articles/anthropic-research-natural-language-autoencoders.md
+- raw/anthropic/papers/tcircuits-2026-nla.md
+- raw/anthropic/articles/anthropic-research-evaluating-feature-steering.md
 confidence: high
+description: Sparse Autoencoders / Dictionary Learning
 ---
 
 # Sparse Autoencoders / Dictionary Learning

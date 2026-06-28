@@ -3,9 +3,13 @@ title: Sycophancy
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [alignment, sycophancy]
-sources: [raw/anthropic/papers/arxiv-2212.09251.md]
+tags:
+- alignment
+- sycophancy
+sources:
+- raw/anthropic/papers/arxiv-2212.09251.md
 confidence: medium
+description: Sycophancy
 ---
 
 # Sycophancy

@@ -1,23 +1,29 @@
 ---
-title: "Profiling in PyTorch: A Beginner's Guide to torch.profiler"
-source: "https://huggingface.co/blog/torch-profiler"
-authors: ["Aritra Roy Gosthipaty", "Sayak Paul", "Sergio Paniego", "Rémi Ouazan Reboul", "Pedro Cuenca"]
+title: 'Profiling in PyTorch: A Beginner''s Guide to torch.profiler'
+source: https://huggingface.co/blog/torch-profiler
+authors:
+- Aritra Roy Gosthipaty
+- Sayak Paul
+- Sergio Paniego
+- Rémi Ouazan Reboul
+- Pedro Cuenca
 published: 2026-05-29
 type: article
 tags:
-  - pytorch
-  - profiling
-  - cuda
-  - gpu-optimization
-  - torch.compile
-  - cublas
-  - perfetto
-  - kernel-analysis
+- pytorch
+- profiling
+- cuda
+- gpu-optimization
+- torch.compile
+- cublas
+- perfetto
+- kernel-analysis
 related:
-  - "[[custom-kernels-agent-skills]]"
-  - "[[accelerating-generative-ai]]"
-  - "[[delta-weight-sync]]"
-raw: "[[raw/huggingface_torch-profiler]]"
+- '[[custom-kernels-agent-skills]]'
+- '[[accelerating-generative-ai]]'
+- '[[delta-weight-sync]]'
+raw: '[[raw/huggingface_torch-profiler]]'
+description: 'Profiling in PyTorch: A Beginner''s Guide to torch.profiler'
 ---
 
 # Profiling in PyTorch: A Beginner's Guide to torch.profiler

@@ -1,9 +1,16 @@
 ---
-tags: [agents, post-agent-companies, business-models, agent-harness, phoebe, network-effects, ai-strategy]
+tags:
+- agents
+- post-agent-companies
+- business-models
+- agent-harness
+- phoebe
+- network-effects
+- ai-strategy
 source: https://x.com/jrwoodbridge/status/2067985204958880038
 type: concept
 ingested: 2026-06-20
-related: [[phoebe], [agents], [agent-harness]]
+description: Post-Agent Companies
 ---
 
 # Post-Agent Companies

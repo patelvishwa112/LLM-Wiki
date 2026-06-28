@@ -1,10 +1,15 @@
 ---
-tags: ["models", "slm", "training", "reasoning", "efficiency"]
+tags:
+- models
+- slm
+- training
+- reasoning
+- efficiency
 source: https://x.com/Sapient_Int/status/2056510383935172798
-raw: "[[raw/Sapient_Int_2056510383935172798]]"
+raw: '[[raw/Sapient_Int_2056510383935172798]]'
 date: 2026-05-18
 type: note
-related: ["how-to-build-your-own-llm-from-scratch-in-5-stages", "inference-engines-2026"]
+description: 'HRM-Text: 1B Parameter Reasoning Model'
 ---
 
 # HRM-Text: 1B Parameter Reasoning Model

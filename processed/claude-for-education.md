@@ -3,9 +3,19 @@ title: Claude for Education
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [societal-impacts, education]
-sources: [raw/anthropic/articles/anthropic-news-introducing-claude-for-education.md, raw/anthropic/articles/anthropic-news-advancing-claude-for-education.md, raw/anthropic/articles/anthropic-news-anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pi.md, raw/anthropic/articles/anthropic-news-anthropic-education-report-how-educators-use-claude.md, raw/anthropic/articles/anthropic-news-anthropic-education-report-how-university-students-use-claude.md, raw/anthropic/articles/anthropic-research-AI-fluency-index.md, raw/anthropic/articles/anthropic-news-anthropic-signs-pledge-to-americas-youth-investing-in-ai-education.md]
+tags:
+- societal-impacts
+- education
+sources:
+- raw/anthropic/articles/anthropic-news-introducing-claude-for-education.md
+- raw/anthropic/articles/anthropic-news-advancing-claude-for-education.md
+- raw/anthropic/articles/anthropic-news-anthropic-and-iceland-announce-one-of-the-world-s-first-national-ai-education-pi.md
+- raw/anthropic/articles/anthropic-news-anthropic-education-report-how-educators-use-claude.md
+- raw/anthropic/articles/anthropic-news-anthropic-education-report-how-university-students-use-claude.md
+- raw/anthropic/articles/anthropic-research-AI-fluency-index.md
+- raw/anthropic/articles/anthropic-news-anthropic-signs-pledge-to-americas-youth-investing-in-ai-education.md
 confidence: high
+description: Claude for Education
 ---
 
 # Claude for Education

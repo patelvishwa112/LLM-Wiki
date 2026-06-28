@@ -3,9 +3,17 @@ title: AI Cybersecurity
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, cybersecurity]
-sources: [raw/anthropic/articles/anthropic-news-claude-code-security.md, raw/anthropic/articles/anthropic-research-building-ai-cyber-defenders.md, raw/anthropic/articles/anthropic-news-disrupting-AI-espionage.md, raw/anthropic/papers/pdf-threat-intelligence-report-august-2025.md, raw/anthropic/articles/anthropic-engineering-claude-code-sandboxing.md]
+tags:
+- safety
+- cybersecurity
+sources:
+- raw/anthropic/articles/anthropic-news-claude-code-security.md
+- raw/anthropic/articles/anthropic-research-building-ai-cyber-defenders.md
+- raw/anthropic/articles/anthropic-news-disrupting-AI-espionage.md
+- raw/anthropic/papers/pdf-threat-intelligence-report-august-2025.md
+- raw/anthropic/articles/anthropic-engineering-claude-code-sandboxing.md
 confidence: high
+description: AI Cybersecurity
 ---
 
 # AI Cybersecurity

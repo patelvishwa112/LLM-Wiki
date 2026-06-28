@@ -1,11 +1,26 @@
 ---
-tags: ["rlm", "structured-outputs", "subagents", "recursive-language-models", "agent-harness", "json-schema"]
+tags:
+- rlm
+- structured-outputs
+- subagents
+- recursive-language-models
+- agent-harness
+- json-schema
 source: https://x.com/neural_avb/status/2063907440509571354
 date: 2026-06-08
 type: bookmark
 author: neural_avb
-summary: "RLM subagents produce far cleaner, hallucination-resistant results when forced to return structured outputs (JSON Schema) instead of free-text. Case study on The Coxon Fund shows free-text fan-out leads to aggregation failure; boolean schema routing succeeds with the same token budget. Validation happens at FINAL() in the REPL."
-raw: "[[raw/neural_avb_2063907440509571354]]"
+summary: RLM subagents produce far cleaner, hallucination-resistant results when forced
+  to return structured outputs (JSON Schema) instead of free-text. Case study on The
+  Coxon Fund shows free-text fan-out leads to aggregation failure; boolean schema
+  routing succeeds with the same token budget. Validation happens at FINAL() in the
+  REPL.
+raw: '[[raw/neural_avb_2063907440509571354]]'
+description: RLM subagents produce far cleaner, hallucination-resistant results when
+  forced to return structured outputs (JSON Schema) instead of free-text. Case study
+  on The Coxon Fund shows free-text fan-out leads to aggregation failure; boolean
+  schema routing succeeds with the same token budget. Validation happens at FINAL()
+  in the REPL.
 ---
 
 # RLM Agents live healthier when they talk via Structured Outputs

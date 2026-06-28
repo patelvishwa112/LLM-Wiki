@@ -1,9 +1,18 @@
 ---
-tags: [agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]
+tags:
+- agents
+- agent-harness
+- beginner
+- workflow
+- tools
+- memory
+- iteration
+- scope-control
+- practical-guide
 source: Reddit r/AgentsOfAI post by Icy_SwitchTech (screenshot)
 type: bookmark
-related: [[harness-is-the-product-context-aware-agents]], [[agent-memory-landscape-2026]], [[langchain-fireworks-trace-judge-100x-cheaper]]
 ingested: 2026-06-15
+description: Building your first AI Agent; A clear path!
 ---
 
 # Building your first AI Agent; A clear path!
@@ -55,3 +64,9 @@ A grounded, end-to-end path for building a working first AI agent by starting ex
 
 ---
 *Processed from Reddit screenshot 2026-06-15. Added to Agents domain.*
+
+## Related
+
+- [[harness-is-the-product-context-aware-agents]]
+- [[agent-memory-landscape-2026]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]

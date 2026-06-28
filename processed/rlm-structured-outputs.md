@@ -1,13 +1,27 @@
 ---
-tags: ["agents", "rlm", "structured-outputs", "subagents", "recursive-language-models", "agent-harness", "json-schema"]
+tags:
+- agents
+- rlm
+- structured-outputs
+- subagents
+- recursive-language-models
+- agent-harness
+- json-schema
 source: https://x.com/neural_avb/status/2063907440509571354
 date: 2026-06-08
 type: bookmark
 author: neural_avb
-title: "RLM Agents live healthier when they talk via Structured Outputs"
-summary: "How structured outputs (JSON schema) dramatically improve subagent communication in Recursive Language Models — free-text fan-out fails with 62 subagents, boolean schema routing succeeds at same cost."
-raw: "[[raw/neural_avb_2063907440509571354]]"
-related: ["[[wtf-is-a-loop]]", "[[4-agent-trading-desk]]"]
+title: RLM Agents live healthier when they talk via Structured Outputs
+summary: How structured outputs (JSON schema) dramatically improve subagent communication
+  in Recursive Language Models — free-text fan-out fails with 62 subagents, boolean
+  schema routing succeeds at same cost.
+raw: '[[raw/neural_avb_2063907440509571354]]'
+related:
+- '[[wtf-is-a-loop]]'
+- '[[4-agent-trading-desk]]'
+description: How structured outputs (JSON schema) dramatically improve subagent communication
+  in Recursive Language Models — free-text fan-out fails with 62 subagents, boolean
+  schema routing succeeds at same cost.
 ---
 
 # RLM Structured Outputs

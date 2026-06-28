@@ -1,11 +1,15 @@
 ---
-tags: ["rl", "training", "mechanistic-interpretability"]
+tags:
+- rl
+- training
+- mechanistic-interpretability
 source: https://x.com/neural_avb/status/2051536715983327563
-raw: "[[raw/neural_avb_2051536715983327563]]"
+raw: '[[raw/neural_avb_2051536715983327563]]'
 date: 2026-05-04
 type: processed-note
 related:
-  - "[[rl-agents-system-prompt-reward-function]]"
+- '[[rl-agents-system-prompt-reward-function]]'
+description: 'Policy Gradients: From REINFORCE to GRPO'
 ---
 
 # Policy Gradients: From REINFORCE to GRPO

@@ -1,11 +1,27 @@
 ---
-tags: ["llm-training", "from-scratch", "rlhf", "infra", "architecture", "data", "optimizer"]
+tags:
+- llm-training
+- from-scratch
+- rlhf
+- infra
+- architecture
+- data
+- optimizer
 source: https://x.com/harshbhatt7585/status/2063593933314113587
 date: 2026-06-07
 type: bookmark
 author: harshbhatt7585
-summary: "Hands-on lessons from training a ~160M LLM (MTP + HRM + causal LM) that beat nanoGPT on CORE: architecture experimentation beats full replication, small models excel at narrow tasks, RL only helps if the base model already has decent knowledge, infra (batching, GPU utilization) is critical, and documentation + leaderboards beat emotional tinkering."
-raw: "[[raw/harshbhatt7585_2063593933314113587]]"
+summary: 'Hands-on lessons from training a ~160M LLM (MTP + HRM + causal LM) that
+  beat nanoGPT on CORE: architecture experimentation beats full replication, small
+  models excel at narrow tasks, RL only helps if the base model already has decent
+  knowledge, infra (batching, GPU utilization) is critical, and documentation + leaderboards
+  beat emotional tinkering.'
+raw: '[[raw/harshbhatt7585_2063593933314113587]]'
+description: 'Hands-on lessons from training a ~160M LLM (MTP + HRM + causal LM) that
+  beat nanoGPT on CORE: architecture experimentation beats full replication, small
+  models excel at narrow tasks, RL only helps if the base model already has decent
+  knowledge, infra (batching, GPU utilization) is critical, and documentation + leaderboards
+  beat emotional tinkering.'
 ---
 
 # My Learnings From Training LLM from Scratch

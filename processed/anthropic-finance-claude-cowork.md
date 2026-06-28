@@ -1,21 +1,28 @@
 ---
 tags:
-  - anthropic
-  - claude-cowork
-  - finance
-  - enterprise
-  - productivity
-  - skills
+- anthropic
+- claude-cowork
+- finance
+- enterprise
+- productivity
+- skills
 source: https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers
-raw: "[[raw/anthropic-finance-team-claude]]"
+raw: '[[raw/anthropic-finance-team-claude]]'
 date: 2026-06-07
 author: Alice Fong (Anthropic, Corporate Finance & Strategy)
 type: bookmark
-summary: "How Anthropic's corporate finance team uses Claude Cowork and Claude for Excel to maintain narrative integrity across board decks, automate monthly financial review commentary, and diagnose financial models — reclaiming 10–20 hours per week for higher-judgment work like framing and forward-looking analysis."
+summary: How Anthropic's corporate finance team uses Claude Cowork and Claude for
+  Excel to maintain narrative integrity across board decks, automate monthly financial
+  review commentary, and diagnose financial models — reclaiming 10–20 hours per week
+  for higher-judgment work like framing and forward-looking analysis.
 related:
-  - "[[enterprise-and-industry-applications]]"
-  - "[[anthropic]]"
-  - "[[claude-models]]"
+- '[[enterprise-and-industry-applications]]'
+- '[[anthropic]]'
+- '[[claude-models]]'
+description: How Anthropic's corporate finance team uses Claude Cowork and Claude
+  for Excel to maintain narrative integrity across board decks, automate monthly financial
+  review commentary, and diagnose financial models — reclaiming 10–20 hours per week
+  for higher-judgment work like framing and forward-looking analysis.
 ---
 
 # How Anthropic's Finance Team Uses Claude

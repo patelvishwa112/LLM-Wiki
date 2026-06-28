@@ -1,9 +1,14 @@
 ---
-tags: [ai-skills, career, future-of-work, six-figure-skills, training]
+tags:
+- ai-skills
+- career
+- future-of-work
+- six-figure-skills
+- training
 source: https://x.com/zephyr_hg/status/2066457081738088882
 type: bookmark
-related: [[agent-memory-landscape-2026]], [[harness-engineering-2026-discipline]]
 ingested: 2026-06-15
+description: 5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month
 ---
 
 # 5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month
@@ -24,3 +29,8 @@ Basic prompting and tool-stacking are commoditizing. The skills that will comman
 
 ---
 *Processed from X post 2026-06-15. Career-oriented AI skills forecast.*
+
+## Related
+
+- [[agent-memory-landscape-2026]]
+- [[harness-engineering-2026-discipline]]

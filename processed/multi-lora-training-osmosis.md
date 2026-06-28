@@ -1,12 +1,22 @@
 ---
-title: "Training Thousands of LoRA Adapters Concurrently — Osmosis Multi-LoRA"
-tags: ["lora", "rl", "training", "fine-tuning", "qwen", "osmosis", "post-training", "slm"]
+title: Training Thousands of LoRA Adapters Concurrently — Osmosis Multi-LoRA
+tags:
+- lora
+- rl
+- training
+- fine-tuning
+- qwen
+- osmosis
+- post-training
+- slm
 source: https://x.com/_weexiao/status/2061855508156563871
 date: 2026-06-02
 published: 2026-06-02
-authors: ["Kasey Zhang (@_WEEXIAO)"]
+authors:
+- Kasey Zhang (@_WEEXIAO)
 type: bookmark
-raw: "[[raw/weexiao_2061855508156563871]]"
+raw: '[[raw/weexiao_2061855508156563871]]'
+description: Multi-LoRA Training at Scale
 ---
 
 # Multi-LoRA Training at Scale

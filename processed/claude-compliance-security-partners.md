@@ -1,21 +1,30 @@
 ---
 tags:
-  - anthropic
-  - security
-  - compliance
-  - enterprise
-  - claude
-  - dlp
-  - siem
+- anthropic
+- security
+- compliance
+- enterprise
+- claude
+- dlp
+- siem
 source: https://claude.com/blog/compliance-api-security-partners
-raw: "[[raw/anthropic-compliance-security-partners]]"
+raw: '[[raw/anthropic-compliance-security-partners]]'
 date: 2026-06-07
 author: Anthropic
 type: bookmark
-summary: "Claude Compliance API launches with 28 security and compliance integrations spanning DLP, SASE, SIEM, identity, eDiscovery, and AI security posture management. Enterprise security teams can now govern Claude the same way they govern other workplace applications — applying existing monitoring, DLP, and alerting workflows to Claude conversations and activity events."
+summary: Claude Compliance API launches with 28 security and compliance integrations
+  spanning DLP, SASE, SIEM, identity, eDiscovery, and AI security posture management.
+  Enterprise security teams can now govern Claude the same way they govern other workplace
+  applications — applying existing monitoring, DLP, and alerting workflows to Claude
+  conversations and activity events.
 related:
-  - "[[ai-cybersecurity]]"
-  - "[[enterprise-and-industry-applications]]"
+- '[[ai-cybersecurity]]'
+- '[[enterprise-and-industry-applications]]'
+description: Claude Compliance API launches with 28 security and compliance integrations
+  spanning DLP, SASE, SIEM, identity, eDiscovery, and AI security posture management.
+  Enterprise security teams can now govern Claude the same way they govern other workplace
+  applications — applying existing monitoring, DLP, and alerting workflows to Claude
+  conversations and activity events.
 ---
 
 # Claude Compliance API & Security Partners

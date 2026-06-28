@@ -1,13 +1,38 @@
 ---
-tags: [ml-research, training, distillation, efficiency, scaling-laws]
+tags:
+- ml-research
+- training
+- distillation
+- efficiency
+- scaling-laws
 source: https://x.com/theturingpost/status/2068474648925216861
 linked_article: https://www.turingpost.com/p/kd
 type: bookmark
-related: [[how-to-be-good-at-ai-research], [synthetic-data-generation], [values-slm]]
-summary: |
-  "@TheTuringPost explains Knowledge Distillation (KD) as a core technique for creating smaller, capable models. Instead of training from scratch, a large teacher model transfers 'dark knowledge' (confidence distributions and similarities between classes) to a student model via softmax with temperature. Covers response-based, feature-based, and relation-based distillation, plus offline/online/self-distillation schemes. Highlights DeepSeek-R1 distillation momentum and scaling laws."
-why_it_matters: |
-  "One of the most practical and reliable methods for model efficiency in 2026. Directly relevant to the vault's ML research and values-slm projects. The 'dark knowledge' concept and temperature trick are foundational patterns for distilling reasoning capabilities from frontier models into smaller, deployable ones. Complements synthetic data and efficiency techniques."
+related:
+- - how-to-be-good-at-ai-research
+- - synthetic-data-generation
+- - values-slm
+summary: '"@TheTuringPost explains Knowledge Distillation (KD) as a core technique
+  for creating smaller, capable models. Instead of training from scratch, a large
+  teacher model transfers ''dark knowledge'' (confidence distributions and similarities
+  between classes) to a student model via softmax with temperature. Covers response-based,
+  feature-based, and relation-based distillation, plus offline/online/self-distillation
+  schemes. Highlights DeepSeek-R1 distillation momentum and scaling laws."
+
+  '
+why_it_matters: '"One of the most practical and reliable methods for model efficiency
+  in 2026. Directly relevant to the vault''s ML research and values-slm projects.
+  The ''dark knowledge'' concept and temperature trick are foundational patterns for
+  distilling reasoning capabilities from frontier models into smaller, deployable
+  ones. Complements synthetic data and efficiency techniques."
+
+  '
+description: '"@TheTuringPost explains Knowledge Distillation (KD) as a core technique
+  for creating smaller, capable models. Instead of training from scratch, a large
+  teacher model transfers ''dark knowledge'' (confidence distributions and similarities
+  between classes) to a student model via softmax with temperature. Covers response-based,
+  feature-based, and relation-based distillation, plus offline/online/self-distillation
+  schemes. Highlights DeepSeek-R1 distillation momentum and scaling laws."'
 ---
 
 # Knowledge Distillation (KD) — One of the Most Important Techniques for Smaller, Capable Models

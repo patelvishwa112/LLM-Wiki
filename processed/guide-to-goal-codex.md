@@ -1,9 +1,15 @@
 ---
-tags: [goal-execution, agents, agent-loops, orchestration, productivity, codex]
+tags:
+- goal-execution
+- agents
+- agent-loops
+- orchestration
+- productivity
+- codex
 source: https://x.com/dkundel/status/2062650378089594955
 type: bookmark
-related: [[self-improvement-loop-for-skills-zach-lloyd]], [[agent-loops]]
 ingested: 2026-06-19
+description: A guide to /goal 🥅
 ---
 
 # A guide to /goal 🥅
@@ -25,3 +31,8 @@ ingested: 2026-06-19
 
 ---
 *Processed from X post 2026-06-04 (ingested 2026-06-19). High-engagement guide on goal-driven agent execution.*
+
+## Related
+
+- [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[agent-loops]]

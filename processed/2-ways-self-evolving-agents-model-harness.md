@@ -1,9 +1,15 @@
 ---
-tags: [agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]
+tags:
+- agents
+- agent-harness
+- self-evolving-agents
+- model-vs-harness
+- training
+- architecture
 source: https://x.com/qinzytech/status/2066585405479371092
 type: bookmark
-related: [[harness-is-the-product-context-aware-agents]], [[agent-memory-landscape-2026]], [[langchain-fireworks-trace-judge-100x-cheaper]]
 ingested: 2026-06-15
+description: 2 Ways towards Self-Evolving Agents
 ---
 
 # 2 Ways towards Self-Evolving Agents
@@ -27,3 +33,9 @@ Self-evolving agents can be achieved through two primary paths:
 
 ---
 *Processed from X post 2026-06-15. High-signal post on self-evolving agent architectures.*
+
+## Related
+
+- [[harness-is-the-product-context-aware-agents]]
+- [[agent-memory-landscape-2026]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]

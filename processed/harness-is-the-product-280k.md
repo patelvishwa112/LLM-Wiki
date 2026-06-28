@@ -1,13 +1,39 @@
 ---
-tags: ["agent-harness", "claude-code", "mcp", "tools", "cost-optimization", "agent-memory", "sub-agents", "code-review", "prompt-engineering", "agents"]
+tags:
+- agent-harness
+- claude-code
+- mcp
+- tools
+- cost-optimization
+- agent-memory
+- sub-agents
+- code-review
+- prompt-engineering
+- agents
 source: https://x.com/dunik_7/status/2064342854051209338
 date: 2026-06-09
 type: article
-authors: ["dunik"]
-title: "6 MCP servers, 0 calls, $280K wasted — the harness is the product"
-summary: "A 5-dev team burns ~$280K/year running Claude Code with no harness: dead MCP tools taxing every request, no map re-explaining context, no memory re-litigating decisions, no sub-agent team or review gate. The fix is four layers: THE MAP (CLAUDE.md, DESIGN.md), THE MEMORY (decision logs, ADRs), THE HANDS (tool audit — cut everything unused), and THE TEAM (sub-agents with independent review gate). Same model. Different harness. Different outcome."
-raw: "[[dunik_7_2064342854051209338]]"
-related: ["[[agent-first-vs-prompt-first-design]]", "[[claude-code-dynamic-workflows-intro]]", "[[harness-is-the-product-context-aware-agents]]", "[[claude-managed-agents]]"]
+authors:
+- dunik
+title: 6 MCP servers, 0 calls, $280K wasted — the harness is the product
+summary: 'A 5-dev team burns ~$280K/year running Claude Code with no harness: dead
+  MCP tools taxing every request, no map re-explaining context, no memory re-litigating
+  decisions, no sub-agent team or review gate. The fix is four layers: THE MAP (CLAUDE.md,
+  DESIGN.md), THE MEMORY (decision logs, ADRs), THE HANDS (tool audit — cut everything
+  unused), and THE TEAM (sub-agents with independent review gate). Same model. Different
+  harness. Different outcome.'
+raw: '[[dunik_7_2064342854051209338]]'
+related:
+- '[[agent-first-vs-prompt-first-design]]'
+- '[[claude-code-dynamic-workflows-intro]]'
+- '[[harness-is-the-product-context-aware-agents]]'
+- '[[claude-managed-agents]]'
+description: 'A 5-dev team burns ~$280K/year running Claude Code with no harness:
+  dead MCP tools taxing every request, no map re-explaining context, no memory re-litigating
+  decisions, no sub-agent team or review gate. The fix is four layers: THE MAP (CLAUDE.md,
+  DESIGN.md), THE MEMORY (decision logs, ADRs), THE HANDS (tool audit — cut everything
+  unused), and THE TEAM (sub-agents with independent review gate). Same model. Different
+  harness. Different outcome.'
 ---
 
 # The Harness Is the Product

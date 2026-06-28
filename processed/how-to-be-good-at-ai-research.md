@@ -1,15 +1,20 @@
 ---
 tags:
-  - ai-research
-  - research-methodology
-  - learning
-  - meta-learning
+- ai-research
+- research-methodology
+- learning
+- meta-learning
 source: https://x.com/adiix_official/status/2066853111763775949
 type: bookmark
 related:
-  - [[second-brain]]
-  - [[knowledge-graph]]
-summary: "AdiiX argues that most people trying to get good at AI research optimize the wrong variable — they try to 'know more' instead of developing better research systems and filters for the firehose of information."
+- - - second-brain
+- - - knowledge-graph
+summary: AdiiX argues that most people trying to get good at AI research optimize
+  the wrong variable — they try to 'know more' instead of developing better research
+  systems and filters for the firehose of information.
+description: AdiiX argues that most people trying to get good at AI research optimize
+  the wrong variable — they try to 'know more' instead of developing better research
+  systems and filters for the firehose of information.
 ---
 
 # How to Be Good at AI Research

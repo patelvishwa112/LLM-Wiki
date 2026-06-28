@@ -1,10 +1,15 @@
 ---
-tags: ["agents", "sub-agents", "inference-time-scaling", "multi-agent", "papers"]
+tags:
+- agents
+- sub-agents
+- inference-time-scaling
+- multi-agent
+- papers
 source: https://x.com/neural_avb/status/2056358393892540552
-raw: "[[raw/neural_avb_2056358393892540552]]"
+raw: '[[raw/neural_avb_2056358393892540552]]'
 date: 2026-05-08
 type: bookmark
-related: [[iii-agent-harness-workers]], [[coding-agent-harness-eight-pillars]], [[hermes-agent-use-cases-multi-agent-setup]]
+description: Sub-Agents as Inference-Time Scaling Primitive
 ---
 
 # Sub-Agents as Inference-Time Scaling Primitive

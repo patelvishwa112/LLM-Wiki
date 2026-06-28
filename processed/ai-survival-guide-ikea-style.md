@@ -1,21 +1,30 @@
 ---
 tags:
-  - claude
-  - claude-cowork
-  - claude-code
-  - skills
-  - productivity
-  - beginner
-  - ask-user-question
+- claude
+- claude-cowork
+- claude-code
+- skills
+- productivity
+- beginner
+- ask-user-question
 source: https://x.com/rubenhassid/status/2063471959158260119
-raw: "[[raw/rubenhassid_2063471959158260119]]"
+raw: '[[raw/rubenhassid_2063471959158260119]]'
 date: 2026-06-06
 author: Ruben Hassid (@rubenhassid)
 type: bookmark
-summary: "A non-technical survival guide to AI in 6 levels: (1) Claude.ai with Opus + Thinking + AskUserQuestion, (2) voice dictation via Wispr Flow, (3) Claude Cowork for file creation, (4) app connectors (Gmail, Calendar), (5) custom skills via /skill-creator, (6) Claude Code for building apps without coding knowledge. Core trick: 'ask me questions first' turns novice prompting into power-user interactions."
+summary: 'A non-technical survival guide to AI in 6 levels: (1) Claude.ai with Opus
+  + Thinking + AskUserQuestion, (2) voice dictation via Wispr Flow, (3) Claude Cowork
+  for file creation, (4) app connectors (Gmail, Calendar), (5) custom skills via /skill-creator,
+  (6) Claude Code for building apps without coding knowledge. Core trick: ''ask me
+  questions first'' turns novice prompting into power-user interactions.'
 related:
-  - "[[claude-cowork-14-day-guide]]"
-  - "[[claude-code-self-correcting-setup]]"
+- '[[claude-cowork-14-day-guide]]'
+- '[[claude-code-self-correcting-setup]]'
+description: 'A non-technical survival guide to AI in 6 levels: (1) Claude.ai with
+  Opus + Thinking + AskUserQuestion, (2) voice dictation via Wispr Flow, (3) Claude
+  Cowork for file creation, (4) app connectors (Gmail, Calendar), (5) custom skills
+  via /skill-creator, (6) Claude Code for building apps without coding knowledge.
+  Core trick: ''ask me questions first'' turns novice prompting into power-user interactions.'
 ---
 
 # AI Survival Guide (IKEA-Style)

@@ -1,14 +1,51 @@
 ---
-title: "The 2026 AI Engineering Roadmap — Build It From Scratch, Ship the Tool"
-tags: ["ai-engineering", "roadmap", "2026", "training", "inference", "agents", "agent-harness", "skills", "mcp", "safety", "infrastructure", "serving", "transformer", "kv-cache", "fundamentals", "from-scratch", "courses", "open-source", "rag", "multimodal", "alignment"]
+title: The 2026 AI Engineering Roadmap — Build It From Scratch, Ship the Tool
+tags:
+- ai-engineering
+- roadmap
+- '2026'
+- training
+- inference
+- agents
+- agent-harness
+- skills
+- mcp
+- safety
+- infrastructure
+- serving
+- transformer
+- kv-cache
+- fundamentals
+- from-scratch
+- courses
+- open-source
+- rag
+- multimodal
+- alignment
 source: https://x.com/ghumare64/status/2063574610889560271
 date: 2026-06-07
 published: 2026-06-07
-authors: ["Rohit Ghumare (@ghumare64)"]
+authors:
+- Rohit Ghumare (@ghumare64)
 type: bookmark
-raw: "[[raw/ghumare64_2063574610889560271]]"
-related: ["[[agent-harness-engineering-agentforge]]", "[[harness-engineering-2026-discipline]]", "[[rlhf-from-first-principles]]", "[[how-gpu-executes-code-first-principles]]", "[[what-is-kv-cache-llms]]", "[[mcp-core-architecture-explained]]"]
-summary: "Rohit Ghumare's 12-layer AI engineering roadmap for 2026, built around his open-source course (503 lessons). Method: build every algorithm from raw math, then ship a reusable SKILL.md artifact. Covers math → deep learning → transformers → LLMs → RAG → multimodal → MCP/A2A → agents → autonomous systems → infrastructure → safety → capstones."
+raw: '[[raw/ghumare64_2063574610889560271]]'
+related:
+- '[[agent-harness-engineering-agentforge]]'
+- '[[harness-engineering-2026-discipline]]'
+- '[[rlhf-from-first-principles]]'
+- '[[how-gpu-executes-code-first-principles]]'
+- '[[what-is-kv-cache-llms]]'
+- '[[mcp-core-architecture-explained]]'
+summary: 'Rohit Ghumare''s 12-layer AI engineering roadmap for 2026, built around
+  his open-source course (503 lessons). Method: build every algorithm from raw math,
+  then ship a reusable SKILL.md artifact. Covers math → deep learning → transformers
+  → LLMs → RAG → multimodal → MCP/A2A → agents → autonomous systems → infrastructure
+  → safety → capstones.'
+description: 'Rohit Ghumare''s 12-layer AI engineering roadmap for 2026, built around
+  his open-source course (503 lessons). Method: build every algorithm from raw math,
+  then ship a reusable SKILL.md artifact. Covers math → deep learning → transformers
+  → LLMs → RAG → multimodal → MCP/A2A → agents → autonomous systems → infrastructure
+  → safety → capstones.'
 ---
 
 # The 2026 AI Engineering Roadmap — Build It From Scratch, Ship the Tool

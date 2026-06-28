@@ -1,13 +1,28 @@
 ---
-tags: ["claude", "claude-cowork", "productivity", "personal-assistant", "projects", "skills", "context-engineering", "second-brain"]
+tags:
+- claude
+- claude-cowork
+- productivity
+- personal-assistant
+- projects
+- skills
+- context-engineering
+- second-brain
 source: https://x.com/0xMortyx/status/2063967160620245116
 date: 2026-06-08
 type: bookmark
 author: 0xmortyx
-title: "I Built a Personal AI Assistant With Claude for $0"
-summary: "A practical guide to building a personal AI assistant entirely within Claude using Projects, master prompts, context files, web search, and Artifacts — zero additional spend beyond the Claude subscription."
-raw: "[[raw/0xmortyx_2063967160620245116]]"
-related: ["[[knowledge-system-compounding-obsidian-vellum]]", "[[how-to-set-up-your-content-system]]"]
+title: I Built a Personal AI Assistant With Claude for $0
+summary: A practical guide to building a personal AI assistant entirely within Claude
+  using Projects, master prompts, context files, web search, and Artifacts — zero
+  additional spend beyond the Claude subscription.
+raw: '[[raw/0xmortyx_2063967160620245116]]'
+related:
+- '[[knowledge-system-compounding-obsidian-vellum]]'
+- '[[how-to-set-up-your-content-system]]'
+description: A practical guide to building a personal AI assistant entirely within
+  Claude using Projects, master prompts, context files, web search, and Artifacts
+  — zero additional spend beyond the Claude subscription.
 ---
 
 # Claude Personal Assistant — $0 Build

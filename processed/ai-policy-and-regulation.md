@@ -3,9 +3,22 @@ title: AI Policy and Regulation
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [societal-impacts, regulation, policy, government]
-sources: [raw/anthropic/articles/anthropic-news-the-case-for-targeted-regulation.md, raw/anthropic/articles/anthropic-news-anthropic-is-endorsing-sb-53.md, raw/anthropic/articles/anthropic-news-the-need-for-transparency-in-frontier-ai.md, raw/anthropic/articles/anthropic-news-third-party-testing.md, raw/anthropic/articles/anthropic-news-paris-ai-summit.md, raw/anthropic/articles/anthropic-news-securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule.md, raw/anthropic/articles/anthropic-news-statement-dario-amodei-american-ai-leadership.md, raw/anthropic/articles/anthropic-research-2028-ai-leadership.md]
+tags:
+- societal-impacts
+- regulation
+- policy
+- government
+sources:
+- raw/anthropic/articles/anthropic-news-the-case-for-targeted-regulation.md
+- raw/anthropic/articles/anthropic-news-anthropic-is-endorsing-sb-53.md
+- raw/anthropic/articles/anthropic-news-the-need-for-transparency-in-frontier-ai.md
+- raw/anthropic/articles/anthropic-news-third-party-testing.md
+- raw/anthropic/articles/anthropic-news-paris-ai-summit.md
+- raw/anthropic/articles/anthropic-news-securing-america-s-compute-advantage-anthropic-s-position-on-the-diffusion-rule.md
+- raw/anthropic/articles/anthropic-news-statement-dario-amodei-american-ai-leadership.md
+- raw/anthropic/articles/anthropic-research-2028-ai-leadership.md
 confidence: high
+description: AI Policy and Regulation
 ---
 
 # AI Policy and Regulation

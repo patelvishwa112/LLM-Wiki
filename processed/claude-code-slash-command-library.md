@@ -1,20 +1,29 @@
 ---
 tags:
-  - claude-code
-  - slash-commands
-  - skills
-  - productivity
-  - coding-tools
-  - templates
+- claude-code
+- slash-commands
+- skills
+- productivity
+- coding-tools
+- templates
 source: https://x.com/0x_rody/status/2063549084695158936
-raw: "[[raw/0x_rody_2063549084695158936]]"
+raw: '[[raw/0x_rody_2063549084695158936]]'
 date: 2026-06-07
 author: rody (@0x_rody)
 type: bookmark
-summary: "Claude Code slash commands are saved prompts in Markdown files. Subfolders create namespaces. Template: YAML frontmatter (description, argument-hint, allowed-tools, model) + prompt body with $ARGUMENTS. Includes 7 ready-to-ship commands: /review, /test, /migrate, /audit, /doc, /triage, /refactor. Build one a day for a week to handle 80% of routine work."
+summary: 'Claude Code slash commands are saved prompts in Markdown files. Subfolders
+  create namespaces. Template: YAML frontmatter (description, argument-hint, allowed-tools,
+  model) + prompt body with $ARGUMENTS. Includes 7 ready-to-ship commands: /review,
+  /test, /migrate, /audit, /doc, /triage, /refactor. Build one a day for a week to
+  handle 80% of routine work.'
 related:
-  - "[[15-claude-skills-that-stuck-vaibhav-sisinty]]"
-  - "[[problem-first-skill-invert-bad-ideas]]"
+- '[[15-claude-skills-that-stuck-vaibhav-sisinty]]'
+- '[[problem-first-skill-invert-bad-ideas]]'
+description: 'Claude Code slash commands are saved prompts in Markdown files. Subfolders
+  create namespaces. Template: YAML frontmatter (description, argument-hint, allowed-tools,
+  model) + prompt body with $ARGUMENTS. Includes 7 ready-to-ship commands: /review,
+  /test, /migrate, /audit, /doc, /triage, /refactor. Build one a day for a week to
+  handle 80% of routine work.'
 ---
 
 # Claude Code Slash Command Library

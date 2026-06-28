@@ -1,10 +1,16 @@
 ---
-tags: ["coding-tools", "evals", "models", "visualization", "deepseek", "embeddings"]
+tags:
+- coding-tools
+- evals
+- models
+- visualization
+- deepseek
+- embeddings
 source: https://x.com/neural_avb/status/2057088461887451530
-raw: "[[raw/neural_avb_2057088461887451530]]"
+raw: '[[raw/neural_avb_2057088461887451530]]'
 date: 2026-05-17
 type: note
-related: ["how-to-build-your-own-llm-from-scratch-in-5-stages"]
+description: 'DeepSeek-V4 Pro: Three.js Embedding Visualization'
 ---
 
 # DeepSeek-V4 Pro: Three.js Embedding Visualization

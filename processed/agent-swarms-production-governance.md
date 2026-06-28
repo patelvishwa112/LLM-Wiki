@@ -1,11 +1,31 @@
 ---
-tags: [agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression, coordination, hermes, cost-optimization]
+tags:
+- agents
+- multi-agent
+- subagents
+- orchestration
+- agent-harness
+- governance
+- production
+- compression
+- coordination
+- hermes
+- cost-optimization
 source: https://x.com/nyk_builderz/status/2070346338269819043
 date: 2026-06-26
 type: bookmark
 author: nyk_builderz
-summary: "Nyk (@nyk_builderz): one agent doing research+code+review+orchestration blurs by week 4 — throughput is architecture (sub-agents for compression vs multi-agent only for coordination). Production org: worker sub-agents + coordinator; four governance controls (pretool guard, handoff artifact, controlled disagreement, completion gate). Claims ~1/3 token cost vs full multi-agent and LACP gate over 3k sessions."
-raw: "[[raw/nyk_builderz_2070346338269819043]]"
+summary: 'Nyk (@nyk_builderz): one agent doing research+code+review+orchestration
+  blurs by week 4 — throughput is architecture (sub-agents for compression vs multi-agent
+  only for coordination). Production org: worker sub-agents + coordinator; four governance
+  controls (pretool guard, handoff artifact, controlled disagreement, completion gate).
+  Claims ~1/3 token cost vs full multi-agent and LACP gate over 3k sessions.'
+raw: '[[raw/nyk_builderz_2070346338269819043]]'
+description: 'Nyk (@nyk_builderz): one agent doing research+code+review+orchestration
+  blurs by week 4 — throughput is architecture (sub-agents for compression vs multi-agent
+  only for coordination). Production org: worker sub-agents + coordinator; four governance
+  controls (pretool guard, handoff artifact, controlled disagreement, completion gate).
+  Claims ~1/3 token cost vs full multi-agent and LACP gate over 3k sessions.'
 ---
 
 # Agent Swarms That Don't Go Rogue

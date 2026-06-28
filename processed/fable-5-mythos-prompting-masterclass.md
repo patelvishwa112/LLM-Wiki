@@ -1,11 +1,27 @@
 ---
-tags: ["anthropic", "fable-5", "mythos", "prompting", "claude", "agent-management", "loops"]
+tags:
+- anthropic
+- fable-5
+- mythos
+- prompting
+- claude
+- agent-management
+- loops
 source: https://x.com/aiedge_/status/2065064961999847849
 date: 2026-06-11
 type: bookmark
 author: aiedge_
-summary: "Plain-English guide to prompting Anthropic's Fable 5 (Mythos): long-running autonomous tasks, first-pass accuracy, clarifying questions, 50+ subagent management, superior vision, and coding/security audits. Optimal prompt structure includes Context + Request + Output format + Constraints. Effort levels (high/xhigh/ultracode) are the main control knob. Includes memory system and /loop patterns."
-raw: "[[raw/aiedge__2065064961999847849]]"
+summary: 'Plain-English guide to prompting Anthropic''s Fable 5 (Mythos): long-running
+  autonomous tasks, first-pass accuracy, clarifying questions, 50+ subagent management,
+  superior vision, and coding/security audits. Optimal prompt structure includes Context
+  + Request + Output format + Constraints. Effort levels (high/xhigh/ultracode) are
+  the main control knob. Includes memory system and /loop patterns.'
+raw: '[[raw/aiedge__2065064961999847849]]'
+description: 'Plain-English guide to prompting Anthropic''s Fable 5 (Mythos): long-running
+  autonomous tasks, first-pass accuracy, clarifying questions, 50+ subagent management,
+  superior vision, and coding/security audits. Optimal prompt structure includes Context
+  + Request + Output format + Constraints. Effort levels (high/xhigh/ultracode) are
+  the main control knob. Includes memory system and /loop patterns.'
 ---
 
 # Fable 5 (Mythos) Prompting Masterclass by Anthropic

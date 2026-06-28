@@ -1,8 +1,14 @@
 ---
-tags: [x-growth, twitter, monetization, content-creation, personal-brand]
+tags:
+- x-growth
+- twitter
+- monetization
+- content-creation
+- personal-brand
 source: https://x.com/athcanft/status/2067571218333753385?s=46
 type: bookmark
 ingested: 2026-06-20
+description: how to grow your X (and make $$$)
 ---
 
 # how to grow your X (and make $$$)

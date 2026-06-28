@@ -1,11 +1,26 @@
 ---
-tags: ["ai-strategy", "investing", "venture-capital", "ai-economics", "moats", "enterprise-ai", "legibility"]
+tags:
+- ai-strategy
+- investing
+- venture-capital
+- ai-economics
+- moats
+- enterprise-ai
+- legibility
 source: https://x.com/saranormous/status/2064510215056400652
 date: 2026-06-09
 type: bookmark
 author: saranormous
-summary: "The untrainable is the last defensible corner: private correctness, illegible work, relationships, accountability, and slow organizational translation. Measurable work gets eaten; value accrues to those who earn the right to define “good” inside a firm’s private reality and set the benchmark others are measured against."
-raw: "[[raw/saranormous_2064510215056400652]]"
+summary: 'The untrainable is the last defensible corner: private correctness, illegible
+  work, relationships, accountability, and slow organizational translation. Measurable
+  work gets eaten; value accrues to those who earn the right to define “good” inside
+  a firm’s private reality and set the benchmark others are measured against.'
+raw: '[[raw/saranormous_2064510215056400652]]'
+description: 'The untrainable is the last defensible corner: private correctness,
+  illegible work, relationships, accountability, and slow organizational translation.
+  Measurable work gets eaten; value accrues to those who earn the right to define
+  “good” inside a firm’s private reality and set the benchmark others are measured
+  against.'
 ---
 
 # The Untrainable

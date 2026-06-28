@@ -1,11 +1,24 @@
 ---
-tags: ["agents", "agent-memory", "langsmith", "langchain", "observability", "procedural-memory", "agent-harness", "evals"]
+tags:
+- agents
+- agent-memory
+- langsmith
+- langchain
+- observability
+- procedural-memory
+- agent-harness
+- evals
 source: https://x.com/jakebroekhuizen/status/2069828911501021337
 date: 2026-06-24
 type: bookmark
 author: jakebroekhuizen
-summary: "LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub."
-raw: "[[raw/jakebroekhuizen_2069828911501021337]]"
+summary: LangChain's Jake Broekhuizen on closing the agent memory loop with traces,
+  analysis, and versioned context via LangSmith Observability, Engine, and Context
+  Hub.
+raw: '[[raw/jakebroekhuizen_2069828911501021337]]'
+description: LangChain's Jake Broekhuizen on closing the agent memory loop with traces,
+  analysis, and versioned context via LangSmith Observability, Engine, and Context
+  Hub.
 ---
 
 # How To Give Your Agent Memory

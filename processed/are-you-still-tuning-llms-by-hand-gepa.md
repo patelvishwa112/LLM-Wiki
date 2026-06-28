@@ -1,11 +1,25 @@
 ---
-tags: ["dspy", "gepa", "prompt-optimization", "prompt-engineering", "evals", "llm-judges", "pretraining", "microsoft-ai", "mai-thinking"]
+tags:
+- dspy
+- gepa
+- prompt-optimization
+- prompt-engineering
+- evals
+- llm-judges
+- pretraining
+- microsoft-ai
+- mai-thinking
 source: https://x.com/harold_matmul/status/2069836410052325711
 date: 2026-06-24
 type: bookmark
 author: harold_matmul
-summary: "Microsoft AI's Harold Benoit on dspy.GEPA as compute-driven prompt search with Genetic-Pareto optimization, strong reflection LLMs, and graders that return scores plus text feedback."
-raw: "[[raw/harold_matmul_2069836410052325711]]"
+summary: Microsoft AI's Harold Benoit on dspy.GEPA as compute-driven prompt search
+  with Genetic-Pareto optimization, strong reflection LLMs, and graders that return
+  scores plus text feedback.
+raw: '[[raw/harold_matmul_2069836410052325711]]'
+description: Microsoft AI's Harold Benoit on dspy.GEPA as compute-driven prompt search
+  with Genetic-Pareto optimization, strong reflection LLMs, and graders that return
+  scores plus text feedback.
 ---
 
 # Are You Still Tuning Your LLMs by Hand? (An Ode to GEPA)

@@ -1,11 +1,18 @@
 ---
-tags: ["hermes", "kanban", "agents", "multi-agent", "orchestration", "skills", "profiles"]
+tags:
+- hermes
+- kanban
+- agents
+- multi-agent
+- orchestration
+- skills
+- profiles
 source: https://x.com/akshay_pachaar/status/2062526843564233040
 date: 2026-06-04
 type: bookmark
-author: "Akshay (@akshay_pachaar)"
-raw: "[[raw/akshaypachaar_2062526843564233040]]"
-related: ["[[openclaw-hermes-supervisor-setup]]", "[[how-to-build-ai-agent-swarms]]"]
+author: Akshay (@akshay_pachaar)
+raw: '[[raw/akshaypachaar_2062526843564233040]]'
+description: 'Hermes Kanban: Mission Control for Your Agents'
 ---
 
 # Hermes Kanban: Mission Control for Your Agents
@@ -21,3 +28,8 @@ related: ["[[openclaw-hermes-supervisor-setup]]", "[[how-to-build-ai-agent-swarm
 ## Summary
 
 Akshay provides a complete walkthrough of Hermes Kanban — the multi-agent coordination system that turns independent agents into a coordinated team. The key breakthrough is structured task summaries: when an agent finishes, it writes what it built, what files changed, and what the next agent needs to know. The next agent reads that before starting — no cold starts, no context loss. A 4-agent software team (PM, backend, frontend, tester) can be set up in ~20 minutes, controlled from a phone via Telegram, and monitored via a live WebSocket dashboard.
+
+## Related
+
+- [[openclaw-hermes-supervisor-setup]]
+- [[how-to-build-ai-agent-swarms]]

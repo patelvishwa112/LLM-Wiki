@@ -1,13 +1,19 @@
 ---
-title: "AutoScientists — Decentralized AI Agents for Collaborative Research (Harvard)"
-tags: ["agents", "multi-agent", "orchestration", "research", "decentralized"]
+title: AutoScientists — Decentralized AI Agents for Collaborative Research (Harvard)
+tags:
+- agents
+- multi-agent
+- orchestration
+- research
+- decentralized
 source: https://x.com/techwith_ram/status/2060944217023893538
-raw: "[[raw/techwith_ram_2060944217023893538]]"
+raw: '[[raw/techwith_ram_2060944217023893538]]'
 date: 2026-05-31
 published: 2026-05-31
-authors: ["Harvard MIMS Lab"]
+authors:
+- Harvard MIMS Lab
 type: article
-related: ["[[raw/techwith_ram_2060944217023893538]]", "[[processed/sia-recursive-self-improving-agent]]"]
+description: AutoScientists — Decentralized AI Research Agents
 ---
 
 # AutoScientists — Decentralized AI Research Agents
@@ -24,3 +30,8 @@ related: ["[[raw/techwith_ram_2060944217023893538]]", "[[processed/sia-recursive
 ## Architecture Insight
 
 The breakthrough isn't just performance — it's the research process. Agents "organize around evidence, learn from failures, and continuously reshape search strategy." This is multi-agent orchestration applied to scientific discovery: propose → critique → select → execute → learn.
+
+## Related
+
+- [[raw/techwith_ram_2060944217023893538]]
+- [[processed/sia-recursive-self-improving-agent]]

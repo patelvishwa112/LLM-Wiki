@@ -1,12 +1,32 @@
 ---
-tags: [spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools, workflows]
+tags:
+- spec-driven-development
+- agents
+- claude-code
+- skills
+- templates
+- presets
+- extensions
+- github
+- coding-tools
+- workflows
 source: https://github.com/github/spec-kit
-raw: "[[raw/github_spec-kit]]"
+raw: '[[raw/github_spec-kit]]'
 date: 2026-06-06
 type: bookmark
 author: github
-summary: GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → analyze → implement). 4-layer extensibility: project overrides > presets > extensions > core. Supports 30+ AI coding agents. Extension vs preset distinction maps cleanly to Hermes skill vs preset model.
-related: [[colleague-skill-dot-skill]], [[problem-first-skill-invert-bad-ideas]], [[gstack-garry-tan-claude-code-skills]], [[Dynamic Workflows in Claude Code]]
+summary: 'GitHub''s open-source Spec-Driven Development toolkit. Flips development
+  so specifications become executable, generating implementations. 109k stars. 9 slash
+  commands (constitution → specify → clarify → plan → tasks → analyze → implement).
+  4-layer extensibility: project overrides > presets > extensions > core. Supports
+  30+ AI coding agents. Extension vs preset distinction maps cleanly to Hermes skill
+  vs preset model.'
+description: 'GitHub''s open-source Spec-Driven Development toolkit. Flips development
+  so specifications become executable, generating implementations. 109k stars. 9 slash
+  commands (constitution → specify → clarify → plan → tasks → analyze → implement).
+  4-layer extensibility: project overrides > presets > extensions > core. Supports
+  30+ AI coding agents. Extension vs preset distinction maps cleanly to Hermes skill
+  vs preset model.'
 ---
 
 # Spec Kit — GitHub's Spec-Driven Development Toolkit
@@ -60,3 +80,10 @@ specify integration list  # 30+ supported agents
 ## Why It Matters
 
 GitHub's bet on post-vibe-coding workflow. The `/speckit.analyze` cross-artifact consistency check is the standout feature — validates tasks cover the plan, plan covers the spec, before any code is written. Rich extensibility with community extensions and presets. Runs on Claude Code, Codex, Cursor, Copilot, Gemini CLI, and 25+ others.
+
+## Related
+
+- [[colleague-skill-dot-skill]]
+- [[problem-first-skill-invert-bad-ideas]]
+- [[gstack-garry-tan-claude-code-skills]]
+- [[Dynamic Workflows in Claude Code]]

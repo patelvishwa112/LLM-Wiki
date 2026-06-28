@@ -1,10 +1,15 @@
 ---
-tags: ["agents", "marketing", "optimization", "autoresearch", "content"]
+tags:
+- agents
+- marketing
+- optimization
+- autoresearch
+- content
 source: https://x.com/shannholmberg/status/2052780393326092407
-raw: "[[raw/shannholmberg_2052780393326092407]]"
+raw: '[[raw/shannholmberg_2052780393326092407]]'
 date: 2026-03-24
 type: bookmark
-related: [[ai-content-system-framework]], [[agent-evals-practical-guide]]
+description: Karpathy AutoResearch for Marketing Optimization
 ---
 
 # Karpathy AutoResearch for Marketing Optimization

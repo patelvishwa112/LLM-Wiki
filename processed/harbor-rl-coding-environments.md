@@ -1,12 +1,20 @@
 ---
-title: "RL Coding Environments 101: Why Harbor Exists"
-tags: ["rl", "agents", "evals", "coding-tools", "training", "environment"]
+title: 'RL Coding Environments 101: Why Harbor Exists'
+tags:
+- rl
+- agents
+- evals
+- coding-tools
+- training
+- environment
 source: https://x.com/adithya_s_k/status/2054961319179420035
 date: 2026-06-01
 published: 2026-05-14
-authors: ["@adithya_s_k"]
+authors:
+- '@adithya_s_k'
 type: bookmark
-raw: "[[raw/x_adithya_sk_harbor-rl-coding-environments]]"
+raw: '[[raw/x_adithya_sk_harbor-rl-coding-environments]]'
+description: 'RL Coding Environments 101: Why Harbor Exists'
 ---
 
 # RL Coding Environments 101: Why Harbor Exists

@@ -62,6 +62,8 @@ Validates the vault’s existing bet: **markdown + frontmatter + wikilinks + git
 
 ### Tier 2 — Medium (scripted pass, ~326 files)
 
+**Status: partial 2026-06-28** — `scripts/okf-frontmatter-fix.py` backfilled `description`, stripped invalid frontmatter `related:` → body `## Related`, quoted risky `summary` lines; 0 YAML parse errors remaining.
+
 - **Type normalization:** Map `bookmark` → `Reference`, `concept` → `Reference` or `Playbook`, entity pages → `Entity` (OKF allows any string; pick a small internal enum).
 - **Backfill `description`:** Copy from `summary` where missing (one Python pass over `processed/`).
 - **Generate OKF-style `concepts/index.md`:** Script from `TAG-INDEX` or Bookmarks By Topic (bullet + description); keep `Bookmarks Index.md` for humans or deprecate slowly.

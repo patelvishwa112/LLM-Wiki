@@ -1,12 +1,31 @@
 ---
-tags: [skills, agent-harness, claude-code, prompt-engineering]
+tags:
+- skills
+- agent-harness
+- claude-code
+- prompt-engineering
 source: https://x.com/dklineii/status/2068331296032424433
 type: bookmark
-related: [[self-improvement-loop-for-skills-zach-lloyd]]
-summary: |
-  "Dave Kline (@dklineii) shares a detailed skills file for building an AI Chief of Staff in the form of a daily Morning Brief. The system uses six structured reads (The Day, The Decisions, The People, The Meetings, The World, The Move) plus four non-negotiable rules and six specific LLM prompts to turn the AI into a recurring executive amplifier."
-why_it_matters: |
-  "One of the stronger executions of 'AI as executive amplifier'. Strong emphasis on specificity (naming real meetings/people), flagging unknowns, treating the People read as sacred, and providing copy-paste prompts. Directly relevant to agent harness design, skills files, and high-signal daily workflows for leaders."
+related:
+- - self-improvement-loop-for-skills-zach-lloyd
+summary: '"Dave Kline (@dklineii) shares a detailed skills file for building an AI
+  Chief of Staff in the form of a daily Morning Brief. The system uses six structured
+  reads (The Day, The Decisions, The People, The Meetings, The World, The Move) plus
+  four non-negotiable rules and six specific LLM prompts to turn the AI into a recurring
+  executive amplifier."
+
+  '
+why_it_matters: '"One of the stronger executions of ''AI as executive amplifier''.
+  Strong emphasis on specificity (naming real meetings/people), flagging unknowns,
+  treating the People read as sacred, and providing copy-paste prompts. Directly relevant
+  to agent harness design, skills files, and high-signal daily workflows for leaders."
+
+  '
+description: '"Dave Kline (@dklineii) shares a detailed skills file for building an
+  AI Chief of Staff in the form of a daily Morning Brief. The system uses six structured
+  reads (The Day, The Decisions, The People, The Meetings, The World, The Move) plus
+  four non-negotiable rules and six specific LLM prompts to turn the AI into a recurring
+  executive amplifier."'
 ---
 
 # Build Your AI-Powered Morning Brief

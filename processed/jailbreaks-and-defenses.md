@@ -3,9 +3,18 @@ title: Jailbreaks and Defenses
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, jailbreaks, classifiers]
-sources: [raw/anthropic/articles/anthropic-research-constitutional-classifiers.md, raw/anthropic/papers/arxiv-2501.18837.md, raw/anthropic/papers/arxiv-2404.11018.md, raw/anthropic/papers/arxiv-2308.14132.md, raw/anthropic/papers/arxiv-2306.05499.md]
+tags:
+- safety
+- jailbreaks
+- classifiers
+sources:
+- raw/anthropic/articles/anthropic-research-constitutional-classifiers.md
+- raw/anthropic/papers/arxiv-2501.18837.md
+- raw/anthropic/papers/arxiv-2404.11018.md
+- raw/anthropic/papers/arxiv-2308.14132.md
+- raw/anthropic/papers/arxiv-2306.05499.md
 confidence: high
+description: Jailbreaks and Defenses
 ---
 
 # Jailbreaks and Defenses

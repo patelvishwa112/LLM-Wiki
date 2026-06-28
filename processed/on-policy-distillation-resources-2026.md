@@ -1,10 +1,14 @@
 ---
-tags: ["training", "on-policy-distillation", "rl", "distillation"]
+tags:
+- training
+- on-policy-distillation
+- rl
+- distillation
 source: https://x.com/neural_avb/status/2054640032087146727
-raw: "[[raw/neural_avb_2054640032087146727]]"
+raw: '[[raw/neural_avb_2054640032087146727]]'
 date: 2026-05-13
 type: note
-related: ["on-policy-distillation-must-read", "fast-slow-training-continual-llm-adaptation"]
+description: On-Policy Distillation Resources (2026)
 ---
 
 # On-Policy Distillation Resources (2026)

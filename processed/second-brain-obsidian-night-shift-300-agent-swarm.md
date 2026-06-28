@@ -1,12 +1,32 @@
 ---
-tags: ["obsidian", "second-brain", "agents", "kimi-work", "agent-swarm", "knowledge-graph", "atomic-notes", "friction", "playbooks", "mcp", "night-shift"]
+tags:
+- obsidian
+- second-brain
+- agents
+- kimi-work
+- agent-swarm
+- knowledge-graph
+- atomic-notes
+- friction
+- playbooks
+- mcp
+- night-shift
 source: https://x.com/eng_khairallah1/status/2066437136354545981
 date: 2026-06-15
 type: bookmark
 author: eng_khairallah1
-title: "How To Build a Second Brain That Runs Itself With Obsidian (Full Course)"
-summary: "A complete autonomous second-brain system using Obsidian + Kimi Work 300-agent swarm. Five roles (Scouts, Catalogers, Cartographers, Critics, Editors) run overnight via four staged playbooks (Scout, Refinery, Editor, Audit). Pipeline: 0-raw → 2-atoms → 3-threads with Prime Directive, [FRICTION] blocks, and MCP integration. Local-first, git-backed, zero manual filing."
-raw: "[[raw/eng_khairallah1_2066437136354545981]]"
+title: How To Build a Second Brain That Runs Itself With Obsidian (Full Course)
+summary: 'A complete autonomous second-brain system using Obsidian + Kimi Work 300-agent
+  swarm. Five roles (Scouts, Catalogers, Cartographers, Critics, Editors) run overnight
+  via four staged playbooks (Scout, Refinery, Editor, Audit). Pipeline: 0-raw → 2-atoms
+  → 3-threads with Prime Directive, [FRICTION] blocks, and MCP integration. Local-first,
+  git-backed, zero manual filing.'
+raw: '[[raw/eng_khairallah1_2066437136354545981]]'
+description: 'A complete autonomous second-brain system using Obsidian + Kimi Work
+  300-agent swarm. Five roles (Scouts, Catalogers, Cartographers, Critics, Editors)
+  run overnight via four staged playbooks (Scout, Refinery, Editor, Audit). Pipeline:
+  0-raw → 2-atoms → 3-threads with Prime Directive, [FRICTION] blocks, and MCP integration.
+  Local-first, git-backed, zero manual filing.'
 ---
 
 ## Key Takeaways

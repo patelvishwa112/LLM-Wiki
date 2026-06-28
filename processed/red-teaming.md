@@ -3,9 +3,15 @@ title: Red Teaming
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [safety, red-teaming]
-sources: [raw/anthropic/articles/anthropic-news-challenges-in-red-teaming-ai-systems.md, raw/anthropic/articles/anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team.md, raw/anthropic/papers/arxiv-2209.07858.md]
+tags:
+- safety
+- red-teaming
+sources:
+- raw/anthropic/articles/anthropic-news-challenges-in-red-teaming-ai-systems.md
+- raw/anthropic/articles/anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team.md
+- raw/anthropic/papers/arxiv-2209.07858.md
 confidence: high
+description: Red Teaming
 ---
 
 # Red Teaming

@@ -1,10 +1,19 @@
 ---
-tags: ["polymarket", "markov-chains", "quant", "trading", "monte-carlo", "kelly-criterion", "prediction-markets", "longshot-bias"]
+tags:
+- polymarket
+- markov-chains
+- quant
+- trading
+- monte-carlo
+- kelly-criterion
+- prediction-markets
+- longshot-bias
 source: https://x.com/de1lymoon/status/2059275498660757727
-raw: "[[raw/de1lymoon_2059275498660757727]]"
+raw: '[[raw/de1lymoon_2059275498660757727]]'
 date: 2026-05-28
 type: bookmark
 author: de1lymoon
+description: Markov Chains for Polymarket Trading
 ---
 
 # Markov Chains for Polymarket Trading

@@ -1,11 +1,18 @@
 ---
-tags: ["agents", "generative-ui", "mcp", "ag-ui", "a2ui", "copilotkit", "frontend"]
+tags:
+- agents
+- generative-ui
+- mcp
+- ag-ui
+- a2ui
+- copilotkit
+- frontend
 source: https://x.com/saboo_shubham_/status/2062220865643982875
 date: 2026-06-03
 type: bookmark
-author: "Shubham Saboo"
-raw: "[[raw/sabooshubham_2062220865643982875]]"
-related: ["[[the-html-brand-input-based-outcomes]]"]
+author: Shubham Saboo
+raw: '[[raw/sabooshubham_2062220865643982875]]'
+description: Generative UI Is the New Frontend
 ---
 
 # Generative UI Is the New Frontend
@@ -26,3 +33,7 @@ Shubham Saboo lays out the three architectural patterns for Generative UI in 202
 The Controlled pattern gives design precision but burns tokens and confuses agents past ~15 components. The Declarative pattern (A2UI) scales flat with one tool that emits JSON schemas — the agent writes the component tree per turn, and your catalog maps it to React. The Open-ended pattern gives the agent raw HTML in a sandboxed iframe, great for one-shot throwaways but unusable as a primary surface due to brand drift.
 
 Key operational details: AG-UI uses SSE with bidirectional state flow. CopilotKit's MCPAppsMiddleware connects any MCP Apps server. The A2UI pattern uses three operations (create_surface, update_components, update_data_model) and supports both fixed and dynamic schemas.
+
+## Related
+
+- [[the-html-brand-input-based-outcomes]]

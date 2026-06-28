@@ -1,11 +1,25 @@
 ---
-tags: ["anthropic", "hiring", "resumes", "career", "engineering"]
+tags:
+- anthropic
+- hiring
+- resumes
+- career
+- engineering
 source: https://x.com/hiiinternet/status/2065117819948437765
 date: 2026-06-11
 type: bookmark
 author: hiiinternet
-summary: "Data-driven breakdown of 1,680 Anthropic engineers: median 12+ years experience, heavy infra/distributed systems background, Google as top feeder company, only 13.7% hold PhDs. New-grad hiring is rare; juniors enter via elite internships, math/CS competitions, or alignment fellowships. Title is flattened to 'Member of Technical Staff'."
-raw: "[[raw/hiiinternet_2065117819948437765]]"
+summary: 'Data-driven breakdown of 1,680 Anthropic engineers: median 12+ years experience,
+  heavy infra/distributed systems background, Google as top feeder company, only 13.7%
+  hold PhDs. New-grad hiring is rare; juniors enter via elite internships, math/CS
+  competitions, or alignment fellowships. Title is flattened to ''Member of Technical
+  Staff''.'
+raw: '[[raw/hiiinternet_2065117819948437765]]'
+description: 'Data-driven breakdown of 1,680 Anthropic engineers: median 12+ years
+  experience, heavy infra/distributed systems background, Google as top feeder company,
+  only 13.7% hold PhDs. New-grad hiring is rare; juniors enter via elite internships,
+  math/CS competitions, or alignment fellowships. Title is flattened to ''Member of
+  Technical Staff''.'
 ---
 
 # I looked at 1,680 Anthropic resumes. Here's who they actually hire.

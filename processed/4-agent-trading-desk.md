@@ -1,11 +1,24 @@
 ---
-tags: ["trading", "agents", "agent-orchestration", "horizon", "risk-management", "backtesting"]
+tags:
+- trading
+- agents
+- agent-orchestration
+- horizon
+- risk-management
+- backtesting
 source: https://x.com/zodchiii/status/2063919809281110474
 date: 2026-06-08
 type: bookmark
 author: zodchiii
-summary: "4-agent trading desk architecture: Hunter scans for setups, Analyst validates with backtests and risk metrics via Horizon, Executor places orders, Monitor watches positions with kill switches and alerts. Build order: Analyst+Executor first, then Monitor, then Hunter. Total cost under $100/month."
-raw: "[[raw/zodchiii_2063919809281110474]]"
+summary: '4-agent trading desk architecture: Hunter scans for setups, Analyst validates
+  with backtests and risk metrics via Horizon, Executor places orders, Monitor watches
+  positions with kill switches and alerts. Build order: Analyst+Executor first, then
+  Monitor, then Hunter. Total cost under $100/month.'
+raw: '[[raw/zodchiii_2063919809281110474]]'
+description: '4-agent trading desk architecture: Hunter scans for setups, Analyst
+  validates with backtests and risk metrics via Horizon, Executor places orders, Monitor
+  watches positions with kill switches and alerts. Build order: Analyst+Executor first,
+  then Monitor, then Hunter. Total cost under $100/month.'
 ---
 
 # How to build a 4-agent trading desk that finds and trades opportunities while you sleep

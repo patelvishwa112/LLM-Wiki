@@ -1,9 +1,16 @@
 ---
-tags: [claude, x, viral-content, mrbeast, content-creation, prompt-engineering, growth]
+tags:
+- claude
+- x
+- viral-content
+- mrbeast
+- content-creation
+- prompt-engineering
+- growth
 source: https://x.com/mattepstein/status/2066664675542999369
 type: bookmark
-related: [[zen-and-the-art-of-ai-research]], [[universal-agent-thesis]]
 ingested: 2026-06-15
+description: Using Claude to go Viral on X… (Mr. Beasts Framework)
 ---
 
 # Using Claude to go Viral on X… (Mr. Beasts Framework)
@@ -24,3 +31,8 @@ Viral posts on X follow a repeatable "science" that can be ~95% automated using 
 
 ---
 *Processed from X post 2026-06-15. Claude + MrBeast viral framework for X.*
+
+## Related
+
+- [[zen-and-the-art-of-ai-research]]
+- [[universal-agent-thesis]]

@@ -1,11 +1,26 @@
 ---
-tags: ["anthropic", "ant-cli", "managed-agents", "cli", "agent-infrastructure", "mcp"]
+tags:
+- anthropic
+- ant-cli
+- managed-agents
+- cli
+- agent-infrastructure
+- mcp
 source: https://x.com/hey_madni/status/2063606029146034375
 date: 2026-06-07
 type: bookmark
 author: hey_madni
-summary: "Full guide to Anthropic's `ant` CLI (MIT-licensed Go binary): typed client for Messages, Models, Files, Batch, Beta:Agents, Sessions, Environments, Skills. Supports Managed Agents primitives, Dreaming, Outcomes, multi-agent orchestration, self-hosted sandboxes, MCP tunnels, and Claude Code integration. Sessions billed at $0.08/hour + tokens."
-raw: "[[raw/hey_madni_2063606029146034375]]"
+summary: 'Full guide to Anthropic''s `ant` CLI (MIT-licensed Go binary): typed client
+  for Messages, Models, Files, Batch, Beta:Agents, Sessions, Environments, Skills.
+  Supports Managed Agents primitives, Dreaming, Outcomes, multi-agent orchestration,
+  self-hosted sandboxes, MCP tunnels, and Claude Code integration. Sessions billed
+  at $0.08/hour + tokens.'
+raw: '[[raw/hey_madni_2063606029146034375]]'
+description: 'Full guide to Anthropic''s `ant` CLI (MIT-licensed Go binary): typed
+  client for Messages, Models, Files, Batch, Beta:Agents, Sessions, Environments,
+  Skills. Supports Managed Agents primitives, Dreaming, Outcomes, multi-agent orchestration,
+  self-hosted sandboxes, MCP tunnels, and Claude Code integration. Sessions billed
+  at $0.08/hour + tokens.'
 ---
 
 # Anthropic `ant` CLI — Full Guide to Managed Agents

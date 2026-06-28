@@ -1,9 +1,15 @@
 ---
-tags: [agent-memory, memory, llm, graph-memory, active-reconstruction, research]
+tags:
+- agent-memory
+- memory
+- llm
+- graph-memory
+- active-reconstruction
+- research
 source: https://x.com/neural_avb/status/2067950104062181740
 type: bookmark
-related: [[quarq-agent-memory-architecture]], [[agent-memory-landscape-2026]]
 ingested: 2026-06-19
+description: Graph Memory Reconstruction for LLMs, explained clearly
 ---
 
 # Graph Memory Reconstruction for LLMs, explained clearly
@@ -24,3 +30,8 @@ Moves beyond passive "retrieve-then-reason" in LLM memory systems to "Active Mem
 
 ---
 *Processed from X post 2026-06-19. High-signal paper summary on active graph memory for LLMs.*
+
+## Related
+
+- [[quarq-agent-memory-architecture]]
+- [[agent-memory-landscape-2026]]

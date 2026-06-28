@@ -1,12 +1,24 @@
 ---
-tags: ["agents", "claude-code", "loop-engineering", "agent-harness", "skills", "automation", "verification"]
+tags:
+- agents
+- claude-code
+- loop-engineering
+- agent-harness
+- skills
+- automation
+- verification
 source: https://x.com/de1lymoon/status/2069726411724673077
 date: 2026-06-24
 type: bookmark
 author: de1lymoon
-title: "Ten moves from prompter to loop designer (Claude Code)"
-summary: "A three-tier roadmap (see, build, compound) for turning manual Claude Code prompting into self-scheduled loops with independent graders, state memory, skill distillation, and fail-safe hooks."
-raw: "[[raw/de1lymoon_2069726411724673077]]"
+title: Ten moves from prompter to loop designer (Claude Code)
+summary: A three-tier roadmap (see, build, compound) for turning manual Claude Code
+  prompting into self-scheduled loops with independent graders, state memory, skill
+  distillation, and fail-safe hooks.
+raw: '[[raw/de1lymoon_2069726411724673077]]'
+description: A three-tier roadmap (see, build, compound) for turning manual Claude
+  Code prompting into self-scheduled loops with independent graders, state memory,
+  skill distillation, and fail-safe hooks.
 ---
 
 ## Key takeaways

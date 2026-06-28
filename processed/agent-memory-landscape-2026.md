@@ -1,13 +1,23 @@
 ---
-title: "Agent Memory Landscape 2026 — Every Harness, Every Gap"
-tags: ["memory", "agents", "hermes", "claude-code", "codex", "copilot", "mem0", "benchmarks", "infrastructure"]
+title: Agent Memory Landscape 2026 — Every Harness, Every Gap
+tags:
+- memory
+- agents
+- hermes
+- claude-code
+- codex
+- copilot
+- mem0
+- benchmarks
+- infrastructure
 source: https://x.com/mem0ai/status/2061822612398014782
 date: 2026-06-02
 published: 2026-06-02
-authors: ["mem0 (@mem0ai)"]
+authors:
+- mem0 (@mem0ai)
 type: bookmark
-raw: "[[raw/mem0ai_2061822612398014782]]"
-related: ["[[research-agent-evidence-operator]]", "[[knowledge-system-compounding-obsidian-vellum]]"]
+raw: '[[raw/mem0ai_2061822612398014782]]'
+description: Agent Memory Landscape 2026
 ---
 
 # Agent Memory Landscape 2026
@@ -45,3 +55,8 @@ Three built-in layers:
 3. **Session search:** SQLite FTS5 over all sessions, summarized on demand.
 
 Eight pluggable providers. Mem0 provider: removes cap, adds semantic retrieval, server-side extraction, user-scoped writes, circuit breaker.
+
+## Related
+
+- [[research-agent-evidence-operator]]
+- [[knowledge-system-compounding-obsidian-vellum]]

@@ -1,9 +1,15 @@
 ---
-tags: [agents, agent-harness, self-evolving-agents, tool-use, autonomy, architecture]
+tags:
+- agents
+- agent-harness
+- self-evolving-agents
+- tool-use
+- autonomy
+- architecture
 source: https://x.com/cobusgreylingza/status/2066593705906012188
 type: bookmark
-related: [[2-ways-self-evolving-agents-model-harness]], [[harness-is-the-product-context-aware-agents]]
 ingested: 2026-06-15
+description: Universal AgentThesis
 ---
 
 # Universal AgentThesis
@@ -30,3 +36,8 @@ This "Universal Agent Thesis" emphasizes agents that achieve true autonomy beyon
 
 ---
 *Processed from X post 2026-06-15. Universal Agent Thesis on tool-building and boundary discovery.*
+
+## Related
+
+- [[2-ways-self-evolving-agents-model-harness]]
+- [[harness-is-the-product-context-aware-agents]]

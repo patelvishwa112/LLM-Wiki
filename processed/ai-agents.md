@@ -3,9 +3,20 @@ title: AI Agents
 created: 2026-05-22
 updated: 2026-05-22
 type: concept
-tags: [agents, engineering]
-sources: [raw/anthropic/articles/anthropic-engineering-building-effective-agents.md, raw/anthropic/articles/anthropic-research-building-effective-agents.md, raw/anthropic/articles/anthropic-engineering-multi-agent-research-system.md, raw/anthropic/articles/anthropic-engineering-writing-tools-for-agents.md, raw/anthropic/articles/anthropic-engineering-equipping-agents-for-the-real-world-with-agent-skills.md, raw/anthropic/articles/anthropic-engineering-advanced-tool-use.md, raw/anthropic/articles/anthropic-engineering-claude-think-tool.md, raw/anthropic/articles/anthropic-engineering-demystifying-evals-for-ai-agents.md]
+tags:
+- agents
+- engineering
+sources:
+- raw/anthropic/articles/anthropic-engineering-building-effective-agents.md
+- raw/anthropic/articles/anthropic-research-building-effective-agents.md
+- raw/anthropic/articles/anthropic-engineering-multi-agent-research-system.md
+- raw/anthropic/articles/anthropic-engineering-writing-tools-for-agents.md
+- raw/anthropic/articles/anthropic-engineering-equipping-agents-for-the-real-world-with-agent-skills.md
+- raw/anthropic/articles/anthropic-engineering-advanced-tool-use.md
+- raw/anthropic/articles/anthropic-engineering-claude-think-tool.md
+- raw/anthropic/articles/anthropic-engineering-demystifying-evals-for-ai-agents.md
 confidence: high
+description: AI Agents
 ---
 
 # AI Agents

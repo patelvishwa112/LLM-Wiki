@@ -1,11 +1,26 @@
 ---
-tags: [orchestration, multi-agent, sakana-ai, models, agent-harness, grpo, collective-intelligence, routing]
+tags:
+- orchestration
+- multi-agent
+- sakana-ai
+- models
+- agent-harness
+- grpo
+- collective-intelligence
+- routing
 source: https://x.com/amitiitbhu/status/2069023290182758497
-raw: "[[raw/amitiitbhu_2069023290182758497]]"
+raw: '[[raw/amitiitbhu_2069023290182758497]]'
 date: 2026-06-22
 type: bookmark
 author: amitiitbhu
-summary: "Sakana Fugu orchestrator models route queries across frontier LLMs instead of answering alone: Fugu picks one model via a fast selection head; Fugu-Ultra builds multi-model workflows trained with GRPO, with debate, build-and-debug, and specialist routing emerging at SOTA benchmarks."
+summary: 'Sakana Fugu orchestrator models route queries across frontier LLMs instead
+  of answering alone: Fugu picks one model via a fast selection head; Fugu-Ultra builds
+  multi-model workflows trained with GRPO, with debate, build-and-debug, and specialist
+  routing emerging at SOTA benchmarks.'
+description: 'Sakana Fugu orchestrator models route queries across frontier LLMs instead
+  of answering alone: Fugu picks one model via a fast selection head; Fugu-Ultra builds
+  multi-model workflows trained with GRPO, with debate, build-and-debug, and specialist
+  routing emerging at SOTA benchmarks.'
 ---
 
 # Sakana Fugu — Orchestrator Models

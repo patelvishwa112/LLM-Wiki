@@ -1,11 +1,30 @@
 ---
-tags: [product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus, user-research]
+tags:
+- product
+- product-market-fit
+- startups
+- agents
+- pm
+- vibe-coding
+- distribution
+- retention
+- focus
+- user-research
 source: https://x.com/feitong_yang/status/2068822981946794438
-raw: "[[raw/feitong_yang_2068822981946794438]]"
+raw: '[[raw/feitong_yang_2068822981946794438]]'
 date: 2026-06-23
 type: bookmark
 author: feitong_yang
-summary: "Feitong Yang's ten commandments from two years at an AI agent startup (Minecraft coplayer → Fairies desktop agent → Shortcut Excel PMF): avoid evasions that feel like progress—user contact, specific users, translation not breakthroughs, clear affordance, focus, outcomes over line count, no premature scale, missionary selling, retention as fuel not viral sparks."
+summary: 'Feitong Yang''s ten commandments from two years at an AI agent startup (Minecraft
+  coplayer → Fairies desktop agent → Shortcut Excel PMF): avoid evasions that feel
+  like progress—user contact, specific users, translation not breakthroughs, clear
+  affordance, focus, outcomes over line count, no premature scale, missionary selling,
+  retention as fuel not viral sparks.'
+description: 'Feitong Yang''s ten commandments from two years at an AI agent startup
+  (Minecraft coplayer → Fairies desktop agent → Shortcut Excel PMF): avoid evasions
+  that feel like progress—user contact, specific users, translation not breakthroughs,
+  clear affordance, focus, outcomes over line count, no premature scale, missionary
+  selling, retention as fuel not viral sparks.'
 ---
 
 # The Ten Commandments for Building Product

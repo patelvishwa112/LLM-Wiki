@@ -1,10 +1,15 @@
 ---
-tags: ["agents", "evals", "agent-ops", "testing", "production"]
+tags:
+- agents
+- evals
+- agent-ops
+- testing
+- production
 source: https://x.com/Vtrivedy10/status/2057175860910964967
-raw: "[[raw/Vtrivedy10_2057175860910964967]]"
+raw: '[[raw/Vtrivedy10_2057175860910964967]]'
 date: 2026-05-20
 type: bookmark
-related: [[coding-agent-harness-eight-pillars]], [[21-agent-building-mistakes]]
+description: Agent Evals — Practical Guide to Measuring Agents in Production
 ---
 
 # Agent Evals — Practical Guide to Measuring Agents in Production

@@ -1,12 +1,46 @@
 ---
-tags: [evals, agent-evaluation, simulation, rubrics, model-routing, fine-tuning, security, agent-ops, agent-architecture]
+tags:
+- evals
+- agent-evaluation
+- simulation
+- rubrics
+- model-routing
+- fine-tuning
+- security
+- agent-ops
+- agent-architecture
 source: https://x.com/garrettlord/status/2068754262440767500
 type: bookmark
-related: [[21-agent-building-mistakes], [iii-agent-harness-workers], [harness-engineering-2026-discipline]]
-summary: |
-  "Garrett Lord (@GarrettLord, CEO of Handshake) argues that 'evals' (evaluation suites) are the new strategic IP that will define the next era of AI. Companies must turn workflows, domain knowledge, and judgment into AI systems that improve with use. A strong eval suite captures nuance, judgment, tool use, and breaks tasks into scorable rubrics inside simulations. He outlines five pillars: evals as foundation, segmented AI strategy per function, security for agentic era, optimized model routing, and fine-tuning as a core discipline. Includes a detailed 'Eval Suite' architecture diagram."
-why_it_matters: |
-  "Directly relevant to the vault's agent-harness and agent-ops focus. Emphasizes treating evals as a core governance and quality layer (not ad-hoc testing), building simulation environments, using LLM-as-judge + objective rubrics, and the shift to eval-first development. The five pillars provide a practical framework for turning AI pilots into production systems with measurable business impact. Strong alignment with production agent design, verifiability, and cost/quality discipline."
+related:
+- - 21-agent-building-mistakes
+- - iii-agent-harness-workers
+- - harness-engineering-2026-discipline
+summary: '"Garrett Lord (@GarrettLord, CEO of Handshake) argues that ''evals'' (evaluation
+  suites) are the new strategic IP that will define the next era of AI. Companies
+  must turn workflows, domain knowledge, and judgment into AI systems that improve
+  with use. A strong eval suite captures nuance, judgment, tool use, and breaks tasks
+  into scorable rubrics inside simulations. He outlines five pillars: evals as foundation,
+  segmented AI strategy per function, security for agentic era, optimized model routing,
+  and fine-tuning as a core discipline. Includes a detailed ''Eval Suite'' architecture
+  diagram."
+
+  '
+why_it_matters: '"Directly relevant to the vault''s agent-harness and agent-ops focus.
+  Emphasizes treating evals as a core governance and quality layer (not ad-hoc testing),
+  building simulation environments, using LLM-as-judge + objective rubrics, and the
+  shift to eval-first development. The five pillars provide a practical framework
+  for turning AI pilots into production systems with measurable business impact. Strong
+  alignment with production agent design, verifiability, and cost/quality discipline."
+
+  '
+description: '"Garrett Lord (@GarrettLord, CEO of Handshake) argues that ''evals''
+  (evaluation suites) are the new strategic IP that will define the next era of AI.
+  Companies must turn workflows, domain knowledge, and judgment into AI systems that
+  improve with use. A strong eval suite captures nuance, judgment, tool use, and breaks
+  tasks into scorable rubrics inside simulations. He outlines five pillars: evals
+  as foundation, segmented AI strategy per function, security for agentic era, optimized
+  model routing, and fine-tuning as a core discipline. Includes a detailed ''Eval
+  Suite'' architecture diagram."'
 ---
 
 # Evals: the strategic IP that will define the next era of AI
