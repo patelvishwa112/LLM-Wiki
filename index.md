@@ -13,6 +13,8 @@ Progressive disclosure entry for OKF v0.1 consumers. Read this file first; open 
 * [Vault conventions and intelligence ops](CLAUDE.md) — placement rules, ingestion SOP, OKF alignment
 * [Bookmarks by topic and A-Z](Bookmarks%20Index.md) — primary human entry; topic sections + tag badges
 * [Tag cross-reference](entities/TAG-INDEX.md) — every tag → processed concept slugs
+* [All concepts A–Z](processed/index.md) — OKF catalog with one-line descriptions
+* [Bundle changelog](log.md) — dated ingest and maintenance events
 * [Frontmatter schema](SCHEMA.md) — tags, types, page thresholds
 
 ## Concepts

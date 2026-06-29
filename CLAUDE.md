@@ -53,7 +53,7 @@ This repository is an **OKF-style knowledge bundle**: git-distributed markdown c
 |----------|------------|
 | Bundle index | `index.md` (`okf_version: "0.1"`) |
 | Concepts | `processed/*.md` — **required:** `type`; **required on new ingests:** `description` (one-line; quote if it contains `: `) |
-| Optional indexes | `Bookmarks Index.md`, `entities/TAG-INDEX.md` (synthesized navigation) |
+| Optional indexes | `Bookmarks Index.md`, `entities/TAG-INDEX.md`, `processed/index.md`, `log.md` |
 | Entity concepts | `entities/*.md` (exclude `TAG-INDEX.md` from concept count) |
 | Citations / archive | `raw/` — provenance; may be omitted from slim OKF exports |
 
@@ -83,9 +83,10 @@ When adding a new article or source:
 1. **Save raw** → `raw/author_statusid.md` with `source_url`, `ingested` date, `sha256`
 2. **Create processed note** → `processed/slug.md` with YAML frontmatter (`tags`, `source`, `date`, **`type`** (required), **`description`** (required, one line; OKF — duplicate `summary` text if both present), quoted `summary` optional, `raw: "[[raw/...]]"`). Put `## Related` wikilinks in the body only, not invalid `related:` YAML lists.
 3. **Update Bookmarks Index** → add to both By Topic section and A-Z listing
-4. **Regenerate TAG-INDEX** → run the tag extraction script to rebuild `entities/TAG-INDEX.md`
-5. **Create entity pages** → if the article introduces a new company, person, tool, or concept that warrants a standalone entity page, create one in `entities/`
-6. **Run wiki-sync** → `~/scripts/wiki-sync.sh` or wait for cron job (`c09d51fd4ed2`, every 6 hours)
+4. **Regenerate OKF indexes** → `python3 scripts/regenerate-okf-indexes.py` (TAG-INDEX + `processed/index.md`)
+5. **Append changelog** → `python3 scripts/append-okf-log.py "Ingest: <title> (<source>)"`
+6. **Create entity pages** → if the article introduces a new company, person, tool, or concept that warrants a standalone entity page, create one in `entities/`
+7. **Run wiki-sync** → `~/scripts/wiki-sync.sh` or wait for cron job (`c09d51fd4ed2`, every 6 hours)
 
 ### Sensitive Information Policy
 

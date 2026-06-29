@@ -65,9 +65,10 @@ Validates the vault’s existing bet: **markdown + frontmatter + wikilinks + git
 **Status: partial 2026-06-28** — `scripts/okf-frontmatter-fix.py` backfilled `description`, stripped invalid frontmatter `related:` → body `## Related`, quoted risky `summary` lines; 0 YAML parse errors remaining.
 
 - **Type normalization:** Map `bookmark` → `Reference`, `concept` → `Reference` or `Playbook`, entity pages → `Entity` (OKF allows any string; pick a small internal enum).
-- **Backfill `description`:** Copy from `summary` where missing (one Python pass over `processed/`).
-- **Generate OKF-style `concepts/index.md`:** Script from `TAG-INDEX` or Bookmarks By Topic (bullet + description); keep `Bookmarks Index.md` for humans or deprecate slowly.
-- **Optional `log.md`:** Append on ingest commits (cron or post-commit hook) — mirrors SCHEMA.md `log.md` intent.
+- **Backfill `description`:** Copy from `summary` where missing (one Python pass over `processed/`). **Done 2026-06-28.**
+- **Generate OKF-style `processed/index.md`:** Script from frontmatter descriptions. **Done** — `scripts/regenerate-processed-index.py` via `regenerate-okf-indexes.py`.
+- **Optional `log.md`:** Append on ingest via `scripts/append-okf-log.py`. **Done** — root `log.md` + ingest SOP.
+- **Type normalization:** Deferred — `bookmark` / `concept` remain valid OKF `type` strings unless exporting to a strict consumer.
 
 ### Tier 3 — Heavy (only if exporting to non-Obsidian consumers)
 
