@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 327 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 328 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -207,6 +207,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-driven-development.md](/processed/loop-driven-development.md) — *bookmark* — Loop Driven Development (LDD): the oracle problem, behavior coverage, four quadrants of feedback (independence + queryability), mining test suites, querying authoritative oracles, distance assertions, and the shift fr...
 - [loop-engineering-14-step-roadmap.md](/processed/loop-engineering-14-step-roadmap.md) — *bookmark* — A 14-step framework for moving from manual prompting to designing autonomous agent loops, covering the 4-condition test, five building blocks (automations, worktrees, skills, connectors, sub-agents), state management,...
 - [loop-engineering-clearly-explained.md](/processed/loop-engineering-clearly-explained.md) — *bookmark* — Accessible loop-engineering primer: the while-loop is solved; value is harness + brakes (completion checks, context rot, idempotent tools, critic). Boris Cherny builds loops, not prompts; same model + better loop can ...
+- [loop-engineering-quietly-ate-prompt-engineering.md](/processed/loop-engineering-quietly-ate-prompt-engineering.md) — *bookmark* — Field guide defining agent loops vs cron, five meanings of loop, verification brakes, skills as compounding assets, and a three-level build ladder.
 - [loop-engineering-technical-roadmap-h100envy.md](/processed/loop-engineering-technical-roadmap-h100envy.md) — *bookmark* — Step-by-step technical roadmap for autonomous agent loops: external deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking gates, disk state, isolation, and JSONL observability.
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
 - [macro-evals-for-agentic-systems-openai-cookbook.md](/processed/macro-evals-for-agentic-systems-openai-cookbook.md) — *bookmark* — Macro Evals for Agentic Systems (OpenAI Cookbook)

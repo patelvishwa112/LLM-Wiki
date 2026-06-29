@@ -86,6 +86,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
 - [[loop-engineering-clearly-explained]] — [Loop Engineering Clearly Explained](https://x.com/akshay_pachaar/status/2069118430582866051) `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
+- [[loop-engineering-quietly-ate-prompt-engineering]] — [Loop engineering: the skill that quietly ate prompt engineering](https://x.com/dunik_7/status/2071584492804784468) `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[human-in-the-loop-agent-loops]] — [Human in the /loop](https://x.com/ericzakariasson/status/2070493377267646797) `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, cursor, cloud-agents]`
 - [[agent-swarms-production-governance]] — [Your Agent Isn't Slow. It's Doing 4 Jobs at Once](https://x.com/nyk_builderz/status/2070346338269819043) `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression]`
@@ -455,6 +456,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]] `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[loop-engineering-14-step-roadmap]] `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
 - [[loop-engineering-clearly-explained]] `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
+- [[loop-engineering-quietly-ate-prompt-engineering]] `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
 - [[lotteverheyden]] `[ai-ml]`
 - [[macro-evals-for-agentic-systems-openai-cookbook]] `[evals]`

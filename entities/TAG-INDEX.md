@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 812 unique tags across 327 processed notes.
+> 812 unique tags across 328 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (46)
+### agent-harness (47)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -57,6 +57,7 @@
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-clearly-explained]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[open-knowledge-format-okf-google]]
 - [[post-agent-companies]]
@@ -134,7 +135,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (136)
+### agents (137)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -221,6 +222,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-built-in-memory]]
@@ -355,7 +357,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### automation (7)
+### automation (8)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[automate-writing-llm-prompts-dspy]]
@@ -363,6 +365,7 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[recursive-self-improvement-ai-101]]
 
 ### benchmarks (5)
@@ -421,7 +424,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (70)
+### claude-code (71)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -474,6 +477,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
@@ -780,7 +784,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (8)
+### loop-engineering (9)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -788,6 +792,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-clearly-explained]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 
@@ -1030,7 +1035,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (28)
+### prompt-engineering (29)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1051,6 +1056,7 @@
 - [[iceberg-opus-48-prompts]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-engineering-clearly-explained]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[mcp-model-context-protocol]]
 - [[opus-48-token-economy-guide]]
 - [[production-rag-agents-technmak]]
@@ -1179,7 +1185,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### skills (45)
+### skills (46)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1213,6 +1219,7 @@
 - [[llms-securing-source-code]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[nvidia-skillspector-security-scanner]]
@@ -1327,7 +1334,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (9)
+### verification (10)
 
 - [[claude-code-changed-what-agents-look-like]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -1335,6 +1342,7 @@
 - [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
+- [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
