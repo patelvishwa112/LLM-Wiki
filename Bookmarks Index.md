@@ -43,6 +43,7 @@
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
+- [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
@@ -402,6 +403,7 @@
 - [[dimitrispapail]] `[papers]`
 - [[dqn-adaptive-trade-execution-ritonchain]] `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, markov-chains, finance, systematic-trading]`
 - [[dive-into-claude-code-vila-lab]] `[claude-code, architecture, agent-engineering, harness-engineering, paper, hermes, openclaw]`
+- [[introducing-dynamic-subagents-deep-agents]] `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`

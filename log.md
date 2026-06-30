@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-06-30
 
+- Ingest: Dynamic Subagents in Deep Agents (sydneyrunkle 2071629451712983319)
+
+## 2026-06-30
+
 - OKF: fix append-okf-log dedupe; backfill raw sha256 on dunik ingest
 
 ## 2026-06-30

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 812 unique tags across 329 processed notes.
+> 813 unique tags across 330 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -135,7 +135,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (138)
+### agents (139)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -215,6 +215,7 @@
 - [[human-in-the-loop-agent-loops]]
 - [[iceberg-opus-48-prompts]]
 - [[iii-agent-harness-workers]]
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[karpathy-autoresearch-marketing-optimization]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[learn-harness-engineering]]
@@ -892,7 +893,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (23)
+### multi-agent (24)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -905,6 +906,7 @@
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
 - [[human-in-the-loop-agent-loops]]
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-dreaming-orchestration]]
@@ -952,7 +954,7 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### orchestration (21)
+### orchestration (22)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -970,6 +972,7 @@
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
 - [[iii-agent-harness-workers]]
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[managed-agents-dreaming-orchestration]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[sakana-fugu-orchestrator-models]]
@@ -1272,7 +1275,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (11)
+### subagents (12)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1282,6 +1285,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1360,7 +1364,7 @@
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### workflows (10)
+### workflows (11)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1369,6 +1373,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[hermes-goal-mode-guide]]
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
@@ -1639,6 +1644,11 @@
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[principled-thinking-and-ai-ray-dalio]]
 
+### deep-agents (2)
+
+- [[deep-agents-prompt-caching]]
+- [[introducing-dynamic-subagents-deep-agents]]
+
 ### deepmind (2)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -1884,10 +1894,11 @@
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
 
-### langchain (3)
+### langchain (4)
 
 - [[deep-agents-prompt-caching]]
 - [[how-to-give-your-agent-memory]]
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 
 ### langsmith (2)
@@ -2198,8 +2209,9 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[reward-hacking-and-tampering]]
 
-### rlm (2)
+### rlm (3)
 
+- [[introducing-dynamic-subagents-deep-agents]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
@@ -2507,6 +2519,7 @@
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **cloud-agents** — [[human-in-the-loop-agent-loops]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
+- **code-interpreter** — [[introducing-dynamic-subagents-deep-agents]]
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communication** — [[pm-as-context-compressor]]
 - **communities** — [[0xsojalsec-llms-local]]
@@ -2549,7 +2562,6 @@
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
-- **deep-agents** — [[deep-agents-prompt-caching]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **delegation** — [[multi-perspective-prd-review-claude-code]]
 - **design** — [[the-html-brand-input-based-outcomes]]
