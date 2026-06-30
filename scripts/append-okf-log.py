@@ -41,8 +41,8 @@ def main() -> None:
     else:
         new_text = HEADER + section + text
 
-    # Dedupe same-day duplicate message
-    if f"- {message}\n" in new_text and new_text.count(f"## {day}") >= 1:
+    # Dedupe: only skip if the message already exists in the file before this append
+    if f"- {message}\n" in text:
         print("log.md: entry already present")
         return
 

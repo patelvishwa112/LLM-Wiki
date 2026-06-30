@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 328 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 329 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -116,6 +116,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [deep-agents-prompt-caching.md](/processed/deep-agents-prompt-caching.md) — *bookmark* — Alex Olsen (Deep Agents/LangChain): provider-agnostic prompt caching — explicit breakpoints + implicit fallback + stable prefix layout; 49–80% token cost cuts on real trajectories (Haiku/GPT mini/Gemini flash); LangSm...
 - [deepseek-v4-claude-code-setup.md](/processed/deepseek-v4-claude-code-setup.md) — *processed-note* — DeepSeek V4 as a Parallel Claude Code Session
 - [deepseek-v4-pro-threejs-embedding-visualization.md](/processed/deepseek-v4-pro-threejs-embedding-visualization.md) — *note* — DeepSeek-V4 Pro: Three.js Embedding Visualization
+- [design-good-ml-experiments-grigorev.md](/processed/design-good-ml-experiments-grigorev.md) — *bookmark* — Poolside-scale playbook for ML experiments — research questions, dated baselines, manual run logs, finish runs, and compute-efficiency gain via scaling laws.
 - [designing-loops-with-fable-5.md](/processed/designing-loops-with-fable-5.md) — *bookmark* — Fable 5 experiments: self-correction loops (/goal, Outcomes) beat self-critique; memory progression (fail-investigate-verify-distill-consult) works best when the model manages its own context. Fable 5 bets on larger s...
 - [detecting-misuse.md](/processed/detecting-misuse.md) — *concept* — Detecting and Countering Misuse
 - [dive-into-claude-code-vila-lab.md](/processed/dive-into-claude-code-vila-lab.md) — *resource* — Dive into Claude Code (VILA-Lab)

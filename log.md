@@ -2,6 +2,18 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-06-30
+
+- OKF: fix append-okf-log dedupe; backfill raw sha256 on dunik ingest
+
+## 2026-06-30
+
+- Ingest: Design good ML experiments (iamgrigorev 2071688181628678468)
+
+## 2026-06-30
+
+- Ingest: Loop engineering quietly ate prompt engineering (dunik_7 2071584492804784468)
+
 ## 2026-06-28
 
 - OKF Tier 1: bundle `index.md`, `CLAUDE.md` alignment, ingest skills + agent memory for `type` + `description`.

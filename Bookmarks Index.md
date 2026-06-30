@@ -136,6 +136,7 @@
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[ai-engineering-roadmap-2026-from-scratch]] — [The 2026 AI Engineering Roadmap — Build It From Scratch](https://x.com/ghumare64/status/2063574610889560271) `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
+- [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 
 ### Coding Tools
 
@@ -396,6 +397,7 @@
 - [[deep-agents-prompt-caching]] `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents, observability, inference, token-economy]`
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`
+- [[design-good-ml-experiments-grigorev]] `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 - [[dimitrispapail]] `[papers]`
 - [[dimitrispapail]] `[papers]`
 - [[dqn-adaptive-trade-execution-ritonchain]] `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, markov-chains, finance, systematic-trading]`

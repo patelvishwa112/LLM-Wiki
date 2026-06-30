@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 812 unique tags across 328 processed notes.
+> 812 unique tags across 329 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -135,7 +135,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (137)
+### agents (138)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -183,6 +183,7 @@
 - [[computer-use]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
+- [[design-good-ml-experiments-grigorev]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -329,10 +330,11 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (17)
+### architecture (18)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
+- [[design-good-ml-experiments-grigorev]]
 - [[dive-into-claude-code-vila-lab]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[encoder-free-models-bitter-lesson]]
@@ -864,10 +866,11 @@
 - [[memory-is-retained-consequence]]
 - [[quarq-agent-memory-architecture]]
 
-### ml-research (5)
+### ml-research (6)
 
 - [[0xsojalsec-llms-local]]
 - [[aiedge-glm-5.2-guide]]
+- [[design-good-ml-experiments-grigorev]]
 - [[encoder-free-models-bitter-lesson]]
 - [[how-to-be-good-at-research]]
 - [[knowledge-distillation-theturingpost]]
@@ -981,6 +984,14 @@
 - [[problem-first-skill-invert-bad-ideas]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
+
+### pretraining (5)
+
+- [[are-you-still-tuning-llms-by-hand-gepa]]
+- [[build-your-own-llm-workshop-justin-angel]]
+- [[design-good-ml-experiments-grigorev]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 
 ### production (11)
 
@@ -1147,8 +1158,9 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### scaling-laws (5)
+### scaling-laws (6)
 
+- [[design-good-ml-experiments-grigorev]]
 - [[encoder-free-models-bitter-lesson]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
@@ -1285,7 +1297,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (37)
+### training (38)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1295,6 +1307,7 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
+- [[design-good-ml-experiments-grigorev]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[harbor-rl-coding-environments]]
@@ -1707,6 +1720,11 @@
 - [[exp1-sae-gap-closure-initial-result]]
 - [[ghost-in-residual-stream-experiment]]
 
+### experiments (2)
+
+- [[design-good-ml-experiments-grigorev]]
+- [[training-llm-from-scratch-5-lessons]]
+
 ### expertise (2)
 
 - [[level-above-phd-knowledge-works-without-you]]
@@ -2070,13 +2088,6 @@
 - [[building-your-first-ai-agent-clear-path]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 
-### pretraining (4)
-
-- [[are-you-still-tuning-llms-by-hand-gepa]]
-- [[build-your-own-llm-workshop-justin-angel]]
-- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
-- [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
-
 ### probing (2)
 
 - [[ghost-in-residual-stream-experiment]]
@@ -2165,8 +2176,9 @@
 - [[weight-synchronization-rl-post-training]]
 - [[world-models-agent-imagination]]
 
-### research-methodology (2)
+### research-methodology (3)
 
+- [[design-good-ml-experiments-grigorev]]
 - [[how-to-be-good-at-ai-research]]
 - [[training-llm-from-scratch-5-lessons]]
 
@@ -2573,7 +2585,6 @@
 - **evidence** — [[research-agent-evidence-operator]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **experimentation** — [[testing-business-ideas-product-operating-system]]
-- **experiments** — [[training-llm-from-scratch-5-lessons]]
 - **extended-thinking** — [[extended-thinking]]
 - **extensions** — [[spec-kit-github-sdd]]
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
