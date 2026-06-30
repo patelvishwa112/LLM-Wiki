@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-06-30
 
+- Ingest: How To Become An AI Engineer in 2026 (cyrilxbt 2071604212912246899)
+
+## 2026-06-30
+
 - Ingest: The Economy of Tokens (vipulved 2071404852908081211)
 
 ## 2026-06-30

@@ -139,6 +139,7 @@
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[torch-internals-part1-fx-graphs]] — [Torch Internals (Part 1) - FX Graphs](https://x.com/jino_rohit/status/2071247775837356399) `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[ai-engineering-roadmap-2026-from-scratch]] — [The 2026 AI Engineering Roadmap — Build It From Scratch](https://x.com/ghumare64/status/2063574610889560271) `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]] — [How To Become An AI Engineer in 2026 (Without a CS Degree)](https://x.com/cyrilxbt/status/2071604212912246899) `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 
@@ -338,6 +339,7 @@
 - [[agent-harness-should-repair-itself]] `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
 - [[agent-swarms-production-governance]] `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression, coordination, cost-optimization]`
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`

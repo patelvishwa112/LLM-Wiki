@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 824 unique tags across 334 processed notes.
+> 827 unique tags across 335 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -136,7 +136,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (140)
+### agents (141)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -159,6 +159,7 @@
 - [[ai-agent-loop-architecture-buinevici]]
 - [[ai-agents]]
 - [[ai-content-system-framework]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[anthropic-ant-cli-guide]]
@@ -381,9 +382,10 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (10)
+### career (11)
 
 - [[5-ai-skills-six-figures-2027]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[career-platform-email-list-ryan-holiday]]
@@ -1090,9 +1092,10 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[vscode-copilot-token-efficiency]]
 
-### rag (9)
+### rag (10)
 
 - [[0xsojalsec-llms-local]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
@@ -1455,9 +1458,10 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
-### ai-engineering (2)
+### ai-engineering (3)
 
 - [[2026-ai-engineering-roadmap]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 
 ### ai-research (3)
@@ -1873,6 +1877,11 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
 
+### hiring (2)
+
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[anthropic-engineering-hiring-resumes]]
+
 ### hooks (3)
 
 - [[9-step-loop-claude-code-senior-engineer]]
@@ -2129,8 +2138,9 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 
-### practical-guide (2)
+### practical-guide (3)
 
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[building-your-first-ai-agent-clear-path]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 
@@ -2271,9 +2281,10 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### roadmap (3)
+### roadmap (4)
 
 - [[2026-ai-engineering-roadmap]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[llm-engineering-projects-roadmap-2026]]
 
@@ -2713,7 +2724,6 @@
 - **gtm** — [[anthropic-gtm-claude-code-workflows]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hallucination** — [[why-on-policy-distillation-works]]
-- **hiring** — [[anthropic-engineering-hiring-resumes]]
 - **hnsw** — [[how-vector-database-works]]
 - **horizon** — [[4-agent-trading-desk]]
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
@@ -2798,6 +2808,7 @@
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
+- **mlops** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **moats** — [[the-untrainable]]
 - **modal** — [[secure-automated-learning-loops-modal-claude-code]]
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
@@ -2870,6 +2881,7 @@
 - **policy-optimization** — [[opsd-off-policy-self-distillation]]
 - **polygress** — [[daleverett-polygress-agent-era]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
+- **portfolio** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **position-vs-effort** — [[effort-position-leverage-principles]]
 - **post-agent-companies** — [[post-agent-companies]]
 - **postgres** — [[daleverett-polygress-agent-era]]
@@ -2947,6 +2959,7 @@
 - **self-improving** — [[self-improving-agent-swarm-kimi-loop]]
 - **self-learning** — [[self-learning-agents-three-layers-user-signal]]
 - **self-supervised-learning** — [[joint-embedding-predictive-architecture-jepa]]
+- **self-taught** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **self-teaching** — [[general-intelligence-rethinking-exploration-2022]]
 - **self-verification** — [[how-to-actually-use-claude-fable-5]]
 - **semantic-layer** — [[anthropic-self-service-analytics-claude]]

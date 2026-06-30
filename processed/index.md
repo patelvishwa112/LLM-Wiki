@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 334 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 335 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -38,6 +38,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [ai-chief-of-staff-morning-brief.md](/processed/ai-chief-of-staff-morning-brief.md) — *bookmark* — "Dave Kline (@dklineii) shares a detailed skills file for building an AI Chief of Staff in the form of a daily Morning Brief. The system uses six structured reads (The Day, The Decisions, The People, The Meetings, The...
 - [ai-content-system-framework.md](/processed/ai-content-system-framework.md) — *bookmark* — AI Content System — From Ideas to 5M Impressions
 - [ai-cybersecurity.md](/processed/ai-cybersecurity.md) — *concept* — AI Cybersecurity
+- [ai-engineer-2026-without-cs-degree-cyrilxbt.md](/processed/ai-engineer-2026-without-cs-degree-cyrilxbt.md) — *bookmark* — Practical 2026 guide to AI engineering without a CS degree—sequential stack (Python → RAG → agents → deploy), three portfolio projects, realistic timelines, and portfolio-over-credential hiring math.
 - [ai-engineering-roadmap-2026-from-scratch.md](/processed/ai-engineering-roadmap-2026-from-scratch.md) — *bookmark* — Rohit Ghumare's 12-layer AI engineering roadmap for 2026, built around his open-source course (503 lessons). Method: build every algorithm from raw math, then ship a reusable SKILL.md artifact. Covers math → deep lear...
 - [ai-loops-anatoli-kopadze.md](/processed/ai-loops-anatoli-kopadze.md) — *bookmark* — "Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift from one-prompt-at-a-time usage to autonomous iterative workflows. A real loop requires Goal + Verify (the most critical element) + State + Stop condit...
 - [ai-ml-engineer-interview-guide-2026-part1.md](/processed/ai-ml-engineer-interview-guide-2026-part1.md) — *bookmark* — 2026 AI/ML Engineer interview guide (Part 1): classical ML (bias-variance, class imbalance, calibration), statistics/experimentation, LLM fundamentals (tokenization, FlashAttention, RoPE), multimodal systems, fine-tun...
