@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 332 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 333 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -50,6 +50,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [aiedge-glm-5.2-guide.md](/processed/aiedge-glm-5.2-guide.md) — *bookmark* — GLM-5.2 Ultimate Guide
 - [alignment-faking.md](/processed/alignment-faking.md) — *concept* — Alignment Faking
 - [alphago-mcts-llm-rl-dwarkesh-eric-jang.md](/processed/alphago-mcts-llm-rl-dwarkesh-eric-jang.md) — *note* — AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang
+- [ambient-pm-agents-evidence-first-prd.md](/processed/ambient-pm-agents-evidence-first-prd.md) — *bookmark* — Nurijanian ambient PM agents — cron evidence packets before PRDs, PR-style stakeholder review, keep uncertainty visible not polished doc theater.
 - [anthropic-ant-cli-guide.md](/processed/anthropic-ant-cli-guide.md) — *bookmark* — Comprehensive guide to Anthropic's ant CLI — a typed API client for the Claude platform. Covers installation, output formats, the four Managed Agents primitives (Agent, Environment, Session, Events), the full deploy w...
 - [anthropic-ant-cli-managed-agents.md](/processed/anthropic-ant-cli-managed-agents.md) — *bookmark* — Full guide to Anthropic's `ant` CLI (MIT-licensed Go binary): typed client for Messages, Models, Files, Batch, Beta:Agents, Sessions, Environments, Skills. Supports Managed Agents primitives, Dreaming, Outcomes, multi...
 - [anthropic-claude-code-skills-lessons.md](/processed/anthropic-claude-code-skills-lessons.md) — *bookmark* — Anthropic's internal playbook for Claude Code skills: 9 categories (library reference, product verification, data analysis, business automation, scaffolding, code review, CI/CD, runbooks, infra ops), plus tips on gotc...

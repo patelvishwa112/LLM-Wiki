@@ -36,6 +36,7 @@
 - [[opus-48-token-economy-guide]] — [Opus 4.8 Token Economy Guide](https://x.com/0x_kaize/status/2061475678143365248)
 - [[dynamic-workflows-where-plan-lives]] — [Dynamic Workflows: The Plan Moves Out of Chat](https://x.com/voxyz_ai/status/2061782441606451381)
 - [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, dynamic-workflows]`
+- [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[knowledge-system-compounding-obsidian-vellum]] — [Knowledge System That Compounds — Obsidian + Vellum](https://x.com/_0xpainn/status/2061014710984511916)
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
@@ -151,6 +152,7 @@
 - [[pm-as-context-compressor]] — [The PM as the Context Compressor](https://x.com/nurijanian/status/2063188643683192835) `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows]`
 - [[testing-business-ideas-product-operating-system]] — [Testing Business Ideas as a product operating system](https://x.com/nurijanian/status/2070110096294642034) `[pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, stakeholders, discovery]`
+- [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
@@ -341,6 +343,7 @@
 - [[aiedge]] `[agents]`
 - [[akshaypachaar]] `[agents]`
 - [[akshaypachaar]] `[agents, papers]`
+- [[ambient-pm-agents-evidence-first-prd]] `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[amitiitbhu]] `[ai-ml]`
 - [[anshuman-athletickoder-on-building-agents-from-fir]] `[training, agents]`
 - [[anthropic-claude-code-skills-lessons]] `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`

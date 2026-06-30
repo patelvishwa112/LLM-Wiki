@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 820 unique tags across 332 processed notes.
+> 822 unique tags across 333 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -135,7 +135,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (139)
+### agents (140)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -159,6 +159,7 @@
 - [[ai-agents]]
 - [[ai-content-system-framework]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ambient-pm-agents-evidence-first-prd]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-recursive-self-improvement]]
@@ -982,8 +983,9 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
 
-### pm (6)
+### pm (7)
 
+- [[ambient-pm-agents-evidence-first-prd]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[pm-as-context-compressor]]
@@ -1725,6 +1727,11 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 
+### evidence (2)
+
+- [[ambient-pm-agents-evidence-first-prd]]
+- [[research-agent-evidence-operator]]
+
 ### execution (2)
 
 - [[dqn-adaptive-trade-execution-ritonchain]]
@@ -2115,6 +2122,11 @@
 - [[building-your-first-ai-agent-clear-path]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 
+### prd (2)
+
+- [[ambient-pm-agents-evidence-first-prd]]
+- [[multi-perspective-prd-review-claude-code]]
+
 ### probing (2)
 
 - [[ghost-in-residual-stream-experiment]]
@@ -2125,8 +2137,14 @@
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
 
-### product-management (2)
+### product-discovery (2)
 
+- [[ambient-pm-agents-evidence-first-prd]]
+- [[testing-business-ideas-product-operating-system]]
+
+### product-management (3)
+
+- [[ambient-pm-agents-evidence-first-prd]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[testing-business-ideas-product-operating-system]]
 
@@ -2319,8 +2337,9 @@
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
 
-### stakeholders (3)
+### stakeholders (4)
 
+- [[ambient-pm-agents-evidence-first-prd]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[pm-as-context-compressor]]
 - [[testing-business-ideas-product-operating-system]]
@@ -2508,6 +2527,7 @@
 - **alignment-faking** — [[alignment-faking]]
 - **alphafold** — [[notes-on-foundation-models]]
 - **alphago** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- **ambient-agents** — [[ambient-pm-agents-evidence-first-prd]]
 - **analytics-agent** — [[github-qubot-data-analytics-agent]]
 - **ann** — [[how-vector-database-works]]
 - **apple-silicon** — [[mlx-engine-v185-kv-cache-agentic]]
@@ -2582,6 +2602,7 @@
 - **creativity** — [[the-html-brand-input-based-outcomes]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
+- **cronjob** — [[ambient-pm-agents-evidence-first-prd]]
 - **crypto** — [[how-to-read-company-ai-analyst]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -2627,7 +2648,6 @@
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **esm** — [[notes-on-foundation-models]]
 - **eval** — [[langchain-fireworks-trace-judge-100x-cheaper]]
-- **evidence** — [[research-agent-evidence-operator]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **experimentation** — [[testing-business-ideas-product-operating-system]]
 - **extended-thinking** — [[extended-thinking]]
@@ -2841,7 +2861,6 @@
 - **postgres** — [[daleverett-polygress-agent-era]]
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
-- **prd** — [[multi-perspective-prd-review-claude-code]]
 - **prd-review** — [[make-requirements-great]]
 - **pre-training** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
@@ -2853,7 +2872,6 @@
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product** — [[ten-commandments-building-product-feitong-yang]]
-- **product-discovery** — [[testing-business-ideas-product-operating-system]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]

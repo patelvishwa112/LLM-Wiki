@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-06-30
 
+- Ingest: Ambient PM agents evidence-first PRD (nurijanian 2071555826087760076)
+
+## 2026-06-30
+
 - Ingest: Inference optimizations sub-second LLM checklist (asmah2107 2071196830088777741)
 
 ## 2026-06-30
