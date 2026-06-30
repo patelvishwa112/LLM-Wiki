@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 333 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 334 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -123,6 +123,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [dive-into-claude-code-vila-lab.md](/processed/dive-into-claude-code-vila-lab.md) — *resource* — Dive into Claude Code (VILA-Lab)
 - [dqn-adaptive-trade-execution-ritonchain.md](/processed/dqn-adaptive-trade-execution-ritonchain.md) — *bookmark* — RitOnchain (Venus) walks through DQN-based adaptive execution vs TWAP/VWAP: MDP state (inventory, time, LOB imbalance, price drift), impact+urgency reward, Double DQN PyTorch code, synthetic then LOBSTER/ABIDES valida...
 - [dynamic-workflows-where-plan-lives.md](/processed/dynamic-workflows-where-plan-lives.md) — *bookmark* — Claude Code Dynamic Workflows — Vox's 5 Rules
+- [economy-of-tokens-vipulved-modular-ai.md](/processed/economy-of-tokens-vipulved-modular-ai.md) — *bookmark* — Together AI CEO argues AI is modularizing like the PC era—transformers, OpenAI-compatible APIs, and harnesses/MCP as stable interfaces—making open weights an economic inevitability with order-of-magnitude cheaper toke...
 - [effort-position-leverage-principles.md](/processed/effort-position-leverage-principles.md) — *concept* — Effort is Linear, Position is Exponential — Five Principles of Market Reality
 - [encoder-free-models-bitter-lesson.md](/processed/encoder-free-models-bitter-lesson.md) — *bookmark* — rumik discusses how Sutton's Bitter Lesson continues to play out in modality interfaces — hand-designed encoders and codecs keep getting replaced by simpler, scale-driven encoder-free approaches.
 - [enterprise-and-industry-applications.md](/processed/enterprise-and-industry-applications.md) — *concept* — Enterprise and Industry Applications

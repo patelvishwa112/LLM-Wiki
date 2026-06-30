@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 822 unique tags across 333 processed notes.
+> 824 unique tags across 334 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (47)
+### agent-harness (48)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -43,6 +43,7 @@
 - [[building-your-first-ai-agent-clear-path]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[deep-agents-prompt-caching]]
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -702,11 +703,12 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (9)
+### inference (10)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[deep-agents-prompt-caching]]
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 - [[inference-optimizations-sub-second-llm-checklist]]
@@ -714,12 +716,13 @@
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[what-is-kv-cache-llms]]
 
-### infrastructure (10)
+### infrastructure (11)
 
 - [[2026-ai-engineering-roadmap]]
 - [[agent-memory-landscape-2026]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[memory-is-retained-consequence]]
 - [[rl-environments-guide-llm]]
 - [[rl-interview-answers-2026]]
@@ -814,7 +817,7 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
-### mcp (28)
+### mcp (29)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -829,6 +832,7 @@
 - [[claude-hidden-features-guide]]
 - [[claude-managed-agents]]
 - [[code-w-claude-london-2026]]
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[generative-ui-is-the-new-frontend]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
@@ -1349,11 +1353,12 @@
 - [[what-every-programmer-should-know-about-rlhf]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (6)
+### transformers (7)
 
 - [[2026-ai-engineering-roadmap]]
 - [[attention-qkv-math-amitiitbhu]]
 - [[build-your-own-llm-workshop-justin-angel]]
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
@@ -1444,8 +1449,9 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[coding-agent-harness-eight-pillars]]
 
-### ai-economics (2)
+### ai-economics (3)
 
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
@@ -1460,8 +1466,9 @@
 - [[recursive-self-improvement-ai-101]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (3)
+### ai-strategy (4)
 
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[post-agent-companies]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
@@ -2032,6 +2039,11 @@
 - [[opsd-off-policy-self-distillation]]
 - [[rl-algo-comprehensive-qa]]
 
+### open-weights (2)
+
+- [[economy-of-tokens-vipulved-modular-ai]]
+- [[who-will-set-price-intelligence]]
+
 ### openai (3)
 
 - [[harness-engineering-2026-discipline]]
@@ -2402,9 +2414,10 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 
-### token-economy (3)
+### token-economy (4)
 
 - [[deep-agents-prompt-caching]]
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
 
@@ -2430,8 +2443,9 @@
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[athcanft-grow-x-make-money]]
 
-### venture-capital (2)
+### venture-capital (3)
 
+- [[economy-of-tokens-vipulved-modular-ai]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
@@ -2793,6 +2807,7 @@
 - **model-routing** — [[evals-strategic-ip-garrettlord]]
 - **model-vs-harness** — [[2-ways-self-evolving-agents-model-harness]]
 - **model-welfare** — [[model-welfare]]
+- **modularization** — [[economy-of-tokens-vipulved-modular-ai]]
 - **monetization** — [[athcanft-grow-x-make-money]]
 - **monte-carlo** — [[markov-chains-polymarket-trading]]
 - **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
@@ -2816,7 +2831,6 @@
 - **off-policy** — [[opsd-off-policy-self-distillation]]
 - **ollama** — [[0xsojalsec-llms-local]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
-- **open-weights** — [[who-will-set-price-intelligence]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
 - **opportunity-discovery** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -2987,6 +3001,7 @@
 - **threat-modeling** — [[llms-securing-source-code]]
 - **time-management** — [[units-of-time-alfred-lin]]
 - **tiny-models** — [[training-llm-from-scratch-5-lessons]]
+- **together-ai** — [[economy-of-tokens-vipulved-modular-ai]]
 - **token-capital** — [[token-capital-scaffolding-process-governance]]
 - **token-efficiency** — [[vscode-copilot-token-efficiency]]
 - **tokenization** — [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
