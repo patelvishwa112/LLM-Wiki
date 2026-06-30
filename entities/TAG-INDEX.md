@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 813 unique tags across 330 processed notes.
+> 818 unique tags across 331 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1301,7 +1301,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (38)
+### training (39)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1336,6 +1336,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 - [[sia-recursive-self-improving-agent]]
+- [[torch-internals-part1-fx-graphs]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[weight-synchronization-rl-post-training]]
@@ -1629,9 +1630,10 @@
 - [[anthropic-self-service-analytics-claude]]
 - [[github-qubot-data-analytics-agent]]
 
-### debugging (2)
+### debugging (3)
 
 - [[agent-harness-should-repair-itself]]
+- [[torch-internals-part1-fx-graphs]]
 - [[your-agent-harness-should-repair-itself]]
 
 ### deceptive-alignment (2)
@@ -2152,6 +2154,11 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[mcp-core-architecture-hosts-clients-servers]]
 
+### pytorch (2)
+
+- [[pytorch-profiler-beginners-guide]]
+- [[torch-internals-part1-fx-graphs]]
+
 ### quant (4)
 
 - [[dqn-adaptive-trade-execution-ritonchain]]
@@ -2525,6 +2532,7 @@
 - **communities** — [[0xsojalsec-llms-local]]
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
+- **compilation** — [[torch-internals-part1-fx-graphs]]
 - **compliance** — [[claude-compliance-security-partners]]
 - **compounding-systems** — [[token-capital-scaffolding-process-governance]]
 - **compression** — [[agent-swarms-production-governance]]
@@ -2581,6 +2589,7 @@
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dqn** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **dynamo** — [[torch-internals-part1-fx-graphs]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
 - **email-list** — [[career-platform-email-list-ryan-holiday]]
@@ -2617,6 +2626,7 @@
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
+- **fx** — [[torch-internals-part1-fx-graphs]]
 - **gbrain** — [[gbrain-markdown-git-brain-mem0]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
@@ -2661,6 +2671,7 @@
 - **importance-sampling** — [[rl-algo-comprehensive-qa]]
 - **indexing** — [[how-vector-database-works]]
 - **induction-heads** — [[induction-heads]]
+- **inductor** — [[torch-internals-part1-fx-graphs]]
 - **inference-code-design** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **inference-optimization** — [[trimming-introduction]]
 - **inference-time-compute** — [[who-will-set-price-intelligence]]
@@ -2827,7 +2838,6 @@
 - **providers** — [[the-best-models-for-hermes-agent]]
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
-- **pytorch** — [[pytorch-profiler-beginners-guide]]
 - **qkv** — [[attention-qkv-math-amitiitbhu]]
 - **quantization** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **qubot** — [[github-qubot-data-analytics-agent]]
@@ -2943,6 +2953,7 @@
 - **tool-design** — [[agent-harness-engineering-agentforge]]
 - **tool-search** — [[vscode-copilot-token-efficiency]]
 - **tool-use** — [[universal-agent-thesis]]
+- **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **trace-data** — [[langchain-fireworks-trace-judge-100x-cheaper]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]

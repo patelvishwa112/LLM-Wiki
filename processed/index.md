@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 330 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 331 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -307,6 +307,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [the-untrainable.md](/processed/the-untrainable.md) — *bookmark* — The untrainable is the last defensible corner: private correctness, illegible work, relationships, accountability, and slow organizational translation. Measurable work gets eaten; value accrues to those who earn the r...
 - [thesupereng-x-post-2065361684747719164.md](/processed/thesupereng-x-post-2065361684747719164.md) — *bookmark* — X post by thesupereng
 - [token-capital-scaffolding-process-governance.md](/processed/token-capital-scaffolding-process-governance.md) — *bookmark* — Token Capital Requires Scaffolding, Process, and Governance
+- [torch-internals-part1-fx-graphs.md](/processed/torch-internals-part1-fx-graphs.md) — *bookmark* — PyTorch 2.0 compile series pt.1 — torch.fx IR (Graph/Node/GraphModule), symbolic tracing via Proxies, and tracing limits before TorchDynamo.
 - [training-agents-class-1-sft-by-agent.md](/processed/training-agents-class-1-sft-by-agent.md) — *bookmark* — HF live class recap: one Codex prompt ran full SFT (data, train, Trackio, evals, model card) to teach Gemma 4 2B agent format from pi coding-agent traces; human keeps goal, constraints, and artifact verification.
 - [training-llm-from-scratch-5-lessons.md](/processed/training-llm-from-scratch-5-lessons.md) — *bookmark* — Harsh Bhatt trained a ~160M model combining MTP, HRM, and causal LM across ~300 experiments. Five hard-won lessons: simplify ideas to core mechanics, small models are narrow-task specialists, RL only works above a kno...
 - [trimming-introduction.md](/processed/trimming-introduction.md) — *bookmark* — Introduction to Trimming ✂
