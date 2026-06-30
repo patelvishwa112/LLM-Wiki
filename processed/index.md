@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 331 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 332 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -184,6 +184,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [iii-agent-harness-workers.md](/processed/iii-agent-harness-workers.md) — *bookmark* — How to Build Your Own Agent Harness
 - [induction-heads.md](/processed/induction-heads.md) — *concept* — Induction Heads
 - [inference-engines-2026.md](/processed/inference-engines-2026.md) — *bookmark* — Inference Engines for LLMs & Local AI Hardware (2026 Edition)
+- [inference-optimizations-sub-second-llm-checklist.md](/processed/inference-optimizations-sub-second-llm-checklist.md) — *bookmark* — Ashutosh Maheshwari's 16-technique bookmark list for sub-second LLM inference — caching, attention, batching, parallelism, graphs, streaming.
 - [interlatent-modern-ai-robotics-first-principles.md](/processed/interlatent-modern-ai-robotics-first-principles.md) — *bookmark* — First-principles overview of modern AI robotics: policy as a function, VLM backbone + action expert (VLA), chunking vs discrete actions, edge vs cloud inference, data bottleneck (teleoperation vs egocentric), training...
 - [introducing-dynamic-subagents-deep-agents.md](/processed/introducing-dynamic-subagents-deep-agents.md) — *bookmark* — LangChain Deep Agents dynamic subagents — agent-written JS orchestration via QuickJS task() for scale, coverage, and six workflow patterns (RLM-style).
 - [jailbreaks-and-defenses.md](/processed/jailbreaks-and-defenses.md) — *concept* — Jailbreaks and Defenses

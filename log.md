@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-06-30
 
+- Ingest: Inference optimizations sub-second LLM checklist (asmah2107 2071196830088777741)
+
+## 2026-06-30
+
 - Ingest: Torch Internals Part 1 FX Graphs (jino_rohit 2071247775837356399)
 
 ## 2026-06-30

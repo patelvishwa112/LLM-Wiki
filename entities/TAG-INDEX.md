@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 818 unique tags across 331 processed notes.
+> 820 unique tags across 332 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -701,13 +701,14 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (8)
+### inference (9)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[deep-agents-prompt-caching]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
+- [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[what-is-kv-cache-llms]]
@@ -756,17 +757,18 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### kv-cache (7)
+### kv-cache (8)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
 - [[deep-agents-prompt-caching]]
 - [[how-vllm-works-amitiitbhu]]
+- [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[what-is-kv-cache-llms]]
 
-### llm (18)
+### llm (19)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -780,6 +782,7 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[how-vllm-works-amitiitbhu]]
+- [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[opsd-off-policy-self-distillation]]
 - [[quarq-agent-memory-architecture]]
@@ -1192,11 +1195,12 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### serving (5)
+### serving (6)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
+- [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
@@ -1908,6 +1912,11 @@
 - [[deep-agents-prompt-caching]]
 - [[how-to-give-your-agent-memory]]
 
+### latency (2)
+
+- [[inference-optimizations-sub-second-llm-checklist]]
+- [[vscode-copilot-token-efficiency]]
+
 ### learning (4)
 
 - [[career-guide-early-twenties-optimize-for-learning]]
@@ -2044,6 +2053,11 @@
 - [[opus-48-token-economy-guide]]
 - [[opus-cybersecurity-partners]]
 
+### pagedattention (2)
+
+- [[how-vllm-works-amitiitbhu]]
+- [[inference-optimizations-sub-second-llm-checklist]]
+
 ### papers (4)
 
 - [[10-hall-of-fame-engineering-papers]]
@@ -2165,6 +2179,11 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
 - [[markov-chains-polymarket-trading]]
+
+### quantization (2)
+
+- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
+- [[inference-optimizations-sub-second-llm-checklist]]
 
 ### qwen (3)
 
@@ -2358,6 +2377,11 @@
 - [[agent-evals-practical-guide]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-should-repair-itself]]
+
+### throughput (2)
+
+- [[how-vllm-works-amitiitbhu]]
+- [[inference-optimizations-sub-second-llm-checklist]]
 
 ### token-economy (3)
 
@@ -2618,6 +2642,7 @@
 - **finetuning** — [[persona-vectors-paper]]
 - **firecrawl** — [[claude-code-investment-research-setup]]
 - **fireworks** — [[langchain-fireworks-trace-judge-100x-cheaper]]
+- **flashattention** — [[inference-optimizations-sub-second-llm-checklist]]
 - **focus** — [[ten-commandments-building-product-feitong-yang]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
 - **foundation-models** — [[notes-on-foundation-models]]
@@ -2702,7 +2727,6 @@
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
 - **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
-- **latency** — [[vscode-copilot-token-efficiency]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **lean-startup** — [[testing-business-ideas-product-operating-system]]
 - **legibility** — [[the-untrainable]]
@@ -2782,7 +2806,6 @@
 - **osint** — [[osiris-open-source-palantir-tool]]
 - **osmosis** — [[multi-lora-training-osmosis]]
 - **overview** — [[anthropic-publications]]
-- **pagedattention** — [[how-vllm-works-amitiitbhu]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
 - **parallel-agents** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **parameter-efficient** — [[peft-beyond-lora]]
@@ -2839,7 +2862,6 @@
 - **pruning** — [[trimming-introduction]]
 - **python** — [[jp-morgan-quant-python-training]]
 - **qkv** — [[attention-qkv-math-amitiitbhu]]
-- **quantization** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **qubot** — [[github-qubot-data-analytics-agent]]
 - **ray-dalio** — [[principled-thinking-and-ai-ray-dalio]]
 - **reading-writing** — [[zen-and-the-art-of-ai-research]]
@@ -2920,6 +2942,7 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
+- **speculative-decoding** — [[inference-optimizations-sub-second-llm-checklist]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **standards** — [[open-knowledge-format-okf-google]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
@@ -2944,7 +2967,6 @@
 - **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
-- **throughput** — [[how-vllm-works-amitiitbhu]]
 - **time-management** — [[units-of-time-alfred-lin]]
 - **tiny-models** — [[training-llm-from-scratch-5-lessons]]
 - **token-capital** — [[token-capital-scaffolding-process-governance]]
