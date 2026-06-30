@@ -403,7 +403,6 @@
 - [[dimitrispapail]] `[papers]`
 - [[dqn-adaptive-trade-execution-ritonchain]] `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, markov-chains, finance, systematic-trading]`
 - [[dive-into-claude-code-vila-lab]] `[claude-code, architecture, agent-engineering, harness-engineering, paper, hermes, openclaw]`
-- [[introducing-dynamic-subagents-deep-agents]] `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
@@ -441,6 +440,7 @@
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] `[models, rl]`
 - [[inference-engines-2026]] `[ai-ml, serving]`
+- [[introducing-dynamic-subagents-deep-agents]] `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[introducing-hrm-text]] `[papers, models]`
 - [[jim-simons-medallion-quant-framework]] `[quant, jim-simons, medallion, renaissance-technologies, trading, markov-chains, kelly-criterion, hurst-exponent, factor-model, finance]`
 - [[joint-embedding-predictive-architecture-jepa]] `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
