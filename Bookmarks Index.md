@@ -45,6 +45,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
+- [[how-to-use-rlms-in-deep-agents]] — [How to Use RLMs in Deep Agents](https://x.com/sydneyrunkle/status/2072347918447558978) `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
@@ -281,6 +282,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
+- [[skill-solo-millionaires-ai-era]] — [The Skill Quietly Minting The First Solo Millionaires Of The AI Era](https://x.com/zephyr_hg/status/2070171729373118742) `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
 - [[ai-native-engineering-org]] — [Running an AI-Native Engineering Org](https://claude.com/blog/running-an-ai-native-engineering-org) `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 
 
@@ -445,6 +447,7 @@
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`
+- [[how-to-use-rlms-in-deep-agents]] `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
 - [[how-vllm-works-amitiitbhu]] `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[huge-kudos-to-barbara-su-rice-cs---msc-stanford-sh]] `[ai-ml]`
@@ -525,6 +528,7 @@
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
 - [[self-learning-agents-three-layers-user-signal]] `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
+- [[skill-solo-millionaires-ai-era]] `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`

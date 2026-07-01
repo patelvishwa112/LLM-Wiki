@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 337 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 339 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -180,6 +180,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md](/processed/how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md) — *lecture* — Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier labs actually hire for: low-level kernel engineering for LLM runtime, research taste as a stochastic MDP skill, scaling laws intuition, d...
 - [how-to-give-your-agent-memory.md](/processed/how-to-give-your-agent-memory.md) — *bookmark* — LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub.
 - [how-to-read-company-ai-analyst.md](/processed/how-to-read-company-ai-analyst.md) — *bookmark* — How to Read Any Company With AI Like an Analyst
+- [how-to-use-rlms-in-deep-agents.md](/processed/how-to-use-rlms-in-deep-agents.md) — *bookmark* — Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent.
 - [how-vector-database-works.md](/processed/how-vector-database-works.md) — *article* — How Does a Vector Database Work?
 - [how-vllm-works-amitiitbhu.md](/processed/how-vllm-works-amitiitbhu.md) — *bookmark* — Amit Shekhar explains vLLM: KV cache as the serving bottleneck, naive max-length reservation vs PagedAttention block tables and prefix sharing, static vs continuous batching, and OpenAI-compatible deployment for chat ...
 - [hrm-text-1b-reasoning-model.md](/processed/hrm-text-1b-reasoning-model.md) — *note* — HRM-Text: 1B Parameter Reasoning Model
@@ -298,6 +299,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [self-improving-agent-swarm-kimi-loop.md](/processed/self-improving-agent-swarm-kimi-loop.md) — *bookmark* — The Self-Improving Loop: 300-Agent Swarm on Kimi
 - [self-learning-agents-three-layers-user-signal.md](/processed/self-learning-agents-three-layers-user-signal.md) — *bookmark* — Atai Barkai maps self-learning into model vs harness vs context layers, then argues the missing signal is real human overrides in product — not agent-only traces.
 - [sia-recursive-self-improving-agent.md](/processed/sia-recursive-self-improving-agent.md) — *article* — SIA — Self Improving AI Framework (hexo.ai)
+- [skill-solo-millionaires-ai-era.md](/processed/skill-solo-millionaires-ai-era.md) — *bookmark* — X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning
 - [spec-kit-github-sdd.md](/processed/spec-kit-github-sdd.md) — *bookmark* — GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → ...
 - [stanford-storm-method-claude-research.md](/processed/stanford-storm-method-claude-research.md) — *bookmark* — Nav Toor shares the Stanford STORM method — a multi-agent research system that enables Claude to conduct deep, PhD-level research by orchestrating multiple specialized agents instead of single-shot prompting.

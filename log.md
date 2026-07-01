@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-01
 
+- Ingest: Solo AI skill framing (zephyr_hg 2070171729373118742)
+
+## 2026-07-01
+
+- Ingest: RLMs in Deep Agents (sydneyrunkle 2072347918447558978)
+
+## 2026-07-01
+
 - Ingest: AutoData synthetic data (neural_avb 2072294078805684613)
 
 ## 2026-06-30
