@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 827 unique tags across 335 processed notes.
+> 830 unique tags across 337 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (48)
+### agent-harness (49)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -45,6 +45,7 @@
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
@@ -136,7 +137,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (141)
+### agents (143)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -166,6 +167,7 @@
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-recursive-self-improvement]]
 - [[autobrowse-browser-agent-memory]]
+- [[autodata-synthetic-data-generation-explained]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[building-a-good-vertical-agent]]
 - [[building-agents-from-first-principles]]
@@ -197,6 +199,7 @@
 - [[goal-primitive-guide]]
 - [[guide-to-goal-codex]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -619,7 +622,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (15)
+### evals (16)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
@@ -630,6 +633,7 @@
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[evals-strategic-ip-garrettlord]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
@@ -666,8 +670,9 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[what-is-kv-cache-llms]]
 
-### grpo (7)
+### grpo (8)
 
+- [[autodata-synthetic-data-generation-explained]]
 - [[building-agents-from-first-principles]]
 - [[continuous-batching-grpo-trl]]
 - [[opsd-off-policy-self-distillation]]
@@ -773,6 +778,14 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[what-is-kv-cache-llms]]
+
+### langchain (5)
+
+- [[deep-agents-prompt-caching]]
+- [[harbor-langchain-unified-agent-eval-stack]]
+- [[how-to-give-your-agent-memory]]
+- [[introducing-dynamic-subagents-deep-agents]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]
 
 ### llm (19)
 
@@ -930,11 +943,12 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (8)
+### observability (9)
 
 - [[agent-harness-should-repair-itself]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -1114,9 +1128,10 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (26)
+### rl (27)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- [[autodata-synthetic-data-generation-explained]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
@@ -1262,8 +1277,9 @@
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### slm (6)
+### slm (7)
 
+- [[autodata-synthetic-data-generation-explained]]
 - [[claude-code-slm-training-bootstrap]]
 - [[hrm-text-1b-reasoning-model]]
 - [[huggingface-model-architecture-visualizer]]
@@ -1314,13 +1330,14 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (39)
+### training (40)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[5-ai-skills-six-figures-2027]]
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[autodata-synthetic-data-generation-explained]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
@@ -1663,9 +1680,10 @@
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[principled-thinking-and-ai-ray-dalio]]
 
-### deep-agents (2)
+### deep-agents (3)
 
 - [[deep-agents-prompt-caching]]
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[introducing-dynamic-subagents-deep-agents]]
 
 ### deepmind (2)
@@ -1923,16 +1941,15 @@
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
 
-### langchain (4)
+### langgraph (2)
+
+- [[fault-tolerance-langgraph-retries-timeouts]]
+- [[harbor-langchain-unified-agent-eval-stack]]
+
+### langsmith (3)
 
 - [[deep-agents-prompt-caching]]
-- [[how-to-give-your-agent-memory]]
-- [[introducing-dynamic-subagents-deep-agents]]
-- [[langchain-fireworks-trace-judge-100x-cheaper]]
-
-### langsmith (2)
-
-- [[deep-agents-prompt-caching]]
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
 
 ### latency (2)
@@ -2304,8 +2321,9 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### sandbox (2)
+### sandbox (3)
 
+- [[harbor-langchain-unified-agent-eval-stack]]
 - [[llms-securing-source-code]]
 - [[secure-automated-learning-loops-modal-claude-code]]
 
@@ -2401,6 +2419,11 @@
 
 - [[persona-vectors-paper]]
 - [[sycophancy]]
+
+### synthetic-data (2)
+
+- [[autodata-synthetic-data-generation-explained]]
+- [[claude-code-slm-training-bootstrap]]
 
 ### systems (2)
 
@@ -2564,6 +2587,7 @@
 - **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **audience-building** — [[career-platform-email-list-ryan-holiday]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
+- **autodata** — [[autodata-synthetic-data-generation-explained]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
 - **automated-learning** — [[secure-automated-learning-loops-modal-claude-code]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
@@ -2636,6 +2660,7 @@
 - **dapo** — [[rl-algo-comprehensive-qa]]
 - **data-curation** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
+- **data-generation** — [[autodata-synthetic-data-generation-explained]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
@@ -2724,6 +2749,7 @@
 - **gtm** — [[anthropic-gtm-claude-code-workflows]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hallucination** — [[why-on-policy-distillation-works]]
+- **harbor** — [[harbor-langchain-unified-agent-eval-stack]]
 - **hnsw** — [[how-vector-database-works]]
 - **horizon** — [[4-agent-trading-desk]]
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
@@ -2770,7 +2796,6 @@
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
-- **langgraph** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **lean-startup** — [[testing-business-ideas-product-operating-system]]
 - **legibility** — [[the-untrainable]]
@@ -3000,7 +3025,6 @@
 - **sutton-barto** — [[sutton-barto-rl-notes]]
 - **swarms** — [[how-to-build-ai-agent-swarms]]
 - **synthesis** — [[second-self-vs-second-brain-obsidian]]
-- **synthetic-data** — [[claude-code-slm-training-bootstrap]]
 - **system-prompt** — [[fable-5-system-prompt]]
 - **systematic-trading** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **taste** — [[how-to-be-good-at-research]]

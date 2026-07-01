@@ -134,6 +134,7 @@
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] — [Are you still tuning your LLMs by hand? - An ode to GEPA](https://x.com/harold_matmul/status/2069836410052325711) `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
+- [[autodata-synthetic-data-generation-explained]] — [AutoData: Synthetic data generation explained](https://x.com/neural_avb/status/2072294078805684613) `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
@@ -373,6 +374,7 @@
 - [[ashwingop]] `[productivity]`
 - [[attention-qkv-math-amitiitbhu]] `[transformers, attention, llm, fundamentals, math, qkv, softmax, embeddings, education]`
 - [[automate-writing-llm-prompts-dspy]] `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
+- [[autodata-synthetic-data-generation-explained]] `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] `[skills, claude, claude-code, prompt-engineering, progressive-disclosure, agent-harness, hermes, mcp]`
 - [[build-your-own-llm-workshop-justin-angel]] `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
 - [[avi-chawla-avichawla-how-top-ai-labs-are-building]] `[agents, coding-tools]`

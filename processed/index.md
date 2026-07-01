@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 335 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 337 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -67,6 +67,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [athcanft-grow-x-make-money.md](/processed/athcanft-grow-x-make-money.md) — *bookmark* — how to grow your X (and make $$$)
 - [attention-qkv-math-amitiitbhu.md](/processed/attention-qkv-math-amitiitbhu.md) — *bookmark* — Amit Shekhar: hand-worked scaled dot-product attention on "I love AI" — X→Q/K/V via learned weights, QK^T scores, ÷√d_k, row softmax (e.g. I→love 70.7%), multiply V; bridges to KV cache (only last row needed at decode).
 - [autobrowse-browser-agent-memory.md](/processed/autobrowse-browser-agent-memory.md) — *bookmark* — Autobrowse: Browser Agent Memory
+- [autodata-synthetic-data-generation-explained.md](/processed/autodata-synthetic-data-generation-explained.md) — *bookmark* — AutoData (arxiv 2606.25996): agentic Challenger/solver/Judge loop builds GRPO-ready synthetic data; weak–strong gap filters examples for learnable reward variance.
 - [automate-writing-llm-prompts-dspy.md](/processed/automate-writing-llm-prompts-dspy.md) — *article* — Automate Writing Your LLM Prompts with DSPy
 - [autoscientists-decentralized-ai-research-agents.md](/processed/autoscientists-decentralized-ai-research-agents.md) — *article* — AutoScientists — Decentralized AI Research Agents
 - [beyond-ghost-sae-experiment-proposals.md](/processed/beyond-ghost-sae-experiment-proposals.md) — *proposal* — Beyond the Ghost: SAE Experiments for Understanding and Steering Model Behavior
@@ -152,6 +153,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents
 - [guide-to-goal-codex.md](/processed/guide-to-goal-codex.md) — *bookmark* — A guide to /goal 🥅
 - [harbor-by-terminal-bench-multi-language-agent-evaluation-fr.md](/processed/harbor-by-terminal-bench-multi-language-agent-evaluation-fr.md) — *bookmark* — Harbor by Terminal Bench: Multi-Language Agent Evaluation Framework
+- [harbor-langchain-unified-agent-eval-stack.md](/processed/harbor-langchain-unified-agent-eval-stack.md) — *bookmark* — LangChain announces Harbor integrations for Deep Agents/LangGraph, LangSmith Sandboxes, and LangSmith Experiments—an isolated, parallel agent eval stack with script-based verifiers and trace-backed debugging.
 - [harbor-rl-coding-environments.md](/processed/harbor-rl-coding-environments.md) — *bookmark* — RL Coding Environments 101: Why Harbor Exists
 - [harness-engineering-2026-discipline.md](/processed/harness-engineering-2026-discipline.md) — *bookmark* — Harness Engineering emerged as a discipline in 2026. The core formula: Agent = Model + Harness. Covers the 5 harness artifacts (AGENT.md, JSON feature lists, session routines, sprint contracts, task templates), the 3 ...
 - [harness-is-the-product-280k.md](/processed/harness-is-the-product-280k.md) — *article* — A 5-dev team burns ~$280K/year running Claude Code with no harness: dead MCP tools taxing every request, no map re-explaining context, no memory re-litigating decisions, no sub-agent team or review gate. The fix is fo...
