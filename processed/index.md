@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 344 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 345 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -116,6 +116,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [continuous-trace-intelligence-braintrust-topics.md](/processed/continuous-trace-intelligence-braintrust-topics.md) — *bookmark* — How Braintrust Made Continuous Trace Intelligence Possible at Scale
 - [curiosity-bayesian-bandit.md](/processed/curiosity-bayesian-bandit.md) — *note* — What Is Curiosity? A Bayesian Bandit Perspective
 - [daleverett-polygress-agent-era.md](/processed/daleverett-polygress-agent-era.md) — *bookmark* — Polygress: Postgres for the Agent era
+- [david-ogilvy-writing-coach-claude-skill.md](/processed/david-ogilvy-writing-coach-claude-skill.md) — *bookmark* — Nicolas Cole breaks down David Ogilvy's 1982 ten-rule writing memo and ships a Claude Skill that audits copy by severity with concrete fixes—not vague 'tighten it up' feedback.
 - [dear-lord-no-wonder-evals-are-a-mess.md](/processed/dear-lord-no-wonder-evals-are-a-mess.md) — *bookmark* — dear lord no wonder evals are a mess
 - [deceptive-alignment.md](/processed/deceptive-alignment.md) — *concept* — Deceptive Alignment
 - [deep-agents-prompt-caching.md](/processed/deep-agents-prompt-caching.md) — *bookmark* — Alex Olsen (Deep Agents/LangChain): provider-agnostic prompt caching — explicit breakpoints + implicit fallback + stable prefix layout; 49–80% token cost cuts on real trajectories (Haiku/GPT mini/Gemini flash); LangSm...

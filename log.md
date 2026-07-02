@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-02
 
+- Ingest: David Ogilvy Writing Coach Claude Skill (nicolascole77 2072662998326415447)
+
+## 2026-07-02
+
 - Ingest: Claude Cowork One Person Company 2026 (cyrilxbt 2072139907615560054)
 
 ## 2026-07-02

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 843 unique tags across 344 processed notes.
+> 845 unique tags across 345 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -406,7 +406,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (34)
+### claude (35)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -423,6 +423,7 @@
 - [[claude-managed-agents]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[claude-subagents-vs-agent-teams]]
+- [[david-ogilvy-writing-coach-claude-skill]]
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
 - [[fable-5-system-prompt]]
@@ -1062,7 +1063,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (32)
+### productivity (33)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-content-system-framework]]
@@ -1080,6 +1081,7 @@
 - [[claude-cowork-product-guide]]
 - [[claude-interactive-visuals]]
 - [[claude-personal-assistant-zero-dollars]]
+- [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[guide-to-goal-codex]]
 - [[hermes-agent-10x-faster-vault-index]]
@@ -1268,7 +1270,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### skills (48)
+### skills (49)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1292,6 +1294,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[colleague-skill-dot-skill]]
+- [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harnessing-claudes-intelligence]]
@@ -1652,6 +1655,11 @@
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
+### content-strategy (2)
+
+- [[david-ogilvy-writing-coach-claude-skill]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
+
 ### context-management (4)
 
 - [[agent-harness-engineering-agentforge]]
@@ -1684,9 +1692,10 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[learn-harness-engineering]]
 
-### creator-economy (2)
+### creator-economy (3)
 
 - [[career-platform-email-list-ryan-holiday]]
+- [[david-ogilvy-writing-coach-claude-skill]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ### critique (2)
@@ -2594,9 +2603,10 @@
 - [[notes-on-foundation-models]]
 - [[world-models-agent-imagination]]
 
-### writing (3)
+### writing (4)
 
 - [[ai-writing-style-personalization]]
+- [[david-ogilvy-writing-coach-claude-skill]]
 - [[how-to-be-good-at-research]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
@@ -2699,7 +2709,6 @@
 - **conference** — [[code-w-claude-london-2026]]
 - **content** — [[karpathy-autoresearch-marketing-optimization]]
 - **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
-- **content-strategy** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **context** — [[claude-code-changed-what-agents-look-like]]
 - **context-compression** — [[pm-as-context-compressor]]
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -2708,6 +2717,7 @@
 - **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **coordination** — [[agent-swarms-production-governance]]
 - **copilot** — [[agent-memory-landscape-2026]]
+- **copywriting** — [[david-ogilvy-writing-coach-claude-skill]]
 - **cosine-similarity** — [[how-vector-database-works]]
 - **costly-signals** — [[effort-position-leverage-principles]]
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
@@ -2932,6 +2942,7 @@
 - **nvidia** — [[nvidia-skillspector-security-scanner]]
 - **ocr** — [[why-layout-matters-document-processing]]
 - **off-policy** — [[opsd-off-policy-self-distillation]]
+- **ogilvy** — [[david-ogilvy-writing-coach-claude-skill]]
 - **ollama** — [[0xsojalsec-llms-local]]
 - **one-person-company** — [[claude-cowork-one-person-company-2026]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]

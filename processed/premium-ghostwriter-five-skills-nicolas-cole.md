@@ -48,6 +48,7 @@ Useful **meta** for anyone doing ghostwritten LinkedIn (e.g. Dhyey jobs workflow
 ## Related
 
 - [[career-platform-email-list-ryan-holiday]]
+- [[david-ogilvy-writing-coach-claude-skill]]
 - [[how-to-set-up-your-content-system]]
 - [[pm-as-context-compressor]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
