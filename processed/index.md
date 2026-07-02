@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 342 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 343 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -31,6 +31,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [agent-memory-landscape-2026.md](/processed/agent-memory-landscape-2026.md) — *bookmark* — Agent Memory Landscape 2026
 - [agent-swarms-production-governance.md](/processed/agent-swarms-production-governance.md) — *bookmark* — Nyk (@nyk_builderz): one agent doing research+code+review+orchestration blurs by week 4 — throughput is architecture (sub-agents for compression vs multi-agent only for coordination). Production org: worker sub-agents...
 - [agentic-misalignment.md](/processed/agentic-misalignment.md) — *concept* — Agentic Misalignment
+- [agents-behave-like-employees-six-shifts.md](/processed/agents-behave-like-employees-six-shifts.md) — *bookmark* — Six shifts for agent-as-employee UX: explicit wait states, question cards, approval gates, team boards, long-horizon outcomes; article pitches Teamly.
 - [ai-agent-loop-architecture-buinevici.md](/processed/ai-agent-loop-architecture-buinevici.md) — *bookmark* — "Igor Buinevici shares Brij Kishore Pandey’s clear explanation of the universal AI agent architecture: Perceive ➤ Remember ➤ Think ➤ Plan ➤ Act ➤ Observe (with Guardrails). Emphasizes that the core loop is the same ac...
 - [ai-agents.md](/processed/ai-agents.md) — *concept* — AI Agents
 - [ai-alignment.md](/processed/ai-alignment.md) — *concept* — AI Alignment

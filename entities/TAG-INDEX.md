@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 838 unique tags across 342 processed notes.
+> 840 unique tags across 343 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (51)
+### agent-harness (52)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -36,6 +36,7 @@
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-harness-should-repair-itself]]
 - [[agent-swarms-production-governance]]
+- [[agents-behave-like-employees-six-shifts]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -139,7 +140,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (144)
+### agents (145)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -159,6 +160,7 @@
 - [[agent-memory-landscape-2026]]
 - [[agent-swarms-production-governance]]
 - [[agentic-misalignment]]
+- [[agents-behave-like-employees-six-shifts]]
 - [[ai-agent-loop-architecture-buinevici]]
 - [[ai-agents]]
 - [[ai-content-system-framework]]
@@ -934,11 +936,12 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (24)
+### multi-agent (25)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-swarms-production-governance]]
+- [[agents-behave-like-employees-six-shifts]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-subagents-vs-agent-teams]]
@@ -997,13 +1000,14 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### orchestration (22)
+### orchestration (23)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-swarms-production-governance]]
+- [[agents-behave-like-employees-six-shifts]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-subagents-vs-agent-teams]]
@@ -1055,8 +1059,9 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (30)
+### productivity (31)
 
+- [[agents-behave-like-employees-six-shifts]]
 - [[ai-content-system-framework]]
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
@@ -1684,6 +1689,11 @@
 
 - [[Non-Obvious Agent Projects]]
 - [[priests-of-agi-interpretability-crisis]]
+
+### cronjob (2)
+
+- [[agents-behave-like-employees-six-shifts]]
+- [[ambient-pm-agents-evidence-first-prd]]
 
 ### cuda (2)
 
@@ -2629,6 +2639,7 @@
 - **ann** — [[how-vector-database-works]]
 - **apple-silicon** — [[mlx-engine-v185-kv-cache-agentic]]
 - **approval-gate** — [[iii-agent-harness-workers]]
+- **approvals** — [[agents-behave-like-employees-six-shifts]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **assistants** — [[virtual-filesystem-for-agent-assistants]]
@@ -2699,7 +2710,6 @@
 - **creativity** — [[the-html-brand-input-based-outcomes]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
-- **cronjob** — [[ambient-pm-agents-evidence-first-prd]]
 - **crypto** — [[how-to-read-company-ai-analyst]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -2804,6 +2814,7 @@
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
 - **hrm** — [[training-llm-from-scratch-5-lessons]]
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
+- **human-in-the-loop** — [[agents-behave-like-employees-six-shifts]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hypernetwork** — [[portal-portable-task-adapters-llms]]

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-02
 
+- Ingest: agents as employees six shifts (zodchiii 2072630422358425719)
+
+## 2026-07-02
+
 - Ingest: /opportunity PM OS workflow (nurijanian 2067201971896176856)
 
 ## 2026-07-02
