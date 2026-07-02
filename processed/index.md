@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 343 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 344 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -94,6 +94,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [claude-cowork-14-day-guide.md](/processed/claude-cowork-14-day-guide.md) — *bookmark* — Claude Cowork — 14-Day Desktop Automation Guide
 - [claude-cowork-60-power-moves.md](/processed/claude-cowork-60-power-moves.md) — *processed-note* — The 60 Claude Cowork Power Moves
 - [claude-cowork-best-practices.md](/processed/claude-cowork-best-practices.md) — *bookmark* — Austin Lau's guide to Claude Cowork for knowledge workers: when to use Chat vs Cowork vs Code, the five ingredients of a Cowork-shaped task, concrete marketing workflows (daily briefing, budget pacing, weekly reportin...
+- [claude-cowork-one-person-company-2026.md](/processed/claude-cowork-one-person-company-2026.md) — *bookmark* — X Article framing Claude Cowork as Claude Code for non-coders—four solo-operator workflows (inbox, research, files, /schedule), plugins, and Dispatch for one-person companies.
 - [claude-cowork-plugin-building-guide.md](/processed/claude-cowork-plugin-building-guide.md) — *processed-note* — Building Claude Cowork Plugins That Actually Work
 - [claude-cowork-product-guide.md](/processed/claude-cowork-product-guide.md) — *bookmark* — Claude Cowork is Anthropic's knowledge work agent for the desktop app: local file access, cross-app integration (Slack, Google Drive), subagents, scheduled tasks, and multi-step deliverables. Seven common workflows sp...
 - [claude-dynamic-workflows-second-brain.md](/processed/claude-dynamic-workflows-second-brain.md) — *bookmark* — Claude Dynamic Workflows for Your Second Brain

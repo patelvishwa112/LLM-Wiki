@@ -63,4 +63,5 @@ Actionable complement to other vault roadmaps (`ai-engineering-roadmap-2026-from
 - [[llm-engineering-projects-roadmap-2026]]
 - [[building-your-first-ai-agent-clear-path]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
+- [[claude-cowork-one-person-company-2026]]
 - [[how-vector-database-works]]

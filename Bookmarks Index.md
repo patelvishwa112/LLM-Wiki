@@ -145,6 +145,7 @@
 - [[torch-internals-part1-fx-graphs]] — [Torch Internals (Part 1) - FX Graphs](https://x.com/jino_rohit/status/2071247775837356399) `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[ai-engineering-roadmap-2026-from-scratch]] — [The 2026 AI Engineering Roadmap — Build It From Scratch](https://x.com/ghumare64/status/2063574610889560271) `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] — [How To Become An AI Engineer in 2026 (Without a CS Degree)](https://x.com/cyrilxbt/status/2071604212912246899) `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
+- [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 
@@ -293,6 +294,7 @@
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
 - [[anthropic-gtm-claude-code-workflows]] — [GTM Engineering with Claude Code: Jared Sires' Workflows](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, claude-cowork, gtm, sales, skills, productivity, enterprise, mcp]`
 - [[claude-cowork-best-practices]] — [Claude Cowork Best Practices](https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork) `[claude-cowork, anthropic, productivity, knowledge-work, agents, enterprise]`
+- [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[claude-cowork-product-guide]] — [The Claude Cowork Product Guide](https://claude.com/blog/the-claude-cowork-product-guide) `[claude-cowork, anthropic, productivity, enterprise, agents, skills, knowledge-work]`
 - [[claude-interactive-visuals]] — [Claude Interactive Visuals](https://claude.com/blog/claude-builds-visuals) `[claude, artifacts, productivity, claude-cowork]`
 - [[claude-personal-assistant-zero-dollars]] — [I Built a Personal AI Assistant With Claude for $0](https://x.com/0xMortyx/status/2063967160620245116) `[claude, claude-cowork, productivity, personal-assistant, projects, context-engineering, second-brain]`
@@ -399,6 +401,7 @@
 - [[claude-compliance-security-partners]] `[anthropic, security, compliance, enterprise, claude, dlp, siem]`
 - [[claude-cowork-14-day-guide]] `[claude, cowork, automation, productivity, workflows]`
 - [[claude-cowork-best-practices]] `[claude-cowork, anthropic, productivity, knowledge-work, agents, enterprise]`
+- [[claude-cowork-one-person-company-2026]] `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[claude-cowork-product-guide]] `[claude-cowork, anthropic, productivity, enterprise, agents, skills, knowledge-work]`
 - [[claude-dynamic-workflows-second-brain]] `[claude-code, dynamic-workflows, obsidian, second-brain, skills, subagents]`
 - [[claude-interactive-visuals]] `[claude, artifacts, productivity, claude-cowork]`

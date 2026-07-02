@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 840 unique tags across 343 processed notes.
+> 843 unique tags across 344 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -140,7 +140,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (145)
+### agents (146)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -182,6 +182,7 @@
 - [[claude-code-slm-training-bootstrap]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-best-practices]]
+- [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-plugin-building-guide]]
 - [[claude-cowork-product-guide]]
 - [[claude-managed-agents]]
@@ -309,7 +310,7 @@
 - [[sycophancy]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (30)
+### anthropic (31)
 
 - [[ai-native-engineering-org]]
 - [[anthropic-ant-cli-guide]]
@@ -326,6 +327,7 @@
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-compliance-security-partners]]
 - [[claude-cowork-best-practices]]
+- [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-product-guide]]
 - [[claude-managed-agents]]
 - [[code-w-claude-london-2026]]
@@ -515,13 +517,14 @@
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### claude-cowork (11)
+### claude-cowork (12)
 
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-best-practices]]
+- [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-plugin-building-guide]]
 - [[claude-cowork-product-guide]]
 - [[claude-hidden-features-guide]]
@@ -1059,7 +1062,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (31)
+### productivity (32)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-content-system-framework]]
@@ -1073,6 +1076,7 @@
 - [[claude-cowork-14-day-guide]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-best-practices]]
+- [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-product-guide]]
 - [[claude-interactive-visuals]]
 - [[claude-personal-assistant-zero-dollars]]
@@ -1995,9 +1999,10 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
-### knowledge-work (2)
+### knowledge-work (3)
 
 - [[claude-cowork-best-practices]]
+- [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-product-guide]]
 
 ### langgraph (2)
@@ -2928,6 +2933,7 @@
 - **ocr** — [[why-layout-matters-document-processing]]
 - **off-policy** — [[opsd-off-policy-self-distillation]]
 - **ollama** — [[0xsojalsec-llms-local]]
+- **one-person-company** — [[claude-cowork-one-person-company-2026]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
@@ -2964,6 +2970,7 @@
 - **planning** — [[coderabbit-claude-agent-orchestration]]
 - **platform** — [[career-platform-email-list-ryan-holiday]]
 - **playwright** — [[claude-code-investment-research-setup]]
+- **plugins** — [[claude-cowork-one-person-company-2026]]
 - **policy-engine** — [[iii-agent-harness-workers]]
 - **policy-optimization** — [[opsd-off-policy-self-distillation]]
 - **polygress** — [[daleverett-polygress-agent-era]]
@@ -3072,6 +3079,7 @@
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
+- **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]
