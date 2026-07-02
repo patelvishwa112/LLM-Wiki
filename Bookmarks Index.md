@@ -76,6 +76,7 @@
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
 - [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
+- [[hermes-agent-10x-faster-vault-index]] — [I Made My Hermes Agent 10x Faster Without Changing the Model](https://x.com/wandermist/status/2071930382581195105) `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, retention]`
 - [[claude-dynamic-workflows-second-brain]] — [Claude Dynamic Workflows for Your Second Brain](https://x.com/artemxtech/status/2062582596190498864) `[claude-code, dynamic-workflows, obsidian, second-brain]`
@@ -118,6 +119,7 @@
 - [[mnilax]] — [Mnilax](https://x.com/Mnilax/status/2053116311132155938)
 - [[mushtaqbilalphd]] — [MushtaqBilalPhD](https://x.com/MushtaqBilalPhD/status/2053829787219595725)
 - [[ramplabs]] — [RampLabs](https://x.com/RampLabs/status/2052447438795833506)
+- [[portal-portable-task-adapters-llms]] — [PorTAL: Portable Task Adapters for LLMs](https://x.com/RampLabs/status/2072381992285647280) `[lora, peft, training, fine-tuning, hypernetwork, portable-adaptation, qwen, gemma, slm]`
 - [[rohonchain]] — [RohOnChain](https://x.com/RohOnChain/status/2052043443766194272)
 - [[rohonchain]] — [RohOnChain](https://x.com/RohOnChain/status/2054217651015340148)
 - [[avichawla]] — [_avichawla](https://x.com/_avichawla/status/2056279078555328672)
@@ -433,6 +435,7 @@
 - [[harness-is-the-product-context-aware-agents]] `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
 - [[harnessing-claudes-intelligence]] `[agents, agent-harness, claude, skills, mcp, prompt-engineering]`
 - [[here-is-the-full-timeline-of-policy-gradients-from]] `[finance, coding-tools]`
+- [[hermes-agent-10x-faster-vault-index]] `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
 - [[hermes-agent-changed-how-i-work]] `[agents, productivity]`
 - [[hermes-goal-mode-guide]] `[hermes, goal, productivity, workflows]`
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
@@ -510,6 +513,7 @@
 - [[openthoughts-agent-data-recipes-agentic-models]] `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, huggingface, benchmarks, teacher-model]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
+- [[portal-portable-task-adapters-llms]] `[lora, peft, training, fine-tuning, hypernetwork, portable-adaptation, qwen, gemma, slm]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`

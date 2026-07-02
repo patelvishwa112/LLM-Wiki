@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 339 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 341 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -159,6 +159,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [harness-is-the-product-280k.md](/processed/harness-is-the-product-280k.md) — *article* — A 5-dev team burns ~$280K/year running Claude Code with no harness: dead MCP tools taxing every request, no map re-explaining context, no memory re-litigating decisions, no sub-agent team or review gate. The fix is fo...
 - [harness-is-the-product-context-aware-agents.md](/processed/harness-is-the-product-context-aware-agents.md) — *article* — The Harness Is the Product: Building Context-Aware Agent Harnesses
 - [harnessing-claudes-intelligence.md](/processed/harnessing-claudes-intelligence.md) — *bookmark* — Design patterns for building applications that keep pace with Claude's evolving intelligence — use what it already knows, ask what you can stop doing, and set boundaries carefully.
+- [hermes-agent-10x-faster-vault-index.md](/processed/hermes-agent-10x-faster-vault-index.md) — *bookmark* — Vault INDEX.md + concern-based numbered folders cut Hermes file-navigation time (~2 min → ~10–26s on author’s tasks) without changing models.
 - [hermes-agent-use-cases-multi-agent-setup.md](/processed/hermes-agent-use-cases-multi-agent-setup.md) — *bookmark* — Hermes Agent Use Cases — Multi-Agent Setup and Philosophy
 - [hermes-agent-user-experience.md](/processed/hermes-agent-user-experience.md) — *bookmark* — Hermes Agent — User Experience and Productivity Impact
 - [hermes-goal-mode-guide.md](/processed/hermes-goal-mode-guide.md) — *bookmark* — Hermes /goal — Standing Jobs Instead of Disposable Prompts
@@ -260,6 +261,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [personal-ai-assistant-claude-0-cost.md](/processed/personal-ai-assistant-claude-0-cost.md) — *bookmark* — Zero-extra-cost personal assistant built entirely inside one Claude Project: master prompt + three context files (about_me, preferences, goals) + web search + Artifacts. Everything compounds in persistent context. No ...
 - [pm-as-context-compressor.md](/processed/pm-as-context-compressor.md) — *bookmark* — The PM's role as a context compression layer between execs and engineering. Half-formed thoughts are more dangerous than silence — they give just enough to confidently go the wrong direction. Information should compre...
 - [policy-gradients-timeline-reinforce-to-grpo.md](/processed/policy-gradients-timeline-reinforce-to-grpo.md) — *processed-note* — Policy Gradients: From REINFORCE to GRPO
+- [portal-portable-task-adapters-llms.md](/processed/portal-portable-task-adapters-llms.md) — *bookmark* — PorTAL (Ramp Labs): frozen task latent + shared LoRA hypernet core; refit thin per-base converter — ~98% of LoRA lift on unseen Qwen3-8B vs ~14% Cross-LoRA.
 - [post-agent-companies.md](/processed/post-agent-companies.md) — *concept* — Post-Agent Companies
 - [premium-ghostwriter-five-skills-nicolas-cole.md](/processed/premium-ghostwriter-five-skills-nicolas-cole.md) — *bookmark* — Nicolas Cole's five skills before charging $2k+/mo as a premium ghostwriter: client leadership (not employee mode), pre-writing topic strategy, five voice archetypes, platform specialization, and tech/AI scaling with ...
 - [priests-of-agi-interpretability-crisis.md](/processed/priests-of-agi-interpretability-crisis.md) — *bookmark* — Priests of AGI

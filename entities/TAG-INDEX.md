@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 832 unique tags across 339 processed notes.
+> 835 unique tags across 341 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (50)
+### agent-harness (51)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -49,6 +49,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
+- [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -566,12 +567,13 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (8)
+### context-engineering (9)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[hermes-agent-10x-faster-vault-index]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[personal-ai-assistant-claude-0-cost]]
@@ -654,7 +656,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
 
-### fine-tuning (7)
+### fine-tuning (8)
 
 - [[adapad-lora-parallel-deflation]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -663,6 +665,7 @@
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[multi-lora-training-osmosis]]
 - [[peft-beyond-lora]]
+- [[portal-portable-task-adapters-llms]]
 
 ### fundamentals (7)
 
@@ -685,7 +688,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### hermes (16)
+### hermes (17)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-landscape-2026]]
@@ -694,6 +697,7 @@
 - [[colleague-skill-dot-skill]]
 - [[dive-into-claude-code-vila-lab]]
 - [[gbrain-markdown-git-brain-mem0]]
+- [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
@@ -837,6 +841,14 @@
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 
+### lora (5)
+
+- [[adapad-lora-parallel-deflation]]
+- [[multi-lora-training-osmosis]]
+- [[peft-beyond-lora]]
+- [[portal-portable-task-adapters-llms]]
+- [[training-agents-class-1-sft-by-agent]]
+
 ### mcp (29)
 
 - [[2026-ai-engineering-roadmap]]
@@ -960,11 +972,12 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (8)
+### obsidian (9)
 
 - [[claude-code-investment-research-setup]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[gbrain-markdown-git-brain-mem0]]
+- [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[open-knowledge-format-okf-google]]
@@ -1040,7 +1053,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (29)
+### productivity (30)
 
 - [[ai-content-system-framework]]
 - [[ai-native-engineering-org]]
@@ -1058,6 +1071,7 @@
 - [[claude-personal-assistant-zero-dollars]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[guide-to-goal-codex]]
+- [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
 - [[hermes-goal-mode-guide]]
@@ -1203,11 +1217,12 @@
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### second-brain (9)
+### second-brain (10)
 
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[gbrain-markdown-git-brain-mem0]]
+- [[hermes-agent-10x-faster-vault-index]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[level-above-phd-knowledge-works-without-you]]
@@ -1284,7 +1299,7 @@
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### slm (7)
+### slm (8)
 
 - [[autodata-synthetic-data-generation-explained]]
 - [[claude-code-slm-training-bootstrap]]
@@ -1292,6 +1307,7 @@
 - [[huggingface-model-architecture-visualizer]]
 - [[multi-lora-training-osmosis]]
 - [[peft-beyond-lora]]
+- [[portal-portable-task-adapters-llms]]
 - [[sia-recursive-self-improving-agent]]
 
 ### sparse-autoencoders (5)
@@ -1338,7 +1354,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (40)
+### training (41)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1367,6 +1383,7 @@
 - [[opsd-off-policy-self-distillation]]
 - [[peft-beyond-lora]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
+- [[portal-portable-task-adapters-llms]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-environments-guide-llm]]
@@ -1858,9 +1875,10 @@
 - [[50-mcp-servers-guide]]
 - [[the-best-models-for-hermes-agent]]
 
-### gemma (2)
+### gemma (3)
 
 - [[google-gemma-4-12b-local-fine-tuning]]
+- [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
 ### github-copilot (2)
@@ -2008,13 +2026,6 @@
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
 
-### lora (4)
-
-- [[adapad-lora-parallel-deflation]]
-- [[multi-lora-training-osmosis]]
-- [[peft-beyond-lora]]
-- [[training-agents-class-1-sft-by-agent]]
-
 ### managed-agents (3)
 
 - [[anthropic-ant-cli-guide]]
@@ -2140,6 +2151,11 @@
 - [[goodfire-parameter-decomposition-interpretability]]
 - [[parameter-decomposition-vs-sae-interpretability]]
 
+### peft (2)
+
+- [[peft-beyond-lora]]
+- [[portal-portable-task-adapters-llms]]
+
 ### persona-vectors (2)
 
 - [[persona-vectors-paper]]
@@ -2261,10 +2277,11 @@
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 
-### qwen (3)
+### qwen (4)
 
 - [[ghost-in-residual-stream-experiment]]
 - [[multi-lora-training-osmosis]]
+- [[portal-portable-task-adapters-llms]]
 - [[why-on-policy-distillation-works]]
 
 ### recursive-language-models (3)
@@ -2497,6 +2514,11 @@
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[athcanft-grow-x-make-money]]
+
+### vault (2)
+
+- [[hermes-agent-10x-faster-vault-index]]
+- [[research-agent-evidence-operator]]
 
 ### venture-capital (3)
 
@@ -2733,6 +2755,7 @@
 - **fireworks** — [[langchain-fireworks-trace-judge-100x-cheaper]]
 - **flashattention** — [[inference-optimizations-sub-second-llm-checklist]]
 - **focus** — [[ten-commandments-building-product-feitong-yang]]
+- **folder-structure** — [[hermes-agent-10x-faster-vault-index]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
 - **foundation-models** — [[notes-on-foundation-models]]
 - **friction** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
@@ -2776,6 +2799,7 @@
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
+- **hypernetwork** — [[portal-portable-task-adapters-llms]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
@@ -2903,7 +2927,6 @@
 - **partners** — [[opus-cybersecurity-partners]]
 - **patching** — [[ghost-in-residual-stream-experiment]]
 - **pattern-recognition** — [[pattern-recognition-as-expertise-jaynitx]]
-- **peft** — [[peft-beyond-lora]]
 - **perennial-seller** — [[career-platform-email-list-ryan-holiday]]
 - **perfetto** — [[pytorch-profiler-beginners-guide]]
 - **perplexity** — [[rethinking-search-as-code-generation]]
@@ -2926,6 +2949,7 @@
 - **policy-optimization** — [[opsd-off-policy-self-distillation]]
 - **polygress** — [[daleverett-polygress-agent-era]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
+- **portable-adaptation** — [[portal-portable-task-adapters-llms]]
 - **portfolio** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **position-vs-effort** — [[effort-position-leverage-principles]]
 - **post-agent-companies** — [[post-agent-companies]]
@@ -3082,7 +3106,6 @@
 - **user-research** — [[ten-commandments-building-product-feitong-yang]]
 - **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **v8** — [[browser-internals-chromium-architecture]]
-- **vault** — [[research-agent-evidence-operator]]
 - **vault-architecture** — [[second-self-vs-second-brain-obsidian]]
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]

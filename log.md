@@ -2,6 +2,14 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-02
+
+- Ingest: Hermes vault INDEX (wandermist 2071930382581195105)
+
+## 2026-07-02
+
+- Ingest: PorTAL portable LoRA (ramplabs 2072381992285647280)
+
 ## 2026-07-01
 
 - Ingest: Solo AI skill framing (zephyr_hg 2070171729373118742)
