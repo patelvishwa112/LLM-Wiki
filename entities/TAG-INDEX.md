@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 835 unique tags across 341 processed notes.
+> 838 unique tags across 342 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -402,7 +402,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (33)
+### claude (34)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -430,6 +430,7 @@
 - [[iceberg-opus-48-prompts]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[marclou-x-post-2065385672991752210]]
+- [[opportunity-ai-pm-os-workflow]]
 - [[opus-48-token-economy-guide]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
@@ -1021,11 +1022,12 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
 
-### pm (7)
+### pm (8)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[opportunity-ai-pm-os-workflow]]
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[ten-commandments-building-product-feitong-yang]]
@@ -1190,6 +1192,14 @@
 - [[rlhf]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
+### roadmap (5)
+
+- [[2026-ai-engineering-roadmap]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[llm-engineering-projects-roadmap-2026]]
+- [[opportunity-ai-pm-os-workflow]]
+
 ### safety (15)
 
 - [[2026-ai-engineering-roadmap]]
@@ -1249,7 +1259,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### skills (47)
+### skills (48)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1287,6 +1297,7 @@
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[nvidia-skillspector-security-scanner]]
+- [[opportunity-ai-pm-os-workflow]]
 - [[opus-48-token-economy-guide]]
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
@@ -1421,7 +1432,7 @@
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### workflows (11)
+### workflows (12)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1432,6 +1443,7 @@
 - [[hermes-goal-mode-guide]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[knowledge-system-compounding-obsidian-vellum]]
+- [[opportunity-ai-pm-os-workflow]]
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
@@ -2211,9 +2223,10 @@
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
 
-### product-discovery (2)
+### product-discovery (3)
 
 - [[ambient-pm-agents-evidence-first-prd]]
+- [[opportunity-ai-pm-os-workflow]]
 - [[testing-business-ideas-product-operating-system]]
 
 ### product-management (3)
@@ -2335,13 +2348,6 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
-
-### roadmap (4)
-
-- [[2026-ai-engineering-roadmap]]
-- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
-- [[ai-engineering-roadmap-2026-from-scratch]]
-- [[llm-engineering-projects-roadmap-2026]]
 
 ### robotics (2)
 
@@ -2682,6 +2688,7 @@
 - **context-compression** — [[pm-as-context-compressor]]
 - **context-mode** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context-window** — [[harness-is-the-product-context-aware-agents]]
+- **continuous-discovery** — [[opportunity-ai-pm-os-workflow]]
 - **contrastive-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **coordination** — [[agent-swarms-production-governance]]
 - **copilot** — [[agent-memory-landscape-2026]]
@@ -2914,6 +2921,7 @@
 - **openrouter** — [[the-best-models-for-hermes-agent]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
 - **opportunity-discovery** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- **opportunity-solution-tree** — [[opportunity-ai-pm-os-workflow]]
 - **opsd** — [[opsd-off-policy-self-distillation]]
 - **optimizer** — [[learnings-training-llm-from-scratch]]
 - **oracles** — [[loop-driven-development]]
@@ -3076,6 +3084,7 @@
 - **tdd** — [[loop-driven-development]]
 - **teacher-model** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **team-structure** — [[ai-native-engineering-org]]
+- **teresa-torres** — [[opportunity-ai-pm-os-workflow]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
 - **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]

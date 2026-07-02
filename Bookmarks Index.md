@@ -158,6 +158,7 @@
 - [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows]`
 - [[testing-business-ideas-product-operating-system]] — [Testing Business Ideas as a product operating system](https://x.com/nurijanian/status/2070110096294642034) `[pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, stakeholders, discovery]`
 - [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
+- [[opportunity-ai-pm-os-workflow]] — [/opportunity: an AI PM OS workflow to turn chaos into order](https://x.com/nurijanian/status/2067201971896176856) `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
@@ -511,6 +512,7 @@
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
 - [[open-knowledge-format-okf-google]] `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud, open-source]`
 - [[openthoughts-agent-data-recipes-agentic-models]] `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, huggingface, benchmarks, teacher-model]`
+- [[opportunity-ai-pm-os-workflow]] `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[portal-portable-task-adapters-llms]] `[lora, peft, training, fine-tuning, hypernetwork, portable-adaptation, qwen, gemma, slm]`
