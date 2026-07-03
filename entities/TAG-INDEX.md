@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 848 unique tags across 348 processed notes.
+> 850 unique tags across 349 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (52)
+### agent-harness (53)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -53,6 +53,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
@@ -141,7 +142,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (149)
+### agents (150)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -222,6 +223,7 @@
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-give-your-agent-memory]]
 - [[how-to-read-company-ai-analyst]]
@@ -603,10 +605,11 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[vscode-copilot-token-efficiency]]
 
-### deep-agents (5)
+### deep-agents (6)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
+- [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-langgraph-101-repo]]
@@ -808,10 +811,11 @@
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (7)
+### langchain (8)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
+- [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-give-your-agent-memory]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[introducing-dynamic-subagents-deep-agents]]
@@ -1077,7 +1081,7 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 
-### production (11)
+### production (12)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-evals-practical-guide]]
@@ -1087,6 +1091,7 @@
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
+- [[how-to-build-custom-agent-harness-langchain]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
@@ -2020,6 +2025,11 @@
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
 
+### human-in-the-loop (2)
+
+- [[agents-behave-like-employees-six-shifts]]
+- [[how-to-build-custom-agent-harness-langchain]]
+
 ### json-schema (2)
 
 - [[rlm-agents-structured-outputs]]
@@ -2757,6 +2767,7 @@
 - **costly-signals** — [[effort-position-leverage-principles]]
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
+- **create-agent** — [[how-to-build-custom-agent-harness-langchain]]
 - **creativity** — [[the-html-brand-input-based-outcomes]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
@@ -2863,7 +2874,6 @@
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
 - **hrm** — [[training-llm-from-scratch-5-lessons]]
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
-- **human-in-the-loop** — [[agents-behave-like-employees-six-shifts]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hypernetwork** — [[portal-portable-task-adapters-llms]]
@@ -2942,6 +2952,7 @@
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
+- **middleware** — [[how-to-build-custom-agent-harness-langchain]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
 - **mlops** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]

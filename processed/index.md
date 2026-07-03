@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 348 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 349 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -179,6 +179,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-be-good-at-research.md](/processed/how-to-be-good-at-research.md) — *bookmark* — High-signal guide to research: pick your own problems, upgrade inputs (old material + range), write everything down (Feynman's rule + Darwin's habit), tighten the loop (tooling + volume), stare at outputs (data + fail...
 - [how-to-build-agent-that-never-forgets.md](/processed/how-to-build-agent-that-never-forgets.md) — *bookmark* — How to Build an Agent That Never Forgets
 - [how-to-build-ai-agent-swarms.md](/processed/how-to-build-ai-agent-swarms.md) — *bookmark* — How to Build AI Agent Swarms (Complete Guide)
+- [how-to-build-custom-agent-harness-langchain.md](/processed/how-to-build-custom-agent-harness-langchain.md) — *bookmark* — LangChain guide—agent = model + harness; customize via create_agent middleware hooks (memory, subagents, retries, HITL, cost limits) for task-harness fit.
 - [how-to-build-first-ai-agent-claude-full-course.md](/processed/how-to-build-first-ai-agent-claude-full-course.md) — *bookmark* — How to Actually Build Your First AI Agent Using Claude (Full Course)
 - [how-to-build-your-own-llm-from-scratch-5-stage-pipeline.md](/processed/how-to-build-your-own-llm-from-scratch-5-stage-pipeline.md) — *bookmark* — A complete 5-stage pipeline for building a working LLM from scratch: data cleaning, BPE tokenization, decoder-only transformer training with next-token prediction, SFT + RLHF alignment, and evaluation with perplexity ...
 - [how-to-build-your-own-llm-from-scratch-in-5-stages.md](/processed/how-to-build-your-own-llm-from-scratch-in-5-stages.md) — *bookmark* — How to Build Your Own LLM From Scratch in 5 Stages
