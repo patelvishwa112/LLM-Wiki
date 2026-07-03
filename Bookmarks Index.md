@@ -572,7 +572,6 @@
 - [[trq212]] `[models]`
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
-- [[agent-native-career-advice-philhchen]] `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
