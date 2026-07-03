@@ -460,6 +460,7 @@
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
+- [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
