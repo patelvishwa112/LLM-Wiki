@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 850 unique tags across 349 processed notes.
+> 851 unique tags across 350 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -142,7 +142,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (150)
+### agents (151)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -189,6 +189,7 @@
 - [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-plugin-building-guide]]
 - [[claude-cowork-product-guide]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-managed-agents]]
 - [[claude-subagents-vs-agent-teams]]
 - [[code-w-claude-london-2026]]
@@ -371,9 +372,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[universal-agent-thesis]]
 
-### artifacts (5)
+### artifacts (6)
 
 - [[10-rules-polished-ui-claude]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-hidden-features-guide]]
 - [[claude-interactive-visuals]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
@@ -413,7 +415,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (35)
+### claude (36)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -425,6 +427,7 @@
 - [[claude-compliance-security-partners]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-dynamic-workflows-second-brain]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-hidden-features-guide]]
 - [[claude-interactive-visuals]]
 - [[claude-managed-agents]]
@@ -451,7 +454,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (71)
+### claude-code (72)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -479,6 +482,7 @@
 - [[claude-code-slash-command-library]]
 - [[claude-code-slm-training-bootstrap]]
 - [[claude-dynamic-workflows-second-brain]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-hidden-features-guide]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[code-w-claude-london-2026]]
@@ -562,9 +566,10 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (8)
+### coding-tools (9)
 
 - [[claude-code-slash-command-library]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
@@ -581,10 +586,11 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (9)
+### context-engineering (10)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[hermes-agent-10x-faster-vault-index]]
@@ -1140,7 +1146,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (29)
+### prompt-engineering (30)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1152,6 +1158,7 @@
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-hidden-settings]]
 - [[claude-cowork-plugin-building-guide]]
+- [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-hidden-features-guide]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[goal-loss-functions-distill-product]]
@@ -2249,6 +2256,11 @@
 - [[claude-personal-assistant-zero-dollars]]
 - [[personal-ai-assistant-claude-0-cost]]
 
+### planning (2)
+
+- [[claude-fable-map-territory-unknowns-trq212]]
+- [[coderabbit-claude-agent-orchestration]]
+
 ### playbooks (2)
 
 - [[how-to-automate-disaster-recovery-with-agents]]
@@ -2821,6 +2833,7 @@
 - **experimentation** — [[testing-business-ideas-product-operating-system]]
 - **extended-thinking** — [[extended-thinking]]
 - **extensions** — [[spec-kit-github-sdd]]
+- **fable** — [[claude-fable-map-territory-unknowns-trq212]]
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fault-tolerance** — [[fault-tolerance-langgraph-retries-timeouts]]
@@ -3023,7 +3036,6 @@
 - **pipelines** — [[why-layout-matters-document-processing]]
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
-- **planning** — [[coderabbit-claude-agent-orchestration]]
 - **platform** — [[career-platform-email-list-ryan-holiday]]
 - **playwright** — [[claude-code-investment-research-setup]]
 - **plugins** — [[claude-cowork-one-person-company-2026]]

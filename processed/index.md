@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 349 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 350 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -100,6 +100,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [claude-cowork-plugin-building-guide.md](/processed/claude-cowork-plugin-building-guide.md) — *processed-note* — Building Claude Cowork Plugins That Actually Work
 - [claude-cowork-product-guide.md](/processed/claude-cowork-product-guide.md) — *bookmark* — Claude Cowork is Anthropic's knowledge work agent for the desktop app: local file access, cross-app integration (Slack, Google Drive), subagents, scheduled tasks, and multi-step deliverables. Seven common workflows sp...
 - [claude-dynamic-workflows-second-brain.md](/processed/claude-dynamic-workflows-second-brain.md) — *bookmark* — Claude Dynamic Workflows for Your Second Brain
+- [claude-fable-map-territory-unknowns-trq212.md](/processed/claude-fable-map-territory-unknowns-trq212.md) — *bookmark* — Thariq (Anthropic) on Fable 5—map (prompts/skills) vs territory (codebase); bottleneck is clarifying unknowns via blind-spot passes, prototypes, interviews, plans, implementation notes.
 - [claude-for-education.md](/processed/claude-for-education.md) — *concept* — Claude for Education
 - [claude-hidden-features-guide.md](/processed/claude-hidden-features-guide.md) — *bookmark* — Claude Can Do All of This
 - [claude-interactive-visuals.md](/processed/claude-interactive-visuals.md) — *bookmark* — Claude can now create interactive charts, diagrams, and visualizations inline during conversations — temporary visuals that aid understanding and evolve as the discussion develops, distinct from persistent Artifacts.

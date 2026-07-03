@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-03
 
+- Ingest: Claude Fable map/territory unknowns (trq212)
+
+## 2026-07-03
+
 - Ingest: How to Build a Custom Agent Harness (LangChain blog)
 
 ## 2026-07-03
