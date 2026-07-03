@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 845 unique tags across 345 processed notes.
+> 847 unique tags across 346 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -140,7 +140,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (146)
+### agents (147)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -230,6 +230,7 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[karpathy-autoresearch-marketing-optimization]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[langchain-langgraph-101-repo]]
 - [[learn-harness-engineering]]
 - [[leerob-x-post-2065469795529588940]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
@@ -598,6 +599,14 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[vscode-copilot-token-efficiency]]
 
+### deep-agents (5)
+
+- [[deep-agents-prompt-caching]]
+- [[harbor-langchain-unified-agent-eval-stack]]
+- [[how-to-use-rlms-in-deep-agents]]
+- [[introducing-dynamic-subagents-deep-agents]]
+- [[langchain-langgraph-101-repo]]
+
 ### distillation (8)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -794,7 +803,7 @@
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (6)
+### langchain (7)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -802,6 +811,7 @@
 - [[how-to-use-rlms-in-deep-agents]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[langchain-langgraph-101-repo]]
 
 ### llm (19)
 
@@ -856,7 +866,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (29)
+### mcp (30)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -877,6 +887,7 @@
 - [[harnessing-claudes-intelligence]]
 - [[how-to-read-company-ai-analyst]]
 - [[human-in-the-loop-agent-loops]]
+- [[langchain-langgraph-101-repo]]
 - [[loop-engineering-14-step-roadmap]]
 - [[managed-agents-sandbox-mcp]]
 - [[mcp-core-architecture-explained]]
@@ -940,7 +951,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (25)
+### multi-agent (26)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -956,6 +967,7 @@
 - [[human-in-the-loop-agent-loops]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[langchain-langgraph-101-repo]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-dreaming-orchestration]]
 - [[multi-perspective-prd-review-claude-code]]
@@ -1750,13 +1762,6 @@
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[principled-thinking-and-ai-ray-dalio]]
 
-### deep-agents (4)
-
-- [[deep-agents-prompt-caching]]
-- [[harbor-langchain-unified-agent-eval-stack]]
-- [[how-to-use-rlms-in-deep-agents]]
-- [[introducing-dynamic-subagents-deep-agents]]
-
 ### deepmind (2)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -2014,16 +2019,18 @@
 - [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-product-guide]]
 
-### langgraph (2)
+### langgraph (3)
 
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[harbor-langchain-unified-agent-eval-stack]]
+- [[langchain-langgraph-101-repo]]
 
-### langsmith (3)
+### langsmith (4)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
+- [[langchain-langgraph-101-repo]]
 
 ### latency (2)
 
@@ -3033,6 +3040,7 @@
 - **research-automation** — [[anthropic-recursive-self-improvement]]
 - **research-skills** — [[zen-and-the-art-of-ai-research]]
 - **research-taste** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
+- **resource** — [[langchain-langgraph-101-repo]]
 - **resource-list** — [[0xsojalsec-llms-local]]
 - **resources** — [[mcp-core-architecture-hosts-clients-servers]]
 - **resumes** — [[anthropic-engineering-hiring-resumes]]
@@ -3137,6 +3145,7 @@
 - **trimming** — [[trimming-introduction]]
 - **trino** — [[github-qubot-data-analytics-agent]]
 - **ttft** — [[kv-caching-llms-clearly-explained-avichawla]]
+- **tutorial** — [[langchain-langgraph-101-repo]]
 - **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]

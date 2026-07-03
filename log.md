@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-03
+
+- Ingest: LangGraph 101 (github langchain-ai/langgraph-101)
+
 ## 2026-07-02
 
 - Ingest: David Ogilvy Writing Coach Claude Skill (nicolascole77 2072662998326415447)

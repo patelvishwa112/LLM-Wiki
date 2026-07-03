@@ -44,6 +44,7 @@
 - [[gbrain-markdown-git-brain-mem0]] — [A Brain in a Git Repo: How GBrain Works](https://x.com/mem0ai/status/2070541048527609885) `[agents, agent-memory, mem0, gbrain, knowledge-graph, wikilinks, rag, openclaw, hermes]`
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
+- [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[how-to-use-rlms-in-deep-agents]] — [How to Use RLMs in Deep Agents](https://x.com/sydneyrunkle/status/2072347918447558978) `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
@@ -478,6 +479,7 @@
 - [[kirillkweb3]] `[agents]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
 - [[kv-caching-llms-clearly-explained-avichawla]] `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, fundamentals, serving, gpu]`
+- [[langchain-langgraph-101-repo]] `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
