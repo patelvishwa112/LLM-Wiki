@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-03
 
+- Ingest: agent memory 4-layer stack + agent-native career (2 X articles)
+
+## 2026-07-03
+
 - Ingest: LangGraph 101 (github langchain-ai/langgraph-101)
 
 ## 2026-07-02

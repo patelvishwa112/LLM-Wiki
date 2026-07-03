@@ -42,6 +42,7 @@
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
 - [[gbrain-markdown-git-brain-mem0]] — [A Brain in a Git Repo: How GBrain Works](https://x.com/mem0ai/status/2070541048527609885) `[agents, agent-memory, mem0, gbrain, knowledge-graph, wikilinks, rag, openclaw, hermes]`
+- [[agent-memory-four-layer-stack-matthew-gunnin]] — [Four-layer agent memory stack (Ella/Lyra)](https://x.com/matthewgunnin/status/2072772100973007203) `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
@@ -287,6 +288,7 @@
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
+- [[agent-native-career-advice-philhchen]] — [Career skills in the agent-native era](https://x.com/philhchen/status/2072793818945167475) `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
@@ -350,6 +352,8 @@
 - [[agent-harness-engineering-agentforge]] `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 - [[agent-harness-should-repair-itself]] `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
+- [[agent-memory-four-layer-stack-matthew-gunnin]] `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
+- [[agent-native-career-advice-philhchen]] `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[agent-swarms-production-governance]] `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression, coordination, cost-optimization]`
 - [[agents-behave-like-employees-six-shifts]] `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
@@ -568,6 +572,7 @@
 - [[trq212]] `[models]`
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
+- [[agent-native-career-advice-philhchen]] `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`

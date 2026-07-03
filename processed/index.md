@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 346 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 348 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -28,7 +28,9 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [agent-harness-engineering-agentforge.md](/processed/agent-harness-engineering-agentforge.md) — *bookmark* — Building AgentForge — an agent harness from scratch in Python — taught that an agent is not a model but a runtime. The model is ~20% of the engineering. The other 80% is the harness: action space, approval policy, obs...
 - [agent-harness-engineering-claude-14-step-roadmap.md](/processed/agent-harness-engineering-claude-14-step-roadmap.md) — *bookmark* — Codez outlines a 14-step roadmap for moving from basic Claude Code usage to a full agent harness with rules, subagents, hooks, and memory — the missing foundation under agent loops.
 - [agent-harness-should-repair-itself.md](/processed/agent-harness-should-repair-itself.md) — *bookmark* — Opik closes the agent debugging loop: Trace → Ollie diagnoses → proposes fix → verify → regression test. Four-layer stack (Tracing, Ollie, Test Suites, Sandbox) that automates everything after the trace. 19.3K stars.
+- [agent-memory-four-layer-stack-matthew-gunnin.md](/processed/agent-memory-four-layer-stack-matthew-gunnin.md) — *bookmark* — Matt Gunnin's 4-layer memory stack for coordinated OpenClaw + Hermes agents—markdown identity/index, Hindsight retention, Nexus shared vault, gbrain MCP recall.
 - [agent-memory-landscape-2026.md](/processed/agent-memory-landscape-2026.md) — *bookmark* — Agent Memory Landscape 2026
+- [agent-native-career-advice-philhchen.md](/processed/agent-native-career-advice-philhchen.md) — *bookmark* — Phil Chen on hiring in agent-native companies—scarce time/reputation, problem-finding over LeetCode, ambitious problems, last-mile craft, xG vs efficiency, and breaking into research via evals.
 - [agent-swarms-production-governance.md](/processed/agent-swarms-production-governance.md) — *bookmark* — Nyk (@nyk_builderz): one agent doing research+code+review+orchestration blurs by week 4 — throughput is architecture (sub-agents for compression vs multi-agent only for coordination). Production org: worker sub-agents...
 - [agentic-misalignment.md](/processed/agentic-misalignment.md) — *concept* — Agentic Misalignment
 - [agents-behave-like-employees-six-shifts.md](/processed/agents-behave-like-employees-six-shifts.md) — *bookmark* — Six shifts for agent-as-employee UX: explicit wait states, question cards, approval gates, team boards, long-horizon outcomes; article pitches Teamly.

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 847 unique tags across 346 processed notes.
+> 848 unique tags across 348 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -90,10 +90,11 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (11)
+### agent-memory (12)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[autobrowse-browser-agent-memory]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graph-memory-reconstruction-llms]]
@@ -140,7 +141,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (147)
+### agents (149)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -157,7 +158,9 @@
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-harness-should-repair-itself]]
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[agent-memory-landscape-2026]]
+- [[agent-native-career-advice-philhchen]]
 - [[agent-swarms-production-governance]]
 - [[agentic-misalignment]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -393,9 +396,10 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (11)
+### career (12)
 
 - [[5-ai-skills-six-figures-2027]]
+- [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
@@ -704,9 +708,10 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### hermes (17)
+### hermes (18)
 
 - [[21-agent-building-mistakes]]
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[agent-memory-landscape-2026]]
 - [[agent-swarms-production-governance]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -866,12 +871,13 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (30)
+### mcp (31)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-harness-engineering-agentforge]]
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[ai-agent-loop-architecture-buinevici]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
@@ -951,10 +957,11 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (26)
+### multi-agent (27)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[agent-swarms-production-governance]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[autoscientists-decentralized-ai-research-agents]]
@@ -992,8 +999,9 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (9)
+### obsidian (10)
 
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[claude-code-investment-research-setup]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[gbrain-markdown-git-brain-mem0]]
@@ -1015,6 +1023,14 @@
 - [[quarq-agent-memory-architecture]]
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
+
+### openclaw (5)
+
+- [[21-agent-building-mistakes]]
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
+- [[dive-into-claude-code-vila-lab]]
+- [[gbrain-markdown-git-brain-mem0]]
+- [[openclaw-hermes-supervisor-setup]]
 
 ### orchestration (23)
 
@@ -1164,9 +1180,10 @@
 - [[quarq-agent-memory-architecture]]
 - [[virtual-filesystem-for-agent-assistants]]
 
-### research (6)
+### research (7)
 
 - [[Llama SAE Interpretability Project]]
+- [[agent-native-career-advice-philhchen]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[graph-memory-reconstruction-llms]]
 - [[how-to-be-good-at-research]]
@@ -1250,8 +1267,9 @@
 - [[scaling-laws]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### second-brain (10)
+### second-brain (11)
 
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[gbrain-markdown-git-brain-mem0]]
@@ -1352,6 +1370,14 @@
 - [[exp1-sae-gap-closure-initial-result]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[sparse-autoencoders]]
+
+### startups (5)
+
+- [[agent-native-career-advice-philhchen]]
+- [[coderabbit-claude-agent-orchestration]]
+- [[ten-commandments-building-product-feitong-yang]]
+- [[testing-business-ideas-product-operating-system]]
+- [[who-will-set-price-intelligence]]
 
 ### sub-agents (6)
 
@@ -1599,6 +1625,11 @@
 - [[ai-survival-guide-ikea-style]]
 - [[building-your-first-ai-agent-clear-path]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
+
+### bitter-lesson (2)
+
+- [[agent-native-career-advice-philhchen]]
+- [[encoder-free-models-bitter-lesson]]
 
 ### books (2)
 
@@ -1910,6 +1941,11 @@
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[gbrain-markdown-git-brain-mem0]]
 
+### gbrain (2)
+
+- [[agent-memory-four-layer-stack-matthew-gunnin]]
+- [[gbrain-markdown-git-brain-mem0]]
+
 ### gemini (2)
 
 - [[50-mcp-servers-guide]]
@@ -1972,8 +2008,9 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
 
-### hiring (2)
+### hiring (3)
 
+- [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[anthropic-engineering-hiring-resumes]]
 
@@ -2148,13 +2185,6 @@
 - [[harness-engineering-2026-discipline]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[vscode-copilot-token-efficiency]]
-
-### openclaw (4)
-
-- [[21-agent-building-mistakes]]
-- [[dive-into-claude-code-vila-lab]]
-- [[gbrain-markdown-git-brain-mem0]]
-- [[openclaw-hermes-supervisor-setup]]
 
 ### opik (2)
 
@@ -2460,13 +2490,6 @@
 - [[pm-as-context-compressor]]
 - [[testing-business-ideas-product-operating-system]]
 
-### startups (4)
-
-- [[coderabbit-claude-agent-orchestration]]
-- [[ten-commandments-building-product-feitong-yang]]
-- [[testing-business-ideas-product-operating-system]]
-- [[who-will-set-price-intelligence]]
-
 ### steering (3)
 
 - [[beyond-ghost-sae-experiment-proposals]]
@@ -2568,6 +2591,11 @@
 - [[building-a-good-vertical-agent]]
 - [[building-good-vertical-agent]]
 
+### vibe-coding (2)
+
+- [[agent-native-career-advice-philhchen]]
+- [[ten-commandments-building-product-feitong-yang]]
+
 ### visualization (3)
 
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
@@ -2636,6 +2664,7 @@
 - **agent-infrastructure** — [[anthropic-ant-cli-managed-agents]]
 - **agent-interface** — [[virtual-filesystem-for-agent-assistants]]
 - **agent-loop** — [[ai-agent-loop-architecture-buinevici]]
+- **agent-native** — [[agent-native-career-advice-philhchen]]
 - **agent-skills** — [[colleague-skill-dot-skill]]
 - **agent-teams** — [[claude-subagents-vs-agent-teams]]
 - **agent-templates** — [[pm-as-context-compressor]]
@@ -2679,7 +2708,6 @@
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
 - **biosecurity** — [[ai-biosecurity-and-nuclear]]
-- **bitter-lesson** — [[encoder-free-models-bitter-lesson]]
 - **braintrust** — [[continuous-trace-intelligence-braintrust-topics]]
 - **briefing** — [[fable-5-system-prompt]]
 - **browser-internals** — [[browser-internals-chromium-architecture]]
@@ -2803,7 +2831,6 @@
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
 - **fx** — [[torch-internals-part1-fx-graphs]]
-- **gbrain** — [[gbrain-markdown-git-brain-mem0]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
 - **generative-ui** — [[generative-ui-is-the-new-frontend]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
@@ -3158,7 +3185,6 @@
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
 - **vercel** — [[leerob-x-post-2065469795529588940]]
-- **vibe-coding** — [[ten-commandments-building-product-feitong-yang]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **vision** — [[how-to-actually-use-claude-fable-5]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
