@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 351 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 352 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -194,6 +194,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [hrm-text-1b-reasoning-model.md](/processed/hrm-text-1b-reasoning-model.md) — *note* — HRM-Text: 1B Parameter Reasoning Model
 - [huggingface-model-architecture-visualizer.md](/processed/huggingface-model-architecture-visualizer.md) — *bookmark* — HuggingFace Model Architecture Visualizer — hfviewer.com
 - [human-in-the-loop-agent-loops.md](/processed/human-in-the-loop-agent-loops.md) — *bookmark* — Eric Zakariasson (Cursor): long agent tasks need a scorable definition of done (eval score, tests, Playwright QA, p95, validation counts), a /loop with explicit stop conditions, /notify via MCP (Slack) for human-in-th...
+- [human-nature-meta-skill-dan-koe.md](/processed/human-nature-meta-skill-dan-koe.md) — *bookmark* — Dan Koe argues human nature is the timeless meta-skill that amplifies any technical craft via story, three tensions, and five persuasion levers.
 - [iceberg-opus-48-prompts.md](/processed/iceberg-opus-48-prompts.md) — *bookmark* — Iceberg: The Prompts That Unleash Opus 4.8
 - [iii-agent-harness-workers.md](/processed/iii-agent-harness-workers.md) — *bookmark* — How to Build Your Own Agent Harness
 - [induction-heads.md](/processed/induction-heads.md) — *concept* — Induction Heads

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 851 unique tags across 351 processed notes.
+> 852 unique tags across 352 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -944,6 +944,14 @@
 - [[memory-is-retained-consequence]]
 - [[quarq-agent-memory-architecture]]
 
+### meta-learning (5)
+
+- [[career-platform-email-list-ryan-holiday]]
+- [[how-to-be-good-at-ai-research]]
+- [[human-nature-meta-skill-dan-koe]]
+- [[second-self-vs-second-brain-obsidian]]
+- [[token-capital-scaffolding-process-governance]]
+
 ### ml-research (6)
 
 - [[0xsojalsec-llms-local]]
@@ -1105,7 +1113,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (33)
+### productivity (34)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-content-system-framework]]
@@ -1131,6 +1139,7 @@
 - [[hermes-agent-user-experience]]
 - [[hermes-goal-mode-guide]]
 - [[human-in-the-loop-agent-loops]]
+- [[human-nature-meta-skill-dan-koe]]
 - [[iceberg-opus-48-prompts]]
 - [[mcp-server-workflow-problems]]
 - [[mid-career-dissatisfaction]]
@@ -1516,6 +1525,14 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
+### writing (5)
+
+- [[ai-writing-style-personalization]]
+- [[david-ogilvy-writing-coach-claude-skill]]
+- [[how-to-be-good-at-research]]
+- [[human-nature-meta-skill-dan-koe]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
+
 ## Mid-Frequency Tags (2-4 articles)
 
 ### activation-engineering (2)
@@ -1755,10 +1772,11 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[learn-harness-engineering]]
 
-### creator-economy (3)
+### creator-economy (4)
 
 - [[career-platform-email-list-ryan-holiday]]
 - [[david-ogilvy-writing-coach-claude-skill]]
+- [[human-nature-meta-skill-dan-koe]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ### critique (2)
@@ -2142,6 +2160,11 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
+### marketing (2)
+
+- [[human-nature-meta-skill-dan-koe]]
+- [[karpathy-autoresearch-marketing-optimization]]
+
 ### markov-chains (3)
 
 - [[dqn-adaptive-trade-execution-ritonchain]]
@@ -2152,13 +2175,6 @@
 
 - [[agent-memory-landscape-2026]]
 - [[gbrain-markdown-git-brain-mem0]]
-
-### meta-learning (4)
-
-- [[career-platform-email-list-ryan-holiday]]
-- [[how-to-be-good-at-ai-research]]
-- [[second-self-vs-second-brain-obsidian]]
-- [[token-capital-scaffolding-process-governance]]
 
 ### meta-skills (2)
 
@@ -2263,6 +2279,11 @@
 
 - [[claude-personal-assistant-zero-dollars]]
 - [[personal-ai-assistant-claude-0-cost]]
+
+### persuasion (2)
+
+- [[ai-persuasion]]
+- [[human-nature-meta-skill-dan-koe]]
 
 ### planning (2)
 
@@ -2673,13 +2694,6 @@
 - [[notes-on-foundation-models]]
 - [[world-models-agent-imagination]]
 
-### writing (4)
-
-- [[ai-writing-style-personalization]]
-- [[david-ogilvy-writing-coach-claude-skill]]
-- [[how-to-be-good-at-research]]
-- [[premium-ghostwriter-five-skills-nicolas-cole]]
-
 ## Single-Use Tags
 
 - **2026** — [[ai-engineering-roadmap-2026-from-scratch]]
@@ -2900,6 +2914,7 @@
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
 - **hrm** — [[training-llm-from-scratch-5-lessons]]
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
+- **human-nature** — [[human-nature-meta-skill-dan-koe]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hypernetwork** — [[portal-portable-task-adapters-llms]]
@@ -2968,7 +2983,6 @@
 - **mai-thinking** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **market-dynamics** — [[effort-position-leverage-principles]]
-- **marketing** — [[karpathy-autoresearch-marketing-optimization]]
 - **math** — [[attention-qkv-math-amitiitbhu]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
@@ -3042,7 +3056,6 @@
 - **personal-knowledge-management** — [[second-self-vs-second-brain-obsidian]]
 - **personal-project** — [[Llama SAE Interpretability Project]]
 - **personal-tools** — [[Non-Obvious Agent Projects]]
-- **persuasion** — [[ai-persuasion]]
 - **phd** — [[level-above-phd-knowledge-works-without-you]]
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **phoebe** — [[post-agent-companies]]
