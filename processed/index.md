@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 350 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 351 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -337,6 +337,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [units-of-time-alfred-lin.md](/processed/units-of-time-alfred-lin.md) — *bookmark* — Units of Time
 - [universal-agent-thesis.md](/processed/universal-agent-thesis.md) — *bookmark* — Universal AgentThesis
 - [using-claude-to-go-viral-on-x-mrbeast-framework.md](/processed/using-claude-to-go-viral-on-x-mrbeast-framework.md) — *bookmark* — Using Claude to go Viral on X… (Mr. Beasts Framework)
+- [verifiability-constraint-rlvr-unverifiable-tanayj.md](/processed/verifiability-constraint-rlvr-unverifiable-tanayj.md) — *bookmark* — Tanay Jaipuria on Dario's unverifiable-task uncertainty—RLVR in math/code, verifier's law, rubric/process/generative rewards, and lab/data/formalization/physical-loop companies.
 - [virtual-filesystem-for-agent-assistants.md](/processed/virtual-filesystem-for-agent-assistants.md) — *bookmark* — Virtual Filesystem for AI Assistants — Beyond RAG
 - [voxyz-ai-10-lessons-agents-md.md](/processed/voxyz-ai-10-lessons-agents-md.md) — *article* — 10 Lessons from Shipping with AI Coding Agents
 - [vscode-copilot-token-efficiency.md](/processed/vscode-copilot-token-efficiency.md) — *bookmark* — Improving Token Efficiency in GitHub Copilot Agentic Harness (VS Code)

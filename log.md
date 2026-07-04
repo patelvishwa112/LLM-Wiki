@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-04
+
+- Ingest: Verifiability constraint RLVR (tanayj)
+
 ## 2026-07-03
 
 - Ingest: Claude Fable map/territory unknowns (trq212)
