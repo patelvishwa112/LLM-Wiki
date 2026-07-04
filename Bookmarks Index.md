@@ -92,6 +92,7 @@
 - [[agent-harness-should-repair-itself]] — [Your Agent Harness Should Repair Itself](https://x.com/akshay_pachaar/status/2064051835636498924) `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[anthropic-recursive-self-improvement]] — [When AI Builds Itself — Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
+- [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] — [Your AI's Memory Is Quietly Making It Dumber (I Cut Mine to 6 Files)](https://x.com/mvanhorn/status/2070966613994795489) `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
@@ -445,6 +446,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
+- [[four-loops-ai-engineering-taxonomy-aparna]] `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness, loop-engineering]`
 - [[gaurigupta]] `[productivity, papers]`
 - [[gbrain-markdown-git-brain-mem0]] `[agents, agent-memory, mem0, gbrain, garry-tan, knowledge-graph, obsidian, wikilinks, rag, retrieval, openclaw, hermes, second-brain, git]`

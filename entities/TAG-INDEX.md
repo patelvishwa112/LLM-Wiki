@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 852 unique tags across 352 processed notes.
+> 854 unique tags across 353 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (53)
+### agent-harness (54)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -45,6 +45,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
@@ -142,7 +143,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (152)
+### agents (153)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -202,6 +203,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[generative-ui-is-the-new-frontend]]
@@ -393,6 +395,14 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[recursive-self-improvement-ai-101]]
+
+### autoresearch (5)
+
+- [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[karpathy-autoresearch-marketing-optimization]]
+- [[recursive-self-improvement-2028-prediction]]
+- [[self-evolving-autoresearch-workflow-loops]]
 
 ### benchmarks (5)
 
@@ -659,7 +669,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (17)
+### evals (18)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
@@ -669,6 +679,7 @@
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[evals-strategic-ip-garrettlord]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
@@ -853,9 +864,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (9)
+### loop-engineering (10)
 
 - [[9-step-loop-claude-code-senior-engineer]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[human-in-the-loop-agent-loops]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -1008,11 +1020,12 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (9)
+### observability (10)
 
 - [[agent-harness-should-repair-itself]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
@@ -1649,13 +1662,6 @@
 
 - [[hermes-goal-mode-guide]]
 - [[universal-agent-thesis]]
-
-### autoresearch (4)
-
-- [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
-- [[karpathy-autoresearch-marketing-optimization]]
-- [[recursive-self-improvement-2028-prediction]]
-- [[self-evolving-autoresearch-workflow-loops]]
 
 ### beginner (3)
 
@@ -2740,6 +2746,7 @@
 - **apple-silicon** — [[mlx-engine-v185-kv-cache-agentic]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **approvals** — [[agents-behave-like-employees-six-shifts]]
+- **arize** — [[four-loops-ai-engineering-taxonomy-aparna]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **assistants** — [[virtual-filesystem-for-agent-assistants]]
@@ -3172,6 +3179,7 @@
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
+- **software-factory** — [[four-loops-ai-engineering-taxonomy-aparna]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]

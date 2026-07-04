@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-04
 
+- Ingest: Four Distinct Loops in AI Engineering (aparnadhinak 2073492320159510869)
+
+## 2026-07-04
+
 - Ingest: Human Nature as the Meta-Skill (thedankoe 2073418764058825045)
 
 ## 2026-07-04
