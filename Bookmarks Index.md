@@ -155,7 +155,6 @@
 - [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
-- [[verifiability-constraint-rlvr-unverifiable-tanayj]] — [Verifiability constraint — RLVR and unverifiable domains](https://x.com/tanayj/status/2072766211256119475) `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
 
 ### Coding Tools
 
@@ -584,7 +583,6 @@
 - [[trq212]] `[models]`
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
-- [[verifiability-constraint-rlvr-unverifiable-tanayj]] `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
