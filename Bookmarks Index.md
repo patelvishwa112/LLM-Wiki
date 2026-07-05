@@ -9,6 +9,7 @@
 - [[the-ultimate-guide-to-goal]] — [The ultimate guide to /goal](https://x.com/Saboo_Shubham_/status/2054988166541770782)
 - [[theturingpost]] — [TheTuringPost](https://x.com/TheTuringPost/status/2052523789619953775)
 - [[avi-chawla-avichawla-how-top-ai-labs-are-building]] — [Avi Chawla @_avichawla How top AI labs are building RL agents in 2026 (using Kar](https://x.com/_avichawla/status/2049037299334472015)
+- [[shepherd-reversible-execution-traces-avichawla]] — [Shepherd — agent-native Git for reversible agent runs](https://x.com/_avichawla/status/2073746091795960237) `[agents, meta-agents, agent-harness, shepherd, reversible-execution, kv-cache, supervision, stanford]`
 - [[aiedge]] — [aiedge_](https://x.com/aiedge_/status/2054569766418108797)
 - [[akshaypachaar]] — [akshay_pachaar](https://x.com/akshay_pachaar/status/2052743644411765230)
 - [[akshaypachaar]] — [akshay_pachaar](https://x.com/akshay_pachaar/status/2054564519280804028)
@@ -43,6 +44,7 @@
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
 - [[gbrain-markdown-git-brain-mem0]] — [A Brain in a Git Repo: How GBrain Works](https://x.com/mem0ai/status/2070541048527609885) `[agents, agent-memory, mem0, gbrain, knowledge-graph, wikilinks, rag, openclaw, hermes]`
 - [[agent-memory-four-layer-stack-matthew-gunnin]] — [Four-layer agent memory stack (Ella/Lyra)](https://x.com/matthewgunnin/status/2072772100973007203) `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
+- [[living-wiki-second-brain-hermes-leopardracer]] — [AI second brain — Karpathy wiki + Hermes agents](https://x.com/leopardracer/status/2073340097051689327) `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
@@ -155,6 +157,7 @@
 - [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
+- [[kaplan-scaling-laws-bug-chinchilla]] — [Scaling laws honestly — Kaplan bug and Chinchilla](https://x.com/completeskeptic/status/2073442518117884197) `[training, scaling-laws, chinchilla, pretraining, ml-research, openai, deepmind]`
 
 ### Coding Tools
 
@@ -175,6 +178,7 @@
 - [[notes-on-foundation-models]] — [Notes on Foundation Models](https://x.com/bqbrady/status/2064055370809778371) `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion]`
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
+- [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
 - [[anthropic-ant-cli-guide]] — [Anthropic's ant CLI — Full Guide](https://x.com/hey_madni/status/2063606029146034375) `[anthropic, ant-cli, claude-code, managed-agents, mcp, cli, agents, dev-tools]`
 - [[anthropic-gtm-claude-code-workflows]] — [How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, gtm, sales, skills, productivity, enterprise]`
@@ -365,6 +369,7 @@
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
+- [[addy-osmani-agent-skills-open-source]] `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
 - [[aiedge]] `[agents]`
 - [[akshaypachaar]] `[agents]`
@@ -488,6 +493,7 @@
 - [[joint-embedding-predictive-architecture-jepa]] `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[jp-morgan-pays-650000-a-year-for-quants-they-built]] `[finance, productivity]`
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] `[papers]`
+- [[kaplan-scaling-laws-bug-chinchilla]] `[training, scaling-laws, chinchilla, pretraining, ml-research, openai, deepmind]`
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] `[productivity, papers]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[kirillkweb3]] `[agents]`
@@ -497,6 +503,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
+- [[living-wiki-second-brain-hermes-leopardracer]] `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
@@ -554,10 +561,11 @@
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]] `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
 - [[rlm-structured-outputs]] `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
+- [[rohonchain]] `[ai-ml]`
+- [[rohonchain]] `[ai-ml]`
 - [[sakana-fugu-orchestrator-models]] `[orchestration, multi-agent, sakana-ai, models, agent-harness, grpo, collective-intelligence, routing]`
 - [[secure-automated-learning-loops-modal-claude-code]] `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
-- [[rohonchain]] `[ai-ml]`
-- [[rohonchain]] `[ai-ml]`
+- [[shepherd-reversible-execution-traces-avichawla]] `[agents, meta-agents, agent-harness, shepherd, reversible-execution, kv-cache, supervision, stanford]`
 - [[self-learning-agents-three-layers-user-signal]] `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
 - [[skill-solo-millionaires-ai-era]] `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 353 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 357 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -24,6 +24,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [Llama SAE Interpretability Project.md](/processed/Llama SAE Interpretability Project.md) — *concept* — Personal Llama SAE interpretability project — sparse autoencoders and steering on local MLX stack.
 - [Non-Obvious Agent Projects.md](/processed/Non-Obvious Agent Projects.md) — *research-synthesis* — Non-Obvious Agent Projects — Beyond the Listicles
 - [adapad-lora-parallel-deflation.md](/processed/adapad-lora-parallel-deflation.md) — *note* — AdaPaD: Parallel Rank-1 Deflation for LoRA
+- [addy-osmani-agent-skills-open-source.md](/processed/addy-osmani-agent-skills-open-source.md) — *bookmark* — Granite0x highlights Addy Osmani open-sourcing his personal Claude agent-skills repo (MIT, drop-in loadout)—harness/wrapper over raw model choice.
 - [agent-evals-practical-guide.md](/processed/agent-evals-practical-guide.md) — *bookmark* — Agent Evals — Practical Guide to Measuring Agents in Production
 - [agent-harness-engineering-agentforge.md](/processed/agent-harness-engineering-agentforge.md) — *bookmark* — Building AgentForge — an agent harness from scratch in Python — taught that an agent is not a model but a runtime. The model is ~20% of the engineering. The other 80% is the harness: action space, approval policy, obs...
 - [agent-harness-engineering-claude-14-step-roadmap.md](/processed/agent-harness-engineering-claude-14-step-roadmap.md) — *bookmark* — Codez outlines a 14-step roadmap for moving from basic Claude Code usage to a full agent harness with rules, subagents, hooks, and memory — the missing foundation under agent loops.
@@ -207,6 +208,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [jim-simons-medallion-quant-framework.md](/processed/jim-simons-medallion-quant-framework.md) — *article* — Jim Simons' Medallion Fund: The Exact Quant Framework
 - [joint-embedding-predictive-architecture-jepa.md](/processed/joint-embedding-predictive-architecture-jepa.md) — *article* — Joint Embedding Predictive Architecture (JEPA)
 - [jp-morgan-quant-python-training.md](/processed/jp-morgan-quant-python-training.md) — *bookmark* — J.P. Morgan Free Quant Python Training — Zero to Quant
+- [kaplan-scaling-laws-bug-chinchilla.md](/processed/kaplan-scaling-laws-bug-chinchilla.md) — *bookmark* — Former OpenAI researcher argues Kaplan et al. scaling laws were wrong due to fixed token budgets plus cosine LR decay to zero—not parameter counting alone—so the field over-sized models for years; Chinchilla is the ri...
 - [karpathy-autoresearch-marketing-optimization.md](/processed/karpathy-autoresearch-marketing-optimization.md) — *bookmark* — Karpathy AutoResearch for Marketing Optimization
 - [kimi-k2.6-agent-swarm-300-parallel-agents.md](/processed/kimi-k2.6-agent-swarm-300-parallel-agents.md) — *article* — Kimi K2.6: 300 Parallel Agents in One Run
 - [knowledge-distillation-theturingpost.md](/processed/knowledge-distillation-theturingpost.md) — *bookmark* — "@TheTuringPost explains Knowledge Distillation (KD) as a core technique for creating smaller, capable models. Instead of training from scratch, a large teacher model transfers 'dark knowledge' (confidence distributio...
@@ -220,6 +222,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [leerob-x-post-2065469795529588940.md](/processed/leerob-x-post-2065469795529588940.md) — *bookmark* — X post by leerob
 - [leopardracer-ai-workflows-prompts.md](/processed/leopardracer-ai-workflows-prompts.md) — *bookmark* — How to Build AI Workflows When You're Tired of Optimizing Prompts
 - [level-above-phd-knowledge-works-without-you.md](/processed/level-above-phd-knowledge-works-without-you.md) — *article* — There's a Level Above PhD: Knowledge That Works Without You
+- [living-wiki-second-brain-hermes-leopardracer.md](/processed/living-wiki-second-brain-hermes-leopardracer.md) — *bookmark* — Living Obsidian wiki built Karpathy-style; four Hermes cron agents (Post, Build, Stoic, Note) ingest Claude.ai/Code history, write back to wiki pages, and deliver journal insights every six hours.
 - [llm-engineering-projects-roadmap-2026.md](/processed/llm-engineering-projects-roadmap-2026.md) — *bookmark* — Step-By-Step LLM Engineering Projects (2026 Edition)
 - [llms-securing-source-code.md](/processed/llms-securing-source-code.md) — *bookmark* — Anthropic's guide to using Claude Opus for security: a 6-step find-and-fix loop (threat model → sandbox → discovery → verification → triage → patching). Key insight: discovery is now easy to parallelize; the bottlenec...
 - [longmemeval-evaluating-agent-memory-across-sessions.md](/processed/longmemeval-evaluating-agent-memory-across-sessions.md) — *bookmark* — LongMemEval: Evaluating Agent Memory Across Sessions
@@ -311,6 +314,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [self-improvement-loop-for-skills-zach-lloyd.md](/processed/self-improvement-loop-for-skills-zach-lloyd.md) — *bookmark* — Zach Lloyd (Warp founder) breaks down how to build a real self-improvement loop for Skills — moving beyond vague 'agent loops' to concrete mechanisms for continuous skill improvement in AI systems.
 - [self-improving-agent-swarm-kimi-loop.md](/processed/self-improving-agent-swarm-kimi-loop.md) — *bookmark* — The Self-Improving Loop: 300-Agent Swarm on Kimi
 - [self-learning-agents-three-layers-user-signal.md](/processed/self-learning-agents-three-layers-user-signal.md) — *bookmark* — Atai Barkai maps self-learning into model vs harness vs context layers, then argues the missing signal is real human overrides in product — not agent-only traces.
+- [shepherd-reversible-execution-traces-avichawla.md](/processed/shepherd-reversible-execution-traces-avichawla.md) — *bookmark* — Shepherd records agent runs as copy-on-write execution traces so meta-agents can fork, replay, and revert live sandbox+KV state—CooperBench 28.8%→54.7% with a supervisor; repo shepherd-agents/shepherd.
 - [sia-recursive-self-improving-agent.md](/processed/sia-recursive-self-improving-agent.md) — *article* — SIA — Self Improving AI Framework (hexo.ai)
 - [skill-solo-millionaires-ai-era.md](/processed/skill-solo-millionaires-ai-era.md) — *bookmark* — X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning

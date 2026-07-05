@@ -2,6 +2,22 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-05
+
+- Ingest: Addy Osmani agent-skills open source (granite0x 2073540259208700311)
+
+## 2026-07-05
+
+- Ingest: Shepherd reversible traces (avichawla 2073746091795960237)
+
+## 2026-07-05
+
+- Ingest: Living wiki second brain Hermes (leopardracer 2073340097051689327)
+
+## 2026-07-05
+
+- Ingest: Kaplan scaling laws bug (completeskeptic 2073442518117884197)
+
 ## 2026-07-04
 
 - Ingest: Four Distinct Loops in AI Engineering (aparnadhinak 2073492320159510869)
