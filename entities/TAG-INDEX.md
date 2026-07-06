@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 862 unique tags across 360 processed notes.
+> 864 unique tags across 361 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1137,9 +1137,10 @@
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[sub-agents-inference-time-scaling]]
 
-### pm (8)
+### pm (9)
 
 - [[ambient-pm-agents-evidence-first-prd]]
+- [[ideacide-eleven-filters-drurly]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[opportunity-ai-pm-os-workflow]]
@@ -1172,7 +1173,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (35)
+### productivity (36)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1201,6 +1202,7 @@
 - [[human-in-the-loop-agent-loops]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[iceberg-opus-48-prompts]]
+- [[ideacide-eleven-filters-drurly]]
 - [[mcp-server-workflow-problems]]
 - [[mid-career-dissatisfaction]]
 - [[opus-48-token-economy-guide]]
@@ -1462,10 +1464,11 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[sparse-autoencoders]]
 
-### startups (5)
+### startups (6)
 
 - [[agent-native-career-advice-philhchen]]
 - [[coderabbit-claude-agent-orchestration]]
+- [[ideacide-eleven-filters-drurly]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 - [[who-will-set-price-intelligence]]
@@ -1738,6 +1741,11 @@
 
 - [[autobrowse-browser-agent-memory]]
 - [[browser-internals-chromium-architecture]]
+
+### business (2)
+
+- [[ideacide-eleven-filters-drurly]]
+- [[ubuntu-shuttleworth-story]]
 
 ### business-models (2)
 
@@ -2352,6 +2360,11 @@
 - [[ai-safety-levels]]
 - [[responsible-scaling-policy]]
 
+### portfolio (2)
+
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[ideacide-eleven-filters-drurly]]
+
 ### post-training (3)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -2385,6 +2398,11 @@
 
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
+
+### product (2)
+
+- [[ideacide-eleven-filters-drurly]]
+- [[ten-commandments-building-product-feitong-yang]]
 
 ### product-discovery (3)
 
@@ -2815,7 +2833,6 @@
 - **briefing** — [[fable-5-system-prompt]]
 - **browser-internals** — [[browser-internals-chromium-architecture]]
 - **browserbase** — [[autobrowse-browser-agent-memory]]
-- **business** — [[ubuntu-shuttleworth-story]]
 - **business-ideas** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **canonical** — [[ubuntu-shuttleworth-story]]
 - **career-advice** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -2976,6 +2993,7 @@
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
+- **ideation** — [[ideacide-eleven-filters-drurly]]
 - **identity-layer** — [[second-self-vs-second-brain-obsidian]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
@@ -3127,7 +3145,6 @@
 - **polygress** — [[daleverett-polygress-agent-era]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
 - **portable-adaptation** — [[portal-portable-task-adapters-llms]]
-- **portfolio** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **position-vs-effort** — [[effort-position-leverage-principles]]
 - **post-agent-companies** — [[post-agent-companies]]
 - **postgres** — [[daleverett-polygress-agent-era]]
@@ -3143,7 +3160,6 @@
 - **probes** — [[priests-of-agi-interpretability-crisis]]
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
-- **product** — [[ten-commandments-building-product-feitong-yang]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
@@ -3217,6 +3233,7 @@
 - **separation-of-concerns** — [[mcp-core-architecture-explained]]
 - **servers** — [[mcp-core-architecture-hosts-clients-servers]]
 - **settings** — [[claude-code-hidden-settings]]
+- **seven-powers** — [[ideacide-eleven-filters-drurly]]
 - **shepherd** — [[shepherd-reversible-execution-traces-avichawla]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
 - **siem** — [[claude-compliance-security-partners]]

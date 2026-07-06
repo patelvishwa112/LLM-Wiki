@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-06
 
+- Ingest: Ideacide 11 filters (drurly 2073808336231813273)
+
+## 2026-07-06
+
 - Ingest: Addy Osmani autonomy ladder (addyosmani 2072885435312042327)
 
 ## 2026-07-06

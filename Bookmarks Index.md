@@ -173,6 +173,7 @@
 - [[pm-as-context-compressor]] — [The PM as the Context Compressor](https://x.com/nurijanian/status/2063188643683192835) `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows]`
 - [[testing-business-ideas-product-operating-system]] — [Testing Business Ideas as a product operating system](https://x.com/nurijanian/status/2070110096294642034) `[pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, stakeholders, discovery]`
+- [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[opportunity-ai-pm-os-workflow]] — [/opportunity: an AI PM OS workflow to turn chaos into order](https://x.com/nurijanian/status/2067201971896176856) `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
@@ -304,6 +305,7 @@
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[human-nature-meta-skill-dan-koe]] — [Human Nature as the Meta-Skill](https://x.com/thedankoe/status/2073418764058825045) `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
+- [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[agent-native-career-advice-philhchen]] — [Career skills in the agent-native era](https://x.com/philhchen/status/2072793818945167475) `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
@@ -494,6 +496,7 @@
 - [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[huge-kudos-to-barbara-su-rice-cs---msc-stanford-sh]] `[ai-ml]`
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`
+- [[ideacide-eleven-filters-drurly]] `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] `[models, rl]`
 - [[inference-engines-2026]] `[ai-ml, serving]`
 - [[inference-optimizations-sub-second-llm-checklist]] `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
@@ -585,6 +588,7 @@
 - [[techwithram]] `[ai-ml]`
 - [[ten-commandments-building-product-feitong-yang]] `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus, user-research]`
 - [[testing-business-ideas-product-operating-system]] `[pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, stakeholders, discovery, product-management]`
+- [[ideacide-eleven-filters-drurly]] `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[twenty-core-agent-concepts-sairahul1]] `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
 - [[the-60-claude-cowork-moves-that-replaced-half-my-j]] `[agents, coding-tools]`
 - [[the-big-book-of-large-language-models]] `[models]`
