@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 359 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 360 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -24,6 +24,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [Llama SAE Interpretability Project.md](/processed/Llama SAE Interpretability Project.md) — *concept* — Personal Llama SAE interpretability project — sparse autoencoders and steering on local MLX stack.
 - [Non-Obvious Agent Projects.md](/processed/Non-Obvious Agent Projects.md) — *research-synthesis* — Non-Obvious Agent Projects — Beyond the Listicles
 - [adapad-lora-parallel-deflation.md](/processed/adapad-lora-parallel-deflation.md) — *note* — AdaPaD: Parallel Rank-1 Deflation for LoRA
+- [addy-osmani-agent-autonomy-ladder-six-levels.md](/processed/addy-osmani-agent-autonomy-ladder-six-levels.md) — *bookmark* — Addy Osmani’s six-level agent autonomy ladder (assist → factory orchestration) splits agency vs orchestration, ties each rung to verification/evidence, and lists contracts, metrics, and anti-patterns.
 - [addy-osmani-agent-skills-open-source.md](/processed/addy-osmani-agent-skills-open-source.md) — *bookmark* — Granite0x highlights Addy Osmani open-sourcing his personal Claude agent-skills repo (MIT, drop-in loadout)—harness/wrapper over raw model choice.
 - [agent-evals-practical-guide.md](/processed/agent-evals-practical-guide.md) — *bookmark* — Agent Evals — Practical Guide to Measuring Agents in Production
 - [agent-harness-engineering-agentforge.md](/processed/agent-harness-engineering-agentforge.md) — *bookmark* — Building AgentForge — an agent harness from scratch in Python — taught that an agent is not a model but a runtime. The model is ~20% of the engineering. The other 80% is the harness: action space, approval policy, obs...

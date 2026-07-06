@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-06
 
+- Ingest: Addy Osmani autonomy ladder (addyosmani 2072885435312042327)
+
+## 2026-07-06
+
 - Ingest: Silent degradation verification (vladic_eth 2073723103629222127)
 
 ## 2026-07-06

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 862 unique tags across 359 processed notes.
+> 862 unique tags across 360 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,11 +27,12 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (57)
+### agent-harness (58)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -111,9 +112,10 @@
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (24)
+### agent-ops (25)
 
 - [[21-agent-building-mistakes]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-evals-practical-guide]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -148,7 +150,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (157)
+### agents (158)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -161,6 +163,7 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
 - [[Non-Obvious Agent Projects]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-evals-practical-guide]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -475,7 +478,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (74)
+### claude-code (75)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -483,6 +486,7 @@
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-memory-landscape-2026]]
@@ -575,9 +579,10 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (11)
+### codex (12)
 
 - [[50-mcp-servers-guide]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-memory-landscape-2026]]
 - [[coding-agent-harness-eight-pillars]]
 - [[every-agentic-engineering-hack-june-2026]]
@@ -889,9 +894,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (10)
+### loop-engineering (11)
 
 - [[9-step-loop-claude-code-senior-engineer]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[human-in-the-loop-agent-loops]]
@@ -1096,11 +1102,12 @@
 - [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### orchestration (23)
+### orchestration (24)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Dynamic Workflows in Claude Code]]
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-swarms-production-governance]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1555,8 +1562,9 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (12)
+### verification (13)
 
+- [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
