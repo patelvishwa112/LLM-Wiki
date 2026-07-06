@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-06
 
+- Ingest: Silent degradation verification (vladic_eth 2073723103629222127)
+
+## 2026-07-06
+
 - Ingest: DAIR.AI ten papers roundup (dair_ai 2073814128888549810)
 
 ## 2026-07-05

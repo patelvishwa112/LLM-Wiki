@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 862 unique tags across 358 processed notes.
+> 862 unique tags across 359 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (56)
+### agent-harness (57)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -37,6 +37,7 @@
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-harness-should-repair-itself]]
 - [[agent-swarms-production-governance]]
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -110,11 +111,12 @@
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (23)
+### agent-ops (24)
 
 - [[21-agent-building-mistakes]]
 - [[agent-evals-practical-guide]]
 - [[agent-harness-engineering-agentforge]]
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[ai-agent-loop-architecture-buinevici]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
@@ -146,7 +148,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (156)
+### agents (157)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -167,6 +169,7 @@
 - [[agent-memory-landscape-2026]]
 - [[agent-native-career-advice-philhchen]]
 - [[agent-swarms-production-governance]]
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agentic-misalignment]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-agent-loop-architecture-buinevici]]
@@ -472,7 +475,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (73)
+### claude-code (74)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -483,6 +486,7 @@
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-memory-landscape-2026]]
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-native-engineering-org]]
 - [[ai-survival-guide-ikea-style]]
@@ -685,10 +689,11 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (19)
+### evals (20)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[anthropic-self-service-analytics-claude]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[coderabbit-claude-agent-orchestration]]
@@ -1160,8 +1165,9 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (34)
+### productivity (35)
 
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-content-system-framework]]
 - [[ai-native-engineering-org]]
@@ -1549,8 +1555,9 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (11)
+### verification (12)
 
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -1900,8 +1907,9 @@
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[automate-writing-llm-prompts-dspy]]
 
-### dynamic-workflows (3)
+### dynamic-workflows (4)
 
+- [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]

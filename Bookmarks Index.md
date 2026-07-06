@@ -103,6 +103,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]] — [Loop engineering: the skill that quietly ate prompt engineering](https://x.com/dunik_7/status/2071584492804784468) `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[human-in-the-loop-agent-loops]] — [Human in the /loop](https://x.com/ericzakariasson/status/2070493377267646797) `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, cursor, cloud-agents]`
+- [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[agents-behave-like-employees-six-shifts]] — [How to make AI agents behave like actual employees](https://x.com/zodchiii/status/2072630422358425719) `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[agent-swarms-production-governance]] — [Your Agent Isn't Slow. It's Doing 4 Jobs at Once](https://x.com/nyk_builderz/status/2070346338269819043) `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression]`
 - [[twenty-core-agent-concepts-sairahul1]] — [Twenty core ideas behind every AI agent](https://x.com/sairahul1/status/2069351848742629693) `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
@@ -198,6 +199,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
@@ -367,6 +369,7 @@
 - [[agent-memory-four-layer-stack-matthew-gunnin]] `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
 - [[agent-native-career-advice-philhchen]] `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[agent-swarms-production-governance]] `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression, coordination, cost-optimization]`
+- [[agent-workflows-silent-degradation-verification-vladic]] `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[agents-behave-like-employees-six-shifts]] `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
