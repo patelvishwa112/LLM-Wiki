@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 864 unique tags across 361 processed notes.
+> 867 unique tags across 362 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (58)
+### agent-harness (59)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -46,6 +46,7 @@
 - [[building-a-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
 - [[claude-md-12-rules-mikenevermiss]]
+- [[continual-learning-replit-agent-vibench]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
@@ -694,7 +695,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (20)
+### evals (21)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
@@ -702,6 +703,7 @@
 - [[anthropic-self-service-analytics-claude]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[coderabbit-claude-agent-orchestration]]
+- [[continual-learning-replit-agent-vibench]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
@@ -1054,9 +1056,10 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (10)
+### observability (11)
 
 - [[agent-harness-should-repair-itself]]
+- [[continual-learning-replit-agent-vibench]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
@@ -1821,8 +1824,9 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
-### continual-learning (2)
+### continual-learning (3)
 
+- [[continual-learning-replit-agent-vibench]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[quarq-agent-memory-architecture]]
 
@@ -2572,8 +2576,9 @@
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[universal-agent-thesis]]
 
-### self-improvement (3)
+### self-improvement (4)
 
+- [[continual-learning-replit-agent-vibench]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[sia-recursive-self-improving-agent]]
@@ -2717,9 +2722,10 @@
 - [[building-a-good-vertical-agent]]
 - [[building-good-vertical-agent]]
 
-### vibe-coding (2)
+### vibe-coding (3)
 
 - [[agent-native-career-advice-philhchen]]
+- [[continual-learning-replit-agent-vibench]]
 - [[ten-commandments-building-product-feitong-yang]]
 
 ### visualization (3)
@@ -3161,6 +3167,7 @@
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
+- **production-traces** — [[continual-learning-replit-agent-vibench]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
@@ -3182,6 +3189,7 @@
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
 - **renaissance-technologies** — [[jim-simons-medallion-quant-framework]]
 - **rendering-pipeline** — [[browser-internals-chromium-architecture]]
+- **replit** — [[continual-learning-replit-agent-vibench]]
 - **representation-learning** — [[joint-embedding-predictive-architecture-jepa]]
 - **requirements** — [[make-requirements-great]]
 - **research-agent** — [[research-agent-evidence-operator]]
@@ -3312,6 +3320,7 @@
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
 - **vercel** — [[leerob-x-post-2065469795529588940]]
+- **vibench** — [[continual-learning-replit-agent-vibench]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **vision** — [[how-to-actually-use-claude-fable-5]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 361 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 362 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -118,6 +118,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [colleague-skill-dot-skill.md](/processed/colleague-skill-dot-skill.md) — *bookmark* — COLLEAGUE.SKILL — dot-skill Paper from Shanghai AI Lab
 - [computer-use.md](/processed/computer-use.md) — *concept* — Computer Use
 - [constitutional-ai.md](/processed/constitutional-ai.md) — *concept* — Constitutional AI
+- [continual-learning-replit-agent-vibench.md](/processed/continual-learning-replit-agent-vibench.md) — *bookmark* — Replit continual learning without weight updates — harness and context layers, ViBench, A/B tests, Telescope clustering, and an autonomous improvement loop.
 - [continuous-batching-grpo-trl.md](/processed/continuous-batching-grpo-trl.md) — *concept* — Continuous Batching for GRPO Rollouts in TRL
 - [continuous-trace-intelligence-braintrust-topics.md](/processed/continuous-trace-intelligence-braintrust-topics.md) — *bookmark* — How Braintrust Made Continuous Trace Intelligence Possible at Scale
 - [curiosity-bayesian-bandit.md](/processed/curiosity-bayesian-bandit.md) — *note* — What Is Curiosity? A Bayesian Bandit Perspective

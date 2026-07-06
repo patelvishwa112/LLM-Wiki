@@ -83,6 +83,7 @@
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]] — [Using Claude to go Viral on X… (Mr. Beasts Framework)](https://x.com/mattepstein/status/2066664675542999369) `[claude, x, viral-content, mrbeast, content-creation, prompt-engineering, growth]`
 - [[every-agentic-engineering-hack-june-2026]] — [Every Agentic Engineering Hack I Know (June 2026)](https://x.com/mvanhorn/status/2061877533885473181) `[agentic-engineering, claude-code, codex, productivity]`
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
+- [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents at Replit](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, self-improvement]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
 - [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
 - [[hermes-agent-10x-faster-vault-index]] — [I Made My Hermes Agent 10x Faster Without Changing the Model](https://x.com/wandermist/status/2071930382581195105) `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
@@ -202,6 +203,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — Replit harness, ViBench, Telescope](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
@@ -212,6 +214,7 @@
 
 ### Evals
 
+- [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
 - [[article]] — [Article](https://x.com/AmarSVS/status/2051470760947159197)
 - [[new-anthropic-research-natural-language-autoencode]] — [New Anthropic research: Natural Language Autoencoders.](https://x.com/AnthropicAI/status/2052435436157452769)
 - [[article]] — [Article](https://x.com/MaximeRivest/status/2055293570119065875)
@@ -442,6 +445,7 @@
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
+- [[continual-learning-replit-agent-vibench]] `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[daily-dose-of-premium-content]] `[agents, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
