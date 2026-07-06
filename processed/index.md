@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 362 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 363 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -190,6 +190,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-build-first-ai-agent-claude-full-course.md](/processed/how-to-build-first-ai-agent-claude-full-course.md) — *bookmark* — How to Actually Build Your First AI Agent Using Claude (Full Course)
 - [how-to-build-your-own-llm-from-scratch-5-stage-pipeline.md](/processed/how-to-build-your-own-llm-from-scratch-5-stage-pipeline.md) — *bookmark* — A complete 5-stage pipeline for building a working LLM from scratch: data cleaning, BPE tokenization, decoder-only transformer training with next-token prediction, SFT + RLHF alignment, and evaluation with perplexity ...
 - [how-to-build-your-own-llm-from-scratch-in-5-stages.md](/processed/how-to-build-your-own-llm-from-scratch-in-5-stages.md) — *bookmark* — How to Build Your Own LLM From Scratch in 5 Stages
+- [how-to-create-loops-claude-code-sairahul1.md](/processed/how-to-create-loops-claude-code-sairahul1.md) — *bookmark* — Rahul (@sairahul1) on persistent Claude loops — six parts, four-file TASK/LOOP_INSTRUCTIONS/PROGRESS/outputs, verification, /loop vs /goal, permission ladder.
 - [how-to-design-a-loop-that-prompts-your-agent.md](/processed/how-to-design-a-loop-that-prompts-your-agent.md) — *bookmark* — Detailed blueprint for designing loops that prompt agents: 5 parts (define done, build context from state, act & capture, feedback, stop conditions). Full code pattern + common mistakes. The loop is the strategy; a pr...
 - [how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md](/processed/how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md) — *lecture* — Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier labs actually hire for: low-level kernel engineering for LLM runtime, research taste as a stochastic MDP skill, scaling laws intuition, d...
 - [how-to-give-your-agent-memory.md](/processed/how-to-give-your-agent-memory.md) — *bookmark* — LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub.

@@ -109,6 +109,7 @@
 - [[agents-behave-like-employees-six-shifts]] — [How to make AI agents behave like actual employees](https://x.com/zodchiii/status/2072630422358425719) `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[agent-swarms-production-governance]] — [Your Agent Isn't Slow. It's Doing 4 Jobs at Once](https://x.com/nyk_builderz/status/2070346338269819043) `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression]`
 - [[twenty-core-agent-concepts-sairahul1]] — [Twenty core ideas behind every AI agent](https://x.com/sairahul1/status/2069351848742629693) `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
+- [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
 
@@ -207,6 +208,7 @@
 - [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
+- [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
@@ -492,6 +494,7 @@
 - [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
+- [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`

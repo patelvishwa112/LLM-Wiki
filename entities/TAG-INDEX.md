@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 867 unique tags across 362 processed notes.
+> 867 unique tags across 363 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (59)
+### agent-harness (60)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -60,6 +60,7 @@
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
 - [[iii-agent-harness-workers]]
@@ -151,7 +152,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (158)
+### agents (159)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -239,6 +240,7 @@
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-give-your-agent-memory]]
 - [[how-to-read-company-ai-analyst]]
 - [[how-to-use-rlms-in-deep-agents]]
@@ -398,11 +400,12 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### automation (8)
+### automation (9)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[claude-cowork-14-day-guide]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
@@ -479,7 +482,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (75)
+### claude-code (76)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -527,6 +530,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
@@ -896,12 +900,13 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (11)
+### loop-engineering (12)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
@@ -1176,7 +1181,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (36)
+### productivity (37)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1202,6 +1207,7 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
 - [[hermes-goal-mode-guide]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[iceberg-opus-48-prompts]]
@@ -1568,7 +1574,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (13)
+### verification (14)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -1576,6 +1582,7 @@
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
