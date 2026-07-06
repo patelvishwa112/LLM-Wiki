@@ -56,6 +56,7 @@
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[self-learning-agents-three-layers-user-signal]] — [Self-learning agents: model, harness, context — learn from real users](https://x.com/ataiiam/status/2069797329809395978) `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
+- [[dair-ai-ten-papers-co-evolving-agents-verification]] — [DAIR.AI — 10 papers on agents, verification, MCP](https://x.com/dair_ai/status/2073814128888549810) `[papers, agents, evals, mcp, agent-memory, skills, verification, self-improvement, ml-research]`
 - [[multi-lora-training-osmosis]] — [Training Thousands of LoRA Adapters Concurrently](https://x.com/_weexiao/status/2061855508156563871)
 - [[540k-lines-i-didnt-need-garry-tan]] — [540,000 Lines of Code I Didn't Need — Garry Tan](https://x.com/garrytan/status/2061454423034110372)
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
@@ -158,6 +159,7 @@
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 - [[kaplan-scaling-laws-bug-chinchilla]] — [Scaling laws honestly — Kaplan bug and Chinchilla](https://x.com/completeskeptic/status/2073442518117884197) `[training, scaling-laws, chinchilla, pretraining, ml-research, openai, deepmind]`
+- [[dair-ai-ten-papers-co-evolving-agents-verification]] — [DAIR.AI — 10 papers on agents, verification, MCP](https://x.com/dair_ai/status/2073814128888549810) `[papers, agents, evals, mcp, agent-memory, skills, verification, self-improvement, ml-research]`
 
 ### Coding Tools
 
@@ -435,6 +437,7 @@
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[david-ogilvy-writing-coach-claude-skill]] `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
+- [[dair-ai-ten-papers-co-evolving-agents-verification]] `[papers, agents, evals, mcp, agent-memory, skills, verification, self-improvement, ml-research]`
 - [[deep-agents-prompt-caching]] `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents, observability, inference, token-economy]`
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`

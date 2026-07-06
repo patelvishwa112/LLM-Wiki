@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 862 unique tags across 357 processed notes.
+> 862 unique tags across 358 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -94,12 +94,13 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (12)
+### agent-memory (13)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[autobrowse-browser-agent-memory]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graph-memory-reconstruction-llms]]
 - [[graphiti-knowledge-graph-agent-memory]]
@@ -145,7 +146,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (155)
+### agents (156)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -200,6 +201,7 @@
 - [[colleague-skill-dot-skill]]
 - [[computer-use]]
 - [[continuous-trace-intelligence-braintrust-topics]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[deep-agents-prompt-caching]]
 - [[design-good-ml-experiments-grigorev]]
 - [[dynamic-workflows-where-plan-lives]]
@@ -683,13 +685,14 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (18)
+### evals (19)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
 - [[anthropic-self-service-analytics-claude]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[coderabbit-claude-agent-orchestration]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[evals-strategic-ip-garrettlord]]
@@ -913,7 +916,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (31)
+### mcp (32)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -929,6 +932,7 @@
 - [[claude-hidden-features-guide]]
 - [[claude-managed-agents]]
 - [[code-w-claude-london-2026]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[generative-ui-is-the-new-frontend]]
 - [[harness-is-the-product-280k]]
@@ -981,10 +985,11 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
 
-### ml-research (7)
+### ml-research (8)
 
 - [[0xsojalsec-llms-local]]
 - [[aiedge-glm-5.2-guide]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[design-good-ml-experiments-grigorev]]
 - [[encoder-free-models-bitter-lesson]]
 - [[how-to-be-good-at-research]]
@@ -1111,6 +1116,14 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
+
+### papers (5)
+
+- [[10-hall-of-fame-engineering-papers]]
+- [[adapad-lora-parallel-deflation]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[general-intelligence-rethinking-exploration-2022]]
+- [[sub-agents-inference-time-scaling]]
 
 ### pm (8)
 
@@ -1363,7 +1376,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### skills (50)
+### skills (51)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1388,6 +1401,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[colleague-skill-dot-skill]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -1535,9 +1549,10 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (10)
+### verification (11)
 
 - [[claude-code-changed-what-agents-look-like]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[human-in-the-loop-agent-loops]]
@@ -2274,13 +2289,6 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 
-### papers (4)
-
-- [[10-hall-of-fame-engineering-papers]]
-- [[adapad-lora-parallel-deflation]]
-- [[general-intelligence-rethinking-exploration-2022]]
-- [[sub-agents-inference-time-scaling]]
-
 ### parallelism (3)
 
 - [[claude-code-dynamic-workflows-intro]]
@@ -2530,8 +2538,9 @@
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[universal-agent-thesis]]
 
-### self-improvement (2)
+### self-improvement (3)
 
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[sia-recursive-self-improving-agent]]
 

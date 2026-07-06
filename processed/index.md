@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 357 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 358 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -119,6 +119,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [continuous-batching-grpo-trl.md](/processed/continuous-batching-grpo-trl.md) — *concept* — Continuous Batching for GRPO Rollouts in TRL
 - [continuous-trace-intelligence-braintrust-topics.md](/processed/continuous-trace-intelligence-braintrust-topics.md) — *bookmark* — How Braintrust Made Continuous Trace Intelligence Possible at Scale
 - [curiosity-bayesian-bandit.md](/processed/curiosity-bayesian-bandit.md) — *note* — What Is Curiosity? A Bayesian Bandit Perspective
+- [dair-ai-ten-papers-co-evolving-agents-verification.md](/processed/dair-ai-ten-papers-co-evolving-agents-verification.md) — *bookmark* — DAIR.AI roundup of ten papers on co-evolving agents and evaluators, MCP server patterns, verification horizons, skill composition, metamemory, and scalable paper review.
 - [daleverett-polygress-agent-era.md](/processed/daleverett-polygress-agent-era.md) — *bookmark* — Polygress: Postgres for the Agent era
 - [david-ogilvy-writing-coach-claude-skill.md](/processed/david-ogilvy-writing-coach-claude-skill.md) — *bookmark* — Nicolas Cole breaks down David Ogilvy's 1982 ten-rule writing memo and ships a Claude Skill that audits copy by severity with concrete fixes—not vague 'tighten it up' feedback.
 - [dear-lord-no-wonder-evals-are-a-mess.md](/processed/dear-lord-no-wonder-evals-are-a-mess.md) — *bookmark* — dear lord no wonder evals are a mess

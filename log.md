@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-06
+
+- Ingest: DAIR.AI ten papers roundup (dair_ai 2073814128888549810)
+
 ## 2026-07-05
 
 - Ingest: Addy Osmani agent-skills open source (granite0x 2073540259208700311)
