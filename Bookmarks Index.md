@@ -161,6 +161,7 @@
 - [[torch-internals-part1-fx-graphs]] — [Torch Internals (Part 1) - FX Graphs](https://x.com/jino_rohit/status/2071247775837356399) `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[ai-engineering-roadmap-2026-from-scratch]] — [The 2026 AI Engineering Roadmap — Build It From Scratch](https://x.com/ghumare64/status/2063574610889560271) `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] — [How To Become An AI Engineer in 2026 (Without a CS Degree)](https://x.com/cyrilxbt/status/2071604212912246899) `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
@@ -317,6 +318,7 @@
 - [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[agent-native-career-advice-philhchen]] — [Career skills in the agent-native era](https://x.com/philhchen/status/2072793818945167475) `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
@@ -520,6 +522,7 @@
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] `[papers]`
 - [[kaplan-scaling-laws-bug-chinchilla]] `[training, scaling-laws, chinchilla, pretraining, ml-research, openai, deepmind]`
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] `[productivity, papers]`
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]] `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[kirillkweb3]] `[agents]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`

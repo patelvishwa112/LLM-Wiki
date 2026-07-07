@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 365 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 366 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -217,6 +217,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [jp-morgan-quant-python-training.md](/processed/jp-morgan-quant-python-training.md) — *bookmark* — J.P. Morgan Free Quant Python Training — Zero to Quant
 - [kaplan-scaling-laws-bug-chinchilla.md](/processed/kaplan-scaling-laws-bug-chinchilla.md) — *bookmark* — Former OpenAI researcher argues Kaplan et al. scaling laws were wrong due to fixed token budgets plus cosine LR decay to zero—not parameter counting alone—so the field over-sized models for years; Chinchilla is the ri...
 - [karpathy-autoresearch-marketing-optimization.md](/processed/karpathy-autoresearch-marketing-optimization.md) — *bookmark* — Karpathy AutoResearch for Marketing Optimization
+- [keeping-up-ai-skills-job-listings-loganthorneloe.md](/processed/keeping-up-ai-skills-job-listings-loganthorneloe.md) — *bookmark* — Logan Thorneloe on sourcing durable AI skills from job qualifications, curated RSS + agent filter, X/Substack, and interest-aligned depth.
 - [kimi-k2.6-agent-swarm-300-parallel-agents.md](/processed/kimi-k2.6-agent-swarm-300-parallel-agents.md) — *article* — Kimi K2.6: 300 Parallel Agents in One Run
 - [knowledge-distillation-theturingpost.md](/processed/knowledge-distillation-theturingpost.md) — *bookmark* — "@TheTuringPost explains Knowledge Distillation (KD) as a core technique for creating smaller, capable models. Instead of training from scratch, a large teacher model transfers 'dark knowledge' (confidence distributio...
 - [knowledge-system-compounding-obsidian-vellum.md](/processed/knowledge-system-compounding-obsidian-vellum.md) — *bookmark* — Knowledge System That Compounds

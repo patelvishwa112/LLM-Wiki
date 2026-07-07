@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-07
 
+- Ingest: Keeping up with AI skills (loganthorneloe 2074246640999731513)
+
+## 2026-07-07
+
 - Ingest: Making an AI Agent Production-Ready (sarthakai Substack)
 
 ## 2026-07-07

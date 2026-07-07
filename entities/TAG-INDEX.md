@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 874 unique tags across 365 processed notes.
+> 877 unique tags across 366 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -153,7 +153,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (160)
+### agents (161)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -251,6 +251,7 @@
 - [[iii-agent-harness-workers]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[karpathy-autoresearch-marketing-optimization]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[langchain-langgraph-101-repo]]
 - [[learn-harness-engineering]]
@@ -431,7 +432,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (12)
+### career (13)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -441,6 +442,7 @@
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-research]]
 - [[jp-morgan-quant-python-training]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - [[mid-career-dissatisfaction]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[units-of-time-alfred-lin]]
@@ -891,6 +893,14 @@
 - [[how-to-give-your-agent-memory]]
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+
+### learning (5)
+
+- [[career-guide-early-twenties-optimize-for-learning]]
+- [[how-to-be-good-at-ai-research]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
+- [[learn-anything-3x-faster-claude-9-study-systems]]
+- [[llm-engineering-projects-roadmap-2026]]
 
 ### llm (19)
 
@@ -1698,11 +1708,12 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
-### ai-engineering (3)
+### ai-engineering (4)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
 ### ai-research (4)
 
@@ -2141,11 +2152,12 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
 
-### hiring (3)
+### hiring (4)
 
 - [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[anthropic-engineering-hiring-resumes]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
 ### hooks (3)
 
@@ -2205,13 +2217,6 @@
 
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[vscode-copilot-token-efficiency]]
-
-### learning (4)
-
-- [[career-guide-early-twenties-optimize-for-learning]]
-- [[how-to-be-good-at-ai-research]]
-- [[learn-anything-3x-faster-claude-9-study-systems]]
-- [[llm-engineering-projects-roadmap-2026]]
 
 ### llm-engineering (2)
 
@@ -3050,6 +3055,7 @@
 - **javascript-engine** — [[browser-internals-chromium-architecture]]
 - **jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
+- **job-search** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
 - **karpathy** — [[living-wiki-second-brain-hermes-leopardracer]]
@@ -3125,6 +3131,7 @@
 - **networking** — [[browser-internals-chromium-architecture]]
 - **neural-network** — [[jim-simons-medallion-quant-framework]]
 - **neuroscience** — [[anthropic-global-workspace-j-space]]
+- **newsletter** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - **night-shift** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
 - **nla** — [[anthropic-natural-language-autoencoders]]
@@ -3239,6 +3246,7 @@
 - **rollouts** — [[continuous-batching-grpo-trl]]
 - **routing** — [[sakana-fugu-orchestrator-models]]
 - **rsi** — [[sia-recursive-self-improving-agent]]
+- **rss** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - **rubrics** — [[evals-strategic-ip-garrettlord]]
 - **sabotage** — [[deceptive-alignment]]
 - **sac** — [[rethinking-search-as-code-generation]]
