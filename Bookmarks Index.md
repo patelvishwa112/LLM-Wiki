@@ -127,6 +127,7 @@
 - [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
 - [[secure-automated-learning-loops-modal-claude-code]] — [How we built secure automated learning loops in Modal and Claude Code](https://x.com/oliviersm199/status/2069790892530016547) `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[designing-loops-with-fable-5]] — [Designing loops with Fable 5](https://x.com/RLanceMartin/status/2064397389189071163) `[anthropic, fable-5, claude, agents, loops, self-correction, memory, continual-learning]`
+- [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 
 ### Ai Ml
 
@@ -212,6 +213,7 @@
 - [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
+- [[hundred-x-agentic-engineer-preferences-systematicls]] — [100x agentic engineer — declarative vs imperative preferences](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, preferences, prompt-engineering, skills]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
@@ -494,6 +496,7 @@
 - [[hermes-seven-skills-cobi-bean]] `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, mermaid, meta-skills, superpowers]`
 - [[human-in-the-loop-agent-loops]] `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, productivity, cursor, cloud-agents, multi-agent]`
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
+- [[hundred-x-agentic-engineer-preferences-systematicls]] `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`

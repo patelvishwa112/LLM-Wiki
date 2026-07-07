@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 877 unique tags across 366 processed notes.
+> 878 unique tags across 367 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (61)
+### agent-harness (62)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -63,6 +63,7 @@
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iii-agent-harness-workers]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[leopardracer-ai-workflows-prompts]]
@@ -153,7 +154,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (161)
+### agents (162)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -247,6 +248,7 @@
 - [[how-to-use-rlms-in-deep-agents]]
 - [[how-vllm-works-amitiitbhu]]
 - [[human-in-the-loop-agent-loops]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iceberg-opus-48-prompts]]
 - [[iii-agent-harness-workers]]
 - [[introducing-dynamic-subagents-deep-agents]]
@@ -729,6 +731,14 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 
+### fable-5 (5)
+
+- [[designing-loops-with-fable-5]]
+- [[fable-5-mythos-prompting-masterclass]]
+- [[fable-5-system-prompt]]
+- [[how-to-actually-use-claude-fable-5]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
+
 ### finance (6)
 
 - [[anthropic-finance-claude-cowork]]
@@ -769,6 +779,14 @@
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
+
+### harness-engineering (5)
+
+- [[Agent Systems and Context Engineering Projects 2026]]
+- [[dive-into-claude-code-vila-lab]]
+- [[harness-engineering-2026-discipline]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
+- [[learn-harness-engineering]]
 
 ### hermes (19)
 
@@ -1208,7 +1226,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (37)
+### productivity (38)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1237,6 +1255,7 @@
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[human-nature-meta-skill-dan-koe]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iceberg-opus-48-prompts]]
 - [[ideacide-eleven-filters-drurly]]
 - [[mcp-server-workflow-problems]]
@@ -1256,7 +1275,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (30)
+### prompt-engineering (31)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1275,6 +1294,7 @@
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iceberg-opus-48-prompts]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-engineering-clearly-explained]]
@@ -1429,7 +1449,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### skills (51)
+### skills (52)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1462,6 +1482,7 @@
 - [[hermes-kanban-mission-control]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[llms-securing-source-code]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -1686,6 +1707,11 @@
 
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
+
+### agentic-engineering (2)
+
+- [[every-agentic-engineering-hack-june-2026]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
 
 ### agents-md (2)
 
@@ -2038,13 +2064,6 @@
 - [[curiosity-bayesian-bandit]]
 - [[general-intelligence-rethinking-exploration-2022]]
 
-### fable-5 (4)
-
-- [[designing-loops-with-fable-5]]
-- [[fable-5-mythos-prompting-masterclass]]
-- [[fable-5-system-prompt]]
-- [[how-to-actually-use-claude-fable-5]]
-
 ### faiss (2)
 
 - [[how-vector-database-works]]
@@ -2139,13 +2158,6 @@
 
 - [[coding-agent-harness-eight-pillars]]
 - [[harness-is-the-product-context-aware-agents]]
-
-### harness-engineering (4)
-
-- [[Agent Systems and Context Engineering Projects 2026]]
-- [[dive-into-claude-code-vila-lab]]
-- [[harness-engineering-2026-discipline]]
-- [[learn-harness-engineering]]
 
 ### hermes-agent (2)
 
@@ -2822,7 +2834,6 @@
 - **agent-templates** — [[pm-as-context-compressor]]
 - **agent-training** — [[continuous-batching-grpo-trl]]
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
-- **agentic-engineering** — [[every-agentic-engineering-hack-june-2026]]
 - **agentic-misalignment** — [[agentic-misalignment]]
 - **agentic-workflows** — [[mlx-engine-v185-kv-cache-agentic]]
 - **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
@@ -3193,6 +3204,7 @@
 - **prd-review** — [[make-requirements-great]]
 - **pre-training** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **prediction-markets** — [[markov-chains-polymarket-trading]]
+- **preferences** — [[hundred-x-agentic-engineer-preferences-systematicls]]
 - **prefill** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **presets** — [[spec-kit-github-sdd]]
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 366 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 367 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -203,6 +203,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [huggingface-model-architecture-visualizer.md](/processed/huggingface-model-architecture-visualizer.md) — *bookmark* — HuggingFace Model Architecture Visualizer — hfviewer.com
 - [human-in-the-loop-agent-loops.md](/processed/human-in-the-loop-agent-loops.md) — *bookmark* — Eric Zakariasson (Cursor): long agent tasks need a scorable definition of done (eval score, tests, Playwright QA, p95, validation counts), a /loop with explicit stop conditions, /notify via MCP (Slack) for human-in-th...
 - [human-nature-meta-skill-dan-koe.md](/processed/human-nature-meta-skill-dan-koe.md) — *bookmark* — Dan Koe argues human nature is the timeless meta-skill that amplifies any technical craft via story, three tensions, and five persuasion levers.
+- [hundred-x-agentic-engineer-preferences-systematicls.md](/processed/hundred-x-agentic-engineer-preferences-systematicls.md) — *bookmark* — sysls (@systematicls) on 100x agentic engineers — human bottleneck, declarative vs imperative and strategic vs tactical preferences, taste and harness vocabulary.
 - [iceberg-opus-48-prompts.md](/processed/iceberg-opus-48-prompts.md) — *bookmark* — Iceberg: The Prompts That Unleash Opus 4.8
 - [ideacide-eleven-filters-drurly.md](/processed/ideacide-eleven-filters-drurly.md) — *bookmark* — Dru Riley’s Ideacide checklist — 11 filters (personal use, Seven Powers, counter-positioning, portfolio fit, demand signal) to kill weak business ideas before they consume years.
 - [iii-agent-harness-workers.md](/processed/iii-agent-harness-workers.md) — *bookmark* — How to Build Your Own Agent Harness
