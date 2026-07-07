@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 878 unique tags across 368 processed notes.
+> 879 unique tags across 369 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (63)
+### agent-harness (64)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -88,6 +88,7 @@
 - [[two-tracks-not-ten-agents]]
 - [[universal-agent-thesis]]
 - [[vscode-copilot-token-efficiency]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
 - [[your-agent-harness-should-repair-itself]]
@@ -490,7 +491,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (76)
+### claude-code (77)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -564,6 +565,7 @@
 - [[the-full-loop-in-code]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[voxyz-ai-10-lessons-agents-md]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
@@ -607,7 +609,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (10)
+### coding-tools (11)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[claude-code-slash-command-library]]
@@ -619,6 +621,7 @@
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
 - [[spec-kit-github-sdd]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### constitutional-ai (5)
 
@@ -707,7 +710,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (23)
+### evals (24)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
@@ -732,6 +735,7 @@
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### fable-5 (5)
 
@@ -1281,7 +1285,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (31)
+### prompt-engineering (32)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1314,6 +1318,7 @@
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[vscode-copilot-token-efficiency]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### rag (11)
 
@@ -1455,7 +1460,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### skills (52)
+### skills (53)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1506,6 +1511,7 @@
 - [[self-learning-agents-three-layers-user-signal]]
 - [[skill-solo-millionaires-ai-era]]
 - [[spec-kit-github-sdd]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
@@ -1776,6 +1782,11 @@
 
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
+
+### arize (2)
+
+- [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### async-rl (2)
 
@@ -2470,10 +2481,11 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[improving-agents-data-mining-traces]]
 
-### progressive-disclosure (2)
+### progressive-disclosure (3)
 
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### project-ideas (2)
 
@@ -2872,7 +2884,6 @@
 - **apple-silicon** — [[mlx-engine-v185-kv-cache-agentic]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **approvals** — [[agents-behave-like-employees-six-shifts]]
-- **arize** — [[four-loops-ai-engineering-taxonomy-aparna]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **assistants** — [[virtual-filesystem-for-agent-assistants]]
@@ -3317,6 +3328,7 @@
 - **six-figure-skills** — [[5-ai-skills-six-figures-2027]]
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
+- **skillsbench** — [[writing-good-skills-measured-rulebook-aparna]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]

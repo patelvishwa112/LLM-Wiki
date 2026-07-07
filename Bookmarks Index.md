@@ -100,6 +100,7 @@
 - [[anthropic-global-workspace-j-space]] — [A global workspace in language models (J-space)](https://www.anthropic.com/research/global-workspace) `[mechanistic-interpretability, interpretability, anthropic, global-workspace, j-space, safety, monitoring, consciousness]`
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
+- [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] — [Your AI's Memory Is Quietly Making It Dumber (I Cut Mine to 6 Files)](https://x.com/mvanhorn/status/2070966613994795489) `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
@@ -190,6 +191,7 @@
 - [[notes-on-foundation-models]] — [Notes on Foundation Models](https://x.com/bqbrady/status/2064055370809778371) `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion]`
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
+- [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now. (SkillsBench)](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, coding-tools]`
 - [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
@@ -632,6 +634,7 @@
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
 - [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
+- [[writing-good-skills-measured-rulebook-aparna]] `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering, coding-tools]`
 - [[wtf-is-a-loop]] `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`

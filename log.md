@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-07
 
+- Ingest: How do you write a good skill? (aparnadhinak 2074569427346174039)
+
+## 2026-07-07
+
 - Ingest: Improving Agents is a Data Mining Problem (vtrivedy10 2074509344155066517)
 
 ## 2026-07-07

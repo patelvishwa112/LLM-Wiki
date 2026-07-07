@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 368 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 369 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -365,6 +365,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [why-layout-matters-document-processing.md](/processed/why-layout-matters-document-processing.md) — *bookmark* — Why Layout Matters in a Document Processing Pipeline
 - [why-on-policy-distillation-works.md](/processed/why-on-policy-distillation-works.md) — *concept* — Why On-Policy Distillation Works and Naive Self-Distillation Doesn't
 - [world-models-agent-imagination.md](/processed/world-models-agent-imagination.md) — *bookmark* — World Models — Can Agents Learn Inside Their Own Dreams?
+- [writing-good-skills-measured-rulebook-aparna.md](/processed/writing-good-skills-measured-rulebook-aparna.md) — *bookmark* — Aparna Dhinakaran + @seldo — five measured rules for writing agent skills (SkillsBench, SkillComposer); expert-authored, focused, routed, per-harness, weak-domain eval loops.
 - [wtf-is-a-loop-part-2-15-loops-ai-agents.md](/processed/wtf-is-a-loop-part-2-15-loops-ai-agents.md) — *bookmark* — WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running
 - [wtf-is-a-loop-peter-steinberger-boris-cherny.md](/processed/wtf-is-a-loop-peter-steinberger-boris-cherny.md) — *bookmark* — Synthesis of the 'design loops that prompt your agents' discourse: loops are cron + decision-maker; lineage ReAct → ralph → /goal → multi-agent supervision; the loop is only as good as its feedback/verification; the e...
 - [wtf-is-a-loop.md](/processed/wtf-is-a-loop.md) — *bookmark* — A deep analysis of AI coding loops: what they are, their 5-year lineage from ReAct to orchestration, why the loop (not the model) is now the expensive part, and how skills inside loops create compounding systems.
