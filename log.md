@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-07
 
+- Ingest: How to Distill a $10M+ AI Researcher (jiachenliu8 2074558254328455577)
+
+## 2026-07-07
+
+- Ingest: How to become an applied AI engineer (eyad_khrais 2074519552277336571)
+
+## 2026-07-07
+
 - Ingest: How do you write a good skill? (aparnadhinak 2074569427346174039)
 
 ## 2026-07-07

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 369 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 371 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -185,6 +185,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-automate-disaster-recovery-with-agents.md](/processed/how-to-automate-disaster-recovery-with-agents.md) — *bookmark* — Production disaster-recovery automation: two independent backups (PITR + off-site dump), agent-executed playbook with safety gates, instant maintenance mode, non-destructive validation + live destructive drill. 8-minu...
 - [how-to-be-good-at-ai-research.md](/processed/how-to-be-good-at-ai-research.md) — *bookmark* — AdiiX argues that most people trying to get good at AI research optimize the wrong variable — they try to 'know more' instead of developing better research systems and filters for the firehose of information.
 - [how-to-be-good-at-research.md](/processed/how-to-be-good-at-research.md) — *bookmark* — High-signal guide to research: pick your own problems, upgrade inputs (old material + range), write everything down (Feynman's rule + Darwin's habit), tighten the loop (tooling + volume), stare at outputs (data + fail...
+- [how-to-become-applied-ai-engineer-eyad-khrais.md](/processed/how-to-become-applied-ai-engineer-eyad-khrais.md) — *bookmark* — Eyad Khrais — SWE→applied AI path: probabilistic systems, outcome+trajectory evals, harness layers, multi-agent as distributed systems (single-writer, idempotency, preconditions).
 - [how-to-build-agent-that-never-forgets.md](/processed/how-to-build-agent-that-never-forgets.md) — *bookmark* — How to Build an Agent That Never Forgets
 - [how-to-build-ai-agent-swarms.md](/processed/how-to-build-ai-agent-swarms.md) — *bookmark* — How to Build AI Agent Swarms (Complete Guide)
 - [how-to-build-custom-agent-harness-langchain.md](/processed/how-to-build-custom-agent-harness-langchain.md) — *bookmark* — LangChain guide—agent = model + harness; customize via create_agent middleware hooks (memory, subagents, retries, HITL, cost limits) for task-harness fit.
@@ -300,6 +301,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [recursive-self-improvement-ai-101.md](/processed/recursive-self-improvement-ai-101.md) — *bookmark* — AI 101: What is Recursive Self-Improvement?
 - [red-teaming.md](/processed/red-teaming.md) — *concept* — Red Teaming
 - [research-agent-evidence-operator.md](/processed/research-agent-evidence-operator.md) — *bookmark* — The Research Agent — Evidence Operator
+- [research-world-model-distill-ai-researcher-amber-liu.md](/processed/research-world-model-distill-ai-researcher-amber-liu.md) — *bookmark* — Amber Liu — research intuition as compressed process traces; Research World Model externalizes exploration (ARC-AGI-3 ls20: 5000+ steps vs 63 with archive).
 - [responsible-scaling-policy.md](/processed/responsible-scaling-policy.md) — *concept* — Responsible Scaling Policy (RSP)
 - [rethinking-search-as-code-generation.md](/processed/rethinking-search-as-code-generation.md) — *article* — Rethinking Search as Code Generation
 - [reward-hacking-and-tampering.md](/processed/reward-hacking-and-tampering.md) — *concept* — Reward Hacking and Tampering

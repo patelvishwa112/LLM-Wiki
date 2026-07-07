@@ -41,6 +41,7 @@
 - [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[knowledge-system-compounding-obsidian-vellum]] — [Knowledge System That Compounds — Obsidian + Vellum](https://x.com/_0xpainn/status/2061014710984511916)
 - [[research-agent-evidence-operator]] — [The Research Agent — Evidence Operator That Compounds](https://x.com/gkisokay/status/2051275483996909982)
+- [[research-world-model-distill-ai-researcher-amber-liu]] — [How to Distill a $10M+ AI Researcher — process traces & world model](https://x.com/jiachenliu8/status/2074558254328455577) `[ai-research, research-world-model, agents, knowledge-graph, arc-agi, claude-code]`
 - [[agent-memory-landscape-2026]] — [Agent Memory Landscape 2026 — Every Harness, Every Gap](https://x.com/mem0ai/status/2061822612398014782)
 - [[gbrain-markdown-git-brain-mem0]] — [A Brain in a Git Repo: How GBrain Works](https://x.com/mem0ai/status/2070541048527609885) `[agents, agent-memory, mem0, gbrain, knowledge-graph, wikilinks, rag, openclaw, hermes]`
 - [[agent-memory-four-layer-stack-matthew-gunnin]] — [Four-layer agent memory stack (Ella/Lyra)](https://x.com/matthewgunnin/status/2072772100973007203) `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
@@ -78,8 +79,10 @@
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
 - [[fault-tolerance-langgraph-retries-timeouts]] — [Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers](https://x.com/sydneyrunkle/status/2062588423295111208) `[agents, langgraph, fault-tolerance, production]`
 - [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
+- [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer — evals, harness, multi-agent DS](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems]`
 - [[2-ways-self-evolving-agents-model-harness]] — [2 Ways towards Self-Evolving Agents](https://x.com/qinzytech/status/2066585405479371092) `[agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]`
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
+- [[research-world-model-distill-ai-researcher-amber-liu]] — [How to Distill a $10M+ AI Researcher — Research World Model](https://x.com/jiachenliu8/status/2074558254328455577) `[ai-research, research-world-model, agents, knowledge-graph, arc-agi, claude-code, career]`
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]] — [Verifiability constraint — RLVR and unverifiable domains](https://x.com/tanayj/status/2072766211256119475) `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
 - [[universal-agent-thesis]] — [Universal AgentThesis](https://x.com/cobusgreylingza/status/2066593705906012188) `[agents, agent-harness, self-evolving-agents, tool-use, autonomy, architecture]`
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]] — [Using Claude to go Viral on X… (Mr. Beasts Framework)](https://x.com/mattepstein/status/2066664675542999369) `[claude, x, viral-content, mrbeast, content-creation, prompt-engineering, growth]`
@@ -211,6 +214,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
 - [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — Replit harness, ViBench, Telescope](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`
@@ -227,6 +231,7 @@
 ### Evals
 
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
+- [[how-to-become-applied-ai-engineer-eyad-khrais]] — [Applied AI engineer guide — outcome vs trajectory evals](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, evals, trajectory-grading, agent-harness, career]`
 - [[article]] — [Article](https://x.com/AmarSVS/status/2051470760947159197)
 - [[new-anthropic-research-natural-language-autoencode]] — [New Anthropic research: Natural Language Autoencoders.](https://x.com/AnthropicAI/status/2052435436157452769)
 - [[article]] — [Article](https://x.com/MaximeRivest/status/2055293570119065875)
@@ -502,6 +507,7 @@
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
+- [[how-to-become-applied-ai-engineer-eyad-khrais]] `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems, trajectory-grading]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
@@ -592,6 +598,7 @@
 - [[ramplabs]] `[ai-ml]`
 - [[rawworks]] `[evals, papers]`
 - [[research-agent-evidence-operator]] `[research-agent, agents, evidence, vault, compounding]`
+- [[research-world-model-distill-ai-researcher-amber-liu]] `[ai-research, research-world-model, agent-harness, agents, knowledge-graph, arc-agi, claude-code, career]`
 - [[rethinking-search-as-code-generation]] `[agents, search, architecture, sac]`
 - [[ridarketh]] `[ai-ml]`
 - [[rl-algo-comprehensive-qa]] `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`

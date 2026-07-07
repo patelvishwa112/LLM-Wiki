@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 879 unique tags across 369 processed notes.
+> 883 unique tags across 371 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (64)
+### agent-harness (66)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -58,6 +58,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -76,6 +77,7 @@
 - [[open-knowledge-format-okf-google]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
+- [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
@@ -156,7 +158,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (162)
+### agents (164)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -240,6 +242,7 @@
 - [[hermes-kanban-mission-control]]
 - [[hiiinternet-x-post]]
 - [[how-to-automate-disaster-recovery-with-agents]]
+- [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-custom-agent-harness-langchain]]
@@ -290,6 +293,7 @@
 - [[production-rag-agents-technmak]]
 - [[recursive-self-improvement-ai-101]]
 - [[research-agent-evidence-operator]]
+- [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
@@ -320,6 +324,14 @@
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
+
+### ai-research (5)
+
+- [[how-to-be-good-at-ai-research]]
+- [[recursive-self-improvement-ai-101]]
+- [[research-world-model-distill-ai-researcher-amber-liu]]
+- [[verifiability-constraint-rlvr-unverifiable-tanayj]]
+- [[zen-and-the-art-of-ai-research]]
 
 ### alignment (19)
 
@@ -436,7 +448,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (13)
+### career (15)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -445,10 +457,12 @@
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-research]]
+- [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[jp-morgan-quant-python-training]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - [[mid-career-dissatisfaction]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
@@ -491,7 +505,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (77)
+### claude-code (78)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -558,6 +572,7 @@
 - [[opus-48-token-economy-guide]]
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
+- [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
@@ -710,7 +725,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (24)
+### evals (25)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
@@ -727,6 +742,7 @@
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
+- [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
 - [[improving-agents-data-mining-traces]]
@@ -786,11 +802,12 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (6)
+### harness-engineering (7)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
 - [[harness-engineering-2026-discipline]]
+- [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
@@ -878,12 +895,13 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
-### knowledge-graph (6)
+### knowledge-graph (7)
 
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[open-knowledge-format-okf-google]]
+- [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
@@ -1754,13 +1772,6 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
-### ai-research (4)
-
-- [[how-to-be-good-at-ai-research]]
-- [[recursive-self-improvement-ai-101]]
-- [[verifiability-constraint-rlvr-unverifiable-tanayj]]
-- [[zen-and-the-art-of-ai-research]]
-
 ### ai-strategy (4)
 
 - [[economy-of-tokens-vipulved-modular-ai]]
@@ -1997,6 +2008,11 @@
 
 - [[effort-position-leverage-principles]]
 - [[pattern-recognition-as-expertise-jaynitx]]
+
+### distributed-systems (2)
+
+- [[10-hall-of-fame-engineering-papers]]
+- [[how-to-become-applied-ai-engineer-eyad-khrais]]
 
 ### dpo (3)
 
@@ -2882,8 +2898,10 @@
 - **analytics-agent** — [[github-qubot-data-analytics-agent]]
 - **ann** — [[how-vector-database-works]]
 - **apple-silicon** — [[mlx-engine-v185-kv-cache-agentic]]
+- **applied-ai** — [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - **approval-gate** — [[iii-agent-harness-workers]]
 - **approvals** — [[agents-behave-like-employees-six-shifts]]
+- **arc-agi** — [[research-world-model-distill-ai-researcher-amber-liu]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
 - **assistants** — [[virtual-filesystem-for-agent-assistants]]
@@ -2978,7 +2996,6 @@
 - **disaster-recovery** — [[how-to-automate-disaster-recovery-with-agents]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **discovery** — [[testing-business-ideas-product-operating-system]]
-- **distributed-systems** — [[10-hall-of-fame-engineering-papers]]
 - **distribution** — [[ten-commandments-building-product-feitong-yang]]
 - **dlp** — [[claude-compliance-security-partners]]
 - **document-processing** — [[why-layout-matters-document-processing]]
@@ -3271,6 +3288,7 @@
 - **research-automation** — [[anthropic-recursive-self-improvement]]
 - **research-skills** — [[zen-and-the-art-of-ai-research]]
 - **research-taste** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
+- **research-world-model** — [[research-world-model-distill-ai-researcher-amber-liu]]
 - **resource** — [[langchain-langgraph-101-repo]]
 - **resource-list** — [[0xsojalsec-llms-local]]
 - **resources** — [[mcp-core-architecture-hosts-clients-servers]]
@@ -3379,6 +3397,7 @@
 - **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
+- **trajectory-grading** — [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - **triage** — [[problem-first-skill-invert-bad-ideas]]
 - **trimming** — [[trimming-introduction]]
 - **trino** — [[github-qubot-data-analytics-agent]]
