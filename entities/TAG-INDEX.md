@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 867 unique tags across 363 processed notes.
+> 872 unique tags across 364 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -336,7 +336,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (31)
+### anthropic (32)
 
 - [[ai-native-engineering-org]]
 - [[anthropic-ant-cli-guide]]
@@ -344,6 +344,7 @@
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-engineering-hiring-resumes]]
 - [[anthropic-finance-claude-cowork]]
+- [[anthropic-global-workspace-j-space]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-natural-language-autoencoders]]
@@ -823,8 +824,9 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[weight-synchronization-rl-post-training]]
 
-### interpretability (12)
+### interpretability (13)
 
+- [[anthropic-global-workspace-j-space]]
 - [[anthropic-natural-language-autoencoders]]
 - [[beyond-ghost-sae-experiment-proposals]]
 - [[exp1-sae-gap-closure-initial-result]]
@@ -969,9 +971,10 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
 
-### mechanistic-interpretability (7)
+### mechanistic-interpretability (8)
 
 - [[Llama SAE Interpretability Project]]
+- [[anthropic-global-workspace-j-space]]
 - [[beyond-ghost-sae-experiment-proposals]]
 - [[ghost-in-residual-stream-experiment]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
@@ -1337,7 +1340,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[opportunity-ai-pm-os-workflow]]
 
-### safety (15)
+### safety (16)
 
 - [[2026-ai-engineering-roadmap]]
 - [[agent-harness-engineering-agentforge]]
@@ -1347,6 +1350,7 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-persuasion]]
 - [[ai-safety-levels]]
+- [[anthropic-global-workspace-j-space]]
 - [[anthropic-natural-language-autoencoders]]
 - [[anthropic-recursive-self-improvement]]
 - [[detecting-misuse]]
@@ -2876,6 +2880,7 @@
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **concept-bottleneck-models** — [[mechanistic-interpretability-is-not-the-whole-field]]
 - **conference** — [[code-w-claude-london-2026]]
+- **consciousness** — [[anthropic-global-workspace-j-space]]
 - **content** — [[karpathy-autoresearch-marketing-optimization]]
 - **content-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **context** — [[claude-code-changed-what-agents-look-like]]
@@ -2977,6 +2982,7 @@
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
+- **global-workspace** — [[anthropic-global-workspace-j-space]]
 - **goal** — [[hermes-goal-mode-guide]]
 - **google** — [[google-gemma-4-12b-local-fine-tuning]]
 - **google-cloud** — [[open-knowledge-format-okf-google]]
@@ -3028,6 +3034,7 @@
 - **investment-research** — [[claude-code-investment-research-setup]]
 - **iteration** — [[building-your-first-ai-agent-clear-path]]
 - **ivf** — [[how-vector-database-works]]
+- **j-space** — [[anthropic-global-workspace-j-space]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **javascript-engine** — [[browser-internals-chromium-architecture]]
 - **jepa** — [[joint-embedding-predictive-architecture-jepa]]
@@ -3095,6 +3102,7 @@
 - **model-welfare** — [[model-welfare]]
 - **modularization** — [[economy-of-tokens-vipulved-modular-ai]]
 - **monetization** — [[athcanft-grow-x-make-money]]
+- **monitoring** — [[anthropic-global-workspace-j-space]]
 - **monte-carlo** — [[markov-chains-polymarket-trading]]
 - **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **mqa** — [[kv-caching-llms-clearly-explained-avichawla]]
@@ -3105,6 +3113,7 @@
 - **network-effects** — [[post-agent-companies]]
 - **networking** — [[browser-internals-chromium-architecture]]
 - **neural-network** — [[jim-simons-medallion-quant-framework]]
+- **neuroscience** — [[anthropic-global-workspace-j-space]]
 - **night-shift** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
 - **nla** — [[anthropic-natural-language-autoencoders]]

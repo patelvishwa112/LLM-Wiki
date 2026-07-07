@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 363 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 364 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -63,6 +63,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [anthropic-claude-code-skills-lessons.md](/processed/anthropic-claude-code-skills-lessons.md) — *bookmark* — Anthropic's internal playbook for Claude Code skills: 9 categories (library reference, product verification, data analysis, business automation, scaffolding, code review, CI/CD, runbooks, infra ops), plus tips on gotc...
 - [anthropic-engineering-hiring-resumes.md](/processed/anthropic-engineering-hiring-resumes.md) — *bookmark* — Data-driven breakdown of 1,680 Anthropic engineers: median 12+ years experience, heavy infra/distributed systems background, Google as top feeder company, only 13.7% hold PhDs. New-grad hiring is rare; juniors enter v...
 - [anthropic-finance-claude-cowork.md](/processed/anthropic-finance-claude-cowork.md) — *bookmark* — How Anthropic's corporate finance team uses Claude Cowork and Claude for Excel to maintain narrative integrity across board decks, automate monthly financial review commentary, and diagnose financial models — reclaimi...
+- [anthropic-global-workspace-j-space.md](/processed/anthropic-global-workspace-j-space.md) — *paper* — Anthropic identifies J-space — a Jacobian-derived internal workspace in Claude analogous to global workspace theory, with reportability, control, reasoning, and safety monitoring.
 - [anthropic-gtm-claude-code-workflows.md](/processed/anthropic-gtm-claude-code-workflows.md) — *bookmark* — How Jared Sires, a non-technical AE at Anthropic, used Claude Code to build CLAFTS (email drafting in his voice), daily brief/recap skills, and a 20+ skill Sales plugin for Claude Cowork. The plugin — used by 80% of t...
 - [anthropic-internal-claude-code-workflow.md](/processed/anthropic-internal-claude-code-workflow.md) — *article* — Anthropic's Internal Claude Code Workflow
 - [anthropic-natural-language-autoencoders.md](/processed/anthropic-natural-language-autoencoders.md) — *note* — Anthropic: Natural Language Autoencoders

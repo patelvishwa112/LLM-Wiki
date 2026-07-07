@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-07
+
+- Ingest: Anthropic global workspace J-space (anthropic.com/research/global-workspace)
+
 ## 2026-07-06
 
 - Ingest: How to Create Loops with Claude Code (sairahul1 2074063593759227938)
