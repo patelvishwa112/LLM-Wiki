@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 364 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 365 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -242,6 +242,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
 - [macro-evals-for-agentic-systems-openai-cookbook.md](/processed/macro-evals-for-agentic-systems-openai-cookbook.md) — *bookmark* — Macro Evals for Agentic Systems (OpenAI Cookbook)
 - [make-requirements-great.md](/processed/make-requirements-great.md) — *bookmark* — make-requirements-great skill for PMs: enforces three altitudes of requirements, scans for weasel words, performs catalogue-level checks (consistency, completeness, traceability), and flags open decisions instead of i...
+- [making-ai-agent-production-ready-sarthakrastogi.md](/processed/making-ai-agent-production-ready-sarthakrastogi.md) — *bookmark* — Sarthak Rastogi tutorial — production Apple-style support bot with FastAPI, LangGraph, GPTCache, Presidio, Rival AI, PageIndex RAG, Ragas validation, LangSmith.
 - [managed-agents-built-in-memory.md](/processed/managed-agents-built-in-memory.md) — *bookmark* — Built-in memory for Claude Managed Agents lets agents learn across sessions using a filesystem-based memory layer — portable, observable, and optimized for long-running multi-session work with scoped permissions and a...
 - [managed-agents-dreaming-orchestration.md](/processed/managed-agents-dreaming-orchestration.md) — *bookmark* — Three major Managed Agents updates: dreaming for cross-session self-improvement, outcomes for rubric-driven self-evaluation, and multiagent orchestration for parallelizing complex work across specialist subagents.
 - [managed-agents-sandbox-mcp.md](/processed/managed-agents-sandbox-mcp.md) — *bookmark* — Claude Managed Agents now support self-hosted sandboxes that keep execution within enterprise perimeters and MCP tunnels that connect agents to private internal services without exposing them to the public internet.
