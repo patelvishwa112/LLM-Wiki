@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 878 unique tags across 367 processed notes.
+> 878 unique tags across 368 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (62)
+### agent-harness (63)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -65,6 +65,7 @@
 - [[human-in-the-loop-agent-loops]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iii-agent-harness-workers]]
+- [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -706,7 +707,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### evals (22)
+### evals (23)
 
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
@@ -725,6 +726,7 @@
 - [[harbor-rl-coding-environments]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
+- [[improving-agents-data-mining-traces]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[loop-engineering-clearly-explained]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
@@ -780,12 +782,13 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (5)
+### harness-engineering (6)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
 - [[harness-engineering-2026-discipline]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
+- [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
 
 ### hermes (19)
@@ -892,23 +895,25 @@
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (9)
+### langchain (10)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-give-your-agent-memory]]
 - [[how-to-use-rlms-in-deep-agents]]
+- [[improving-agents-data-mining-traces]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 
-### langsmith (5)
+### langsmith (6)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
+- [[improving-agents-data-mining-traces]]
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 
@@ -1104,7 +1109,7 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (12)
+### observability (13)
 
 - [[agent-harness-should-repair-itself]]
 - [[continual-learning-replit-agent-vibench]]
@@ -1113,6 +1118,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
+- [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
@@ -1568,7 +1574,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (43)
+### training (44)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1586,6 +1592,7 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
+- [[improving-agents-data-mining-traces]]
 - [[jp-morgan-quant-python-training]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
@@ -1887,10 +1894,11 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
-### continual-learning (3)
+### continual-learning (4)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[fast-slow-training-continual-llm-adaptation]]
+- [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
 
 ### continuous-batching (2)
@@ -2457,6 +2465,11 @@
 - [[multi-perspective-prd-review-claude-code]]
 - [[testing-business-ideas-product-operating-system]]
 
+### production-traces (2)
+
+- [[continual-learning-replit-agent-vibench]]
+- [[improving-agents-data-mining-traces]]
+
 ### progressive-disclosure (2)
 
 - [[anthropic-claude-code-skills-lessons]]
@@ -2721,6 +2734,11 @@
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
+
+### trace-data (2)
+
+- [[improving-agents-data-mining-traces]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]
 
 ### trading (4)
 
@@ -3213,7 +3231,6 @@
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
-- **production-traces** — [[continual-learning-replit-agent-vibench]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
@@ -3349,7 +3366,6 @@
 - **tool-use** — [[universal-agent-thesis]]
 - **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
-- **trace-data** — [[langchain-fireworks-trace-judge-100x-cheaper]]
 - **traces** — [[continuous-trace-intelligence-braintrust-topics]]
 - **triage** — [[problem-first-skill-invert-bad-ideas]]
 - **trimming** — [[trimming-introduction]]

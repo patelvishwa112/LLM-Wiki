@@ -47,6 +47,7 @@
 - [[living-wiki-second-brain-hermes-leopardracer]] — [AI second brain — Karpathy wiki + Hermes agents](https://x.com/leopardracer/status/2073340097051689327) `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
+- [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem — traces, Scaling Dreaming, LangSmith Engine](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi]`
 - [[how-to-build-custom-agent-harness-langchain]] — [How to Build a Custom Agent Harness](https://www.langchain.com/blog/how-to-build-a-custom-agent-harness) `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
@@ -208,6 +209,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — Replit harness, ViBench, Telescope](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`
 - [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
@@ -515,6 +517,7 @@
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`
 - [[ideacide-eleven-filters-drurly]] `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] `[models, rl]`
+- [[improving-agents-data-mining-traces]] `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[inference-engines-2026]] `[ai-ml, serving]`
 - [[inference-optimizations-sub-second-llm-checklist]] `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
 - [[introducing-dynamic-subagents-deep-agents]] `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
