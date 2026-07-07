@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 883 unique tags across 371 processed notes.
+> 885 unique tags across 372 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (66)
+### agent-harness (67)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -49,6 +49,7 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -158,7 +159,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (164)
+### agents (165)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -219,6 +220,7 @@
 - [[deep-agents-prompt-caching]]
 - [[design-good-ml-experiments-grigorev]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
@@ -753,11 +755,12 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
-### fable-5 (5)
+### fable-5 (6)
 
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
 - [[fable-5-system-prompt]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[how-to-actually-use-claude-fable-5]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 
@@ -1101,7 +1104,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (27)
+### multi-agent (28)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1111,6 +1114,7 @@
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-subagents-vs-agent-teams]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
@@ -1182,7 +1186,7 @@
 - [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### orchestration (24)
+### orchestration (25)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1196,6 +1200,7 @@
 - [[claude-subagents-vs-agent-teams]]
 - [[coderabbit-claude-agent-orchestration]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
 - [[guide-to-goal-codex]]
@@ -1238,7 +1243,7 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 
-### production (13)
+### production (14)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-evals-practical-guide]]
@@ -1247,6 +1252,7 @@
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[loop-engineering-clearly-explained]]
@@ -1571,7 +1577,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (13)
+### subagents (14)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1579,6 +1585,7 @@
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-subagents-vs-agent-teams]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
@@ -1655,12 +1662,13 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (14)
+### verification (15)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -2212,9 +2220,10 @@
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
 
-### human-in-the-loop (2)
+### human-in-the-loop (3)
 
 - [[agents-behave-like-employees-six-shifts]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[how-to-build-custom-agent-harness-langchain]]
 
 ### json-schema (2)
@@ -2992,6 +3001,7 @@
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
+- **devin** — [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - **devops** — [[how-to-automate-disaster-recovery-with-agents]]
 - **disaster-recovery** — [[how-to-automate-disaster-recovery-with-agents]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
@@ -3162,6 +3172,7 @@
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **middleware** — [[how-to-build-custom-agent-harness-langchain]]
+- **migration** — [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
 - **mlops** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]

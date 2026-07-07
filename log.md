@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-07
 
+- Ingest: Fable orchestrate huge project 40 sub-agents (ryancarson 2074093250399330418)
+
+## 2026-07-07
+
 - Ingest: How to Distill a $10M+ AI Researcher (jiachenliu8 2074558254328455577)
 
 ## 2026-07-07

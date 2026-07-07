@@ -132,6 +132,7 @@
 - [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
 - [[secure-automated-learning-loops-modal-claude-code]] — [How we built secure automated learning loops in Modal and Claude Code](https://x.com/oliviersm199/status/2069790892530016547) `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[designing-loops-with-fable-5]] — [Designing loops with Fable 5](https://x.com/RLanceMartin/status/2064397389189071163) `[anthropic, fable-5, claude, agents, loops, self-correction, memory, continual-learning]`
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable orchestrator — 40 sub-agents, 834-file migration, zero incidents](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, multi-agent, orchestration, subagents, devin, verification, production, migration, human-in-the-loop]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 
 ### Ai Ml
@@ -215,6 +216,7 @@
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable parent + 40 Devin children — migration gates & manifest](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, orchestration, verification, production, human-in-the-loop, migration]`
 - [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — Replit harness, ViBench, Telescope](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`
@@ -483,6 +485,7 @@
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]] `[fable-5, agents, multi-agent, orchestration, subagents, devin, agent-harness, verification, production, migration, human-in-the-loop]`
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
