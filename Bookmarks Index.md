@@ -198,6 +198,7 @@
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now. (SkillsBench)](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, coding-tools]`
+- [[how-to-create-right-skill-ai-agent]] — [How to Create the Right Skill for Your AI Agent](https://x.com/free_ai_guides/status/2071666929451094227) `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
@@ -526,6 +527,7 @@
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
+- [[how-to-create-right-skill-ai-agent]] `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-08
 
+- Ingest: How to Create the Right Skill for Your AI Agent (free_ai_guides 2071666929451094227)
+
+## 2026-07-08
+
 - Ingest: Fable 5 self-improving system 14 steps (0xcodez 2065089060104720776)
 
 ## 2026-07-08

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 888 unique tags across 376 processed notes.
+> 889 unique tags across 377 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (68)
+### agent-harness (69)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -64,6 +64,7 @@
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
+- [[how-to-create-right-skill-ai-agent]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
@@ -512,7 +513,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (80)
+### claude-code (81)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -562,6 +563,7 @@
 - [[harness-is-the-product-280k]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
+- [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
@@ -1351,7 +1353,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (32)
+### prompt-engineering (33)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1369,6 +1371,7 @@
 - [[goal-loss-functions-distill-product]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
+- [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iceberg-opus-48-prompts]]
@@ -1509,10 +1512,11 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### security (7)
+### security (8)
 
 - [[claude-compliance-security-partners]]
 - [[evals-strategic-ip-garrettlord]]
+- [[how-to-create-right-skill-ai-agent]]
 - [[llms-securing-source-code]]
 - [[managed-agents-sandbox-mcp]]
 - [[nvidia-skillspector-security-scanner]]
@@ -1536,7 +1540,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (55)
+### skills (56)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1569,6 +1573,7 @@
 - [[harnessing-claudes-intelligence]]
 - [[hermes-kanban-mission-control]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[leopardracer-ai-workflows-prompts]]
@@ -2551,10 +2556,11 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[improving-agents-data-mining-traces]]
 
-### progressive-disclosure (3)
+### progressive-disclosure (4)
 
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[how-to-create-right-skill-ai-agent]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### project-ideas (2)
@@ -2727,6 +2733,11 @@
 
 - [[agent-harness-should-repair-itself]]
 - [[your-agent-harness-should-repair-itself]]
+
+### skillsbench (2)
+
+- [[how-to-create-right-skill-ai-agent]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### slash-commands (2)
 
@@ -2935,6 +2946,7 @@
 - **agentic-ai** — [[Non-Obvious Agent Projects]]
 - **agentic-misalignment** — [[agentic-misalignment]]
 - **agentic-workflows** — [[mlx-engine-v185-kv-cache-agentic]]
+- **agentskills** — [[how-to-create-right-skill-ai-agent]]
 - **ai-augmentation** — [[level-above-phd-knowledge-works-without-you]]
 - **ai-content** — [[ai-content-system-framework]]
 - **ai-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -3403,7 +3415,6 @@
 - **six-figure-skills** — [[5-ai-skills-six-figures-2027]]
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
-- **skillsbench** — [[writing-good-skills-measured-rulebook-aparna]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
