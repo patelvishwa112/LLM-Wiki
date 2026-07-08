@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 374 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 375 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -270,6 +270,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [mosaic-probabilistic-weather-model.md](/processed/mosaic-probabilistic-weather-model.md) — *note* — Mosaic: Probabilistic Weather Model
 - [multi-lora-training-osmosis.md](/processed/multi-lora-training-osmosis.md) — *bookmark* — Multi-LoRA Training at Scale
 - [multi-perspective-prd-review-claude-code.md](/processed/multi-perspective-prd-review-claude-code.md) — *bookmark* — Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng, design, exec, legal, UX, customer, devil's advocate) surface PRD objections before circulation — maps to dynamic workflows fan-out; packages as m...
+- [not-ambitious-enough-with-claude.md](/processed/not-ambitious-enough-with-claude.md) — *bookmark* — Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders.
 - [notes-on-foundation-models.md](/processed/notes-on-foundation-models.md) — *bookmark* — Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs ...
 - [nvidia-skillspector-security-scanner.md](/processed/nvidia-skillspector-security-scanner.md) — *article* — NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills
 - [on-policy-distillation-must-read.md](/processed/on-policy-distillation-must-read.md) — *note* — On-Policy Distillation: Must-Read Articles

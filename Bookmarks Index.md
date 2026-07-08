@@ -320,6 +320,7 @@
 
 - [[iceberg-opus-48-prompts]] — [Iceberg: The Prompts That Unleash Opus 4.8](https://x.com/0xchasetm/status/2061363479525663170)
 - [[mid-career-dissatisfaction]] — [On mid-career (dis)satisfaction](https://x.com/shreyas/status/2061140507884155145)
+- [[not-ambitious-enough-with-claude]] — [You're not ambitious enough with Claude](https://x.com/christinexzhu/status/2074847461588267466) `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
 - [[ashwingop]] — [ashwingop](https://x.com/ashwingop/status/2053173547393331318)
 - [[article]] — [Article](https://x.com/cyrilXBT/status/2052235121416188114)
 - [[gaurigupta]] — [gauri__gupta](https://x.com/gauri__gupta/status/2051882947758993815)
@@ -588,6 +589,7 @@
 - [[neuralavb]] `[papers, training]`
 - [[new-anthropic-research-natural-language-autoencode]] `[evals, papers]`
 - [[new-blackboard-lecture-w]] `[papers, models]`
+- [[not-ambitious-enough-with-claude]] `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`

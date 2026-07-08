@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-08
 
+- Ingest: You're not ambitious enough with Claude (christinexzhu 2074847461588267466)
+
+## 2026-07-08
+
 - Ingest: Distillation in 2026 frontier post-training (sergiopaniego 2074863503312044499)
 
 ## 2026-07-08

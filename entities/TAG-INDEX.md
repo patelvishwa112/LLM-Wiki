@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 888 unique tags across 374 processed notes.
+> 888 unique tags across 375 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -470,7 +470,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (36)
+### claude (37)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -500,6 +500,7 @@
 - [[iceberg-opus-48-prompts]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[marclou-x-post-2065385672991752210]]
+- [[not-ambitious-enough-with-claude]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[opus-48-token-economy-guide]]
 - [[personal-ai-assistant-claude-0-cost]]
@@ -509,7 +510,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (78)
+### claude-code (79)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -572,6 +573,7 @@
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[not-ambitious-enough-with-claude]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
 - [[pm-as-context-compressor]]
@@ -590,7 +592,7 @@
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### claude-cowork (12)
+### claude-cowork (13)
 
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-finance-claude-cowork]]
@@ -603,6 +605,7 @@
 - [[claude-hidden-features-guide]]
 - [[claude-interactive-visuals]]
 - [[claude-personal-assistant-zero-dollars]]
+- [[not-ambitious-enough-with-claude]]
 - [[problem-first-skill-invert-bad-ideas]]
 
 ### claude-md (5)
@@ -650,7 +653,7 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (10)
+### context-engineering (11)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
@@ -660,6 +663,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
+- [[not-ambitious-enough-with-claude]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
@@ -1243,12 +1247,13 @@
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[sub-agents-inference-time-scaling]]
 
-### pm (9)
+### pm (10)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[ideacide-eleven-filters-drurly]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[not-ambitious-enough-with-claude]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
@@ -1281,7 +1286,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (38)
+### productivity (39)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1315,6 +1320,7 @@
 - [[ideacide-eleven-filters-drurly]]
 - [[mcp-server-workflow-problems]]
 - [[mid-career-dissatisfaction]]
+- [[not-ambitious-enough-with-claude]]
 - [[opus-48-token-economy-guide]]
 - [[pm-as-context-compressor]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
@@ -1515,7 +1521,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (53)
+### skills (54)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1556,6 +1562,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
+- [[not-ambitious-enough-with-claude]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[opus-48-token-economy-guide]]
@@ -2127,6 +2134,11 @@
 - [[curiosity-bayesian-bandit]]
 - [[general-intelligence-rethinking-exploration-2022]]
 
+### fable (2)
+
+- [[claude-fable-map-territory-unknowns-trq212]]
+- [[not-ambitious-enough-with-claude]]
+
 ### faiss (2)
 
 - [[how-vector-database-works]]
@@ -2277,11 +2289,12 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
-### knowledge-work (3)
+### knowledge-work (4)
 
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-product-guide]]
+- [[not-ambitious-enough-with-claude]]
 
 ### langgraph (4)
 
@@ -3055,7 +3068,6 @@
 - **experimentation** — [[testing-business-ideas-product-operating-system]]
 - **extended-thinking** — [[extended-thinking]]
 - **extensions** — [[spec-kit-github-sdd]]
-- **fable** — [[claude-fable-map-territory-unknowns-trq212]]
 - **factor-model** — [[jim-simons-medallion-quant-framework]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fastapi** — [[making-ai-agent-production-ready-sarthakrastogi]]
