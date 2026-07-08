@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-08
 
+- Ingest: Fable 5 self-improving system 14 steps (0xcodez 2065089060104720776)
+
+## 2026-07-08
+
 - Ingest: You're not ambitious enough with Claude (christinexzhu 2074847461588267466)
 
 ## 2026-07-08

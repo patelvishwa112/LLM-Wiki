@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 888 unique tags across 375 processed notes.
+> 888 unique tags across 376 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (67)
+### agent-harness (68)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -49,6 +49,7 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -159,7 +160,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (166)
+### agents (167)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -221,6 +222,7 @@
 - [[design-good-ml-experiments-grigorev]]
 - [[distillation-post-training-frontier-2026]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[feedback-loops-claude-code-less-babysitting]]
@@ -510,7 +512,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (79)
+### claude-code (80)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -552,6 +554,7 @@
 - [[dive-into-claude-code-vila-lab]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[every-agentic-engineering-hack-june-2026]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
@@ -667,10 +670,11 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### continual-learning (5)
+### continual-learning (6)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
@@ -723,6 +727,14 @@
 - [[opsd-off-policy-self-distillation]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[why-on-policy-distillation-works]]
+
+### dynamic-workflows (5)
+
+- [[agent-workflows-silent-degradation-verification-vladic]]
+- [[claude-dynamic-workflows-second-brain]]
+- [[fable-5-self-improving-system-14-steps]]
+- [[multi-perspective-prd-review-claude-code]]
+- [[self-evolving-autoresearch-workflow-loops]]
 
 ### embeddings (5)
 
@@ -778,10 +790,11 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
-### fable-5 (6)
+### fable-5 (7)
 
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[fable-5-system-prompt]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[how-to-actually-use-claude-fable-5]]
@@ -828,10 +841,11 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (7)
+### harness-engineering (8)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
@@ -1012,10 +1026,11 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 
-### loops (8)
+### loops (9)
 
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[the-full-loop-in-code]]
@@ -1521,7 +1536,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (54)
+### skills (55)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1549,6 +1564,7 @@
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harnessing-claudes-intelligence]]
 - [[hermes-kanban-mission-control]]
@@ -1703,12 +1719,13 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (15)
+### verification (16)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[fable-5-self-improving-system-14-steps]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -2059,13 +2076,6 @@
 
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[automate-writing-llm-prompts-dspy]]
-
-### dynamic-workflows (4)
-
-- [[agent-workflows-silent-degradation-verification-vladic]]
-- [[claude-dynamic-workflows-second-brain]]
-- [[multi-perspective-prd-review-claude-code]]
-- [[self-evolving-autoresearch-workflow-loops]]
 
 ### education (3)
 

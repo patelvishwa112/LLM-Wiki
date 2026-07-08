@@ -132,6 +132,7 @@
 - [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
 - [[secure-automated-learning-loops-modal-claude-code]] — [How we built secure automated learning loops in Modal and Claude Code](https://x.com/oliviersm199/status/2069790892530016547) `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[designing-loops-with-fable-5]] — [Designing loops with Fable 5](https://x.com/RLanceMartin/status/2064397389189071163) `[anthropic, fable-5, claude, agents, loops, self-correction, memory, continual-learning]`
+- [[fable-5-self-improving-system-14-steps]] — [Build self-improving agent system with Fable 5 in 14 steps](https://x.com/0xcodez/status/2065089060104720776) `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable orchestrator — 40 sub-agents, 834-file migration, zero incidents](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, multi-agent, orchestration, subagents, devin, verification, production, migration, human-in-the-loop]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 
@@ -490,6 +491,7 @@
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
+- [[fable-5-self-improving-system-14-steps]] `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] `[fable-5, agents, multi-agent, orchestration, subagents, devin, agent-harness, verification, production, migration, human-in-the-loop]`
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`

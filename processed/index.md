@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 375 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 376 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -148,6 +148,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [exp1-sae-gap-closure-initial-result.md](/processed/exp1-sae-gap-closure-initial-result.md) — *experiment* — Exp1: SAE Gap Closure — Initial Result (Pre-Trained SAE)
 - [extended-thinking.md](/processed/extended-thinking.md) — *concept* — Extended Thinking
 - [fable-5-mythos-prompting-masterclass.md](/processed/fable-5-mythos-prompting-masterclass.md) — *bookmark* — Plain-English guide to prompting Anthropic's Fable 5 (Mythos): long-running autonomous tasks, first-pass accuracy, clarifying questions, 50+ subagent management, superior vision, and coding/security audits. Optimal pr...
+- [fable-5-self-improving-system-14-steps.md](/processed/fable-5-self-improving-system-14-steps.md) — *bookmark* — 14-step roadmap for a compounding Fable 5 harness: four-layer stack, /goal vs Outcomes, verifiers, STATE.md, Skills, Routines, and model routing.
 - [fable-5-system-prompt.md](/processed/fable-5-system-prompt.md) — *bookmark* — Full system prompt for a personalized Fable 5 briefing assistant: role definition, length/cut rules, skepticism posture, operational reality first, output format, and detailed reference material on access, safeguards,...
 - [fable-orchestrate-huge-project-40-subagents-ryancarson.md](/processed/fable-orchestrate-huge-project-40-subagents-ryancarson.md) — *bookmark* — Ryan Carson — Fable/Devin parent + 40 children for 834-file migration (prod data + schema); manifest, risk waves, gates, ~$1.1K, zero incidents.
 - [fast-slow-training-continual-llm-adaptation.md](/processed/fast-slow-training-continual-llm-adaptation.md) — *note* — Fast-Slow Training for Continual LLM Adaptation
