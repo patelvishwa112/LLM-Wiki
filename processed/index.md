@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 373 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 374 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -134,6 +134,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [design-good-ml-experiments-grigorev.md](/processed/design-good-ml-experiments-grigorev.md) — *bookmark* — Poolside-scale playbook for ML experiments — research questions, dated baselines, manual run logs, finish runs, and compute-efficiency gain via scaling laws.
 - [designing-loops-with-fable-5.md](/processed/designing-loops-with-fable-5.md) — *bookmark* — Fable 5 experiments: self-correction loops (/goal, Outcomes) beat self-critique; memory progression (fail-investigate-verify-distill-consult) works best when the model manages its own context. Fable 5 bets on larger s...
 - [detecting-misuse.md](/processed/detecting-misuse.md) — *concept* — Detecting and Countering Misuse
+- [distillation-post-training-frontier-2026.md](/processed/distillation-post-training-frontier-2026.md) — *bookmark* — Sergio Paniego maps 2026 frontier distillation into off-policy, on-policy multi-teacher, and self-distillation with lab examples and TRL Class 2 tie-in.
 - [dive-into-claude-code-vila-lab.md](/processed/dive-into-claude-code-vila-lab.md) — *resource* — Dive into Claude Code (VILA-Lab)
 - [dqn-adaptive-trade-execution-ritonchain.md](/processed/dqn-adaptive-trade-execution-ritonchain.md) — *bookmark* — RitOnchain (Venus) walks through DQN-based adaptive execution vs TWAP/VWAP: MDP state (inventory, time, LOB imbalance, price drift), impact+urgency reward, Double DQN PyTorch code, synthetic then LOBSTER/ABIDES valida...
 - [dynamic-workflows-where-plan-lives.md](/processed/dynamic-workflows-where-plan-lives.md) — *bookmark* — Claude Code Dynamic Workflows — Vox's 5 Rules

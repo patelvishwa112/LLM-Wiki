@@ -376,6 +376,7 @@
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
+- [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
 
@@ -479,6 +480,7 @@
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`
 - [[design-good-ml-experiments-grigorev]] `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
+- [[distillation-post-training-frontier-2026]] `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
 - [[dimitrispapail]] `[papers]`
 - [[dimitrispapail]] `[papers]`
 - [[dqn-adaptive-trade-execution-ritonchain]] `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, markov-chains, finance, systematic-trading]`

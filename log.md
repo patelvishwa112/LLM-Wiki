@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-08
 
+- Ingest: Distillation in 2026 frontier post-training (sergiopaniego 2074863503312044499)
+
+## 2026-07-08
+
 - Ingest: How to Build a Diffusion Language Model (Kuleshov Group blog 2026)
 
 ## 2026-07-07

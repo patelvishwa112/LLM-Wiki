@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 888 unique tags across 373 processed notes.
+> 888 unique tags across 374 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -159,7 +159,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (165)
+### agents (166)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -219,6 +219,7 @@
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[deep-agents-prompt-caching]]
 - [[design-good-ml-experiments-grigorev]]
+- [[distillation-post-training-frontier-2026]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
@@ -662,6 +663,14 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
+### continual-learning (5)
+
+- [[continual-learning-replit-agent-vibench]]
+- [[distillation-post-training-frontier-2026]]
+- [[fast-slow-training-continual-llm-adaptation]]
+- [[improving-agents-data-mining-traces]]
+- [[quarq-agent-memory-architecture]]
+
 ### cost-optimization (9)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -691,8 +700,17 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-langgraph-101-repo]]
 
-### distillation (8)
+### deepseek (5)
 
+- [[deepseek-v4-claude-code-setup]]
+- [[deepseek-v4-pro-threejs-embedding-visualization]]
+- [[distillation-post-training-frontier-2026]]
+- [[rl-algo-comprehensive-qa]]
+- [[the-best-models-for-hermes-agent]]
+
+### distillation (9)
+
+- [[distillation-post-training-frontier-2026]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
 - [[on-policy-distillation-must-read]]
@@ -1371,7 +1389,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (28)
+### rl (29)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
@@ -1380,6 +1398,7 @@
 - [[claude-code-slm-training-bootstrap]]
 - [[continuous-batching-grpo-trl]]
 - [[curiosity-bayesian-bandit]]
+- [[distillation-post-training-frontier-2026]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[harbor-rl-coding-environments]]
@@ -1487,6 +1506,14 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
+
+### sft (5)
+
+- [[distillation-post-training-frontier-2026]]
+- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- [[openthoughts-agent-data-recipes-agentic-models]]
+- [[training-agents-class-1-sft-by-agent]]
+- [[training-llm-from-scratch-5-lessons]]
 
 ### skills (53)
 
@@ -1609,7 +1636,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (45)
+### training (46)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1621,6 +1648,7 @@
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
 - [[design-good-ml-experiments-grigorev]]
+- [[distillation-post-training-frontier-2026]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[harbor-rl-coding-environments]]
@@ -1930,13 +1958,6 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
-### continual-learning (4)
-
-- [[continual-learning-replit-agent-vibench]]
-- [[fast-slow-training-continual-llm-adaptation]]
-- [[improving-agents-data-mining-traces]]
-- [[quarq-agent-memory-architecture]]
-
 ### continuous-batching (2)
 
 - [[continuous-batching-grpo-trl]]
@@ -2010,13 +2031,6 @@
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[mosaic-probabilistic-weather-model]]
-
-### deepseek (4)
-
-- [[deepseek-v4-claude-code-setup]]
-- [[deepseek-v4-pro-threejs-embedding-visualization]]
-- [[rl-algo-comprehensive-qa]]
-- [[the-best-models-for-hermes-agent]]
 
 ### deliberate-practice (2)
 
@@ -2163,8 +2177,9 @@
 - [[50-mcp-servers-guide]]
 - [[the-best-models-for-hermes-agent]]
 
-### gemma (3)
+### gemma (4)
 
+- [[distillation-post-training-frontier-2026]]
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
@@ -2456,9 +2471,10 @@
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ideacide-eleven-filters-drurly]]
 
-### post-training (3)
+### post-training (4)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[distillation-post-training-frontier-2026]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 
@@ -2689,13 +2705,6 @@
 - [[agent-harness-should-repair-itself]]
 - [[your-agent-harness-should-repair-itself]]
 
-### sft (4)
-
-- [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
-- [[openthoughts-agent-data-recipes-agentic-models]]
-- [[training-agents-class-1-sft-by-agent]]
-- [[training-llm-from-scratch-5-lessons]]
-
 ### slash-commands (2)
 
 - [[9-step-loop-claude-code-senior-engineer]]
@@ -2795,9 +2804,10 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 
-### trl (2)
+### trl (3)
 
 - [[continuous-batching-grpo-trl]]
+- [[distillation-post-training-frontier-2026]]
 - [[training-agents-class-1-sft-by-agent]]
 
 ### tutorial (2)
