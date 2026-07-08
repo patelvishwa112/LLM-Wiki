@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 885 unique tags across 372 processed notes.
+> 888 unique tags across 373 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -392,7 +392,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (18)
+### architecture (19)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -404,6 +404,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-diffusion-language-model-kuleshov]]
 - [[learnings-training-llm-from-scratch]]
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
@@ -847,12 +848,13 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (10)
+### inference (11)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 - [[inference-optimizations-sub-second-llm-checklist]]
@@ -950,7 +952,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
 
-### llm (19)
+### llm (20)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -961,6 +963,7 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[graph-memory-reconstruction-llms]]
+- [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[how-vllm-works-amitiitbhu]]
@@ -1439,10 +1442,11 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### scaling-laws (8)
+### scaling-laws (9)
 
 - [[design-good-ml-experiments-grigorev]]
 - [[encoder-free-models-bitter-lesson]]
+- [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
@@ -1605,7 +1609,7 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### training (44)
+### training (45)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1620,6 +1624,7 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[harbor-rl-coding-environments]]
+- [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
@@ -1652,13 +1657,14 @@
 - [[what-every-programmer-should-know-about-rlhf]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (7)
+### transformers (8)
 
 - [[2026-ai-engineering-roadmap]]
 - [[attention-qkv-math-amitiitbhu]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
+- [[how-to-build-diffusion-language-model-kuleshov]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
@@ -2794,6 +2800,11 @@
 - [[continuous-batching-grpo-trl]]
 - [[training-agents-class-1-sft-by-agent]]
 
+### tutorial (2)
+
+- [[how-to-build-diffusion-language-model-kuleshov]]
+- [[langchain-langgraph-101-repo]]
+
 ### twitter (2)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -3003,10 +3014,12 @@
 - **developer-platform** — [[code-w-claude-london-2026]]
 - **devin** — [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - **devops** — [[how-to-automate-disaster-recovery-with-agents]]
+- **diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
 - **disaster-recovery** — [[how-to-automate-disaster-recovery-with-agents]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
 - **discovery** — [[testing-business-ideas-product-operating-system]]
 - **distribution** — [[ten-commandments-building-product-feitong-yang]]
+- **dllm** — [[how-to-build-diffusion-language-model-kuleshov]]
 - **dlp** — [[claude-compliance-security-partners]]
 - **document-processing** — [[why-layout-matters-document-processing]]
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
@@ -3161,6 +3174,7 @@
 - **mai-thinking** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **market-dynamics** — [[effort-position-leverage-principles]]
+- **masked-diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
 - **math** — [[attention-qkv-math-amitiitbhu]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
@@ -3413,7 +3427,6 @@
 - **trimming** — [[trimming-introduction]]
 - **trino** — [[github-qubot-data-analytics-agent]]
 - **ttft** — [[kv-caching-llms-clearly-explained-avichawla]]
-- **tutorial** — [[langchain-langgraph-101-repo]]
 - **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]

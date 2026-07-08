@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-08
+
+- Ingest: How to Build a Diffusion Language Model (Kuleshov Group blog 2026)
+
 ## 2026-07-07
 
 - Ingest: Fable orchestrate huge project 40 sub-agents (ryancarson 2074093250399330418)

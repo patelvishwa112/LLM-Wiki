@@ -154,6 +154,7 @@
 - [[techwithram]] — [techwith_ram](https://x.com/techwith_ram/status/2037499938574110770)
 - [[thesmartape]] — [the_smart_ape](https://x.com/the_smart_ape/status/2053034897514660074)
 - [[llm-engineering-projects-roadmap-2026]] — [Step-By-Step LLM Engineering Projects (2026 Edition)](https://x.com/theahmadosman/status/2058745340895870985)
+- [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model — Kuleshov Group](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, architecture, inference, scaling-laws, tutorial]`
 - [[claude-code-self-correcting-setup]] — [How to Make Claude Code Fix Its Own Mistakes Automatically](https://x.com/zodchiii/status/2059563487676784696)
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
 - [[inference-optimizations-sub-second-llm-checklist]] — [Inference optimizations for sub-second LLM responses (16-item checklist)](https://x.com/asmah2107/status/2071196830088777741) `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
@@ -373,6 +374,7 @@
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
+- [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
@@ -515,6 +517,7 @@
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
 - [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
+- [[how-to-build-diffusion-language-model-kuleshov]] `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, transformers, tutorial]`
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
