@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 379 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 380 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -338,6 +338,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [sia-recursive-self-improving-agent.md](/processed/sia-recursive-self-improving-agent.md) — *article* — SIA — Self Improving AI Framework (hexo.ai)
 - [sierra-pinecone-singular-company-agent.md](/processed/sierra-pinecone-singular-company-agent.md) — *bookmark* — Sierra's Neil Rahilly on Pinecone — one persistent company-wide agent (Claude Code/Codex), MCP Gateway for context, artifacts as UI, and measuring outcomes not token activity.
 - [skill-solo-millionaires-ai-era.md](/processed/skill-solo-millionaires-ai-era.md) — *bookmark* — X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation.
+- [software-factory-linear-claude-cloud-routines.md](/processed/software-factory-linear-claude-cloud-routines.md) — *bookmark* — Pierson Marks' afternoon-build software factory — Linear as hub, Claude Code Cloud Routines for pre-triage loops (PostHog/Vercel/Stripe), webhook-triggered SDLC via auto label and /do skill.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning
 - [spec-kit-github-sdd.md](/processed/spec-kit-github-sdd.md) — *bookmark* — GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → ...
 - [stanford-storm-method-claude-research.md](/processed/stanford-storm-method-claude-research.md) — *bookmark* — Nav Toor shares the Stanford STORM method — a multi-agent research system that enables Claude to conduct deep, PhD-level research by orchestrating multiple specialized agents instead of single-shot prompting.

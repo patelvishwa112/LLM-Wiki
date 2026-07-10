@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 894 unique tags across 379 processed notes.
+> 895 unique tags across 380 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (71)
+### agent-harness (72)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -91,6 +91,7 @@
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
+- [[software-factory-linear-claude-cloud-routines]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
 - [[universal-agent-thesis]]
@@ -165,7 +166,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (168)
+### agents (169)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -316,6 +317,7 @@
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sia-recursive-self-improving-agent]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[software-factory-linear-claude-cloud-routines]]
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
 - [[ten-commandments-building-product-feitong-yang]]
@@ -519,7 +521,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (82)
+### claude-code (83)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -594,6 +596,7 @@
 - [[self-evolving-autoresearch-workflow-loops]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[software-factory-linear-claude-cloud-routines]]
 - [[spec-kit-github-sdd]]
 - [[the-full-loop-in-code]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1033,7 +1036,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (12)
+### loop-engineering (13)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1047,6 +1050,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
+- [[software-factory-linear-claude-cloud-routines]]
 
 ### loops (9)
 
@@ -1068,7 +1072,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (33)
+### mcp (34)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1101,6 +1105,7 @@
 - [[nvidia-skillspector-security-scanner]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[software-factory-linear-claude-cloud-routines]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
 
@@ -1198,7 +1203,7 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (13)
+### observability (14)
 
 - [[agent-harness-should-repair-itself]]
 - [[continual-learning-replit-agent-vibench]]
@@ -1211,6 +1216,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[software-factory-linear-claude-cloud-routines]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
 
@@ -2030,11 +2036,12 @@
 - [[Non-Obvious Agent Projects]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### cronjob (3)
+### cronjob (4)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
+- [[software-factory-linear-claude-cloud-routines]]
 
 ### cuda (2)
 
@@ -2291,11 +2298,12 @@
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
 
-### human-in-the-loop (3)
+### human-in-the-loop (4)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[how-to-build-custom-agent-harness-langchain]]
+- [[software-factory-linear-claude-cloud-routines]]
 
 ### json-schema (2)
 
@@ -2557,9 +2565,10 @@
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
 
-### product (2)
+### product (3)
 
 - [[ideacide-eleven-filters-drurly]]
+- [[software-factory-linear-claude-cloud-routines]]
 - [[ten-commandments-building-product-feitong-yang]]
 
 ### product-discovery (3)
@@ -2771,6 +2780,11 @@
 - [[ai-policy-and-regulation]]
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
+
+### software-factory (2)
+
+- [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[software-factory-linear-claude-cloud-routines]]
 
 ### stakeholders (4)
 
@@ -3219,6 +3233,7 @@
 - **legibility** — [[the-untrainable]]
 - **leverage** — [[effort-position-leverage-principles]]
 - **life** — [[units-of-time-alfred-lin]]
+- **linear** — [[software-factory-linear-claude-cloud-routines]]
 - **linux** — [[ubuntu-shuttleworth-story]]
 - **litellm** — [[secure-automated-learning-loops-modal-claude-code]]
 - **llama** — [[Llama SAE Interpretability Project]]
@@ -3444,7 +3459,6 @@
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
-- **software-factory** — [[four-loops-ai-engineering-taxonomy-aparna]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]

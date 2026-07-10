@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-10
 
+- Ingest: Software factory Linear Claude routines (piersonmarks 2075361336381555096)
+
+## 2026-07-10
+
 - Ingest: Sierra Pinecone singular company agent (neilrahilly 2075290325757608148)
 
 ## 2026-07-10
