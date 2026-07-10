@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-10
 
+- Ingest: Speculative decoding roofline explainer (shreybirmiwal 2074666256402448732)
+
+## 2026-07-10
+
 - Ingest: Software factory Linear Claude routines (piersonmarks 2075361336381555096)
 
 ## 2026-07-10

@@ -162,6 +162,7 @@
 - [[claude-code-self-correcting-setup]] — [How to Make Claude Code Fix Its Own Mistakes Automatically](https://x.com/zodchiii/status/2059563487676784696)
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
 - [[inference-optimizations-sub-second-llm-checklist]] — [Inference optimizations for sub-second LLM responses (16-item checklist)](https://x.com/asmah2107/status/2071196830088777741) `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
+- [[speculative-decoding-history-roofline-shreybirmiwal]] — [Speculative decoding history — roofline to 8x lossless speedups](https://x.com/shreybirmiwal/status/2074666256402448732) `[inference, serving, speculative-decoding, gpu, kv-cache, medusa, eagle, roofline, throughput, latency]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] — [Are you still tuning your LLMs by hand? - An ode to GEPA](https://x.com/harold_matmul/status/2069836410052325711) `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
@@ -548,6 +549,7 @@
 - [[improving-agents-data-mining-traces]] `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[inference-engines-2026]] `[ai-ml, serving]`
 - [[inference-optimizations-sub-second-llm-checklist]] `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
+- [[speculative-decoding-history-roofline-shreybirmiwal]] `[inference, serving, speculative-decoding, gpu, kv-cache, medusa, eagle, roofline, throughput, latency, dflash, ddtree]`
 - [[introducing-dynamic-subagents-deep-agents]] `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[introducing-hrm-text]] `[papers, models]`
 - [[jim-simons-medallion-quant-framework]] `[quant, jim-simons, medallion, renaissance-technologies, trading, markov-chains, kelly-criterion, hurst-exponent, factor-model, finance]`

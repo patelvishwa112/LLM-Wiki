@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 380 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 381 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -341,6 +341,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [software-factory-linear-claude-cloud-routines.md](/processed/software-factory-linear-claude-cloud-routines.md) — *bookmark* — Pierson Marks' afternoon-build software factory — Linear as hub, Claude Code Cloud Routines for pre-triage loops (PostHog/Vercel/Stripe), webhook-triggered SDLC via auto label and /do skill.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning
 - [spec-kit-github-sdd.md](/processed/spec-kit-github-sdd.md) — *bookmark* — GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → ...
+- [speculative-decoding-history-roofline-shreybirmiwal.md](/processed/speculative-decoding-history-roofline-shreybirmiwal.md) — *bookmark* — Shrey Birmiwal walks speculative decoding from roofline arithmetic intensity through Leviathan draft-verify, rejection sampling, Medusa/Eagle/DFlash/DDTree, up to ~8x lossless decode speedups.
 - [stanford-storm-method-claude-research.md](/processed/stanford-storm-method-claude-research.md) — *bookmark* — Nav Toor shares the Stanford STORM method — a multi-agent research system that enables Claude to conduct deep, PhD-level research by orchestrating multiple specialized agents instead of single-shot prompting.
 - [sub-agents-inference-time-scaling.md](/processed/sub-agents-inference-time-scaling.md) — *bookmark* — Sub-Agents as Inference-Time Scaling Primitive
 - [superposition.md](/processed/superposition.md) — *concept* — Superposition

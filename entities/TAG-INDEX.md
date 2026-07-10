@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 895 unique tags across 380 processed notes.
+> 898 unique tags across 381 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -854,6 +854,14 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[what-is-kv-cache-llms]]
 
+### gpu (5)
+
+- [[how-gpu-executes-code-first-principles]]
+- [[how-vllm-works-amitiitbhu]]
+- [[kv-caching-llms-clearly-explained-avichawla]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
+- [[training-llm-from-scratch-5-lessons]]
+
 ### grpo (8)
 
 - [[autodata-synthetic-data-generation-explained]]
@@ -909,7 +917,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (11)
+### inference (12)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -921,6 +929,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[what-is-kv-cache-llms]]
 
 ### infrastructure (11)
@@ -971,7 +980,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### kv-cache (9)
+### kv-cache (10)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
@@ -981,6 +990,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[shepherd-reversible-execution-traces-avichawla]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[what-is-kv-cache-llms]]
 
 ### langchain (10)
@@ -1013,7 +1023,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
 
-### llm (20)
+### llm (21)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -1033,6 +1043,7 @@
 - [[opsd-off-policy-self-distillation]]
 - [[quarq-agent-memory-architecture]]
 - [[rl-interview-questions-2026]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
@@ -1559,7 +1570,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### serving (6)
+### serving (7)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-vllm-works-amitiitbhu]]
@@ -1567,6 +1578,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
 
 ### sft (5)
 
@@ -2257,13 +2269,6 @@
 - [[agent-swarms-production-governance]]
 - [[token-capital-scaffolding-process-governance]]
 
-### gpu (4)
-
-- [[how-gpu-executes-code-first-principles]]
-- [[how-vllm-works-amitiitbhu]]
-- [[kv-caching-llms-clearly-explained-avichawla]]
-- [[training-llm-from-scratch-5-lessons]]
-
 ### guardrails (2)
 
 - [[ai-agent-loop-architecture-buinevici]]
@@ -2349,9 +2354,10 @@
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 
-### latency (2)
+### latency (3)
 
 - [[inference-optimizations-sub-second-llm-checklist]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[vscode-copilot-token-efficiency]]
 
 ### llm-engineering (2)
@@ -2786,6 +2792,11 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[software-factory-linear-claude-cloud-routines]]
 
+### speculative-decoding (2)
+
+- [[inference-optimizations-sub-second-llm-checklist]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
+
 ### stakeholders (4)
 
 - [[ambient-pm-agents-evidence-first-prd]]
@@ -2844,10 +2855,11 @@
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-should-repair-itself]]
 
-### throughput (2)
+### throughput (3)
 
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
+- [[speculative-decoding-history-roofline-shreybirmiwal]]
 
 ### token-economy (4)
 
@@ -3108,6 +3120,7 @@
 - **dqn** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **dynamo** — [[torch-internals-part1-fx-graphs]]
+- **eagle** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
 - **email-list** — [[career-platform-email-list-ryan-holiday]]
@@ -3259,6 +3272,7 @@
 - **math** — [[attention-qkv-math-amitiitbhu]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
+- **medusa** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **mermaid** — [[hermes-seven-skills-cobi-bean]]
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
@@ -3411,6 +3425,7 @@
 - **risk-management** — [[4-agent-trading-desk]]
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rollouts** — [[continuous-batching-grpo-trl]]
+- **roofline** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **routing** — [[sakana-fugu-orchestrator-models]]
 - **rsi** — [[sia-recursive-self-improving-agent]]
 - **rss** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
@@ -3465,7 +3480,6 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
-- **speculative-decoding** — [[inference-optimizations-sub-second-llm-checklist]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **standards** — [[open-knowledge-format-okf-google]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
