@@ -630,6 +630,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]] `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[shepherd-reversible-execution-traces-avichawla]] `[agents, meta-agents, agent-harness, shepherd, reversible-execution, kv-cache, supervision, stanford]`
 - [[self-learning-agents-three-layers-user-signal]] `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
+- [[sierra-pinecone-singular-company-agent]] `[agents, agent-harness, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
 - [[skill-solo-millionaires-ai-era]] `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
