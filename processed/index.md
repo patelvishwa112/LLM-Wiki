@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 377 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 378 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -161,6 +161,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [generative-ui-is-the-new-frontend.md](/processed/generative-ui-is-the-new-frontend.md) — *bookmark* — Generative UI Is the New Frontend
 - [ghost-in-residual-stream-experiment.md](/processed/ghost-in-residual-stream-experiment.md) — *experiment* — The Ghost in the Residual Stream: I Probed Every Layer of a 0.5B Model and Found Something Weird
 - [github-qubot-data-analytics-agent.md](/processed/github-qubot-data-analytics-agent.md) — *bookmark* — How we built an internal data analytics agent (Qubot)
+- [glean-coding-harness-programmatic-tool-calling.md](/processed/glean-coding-harness-programmatic-tool-calling.md) — *bookmark* — Glean's enterprise agent harness uses 100% programmatic Python tool calls, sandbox file truncation, and search-driven progressive disclosure — 24% fewer tokens than hybrid tool-calling.
 - [goal-loss-functions-distill-product.md](/processed/goal-loss-functions-distill-product.md) — *bookmark* — /goal + Loss Functions: How to Distill a Product in 30 Hours with One Prompt [Full Playbook\]
 - [goal-primitive-guide.md](/processed/goal-primitive-guide.md) — *processed-note* — /goal: The Agent Primitive
 - [goodfire-parameter-decomposition-interpretability.md](/processed/goodfire-parameter-decomposition-interpretability.md) — *note* — Goodfire: Parameter Decomposition for Model Interpretability

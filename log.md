@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-10
+
+- Ingest: Glean coding harness programmatic tool calling (tonygentilcore 2075234683202531403)
+
 ## 2026-07-08
 
 - Ingest: How to Create the Right Skill for Your AI Agent (free_ai_guides 2071666929451094227)

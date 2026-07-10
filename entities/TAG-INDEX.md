@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 889 unique tags across 377 processed notes.
+> 891 unique tags across 378 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (69)
+### agent-harness (70)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -53,6 +53,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[glean-coding-harness-programmatic-tool-calling]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -123,7 +124,7 @@
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (25)
+### agent-ops (26)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -137,6 +138,7 @@
 - [[claude-managed-agents]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[evals-strategic-ip-garrettlord]]
+- [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[llms-securing-source-code]]
@@ -672,6 +674,14 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
+### context-management (5)
+
+- [[agent-harness-engineering-agentforge]]
+- [[glean-coding-harness-programmatic-tool-calling]]
+- [[harness-engineering-2026-discipline]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[your-ais-memory-is-quietly-making-it-dumber]]
+
 ### continual-learning (6)
 
 - [[continual-learning-replit-agent-vibench]]
@@ -681,13 +691,14 @@
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
 
-### cost-optimization (9)
+### cost-optimization (10)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
 - [[claude-code-cost-optimization-prompts]]
 - [[deep-agents-prompt-caching]]
 - [[deepseek-v4-claude-code-setup]]
+- [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
@@ -746,7 +757,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (15)
+### enterprise (16)
 
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
@@ -756,6 +767,7 @@
 - [[claude-cowork-product-guide]]
 - [[claude-managed-agents]]
 - [[enterprise-and-industry-applications]]
+- [[glean-coding-harness-programmatic-tool-calling]]
 - [[llms-securing-source-code]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-sandbox-mcp]]
@@ -843,11 +855,12 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (8)
+### harness-engineering (9)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
 - [[fable-5-self-improving-system-14-steps]]
+- [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
@@ -1344,6 +1357,14 @@
 - [[skill-solo-millionaires-ai-era]]
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
+
+### progressive-disclosure (5)
+
+- [[anthropic-claude-code-skills-lessons]]
+- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[glean-coding-harness-programmatic-tool-calling]]
+- [[how-to-create-right-skill-ai-agent]]
+- [[writing-good-skills-measured-rulebook-aparna]]
 
 ### projects (5)
 
@@ -1975,13 +1996,6 @@
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
-### context-management (4)
-
-- [[agent-harness-engineering-agentforge]]
-- [[harness-engineering-2026-discipline]]
-- [[harness-is-the-product-context-aware-agents]]
-- [[your-ais-memory-is-quietly-making-it-dumber]]
-
 ### context-rot (2)
 
 - [[harness-is-the-product-context-aware-agents]]
@@ -2556,13 +2570,6 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[improving-agents-data-mining-traces]]
 
-### progressive-disclosure (4)
-
-- [[anthropic-claude-code-skills-lessons]]
-- [[build-claude-skill-never-paste-prompt-0xlagosaur]]
-- [[how-to-create-right-skill-ai-agent]]
-- [[writing-good-skills-measured-rulebook-aparna]]
-
 ### project-ideas (2)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -2699,6 +2706,11 @@
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[llms-securing-source-code]]
 - [[secure-automated-learning-loops-modal-claude-code]]
+
+### search (2)
+
+- [[glean-coding-harness-programmatic-tool-calling]]
+- [[rethinking-search-as-code-generation]]
 
 ### self-correction (2)
 
@@ -3121,6 +3133,7 @@
 - **github** — [[spec-kit-github-sdd]]
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
+- **glean** — [[glean-coding-harness-programmatic-tool-calling]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
 - **goal** — [[hermes-goal-mode-guide]]
@@ -3330,6 +3343,7 @@
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
+- **programmatic-tool-calling** — [[glean-coding-harness-programmatic-tool-calling]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
 - **providers** — [[the-best-models-for-hermes-agent]]
 - **pruning** — [[trimming-introduction]]
@@ -3386,7 +3400,6 @@
 - **scalable-oversight** — [[scalable-oversight]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]
 - **scope-control** — [[building-your-first-ai-agent-clear-path]]
-- **search** — [[rethinking-search-as-code-generation]]
 - **second-self** — [[second-self-vs-second-brain-obsidian]]
 - **self-evolving** — [[self-evolving-autoresearch-workflow-loops]]
 - **self-improving** — [[self-improving-agent-swarm-kimi-loop]]

@@ -52,6 +52,7 @@
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi]`
 - [[how-to-build-custom-agent-harness-langchain]] — [How to Build a Custom Agent Harness](https://www.langchain.com/blog/how-to-build-a-custom-agent-harness) `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
+- [[glean-coding-harness-programmatic-tool-calling]] — [Glean coding harness — 100% programmatic tool calling (24% tokens)](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, search]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[how-to-use-rlms-in-deep-agents]] — [How to Use RLMs in Deep Agents](https://x.com/sydneyrunkle/status/2072347918447558978) `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
@@ -232,6 +233,7 @@
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents]`
+- [[glean-coding-harness-programmatic-tool-calling]] — [Building an efficient harness for advanced enterprise work](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management]`
 
 ### Evals
 
@@ -502,6 +504,7 @@
 - [[gaurigupta]] `[productivity, papers]`
 - [[gbrain-markdown-git-brain-mem0]] `[agents, agent-memory, mem0, gbrain, garry-tan, knowledge-graph, obsidian, wikilinks, rag, retrieval, openclaw, hermes, second-brain, git]`
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
+- [[glean-coding-harness-programmatic-tool-calling]] `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management, search, agent-ops]`
 - [[googlegemma]] `[interpretability]`
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]] `[evals]`
 - [[harbor-rl-coding-environments]] `[rl, agents, evals, training]`
