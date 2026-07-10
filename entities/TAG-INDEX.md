@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 891 unique tags across 378 processed notes.
+> 894 unique tags across 379 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (70)
+### agent-harness (71)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -89,6 +89,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[shepherd-reversible-execution-traces-avichawla]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
@@ -124,7 +125,7 @@
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (26)
+### agent-ops (27)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -148,6 +149,7 @@
 - [[managed-agents-sandbox-mcp]]
 - [[mcp-model-context-protocol]]
 - [[production-rag-agents-technmak]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[two-tracks-not-ten-agents]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
@@ -163,7 +165,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (167)
+### agents (168)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -313,6 +315,7 @@
 - [[self-learning-agents-three-layers-user-signal]]
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sia-recursive-self-improving-agent]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
 - [[ten-commandments-building-product-feitong-yang]]
@@ -420,7 +423,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[universal-agent-thesis]]
 
-### artifacts (6)
+### artifacts (7)
 
 - [[10-rules-polished-ui-claude]]
 - [[claude-fable-map-territory-unknowns-trq212]]
@@ -428,6 +431,7 @@
 - [[claude-interactive-visuals]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[personal-ai-assistant-claude-0-cost]]
+- [[sierra-pinecone-singular-company-agent]]
 
 ### automation (9)
 
@@ -515,7 +519,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (81)
+### claude-code (82)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -589,6 +593,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[spec-kit-github-sdd]]
 - [[the-full-loop-in-code]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -623,7 +628,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (12)
+### codex (13)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -634,6 +639,7 @@
 - [[learn-harness-engineering]]
 - [[loop-engineering]]
 - [[nvidia-skillspector-security-scanner]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[the-best-models-for-hermes-agent]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -757,7 +763,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (16)
+### enterprise (17)
 
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
@@ -774,6 +780,7 @@
 - [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
 - [[opus-cybersecurity-partners]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[zero-trust-ai-agents]]
 
 ### evals (25)
@@ -1061,7 +1068,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (32)
+### mcp (33)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1093,6 +1100,7 @@
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
 
@@ -1316,7 +1324,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (39)
+### productivity (40)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1354,6 +1362,7 @@
 - [[opus-48-token-economy-guide]]
 - [[pm-as-context-compressor]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
@@ -3294,6 +3303,7 @@
 - **oracles** — [[loop-driven-development]]
 - **osint** — [[osiris-open-source-palantir-tool]]
 - **osmosis** — [[multi-lora-training-osmosis]]
+- **outcomes** — [[sierra-pinecone-singular-company-agent]]
 - **overview** — [[anthropic-publications]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
 - **parallel-agents** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
@@ -3313,6 +3323,7 @@
 - **phd** — [[level-above-phd-knowledge-works-without-you]]
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **phoebe** — [[post-agent-companies]]
+- **pinecone** — [[sierra-pinecone-singular-company-agent]]
 - **pipelines** — [[why-layout-matters-document-processing]]
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
@@ -3421,6 +3432,7 @@
 - **shepherd** — [[shepherd-reversible-execution-traces-avichawla]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
 - **siem** — [[claude-compliance-security-partners]]
+- **sierra** — [[sierra-pinecone-singular-company-agent]]
 - **signal-detection** — [[jim-simons-medallion-quant-framework]]
 - **signaling** — [[effort-position-leverage-principles]]
 - **similarity-search** — [[how-vector-database-works]]

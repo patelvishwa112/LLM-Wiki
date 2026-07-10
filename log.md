@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-10
 
+- Ingest: Sierra Pinecone singular company agent (neilrahilly 2075290325757608148)
+
+## 2026-07-10
+
 - Ingest: Glean coding harness programmatic tool calling (tonygentilcore 2075234683202531403)
 
 ## 2026-07-08
