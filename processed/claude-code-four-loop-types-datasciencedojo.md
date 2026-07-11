@@ -11,7 +11,7 @@ raw: "[[raw/datasciencedojo_2075671400900157670]]"
 
 # Claude Code Four Loop Types
 
-**Source:** [X @DataScienceDojo](https://x.com/datasciencedojo/status/2075671400900157670) · [blog](https://datasciencedojo.com/blog/ai-agent-loop-types/)
+**Source:** [X @DataScienceDojo](https://x.com/datasciencedojo/status/2075671400900157670) · [blog](https://datasciencedojo.com/blog/ai-agent-loop-types/) (raw via Playwright MCP)
 
 ## Summary
 
