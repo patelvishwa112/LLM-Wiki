@@ -2,6 +2,22 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-11
+
+- Ingest: Claude Code four loop types (datasciencedojo 2075671400900157670)
+
+## 2026-07-11
+
+- Ingest: Agent-as-a-Judge trajectory evals (aparnadhinak 2075688574960488558)
+
+## 2026-07-11
+
+- Ingest: Loopholing schedule seams (creatorpascal 2075357304690516005)
+
+## 2026-07-11
+
+- Ingest: Fable manager Sol worker (nateherk 2075394620536578128)
+
 ## 2026-07-10
 
 - Ingest: Speculative decoding roofline explainer (shreybirmiwal 2074666256402448732)

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 381 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 385 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -26,6 +26,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [adapad-lora-parallel-deflation.md](/processed/adapad-lora-parallel-deflation.md) — *note* — AdaPaD: Parallel Rank-1 Deflation for LoRA
 - [addy-osmani-agent-autonomy-ladder-six-levels.md](/processed/addy-osmani-agent-autonomy-ladder-six-levels.md) — *bookmark* — Addy Osmani’s six-level agent autonomy ladder (assist → factory orchestration) splits agency vs orchestration, ties each rung to verification/evidence, and lists contracts, metrics, and anti-patterns.
 - [addy-osmani-agent-skills-open-source.md](/processed/addy-osmani-agent-skills-open-source.md) — *bookmark* — Granite0x highlights Addy Osmani open-sourcing his personal Claude agent-skills repo (MIT, drop-in loadout)—harness/wrapper over raw model choice.
+- [agent-as-a-judge-trajectory-evals-aparna.md](/processed/agent-as-a-judge-trajectory-evals-aparna.md) — *bookmark* — Aparna on paper→product Agent-as-a-Judge: trajectory failures, DevAI results, Swiss-cheese eval stack, Arize AX/Signal.
 - [agent-evals-practical-guide.md](/processed/agent-evals-practical-guide.md) — *bookmark* — Agent Evals — Practical Guide to Measuring Agents in Production
 - [agent-harness-engineering-agentforge.md](/processed/agent-harness-engineering-agentforge.md) — *bookmark* — Building AgentForge — an agent harness from scratch in Python — taught that an agent is not a model but a runtime. The model is ~20% of the engineering. The other 80% is the harness: action space, approval policy, obs...
 - [agent-harness-engineering-claude-14-step-roadmap.md](/processed/agent-harness-engineering-claude-14-step-roadmap.md) — *bookmark* — Codez outlines a 14-step roadmap for moving from basic Claude Code usage to a full agent harness with rules, subagents, hooks, and memory — the missing foundation under agent loops.
@@ -91,6 +92,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [claude-code-changed-what-agents-look-like.md](/processed/claude-code-changed-what-agents-look-like.md) — *article* — Claude Code Just Changed What "Agents" Look Like
 - [claude-code-cost-optimization-prompts.md](/processed/claude-code-cost-optimization-prompts.md) — *processed-note* — Claude Code Cost Optimization: 20 Prompts to Cut Spend
 - [claude-code-dynamic-workflows-intro.md](/processed/claude-code-dynamic-workflows-intro.md) — *bookmark* — Dynamic workflows in Claude Code: Claude autonomously writes orchestration scripts that fan out tens to hundreds of parallel subagents, checks its own work, and iterates until answers converge. Use cases: codebase-wid...
+- [claude-code-four-loop-types-datasciencedojo.md](/processed/claude-code-four-loop-types-datasciencedojo.md) — *bookmark* — Data Science Dojo maps four Claude Code loops by what starts and stops them: turn, /goal, /loop-/schedule, proactive.
 - [claude-code-hidden-settings.md](/processed/claude-code-hidden-settings.md) — *processed-note* — Claude Code Hidden Settings Most Developers Never Touch
 - [claude-code-investment-research-setup.md](/processed/claude-code-investment-research-setup.md) — *bookmark* — Finance workflow using Claude Code with Obsidian, Playwright, and Firecrawl for investment research.
 - [claude-code-self-correcting-setup.md](/processed/claude-code-self-correcting-setup.md) — *bookmark* — How to Make Claude Code Fix Its Own Mistakes Automatically
@@ -150,6 +152,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [fable-5-mythos-prompting-masterclass.md](/processed/fable-5-mythos-prompting-masterclass.md) — *bookmark* — Plain-English guide to prompting Anthropic's Fable 5 (Mythos): long-running autonomous tasks, first-pass accuracy, clarifying questions, 50+ subagent management, superior vision, and coding/security audits. Optimal pr...
 - [fable-5-self-improving-system-14-steps.md](/processed/fable-5-self-improving-system-14-steps.md) — *bookmark* — 14-step roadmap for a compounding Fable 5 harness: four-layer stack, /goal vs Outcomes, verifiers, STATE.md, Skills, Routines, and model routing.
 - [fable-5-system-prompt.md](/processed/fable-5-system-prompt.md) — *bookmark* — Full system prompt for a personalized Fable 5 briefing assistant: role definition, length/cut rules, skepticism posture, operational reality first, output format, and detailed reference material on access, safeguards,...
+- [fable-manager-sol-worker-nateherk.md](/processed/fable-manager-sol-worker-nateherk.md) — *bookmark* — Nate Herk hands-on Fable 5 vs GPT-5.6 Sol: manager vs worker split, creative builds, API refusals, and cost/token efficiency.
 - [fable-orchestrate-huge-project-40-subagents-ryancarson.md](/processed/fable-orchestrate-huge-project-40-subagents-ryancarson.md) — *bookmark* — Ryan Carson — Fable/Devin parent + 40 children for 834-file migration (prod data + schema); manifest, risk waves, gates, ~$1.1K, zero incidents.
 - [fast-slow-training-continual-llm-adaptation.md](/processed/fast-slow-training-continual-llm-adaptation.md) — *note* — Fast-Slow Training for Continual LLM Adaptation
 - [fault-tolerance-langgraph-retries-timeouts.md](/processed/fault-tolerance-langgraph-retries-timeouts.md) — *bookmark* — Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers
@@ -250,6 +253,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-engineering-quietly-ate-prompt-engineering.md](/processed/loop-engineering-quietly-ate-prompt-engineering.md) — *bookmark* — Field guide defining agent loops vs cron, five meanings of loop, verification brakes, skills as compounding assets, and a three-level build ladder.
 - [loop-engineering-technical-roadmap-h100envy.md](/processed/loop-engineering-technical-roadmap-h100envy.md) — *bookmark* — Step-by-step technical roadmap for autonomous agent loops: external deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking gates, disk state, isolation, and JSONL observability.
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
+- [loopholing-schedule-seams-creatorpascal.md](/processed/loopholing-schedule-seams-creatorpascal.md) — *bookmark* — Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep.
 - [macro-evals-for-agentic-systems-openai-cookbook.md](/processed/macro-evals-for-agentic-systems-openai-cookbook.md) — *bookmark* — Macro Evals for Agentic Systems (OpenAI Cookbook)
 - [make-requirements-great.md](/processed/make-requirements-great.md) — *bookmark* — make-requirements-great skill for PMs: enforces three altitudes of requirements, scans for weasel words, performs catalogue-level checks (consistency, completeness, traceability), and flags open decisions instead of i...
 - [making-ai-agent-production-ready-sarthakrastogi.md](/processed/making-ai-agent-production-ready-sarthakrastogi.md) — *bookmark* — Sarthak Rastogi tutorial — production Apple-style support bot with FastAPI, LangGraph, GPTCache, Presidio, Rival AI, PageIndex RAG, Ragas validation, LangSmith.

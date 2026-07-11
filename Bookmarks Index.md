@@ -107,6 +107,8 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[software-factory-linear-claude-cloud-routines]] — [Software factory in an afternoon — Linear + Claude Cloud Routines](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
+- [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
+- [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] — [Your AI's Memory Is Quietly Making It Dumber (I Cut Mine to 6 Files)](https://x.com/mvanhorn/status/2070966613994795489) `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
@@ -137,6 +139,7 @@
 - [[designing-loops-with-fable-5]] — [Designing loops with Fable 5](https://x.com/RLanceMartin/status/2064397389189071163) `[anthropic, fable-5, claude, agents, loops, self-correction, memory, continual-learning]`
 - [[fable-5-self-improving-system-14-steps]] — [Build self-improving agent system with Fable 5 in 14 steps](https://x.com/0xcodez/status/2065089060104720776) `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable orchestrator — 40 sub-agents, 834-file migration, zero incidents](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, multi-agent, orchestration, subagents, devin, verification, production, migration, human-in-the-loop]`
+- [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 
 ### Ai Ml
@@ -203,6 +206,7 @@
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now. (SkillsBench)](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, coding-tools]`
 - [[how-to-create-right-skill-ai-agent]] — [How to Create the Right Skill for Your AI Agent](https://x.com/free_ai_guides/status/2071666929451094227) `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
+- [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
@@ -242,6 +246,7 @@
 
 ### Evals
 
+- [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [Applied AI engineer guide — outcome vs trajectory evals](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, evals, trajectory-grading, agent-harness, career]`
 - [[article]] — [Article](https://x.com/AmarSVS/status/2051470760947159197)
@@ -313,6 +318,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
+- [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
 
 ### Papers
 
@@ -338,6 +344,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[human-nature-meta-skill-dan-koe]] — [Human Nature as the Meta-Skill](https://x.com/thedankoe/status/2073418764058825045) `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
+- [[loopholing-schedule-seams-creatorpascal]] — [Loopholing — reclaim calendar seams](https://x.com/creatorpascal/status/2075357304690516005) `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
 - [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
@@ -407,6 +414,7 @@
 - [[540k-lines-i-didnt-need-garry-tan]] `[skills, agents, garry-tan, markdown, architecture]`
 - [[agent-harness-engineering-agentforge]] `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 - [[agent-harness-should-repair-itself]] `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
+- [[agent-as-a-judge-trajectory-evals-aparna]] `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
 - [[agent-memory-four-layer-stack-matthew-gunnin]] `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
 - [[agent-native-career-advice-philhchen]] `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
@@ -464,6 +472,7 @@
 - [[claude-fable-map-territory-unknowns-trq212]] `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
 - [[claude-code-changed-what-agents-look-like]] `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-code-dynamic-workflows-intro]] `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
+- [[claude-code-four-loop-types-datasciencedojo]] `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[claude-code-self-correcting-setup]] `[claude-code, engineering]`
 - [[claude-code-slash-command-library]] `[claude-code, slash-commands, skills, productivity, templates]`
 - [[claude-compliance-security-partners]] `[anthropic, security, compliance, enterprise, claude, dlp, siem]`
@@ -500,6 +509,7 @@
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
 - [[fable-5-self-improving-system-14-steps]] `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
+- [[fable-manager-sol-worker-nateherk]] `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] `[fable-5, agents, multi-agent, orchestration, subagents, devin, agent-harness, verification, production, migration, human-in-the-loop]`
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
@@ -571,6 +581,7 @@
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
+- [[loopholing-schedule-seams-creatorpascal]] `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`
 - [[loop-designer-ten-step-roadmap-de1lymoon]] `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[loop-engineering-14-step-roadmap]] `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
