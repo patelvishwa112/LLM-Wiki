@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 905 unique tags across 388 processed notes.
+> 907 unique tags across 389 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -472,7 +472,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (15)
+### career (16)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -482,6 +482,7 @@
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-research]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[ideas-build-better-personal-network-benln]]
 - [[jp-morgan-quant-python-training]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - [[mid-career-dissatisfaction]]
@@ -1379,7 +1380,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (42)
+### productivity (43)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1412,6 +1413,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iceberg-opus-48-prompts]]
 - [[ideacide-eleven-filters-drurly]]
+- [[ideas-build-better-personal-network-benln]]
 - [[loopholing-schedule-seams-creatorpascal]]
 - [[mcp-server-workflow-problems]]
 - [[mid-career-dissatisfaction]]
@@ -2060,6 +2062,11 @@
 - [[anthropic-internal-claude-code-workflow]]
 - [[coding-agent-harness-eight-pillars]]
 
+### communication (2)
+
+- [[ideas-build-better-personal-network-benln]]
+- [[pm-as-context-compressor]]
+
 ### compounding (3)
 
 - [[knowledge-system-compounding-obsidian-vellum]]
@@ -2515,6 +2522,11 @@
 - [[fable-5-mythos-prompting-masterclass]]
 - [[fable-5-system-prompt]]
 - [[how-to-actually-use-claude-fable-5]]
+
+### networking (2)
+
+- [[browser-internals-chromium-architecture]]
+- [[ideas-build-better-personal-network-benln]]
 
 ### on-policy-distillation (3)
 
@@ -3137,7 +3149,6 @@
 - **cloud-agents** — [[human-in-the-loop-agent-loops]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
-- **communication** — [[pm-as-context-compressor]]
 - **communities** — [[0xsojalsec-llms-local]]
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
@@ -3386,7 +3397,6 @@
 - **multilingual** — [[trimming-introduction]]
 - **n8n** — [[knowledge-system-compounding-obsidian-vellum]]
 - **network-effects** — [[post-agent-companies]]
-- **networking** — [[browser-internals-chromium-architecture]]
 - **neural-network** — [[jim-simons-medallion-quant-framework]]
 - **neuroscience** — [[anthropic-global-workspace-j-space]]
 - **newsletter** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
@@ -3483,6 +3493,7 @@
 - **refusal** — [[how-to-actually-use-claude-fable-5]]
 - **regime-detection** — [[jim-simons-medallion-quant-framework]]
 - **regulation** — [[ai-policy-and-regulation]]
+- **relationships** — [[ideas-build-better-personal-network-benln]]
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
 - **renaissance-technologies** — [[jim-simons-medallion-quant-framework]]
 - **rendering-pipeline** — [[browser-internals-chromium-architecture]]
@@ -3556,6 +3567,7 @@
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **soft-skills** — [[ideas-build-better-personal-network-benln]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]

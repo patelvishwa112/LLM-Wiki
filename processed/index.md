@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 388 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 389 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -218,6 +218,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [hundred-x-agentic-engineer-preferences-systematicls.md](/processed/hundred-x-agentic-engineer-preferences-systematicls.md) — *bookmark* — sysls (@systematicls) on 100x agentic engineers — human bottleneck, declarative vs imperative and strategic vs tactical preferences, taste and harness vocabulary.
 - [iceberg-opus-48-prompts.md](/processed/iceberg-opus-48-prompts.md) — *bookmark* — Iceberg: The Prompts That Unleash Opus 4.8
 - [ideacide-eleven-filters-drurly.md](/processed/ideacide-eleven-filters-drurly.md) — *bookmark* — Dru Riley’s Ideacide checklist — 11 filters (personal use, Seven Powers, counter-positioning, portfolio fit, demand signal) to kill weak business ideas before they consume years.
+- [ideas-build-better-personal-network-benln.md](/processed/ideas-build-better-personal-network-benln.md) — *bookmark* — Ben Lang (@benln) 15 tactical network-building habits: specific asks, low-friction help, thank-yous, active listening, connector habits, consistency, and earned optimism.
 - [iii-agent-harness-workers.md](/processed/iii-agent-harness-workers.md) — *bookmark* — How to Build Your Own Agent Harness
 - [improving-agents-data-mining-traces.md](/processed/improving-agents-data-mining-traces.md) — *bookmark* — Viv Trivedy (LangChain) — traces as the substrate for continual learning, harness engineering, and post-training; Scaling Dreaming, LangSmith Engine, and Harness→FT→Harness funnel.
 - [induction-heads.md](/processed/induction-heads.md) — *concept* — Induction Heads
