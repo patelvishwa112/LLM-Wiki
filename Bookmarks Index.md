@@ -168,6 +168,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]] — [Inference optimizations for sub-second LLM responses (16-item checklist)](https://x.com/asmah2107/status/2071196830088777741) `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
 - [[speculative-decoding-history-roofline-shreybirmiwal]] — [Speculative decoding history — roofline to 8x lossless speedups](https://x.com/shreybirmiwal/status/2074666256402448732) `[inference, serving, speculative-decoding, gpu, kv-cache, medusa, eagle, roofline, throughput, latency]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] — [Are you still tuning your LLMs by hand? - An ode to GEPA](https://x.com/harold_matmul/status/2069836410052325711) `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
@@ -320,6 +321,7 @@
 - [[attention-qkv-math-amitiitbhu]] — [Math behind Attention - Q, K, and V](https://x.com/amitiitbhu/status/2040027305297526811) `[transformers, attention, llm, fundamentals, math, qkv, softmax, embeddings]`
 - [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP topology (Mainz)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
 
@@ -607,6 +609,7 @@
 - [[mlx-engine-v185-kv-cache-agentic]] `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving, optimization]`
 - [[mnilax]] `[ai-ml]`
 - [[mnilax]] `[ai-ml]`
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems, llm]`
 - [[multi-lora-training-osmosis]] `[lora, rl, training, qwen, slm]`
 - [[multi-perspective-prd-review-claude-code]] `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows, product-management]`
 - [[mushtaqbilalphd]] `[models]`

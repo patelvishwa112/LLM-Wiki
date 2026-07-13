@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 387 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 388 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -277,6 +277,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [model-welfare.md](/processed/model-welfare.md) — *concept* — Model Welfare
 - [modern-ai-robotics-first-principles.md](/processed/modern-ai-robotics-first-principles.md) — *bookmark* — An Overview of Modern AI Robotics from First Principles
 - [mosaic-probabilistic-weather-model.md](/processed/mosaic-probabilistic-weather-model.md) — *note* — Mosaic: Probabilistic Weather Model
+- [multi-gpu-inference-tp-pp-sp-ep-mainzonx.md](/processed/multi-gpu-inference-tp-pp-sp-ep-mainzonx.md) — *bookmark* — Adam Mainz multi-GPU inference Part 2: capacity cliff (weights + KV), TP/PP/SP/EP tradeoffs, topology hierarchy (HBM → NVLink → IB), and vLLM/TensorRT-LLM orchestration.
 - [multi-lora-training-osmosis.md](/processed/multi-lora-training-osmosis.md) — *bookmark* — Multi-LoRA Training at Scale
 - [multi-perspective-prd-review-claude-code.md](/processed/multi-perspective-prd-review-claude-code.md) — *bookmark* — Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng, design, exec, legal, UX, customer, devil's advocate) surface PRD objections before circulation — maps to dynamic workflows fan-out; packages as m...
 - [not-ambitious-enough-with-claude.md](/processed/not-ambitious-enough-with-claude.md) — *bookmark* — Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders.

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 903 unique tags across 387 processed notes.
+> 905 unique tags across 388 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -881,11 +881,12 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[what-is-kv-cache-llms]]
 
-### gpu (5)
+### gpu (6)
 
 - [[how-gpu-executes-code-first-principles]]
 - [[how-vllm-works-amitiitbhu]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 
@@ -946,7 +947,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (12)
+### inference (13)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -958,6 +959,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[what-is-kv-cache-llms]]
 
@@ -1009,7 +1011,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### kv-cache (10)
+### kv-cache (11)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
@@ -1018,6 +1020,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[what-is-kv-cache-llms]]
@@ -1052,7 +1055,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
 
-### llm (21)
+### llm (22)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -1069,6 +1072,7 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[opsd-off-policy-self-distillation]]
 - [[quarq-agent-memory-architecture]]
 - [[rl-interview-questions-2026]]
@@ -1608,7 +1612,7 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### serving (7)
+### serving (8)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-vllm-works-amitiitbhu]]
@@ -1616,6 +1620,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
 ### sft (5)
@@ -2165,10 +2170,11 @@
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[the-html-brand-input-based-outcomes]]
 
-### distributed-systems (2)
+### distributed-systems (3)
 
 - [[10-hall-of-fame-engineering-papers]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 
 ### dpo (3)
 
@@ -2491,8 +2497,9 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### moe (2)
+### moe (3)
 
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 
@@ -3010,10 +3017,11 @@
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[notes-on-foundation-models]]
 
-### vllm (2)
+### vllm (3)
 
 - [[0xsojalsec-llms-local]]
 - [[how-vllm-works-amitiitbhu]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 
 ### vlm (4)
 
@@ -3427,6 +3435,7 @@
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **phoebe** — [[post-agent-companies]]
 - **pinecone** — [[sierra-pinecone-singular-company-agent]]
+- **pipeline-parallelism** — [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - **pipelines** — [[why-layout-matters-document-processing]]
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
@@ -3574,6 +3583,7 @@
 - **tdd** — [[loop-driven-development]]
 - **teacher-model** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **team-structure** — [[ai-native-engineering-org]]
+- **tensor-parallelism** — [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - **teresa-torres** — [[opportunity-ai-pm-os-workflow]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
