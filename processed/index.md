@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 385 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 386 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -182,6 +182,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [hermes-agent-10x-faster-vault-index.md](/processed/hermes-agent-10x-faster-vault-index.md) — *bookmark* — Vault INDEX.md + concern-based numbered folders cut Hermes file-navigation time (~2 min → ~10–26s on author’s tasks) without changing models.
 - [hermes-agent-use-cases-multi-agent-setup.md](/processed/hermes-agent-use-cases-multi-agent-setup.md) — *bookmark* — Hermes Agent Use Cases — Multi-Agent Setup and Philosophy
 - [hermes-agent-user-experience.md](/processed/hermes-agent-user-experience.md) — *bookmark* — Hermes Agent — User Experience and Productivity Impact
+- [hermes-alpha-trackers-onchain-forensics-0xjeff.md](/processed/hermes-alpha-trackers-onchain-forensics-0xjeff.md) — *bookmark* — 0xJeff's production Hermes workflows: daily analyst trackers + bookmark triage + Top 10 alpha synthesis with rotating contrarian sources, plus onchain forensics cross-checked against X sentiment.
 - [hermes-goal-mode-guide.md](/processed/hermes-goal-mode-guide.md) — *bookmark* — Hermes /goal — Standing Jobs Instead of Disposable Prompts
 - [hermes-harness-deep-dive-aparnadhinak.md](/processed/hermes-harness-deep-dive-aparnadhinak.md) — *analysis* — Hermes Agent Harness Deep Dive by Aparna Dhinakaran (May 2026)
 - [hermes-kanban-mission-control.md](/processed/hermes-kanban-mission-control.md) — *bookmark* — Hermes Kanban: Mission Control for Your Agents

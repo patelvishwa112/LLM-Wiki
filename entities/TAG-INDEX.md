@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 902 unique tags across 385 processed notes.
+> 903 unique tags across 386 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -112,7 +112,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (13)
+### agent-memory (14)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -123,12 +123,13 @@
 - [[graph-memory-reconstruction-llms]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (27)
+### agent-ops (28)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -144,6 +145,7 @@
 - [[evals-strategic-ip-garrettlord]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[llms-securing-source-code]]
 - [[loop-engineering-technical-roadmap-h100envy]]
@@ -168,7 +170,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (172)
+### agents (173)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -253,6 +255,7 @@
 - [[harnessing-claudes-intelligence]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
@@ -732,11 +735,12 @@
 - [[loopholing-schedule-seams-creatorpascal]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
-### cronjob (5)
+### cronjob (6)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[claude-code-four-loop-types-datasciencedojo]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[software-factory-linear-claude-cloud-routines]]
 
@@ -907,7 +911,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
 
-### hermes (19)
+### hermes (20)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
@@ -918,6 +922,7 @@
 - [[dive-into-claude-code-vila-lab]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[hermes-agent-10x-faster-vault-index]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-goal-mode-guide]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
@@ -1368,7 +1373,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (41)
+### productivity (42)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1393,6 +1398,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-goal-mode-guide]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -1478,12 +1484,13 @@
 - [[quarq-agent-memory-architecture]]
 - [[virtual-filesystem-for-agent-assistants]]
 
-### research (7)
+### research (8)
 
 - [[Llama SAE Interpretability Project]]
 - [[agent-native-career-advice-philhchen]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[graph-memory-reconstruction-llms]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[how-to-be-good-at-research]]
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
@@ -1739,6 +1746,14 @@
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
+
+### trading (5)
+
+- [[4-agent-trading-desk]]
+- [[dqn-adaptive-trade-execution-ritonchain]]
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
+- [[jim-simons-medallion-quant-framework]]
+- [[markov-chains-polymarket-trading]]
 
 ### training (46)
 
@@ -2077,6 +2092,11 @@
 
 - [[Non-Obvious Agent Projects]]
 - [[priests-of-agi-interpretability-crisis]]
+
+### crypto (2)
+
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
+- [[how-to-read-company-ai-analyst]]
 
 ### cuda (2)
 
@@ -2907,13 +2927,6 @@
 - [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 
-### trading (4)
-
-- [[4-agent-trading-desk]]
-- [[dqn-adaptive-trade-execution-ritonchain]]
-- [[jim-simons-medallion-quant-framework]]
-- [[markov-chains-polymarket-trading]]
-
 ### transformer (2)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -3119,7 +3132,6 @@
 - **creativity** — [[the-html-brand-input-based-outcomes]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
-- **crypto** — [[how-to-read-company-ai-analyst]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
@@ -3356,6 +3368,7 @@
 - **off-policy** — [[opsd-off-policy-self-distillation]]
 - **ogilvy** — [[david-ogilvy-writing-coach-claude-skill]]
 - **ollama** — [[0xsojalsec-llms-local]]
+- **onchain** — [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - **one-person-company** — [[claude-cowork-one-person-company-2026]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]

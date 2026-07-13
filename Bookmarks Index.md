@@ -94,6 +94,7 @@
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
 - [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
 - [[hermes-agent-10x-faster-vault-index]] — [I Made My Hermes Agent 10x Faster Without Changing the Model](https://x.com/wandermist/status/2071930382581195105) `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]] — [2 Hermes Workflows I can't live without](https://x.com/0xjeff/status/2076631167152042204) `[hermes, agents, cronjob, agent-memory, trading, crypto, onchain, research, agent-ops]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, retention]`
 - [[claude-dynamic-workflows-second-brain]] — [Claude Dynamic Workflows for Your Second Brain](https://x.com/artemxtech/status/2062582596190498864) `[claude-code, dynamic-workflows, obsidian, second-brain]`
@@ -275,6 +276,7 @@
 - [[zodchiii]] — [zodchiii](https://x.com/zodchiii/status/2054137878968439247)
 - [[zostaff]] — [zostaff](https://x.com/zostaff/status/2054533153893613839)
 - [[4-agent-trading-desk]] — [How to build a 4-agent trading desk that finds and trades opportunities while you sleep](https://x.com/zodchiii/status/2063919809281110474) `[agents, trading, multi-agent, orchestration, automation, finance]`
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]] — [Hermes alpha trackers + onchain forensics (0xJeff)](https://x.com/0xjeff/status/2076631167152042204) `[hermes, trading, crypto, onchain, research, agent-ops, finance]`
 
 
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
@@ -529,6 +531,7 @@
 - [[here-is-the-full-timeline-of-policy-gradients-from]] `[finance, coding-tools]`
 - [[hermes-agent-10x-faster-vault-index]] `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
 - [[hermes-agent-changed-how-i-work]] `[agents, productivity]`
+- [[hermes-alpha-trackers-onchain-forensics-0xjeff]] `[hermes, agents, cronjob, agent-memory, trading, crypto, onchain, research, agent-ops, productivity]`
 - [[hermes-goal-mode-guide]] `[hermes, goal, productivity, workflows]`
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
 - [[hermes-seven-skills-cobi-bean]] `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, mermaid, meta-skills, superpowers]`
