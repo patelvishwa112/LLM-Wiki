@@ -250,6 +250,7 @@
 ### Evals
 
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
+- [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [Applied AI engineer guide — outcome vs trajectory evals](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, evals, trajectory-grading, agent-harness, career]`
 - [[article]] — [Article](https://x.com/AmarSVS/status/2051470760947159197)
@@ -510,6 +511,7 @@
 - [[dimitrispapail]] `[papers]`
 - [[dqn-adaptive-trade-execution-ritonchain]] `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, markov-chains, finance, systematic-trading]`
 - [[dive-into-claude-code-vila-lab]] `[claude-code, architecture, agent-engineering, harness-engineering, paper, hermes, openclaw]`
+- [[do-automated-evals-work-parlance-labs]] `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift, agents]`
 - [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-13
 
+- Ingest: Do Automated Evals Work? (parlance-labs auto-evals)
+
+## 2026-07-13
+
 - Ingest: Ideas to build a better personal network (benln 2076351797673824318)
 
 ## 2026-07-13

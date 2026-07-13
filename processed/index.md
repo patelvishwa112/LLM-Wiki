@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 389 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 390 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -138,6 +138,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [detecting-misuse.md](/processed/detecting-misuse.md) — *concept* — Detecting and Countering Misuse
 - [distillation-post-training-frontier-2026.md](/processed/distillation-post-training-frontier-2026.md) — *bookmark* — Sergio Paniego maps 2026 frontier distillation into off-policy, on-policy multi-teacher, and self-distillation with lab examples and TRL Class 2 tie-in.
 - [dive-into-claude-code-vila-lab.md](/processed/dive-into-claude-code-vila-lab.md) — *resource* — Dive into Claude Code (VILA-Lab)
+- [do-automated-evals-work-parlance-labs.md](/processed/do-automated-evals-work-parlance-labs.md) — *article* — Parlance Labs (Saha, Husain): auto error-analysis on 100 leasing-agent traces — best system 87% recall of human labels, misses UX/product goals invisible in traces alone; keep human-in-the-loop.
 - [dqn-adaptive-trade-execution-ritonchain.md](/processed/dqn-adaptive-trade-execution-ritonchain.md) — *bookmark* — RitOnchain (Venus) walks through DQN-based adaptive execution vs TWAP/VWAP: MDP state (inventory, time, LOB imbalance, price drift), impact+urgency reward, Double DQN PyTorch code, synthetic then LOBSTER/ABIDES valida...
 - [dynamic-workflows-where-plan-lives.md](/processed/dynamic-workflows-where-plan-lives.md) — *bookmark* — Claude Code Dynamic Workflows — Vox's 5 Rules
 - [economy-of-tokens-vipulved-modular-ai.md](/processed/economy-of-tokens-vipulved-modular-ai.md) — *bookmark* — Together AI CEO argues AI is modularizing like the PC era—transformers, OpenAI-compatible APIs, and harnesses/MCP as stable interfaces—making open weights an economic inevitability with order-of-magnitude cheaper toke...

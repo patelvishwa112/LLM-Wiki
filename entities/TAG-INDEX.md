@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 907 unique tags across 389 processed notes.
+> 909 unique tags across 390 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -170,7 +170,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (173)
+### agents (174)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -233,6 +233,7 @@
 - [[deep-agents-prompt-caching]]
 - [[design-good-ml-experiments-grigorev]]
 - [[distillation-post-training-frontier-2026]]
+- [[do-automated-evals-work-parlance-labs]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
@@ -812,7 +813,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[zero-trust-ai-agents]]
 
-### evals (26)
+### evals (27)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -825,6 +826,7 @@
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
+- [[do-automated-evals-work-parlance-labs]]
 - [[evals-strategic-ip-garrettlord]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
@@ -1039,9 +1041,10 @@
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 
-### langsmith (6)
+### langsmith (7)
 
 - [[deep-agents-prompt-caching]]
+- [[do-automated-evals-work-parlance-labs]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
 - [[improving-agents-data-mining-traces]]
@@ -1251,13 +1254,14 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### observability (15)
+### observability (16)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
 - [[continual-learning-replit-agent-vibench]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
+- [[do-automated-evals-work-parlance-labs]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
@@ -1968,9 +1972,10 @@
 - [[mcp-server-workflow-problems]]
 - [[nvidia-skillspector-security-scanner]]
 
-### arize (3)
+### arize (4)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
+- [[do-automated-evals-work-parlance-labs]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
@@ -2006,6 +2011,11 @@
 
 - [[big-book-of-llms]]
 - [[sutton-barto-rl-notes]]
+
+### braintrust (2)
+
+- [[continuous-trace-intelligence-braintrust-topics]]
+- [[do-automated-evals-work-parlance-labs]]
 
 ### browser-agents (2)
 
@@ -2445,10 +2455,11 @@
 - [[coding-agent-harness-eight-pillars]]
 - [[llm-engineering-projects-roadmap-2026]]
 
-### llm-judges (3)
+### llm-judges (4)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
+- [[do-automated-evals-work-parlance-labs]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 
 ### llm-training (2)
@@ -2970,6 +2981,11 @@
 - [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 
+### traces (2)
+
+- [[continuous-trace-intelligence-braintrust-topics]]
+- [[do-automated-evals-work-parlance-labs]]
+
 ### transformer (2)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -3127,7 +3143,6 @@
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
 - **biosecurity** — [[ai-biosecurity-and-nuclear]]
-- **braintrust** — [[continuous-trace-intelligence-braintrust-topics]]
 - **briefing** — [[fable-5-system-prompt]]
 - **browser-internals** — [[browser-internals-chromium-architecture]]
 - **browserbase** — [[autobrowse-browser-agent-memory]]
@@ -3178,6 +3193,7 @@
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **create-agent** — [[how-to-build-custom-agent-harness-langchain]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- **criteria-drift** — [[do-automated-evals-work-parlance-labs]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -3224,6 +3240,7 @@
 - **entity-resolution** — [[unified-memory-layers-entity-resolution]]
 - **environment** — [[harbor-rl-coding-environments]]
 - **epistemic-verbalization** — [[why-on-policy-distillation-works]]
+- **error-analysis** — [[do-automated-evals-work-parlance-labs]]
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **esm** — [[notes-on-foundation-models]]
 - **eval** — [[langchain-fireworks-trace-judge-100x-cheaper]]
@@ -3612,7 +3629,6 @@
 - **tool-use** — [[universal-agent-thesis]]
 - **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
-- **traces** — [[continuous-trace-intelligence-braintrust-topics]]
 - **trajectories** — [[agent-as-a-judge-trajectory-evals-aparna]]
 - **trajectory-grading** — [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - **triage** — [[problem-first-skill-invert-bad-ideas]]
