@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 903 unique tags across 386 processed notes.
+> 903 unique tags across 387 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -490,7 +490,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (37)
+### claude (38)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -514,6 +514,7 @@
 - [[fable-5-system-prompt]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harnessing-claudes-intelligence]]
+- [[how-to-actually-design-with-ai-lexnlin]]
 - [[how-to-actually-use-claude-fable-5]]
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -642,7 +643,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (14)
+### codex (15)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -651,6 +652,7 @@
 - [[every-agentic-engineering-hack-june-2026]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[guide-to-goal-codex]]
+- [[how-to-actually-design-with-ai-lexnlin]]
 - [[learn-harness-engineering]]
 - [[loop-engineering]]
 - [[nvidia-skillspector-security-scanner]]
@@ -1434,7 +1436,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (33)
+### prompt-engineering (34)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1452,6 +1454,7 @@
 - [[goal-loss-functions-distill-product]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
+- [[how-to-actually-design-with-ai-lexnlin]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
@@ -1623,7 +1626,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (56)
+### skills (57)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1656,6 +1659,7 @@
 - [[harnessing-claudes-intelligence]]
 - [[hermes-kanban-mission-control]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-actually-design-with-ai-lexnlin]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
@@ -2088,6 +2092,11 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[learn-harness-engineering]]
 
+### creativity (2)
+
+- [[how-to-actually-design-with-ai-lexnlin]]
+- [[the-html-brand-input-based-outcomes]]
+
 ### critique (2)
 
 - [[Non-Obvious Agent Projects]]
@@ -2150,6 +2159,11 @@
 
 - [[effort-position-leverage-principles]]
 - [[pattern-recognition-as-expertise-jaynitx]]
+
+### design (2)
+
+- [[how-to-actually-design-with-ai-lexnlin]]
+- [[the-html-brand-input-based-outcomes]]
 
 ### distributed-systems (2)
 
@@ -2268,6 +2282,11 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[learnings-training-llm-from-scratch]]
 - [[training-llm-from-scratch-5-lessons]]
+
+### frontend (2)
+
+- [[generative-ui-is-the-new-frontend]]
+- [[how-to-actually-design-with-ai-lexnlin]]
 
 ### frontend-design (2)
 
@@ -2891,6 +2910,11 @@
 - [[10-hall-of-fame-engineering-papers]]
 - [[building-a-good-vertical-agent]]
 
+### taste (2)
+
+- [[how-to-actually-design-with-ai-lexnlin]]
+- [[how-to-be-good-at-research]]
+
 ### templates (3)
 
 - [[claude-code-slash-command-library]]
@@ -2947,6 +2971,11 @@
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[athcanft-grow-x-make-money]]
+
+### ui (2)
+
+- [[10-rules-polished-ui-claude]]
+- [[how-to-actually-design-with-ai-lexnlin]]
 
 ### vault (2)
 
@@ -3129,7 +3158,6 @@
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **create-agent** — [[how-to-build-custom-agent-harness-langchain]]
-- **creativity** — [[the-html-brand-input-based-outcomes]]
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
@@ -3146,7 +3174,6 @@
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **delegation** — [[multi-perspective-prd-review-claude-code]]
-- **design** — [[the-html-brand-input-based-outcomes]]
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
@@ -3202,7 +3229,6 @@
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
 - **foundation-models** — [[notes-on-foundation-models]]
 - **friction** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
-- **frontend** — [[generative-ui-is-the-new-frontend]]
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
@@ -3545,7 +3571,6 @@
 - **synthesis** — [[second-self-vs-second-brain-obsidian]]
 - **system-prompt** — [[fable-5-system-prompt]]
 - **systematic-trading** — [[dqn-adaptive-trade-execution-ritonchain]]
-- **taste** — [[how-to-be-good-at-research]]
 - **tdd** — [[loop-driven-development]]
 - **teacher-model** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **team-structure** — [[ai-native-engineering-org]]
@@ -3575,7 +3600,6 @@
 - **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]
-- **ui** — [[10-rules-polished-ui-claude]]
 - **unsloth** — [[google-gemma-4-12b-local-fine-tuning]]
 - **user-research** — [[ten-commandments-building-product-feitong-yang]]
 - **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]

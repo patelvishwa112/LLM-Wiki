@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-13
 
+- Ingest: How To Actually Design With AI (lexnlin 2076422557180608888)
+
+## 2026-07-13
+
 - Ingest: 2 Hermes Workflows I can't live without (0xjeff 2076631167152042204)
 
 ## 2026-07-11

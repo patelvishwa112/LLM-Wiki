@@ -219,6 +219,7 @@
 ### Design
 
 - [[the-html-brand-input-based-outcomes]] — [The HTML Brand: The Rise of Input-Based Outcomes](https://x.com/emmettshine/status/2054539694097015171) `[design, agents, claude, creativity, strategy, business-models]`
+- [[how-to-actually-design-with-ai-lexnlin]] — [How To Actually Design With AI](https://x.com/lexnlin/status/2076422557180608888) `[design, skills, ui, frontend, prompt-engineering, taste, creativity]`
 
 ### Document Processing
 
@@ -539,6 +540,7 @@
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
+- [[how-to-actually-design-with-ai-lexnlin]] `[design, skills, ui, frontend, prompt-engineering, taste, claude, codex, creativity]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems, trajectory-grading]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
