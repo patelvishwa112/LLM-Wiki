@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 926 unique tags across 397 processed notes.
+> 931 unique tags across 398 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -421,7 +421,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (19)
+### architecture (20)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -435,6 +435,7 @@
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[learnings-training-llm-from-scratch]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[notes-on-foundation-models]]
@@ -971,7 +972,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### inference (13)
+### inference (14)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -982,6 +983,7 @@
 - [[inference-engines-2026]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
@@ -1080,7 +1082,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
 
-### llm (22)
+### llm (23)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -1097,6 +1099,7 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[opsd-off-policy-self-distillation]]
 - [[quarq-agent-memory-architecture]]
@@ -1215,7 +1218,7 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
 
-### ml-research (8)
+### ml-research (9)
 
 - [[0xsojalsec-llms-local]]
 - [[aiedge-glm-5.2-guide]]
@@ -1225,6 +1228,7 @@
 - [[how-to-be-good-at-research]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
 ### models (15)
 
@@ -1814,7 +1818,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (46)
+### training (47)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1839,6 +1843,7 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
@@ -2578,6 +2583,11 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
+### math (2)
+
+- [[attention-qkv-math-amitiitbhu]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
+
 ### mem0 (2)
 
 - [[agent-memory-landscape-2026]]
@@ -3175,6 +3185,7 @@
 - **action-chunking** — [[interlatent-modern-ai-robotics-first-principles]]
 - **active-recall** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **active-reconstruction** — [[graph-memory-reconstruction-llms]]
+- **adaptation** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **adapters** — [[peft-beyond-lora]]
 - **addy-osmani** — [[addy-osmani-agent-skills-open-source]]
 - **adk** — [[orchestrating-agents-adk-fhinkel]]
@@ -3330,6 +3341,7 @@
 - **ensemble-methods** — [[mosaic-probabilistic-weather-model]]
 - **entity-extraction** — [[graphiti-knowledge-graph-agent-memory]]
 - **entity-resolution** — [[unified-memory-layers-entity-resolution]]
+- **entropy** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **environment** — [[harbor-rl-coding-environments]]
 - **epistemic-verbalization** — [[why-on-policy-distillation-works]]
 - **error-analysis** — [[do-automated-evals-work-parlance-labs]]
@@ -3466,6 +3478,7 @@
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **loop** — [[how-to-be-good-at-research]]
 - **loop-driven-development** — [[loop-driven-development]]
+- **looped-transformers** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **luna** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **macro** — [[ray-dalio-x-post]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
@@ -3473,7 +3486,6 @@
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **market-dynamics** — [[effort-position-leverage-principles]]
 - **masked-diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
-- **math** — [[attention-qkv-math-amitiitbhu]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
 - **medusa** — [[speculative-decoding-history-roofline-shreybirmiwal]]
@@ -3536,6 +3548,7 @@
 - **oracles** — [[loop-driven-development]]
 - **osint** — [[osiris-open-source-palantir-tool]]
 - **osmosis** — [[multi-lora-training-osmosis]]
+- **ouro** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **outcomes** — [[sierra-pinecone-singular-company-agent]]
 - **overview** — [[anthropic-publications]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
@@ -3711,6 +3724,7 @@
 - **teresa-torres** — [[opportunity-ai-pm-os-workflow]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
+- **test-time-training** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]

@@ -172,6 +172,7 @@
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
 - [[inference-optimizations-sub-second-llm-checklist]] — [Inference optimizations for sub-second LLM responses (16-item checklist)](https://x.com/asmah2107/status/2071196830088777741) `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
 - [[speculative-decoding-history-roofline-shreybirmiwal]] — [Speculative decoding history — roofline to 8x lossless speedups](https://x.com/shreybirmiwal/status/2074666256402448732) `[inference, serving, speculative-decoding, gpu, kv-cache, medusa, eagle, roofline, throughput, latency]`
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]] — [Loop deeper or adapt? TTT in looped transformers (Ouro)](https://alvinzh04.github.io/blog/looped-ttt.html) `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
@@ -618,6 +619,7 @@
 - [[loop-engineering-clearly-explained]] `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-engineering-quietly-ate-prompt-engineering]] `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]] `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy, adaptation, ml-research]`
 - [[lotteverheyden]] `[ai-ml]`
 - [[macro-evals-for-agentic-systems-openai-cookbook]] `[evals]`
 - [[managed-agents-built-in-memory]] `[agents, memory, anthropic, enterprise, agent-ops]`

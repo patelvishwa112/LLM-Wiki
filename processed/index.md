@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 397 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 398 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -262,6 +262,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-engineering-quietly-ate-prompt-engineering.md](/processed/loop-engineering-quietly-ate-prompt-engineering.md) — *bookmark* — Field guide defining agent loops vs cron, five meanings of loop, verification brakes, skills as compounding assets, and a three-level build ladder.
 - [loop-engineering-technical-roadmap-h100envy.md](/processed/loop-engineering-technical-roadmap-h100envy.md) — *bookmark* — Step-by-step technical roadmap for autonomous agent loops: external deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking gates, disk state, isolation, and JSONL observability.
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
+- [looped-ttt-test-time-training-looped-transformers-alvinzh.md](/processed/looped-ttt-test-time-training-looped-transformers-alvinzh.md) — *article* — Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal ...
 - [loopholing-schedule-seams-creatorpascal.md](/processed/loopholing-schedule-seams-creatorpascal.md) — *bookmark* — Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep.
 - [macro-evals-for-agentic-systems-openai-cookbook.md](/processed/macro-evals-for-agentic-systems-openai-cookbook.md) — *bookmark* — Macro Evals for Agentic Systems (OpenAI Cookbook)
 - [make-requirements-great.md](/processed/make-requirements-great.md) — *bookmark* — make-requirements-great skill for PMs: enforces three altitudes of requirements, scans for weasel words, performs catalogue-level checks (consistency, completeness, traceability), and flags open decisions instead of i...

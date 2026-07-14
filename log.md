@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-14
 
+- Ingest: Loop deeper or adapt? Test-time training in looped transformers (alvinzh04 blog)
+
+## 2026-07-14
+
 - Ingest: The Dark Arts of Skill Engineering (pbakaus 2077114326985687525)
 
 ## 2026-07-14
