@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 390 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 391 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -294,6 +294,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [opsd-off-policy-self-distillation.md](/processed/opsd-off-policy-self-distillation.md) — *bookmark* — ar0cket1 shares early experimental results on Off-Policy Self-Distillation (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD's sample efficiency and training stability. Work in progress after ...
 - [opus-48-token-economy-guide.md](/processed/opus-48-token-economy-guide.md) — *bookmark* — Opus 4.8 Token Economy Guide
 - [opus-cybersecurity-partners.md](/processed/opus-cybersecurity-partners.md) — *bookmark* — Anthropic's partners are deploying Claude Opus for cybersecurity at scale: Wiz surfaces thousands of validated high/critical findings weekly across 150K+ production assets with zero false positives, Palo Alto Networks...
+- [orchestrating-agents-adk-fhinkel.md](/processed/orchestrating-agents-adk-fhinkel.md) — *bookmark* — Franziska Hinkelmann on Google ADK multi-agent orchestration: specialist subagents + default isolation; share only sliced session state, not a global context pool.
 - [osiris-open-source-palantir-tool.md](/processed/osiris-open-source-palantir-tool.md) — *processed-note* — Osiris: Open Source Palantir Alternative
 - [parameter-decomposition-vs-sae-interpretability.md](/processed/parameter-decomposition-vs-sae-interpretability.md) — *note* — Parameter Decomposition vs SAEs for LLM Interpretability
 - [pattern-recognition-as-expertise-jaynitx.md](/processed/pattern-recognition-as-expertise-jaynitx.md) — *bookmark* — "@jaynitx shares a high-engagement thread on how pattern recognition (chunking) is the true foundation of expertise. Draws from chess masters (50k–100k patterns), deliberate practice with tight feedback loops, and Gar...

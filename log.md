@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-14
+
+- Ingest: Orchestrating Agents in ADK (fhinkel 2076782085516493079)
+
 ## 2026-07-13
 
 - Ingest: Do Automated Evals Work? (parlance-labs auto-evals)

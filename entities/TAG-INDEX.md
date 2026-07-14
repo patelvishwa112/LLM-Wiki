@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 909 unique tags across 390 processed notes.
+> 910 unique tags across 391 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (74)
+### agent-harness (75)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -81,6 +81,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[open-knowledge-format-okf-google]]
+- [[orchestrating-agents-adk-fhinkel]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
@@ -170,7 +171,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (174)
+### agents (175)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -308,6 +309,7 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[opsd-off-policy-self-distillation]]
 - [[opus-cybersecurity-partners]]
+- [[orchestrating-agents-adk-fhinkel]]
 - [[post-agent-companies]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[production-rag-agents-technmak]]
@@ -699,12 +701,13 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (5)
+### context-management (6)
 
 - [[agent-harness-engineering-agentforge]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[orchestrating-agents-adk-fhinkel]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### continual-learning (6)
@@ -1222,7 +1225,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (29)
+### multi-agent (30)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1246,6 +1249,7 @@
 - [[managed-agents-dreaming-orchestration]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[openclaw-hermes-supervisor-setup]]
+- [[orchestrating-agents-adk-fhinkel]]
 - [[rlm-recursive-llm-query-system]]
 - [[sakana-fugu-orchestrator-models]]
 - [[self-improving-agent-swarm-kimi-loop]]
@@ -1308,7 +1312,7 @@
 - [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### orchestration (25)
+### orchestration (26)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1332,6 +1336,7 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[managed-agents-dreaming-orchestration]]
 - [[openclaw-hermes-supervisor-setup]]
+- [[orchestrating-agents-adk-fhinkel]]
 - [[sakana-fugu-orchestrator-models]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
@@ -1734,7 +1739,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (14)
+### subagents (15)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1747,6 +1752,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[introducing-dynamic-subagents-deep-agents]]
+- [[orchestrating-agents-adk-fhinkel]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -2353,6 +2359,11 @@
 - [[goal-loss-functions-distill-product]]
 - [[guide-to-goal-codex]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
+
+### google (2)
+
+- [[google-gemma-4-12b-local-fine-tuning]]
+- [[orchestrating-agents-adk-fhinkel]]
 
 ### governance (2)
 
@@ -3089,6 +3100,7 @@
 - **active-reconstruction** — [[graph-memory-reconstruction-llms]]
 - **adapters** — [[peft-beyond-lora]]
 - **addy-osmani** — [[addy-osmani-agent-skills-open-source]]
+- **adk** — [[orchestrating-agents-adk-fhinkel]]
 - **advantage** — [[rl-algo-comprehensive-qa]]
 - **adversarial** — [[level-above-phd-knowledge-works-without-you]]
 - **agent-crews** — [[hermes-agent-use-cases-multi-agent-setup]]
@@ -3282,7 +3294,6 @@
 - **glean** — [[glean-coding-harness-programmatic-tool-calling]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
-- **google** — [[google-gemma-4-12b-local-fine-tuning]]
 - **google-cloud** — [[open-knowledge-format-okf-google]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]

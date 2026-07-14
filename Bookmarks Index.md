@@ -76,6 +76,7 @@
 - [[how-to-build-agent-that-never-forgets]] — [how to build an agent that never forgets](https://x.com/rohit4verse/status/2012925228159295810) `[agents, memory, knowledge-graphs, architecture]`
 - [[how-to-build-ai-agent-swarms]] — [How to Build AI Agent Swarms (Complete Guide)](https://x.com/av1dlive/status/2062561213532471707) `[agents, multi-agent, swarms, kimi, claude]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] — [From 1 agent to a swarm: a roadmap for orchestrating agent loops](https://x.com/0xmorlex/status/2070079645148451263) `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness]`
+- [[orchestrating-agents-adk-fhinkel]] — [Orchestrating Agents in ADK](https://x.com/fhinkel/status/2076782085516493079) `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[building-your-first-ai-agent-clear-path]] — [Building your first AI Agent; A clear path!](Reddit r/AgentsOfAI) `[agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]`
 - [[how-to-build-first-ai-agent-claude-full-course]] — [How to Actually Build Your First AI Agent Using Claude (Full Course)](https://x.com/eng_khairallah1/status/2065721530546373016) `[agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]`
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
@@ -635,6 +636,7 @@
 - [[opportunity-ai-pm-os-workflow]] `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
+- [[orchestrating-agents-adk-fhinkel]] `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[portal-portable-task-adapters-llms]] `[lora, peft, training, fine-tuning, hypernetwork, portable-adaptation, qwen, gemma, slm]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
