@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 918 unique tags across 394 processed notes.
+> 920 unique tags across 395 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (77)
+### agent-harness (78)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -97,6 +97,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
 - [[universal-agent-thesis]]
@@ -132,7 +133,7 @@
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (28)
+### agent-ops (29)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -158,6 +159,7 @@
 - [[mcp-model-context-protocol]]
 - [[production-rag-agents-technmak]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
@@ -173,7 +175,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (176)
+### agents (177)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -335,6 +337,7 @@
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
 - [[ten-commandments-building-product-feitong-yang]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
 - [[training-agents-class-1-sft-by-agent]]
@@ -723,7 +726,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
 
-### cost-optimization (12)
+### cost-optimization (13)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -736,6 +739,7 @@
 - [[harness-is-the-product-280k]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
 
 ### creator-economy (6)
@@ -801,7 +805,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (17)
+### enterprise (18)
 
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
@@ -819,6 +823,7 @@
 - [[memory-is-retained-consequence]]
 - [[opus-cybersecurity-partners]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
 ### evals (27)
@@ -912,7 +917,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (11)
+### harness-engineering (12)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
@@ -925,6 +930,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 
 ### hermes (20)
 
@@ -1232,7 +1238,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (31)
+### multi-agent (32)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1263,6 +1269,7 @@
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[stanford-storm-method-claude-research]]
 - [[sub-agents-inference-time-scaling]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
@@ -1328,7 +1335,7 @@
 - [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### orchestration (27)
+### orchestration (28)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1355,6 +1362,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[orchestrating-agents-adk-fhinkel]]
 - [[sakana-fugu-orchestrator-models]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
 
@@ -1855,7 +1863,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (18)
+### verification (19)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -1873,6 +1881,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[self-improving-agent-swarm-kimi-loop]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
@@ -2084,6 +2093,11 @@
 
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-ant-cli-managed-agents]]
+
+### cloud-agents (2)
+
+- [[human-in-the-loop-agent-loops]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 
 ### code-generation (3)
 
@@ -2827,10 +2841,11 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### review (2)
+### review (3)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 
 ### reward-hacking (2)
 
@@ -3210,7 +3225,6 @@
 - **classifiers** — [[jailbreaks-and-defenses]]
 - **clients** — [[mcp-core-architecture-hosts-clients-servers]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
-- **cloud-agents** — [[human-in-the-loop-agent-loops]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communities** — [[0xsojalsec-llms-local]]
@@ -3675,6 +3689,7 @@
 - **token-capital** — [[token-capital-scaffolding-process-governance]]
 - **token-efficiency** — [[vscode-copilot-token-efficiency]]
 - **tokenization** — [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
+- **tokenmaxxing** — [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - **tool-design** — [[agent-harness-engineering-agentforge]]
 - **tool-search** — [[vscode-copilot-token-efficiency]]
 - **tool-use** — [[universal-agent-thesis]]
@@ -3703,6 +3718,7 @@
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vocabulary** — [[trimming-introduction]]
 - **voice** — [[premium-ghostwriter-five-skills-nicolas-cole]]
+- **vorflux** — [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - **vscode** — [[vscode-copilot-token-efficiency]]
 - **vulnerability-scanning** — [[llms-securing-source-code]]
 - **vwap** — [[dqn-adaptive-trade-execution-ritonchain]]

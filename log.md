@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-14
 
+- Ingest: The Great Flattening (myprasanna 2077065557204222238)
+
+## 2026-07-14
+
 - Ingest: How To Use GPT-5.6 All Day Without Hitting Limits (sairahul1 2076556282195329249)
 
 ## 2026-07-14

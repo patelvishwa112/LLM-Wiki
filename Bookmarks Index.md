@@ -144,6 +144,7 @@
 - [[fable-5-self-improving-system-14-steps]] — [Build self-improving agent system with Fable 5 in 14 steps](https://x.com/0xcodez/status/2065089060104720776) `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable orchestrator — 40 sub-agents, 834-file migration, zero incidents](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, multi-agent, orchestration, subagents, devin, verification, production, migration, human-in-the-loop]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx, six bottlenecks, neutral harness](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 
 ### Ai Ml
@@ -232,6 +233,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx / six bottlenecks / Vorflux](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, tokenmaxxing, cloud-agents, orchestration, verification, vorflux]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable parent + 40 Devin children — migration gates & manifest](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, orchestration, verification, production, human-in-the-loop, migration]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [Build a conductor — decompose/dispatch/integrate/verify/brakes](https://x.com/leanxbt/status/2076679468186513600) `[conductor, multi-agent, orchestration, verification, harness-engineering, loop-engineering]`
@@ -682,6 +684,7 @@
 - [[twenty-core-agent-concepts-sairahul1]] `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
 - [[the-60-claude-cowork-moves-that-replaced-half-my-j]] `[agents, coding-tools]`
 - [[the-big-book-of-large-language-models]] `[models]`
+- [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[the-html-brand-input-based-outcomes]] `[design, agents, claude, creativity, strategy, business-models]`
 - [[the-ultimate-guide-to-goal]] `[agents, coding-tools]`
 - [[the-untrainable]] `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`

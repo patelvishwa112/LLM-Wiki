@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 394 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 395 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -364,6 +364,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [testing-business-ideas-product-operating-system.md](/processed/testing-business-ideas-product-operating-system.md) — *bookmark* — Advanced reference on Testing Business Ideas (Bland & Osterwalder): not assumption mapping basics but the operating system—search vs execution, team design, experiment flow (Backlog/Setup/Run/Learn), WIP limits, cerem...
 - [the-best-models-for-hermes-agent.md](/processed/the-best-models-for-hermes-agent.md) — *bookmark* — Practical model stack for Hermes Agent: Codex OAuth as the default daily driver (removes per-token anxiety for long loops), Claude Sonnet 4.6 for high-trust review, Gemini 2.5 Pro for long-context reading, DeepSeek V3...
 - [the-full-loop-in-code.md](/processed/the-full-loop-in-code.md) — *bookmark* — Link to Amit Shekhar's article 'How to design a loop that prompts your agent?' — covers the five parts of a production loop, why single prompts fail, and the full code pattern for reliable agent orchestration.
+- [the-great-flattening-tokenmaxx-vorflux-myprasanna.md](/processed/the-great-flattening-tokenmaxx-vorflux-myprasanna.md) — *bookmark* — Prasanna S (ex-Rippling CTO) argues frontier coding models are already superhuman: the scarce resource is harnessed judgment (tokenmaxx, not peoplemaxx), cloud full-stack sandboxes, and six lifecycle bottlenecks endin...
 - [the-html-brand-input-based-outcomes.md](/processed/the-html-brand-input-based-outcomes.md) — *bookmark* — The HTML Brand: The Rise of Input-Based Outcomes
 - [the-untrainable.md](/processed/the-untrainable.md) — *bookmark* — The untrainable is the last defensible corner: private correctness, illegible work, relationships, accountability, and slow organizational translation. Measurable work gets eaten; value accrues to those who earn the r...
 - [thesupereng-x-post-2065361684747719164.md](/processed/thesupereng-x-post-2065361684747719164.md) — *bookmark* — X post by thesupereng
