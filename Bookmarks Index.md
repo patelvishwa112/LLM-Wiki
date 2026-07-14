@@ -110,6 +110,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[software-factory-linear-claude-cloud-routines]] — [Software factory in an afternoon — Linear + Claude Cloud Routines](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
+- [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] — [Your AI's Memory Is Quietly Making It Dumber (I Cut Mine to 6 Files)](https://x.com/mvanhorn/status/2070966613994795489) `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
@@ -211,6 +212,7 @@
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now. (SkillsBench)](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, coding-tools]`
+- [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering — harness extension patterns](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, claude-code, codex, hooks, progressive-disclosure, design, impeccable]`
 - [[how-to-create-right-skill-ai-agent]] — [How to Create the Right Skill for Your AI Agent](https://x.com/free_ai_guides/status/2071666929451094227) `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Voice → transcript → Codex essay/video skills (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, productivity, ffmpeg, remotion]`
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
@@ -234,6 +236,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, harness-engineering, agent-harness, hooks, multi-agent, cross-harness, impeccable]`
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx / six bottlenecks / Vorflux](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, tokenmaxxing, cloud-agents, orchestration, verification, vorflux]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable parent + 40 Devin children — migration gates & manifest](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, orchestration, verification, production, human-in-the-loop, migration]`
@@ -509,6 +512,7 @@
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
 - [[continual-learning-replit-agent-vibench]] `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[daily-dose-of-premium-content]] `[agents, models]`
+- [[dark-arts-of-skill-engineering-pbakaus]] `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, progressive-disclosure, design, frontend, impeccable, cross-harness]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`
 - [[david-ogilvy-writing-coach-claude-skill]] `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`

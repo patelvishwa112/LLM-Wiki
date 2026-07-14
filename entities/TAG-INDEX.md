@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 924 unique tags across 396 processed notes.
+> 926 unique tags across 397 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (78)
+### agent-harness (79)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -49,6 +49,7 @@
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[continual-learning-replit-agent-vibench]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[fable-5-self-improving-system-14-steps]]
@@ -541,7 +542,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (85)
+### claude-code (86)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -580,6 +581,7 @@
 - [[coderabbit-claude-agent-orchestration]]
 - [[coding-agent-harness-eight-pillars]]
 - [[colleague-skill-dot-skill]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deepseek-v4-claude-code-setup]]
 - [[dive-into-claude-code-vila-lab]]
 - [[dynamic-workflows-where-plan-lives]]
@@ -653,12 +655,13 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (17)
+### codex (18)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-memory-landscape-2026]]
 - [[coding-agent-harness-eight-pillars]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[guide-to-goal-codex]]
@@ -919,9 +922,10 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (12)
+### harness-engineering (13)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[dive-into-claude-code-vila-lab]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
@@ -1240,7 +1244,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (32)
+### multi-agent (33)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1250,6 +1254,7 @@
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-subagents-vs-agent-teams]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -1464,10 +1469,11 @@
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
 
-### progressive-disclosure (5)
+### progressive-disclosure (6)
 
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[writing-good-skills-measured-rulebook-aparna]]
@@ -1671,7 +1677,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (58)
+### skills (59)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1697,6 +1703,7 @@
 - [[claude-personal-assistant-zero-dollars]]
 - [[colleague-skill-dot-skill]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[fable-5-self-improving-system-14-steps]]
@@ -2240,8 +2247,9 @@
 - [[effort-position-leverage-principles]]
 - [[pattern-recognition-as-expertise-jaynitx]]
 
-### design (2)
+### design (3)
 
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[the-html-brand-input-based-outcomes]]
 
@@ -2364,8 +2372,9 @@
 - [[learnings-training-llm-from-scratch]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### frontend (2)
+### frontend (3)
 
+- [[dark-arts-of-skill-engineering-pbakaus]]
 - [[generative-ui-is-the-new-frontend]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 
@@ -2456,11 +2465,12 @@
 - [[anthropic-engineering-hiring-resumes]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
-### hooks (3)
+### hooks (4)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
+- [[dark-arts-of-skill-engineering-pbakaus]]
 
 ### human-in-the-loop (4)
 
@@ -3276,6 +3286,7 @@
 - **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **criteria-drift** — [[do-automated-evals-work-parlance-labs]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
+- **cross-harness** — [[dark-arts-of-skill-engineering-pbakaus]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
@@ -3396,6 +3407,7 @@
 - **identity-layer** — [[second-self-vs-second-brain-obsidian]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
+- **impeccable** — [[dark-arts-of-skill-engineering-pbakaus]]
 - **importance-sampling** — [[rl-algo-comprehensive-qa]]
 - **indexing** — [[how-vector-database-works]]
 - **induction-heads** — [[induction-heads]]
