@@ -212,6 +212,7 @@
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now. (SkillsBench)](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, coding-tools]`
 - [[how-to-create-right-skill-ai-agent]] — [How to Create the Right Skill for Your AI Agent](https://x.com/free_ai_guides/status/2071666929451094227) `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Voice → transcript → Codex essay/video skills (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, productivity, ffmpeg, remotion]`
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
@@ -357,6 +358,7 @@
 - [[career-platform-email-list-ryan-holiday]] — [Here's the Most Important Career (and Life) Asset You Can Develop](https://x.com/ryanholiday/status/2068709749617561704) `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity]`
 - [[ideas-build-better-personal-network-benln]] — [Ideas to help you build a better personal network](https://x.com/benln/status/2076351797673824318) `[networking, career, productivity, soft-skills, relationships, communication]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Never get writer's block — ChatGPT Voice + Codex (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[human-nature-meta-skill-dan-koe]] — [Human Nature as the Meta-Skill](https://x.com/thedankoe/status/2073418764058825045) `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[loopholing-schedule-seams-creatorpascal]] — [Loopholing — reclaim calendar seams](https://x.com/creatorpascal/status/2075357304690516005) `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
@@ -568,6 +570,7 @@
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-create-right-skill-ai-agent]] `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] `[codex, gpt-5.6, cost-optimization, subagents, agent-harness, routing, openai, sol, luna, productivity]`

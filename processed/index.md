@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 395 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 396 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -210,6 +210,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-design-a-loop-that-prompts-your-agent.md](/processed/how-to-design-a-loop-that-prompts-your-agent.md) — *bookmark* — Detailed blueprint for designing loops that prompt agents: 5 parts (define done, build context from state, act & capture, feedback, stop conditions). Full code pattern + common mistakes. The loop is the strategy; a pr...
 - [how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md](/processed/how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md) — *lecture* — Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier labs actually hire for: low-level kernel engineering for LLM runtime, research taste as a stochastic MDP skill, scaling laws intuition, d...
 - [how-to-give-your-agent-memory.md](/processed/how-to-give-your-agent-memory.md) — *bookmark* — LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub.
+- [how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md](/processed/how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md) — *bookmark* — Jason (@jxnlco) replaces human ghostwriting with ChatGPT live voice + Codex: talk-walk transcripts, only-use-my-words essay skill, then FFmpeg/Remotion video essay edits — open skills in jxnl/dots.
 - [how-to-read-company-ai-analyst.md](/processed/how-to-read-company-ai-analyst.md) — *bookmark* — How to Read Any Company With AI Like an Analyst
 - [how-to-use-gpt-56-all-day-without-limits-sairahul1.md](/processed/how-to-use-gpt-56-all-day-without-limits-sairahul1.md) — *bookmark* — Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clone subagents); Sol Extra High + Sol Medium + Luna Extra High; max_depth=1; AGENTS.md no auto-spawn; explicit stop points.
 - [how-to-use-rlms-in-deep-agents.md](/processed/how-to-use-rlms-in-deep-agents.md) — *bookmark* — Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent.

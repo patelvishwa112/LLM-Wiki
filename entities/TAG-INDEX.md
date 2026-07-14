@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 920 unique tags across 395 processed notes.
+> 924 unique tags across 396 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -653,7 +653,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (16)
+### codex (17)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -663,6 +663,7 @@
 - [[fable-manager-sol-worker-nateherk]]
 - [[guide-to-goal-codex]]
 - [[how-to-actually-design-with-ai-lexnlin]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[learn-harness-engineering]]
 - [[loop-engineering]]
@@ -742,10 +743,11 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
 
-### creator-economy (6)
+### creator-economy (7)
 
 - [[career-platform-email-list-ryan-holiday]]
 - [[david-ogilvy-writing-coach-claude-skill]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[loopholing-schedule-seams-creatorpascal]]
@@ -1414,7 +1416,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (44)
+### productivity (45)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1442,6 +1444,7 @@
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-goal-mode-guide]]
 - [[how-to-create-loops-claude-code-sairahul1]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[human-nature-meta-skill-dan-koe]]
@@ -1668,7 +1671,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (57)
+### skills (58)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1704,6 +1707,7 @@
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[llms-securing-source-code]]
@@ -1900,11 +1904,12 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
-### writing (5)
+### writing (6)
 
 - [[ai-writing-style-personalization]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[how-to-be-good-at-research]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
@@ -2139,9 +2144,10 @@
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### content-strategy (2)
+### content-strategy (3)
 
 - [[david-ogilvy-writing-coach-claude-skill]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ### context-rot (2)
@@ -2389,6 +2395,11 @@
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
+
+### ghostwriting (2)
+
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ### github-copilot (2)
 
@@ -3120,6 +3131,11 @@
 - [[notes-on-foundation-models]]
 - [[why-layout-matters-document-processing]]
 
+### voice (2)
+
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
+
 ### workflow (3)
 
 - [[building-your-first-ai-agent-clear-path]]
@@ -3215,6 +3231,7 @@
 - **career-advice** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **career-strategy** — [[effort-position-leverage-principles]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
+- **chatgpt** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **chinchilla** — [[kaplan-scaling-laws-bug-chinchilla]]
 - **chinese-models** — [[aiedge-glm-5.2-guide]]
 - **chromium** — [[browser-internals-chromium-architecture]]
@@ -3319,6 +3336,7 @@
 - **feature-attribution** — [[mechanistic-interpretability-is-not-the-whole-field]]
 - **feedback** — [[loop-driven-development]]
 - **feynman-technique** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **ffmpeg** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **filesystem** — [[virtual-filesystem-for-agent-assistants]]
 - **finetuning** — [[persona-vectors-paper]]
 - **firecrawl** — [[claude-code-investment-research-setup]]
@@ -3339,7 +3357,6 @@
 - **geopolitics** — [[who-will-set-price-intelligence]]
 - **gepa** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **ghost-protocol** — [[loopholing-schedule-seams-creatorpascal]]
-- **ghostwriting** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **git** — [[gbrain-markdown-git-brain-mem0]]
 - **github** — [[spec-kit-github-sdd]]
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
@@ -3577,6 +3594,7 @@
 - **regime-detection** — [[jim-simons-medallion-quant-framework]]
 - **relationships** — [[ideas-build-better-personal-network-benln]]
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
+- **remotion** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **renaissance-technologies** — [[jim-simons-medallion-quant-framework]]
 - **rendering-pipeline** — [[browser-internals-chromium-architecture]]
 - **replit** — [[continual-learning-replit-agent-vibench]]
@@ -3713,11 +3731,11 @@
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
 - **vercel** — [[leerob-x-post-2065469795529588940]]
 - **vibench** — [[continual-learning-replit-agent-vibench]]
+- **video** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **vision** — [[how-to-actually-use-claude-fable-5]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vocabulary** — [[trimming-introduction]]
-- **voice** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **vorflux** — [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - **vscode** — [[vscode-copilot-token-efficiency]]
 - **vulnerability-scanning** — [[llms-securing-source-code]]
