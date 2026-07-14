@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 915 unique tags across 393 processed notes.
+> 918 unique tags across 394 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (76)
+### agent-harness (77)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -70,6 +70,7 @@
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[how-to-give-your-agent-memory]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iii-agent-harness-workers]]
@@ -649,7 +650,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (15)
+### codex (16)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -659,6 +660,7 @@
 - [[fable-manager-sol-worker-nateherk]]
 - [[guide-to-goal-codex]]
 - [[how-to-actually-design-with-ai-lexnlin]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[learn-harness-engineering]]
 - [[loop-engineering]]
 - [[nvidia-skillspector-security-scanner]]
@@ -721,7 +723,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
 
-### cost-optimization (11)
+### cost-optimization (12)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -732,6 +734,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[vscode-copilot-token-efficiency]]
 
@@ -1309,6 +1312,14 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
+### openai (5)
+
+- [[harness-engineering-2026-discipline]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
+- [[kaplan-scaling-laws-bug-chinchilla]]
+- [[macro-evals-for-agentic-systems-openai-cookbook]]
+- [[vscode-copilot-token-efficiency]]
+
 ### openclaw (5)
 
 - [[21-agent-building-mistakes]]
@@ -1395,7 +1406,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (43)
+### productivity (44)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1423,6 +1434,7 @@
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-goal-mode-guide]]
 - [[how-to-create-loops-claude-code-sairahul1]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
@@ -1745,7 +1757,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (15)
+### subagents (16)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1756,6 +1768,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[orchestrating-agents-adk-fhinkel]]
@@ -2586,13 +2599,6 @@
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[who-will-set-price-intelligence]]
 
-### openai (4)
-
-- [[harness-engineering-2026-discipline]]
-- [[kaplan-scaling-laws-bug-chinchilla]]
-- [[macro-evals-for-agentic-systems-openai-cookbook]]
-- [[vscode-copilot-token-efficiency]]
-
 ### opik (2)
 
 - [[agent-harness-should-repair-itself]]
@@ -2847,6 +2853,11 @@
 
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[modern-ai-robotics-first-principles]]
+
+### routing (2)
+
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
+- [[sakana-fugu-orchestrator-models]]
 
 ### rsp (2)
 
@@ -3324,6 +3335,7 @@
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
 - **google-cloud** — [[open-knowledge-format-okf-google]]
 - **government** — [[ai-policy-and-regulation]]
+- **gpt-5.6** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **gqa** — [[kv-caching-llms-clearly-explained-avichawla]]
@@ -3411,6 +3423,7 @@
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **loop** — [[how-to-be-good-at-research]]
 - **loop-driven-development** — [[loop-driven-development]]
+- **luna** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **macro** — [[ray-dalio-x-post]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **mai-thinking** — [[are-you-still-tuning-llms-by-hand-gepa]]
@@ -3575,7 +3588,6 @@
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rollouts** — [[continuous-batching-grpo-trl]]
 - **roofline** — [[speculative-decoding-history-roofline-shreybirmiwal]]
-- **routing** — [[sakana-fugu-orchestrator-models]]
 - **rsi** — [[sia-recursive-self-improving-agent]]
 - **rss** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - **rubrics** — [[evals-strategic-ip-garrettlord]]
@@ -3624,6 +3636,7 @@
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **soft-skills** — [[ideas-build-better-personal-network-benln]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
+- **sol** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **solopreneur** — [[loopholing-schedule-seams-creatorpascal]]

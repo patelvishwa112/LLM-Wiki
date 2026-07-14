@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 393 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 394 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -211,6 +211,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md](/processed/how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md) — *lecture* — Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier labs actually hire for: low-level kernel engineering for LLM runtime, research taste as a stochastic MDP skill, scaling laws intuition, d...
 - [how-to-give-your-agent-memory.md](/processed/how-to-give-your-agent-memory.md) — *bookmark* — LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub.
 - [how-to-read-company-ai-analyst.md](/processed/how-to-read-company-ai-analyst.md) — *bookmark* — How to Read Any Company With AI Like an Analyst
+- [how-to-use-gpt-56-all-day-without-limits-sairahul1.md](/processed/how-to-use-gpt-56-all-day-without-limits-sairahul1.md) — *bookmark* — Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clone subagents); Sol Extra High + Sol Medium + Luna Extra High; max_depth=1; AGENTS.md no auto-spawn; explicit stop points.
 - [how-to-use-rlms-in-deep-agents.md](/processed/how-to-use-rlms-in-deep-agents.md) — *bookmark* — Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent.
 - [how-vector-database-works.md](/processed/how-vector-database-works.md) — *article* — How Does a Vector Database Work?
 - [how-vllm-works-amitiitbhu.md](/processed/how-vllm-works-amitiitbhu.md) — *bookmark* — Amit Shekhar explains vLLM: KV cache as the serving bottleneck, naive max-length reservation vs PagedAttention block tables and prefix sharing, static vs continuous batching, and OpenAI-compatible deployment for chat ...

@@ -125,6 +125,7 @@
 - [[agent-swarms-production-governance]] — [Your Agent Isn't Slow. It's Doing 4 Jobs at Once](https://x.com/nyk_builderz/status/2070346338269819043) `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression]`
 - [[twenty-core-agent-concepts-sairahul1]] — [Twenty core ideas behind every AI agent](https://x.com/sairahul1/status/2069351848742629693) `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [How To Use GPT-5.6 All Day Without Hitting Limits](https://x.com/sairahul1/status/2076556282195329249) `[codex, gpt-5.6, cost-optimization, subagents, agent-harness, routing, sol, luna]`
 - [[rlm-structured-outputs]] — [RLM Agents live healthier when they talk via Structured Outputs](https://x.com/neural_avb/status/2063907440509571354) `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 
 
@@ -242,6 +243,7 @@
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [100x agentic engineer — declarative vs imperative preferences](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, preferences, prompt-engineering, skills]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [Codex Pro GPT-5.6 limits — Sol/Luna routing, max_depth=1](https://x.com/sairahul1/status/2076556282195329249) `[codex, cost-optimization, gpt-5.6, subagents, harness-engineering, routing]`
 - [[software-factory-linear-claude-cloud-routines]] — [Linear software factory — pre-triage loops + webhook SDLC agent](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, harness-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, observability]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
@@ -566,6 +568,7 @@
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] `[codex, gpt-5.6, cost-optimization, subagents, agent-harness, routing, openai, sol, luna, productivity]`
 - [[how-to-use-rlms-in-deep-agents]] `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
 - [[how-vllm-works-amitiitbhu]] `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
