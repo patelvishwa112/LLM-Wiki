@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-14
 
+- Ingest: How to Build a Conductor multi-agent loops (leanxbt 2076679468186513600)
+
+## 2026-07-14
+
 - Ingest: Orchestrating Agents in ADK (fhinkel 2076782085516493079)
 
 ## 2026-07-13

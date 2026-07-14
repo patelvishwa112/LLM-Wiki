@@ -77,6 +77,7 @@
 - [[how-to-build-ai-agent-swarms]] — [How to Build AI Agent Swarms (Complete Guide)](https://x.com/av1dlive/status/2062561213532471707) `[agents, multi-agent, swarms, kimi, claude]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] — [From 1 agent to a swarm: a roadmap for orchestrating agent loops](https://x.com/0xmorlex/status/2070079645148451263) `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness]`
 - [[orchestrating-agents-adk-fhinkel]] — [Orchestrating Agents in ADK](https://x.com/fhinkel/status/2076782085516493079) `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
+- [[how-to-build-conductor-multi-agent-leanxbt]] — [How to Build a Conductor: Multi-Agent Loops from Scratch](https://x.com/leanxbt/status/2076679468186513600) `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor]`
 - [[building-your-first-ai-agent-clear-path]] — [Building your first AI Agent; A clear path!](Reddit r/AgentsOfAI) `[agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]`
 - [[how-to-build-first-ai-agent-claude-full-course]] — [How to Actually Build Your First AI Agent Using Claude (Full Course)](https://x.com/eng_khairallah1/status/2065721530546373016) `[agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]`
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
@@ -232,6 +233,7 @@
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable parent + 40 Devin children — migration gates & manifest](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, orchestration, verification, production, human-in-the-loop, migration]`
+- [[how-to-build-conductor-multi-agent-leanxbt]] — [Build a conductor — decompose/dispatch/integrate/verify/brakes](https://x.com/leanxbt/status/2076679468186513600) `[conductor, multi-agent, orchestration, verification, harness-engineering, loop-engineering]`
 - [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — Replit harness, ViBench, Telescope](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`
@@ -551,6 +553,7 @@
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
+- [[how-to-build-conductor-multi-agent-leanxbt]] `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor, harness-engineering]`
 - [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[how-to-build-diffusion-language-model-kuleshov]] `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, transformers, tutorial]`
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`

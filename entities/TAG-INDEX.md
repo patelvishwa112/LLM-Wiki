@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 910 unique tags across 391 processed notes.
+> 911 unique tags across 392 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (75)
+### agent-harness (76)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -64,6 +64,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -171,7 +172,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (175)
+### agents (176)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -266,6 +267,7 @@
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -907,7 +909,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (10)
+### harness-engineering (11)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dive-into-claude-code-vila-lab]]
@@ -916,6 +918,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
@@ -1087,13 +1090,14 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (14)
+### loop-engineering (15)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -1225,7 +1229,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (30)
+### multi-agent (31)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1241,6 +1245,7 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[human-in-the-loop-agent-loops]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
@@ -1312,7 +1317,7 @@
 - [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
 
-### orchestration (26)
+### orchestration (27)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1332,6 +1337,7 @@
 - [[guide-to-goal-codex]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[iii-agent-harness-workers]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[managed-agents-dreaming-orchestration]]
@@ -1836,7 +1842,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (17)
+### verification (18)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -1847,6 +1853,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[learn-harness-engineering]]
@@ -3186,6 +3193,7 @@
 - **computer-use** — [[computer-use]]
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **concept-bottleneck-models** — [[mechanistic-interpretability-is-not-the-whole-field]]
+- **conductor** — [[how-to-build-conductor-multi-agent-leanxbt]]
 - **conference** — [[code-w-claude-london-2026]]
 - **consciousness** — [[anthropic-global-workspace-j-space]]
 - **content** — [[karpathy-autoresearch-marketing-optimization]]

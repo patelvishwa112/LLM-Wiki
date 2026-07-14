@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 391 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 392 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -198,6 +198,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-become-applied-ai-engineer-eyad-khrais.md](/processed/how-to-become-applied-ai-engineer-eyad-khrais.md) — *bookmark* — Eyad Khrais — SWE→applied AI path: probabilistic systems, outcome+trajectory evals, harness layers, multi-agent as distributed systems (single-writer, idempotency, preconditions).
 - [how-to-build-agent-that-never-forgets.md](/processed/how-to-build-agent-that-never-forgets.md) — *bookmark* — How to Build an Agent That Never Forgets
 - [how-to-build-ai-agent-swarms.md](/processed/how-to-build-ai-agent-swarms.md) — *bookmark* — How to Build AI Agent Swarms (Complete Guide)
+- [how-to-build-conductor-multi-agent-leanxbt.md](/processed/how-to-build-conductor-multi-agent-leanxbt.md) — *bookmark* — leanxbt conductor build: decompose with mandatory checks, sequential dispatch, disk-materialized integration + seam tests, conductor-run oracles, multi-agent brakes and attribution.
 - [how-to-build-custom-agent-harness-langchain.md](/processed/how-to-build-custom-agent-harness-langchain.md) — *bookmark* — LangChain guide—agent = model + harness; customize via create_agent middleware hooks (memory, subagents, retries, HITL, cost limits) for task-harness fit.
 - [how-to-build-diffusion-language-model-kuleshov.md](/processed/how-to-build-diffusion-language-model-kuleshov.md) — *bookmark* — Tutorial on diffusion LLMs — masked/uniform diffusion, remasking, block diffusion, distillation, post-training; Mercury 2, Gemma Diffusion, Nemotron; parallel inference scaling thesis.
 - [how-to-build-first-ai-agent-claude-full-course.md](/processed/how-to-build-first-ai-agent-claude-full-course.md) — *bookmark* — How to Actually Build Your First AI Agent Using Claude (Full Course)
