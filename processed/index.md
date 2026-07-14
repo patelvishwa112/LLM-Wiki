@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 392 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 393 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -159,6 +159,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [fault-tolerance-langgraph-retries-timeouts.md](/processed/fault-tolerance-langgraph-retries-timeouts.md) — *bookmark* — Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers
 - [feedback-loops-claude-code-less-babysitting.md](/processed/feedback-loops-claude-code-less-babysitting.md) — *bookmark* — Feedback Loops: Help Claude Code Complete Ambitious Tasks With Less Babysitting
 - [four-loops-ai-engineering-taxonomy-aparna.md](/processed/four-loops-ai-engineering-taxonomy-aparna.md) — *bookmark* — Aparna Dhinakaran maps four loop architectures (execution, task/Ralph, product factory, system/autoresearch) plus an oversight loop, from AIEWF June 2026 hype.
+- [framework-frontier-ai-standards-demis-hassabis.md](/processed/framework-frontier-ai-standards-demis-hassabis.md) — *bookmark* — Demis Hassabis: AGI years away; proposes US FINRA-like Frontier AI Standards Body with dynamic benchmarks, pre-release testing, agentic/deception evals, and path to international standards.
 - [from-1-agent-to-swarm-orchestration-roadmap.md](/processed/from-1-agent-to-swarm-orchestration-roadmap.md) — *bookmark* — Claude Code–focused roadmap from one reliable agent loop to a swarm: orchestrator plus isolated subagent workers, git worktrees for parallel edits, independent verifiers per lane, workflows for composition, shared cla...
 - [gbrain-markdown-git-brain-mem0.md](/processed/gbrain-markdown-git-brain-mem0.md) — *bookmark* — Mem0 In Context #14 on Garry Tan's GBrain: markdown+git as source of truth, regex/wikilink typed graph (no LLM at write) drives BrainBench P@5 49.1% vs ~11–18% without graph; hybrid search + think mode with gap honest...
 - [general-intelligence-rethinking-exploration-2022.md](/processed/general-intelligence-rethinking-exploration-2022.md) — *note* — General Intelligence Requires Rethinking Exploration (2022)

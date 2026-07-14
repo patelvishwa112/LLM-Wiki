@@ -289,6 +289,7 @@
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[framework-frontier-ai-standards-demis-hassabis]] — [A Framework for Frontier AI and the Dawning of a New Age](https://x.com/demishassabis/status/2076957440109625718) `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic]`
 
 ### Interpretability
 
@@ -390,6 +391,7 @@
 - [[claude-compliance-security-partners]] — [Claude Compliance API & Security Partners](https://claude.com/blog/compliance-api-security-partners) `[anthropic, security, compliance, enterprise, claude, dlp, siem]`
 - [[opus-cybersecurity-partners]] — [Opus in Cybersecurity: Partner Deployments](https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity) `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[zero-trust-ai-agents]] — [Zero Trust for AI Agents](https://claude.com/blog/zero-trust-for-ai-agents) `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
+- [[framework-frontier-ai-standards-demis-hassabis]] — [Frontier AI Standards Body (Hassabis)](https://x.com/demishassabis/status/2076957440109625718) `[agi, ai-safety, ai-policy, governance, cybersecurity, biosecurity, frontier-models, regulation]`
 
 ### Training
 
@@ -526,6 +528,7 @@
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
+- [[framework-frontier-ai-standards-demis-hassabis]] `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic, cybersecurity, biosecurity]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness, loop-engineering]`
 - [[gaurigupta]] `[productivity, papers]`
 - [[gbrain-markdown-git-brain-mem0]] `[agents, agent-memory, mem0, gbrain, garry-tan, knowledge-graph, obsidian, wikilinks, rag, retrieval, openclaw, hermes, second-brain, git]`
