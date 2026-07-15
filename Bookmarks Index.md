@@ -307,6 +307,7 @@
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[wtf-is-storytelling-for-vcs-laurie-owen]] — [WTF is Storytelling for VCs? — four fund narrative frames](https://x.com/imlaurieowen/status/2077440615214686259) `[venture-capital, investing, storytelling, writing, marketing, content-strategy, startups, fundraising]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Physical AI stack map — capital + 5 layers (Kalra)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, investing, humanoids, ai-strategy, hardware]`
 - [[framework-frontier-ai-standards-demis-hassabis]] — [A Framework for Frontier AI and the Dawning of a New Age](https://x.com/demishassabis/status/2076957440109625718) `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic]`
 
@@ -375,6 +376,7 @@
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Never get writer's block — ChatGPT Voice + Codex (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[human-nature-meta-skill-dan-koe]] — [Human Nature as the Meta-Skill](https://x.com/thedankoe/status/2073418764058825045) `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
+- [[wtf-is-storytelling-for-vcs-laurie-owen]] — [WTF is Storytelling for VCs? (Refinery)](https://x.com/imlaurieowen/status/2077440615214686259) `[storytelling, writing, venture-capital, content-strategy, marketing, productivity]`
 - [[loopholing-schedule-seams-creatorpascal]] — [Loopholing — reclaim calendar seams](https://x.com/creatorpascal/status/2075357304690516005) `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
 - [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
@@ -729,6 +731,7 @@
 - [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[writing-good-skills-measured-rulebook-aparna]] `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering, coding-tools]`
 - [[wtf-is-a-loop]] `[agents, loops, claude-code, orchestration, agent-harness, skills]`
+- [[wtf-is-storytelling-for-vcs-laurie-owen]] `[venture-capital, investing, storytelling, writing, marketing, content-strategy, startups, fundraising, productivity]`
 - [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[youre-burning-200month-on-claude-these-20-prompts]] `[agents, coding-tools]`

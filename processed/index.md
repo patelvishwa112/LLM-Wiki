@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 403 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 404 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -403,6 +403,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [wtf-is-a-loop-part-2-15-loops-ai-agents.md](/processed/wtf-is-a-loop-part-2-15-loops-ai-agents.md) — *bookmark* — WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running
 - [wtf-is-a-loop-peter-steinberger-boris-cherny.md](/processed/wtf-is-a-loop-peter-steinberger-boris-cherny.md) — *bookmark* — Synthesis of the 'design loops that prompt your agents' discourse: loops are cron + decision-maker; lineage ReAct → ralph → /goal → multi-agent supervision; the loop is only as good as its feedback/verification; the e...
 - [wtf-is-a-loop.md](/processed/wtf-is-a-loop.md) — *bookmark* — A deep analysis of AI coding loops: what they are, their 5-year lineage from ReAct to orchestration, why the loop (not the model) is now the expensive part, and how skills inside loops create compounding systems.
+- [wtf-is-storytelling-for-vcs-laurie-owen.md](/processed/wtf-is-storytelling-for-vcs-laurie-owen.md) — *bookmark* — Laurie Owen (Refinery) — VC storytelling zooms out across vintages; four frames (Contrast, Insight, Solution, Path) plus craft tips.
 - [your-agent-harness-should-repair-itself.md](/processed/your-agent-harness-should-repair-itself.md) — *bookmark* — Opik closes the agent debugging loop automatically: trace → Ollie diagnoses root cause + proposes code fix → approve → rerun in sandbox → lock original failure as regression test. The harness gets harder to break with...
 - [your-ais-memory-is-quietly-making-it-dumber.md](/processed/your-ais-memory-is-quietly-making-it-dumber.md) — *bookmark* — Matt Van Horn cut 218 auto-loaded memory files to six after the harness silently truncated a 46KB index; argues push memory and bloated CLAUDE.md degrade adherence, and skill-specific lessons belong in versioned skill...
 - [zen-and-the-art-of-ai-research.md](/processed/zen-and-the-art-of-ai-research.md) — *bookmark* — Zen and the Art of AI Research

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 937 unique tags across 403 processed notes.
+> 939 unique tags across 404 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1057,7 +1057,7 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### investing (6)
+### investing (7)
 
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[how-to-read-company-ai-analyst]]
@@ -1065,6 +1065,7 @@
 - [[ray-dalio-x-post]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### knowledge-graph (7)
 
@@ -1476,7 +1477,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (46)
+### productivity (47)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1524,6 +1525,7 @@
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### progressive-disclosure (6)
 
@@ -1825,7 +1827,7 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[sparse-autoencoders]]
 
-### startups (6)
+### startups (7)
 
 - [[agent-native-career-advice-philhchen]]
 - [[coderabbit-claude-agent-orchestration]]
@@ -1833,6 +1835,7 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 - [[who-will-set-price-intelligence]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### sub-agents (6)
 
@@ -1989,7 +1992,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
-### writing (6)
+### writing (7)
 
 - [[ai-writing-style-personalization]]
 - [[david-ogilvy-writing-coach-claude-skill]]
@@ -1997,6 +2000,7 @@
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ## Mid-Frequency Tags (2-4 articles)
 
@@ -2223,11 +2227,12 @@
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### content-strategy (3)
+### content-strategy (4)
 
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### context-rot (2)
 
@@ -2643,10 +2648,11 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
-### marketing (2)
+### marketing (3)
 
 - [[human-nature-meta-skill-dan-koe]]
 - [[karpathy-autoresearch-marketing-optimization]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### markov-chains (3)
 
@@ -3176,11 +3182,12 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[research-agent-evidence-operator]]
 
-### venture-capital (3)
+### venture-capital (4)
 
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### vertical-agents (2)
 
@@ -3442,6 +3449,7 @@
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **frontier-models** — [[framework-frontier-ai-standards-demis-hassabis]]
+- **fundraising** — [[wtf-is-storytelling-for-vcs-laurie-owen]]
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
 - **fx** — [[torch-internals-part1-fx-graphs]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
@@ -3774,6 +3782,7 @@
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **storm** — [[stanford-storm-method-claude-research]]
+- **storytelling** — [[wtf-is-storytelling-for-vcs-laurie-owen]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
 - **study-techniques** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **superstars** — [[effort-position-leverage-principles]]

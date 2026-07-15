@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-15
 
+- Ingest: WTF is Storytelling for VCs (imlaurieowen 2077440615214686259)
+
+## 2026-07-15
+
 - Ingest: What If the Harness Comes Before Pretraining (lihanc02 2077087985879888361)
 
 ## 2026-07-15
