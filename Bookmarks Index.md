@@ -150,6 +150,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx, six bottlenecks, neutral harness](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW (Kun notes)](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
+- [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? (data flywheel)](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
 
 ### Ai Ml
 
@@ -241,6 +242,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? — flywheel + pretrain reflexes](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, pretraining, data-flywheel, sft, rl, distillation, context-management]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, harness-engineering, agent-harness, hooks, multi-agent, cross-harness, impeccable]`
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx / six bottlenecks / Vorflux](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, tokenmaxxing, cloud-agents, orchestration, verification, vorflux]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
@@ -721,6 +723,7 @@
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
+- [[what-if-harness-comes-before-pretraining-lihanc02]] `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
 - [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`

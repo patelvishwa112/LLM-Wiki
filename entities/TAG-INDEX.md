@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 936 unique tags across 402 processed notes.
+> 937 unique tags across 403 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (82)
+### agent-harness (83)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -106,6 +106,7 @@
 - [[two-tracks-not-ten-agents]]
 - [[universal-agent-thesis]]
 - [[vscode-copilot-token-efficiency]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
@@ -182,7 +183,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (180)
+### agents (181)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -358,6 +359,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[virtual-filesystem-for-agent-assistants]]
 - [[voxyz-ai-10-lessons-agents-md]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[who-will-set-price-intelligence]]
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
@@ -731,16 +733,17 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (6)
+### context-management (7)
 
 - [[agent-harness-engineering-agentforge]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### continual-learning (6)
+### continual-learning (7)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
@@ -748,6 +751,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### cost-optimization (14)
 
@@ -802,7 +806,7 @@
 - [[rl-algo-comprehensive-qa]]
 - [[the-best-models-for-hermes-agent]]
 
-### distillation (9)
+### distillation (10)
 
 - [[distillation-post-training-frontier-2026]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -812,6 +816,7 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[opsd-off-policy-self-distillation]]
 - [[training-agents-class-1-sft-by-agent]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-on-policy-distillation-works]]
 
 ### dynamic-workflows (5)
@@ -946,7 +951,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (14)
+### harness-engineering (15)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -962,6 +967,7 @@
 - [[learn-harness-engineering]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### hermes (20)
 
@@ -1434,7 +1440,15 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### pretraining (6)
+### post-training (5)
+
+- [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[distillation-post-training-frontier-2026]]
+- [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
+- [[multi-lora-training-osmosis]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
+
+### pretraining (7)
 
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -1442,6 +1456,7 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### production (15)
 
@@ -1589,7 +1604,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (29)
+### rl (30)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
@@ -1620,6 +1635,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[weight-synchronization-rl-post-training]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### rlhf (10)
 
@@ -1718,13 +1734,14 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (5)
+### sft (6)
 
 - [[distillation-post-training-frontier-2026]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### skills (60)
 
@@ -1872,7 +1889,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (47)
+### training (48)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1920,6 +1937,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
+- [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[zen-and-the-art-of-ai-research]]
 
 ### transformers (8)
@@ -2779,13 +2797,6 @@
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ideacide-eleven-filters-drurly]]
 
-### post-training (4)
-
-- [[ai-ml-engineer-interview-guide-2026-part1]]
-- [[distillation-post-training-frontier-2026]]
-- [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
-- [[multi-lora-training-osmosis]]
-
 ### ppo (4)
 
 - [[rl-algo-comprehensive-qa]]
@@ -3363,6 +3374,7 @@
 - **dapo** — [[rl-algo-comprehensive-qa]]
 - **data-curation** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
+- **data-flywheel** — [[what-if-harness-comes-before-pretraining-lihanc02]]
 - **data-generation** — [[autodata-synthetic-data-generation-explained]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **database** — [[daleverett-polygress-agent-era]]

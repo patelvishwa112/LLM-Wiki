@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-15
 
+- Ingest: What If the Harness Comes Before Pretraining (lihanc02 2077087985879888361)
+
+## 2026-07-15
+
 - Ingest: THE AGENTIC ENGINEER WORKFLOW (aashatwt 2077428487779148061)
 
 ## 2026-07-15

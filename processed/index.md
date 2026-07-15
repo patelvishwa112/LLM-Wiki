@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 402 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 403 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -393,6 +393,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [vscode-copilot-token-efficiency.md](/processed/vscode-copilot-token-efficiency.md) — *bookmark* — Improving Token Efficiency in GitHub Copilot Agentic Harness (VS Code)
 - [weight-synchronization-rl-post-training.md](/processed/weight-synchronization-rl-post-training.md) — *bookmark* — Weight Synchronization in RL Post-Training
 - [what-every-programmer-should-know-about-rlhf.md](/processed/what-every-programmer-should-know-about-rlhf.md) — *bookmark* — Clear explanation of the RLHF pipeline: SFT → reward model (Bradley-Terry on preference pairs) → PPO with KL penalty to prevent reward hacking. Covers failure modes (reward hacking, distributional shift, labeler bias)...
+- [what-if-harness-comes-before-pretraining-lihanc02.md](/processed/what-if-harness-comes-before-pretraining-lihanc02.md) — *bookmark* — Hanchen Li — harness and pretraining hold hands both ways: flywheel data shaped by harness; harness as symbolic override of pretrain reflexes.
 - [what-is-kv-cache-llms.md](/processed/what-is-kv-cache-llms.md) — *bookmark* — What is KV Cache in LLMs?
 - [who-will-set-price-intelligence.md](/processed/who-will-set-price-intelligence.md) — *bookmark* — Intelligence is becoming a priced strategic resource; AI investing breaks SaaS playbooks because capability, cost, latency, inference-time compute, task horizon, geopolitics, and talent move on coupled curves. Threat ...
 - [why-layout-matters-document-processing.md](/processed/why-layout-matters-document-processing.md) — *bookmark* — Why Layout Matters in a Document Processing Pipeline
