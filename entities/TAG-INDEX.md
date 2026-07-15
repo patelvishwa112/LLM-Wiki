@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 931 unique tags across 398 processed notes.
+> 933 unique tags across 399 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (79)
+### agent-harness (80)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -43,6 +43,7 @@
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
@@ -134,7 +135,7 @@
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (29)
+### agent-ops (30)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -142,6 +143,7 @@
 - [[agent-harness-engineering-agentforge]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[ai-agent-loop-architecture-buinevici]]
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
 - [[claude-code-dynamic-workflows-intro]]
@@ -176,7 +178,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (177)
+### agents (178)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -207,6 +209,7 @@
 - [[ai-content-system-framework]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
@@ -731,10 +734,11 @@
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
 
-### cost-optimization (13)
+### cost-optimization (14)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[claude-code-cost-optimization-prompts]]
 - [[deep-agents-prompt-caching]]
 - [[deepseek-v4-claude-code-setup]]
@@ -811,8 +815,9 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (18)
+### enterprise (19)
 
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-self-service-analytics-claude]]
@@ -832,12 +837,13 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (27)
+### evals (28)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-self-service-analytics-claude]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[coderabbit-claude-agent-orchestration]]
@@ -873,8 +879,9 @@
 - [[how-to-actually-use-claude-fable-5]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 
-### finance (6)
+### finance (7)
 
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
 - [[claude-code-investment-research-setup]]
 - [[dqn-adaptive-trade-execution-ritonchain]]
@@ -3156,8 +3163,9 @@
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
-### workflow (3)
+### workflow (4)
 
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[building-your-first-ai-agent-clear-path]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[level-above-phd-knowledge-works-without-you]]
@@ -3240,6 +3248,7 @@
 - **automated-learning** — [[secure-automated-learning-loops-modal-claude-code]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
 - **autonomous-machine-intelligence** — [[joint-embedding-predictive-architecture-jepa]]
+- **background-agents** — [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - **backtesting** — [[4-agent-trading-desk]]
 - **backups** — [[how-to-automate-disaster-recovery-with-agents]]
 - **bandit** — [[curiosity-bayesian-bandit]]
@@ -3752,6 +3761,7 @@
 - **user-research** — [[ten-commandments-building-product-feitong-yang]]
 - **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **v8** — [[browser-internals-chromium-architecture]]
+- **varick** — [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - **vault-architecture** — [[second-self-vs-second-brain-obsidian]]
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]

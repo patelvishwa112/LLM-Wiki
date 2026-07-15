@@ -54,6 +54,7 @@
 - [[how-to-build-custom-agent-harness-langchain]] — [How to Build a Custom Agent Harness](https://www.langchain.com/blog/how-to-build-a-custom-agent-harness) `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Glean coding harness — 100% programmatic tool calling (24% tokens)](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, search]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — one company-wide agent (Neil Rahilly)](https://x.com/neilrahilly/status/2075290325757608148) `[agents, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, artifacts, outcomes]`
+- [[ai-enterprise-finance-background-agents-varick-vasuman]] — [Enterprise finance background agents — 85% code, Varick](https://x.com/vasuman/status/2077156239059107867) `[agents, enterprise, finance, agent-ops, evals, background-agents, cost-optimization]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[how-to-use-rlms-in-deep-agents]] — [How to Use RLMs in Deep Agents](https://x.com/sydneyrunkle/status/2072347918447558978) `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
@@ -295,6 +296,7 @@
 
 
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
+- [[ai-enterprise-finance-background-agents-varick-vasuman]] — [AI for enterprise finance — background agents (Varick)](https://x.com/vasuman/status/2077156239059107867) `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick]`
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
@@ -449,6 +451,7 @@
 - [[addy-osmani-agent-skills-open-source]] `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
+- [[ai-enterprise-finance-background-agents-varick-vasuman]] `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick, background-agents]`
 - [[aiedge]] `[agents]`
 - [[akshaypachaar]] `[agents]`
 - [[akshaypachaar]] `[agents, papers]`
