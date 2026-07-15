@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 933 unique tags across 399 processed notes.
+> 935 unique tags across 400 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -366,6 +366,14 @@
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
+
+### ai-strategy (5)
+
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[economy-of-tokens-vipulved-modular-ai]]
+- [[post-agent-companies]]
+- [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
 
 ### alignment (19)
 
@@ -1026,8 +1034,9 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### investing (5)
+### investing (6)
 
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[how-to-read-company-ai-analyst]]
 - [[principled-thinking-and-ai-ray-dalio]]
 - [[ray-dalio-x-post]]
@@ -2014,13 +2023,6 @@
 - [[framework-frontier-ai-standards-demis-hassabis]]
 - [[recursive-self-improvement-2028-prediction]]
 
-### ai-strategy (4)
-
-- [[economy-of-tokens-vipulved-modular-ai]]
-- [[post-agent-companies]]
-- [[the-untrainable]]
-- [[who-will-set-price-intelligence]]
-
 ### analysis (2)
 
 - [[hermes-harness-deep-dive-aparnadhinak]]
@@ -2377,6 +2379,11 @@
 - [[harness-engineering-2026-discipline]]
 - [[token-capital-scaffolding-process-governance]]
 
+### foundation-models (2)
+
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[notes-on-foundation-models]]
+
 ### from-scratch (4)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -2454,9 +2461,10 @@
 - [[ai-agent-loop-architecture-buinevici]]
 - [[twenty-core-agent-concepts-sairahul1]]
 
-### hardware (3)
+### hardware (4)
 
 - [[0xsojalsec-llms-local]]
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[how-gpu-executes-code-first-principles]]
 - [[inference-engines-2026]]
 
@@ -2634,6 +2642,11 @@
 
 - [[browser-internals-chromium-architecture]]
 - [[ideas-build-better-personal-network-benln]]
+
+### nvidia (2)
+
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[nvidia-skillspector-security-scanner]]
 
 ### on-policy-distillation (3)
 
@@ -2902,8 +2915,9 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[why-on-policy-distillation-works]]
 
-### robotics (2)
+### robotics (3)
 
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[modern-ai-robotics-first-principles]]
 
@@ -2967,6 +2981,11 @@
 
 - [[agent-harness-should-repair-itself]]
 - [[your-agent-harness-should-repair-itself]]
+
+### simulation (2)
+
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[evals-strategic-ip-garrettlord]]
 
 ### skillsbench (2)
 
@@ -3140,8 +3159,9 @@
 - [[huggingface-model-architecture-visualizer]]
 - [[osiris-open-source-palantir-tool]]
 
-### vla (2)
+### vla (3)
 
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[notes-on-foundation-models]]
 
@@ -3377,7 +3397,6 @@
 - **focus** — [[ten-commandments-building-product-feitong-yang]]
 - **folder-structure** — [[hermes-agent-10x-faster-vault-index]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
-- **foundation-models** — [[notes-on-foundation-models]]
 - **friction** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -3418,6 +3437,7 @@
 - **hrm** — [[training-llm-from-scratch-5-lessons]]
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
 - **human-nature** — [[human-nature-meta-skill-dan-koe]]
+- **humanoids** — [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hypernetwork** — [[portal-portable-task-adapters-llms]]
@@ -3540,7 +3560,6 @@
 - **notebooklm** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **notes** — [[sutton-barto-rl-notes]]
 - **nous-portal** — [[the-best-models-for-hermes-agent]]
-- **nvidia** — [[nvidia-skillspector-security-scanner]]
 - **ocr** — [[why-layout-matters-document-processing]]
 - **off-policy** — [[opsd-off-policy-self-distillation]]
 - **ogilvy** — [[david-ogilvy-writing-coach-claude-skill]]
@@ -3578,6 +3597,7 @@
 - **phd** — [[level-above-phd-knowledge-works-without-you]]
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **phoebe** — [[post-agent-companies]]
+- **physical-ai** — [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - **pinecone** — [[sierra-pinecone-singular-company-agent]]
 - **pipeline-parallelism** — [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - **pipelines** — [[why-layout-matters-document-processing]]
@@ -3693,7 +3713,6 @@
 - **signal-detection** — [[jim-simons-medallion-quant-framework]]
 - **signaling** — [[effort-position-leverage-principles]]
 - **similarity-search** — [[how-vector-database-works]]
-- **simulation** — [[evals-strategic-ip-garrettlord]]
 - **six-figure-skills** — [[5-ai-skills-six-figures-2027]]
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]

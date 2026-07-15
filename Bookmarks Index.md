@@ -181,6 +181,7 @@
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[autodata-synthetic-data-generation-explained]] — [AutoData: Synthetic data generation explained](https://x.com/neural_avb/status/2072294078805684613) `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
+- [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Beginner guide to Physical AI stack (5 layers)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, vla, humanoids, investing, hardware, simulation, nvidia]`
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[torch-internals-part1-fx-graphs]] — [Torch Internals (Part 1) - FX Graphs](https://x.com/jino_rohit/status/2071247775837356399) `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
@@ -300,6 +301,7 @@
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Physical AI stack map — capital + 5 layers (Kalra)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, investing, humanoids, ai-strategy, hardware]`
 - [[framework-frontier-ai-standards-demis-hassabis]] — [A Framework for Frontier AI and the Dawning of a New Age](https://x.com/demishassabis/status/2076957440109625718) `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic]`
 
 ### Interpretability
@@ -489,6 +491,7 @@
 - [[avi-chawla-avichawla-how-top-ai-labs-are-building]] `[agents, coding-tools]`
 - [[avichawla]] `[models]`
 - [[avichawla]] `[ai-ml]`
+- [[beginners-guide-physical-ai-stack-muskan-kalra]] `[robotics, physical-ai, vla, humanoids, investing, hardware, simulation, nvidia, foundation-models, ai-strategy]`
 - [[brain-dump-of-howwhy-we-use-evals-to-measure-agent]] `[evals, agents]`
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] `[agents, business-ideas]`
 - [[can-llms-adapt-continually-without-losing-base-ski]] `[training, coding-tools]`

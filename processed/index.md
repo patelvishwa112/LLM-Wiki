@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 399 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 400 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -79,6 +79,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [autodata-synthetic-data-generation-explained.md](/processed/autodata-synthetic-data-generation-explained.md) — *bookmark* — AutoData (arxiv 2606.25996): agentic Challenger/solver/Judge loop builds GRPO-ready synthetic data; weak–strong gap filters examples for learnable reward variance.
 - [automate-writing-llm-prompts-dspy.md](/processed/automate-writing-llm-prompts-dspy.md) — *article* — Automate Writing Your LLM Prompts with DSPy
 - [autoscientists-decentralized-ai-research-agents.md](/processed/autoscientists-decentralized-ai-research-agents.md) — *article* — AutoScientists — Decentralized AI Research Agents
+- [beginners-guide-physical-ai-stack-muskan-kalra.md](/processed/beginners-guide-physical-ai-stack-muskan-kalra.md) — *bookmark* — Muskan Kalra beginner map of Physical AI: five layers (brain/VLA, humanoid body OEMs, parts/actuators, training data, deployments) with 2026 funding context — humanoids as stress test, not the whole market.
 - [beyond-ghost-sae-experiment-proposals.md](/processed/beyond-ghost-sae-experiment-proposals.md) — *proposal* — Beyond the Ghost: SAE Experiments for Understanding and Steering Model Behavior
 - [big-book-of-llms.md](/processed/big-book-of-llms.md) — *note* — The Big Book of Large Language Models
 - [browser-internals-chromium-architecture.md](/processed/browser-internals-chromium-architecture.md) — *concept* — How Modern Browsers Work — Chromium Architecture Deep Dive

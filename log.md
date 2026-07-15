@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-15
 
+- Ingest: Beginners Guide to Physical AI Stack (muskan_kalra24 2077090406819647871)
+
+## 2026-07-15
+
 - Ingest: AI for Enterprise Finance background agents (vasuman 2077156239059107867)
 
 ## 2026-07-14
