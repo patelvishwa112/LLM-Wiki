@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 936 unique tags across 401 processed notes.
+> 936 unique tags across 402 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (81)
+### agent-harness (82)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -100,6 +100,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
@@ -119,7 +120,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (14)
+### agent-memory (15)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -133,10 +134,11 @@
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (30)
+### agent-ops (31)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -163,6 +165,7 @@
 - [[mcp-model-context-protocol]]
 - [[production-rag-agents-technmak]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -179,7 +182,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (179)
+### agents (180)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -343,6 +346,7 @@
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
 - [[ten-commandments-building-product-feitong-yang]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
@@ -556,7 +560,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (86)
+### claude-code (87)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -636,6 +640,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-kit-github-sdd]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-full-loop-in-code]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -941,7 +946,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (13)
+### harness-engineering (14)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -955,6 +960,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 
 ### hermes (20)
@@ -1276,7 +1282,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (34)
+### multi-agent (35)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1309,6 +1315,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[stanford-storm-method-claude-research]]
 - [[sub-agents-inference-time-scaling]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
@@ -1454,7 +1461,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (45)
+### productivity (46)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1499,6 +1506,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
 
@@ -1718,7 +1726,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### skills (59)
+### skills (60)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1775,6 +1783,7 @@
 - [[self-learning-agents-three-layers-user-signal]]
 - [[skill-solo-millionaires-ai-era]]
 - [[spec-kit-github-sdd]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
@@ -2015,10 +2024,11 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### agentic-engineering (2)
+### agentic-engineering (3)
 
 - [[every-agentic-engineering-hack-june-2026]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 
 ### agents-md (2)
 
@@ -2296,6 +2306,11 @@
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[the-html-brand-input-based-outcomes]]
+
+### devin (2)
+
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
+- [[the-agentic-engineer-workflow-aashatwt]]
 
 ### distributed-systems (3)
 
@@ -3359,7 +3374,6 @@
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
-- **devin** — [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - **devops** — [[how-to-automate-disaster-recovery-with-agents]]
 - **diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
 - **disaster-recovery** — [[how-to-automate-disaster-recovery-with-agents]]

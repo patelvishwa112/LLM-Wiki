@@ -149,6 +149,7 @@
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx, six bottlenecks, neutral harness](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
+- [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW (Kun notes)](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
 
 ### Ai Ml
 
@@ -253,6 +254,7 @@
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[harness-engineering-2026-discipline]] — [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://x.com/sairahul1/status/2063544956158185927) `[agents, harness-engineering, agent-architecture, claude-code, openai, anthropic, thoughtworks, feedback-loops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [100x agentic engineer — declarative vs imperative preferences](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, preferences, prompt-engineering, skills]`
+- [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW — manager mindset, memory, parallel Devin](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, devin]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [Codex Pro GPT-5.6 limits — Sol/Luna routing, max_depth=1](https://x.com/sairahul1/status/2076556282195329249) `[codex, cost-optimization, gpt-5.6, subagents, harness-engineering, routing]`
 - [[software-factory-linear-claude-cloud-routines]] — [Linear software factory — pre-triage loops + webhook SDLC agent](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, harness-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, observability]`
@@ -701,6 +703,7 @@
 - [[ideacide-eleven-filters-drurly]] `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
 - [[twenty-core-agent-concepts-sairahul1]] `[agents, agent-harness, mcp, claude-code, fundamentals, observability, guardrails, subagents]`
 - [[the-60-claude-cowork-moves-that-replaced-half-my-j]] `[agents, coding-tools]`
+- [[the-agentic-engineer-workflow-aashatwt]] `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
 - [[the-big-book-of-large-language-models]] `[models]`
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[the-html-brand-input-based-outcomes]] `[design, agents, claude, creativity, strategy, business-models]`

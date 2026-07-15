@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 401 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 402 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -368,6 +368,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [sycophancy.md](/processed/sycophancy.md) — *concept* — Sycophancy
 - [ten-commandments-building-product-feitong-yang.md](/processed/ten-commandments-building-product-feitong-yang.md) — *bookmark* — Feitong Yang's ten commandments from two years at an AI agent startup (Minecraft coplayer → Fairies desktop agent → Shortcut Excel PMF): avoid evasions that feel like progress—user contact, specific users, translation...
 - [testing-business-ideas-product-operating-system.md](/processed/testing-business-ideas-product-operating-system.md) — *bookmark* — Advanced reference on Testing Business Ideas (Bland & Osterwalder): not assumption mapping basics but the operating system—search vs execution, team design, experiment flow (Backlog/Setup/Run/Learn), WIP limits, cerem...
+- [the-agentic-engineer-workflow-aashatwt.md](/processed/the-agentic-engineer-workflow-aashatwt.md) — *bookmark* — Aasha notes on Kun's agentic engineer workflow — manager mindset, parallel Claude/Devin, memory over prompts, tmux/neovim environment.
 - [the-best-models-for-hermes-agent.md](/processed/the-best-models-for-hermes-agent.md) — *bookmark* — Practical model stack for Hermes Agent: Codex OAuth as the default daily driver (removes per-token anxiety for long loops), Claude Sonnet 4.6 for high-trust review, Gemini 2.5 Pro for long-context reading, DeepSeek V3...
 - [the-full-loop-in-code.md](/processed/the-full-loop-in-code.md) — *bookmark* — Link to Amit Shekhar's article 'How to design a loop that prompts your agent?' — covers the five parts of a production loop, why single prompts fail, and the full code pattern for reliable agent orchestration.
 - [the-great-flattening-tokenmaxx-vorflux-myprasanna.md](/processed/the-great-flattening-tokenmaxx-vorflux-myprasanna.md) — *bookmark* — Prasanna S (ex-Rippling CTO) argues frontier coding models are already superhuman: the scarce resource is harnessed judgment (tokenmaxx, not peoplemaxx), cloud full-stack sandboxes, and six lifecycle bottlenecks endin...

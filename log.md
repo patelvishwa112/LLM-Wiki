@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-15
 
+- Ingest: THE AGENTIC ENGINEER WORKFLOW (aashatwt 2077428487779148061)
+
+## 2026-07-15
+
 - Ingest: Building a Self-Improving AI-Native Company Deel bug loop (danwestgarth 2077346634275430478)
 
 ## 2026-07-15
