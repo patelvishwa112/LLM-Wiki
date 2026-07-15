@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 935 unique tags across 400 processed notes.
+> 936 unique tags across 401 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (80)
+### agent-harness (81)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -94,6 +94,7 @@
 - [[rlm-structured-outputs]]
 - [[sakana-fugu-orchestrator-models]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sierra-pinecone-singular-company-agent]]
@@ -178,7 +179,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (178)
+### agents (179)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -333,6 +334,7 @@
 - [[ryanbai1412-x-post-2065466603358306470]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[self-improving-agent-swarm-kimi-loop]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sia-recursive-self-improving-agent]]
@@ -823,7 +825,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (19)
+### enterprise (20)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -841,6 +843,7 @@
 - [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
 - [[opus-cybersecurity-partners]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
@@ -987,6 +990,14 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
+### human-in-the-loop (5)
+
+- [[agents-behave-like-employees-six-shifts]]
+- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
+- [[how-to-build-custom-agent-harness-langchain]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
+- [[software-factory-linear-claude-cloud-routines]]
+
 ### inference (14)
 
 - [[0xsojalsec-llms-local]]
@@ -1124,7 +1135,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (15)
+### loop-engineering (16)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1140,6 +1151,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factory-linear-claude-cloud-routines]]
 
 ### loops (9)
@@ -1264,7 +1276,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (33)
+### multi-agent (34)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1294,6 +1306,7 @@
 - [[rlm-recursive-llm-query-system]]
 - [[sakana-fugu-orchestrator-models]]
 - [[self-improving-agent-swarm-kimi-loop]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[stanford-storm-method-claude-research]]
 - [[sub-agents-inference-time-scaling]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
@@ -1678,6 +1691,14 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
+### self-improvement (5)
+
+- [[continual-learning-replit-agent-vibench]]
+- [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[interlatent-modern-ai-robotics-first-principles]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
+- [[sia-recursive-self-improving-agent]]
+
 ### serving (8)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1815,6 +1836,14 @@
 - [[rlm-structured-outputs]]
 - [[twenty-core-agent-concepts-sairahul1]]
 
+### testing (5)
+
+- [[540k-lines-i-didnt-need-garry-tan]]
+- [[agent-evals-practical-guide]]
+- [[agent-harness-engineering-agentforge]]
+- [[agent-harness-should-repair-itself]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
+
 ### tools (8)
 
 - [[50-mcp-servers-guide]]
@@ -1895,7 +1924,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
-### verification (19)
+### verification (20)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -1913,6 +1942,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[self-improving-agent-swarm-kimi-loop]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
@@ -2492,13 +2522,6 @@
 - [[claude-code-self-correcting-setup]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 
-### human-in-the-loop (4)
-
-- [[agents-behave-like-employees-six-shifts]]
-- [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
-- [[how-to-build-custom-agent-harness-langchain]]
-- [[software-factory-linear-claude-cloud-routines]]
-
 ### json-schema (2)
 
 - [[rlm-agents-structured-outputs]]
@@ -2724,6 +2747,11 @@
 
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
+
+### playwright (2)
+
+- [[claude-code-investment-research-setup]]
+- [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 
 ### policy (3)
 
@@ -2963,13 +2991,6 @@
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[universal-agent-thesis]]
 
-### self-improvement (4)
-
-- [[continual-learning-replit-agent-vibench]]
-- [[dair-ai-ten-papers-co-evolving-agents-verification]]
-- [[interlatent-modern-ai-robotics-first-principles]]
-- [[sia-recursive-self-improving-agent]]
-
 ### self-improving-systems (4)
 
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -3069,13 +3090,6 @@
 - [[claude-code-slash-command-library]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[spec-kit-github-sdd]]
-
-### testing (4)
-
-- [[540k-lines-i-didnt-need-garry-tan]]
-- [[agent-evals-practical-guide]]
-- [[agent-harness-engineering-agentforge]]
-- [[agent-harness-should-repair-itself]]
 
 ### throughput (3)
 
@@ -3339,6 +3353,7 @@
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
+- **deel** — [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **delegation** — [[multi-perspective-prd-review-claude-code]]
 - **desktop** — [[claude-cowork-14-day-guide]]
@@ -3604,7 +3619,6 @@
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
 - **platform** — [[career-platform-email-list-ryan-holiday]]
-- **playwright** — [[claude-code-investment-research-setup]]
 - **plugins** — [[claude-cowork-one-person-company-2026]]
 - **policy-engine** — [[iii-agent-harness-workers]]
 - **policy-optimization** — [[opsd-off-policy-self-distillation]]

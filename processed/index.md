@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 400 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 401 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -351,6 +351,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [self-evolving-autoresearch-workflow-loops.md](/processed/self-evolving-autoresearch-workflow-loops.md) — *bookmark* — evo 0.5 runs two concurrent workflows: the main optimize loop + a meta loop that observes and rewrites the harness (phases, prompts, gates, verifiers) on the fly. Dynamic workflows make the loop itself evolvable data ...
 - [self-improvement-loop-for-skills-zach-lloyd.md](/processed/self-improvement-loop-for-skills-zach-lloyd.md) — *bookmark* — Zach Lloyd (Warp founder) breaks down how to build a real self-improvement loop for Skills — moving beyond vague 'agent loops' to concrete mechanisms for continuous skill improvement in AI systems.
 - [self-improving-agent-swarm-kimi-loop.md](/processed/self-improving-agent-swarm-kimi-loop.md) — *bookmark* — The Self-Improving Loop: 300-Agent Swarm on Kimi
+- [self-improving-ai-native-company-deel-bug-loop-westgarth.md](/processed/self-improving-ai-native-company-deel-bug-loop-westgarth.md) — *bookmark* — Deel COO Dan Westgarth: self-improving software via closed bug loop — Bug Hunter on customer-account replicas + multimodal Deel Code with Playwright browser verification; human approves every PR.
 - [self-learning-agents-three-layers-user-signal.md](/processed/self-learning-agents-three-layers-user-signal.md) — *bookmark* — Atai Barkai maps self-learning into model vs harness vs context layers, then argues the missing signal is real human overrides in product — not agent-only traces.
 - [shepherd-reversible-execution-traces-avichawla.md](/processed/shepherd-reversible-execution-traces-avichawla.md) — *bookmark* — Shepherd records agent runs as copy-on-write execution traces so meta-agents can fork, replay, and revert live sandbox+KV state—CooperBench 28.8%→54.7% with a supervisor; repo shepherd-agents/shepherd.
 - [sia-recursive-self-improving-agent.md](/processed/sia-recursive-self-improving-agent.md) — *article* — SIA — Self Improving AI Framework (hexo.ai)

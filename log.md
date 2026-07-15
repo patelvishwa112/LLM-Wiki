@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-15
 
+- Ingest: Building a Self-Improving AI-Native Company Deel bug loop (danwestgarth 2077346634275430478)
+
+## 2026-07-15
+
 - Ingest: Beginners Guide to Physical AI Stack (muskan_kalra24 2077090406819647871)
 
 ## 2026-07-15
