@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-16
 
+- Ingest: GLM 5.2 With Vision (part_harry_ 2077610277571637435)
+
+## 2026-07-16
+
 - Ingest: Learning from experience noise Oak Lab (handsdiff 2077392432505708714)
 
 ## 2026-07-16

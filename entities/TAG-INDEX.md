@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 948 unique tags across 408 processed notes.
+> 951 unique tags across 409 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1292,7 +1292,7 @@
 - [[knowledge-distillation-theturingpost]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (16)
+### models (17)
 
 - [[adapad-lora-parallel-deflation]]
 - [[big-book-of-llms]]
@@ -1300,6 +1300,7 @@
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[fast-slow-training-continual-llm-adaptation]]
+- [[glm-5-2-with-vision-projector-part-harry]]
 - [[goodfire-parameter-decomposition-interpretability]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
@@ -1348,6 +1349,14 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
+
+### multimodal (5)
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[glm-5-2-with-vision-projector-part-harry]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- [[notes-on-foundation-models]]
 
 ### observability (16)
 
@@ -1463,10 +1472,11 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (6)
+### post-training (7)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[distillation-post-training-frontier-2026]]
+- [[glm-5-2-with-vision-projector-part-harry]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -1630,7 +1640,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (32)
+### rl (33)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
@@ -1642,6 +1652,7 @@
 - [[distillation-post-training-frontier-2026]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[general-intelligence-rethinking-exploration-2022]]
+- [[glm-5-2-with-vision-projector-part-harry]]
 - [[harbor-rl-coding-environments]]
 - [[how-to-build-ai-agent-swarms]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
@@ -1763,9 +1774,10 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (7)
+### sft (8)
 
 - [[distillation-post-training-frontier-2026]]
+- [[glm-5-2-with-vision-projector-part-harry]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
@@ -1920,7 +1932,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (50)
+### training (51)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1935,6 +1947,7 @@
 - [[distillation-post-training-frontier-2026]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
+- [[glm-5-2-with-vision-projector-part-harry]]
 - [[harbor-rl-coding-environments]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
@@ -2006,6 +2019,14 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
+
+### vlm (5)
+
+- [[glm-5-2-with-vision-projector-part-harry]]
+- [[interlatent-modern-ai-robotics-first-principles]]
+- [[mlx-engine-v185-kv-cache-agentic]]
+- [[notes-on-foundation-models]]
+- [[why-layout-matters-document-processing]]
 
 ### workflows (12)
 
@@ -2728,13 +2749,6 @@
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 
-### multimodal (4)
-
-- [[ai-engineering-roadmap-2026-from-scratch]]
-- [[ai-ml-engineer-interview-guide-2026-part1]]
-- [[inkling-ear-7-9m-lookup-table-huckiyang]]
-- [[notes-on-foundation-models]]
-
 ### mythos (4)
 
 - [[designing-loops-with-fable-5]]
@@ -3249,6 +3263,11 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[ten-commandments-building-product-feitong-yang]]
 
+### vision (2)
+
+- [[glm-5-2-with-vision-projector-part-harry]]
+- [[how-to-actually-use-claude-fable-5]]
+
 ### visualization (3)
 
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
@@ -3266,13 +3285,6 @@
 - [[0xsojalsec-llms-local]]
 - [[how-vllm-works-amitiitbhu]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
-
-### vlm (4)
-
-- [[interlatent-modern-ai-robotics-first-principles]]
-- [[mlx-engine-v185-kv-cache-agentic]]
-- [[notes-on-foundation-models]]
-- [[why-layout-matters-document-processing]]
 
 ### voice (2)
 
@@ -3511,6 +3523,7 @@
 - **github-actions** — [[nvidia-skillspector-security-scanner]]
 - **github-blog** — [[github-qubot-data-analytics-agent]]
 - **glean** — [[glean-coding-harness-programmatic-tool-calling]]
+- **glm** — [[glm-5-2-with-vision-projector-part-harry]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
 - **google-cloud** — [[open-knowledge-format-okf-google]]
@@ -3521,6 +3534,7 @@
 - **gqa** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **graph-memory** — [[graph-memory-reconstruction-llms]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
+- **grokking** — [[glm-5-2-with-vision-projector-part-harry]]
 - **growth** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **gsd** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **gspo** — [[rl-algo-comprehensive-qa]]
@@ -3729,6 +3743,7 @@
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **programmatic-tool-calling** — [[glean-coding-harness-programmatic-tool-calling]]
+- **projector** — [[glm-5-2-with-vision-projector-part-harry]]
 - **protocol-design** — [[mcp-core-architecture-explained]]
 - **providers** — [[the-best-models-for-hermes-agent]]
 - **pruning** — [[trimming-introduction]]
@@ -3891,7 +3906,6 @@
 - **vibench** — [[continual-learning-replit-agent-vibench]]
 - **video** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
-- **vision** — [[how-to-actually-use-claude-fable-5]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vocabulary** — [[trimming-introduction]]
 - **vorflux** — [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]

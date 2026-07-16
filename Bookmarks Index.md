@@ -182,6 +182,7 @@
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling's ear — 7.9M dMel lookup table, no audio encoder](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
+- [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 with vision — 50M projector on Kimi tower](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, projector, grokking, models]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] — [Are you still tuning your LLMs by hand? - An ode to GEPA](https://x.com/harold_matmul/status/2069836410052325711) `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
@@ -353,6 +354,7 @@
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP topology (Mainz)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling ear — 7.9M dMel table, encoderless audio](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, asr]`
+- [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 vision retrofit — projector-only SFT+RL](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, models]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
 
@@ -566,6 +568,7 @@
 - [[gbrain-markdown-git-brain-mem0]] `[agents, agent-memory, mem0, gbrain, garry-tan, knowledge-graph, obsidian, wikilinks, rag, retrieval, openclaw, hermes, second-brain, git]`
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
 - [[glean-coding-harness-programmatic-tool-calling]] `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management, search, agent-ops]`
+- [[glm-5-2-with-vision-projector-part-harry]] `[multimodal, vision, vlm, glm, post-training, sft, rl, training, models, projector, grokking]`
 - [[googlegemma]] `[interpretability]`
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]] `[evals]`
 - [[harbor-rl-coding-environments]] `[rl, agents, evals, training]`
