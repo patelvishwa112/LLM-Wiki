@@ -313,6 +313,7 @@
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[goldmine-selling-data-frontier-labs-viks-rum]] — [The goldmine business of selling data to frontier labs](https://x.com/viks_rum/status/2077650169265590727) `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
 - [[wtf-is-storytelling-for-vcs-laurie-owen]] — [WTF is Storytelling for VCs? — four fund narrative frames](https://x.com/imlaurieowen/status/2077440615214686259) `[venture-capital, investing, storytelling, writing, marketing, content-strategy, startups, fundraising]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Physical AI stack map — capital + 5 layers (Kalra)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, investing, humanoids, ai-strategy, hardware]`
 - [[framework-frontier-ai-standards-demis-hassabis]] — [A Framework for Frontier AI and the Dawning of a New Age](https://x.com/demishassabis/status/2076957440109625718) `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic]`
@@ -569,6 +570,7 @@
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
 - [[glean-coding-harness-programmatic-tool-calling]] `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management, search, agent-ops]`
 - [[glm-5-2-with-vision-projector-part-harry]] `[multimodal, vision, vlm, glm, post-training, sft, rl, training, models, projector, grokking]`
+- [[goldmine-selling-data-frontier-labs-viks-rum]] `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
 - [[googlegemma]] `[interpretability]`
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]] `[evals]`
 - [[harbor-rl-coding-environments]] `[rl, agents, evals, training]`

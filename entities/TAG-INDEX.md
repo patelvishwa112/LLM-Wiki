@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 951 unique tags across 409 processed notes.
+> 954 unique tags across 410 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -380,10 +380,11 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (5)
+### ai-strategy (6)
 
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[post-agent-companies]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
@@ -876,7 +877,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (28)
+### evals (29)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -893,6 +894,7 @@
 - [[do-automated-evals-work-parlance-labs]]
 - [[evals-strategic-ip-garrettlord]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
@@ -1077,9 +1079,10 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### investing (7)
+### investing (8)
 
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[how-to-read-company-ai-analyst]]
 - [[principled-thinking-and-ai-ray-dalio]]
 - [[ray-dalio-x-post]]
@@ -1997,6 +2000,14 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
+### venture-capital (5)
+
+- [[economy-of-tokens-vipulved-modular-ai]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
+
 ### verification (20)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -2119,9 +2130,10 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[coding-agent-harness-eight-pillars]]
 
-### ai-economics (3)
+### ai-economics (4)
 
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
@@ -2431,8 +2443,9 @@
 - [[anthropic-engineering-hiring-resumes]]
 - [[claude-code-self-correcting-setup]]
 
-### enterprise-ai (3)
+### enterprise-ai (4)
 
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[the-untrainable]]
 - [[token-capital-scaffolding-process-governance]]
 - [[who-will-set-price-intelligence]]
@@ -3038,9 +3051,10 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[why-on-policy-distillation-works]]
 
-### robotics (3)
+### robotics (4)
 
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[modern-ai-robotics-first-principles]]
 
@@ -3245,13 +3259,6 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[research-agent-evidence-operator]]
 
-### venture-capital (4)
-
-- [[economy-of-tokens-vipulved-modular-ai]]
-- [[the-untrainable]]
-- [[who-will-set-price-intelligence]]
-- [[wtf-is-storytelling-for-vcs-laurie-owen]]
-
 ### vertical-agents (2)
 
 - [[building-a-good-vertical-agent]]
@@ -3328,6 +3335,7 @@
 - **advantage** — [[rl-algo-comprehensive-qa]]
 - **adversarial** — [[level-above-phd-knowledge-works-without-you]]
 - **agent-crews** — [[hermes-agent-use-cases-multi-agent-setup]]
+- **agent-environments** — [[goldmine-selling-data-frontier-labs-viks-rum]]
 - **agent-era** — [[daleverett-polygress-agent-era]]
 - **agent-evaluation** — [[evals-strategic-ip-garrettlord]]
 - **agent-infrastructure** — [[anthropic-ant-cli-managed-agents]]
@@ -3444,6 +3452,7 @@
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
 - **data-flywheel** — [[what-if-harness-comes-before-pretraining-lihanc02]]
 - **data-generation** — [[autodata-synthetic-data-generation-explained]]
+- **data-labeling** — [[goldmine-selling-data-frontier-labs-viks-rum]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
@@ -3885,6 +3894,7 @@
 - **tool-use** — [[universal-agent-thesis]]
 - **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
+- **training-data** — [[goldmine-selling-data-frontier-labs-viks-rum]]
 - **trajectories** — [[agent-as-a-judge-trajectory-evals-aparna]]
 - **trajectory-grading** — [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - **triage** — [[problem-first-skill-invert-bad-ideas]]

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-16
 
+- Ingest: The goldmine business of selling data to frontier labs (viks_rum 2077650169265590727)
+
+## 2026-07-16
+
 - Ingest: GLM 5.2 With Vision (part_harry_ 2077610277571637435)
 
 ## 2026-07-16

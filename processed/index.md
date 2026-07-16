@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 409 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 410 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -173,6 +173,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [glm-5-2-with-vision-projector-part-harry.md](/processed/glm-5-2-with-vision-projector-part-harry.md) — *bookmark* — Harry Partridge — add vision to GLM 5.2 via 50M MLP projector on Kimi tower; MMMU-Pro ~Haiku; SFT then RL grokking; frozen LLM.
 - [goal-loss-functions-distill-product.md](/processed/goal-loss-functions-distill-product.md) — *bookmark* — /goal + Loss Functions: How to Distill a Product in 30 Hours with One Prompt [Full Playbook\]
 - [goal-primitive-guide.md](/processed/goal-primitive-guide.md) — *processed-note* — /goal: The Agent Primitive
+- [goldmine-selling-data-frontier-labs-viks-rum.md](/processed/goldmine-selling-data-frontier-labs-viks-rum.md) — *bookmark* — Long-form map of the training-data gold rush: six products (hours/judgment/worlds/verdicts/bodies/rights), non-recurring POs, and how founders should convert cash into scarce verification moats.
 - [goodfire-parameter-decomposition-interpretability.md](/processed/goodfire-parameter-decomposition-interpretability.md) — *note* — Goodfire: Parameter Decomposition for Model Interpretability
 - [google-gemma-4-12b-local-fine-tuning.md](/processed/google-gemma-4-12b-local-fine-tuning.md) — *bookmark* — Google released Gemma 4 12B, a multimodal model (text, images, audio) that runs on 8GB VRAM. Plan to fine-tune locally with Unsloth and Hugging Face transformers for chess move prediction.
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
