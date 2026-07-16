@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-16
 
+- Ingest: Personal brand better than a resume (lindsaycasale 2077425295033036987)
+
+## 2026-07-16
+
 - Ingest: Trying to actually define continual learning (oneill_c 2077453217609453784)
 
 ## 2026-07-15

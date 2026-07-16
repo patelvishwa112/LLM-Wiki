@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 940 unique tags across 405 processed notes.
+> 940 unique tags across 406 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -505,7 +505,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (16)
+### career (17)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -519,6 +519,7 @@
 - [[jp-morgan-quant-python-training]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - [[mid-career-dissatisfaction]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[units-of-time-alfred-lin]]
@@ -722,6 +723,14 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
+### content-strategy (5)
+
+- [[david-ogilvy-writing-coach-claude-skill]]
+- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
+- [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[wtf-is-storytelling-for-vcs-laurie-owen]]
+
 ### context-engineering (11)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -775,7 +784,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
 
-### creator-economy (7)
+### creator-economy (8)
 
 - [[career-platform-email-list-ryan-holiday]]
 - [[david-ogilvy-writing-coach-claude-skill]]
@@ -783,6 +792,7 @@
 - [[human-nature-meta-skill-dan-koe]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[loopholing-schedule-seams-creatorpascal]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 
 ### cronjob (6)
@@ -1485,7 +1495,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (47)
+### productivity (48)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1526,6 +1536,7 @@
 - [[mid-career-dissatisfaction]]
 - [[not-ambitious-enough-with-claude]]
 - [[opus-48-token-economy-guide]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 - [[pm-as-context-compressor]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[sierra-pinecone-singular-company-agent]]
@@ -2003,13 +2014,14 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
-### writing (7)
+### writing (8)
 
 - [[ai-writing-style-personalization]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[how-to-be-good-at-research]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[human-nature-meta-skill-dan-koe]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
@@ -2130,6 +2142,11 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[what-is-kv-cache-llms]]
 
+### audience-building (2)
+
+- [[career-platform-email-list-ryan-holiday]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
+
 ### autonomy (2)
 
 - [[hermes-goal-mode-guide]]
@@ -2237,13 +2254,6 @@
 - [[ai-content-system-framework]]
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
-
-### content-strategy (4)
-
-- [[david-ogilvy-writing-coach-claude-skill]]
-- [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
-- [[premium-ghostwriter-five-skills-nicolas-cole]]
-- [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### context-rot (2)
 
@@ -2659,10 +2669,11 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
-### marketing (3)
+### marketing (4)
 
 - [[human-nature-meta-skill-dan-koe]]
 - [[karpathy-autoresearch-marketing-optimization]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ### markov-chains (3)
@@ -2711,10 +2722,11 @@
 - [[fable-5-system-prompt]]
 - [[how-to-actually-use-claude-fable-5]]
 
-### networking (2)
+### networking (3)
 
 - [[browser-internals-chromium-architecture]]
 - [[ideas-build-better-personal-network-benln]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 
 ### nvidia (2)
 
@@ -2782,6 +2794,11 @@
 
 - [[claude-personal-assistant-zero-dollars]]
 - [[personal-ai-assistant-claude-0-cost]]
+
+### personal-brand (2)
+
+- [[athcanft-grow-x-make-money]]
+- [[personal-brand-better-than-resume-lindsay-casale]]
 
 ### persuasion (2)
 
@@ -3319,7 +3336,6 @@
 - **assistants** — [[virtual-filesystem-for-agent-assistants]]
 - **assumption-mapping** — [[testing-business-ideas-product-operating-system]]
 - **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
-- **audience-building** — [[career-platform-email-list-ryan-holiday]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autodata** — [[autodata-synthetic-data-generation-explained]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
@@ -3649,7 +3665,6 @@
 - **perennial-seller** — [[career-platform-email-list-ryan-holiday]]
 - **perfetto** — [[pytorch-profiler-beginners-guide]]
 - **perplexity** — [[rethinking-search-as-code-generation]]
-- **personal-brand** — [[athcanft-grow-x-make-money]]
 - **personal-growth** — [[career-guide-early-twenties-optimize-for-learning]]
 - **personal-knowledge-management** — [[second-self-vs-second-brain-obsidian]]
 - **personal-project** — [[Llama SAE Interpretability Project]]

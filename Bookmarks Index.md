@@ -373,6 +373,7 @@
 - [[gaurigupta]] — [gauri__gupta](https://x.com/gauri__gupta/status/2051882947758993815)
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] — [Karpathy's AutoResearch is changing how campaigns get optimized and most markete](https://x.com/shannholmberg/status/2052780393326092407)
 - [[career-platform-email-list-ryan-holiday]] — [Here's the Most Important Career (and Life) Asset You Can Develop](https://x.com/ryanholiday/status/2068709749617561704) `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity]`
+- [[personal-brand-better-than-resume-lindsay-casale]] — [Personal brand better than a resume — positioning + content engine](https://x.com/lindsaycasale/status/2077425295033036987) `[career, personal-brand, productivity, content-strategy, writing, marketing, networking, audience-building]`
 - [[ideas-build-better-personal-network-benln]] — [Ideas to help you build a better personal network](https://x.com/benln/status/2076351797673824318) `[networking, career, productivity, soft-skills, relationships, communication]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Never get writer's block — ChatGPT Voice + Codex (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
@@ -675,6 +676,7 @@
 - [[orchestrating-agents-adk-fhinkel]] `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[portal-portable-task-adapters-llms]] `[lora, peft, training, fine-tuning, hypernetwork, portable-adaptation, qwen, gemma, slm]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
+- [[personal-brand-better-than-resume-lindsay-casale]] `[career, personal-brand, productivity, content-strategy, writing, marketing, networking, creator-economy, audience-building]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`

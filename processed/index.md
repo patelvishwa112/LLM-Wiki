@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 405 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 406 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -310,6 +310,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [persona-vectors-paper.md](/processed/persona-vectors-paper.md) — *paper* — Persona Vectors — Monitoring and Controlling Character Traits in LLMs
 - [persona-vectors.md](/processed/persona-vectors.md) — *concept* — Persona Vectors
 - [personal-ai-assistant-claude-0-cost.md](/processed/personal-ai-assistant-claude-0-cost.md) — *bookmark* — Zero-extra-cost personal assistant built entirely inside one Claude Project: master prompt + three context files (about_me, preferences, goals) + web search + Artifacts. Everything compounds in persistent context. No ...
+- [personal-brand-better-than-resume-lindsay-casale.md](/processed/personal-brand-better-than-resume-lindsay-casale.md) — *bookmark* — Lindsay Casale — personal brand beats a resume; 5 positioning questions, messaging/presence/content/distribution, stack visibility reps.
 - [pm-as-context-compressor.md](/processed/pm-as-context-compressor.md) — *bookmark* — The PM's role as a context compression layer between execs and engineering. Half-formed thoughts are more dangerous than silence — they give just enough to confidently go the wrong direction. Information should compre...
 - [policy-gradients-timeline-reinforce-to-grpo.md](/processed/policy-gradients-timeline-reinforce-to-grpo.md) — *processed-note* — Policy Gradients: From REINFORCE to GRPO
 - [portal-portable-task-adapters-llms.md](/processed/portal-portable-task-adapters-llms.md) — *bookmark* — PorTAL (Ramp Labs): frozen task latent + shared LoRA hypernet core; refit thin per-base converter — ~98% of LoRA lift on unseen Qwen3-8B vs ~14% Cross-LoRA.
