@@ -152,6 +152,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW (Kun notes)](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? (data flywheel)](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
+- [[learning-from-experience-noise-oaklab-handsdiff]] — [Learning from experience needs noise handling (Oak Lab / IDBD)](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, agents, agent-memory, jepa, oak-lab, sutton, online-learning]`
 
 ### Ai Ml
 
@@ -180,11 +181,13 @@
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]] — [Loop deeper or adapt? TTT in looped transformers (Ouro)](https://alvinzh04.github.io/blog/looped-ttt.html) `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
+- [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling's ear — 7.9M dMel lookup table, no audio encoder](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] — [Are you still tuning your LLMs by hand? - An ode to GEPA](https://x.com/harold_matmul/status/2069836410052325711) `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[automate-writing-llm-prompts-dspy]] — [Automate Writing Your LLM Prompts](https://towardsdatascience.com/automate-writing-your-llm-prompts/) `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[autodata-synthetic-data-generation-explained]] — [AutoData: Synthetic data generation explained](https://x.com/neural_avb/status/2072294078805684613) `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
+- [[learning-from-experience-noise-oaklab-handsdiff]] — [Oak Lab — SGD vs IDBD on noisy experience streams](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, jepa, oak-lab, sutton, online-learning, sgd]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Beginner guide to Physical AI stack (5 layers)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, vla, humanoids, investing, hardware, simulation, nvidia]`
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
@@ -349,6 +352,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP topology (Mainz)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, moe, kv-cache, vllm, distributed-systems]`
+- [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling ear — 7.9M dMel table, encoderless audio](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, asr]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
 
@@ -607,6 +611,7 @@
 - [[improving-agents-data-mining-traces]] `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[inference-engines-2026]] `[ai-ml, serving]`
 - [[inference-optimizations-sub-second-llm-checklist]] `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
+- [[inkling-ear-7-9m-lookup-table-huckiyang]] `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
 - [[speculative-decoding-history-roofline-shreybirmiwal]] `[inference, serving, speculative-decoding, gpu, kv-cache, medusa, eagle, roofline, throughput, latency, dflash, ddtree]`
 - [[introducing-dynamic-subagents-deep-agents]] `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[introducing-hrm-text]] `[papers, models]`
@@ -624,6 +629,7 @@
 - [[langchain-langgraph-101-repo]] `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`
+- [[learning-from-experience-noise-oaklab-handsdiff]] `[continual-learning, training, rl, credit-assignment, agents, agent-memory, jepa, oak-lab, sutton, online-learning, sgd]`
 - [[level-above-phd-knowledge-works-without-you]] `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[living-wiki-second-brain-hermes-leopardracer]] `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`

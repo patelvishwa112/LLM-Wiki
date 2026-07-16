@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-16
 
+- Ingest: Learning from experience noise Oak Lab (handsdiff 2077392432505708714)
+
+## 2026-07-16
+
+- Ingest: Inkling ear 7.9M lookup table (huckiyang 2077625513384841679)
+
+## 2026-07-16
+
 - Ingest: Personal brand better than a resume (lindsaycasale 2077425295033036987)
 
 ## 2026-07-16

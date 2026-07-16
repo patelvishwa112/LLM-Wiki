@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 406 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 408 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -232,6 +232,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [induction-heads.md](/processed/induction-heads.md) — *concept* — Induction Heads
 - [inference-engines-2026.md](/processed/inference-engines-2026.md) — *bookmark* — Inference Engines for LLMs & Local AI Hardware (2026 Edition)
 - [inference-optimizations-sub-second-llm-checklist.md](/processed/inference-optimizations-sub-second-llm-checklist.md) — *bookmark* — Ashutosh Maheshwari's 16-technique bookmark list for sub-second LLM inference — caching, attention, batching, parallelism, graphs, streaming.
+- [inkling-ear-7-9m-lookup-table-huckiyang.md](/processed/inkling-ear-7-9m-lookup-table-huckiyang.md) — *bookmark* — Huck Yang on Thinky Inkling audio — no encoder; 7.9M dMel embedding table at 20 tok/s; strong ASR/style evals; SGLang multi-state serve.
 - [interlatent-modern-ai-robotics-first-principles.md](/processed/interlatent-modern-ai-robotics-first-principles.md) — *bookmark* — First-principles overview of modern AI robotics: policy as a function, VLM backbone + action expert (VLA), chunking vs discrete actions, edge vs cloud inference, data bottleneck (teleoperation vs egocentric), training...
 - [introducing-dynamic-subagents-deep-agents.md](/processed/introducing-dynamic-subagents-deep-agents.md) — *bookmark* — LangChain Deep Agents dynamic subagents — agent-written JS orchestration via QuickJS task() for scale, coverage, and six workflow patterns (RLM-style).
 - [jailbreaks-and-defenses.md](/processed/jailbreaks-and-defenses.md) — *concept* — Jailbreaks and Defenses
@@ -249,6 +250,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [langchain-langgraph-101-repo.md](/processed/langchain-langgraph-101-repo.md) — *resource* — Official LangChain hands-on repo—101/201 Jupyter tracks plus Studio-ready agents for LangGraph, middleware/HITL, multi-agent, and Deep Agents (skills, AGENTS.md, memory).
 - [learn-anything-3x-faster-claude-9-study-systems.md](/processed/learn-anything-3x-faster-claude-9-study-systems.md) — *article* — How to Learn Anything 3x Faster with Claude: 9 Study Systems
 - [learn-harness-engineering.md](/processed/learn-harness-engineering.md) — *resource* — Learn Harness Engineering
+- [learning-from-experience-noise-oaklab-handsdiff.md](/processed/learning-from-experience-noise-oaklab-handsdiff.md) — *bookmark* — handsdiff + Oak Lab — SGD assumes all data is to learn; IDBD/NetworkIDBD filter noise; agents wrongly treat context as pure signal.
 - [learnings-training-llm-from-scratch.md](/processed/learnings-training-llm-from-scratch.md) — *bookmark* — Hands-on lessons from training a ~160M LLM (MTP + HRM + causal LM) that beat nanoGPT on CORE: architecture experimentation beats full replication, small models excel at narrow tasks, RL only helps if the base model al...
 - [leerob-x-post-2065469795529588940.md](/processed/leerob-x-post-2065469795529588940.md) — *bookmark* — X post by leerob
 - [leopardracer-ai-workflows-prompts.md](/processed/leopardracer-ai-workflows-prompts.md) — *bookmark* — How to Build AI Workflows When You're Tired of Optimizing Prompts

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 940 unique tags across 406 processed notes.
+> 948 unique tags across 408 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -122,7 +122,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (16)
+### agent-memory (17)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -135,6 +135,7 @@
 - [[harness-is-the-product-280k]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[how-to-give-your-agent-memory]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -185,7 +186,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (182)
+### agents (183)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -299,6 +300,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[langchain-langgraph-101-repo]]
 - [[learn-harness-engineering]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[leerob-x-post-2065469795529588940]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
@@ -756,13 +758,14 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### continual-learning (8)
+### continual-learning (9)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[improving-agents-data-mining-traces]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[quarq-agent-memory-architecture]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1026,7 +1029,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (14)
+### inference (15)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1036,6 +1039,7 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 - [[inference-optimizations-sub-second-llm-checklist]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mlx-engine-v185-kv-cache-agentic]]
@@ -1288,7 +1292,7 @@
 - [[knowledge-distillation-theturingpost]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (15)
+### models (16)
 
 - [[adapad-lora-parallel-deflation]]
 - [[big-book-of-llms]]
@@ -1299,6 +1303,7 @@
 - [[goodfire-parameter-decomposition-interpretability]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[mosaic-probabilistic-weather-model]]
 - [[parameter-decomposition-vs-sae-interpretability]]
@@ -1625,7 +1630,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (31)
+### rl (32)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
@@ -1639,6 +1644,7 @@
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[harbor-rl-coding-environments]]
 - [[how-to-build-ai-agent-swarms]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[multi-lora-training-osmosis]]
 - [[on-policy-distillation-must-read]]
@@ -1745,12 +1751,13 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sia-recursive-self-improving-agent]]
 
-### serving (8)
+### serving (9)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
 - [[inference-optimizations-sub-second-llm-checklist]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
@@ -1913,7 +1920,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (49)
+### training (50)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1938,6 +1945,7 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[multi-lora-training-osmosis]]
@@ -2280,6 +2288,11 @@
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[the-html-brand-input-based-outcomes]]
 
+### credit-assignment (2)
+
+- [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
+
 ### critique (2)
 
 - [[Non-Obvious Agent Projects]]
@@ -2581,6 +2594,11 @@
 - [[claude-code-self-correcting-setup]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 
+### jepa (2)
+
+- [[joint-embedding-predictive-architecture-jepa]]
+- [[learning-from-experience-noise-oaklab-handsdiff]]
+
 ### json-schema (2)
 
 - [[rlm-agents-structured-outputs]]
@@ -2703,16 +2721,18 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### moe (3)
+### moe (4)
 
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 
-### multimodal (3)
+### multimodal (4)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
 ### mythos (4)
@@ -2928,10 +2948,11 @@
 - [[jp-morgan-quant-python-training]]
 - [[markov-chains-polymarket-trading]]
 
-### quantization (2)
+### quantization (3)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[inference-optimizations-sub-second-llm-checklist]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
 
 ### qwen (4)
 
@@ -3333,9 +3354,11 @@
 - **arc-agi** — [[research-world-model-distill-ai-researcher-amber-liu]]
 - **arxiv** — [[persona-vectors-paper]]
 - **ask-user-question** — [[ai-survival-guide-ikea-style]]
+- **asr** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **assistants** — [[virtual-filesystem-for-agent-assistants]]
 - **assumption-mapping** — [[testing-business-ideas-product-operating-system]]
 - **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
+- **audio** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autodata** — [[autodata-synthetic-data-generation-explained]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
@@ -3397,7 +3420,6 @@
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **create-agent** — [[how-to-build-custom-agent-harness-langchain]]
-- **credit-assignment** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - **criteria-drift** — [[do-automated-evals-work-parlance-labs]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **cross-harness** — [[dark-arts-of-skill-engineering-pbakaus]]
@@ -3546,7 +3568,6 @@
 - **j-space** — [[anthropic-global-workspace-j-space]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **javascript-engine** — [[browser-internals-chromium-architecture]]
-- **jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
 - **job-search** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
@@ -3636,12 +3657,14 @@
 - **notebooklm** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **notes** — [[sutton-barto-rl-notes]]
 - **nous-portal** — [[the-best-models-for-hermes-agent]]
+- **oak-lab** — [[learning-from-experience-noise-oaklab-handsdiff]]
 - **ocr** — [[why-layout-matters-document-processing]]
 - **off-policy** — [[opsd-off-policy-self-distillation]]
 - **ogilvy** — [[david-ogilvy-writing-coach-claude-skill]]
 - **ollama** — [[0xsojalsec-llms-local]]
 - **onchain** — [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - **one-person-company** — [[claude-cowork-one-person-company-2026]]
+- **online-learning** — [[learning-from-experience-noise-oaklab-handsdiff]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
@@ -3781,6 +3804,7 @@
 - **servers** — [[mcp-core-architecture-hosts-clients-servers]]
 - **settings** — [[claude-code-hidden-settings]]
 - **seven-powers** — [[ideacide-eleven-filters-drurly]]
+- **sgd** — [[learning-from-experience-noise-oaklab-handsdiff]]
 - **shepherd** — [[shepherd-reversible-execution-traces-avichawla]]
 - **shuttleworth** — [[ubuntu-shuttleworth-story]]
 - **siem** — [[claude-compliance-security-partners]]
@@ -3804,6 +3828,7 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
+- **speech** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **standards** — [[open-knowledge-format-okf-google]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
@@ -3816,6 +3841,7 @@
 - **supervision** — [[shepherd-reversible-execution-traces-avichawla]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]
 - **supply-chain** — [[nvidia-skillspector-security-scanner]]
+- **sutton** — [[learning-from-experience-noise-oaklab-handsdiff]]
 - **sutton-barto** — [[sutton-barto-rl-notes]]
 - **swarms** — [[how-to-build-ai-agent-swarms]]
 - **synthesis** — [[second-self-vs-second-brain-obsidian]]
@@ -3830,6 +3856,7 @@
 - **test-suites** — [[loop-driven-development]]
 - **test-time-training** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]
+- **thinky-machines** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **thoughtworks** — [[harness-engineering-2026-discipline]]
 - **threat-modeling** — [[llms-securing-source-code]]
 - **tiny-models** — [[training-llm-from-scratch-5-lessons]]
