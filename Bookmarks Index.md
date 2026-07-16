@@ -94,6 +94,7 @@
 - [[every-agentic-engineering-hack-june-2026]] — [Every Agentic Engineering Hack I Know (June 2026)](https://x.com/mvanhorn/status/2061877533885473181) `[agentic-engineering, claude-code, codex, productivity]`
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents at Replit](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, self-improvement]`
+- [[trying-to-actually-define-continual-learning-oneill]] — [Trying to actually define continual learning (amnesiac intern)](https://x.com/oneill_c/status/2077453217609453784) `[continual-learning, agent-memory, agents, agent-harness, training, rl, sft, plasticity, kv-cache]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
 - [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
 - [[hermes-agent-10x-faster-vault-index]] — [I Made My Hermes Agent 10x Faster Without Changing the Model](https://x.com/wandermist/status/2071930382581195105) `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
@@ -250,6 +251,7 @@
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [Build a conductor — decompose/dispatch/integrate/verify/brakes](https://x.com/leanxbt/status/2076679468186513600) `[conductor, multi-agent, orchestration, verification, harness-engineering, loop-engineering]`
 - [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — Replit harness, ViBench, Telescope](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
+- [[trying-to-actually-define-continual-learning-oneill]] — [Define continual learning — KV vs weights, Still, bake-in vs retrieve](https://x.com/oneill_c/status/2077453217609453784) `[continual-learning, agent-memory, agent-harness, harness-engineering, training, plasticity, kv-cache]`
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]] — [Deel Bug Hunter + Deel Code closed loop (browser verify)](https://x.com/danwestgarth/status/2077346634275430478) `[agents, loop-engineering, verification, self-improvement, playwright, multi-agent, harness-engineering, deel]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`
 - [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
@@ -720,6 +722,7 @@
 - [[tradermorin]] `[finance]`
 - [[training-agents-class-1-sft-by-agent]] `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[training-llm-from-scratch-5-lessons]] `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
+- [[trying-to-actually-define-continual-learning-oneill]] `[continual-learning, agent-memory, agents, agent-harness, harness-engineering, training, rl, sft, plasticity, kv-cache, post-training]`
 - [[trq212]] `[models]`
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`

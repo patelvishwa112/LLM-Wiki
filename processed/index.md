@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 404 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 405 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -380,6 +380,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [training-agents-class-1-sft-by-agent.md](/processed/training-agents-class-1-sft-by-agent.md) — *bookmark* — HF live class recap: one Codex prompt ran full SFT (data, train, Trackio, evals, model card) to teach Gemma 4 2B agent format from pi coding-agent traces; human keeps goal, constraints, and artifact verification.
 - [training-llm-from-scratch-5-lessons.md](/processed/training-llm-from-scratch-5-lessons.md) — *bookmark* — Harsh Bhatt trained a ~160M model combining MTP, HRM, and causal LM across ~300 experiments. Five hard-won lessons: simplify ideas to core mechanics, small models are narrow-task specialists, RL only works above a kno...
 - [trimming-introduction.md](/processed/trimming-introduction.md) — *bookmark* — Introduction to Trimming ✂
+- [trying-to-actually-define-continual-learning-oneill.md](/processed/trying-to-actually-define-continual-learning-oneill.md) — *bookmark* — Charlie ONeill — define continual learning for specialized agents; amnesiac intern; KV vs weights; Still/latents; bake-in vs retrieve; weight-update failure modes.
 - [twenty-core-agent-concepts-sairahul1.md](/processed/twenty-core-agent-concepts-sairahul1.md) — *bookmark* — Framework-agnostic map of twenty recurring agent concepts across six layers, from execution loops and state through config, MCP, subagents, guardrails, and tracing.
 - [two-tracks-not-ten-agents.md](/processed/two-tracks-not-ten-agents.md) — *bookmark* — You don't need ten agents. You need two tracks.
 - [ubuntu-shuttleworth-story.md](/processed/ubuntu-shuttleworth-story.md) — *bookmark* — Mark Shuttleworth, Thawte sale, and the origin story of Ubuntu from a small Debian team.

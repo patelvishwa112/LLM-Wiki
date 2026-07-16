@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-16
+
+- Ingest: Trying to actually define continual learning (oneill_c 2077453217609453784)
+
 ## 2026-07-15
 
 - Ingest: WTF is Storytelling for VCs (imlaurieowen 2077440615214686259)

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 939 unique tags across 404 processed notes.
+> 940 unique tags across 405 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (83)
+### agent-harness (84)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -102,6 +102,7 @@
 - [[software-factory-linear-claude-cloud-routines]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
 - [[universal-agent-thesis]]
@@ -121,7 +122,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (15)
+### agent-memory (16)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -136,6 +137,7 @@
 - [[how-to-give-your-agent-memory]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[unified-memory-layers-entity-resolution]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
@@ -183,7 +185,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (181)
+### agents (182)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -352,6 +354,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
 - [[training-agents-class-1-sft-by-agent]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
 - [[unified-memory-layers-entity-resolution]]
@@ -733,17 +736,18 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (7)
+### context-management (8)
 
 - [[agent-harness-engineering-agentforge]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### continual-learning (7)
+### continual-learning (8)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
@@ -751,6 +755,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[improving-agents-data-mining-traces]]
 - [[quarq-agent-memory-architecture]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### cost-optimization (14)
@@ -951,7 +956,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (15)
+### harness-engineering (16)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -967,6 +972,7 @@
 - [[learn-harness-engineering]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### hermes (20)
@@ -1077,7 +1083,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### kv-cache (11)
+### kv-cache (12)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
@@ -1089,6 +1095,7 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-is-kv-cache-llms]]
 
 ### langchain (10)
@@ -1441,12 +1448,13 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (5)
+### post-training (6)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[distillation-post-training-frontier-2026]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### pretraining (7)
@@ -1606,7 +1614,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (30)
+### rl (31)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
@@ -1635,6 +1643,7 @@
 - [[rlm-recursive-llm-query-system]]
 - [[sutton-barto-rl-notes]]
 - [[training-llm-from-scratch-5-lessons]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[weight-synchronization-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1736,13 +1745,14 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (6)
+### sft (7)
 
 - [[distillation-post-training-frontier-2026]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### skills (60)
@@ -1892,7 +1902,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (48)
+### training (49)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1937,6 +1947,7 @@
 - [[torch-internals-part1-fx-graphs]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
+- [[trying-to-actually-define-continual-learning-oneill]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
@@ -3652,6 +3663,7 @@
 - **pipelines** — [[why-layout-matters-document-processing]]
 - **pitr** — [[how-to-automate-disaster-recovery-with-agents]]
 - **plan-mode** — [[9-step-loop-claude-code-senior-engineer]]
+- **plasticity** — [[trying-to-actually-define-continual-learning-oneill]]
 - **platform** — [[career-platform-email-list-ryan-holiday]]
 - **plugins** — [[claude-cowork-one-person-company-2026]]
 - **policy-engine** — [[iii-agent-harness-workers]]
