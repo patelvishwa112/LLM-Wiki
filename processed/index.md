@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 410 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 411 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -91,6 +91,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [building-your-first-ai-agent-clear-path.md](/processed/building-your-first-ai-agent-clear-path.md) — *bookmark* — Building your first AI Agent; A clear path!
 - [career-guide-early-twenties-optimize-for-learning.md](/processed/career-guide-early-twenties-optimize-for-learning.md) — *bookmark* — A career guide for people in their early twenties
 - [career-platform-email-list-ryan-holiday.md](/processed/career-platform-email-list-ryan-holiday.md) — *bookmark* — Ryan Holiday argues that a durable career platform—especially an owned email list—is more valuable than office or follower counts, using Churchill's wilderness years and his own list growth as proof.
+- [cerebras-knowledge-base-hybrid-search-mcp.md](/processed/cerebras-knowledge-base-hybrid-search-mcp.md) — *bookmark* — Cerebras Knowledge: meet-data-where-it-lives enterprise KB (15k queries/day) — unified Postgres embeddings, hybrid Slack search, CocoIndex code, planner/RRF/rerank, MCP primitives vs full UI pipeline.
 - [claude-code-changed-what-agents-look-like.md](/processed/claude-code-changed-what-agents-look-like.md) — *article* — Claude Code Just Changed What "Agents" Look Like
 - [claude-code-cost-optimization-prompts.md](/processed/claude-code-cost-optimization-prompts.md) — *processed-note* — Claude Code Cost Optimization: 20 Prompts to Cut Spend
 - [claude-code-dynamic-workflows-intro.md](/processed/claude-code-dynamic-workflows-intro.md) — *bookmark* — Dynamic workflows in Claude Code: Claude autonomously writes orchestration scripts that fan out tens to hundreds of parallel subagents, checks its own work, and iterates until answers converge. Use cases: codebase-wid...

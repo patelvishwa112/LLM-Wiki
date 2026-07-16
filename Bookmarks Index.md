@@ -47,6 +47,7 @@
 - [[agent-memory-four-layer-stack-matthew-gunnin]] — [Four-layer agent memory stack (Ella/Lyra)](https://x.com/matthewgunnin/status/2072772100973007203) `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
 - [[living-wiki-second-brain-hermes-leopardracer]] — [AI second brain — Karpathy wiki + Hermes agents](https://x.com/leopardracer/status/2073340097051689327) `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
+- [[cerebras-knowledge-base-hybrid-search-mcp]] — [How Cerebras built its knowledge base (15k Q/day)](https://x.com/cerebras/status/2077822555159945507) `[agent-memory, rag, mcp, enterprise, cerebras, cocoindex, retrieval, knowledge-base, hybrid-search, agents]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem — traces, Scaling Dreaming, LangSmith Engine](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
@@ -513,6 +514,7 @@
 - [[brain-dump-of-howwhy-we-use-evals-to-measure-agent]] `[evals, agents]`
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] `[agents, business-ideas]`
 - [[can-llms-adapt-continually-without-losing-base-ski]] `[training, coding-tools]`
+- [[cerebras-knowledge-base-hybrid-search-mcp]] `[agent-memory, rag, mcp, enterprise, cerebras, cocoindex, retrieval, knowledge-base, hybrid-search, agents, agent-harness, second-brain]`
 - [[check-this---bootstrapping-claude-to-train-a-slm]] `[training, evals]`
 - [[chrishayduk]] `[ai-ml]`
 - [[claude-fable-map-territory-unknowns-trq212]] `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`

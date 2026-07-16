@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 954 unique tags across 410 processed notes.
+> 958 unique tags across 411 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (84)
+### agent-harness (85)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -47,6 +47,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[continual-learning-replit-agent-vibench]]
@@ -122,12 +123,13 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (17)
+### agent-memory (18)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[autobrowse-browser-agent-memory]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graph-memory-reconstruction-llms]]
@@ -186,7 +188,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (183)
+### agents (184)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -229,6 +231,7 @@
 - [[building-agents-from-first-principles]]
 - [[building-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-code-four-loop-types-datasciencedojo]]
@@ -854,12 +857,13 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (20)
+### enterprise (21)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-self-service-analytics-claude]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-compliance-security-partners]]
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-product-guide]]
@@ -1211,7 +1215,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (34)
+### mcp (35)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1224,6 +1228,7 @@
 - [[anthropic-ant-cli-managed-agents]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-hidden-features-guide]]
 - [[claude-managed-agents]]
 - [[code-w-claude-london-2026]]
@@ -1618,11 +1623,12 @@
 - [[vscode-copilot-token-efficiency]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
-### rag (11)
+### rag (12)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[how-to-build-agent-that-never-forgets]]
@@ -1731,9 +1737,10 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 
-### second-brain (12)
+### second-brain (13)
 
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[gbrain-markdown-git-brain-mem0]]
@@ -3022,8 +3029,9 @@
 - [[how-to-be-good-at-ai-research]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### retrieval (3)
+### retrieval (4)
 
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
@@ -3398,6 +3406,7 @@
 - **career-advice** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **career-strategy** — [[effort-position-leverage-principles]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
+- **cerebras** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **chatgpt** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **chinchilla** — [[kaplan-scaling-laws-bug-chinchilla]]
 - **chinese-models** — [[aiedge-glm-5.2-guide]]
@@ -3410,6 +3419,7 @@
 - **clients** — [[mcp-core-architecture-hosts-clients-servers]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
+- **cocoindex** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communities** — [[0xsojalsec-llms-local]]
 - **compaction** — [[harness-is-the-product-context-aware-agents]]
@@ -3560,6 +3570,7 @@
 - **human-nature** — [[human-nature-meta-skill-dan-koe]]
 - **humanoids** — [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
+- **hybrid-search** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **hydradb** — [[harness-is-the-product-context-aware-agents]]
 - **hypernetwork** — [[portal-portable-task-adapters-llms]]
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
@@ -3602,6 +3613,7 @@
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kimi-work** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **kl-divergence** — [[rl-algo-comprehensive-qa]]
+- **knowledge-base** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
