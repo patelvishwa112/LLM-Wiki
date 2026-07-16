@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-16
 
+- Ingest: How OpenAI Sol learned design taste (designarena 2077432249033830706)
+
+## 2026-07-16
+
 - Ingest: How Cerebras built its knowledge base (cerebras 2077822555159945507)
 
 ## 2026-07-16

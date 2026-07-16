@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 958 unique tags across 411 processed notes.
+> 959 unique tags across 412 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -503,11 +503,12 @@
 - [[recursive-self-improvement-2028-prediction]]
 - [[self-evolving-autoresearch-workflow-loops]]
 
-### benchmarks (5)
+### benchmarks (6)
 
 - [[agent-memory-landscape-2026]]
 - [[anthropic-recursive-self-improvement]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
@@ -881,7 +882,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (29)
+### evals (30)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -902,6 +903,7 @@
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
@@ -1300,7 +1302,7 @@
 - [[knowledge-distillation-theturingpost]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (17)
+### models (18)
 
 - [[adapad-lora-parallel-deflation]]
 - [[big-book-of-llms]]
@@ -1310,6 +1312,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[goodfire-parameter-decomposition-interpretability]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
@@ -1412,9 +1415,10 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### openai (5)
+### openai (6)
 
 - [[harness-engineering-2026-discipline]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
@@ -2398,9 +2402,10 @@
 - [[effort-position-leverage-principles]]
 - [[pattern-recognition-as-expertise-jaynitx]]
 
-### design (3)
+### design (4)
 
 - [[dark-arts-of-skill-engineering-pbakaus]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[the-html-brand-input-based-outcomes]]
 
@@ -2534,10 +2539,11 @@
 - [[learnings-training-llm-from-scratch]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### frontend (3)
+### frontend (4)
 
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[generative-ui-is-the-new-frontend]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 
 ### frontend-design (2)
@@ -2566,6 +2572,11 @@
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
+
+### generative-ui (2)
+
+- [[generative-ui-is-the-new-frontend]]
+- [[how-openai-sol-learned-design-taste-designarena]]
 
 ### ghostwriting (2)
 
@@ -2598,6 +2609,11 @@
 - [[agent-swarms-production-governance]]
 - [[framework-frontier-ai-standards-demis-hassabis]]
 - [[token-capital-scaffolding-process-governance]]
+
+### gpt-5.6 (2)
+
+- [[how-openai-sol-learned-design-taste-designarena]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 
 ### guardrails (2)
 
@@ -3147,6 +3163,11 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[software-factory-linear-claude-cloud-routines]]
 
+### sol (2)
+
+- [[how-openai-sol-learned-design-taste-designarena]]
+- [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
+
 ### speculative-decoding (2)
 
 - [[inference-optimizations-sub-second-llm-checklist]]
@@ -3197,8 +3218,9 @@
 - [[10-hall-of-fame-engineering-papers]]
 - [[building-a-good-vertical-agent]]
 
-### taste (2)
+### taste (3)
 
+- [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[how-to-be-good-at-research]]
 
@@ -3470,6 +3492,7 @@
 - **deel** — [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **delegation** — [[multi-perspective-prd-review-claude-code]]
+- **designarena** — [[how-openai-sol-learned-design-taste-designarena]]
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
@@ -3533,7 +3556,6 @@
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
 - **fx** — [[torch-internals-part1-fx-graphs]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
-- **generative-ui** — [[generative-ui-is-the-new-frontend]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
 - **gepa** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **ghost-protocol** — [[loopholing-schedule-seams-creatorpascal]]
@@ -3547,7 +3569,6 @@
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
 - **google-cloud** — [[open-knowledge-format-okf-google]]
 - **government** — [[ai-policy-and-regulation]]
-- **gpt-5.6** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **gqa** — [[kv-caching-llms-clearly-explained-avichawla]]
@@ -3856,7 +3877,6 @@
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **soft-skills** — [[ideas-build-better-personal-network-benln]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
-- **sol** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **solopreneur** — [[loopholing-schedule-seams-creatorpascal]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 411 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 412 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -197,6 +197,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [hermes-seven-skills-cobi-bean.md](/processed/hermes-seven-skills-cobi-bean.md) — *bookmark* — Cobi Bean's stack for serious Hermes agents: if you repeat an instruction twice, encode it as a skill — seven picks cover design-first (Superpowers), soul.md grading, repo project memory, Obsidian agent wiki, gogcli g...
 - [hiiinternet-x-post.md](/processed/hiiinternet-x-post.md) — *bookmark* — X post by hiiinternet
 - [how-gpu-executes-code-first-principles.md](/processed/how-gpu-executes-code-first-principles.md) — *bookmark* — A first-principles walkthrough of how GPUs execute code — from the thread hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline, to why GPUs revolutionized parallel computation. Includes th...
+- [how-openai-sol-learned-design-taste-designarena.md](/processed/how-openai-sol-learned-design-taste-designarena.md) — *bookmark* — Design Arena: GPT-5.6 Sol #1 Web Design (non-agentic) — CLIP/UMAP 'holes' avoid AI anti-patterns, templating+personalization, new Pareto on preference vs speed/price.
 - [how-to-actually-design-with-ai-lexnlin.md](/processed/how-to-actually-design-with-ai-lexnlin.md) — *bookmark* — Leon Lin (@LexnLin) on designing with AI: taste and direction stay human; three methods — design skills (fast), component-by-component with references (best), inspiration boards (middle).
 - [how-to-actually-use-claude-fable-5.md](/processed/how-to-actually-use-claude-fable-5.md) — *bookmark* — 8 concrete Fable 5 (Mythos) capabilities Opus 4.8 could not do: full-repo rebuilds, screenshot-to-working-app, precise chart/PDF extraction, senior analyst reasoning, hours-long autonomous execution, proactive self-ve...
 - [how-to-automate-disaster-recovery-with-agents.md](/processed/how-to-automate-disaster-recovery-with-agents.md) — *bookmark* — Production disaster-recovery automation: two independent backups (PITR + off-site dump), agent-executed playbook with safety gates, instant maintenance mode, non-destructive validation + live destructive drill. 8-minu...

@@ -240,6 +240,7 @@
 
 - [[the-html-brand-input-based-outcomes]] — [The HTML Brand: The Rise of Input-Based Outcomes](https://x.com/emmettshine/status/2054539694097015171) `[design, agents, claude, creativity, strategy, business-models]`
 - [[how-to-actually-design-with-ai-lexnlin]] — [How To Actually Design With AI](https://x.com/lexnlin/status/2076422557180608888) `[design, skills, ui, frontend, prompt-engineering, taste, creativity]`
+- [[how-openai-sol-learned-design-taste-designarena]] — [How OpenAI Sol learned design taste (Design Arena)](https://x.com/designarena/status/2077432249033830706) `[design, frontend, models, openai, gpt-5.6, sol, evals, designarena, taste]`
 
 ### Document Processing
 
@@ -359,6 +360,7 @@
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 vision retrofit — projector-only SFT+RL](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, models]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
+- [[how-openai-sol-learned-design-taste-designarena]] — [GPT-5.6 Sol #1 Design Arena — anti-patterns & templates](https://x.com/designarena/status/2077432249033830706) `[design, models, openai, gpt-5.6, sol, evals, frontend, designarena]`
 
 ### Papers
 
@@ -590,6 +592,7 @@
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
+- [[how-openai-sol-learned-design-taste-designarena]] `[design, frontend, models, openai, gpt-5.6, sol, evals, designarena, taste, generative-ui, benchmarks]`
 - [[how-to-actually-design-with-ai-lexnlin]] `[design, skills, ui, frontend, prompt-engineering, taste, claude, codex, creativity]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems, trajectory-grading]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
