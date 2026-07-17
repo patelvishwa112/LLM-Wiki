@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-17
 
+- Ingest: Build Claude Code harness CrewAI (akshay_pachaar 2077455755066868098)
+
+## 2026-07-17
+
 - Ingest: AI research job search Alisa Wuffles (iharnoorsingh 2077586051112280379)
 
 ## 2026-07-16

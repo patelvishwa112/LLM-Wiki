@@ -53,6 +53,7 @@
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi]`
 - [[how-to-build-custom-agent-harness-langchain]] — [How to Build a Custom Agent Harness](https://www.langchain.com/blog/how-to-build-a-custom-agent-harness) `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
+- [[build-claude-code-harness-crewai-akshay]] — [Claude Code harness rebuild — loop/planning/subagents/E2B (CrewAI)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agents, agent-harness, claude-code, crewai, multi-agent, sandbox, coding-tools]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Glean coding harness — 100% programmatic tool calling (24% tokens)](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, search]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — one company-wide agent (Neil Rahilly)](https://x.com/neilrahilly/status/2075290325757608148) `[agents, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, artifacts, outcomes]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] — [Enterprise finance background agents — 85% code, Varick](https://x.com/vasuman/status/2077156239059107867) `[agents, enterprise, finance, agent-ops, evals, background-agents, cost-optimization]`
@@ -250,6 +251,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[build-claude-code-harness-crewai-akshay]] — [Let's build Claude Code's harness in CrewAI (Akshay)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? — flywheel + pretrain reflexes](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, pretraining, data-flywheel, sft, rl, distillation, context-management]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, harness-engineering, agent-harness, hooks, multi-agent, cross-harness, impeccable]`
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx / six bottlenecks / Vorflux](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, tokenmaxxing, cloud-agents, orchestration, verification, vorflux]`
@@ -511,6 +513,7 @@
 - [[automate-writing-llm-prompts-dspy]] `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[autodata-synthetic-data-generation-explained]] `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] `[skills, claude, claude-code, prompt-engineering, progressive-disclosure, agent-harness, hermes, mcp]`
+- [[build-claude-code-harness-crewai-akshay]] `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents, agents, coding-tools]`
 - [[build-your-own-llm-workshop-justin-angel]] `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
 - [[avi-chawla-avichawla-how-top-ai-labs-are-building]] `[agents, coding-tools]`
 - [[avichawla]] `[models]`

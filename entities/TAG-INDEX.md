@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 960 unique tags across 413 processed notes.
+> 961 unique tags across 414 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (85)
+### agent-harness (86)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -44,6 +44,7 @@
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
@@ -188,7 +189,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (184)
+### agents (185)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -227,6 +228,7 @@
 - [[autobrowse-browser-agent-memory]]
 - [[autodata-synthetic-data-generation-explained]]
 - [[autoscientists-decentralized-ai-research-agents]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[building-a-good-vertical-agent]]
 - [[building-agents-from-first-principles]]
 - [[building-good-vertical-agent]]
@@ -575,7 +577,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (87)
+### claude-code (88)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -596,6 +598,7 @@
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
@@ -710,9 +713,10 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (11)
+### coding-tools (12)
 
 - [[addy-osmani-agent-skills-open-source]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[claude-code-slash-command-library]]
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
@@ -979,9 +983,10 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (16)
+### harness-engineering (17)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[dive-into-claude-code-vila-lab]]
 - [[fable-5-self-improving-system-14-steps]]
@@ -1269,10 +1274,11 @@
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[zen-and-the-art-of-ai-research]]
 
-### memory (13)
+### memory (14)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-memory-landscape-2026]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[building-your-first-ai-agent-clear-path]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-hidden-features-guide]]
@@ -1326,7 +1332,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (35)
+### multi-agent (36)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1334,6 +1340,7 @@
 - [[agent-swarms-production-governance]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[autoscientists-decentralized-ai-research-agents]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-subagents-vs-agent-teams]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -1906,11 +1913,12 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (16)
+### subagents (17)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-swarms-production-governance]]
+- [[build-claude-code-harness-crewai-akshay]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-subagents-vs-agent-teams]]
 - [[dynamic-workflows-where-plan-lives]]
@@ -2893,8 +2901,9 @@
 - [[ai-research-job-search-alisa-wuffles]]
 - [[level-above-phd-knowledge-works-without-you]]
 
-### planning (2)
+### planning (3)
 
+- [[build-claude-code-harness-crewai-akshay]]
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[coderabbit-claude-agent-orchestration]]
 
@@ -3116,8 +3125,9 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### sandbox (3)
+### sandbox (4)
 
+- [[build-claude-code-harness-crewai-akshay]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[llms-securing-source-code]]
 - [[secure-automated-learning-loops-modal-claude-code]]
@@ -3490,6 +3500,7 @@
 - **courses** — [[ai-engineering-roadmap-2026-from-scratch]]
 - **cowork** — [[claude-cowork-14-day-guide]]
 - **create-agent** — [[how-to-build-custom-agent-harness-langchain]]
+- **crewai** — [[build-claude-code-harness-crewai-akshay]]
 - **criteria-drift** — [[do-automated-evals-work-parlance-labs]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **cross-harness** — [[dark-arts-of-skill-engineering-pbakaus]]

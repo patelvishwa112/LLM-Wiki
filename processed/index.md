@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 413 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 414 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -84,6 +84,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [beyond-ghost-sae-experiment-proposals.md](/processed/beyond-ghost-sae-experiment-proposals.md) — *proposal* — Beyond the Ghost: SAE Experiments for Understanding and Steering Model Behavior
 - [big-book-of-llms.md](/processed/big-book-of-llms.md) — *note* — The Big Book of Large Language Models
 - [browser-internals-chromium-architecture.md](/processed/browser-internals-chromium-architecture.md) — *concept* — How Modern Browsers Work — Chromium Architecture Deep Dive
+- [build-claude-code-harness-crewai-akshay.md](/processed/build-claude-code-harness-crewai-akshay.md) — *bookmark* — Akshay Pachaar rebuilds Claude Code-style coding harness in CrewAI — loop, tools, planning/reasoning, hierarchical subagents, E2B sandbox, HITL, memory, checkpoints.
 - [build-claude-skill-never-paste-prompt-0xlagosaur.md](/processed/build-claude-skill-never-paste-prompt-0xlagosaur.md) — *bookmark* — 0xLagosaur on prompts vs Skills: SKILL.md folder with 'Use when I…' triggers, lazy-loaded instructions and references/, four copy-paste starters (voice, fact-check, should-i, checkpoint), and open standard across Clau...
 - [build-your-own-llm-workshop-justin-angel.md](/processed/build-your-own-llm-workshop-justin-angel.md) — *resource* — Justin Angel released a no-prereq in-person workshop as free playlist, 250-page slides, and 50 Excel/coding labs covering sampling through transformers, pre-training, instruction tuning, and SimPO RL.
 - [building-a-good-vertical-agent.md](/processed/building-a-good-vertical-agent.md) — *bookmark* — Peter Wang on building production-grade vertical agents: treat context as a CPU-style L1/L2/L3 memory hierarchy, invest heavily in compressing the common case (L1), defer occasional capabilities to on-demand curated s...
