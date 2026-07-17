@@ -86,6 +86,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] — [Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers](https://x.com/sydneyrunkle/status/2062588423295111208) `[agents, langgraph, fault-tolerance, production]`
 - [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer — evals, harness, multi-agent DS](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems]`
+- [[ai-research-job-search-alisa-wuffles]] — [AI research interview playbook — Alisa Wuffles (57 interviews → OpenAI)](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, transformers, learning]`
 - [[2-ways-self-evolving-agents-model-harness]] — [2 Ways towards Self-Evolving Agents](https://x.com/qinzytech/status/2066585405479371092) `[agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]`
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
 - [[research-world-model-distill-ai-researcher-amber-liu]] — [How to Distill a $10M+ AI Researcher — Research World Model](https://x.com/jiachenliu8/status/2074558254328455577) `[ai-research, research-world-model, agents, knowledge-graph, arc-agi, claude-code, career]`
@@ -396,6 +397,7 @@
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[agent-native-career-advice-philhchen]] — [Career skills in the agent-native era](https://x.com/philhchen/status/2072793818945167475) `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
+- [[ai-research-job-search-alisa-wuffles]] — [Notes on industry job search — Alisa Wuffles / Harnoor digest](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, productivity, learning]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
@@ -470,6 +472,7 @@
 - [[agents-behave-like-employees-six-shifts]] `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
+- [[ai-research-job-search-alisa-wuffles]] `[career, ai-research, interview-prep, phd, openai, training, rl, transformers, job-search, productivity, learning]`
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[addy-osmani-agent-skills-open-source]] `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`

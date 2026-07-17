@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-17
+
+- Ingest: AI research job search Alisa Wuffles (iharnoorsingh 2077586051112280379)
+
 ## 2026-07-16
 
 - Ingest: How OpenAI Sol learned design taste (designarena 2077432249033830706)

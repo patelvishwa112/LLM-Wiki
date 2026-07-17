@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 959 unique tags across 412 processed notes.
+> 960 unique tags across 413 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -375,8 +375,9 @@
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
 
-### ai-research (5)
+### ai-research (6)
 
+- [[ai-research-job-search-alisa-wuffles]]
 - [[how-to-be-good-at-ai-research]]
 - [[recursive-self-improvement-ai-101]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
@@ -512,11 +513,12 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (17)
+### career (18)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[ai-research-job-search-alisa-wuffles]]
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[career-platform-email-list-ryan-holiday]]
@@ -1144,8 +1146,9 @@
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 
-### learning (5)
+### learning (6)
 
+- [[ai-research-job-search-alisa-wuffles]]
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[how-to-be-good-at-ai-research]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
@@ -1415,8 +1418,9 @@
 - [[sia-recursive-self-improving-agent]]
 - [[ubuntu-shuttleworth-story]]
 
-### openai (6)
+### openai (7)
 
+- [[ai-research-job-search-alisa-wuffles]]
 - [[harness-engineering-2026-discipline]]
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -1522,12 +1526,13 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (48)
+### productivity (49)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-content-system-framework]]
 - [[ai-native-engineering-org]]
+- [[ai-research-job-search-alisa-wuffles]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
@@ -1653,8 +1658,9 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (33)
+### rl (34)
 
+- [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -1946,13 +1952,14 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (51)
+### training (52)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[5-ai-skills-six-figures-2027]]
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-research-job-search-alisa-wuffles]]
 - [[autodata-synthetic-data-generation-explained]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[building-agents-from-first-principles]]
@@ -2000,9 +2007,10 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (8)
+### transformers (9)
 
 - [[2026-ai-engineering-roadmap]]
+- [[ai-research-job-search-alisa-wuffles]]
 - [[attention-qkv-math-amitiitbhu]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[economy-of-tokens-vipulved-modular-ai]]
@@ -2656,6 +2664,11 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 
+### job-search (2)
+
+- [[ai-research-job-search-alisa-wuffles]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
+
 ### json-schema (2)
 
 - [[rlm-agents-structured-outputs]]
@@ -2874,6 +2887,11 @@
 
 - [[ai-persuasion]]
 - [[human-nature-meta-skill-dan-koe]]
+
+### phd (2)
+
+- [[ai-research-job-search-alisa-wuffles]]
+- [[level-above-phd-knowledge-works-without-you]]
 
 ### planning (2)
 
@@ -3616,6 +3634,7 @@
 - **interview** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **interview-answers** — [[rl-interview-answers-2026]]
 - **interview-me** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- **interview-prep** — [[ai-research-job-search-alisa-wuffles]]
 - **interview-questions** — [[rl-interview-questions-2026]]
 - **investment-research** — [[claude-code-investment-research-setup]]
 - **iteration** — [[building-your-first-ai-agent-clear-path]]
@@ -3624,7 +3643,6 @@
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **javascript-engine** — [[browser-internals-chromium-architecture]]
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
-- **job-search** — [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
 - **karpathy** — [[living-wiki-second-brain-hermes-leopardracer]]
@@ -3748,7 +3766,6 @@
 - **personal-knowledge-management** — [[second-self-vs-second-brain-obsidian]]
 - **personal-project** — [[Llama SAE Interpretability Project]]
 - **personal-tools** — [[Non-Obvious Agent Projects]]
-- **phd** — [[level-above-phd-knowledge-works-without-you]]
 - **philosophy** — [[units-of-time-alfred-lin]]
 - **phoebe** — [[post-agent-companies]]
 - **physical-ai** — [[beginners-guide-physical-ai-stack-muskan-kalra]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 412 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 413 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -53,6 +53,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [ai-native-engineering-org.md](/processed/ai-native-engineering-org.md) — *bookmark* — How the Claude Code team restructured for AI-native engineering. Four broken norms: JIT planning replaces roadmaps, ask Claude instead of authors, humans review only domain expertise (Claude handles style/bugs/tests),...
 - [ai-persuasion.md](/processed/ai-persuasion.md) — *concept* — AI Persuasion
 - [ai-policy-and-regulation.md](/processed/ai-policy-and-regulation.md) — *concept* — AI Policy and Regulation
+- [ai-research-job-search-alisa-wuffles.md](/processed/ai-research-job-search-alisa-wuffles.md) — *bookmark* — Alisa Wuffles (via Harnoor): 57 interviews / 11 companies → OpenAI — study full-time, implement transformers from scratch, public LLM/math notes + CS336 resource stack, negotiate hard.
 - [ai-safety-levels.md](/processed/ai-safety-levels.md) — *concept* — AI Safety Levels (ASL)
 - [ai-survival-guide-ikea-style.md](/processed/ai-survival-guide-ikea-style.md) — *bookmark* — A non-technical survival guide to AI in 6 levels: (1) Claude.ai with Opus + Thinking + AskUserQuestion, (2) voice dictation via Wispr Flow, (3) Claude Cowork for file creation, (4) app connectors (Gmail, Calendar), (5...
 - [ai-writing-style-personalization.md](/processed/ai-writing-style-personalization.md) — *processed-note* — Anti-AI Writing Style: Making AI Sound Human
