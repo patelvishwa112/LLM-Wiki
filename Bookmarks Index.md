@@ -392,6 +392,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Never get writer's block — ChatGPT Voice + Codex (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
+- [[bezos-writing-framework-six-page-memos-dickiebush]] — [Bezos Writing Framework — 6-page narrative memos](https://x.com/dickiebush/status/2078096611138580818) `[writing, productivity, content-strategy, creator-economy, communication, amazon, clear-thinking, memos]`
 - [[human-nature-meta-skill-dan-koe]] — [Human Nature as the Meta-Skill](https://x.com/thedankoe/status/2073418764058825045) `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[wtf-is-storytelling-for-vcs-laurie-owen]] — [WTF is Storytelling for VCs? (Refinery)](https://x.com/imlaurieowen/status/2077440615214686259) `[storytelling, writing, venture-capital, content-strategy, marketing, productivity]`
 - [[loopholing-schedule-seams-creatorpascal]] — [Loopholing — reclaim calendar seams](https://x.com/creatorpascal/status/2075357304690516005) `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
@@ -520,6 +521,7 @@
 - [[avichawla]] `[models]`
 - [[avichawla]] `[ai-ml]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] `[robotics, physical-ai, vla, humanoids, investing, hardware, simulation, nvidia, foundation-models, ai-strategy]`
+- [[bezos-writing-framework-six-page-memos-dickiebush]] `[writing, productivity, content-strategy, creator-economy, communication, amazon, clear-thinking, memos]`
 - [[brain-dump-of-howwhy-we-use-evals-to-measure-agent]] `[evals, agents]`
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] `[agents, business-ideas]`
 - [[can-llms-adapt-continually-without-losing-base-ski]] `[training, coding-tools]`

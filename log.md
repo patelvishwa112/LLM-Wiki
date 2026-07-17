@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-17
 
+- Ingest: Bezos Writing Framework 6-page narrative memos (dickiebush 2078096611138580818)
+
+## 2026-07-17
+
 - Ingest: OpenWiki 0.2 OKF (bracesproul 2077799049156338142)
 
 ## 2026-07-17

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 415 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 416 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -82,6 +82,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [autoscientists-decentralized-ai-research-agents.md](/processed/autoscientists-decentralized-ai-research-agents.md) — *article* — AutoScientists — Decentralized AI Research Agents
 - [beginners-guide-physical-ai-stack-muskan-kalra.md](/processed/beginners-guide-physical-ai-stack-muskan-kalra.md) — *bookmark* — Muskan Kalra beginner map of Physical AI: five layers (brain/VLA, humanoid body OEMs, parts/actuators, training data, deployments) with 2026 funding context — humanoids as stress test, not the whole market.
 - [beyond-ghost-sae-experiment-proposals.md](/processed/beyond-ghost-sae-experiment-proposals.md) — *proposal* — Beyond the Ghost: SAE Experiments for Understanding and Steering Model Behavior
+- [bezos-writing-framework-six-page-memos-dickiebush.md](/processed/bezos-writing-framework-six-page-memos-dickiebush.md) — *bookmark* — Bezos banned slides for 6-page narrative memos plus six writing rules that force clear thinking
 - [big-book-of-llms.md](/processed/big-book-of-llms.md) — *note* — The Big Book of Large Language Models
 - [browser-internals-chromium-architecture.md](/processed/browser-internals-chromium-architecture.md) — *concept* — How Modern Browsers Work — Chromium Architecture Deep Dive
 - [build-claude-code-harness-crewai-akshay.md](/processed/build-claude-code-harness-crewai-akshay.md) — *bookmark* — Akshay Pachaar rebuilds Claude Code-style coding harness in CrewAI — loop, tools, planning/reasoning, hierarchical subagents, E2B sandbox, HITL, memory, checkpoints.
