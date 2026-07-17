@@ -47,6 +47,7 @@
 - [[agent-memory-four-layer-stack-matthew-gunnin]] — [Four-layer agent memory stack (Ella/Lyra)](https://x.com/matthewgunnin/status/2072772100973007203) `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
 - [[living-wiki-second-brain-hermes-leopardracer]] — [AI second brain — Karpathy wiki + Hermes agents](https://x.com/leopardracer/status/2073340097051689327) `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[open-knowledge-format-okf-google]] — [Open Knowledge Format (OKF) v0.1 — Google Cloud](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing) `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud]`
+- [[openwiki-02-okf-langchain-bracesproul]] — [OpenWiki 0.2 adopts OKF (LangChain / Brace)](https://x.com/bracesproul/status/2077799049156338142) `[okf, openwiki, langchain, second-brain, knowledge-graph, agents, documentation, standards]`
 - [[cerebras-knowledge-base-hybrid-search-mcp]] — [How Cerebras built its knowledge base (15k Q/day)](https://x.com/cerebras/status/2077822555159945507) `[agent-memory, rag, mcp, enterprise, cerebras, cocoindex, retrieval, knowledge-base, hybrid-search, agents]`
 - [[langchain-fireworks-trace-judge-100x-cheaper]] — [Building a 100x Cheaper Trace Judge with Fireworks](https://x.com/vtrivedy10/status/2066571435871551655) `[agents, agent-harness, observability, eval, training, cost-optimization, langchain, fireworks, llm-judges, trace-data]`
 - [[improving-agents-data-mining-traces]] — [Improving Agents is a Data Mining Problem — traces, Scaling Dreaming, LangSmith Engine](https://x.com/vtrivedy10/status/2074509344155066517) `[continual-learning, agent-harness, observability, evals, trace-data, harness-engineering, langchain, langsmith, training, production-traces]`
@@ -691,6 +692,7 @@
 - [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
 - [[open-knowledge-format-okf-google]] `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud, open-source]`
+- [[openwiki-02-okf-langchain-bracesproul]] `[okf, openwiki, langchain, second-brain, knowledge-graph, agents, agent-harness, documentation, standards, obsidian]`
 - [[openthoughts-agent-data-recipes-agentic-models]] `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, huggingface, benchmarks, teacher-model]`
 - [[opportunity-ai-pm-os-workflow]] `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`

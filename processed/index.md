@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 414 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 415 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -306,6 +306,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [open-knowledge-format-okf-google.md](/processed/open-knowledge-format-okf-google.md) — *concept* — OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karp...
 - [openclaw-hermes-supervisor-setup.md](/processed/openclaw-hermes-supervisor-setup.md) — *bookmark* — The Setup That Saved Me Hours Every Day: OpenClaw + Hermes Supervisor
 - [openthoughts-agent-data-recipes-agentic-models.md](/processed/openthoughts-agent-data-recipes-agentic-models.md) — *bookmark* — OpenThoughts-Agent: open 6-stage agent training data pipeline (100+ ablations) — task mix/diversity dominates (~30 pts), GLM-4.7 beats GPT-5.3-Codex as teacher, 5+ turn traces, don't rewrite tasks; OpenThinkerAgent-32...
+- [openwiki-02-okf-langchain-bracesproul.md](/processed/openwiki-02-okf-langchain-bracesproul.md) — *bookmark* — LangChain OpenWiki 0.2 adopts Google OKF — YAML frontmatter, index.md, logs.md for agent-navigable codebase wikis; deterministic tag/category filters over pure agentic search.
 - [opportunity-ai-pm-os-workflow.md](/processed/opportunity-ai-pm-os-workflow.md) — *bookmark* — PM OS /opportunity workflow: intake outcomes + journey moments, OST tree with need-reframing, qualitative four-lens selection—not RICE at opportunity stage.
 - [opsd-off-policy-self-distillation.md](/processed/opsd-off-policy-self-distillation.md) — *bookmark* — ar0cket1 shares early experimental results on Off-Policy Self-Distillation (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD's sample efficiency and training stability. Work in progress after ...
 - [opus-48-token-economy-guide.md](/processed/opus-48-token-economy-guide.md) — *bookmark* — Opus 4.8 Token Economy Guide

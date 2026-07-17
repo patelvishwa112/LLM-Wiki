@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 961 unique tags across 414 processed notes.
+> 963 unique tags across 415 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (86)
+### agent-harness (87)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -87,6 +87,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[open-knowledge-format-okf-google]]
+- [[openwiki-02-okf-langchain-bracesproul]]
 - [[orchestrating-agents-adk-fhinkel]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
@@ -189,7 +190,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (185)
+### agents (186)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -330,6 +331,7 @@
 - [[open-knowledge-format-okf-google]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
+- [[openwiki-02-okf-langchain-bracesproul]]
 - [[opsd-off-policy-self-distillation]]
 - [[opus-cybersecurity-partners]]
 - [[orchestrating-agents-adk-fhinkel]]
@@ -1103,12 +1105,13 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### knowledge-graph (7)
+### knowledge-graph (8)
 
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[open-knowledge-format-okf-google]]
+- [[openwiki-02-okf-langchain-bracesproul]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
@@ -1128,7 +1131,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (10)
+### langchain (11)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -1140,6 +1143,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[openwiki-02-okf-langchain-bracesproul]]
 
 ### langsmith (7)
 
@@ -1398,7 +1402,7 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (11)
+### obsidian (12)
 
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[claude-code-investment-research-setup]]
@@ -1409,6 +1413,7 @@
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[open-knowledge-format-okf-google]]
+- [[openwiki-02-okf-langchain-bracesproul]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
@@ -1754,7 +1759,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 
-### second-brain (13)
+### second-brain (14)
 
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
@@ -1767,6 +1772,7 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[open-knowledge-format-okf-google]]
+- [[openwiki-02-okf-langchain-bracesproul]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
@@ -2435,6 +2441,11 @@
 - [[10-hall-of-fame-engineering-papers]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
+
+### documentation (2)
+
+- [[openwiki-02-okf-langchain-bracesproul]]
+- [[training-llm-from-scratch-5-lessons]]
 
 ### dpo (3)
 
@@ -3208,6 +3219,11 @@
 - [[pm-as-context-compressor]]
 - [[testing-business-ideas-product-operating-system]]
 
+### standards (2)
+
+- [[open-knowledge-format-okf-google]]
+- [[openwiki-02-okf-langchain-bracesproul]]
+
 ### steering (3)
 
 - [[beyond-ghost-sae-experiment-proposals]]
@@ -3536,7 +3552,6 @@
 - **dlp** — [[claude-compliance-security-partners]]
 - **document-processing** — [[why-layout-matters-document-processing]]
 - **document-to-skill** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
-- **documentation** — [[training-llm-from-scratch-5-lessons]]
 - **documents** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **dqn** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **dual-coding** — [[learn-anything-3x-faster-claude-9-study-systems]]
@@ -3746,12 +3761,14 @@
 - **ocr** — [[why-layout-matters-document-processing]]
 - **off-policy** — [[opsd-off-policy-self-distillation]]
 - **ogilvy** — [[david-ogilvy-writing-coach-claude-skill]]
+- **okf** — [[openwiki-02-okf-langchain-bracesproul]]
 - **ollama** — [[0xsojalsec-llms-local]]
 - **onchain** — [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - **one-person-company** — [[claude-cowork-one-person-company-2026]]
 - **online-learning** — [[learning-from-experience-noise-oaklab-handsdiff]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]
+- **openwiki** — [[openwiki-02-okf-langchain-bracesproul]]
 - **operator-surfaces** — [[research-agent-evidence-operator]]
 - **opportunity-discovery** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **opportunity-solution-tree** — [[opportunity-ai-pm-os-workflow]]
@@ -3914,7 +3931,6 @@
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **speech** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
-- **standards** — [[open-knowledge-format-okf-google]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **storm** — [[stanford-storm-method-claude-research]]
