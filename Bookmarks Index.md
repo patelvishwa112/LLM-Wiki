@@ -425,6 +425,7 @@
 - [[rl-interview-answers-2026]] — [RL Interview Answers 2026](https://x.com/vivek_2332/status/2063566811749331353) `[rl, rlhf, training, interview-answers, ppo, grpo, infrastructure, async-rl, moe]`
 - [[rl-algo-comprehensive-qa]] — [RL ALGO — Comprehensive Q&A](https://www.k-a.in/rl-algo.html) `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, teacher-model, huggingface]`
+- [[controlling-reasoning-effort-in-llms]] — [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms) `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
 
 
 ### Security
@@ -449,6 +450,7 @@
 - [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
+- [[controlling-reasoning-effort-in-llms]] — [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms) `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
 
 ### Weather
 
@@ -549,6 +551,7 @@
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
 - [[continual-learning-replit-agent-vibench]] `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
+- [[controlling-reasoning-effort-in-llms]] `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
 - [[daily-dose-of-premium-content]] `[agents, models]`
 - [[dark-arts-of-skill-engineering-pbakaus]] `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, progressive-disclosure, design, frontend, impeccable, cross-harness]`
 - [[dear-lord-no-wonder-evals-are-a-mess]] `[evals, models]`

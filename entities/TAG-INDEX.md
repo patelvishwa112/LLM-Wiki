@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 966 unique tags across 416 processed notes.
+> 967 unique tags across 417 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1317,10 +1317,11 @@
 - [[knowledge-distillation-theturingpost]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (18)
+### models (19)
 
 - [[adapad-lora-parallel-deflation]]
 - [[big-book-of-llms]]
+- [[controlling-reasoning-effort-in-llms]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[fable-manager-sol-worker-nateherk]]
@@ -1502,9 +1503,10 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (7)
+### post-training (8)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -1647,6 +1649,14 @@
 - [[vscode-copilot-token-efficiency]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
+### qwen (5)
+
+- [[controlling-reasoning-effort-in-llms]]
+- [[ghost-in-residual-stream-experiment]]
+- [[multi-lora-training-osmosis]]
+- [[portal-portable-task-adapters-llms]]
+- [[why-on-policy-distillation-works]]
+
 ### rag (12)
 
 - [[0xsojalsec-llms-local]]
@@ -1673,7 +1683,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (34)
+### rl (35)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1682,6 +1692,7 @@
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
 - [[continuous-batching-grpo-trl]]
+- [[controlling-reasoning-effort-in-llms]]
 - [[curiosity-bayesian-bandit]]
 - [[distillation-post-training-frontier-2026]]
 - [[fast-slow-training-continual-llm-adaptation]]
@@ -1810,8 +1821,9 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (8)
+### sft (9)
 
+- [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
@@ -1969,7 +1981,7 @@
 - [[jim-simons-medallion-quant-framework]]
 - [[markov-chains-polymarket-trading]]
 
-### training (52)
+### training (53)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -1981,6 +1993,7 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
+- [[controlling-reasoning-effort-in-llms]]
 - [[design-good-ml-experiments-grigorev]]
 - [[distillation-post-training-frontier-2026]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
@@ -3047,12 +3060,10 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 
-### qwen (4)
+### reasoning (2)
 
-- [[ghost-in-residual-stream-experiment]]
-- [[multi-lora-training-osmosis]]
-- [[portal-portable-task-adapters-llms]]
-- [[why-on-policy-distillation-works]]
+- [[controlling-reasoning-effort-in-llms]]
+- [[hrm-text-1b-reasoning-model]]
 
 ### recursive-language-models (3)
 
@@ -3113,8 +3124,9 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (2)
+### rlvr (3)
 
+- [[controlling-reasoning-effort-in-llms]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[why-on-policy-distillation-works]]
 
@@ -3659,6 +3671,7 @@
 - **inductor** — [[torch-internals-part1-fx-graphs]]
 - **inference-code-design** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **inference-optimization** — [[trimming-introduction]]
+- **inference-scaling** — [[controlling-reasoning-effort-in-llms]]
 - **inference-time-compute** — [[who-will-set-price-intelligence]]
 - **inference-time-scaling** — [[sub-agents-inference-time-scaling]]
 - **infra** — [[learnings-training-llm-from-scratch]]
@@ -3847,7 +3860,6 @@
 - **qubot** — [[github-qubot-data-analytics-agent]]
 - **ray-dalio** — [[principled-thinking-and-ai-ray-dalio]]
 - **reading-writing** — [[zen-and-the-art-of-ai-research]]
-- **reasoning** — [[hrm-text-1b-reasoning-model]]
 - **reasoning-models** — [[why-on-policy-distillation-works]]
 - **recognition-primed-decision-making** — [[pattern-recognition-as-expertise-jaynitx]]
 - **red-teaming** — [[red-teaming]]

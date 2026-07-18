@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-18
+
+- Ingest: Controlling Reasoning Effort in LLMs (magazine.sebastianraschka.com)
+
 ## 2026-07-17
 
 - Ingest: Bezos Writing Framework 6-page narrative memos (dickiebush 2078096611138580818)

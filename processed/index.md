@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 416 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 417 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -130,6 +130,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [continual-learning-replit-agent-vibench.md](/processed/continual-learning-replit-agent-vibench.md) — *bookmark* — Replit continual learning without weight updates — harness and context layers, ViBench, A/B tests, Telescope clustering, and an autonomous improvement loop.
 - [continuous-batching-grpo-trl.md](/processed/continuous-batching-grpo-trl.md) — *concept* — Continuous Batching for GRPO Rollouts in TRL
 - [continuous-trace-intelligence-braintrust-topics.md](/processed/continuous-trace-intelligence-braintrust-topics.md) — *bookmark* — How Braintrust Made Continuous Trace Intelligence Possible at Scale
+- [controlling-reasoning-effort-in-llms.md](/processed/controlling-reasoning-effort-in-llms.md) — *article* — Raschka explains how multi-level reasoning effort (low/medium/high) is trained via effort-conditioned RLVR length penalties, SFT, chat templates, and open-weight recipes (Qwen3, DeepSeek V4, Nemotron, Kimi, GLM-5, Ink...
 - [curiosity-bayesian-bandit.md](/processed/curiosity-bayesian-bandit.md) — *note* — What Is Curiosity? A Bayesian Bandit Perspective
 - [dair-ai-ten-papers-co-evolving-agents-verification.md](/processed/dair-ai-ten-papers-co-evolving-agents-verification.md) — *bookmark* — DAIR.AI roundup of ten papers on co-evolving agents and evaluators, MCP server patterns, verification horizons, skill composition, metamemory, and scalable paper review.
 - [daleverett-polygress-agent-era.md](/processed/daleverett-polygress-agent-era.md) — *bookmark* — Polygress: Postgres for the Agent era
