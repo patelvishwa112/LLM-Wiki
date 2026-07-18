@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-18
 
+- Ingest: Luck runs out on schedule (0xspivach 2078046857016619053)
+
+## 2026-07-18
+
+- Ingest: Context engineering field guide (phosphenq 2078221723409830336)
+
+## 2026-07-18
+
 - Ingest: Controlling Reasoning Effort in LLMs (magazine.sebastianraschka.com)
 
 ## 2026-07-17

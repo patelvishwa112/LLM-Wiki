@@ -71,6 +71,7 @@
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
 - [[Dynamic Workflows in Claude Code]] — [A Harness for Every Task: Dynamic Workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 - [[harness-is-the-product-context-aware-agents]] — [The Harness Is the Product: Building Context-Aware Agent Harnesses](https://x.com/0x_kaize/status/2063343984521490722) `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
+- [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] — [Kimi K2.6 runs 300 parallel agents. Here's what comes out.](https://x.com/sprytixl/status/2062420467034513604) `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[claude-code-changed-what-agents-look-like]] — [Claude Code Just Changed What "Agents" Look Like](https://x.com/suryanshti777/status/2061393185126097356) `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
@@ -277,6 +278,7 @@
 - [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Building an efficient harness for advanced enterprise work](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management]`
+- [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
 
 ### Evals
@@ -300,6 +302,7 @@
 
 - [[jp-morgan-pays-650000-a-year-for-quants-they-built]] — [J.P. Morgan pays $650,000+ a year for quants. They built this exact Python train](https://x.com/RohOnChain/status/2056097405783945392)
 - [[jim-simons-medallion-quant-framework]] — [How Jim Simon's Algorithm Prints Money While You Sleep (The Exact Quant Framework)](https://x.com/ritonchain/status/2063308228323328247) `[quant, jim-simons, medallion, renaissance-technologies, trading, markov-chains, kelly-criterion, hurst-exponent, factor-model, finance]`
+- [[luck-runs-out-on-schedule-trading-0xspivach]] — [Luck runs out on schedule (trading edge vs noise)](https://x.com/0xspivach/status/2078046857016619053) `[trading, quant, finance, kelly-criterion, risk-management, edge, statistics]`
 - [[dqn-adaptive-trade-execution-ritonchain]] — [DQN Framework for Adaptive Trade Execution](https://x.com/ritonchain/status/2068993401815761270) `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, finance]`
 - [[how-to-read-company-ai-analyst]] — [How to Read Any Company With AI Like an Analyst](https://x.com/gemchange_ltd/status/2060757358297469365)
 - [[article]] — [Article](https://x.com/RohOnChain/status/2056753978042712565)
@@ -551,6 +554,7 @@
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
 - [[continual-learning-replit-agent-vibench]] `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
+- [[context-engineering-field-guide-phosphenq]] `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[controlling-reasoning-effort-in-llms]] `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
 - [[daily-dose-of-premium-content]] `[agents, models]`
 - [[dark-arts-of-skill-engineering-pbakaus]] `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, progressive-disclosure, design, frontend, impeccable, cross-harness]`
@@ -666,6 +670,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]] `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy, adaptation, ml-research]`
 - [[lotteverheyden]] `[ai-ml]`
+- [[luck-runs-out-on-schedule-trading-0xspivach]] `[trading, quant, finance, kelly-criterion, risk-management, edge, statistics]`
 - [[macro-evals-for-agentic-systems-openai-cookbook]] `[evals]`
 - [[managed-agents-built-in-memory]] `[agents, memory, anthropic, enterprise, agent-ops]`
 - [[managed-agents-dreaming-orchestration]] `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`

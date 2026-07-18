@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 967 unique tags across 417 processed notes.
+> 969 unique tags across 419 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (87)
+### agent-harness (88)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -51,6 +51,7 @@
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[claude-md-12-rules-mikenevermiss]]
+- [[context-engineering-field-guide-phosphenq]]
 - [[continual-learning-replit-agent-vibench]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deep-agents-prompt-caching]]
@@ -190,7 +191,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (186)
+### agents (187)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -251,6 +252,7 @@
 - [[coderabbit-claude-agent-orchestration]]
 - [[colleague-skill-dot-skill]]
 - [[computer-use]]
+- [[context-engineering-field-guide-phosphenq]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[deep-agents-prompt-caching]]
@@ -747,12 +749,13 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (11)
+### context-engineering (12)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-personal-assistant-zero-dollars]]
+- [[context-engineering-field-guide-phosphenq]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[hermes-agent-10x-faster-vault-index]]
 - [[loop-engineering-clearly-explained]]
@@ -761,9 +764,10 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (8)
+### context-management (9)
 
 - [[agent-harness-engineering-agentforge]]
+- [[context-engineering-field-guide-phosphenq]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
@@ -936,7 +940,7 @@
 - [[how-to-actually-use-claude-fable-5]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 
-### finance (7)
+### finance (8)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -945,6 +949,7 @@
 - [[how-to-read-company-ai-analyst]]
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
+- [[luck-runs-out-on-schedule-trading-0xspivach]]
 
 ### fine-tuning (8)
 
@@ -1612,7 +1617,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (34)
+### prompt-engineering (35)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1627,6 +1632,7 @@
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-hidden-features-guide]]
 - [[claude-md-12-rules-mikenevermiss]]
+- [[context-engineering-field-guide-phosphenq]]
 - [[goal-loss-functions-distill-product]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
@@ -1648,6 +1654,14 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[vscode-copilot-token-efficiency]]
 - [[writing-good-skills-measured-rulebook-aparna]]
+
+### quant (5)
+
+- [[dqn-adaptive-trade-execution-ritonchain]]
+- [[jim-simons-medallion-quant-framework]]
+- [[jp-morgan-quant-python-training]]
+- [[luck-runs-out-on-schedule-trading-0xspivach]]
+- [[markov-chains-polymarket-trading]]
 
 ### qwen (5)
 
@@ -1934,7 +1948,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (17)
+### subagents (18)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1942,6 +1956,7 @@
 - [[build-claude-code-harness-crewai-akshay]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-subagents-vs-agent-teams]]
+- [[context-engineering-field-guide-phosphenq]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -1962,6 +1977,14 @@
 - [[agent-harness-should-repair-itself]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 
+### token-economy (5)
+
+- [[context-engineering-field-guide-phosphenq]]
+- [[deep-agents-prompt-caching]]
+- [[economy-of-tokens-vipulved-modular-ai]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[opus-48-token-economy-guide]]
+
 ### tools (8)
 
 - [[50-mcp-servers-guide]]
@@ -1973,12 +1996,13 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### trading (5)
+### trading (6)
 
 - [[4-agent-trading-desk]]
 - [[dqn-adaptive-trade-execution-ritonchain]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[jim-simons-medallion-quant-framework]]
+- [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
 ### training (53)
@@ -2335,6 +2359,11 @@
 - [[ideas-build-better-personal-network-benln]]
 - [[pm-as-context-compressor]]
 
+### compaction (2)
+
+- [[context-engineering-field-guide-phosphenq]]
+- [[harness-is-the-product-context-aware-agents]]
+
 ### compounding (3)
 
 - [[knowledge-system-compounding-obsidian-vellum]]
@@ -2347,8 +2376,9 @@
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### context-rot (2)
+### context-rot (3)
 
+- [[context-engineering-field-guide-phosphenq]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
@@ -2711,9 +2741,10 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### kelly-criterion (2)
+### kelly-criterion (3)
 
 - [[jim-simons-medallion-quant-framework]]
+- [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
 ### kimi (4)
@@ -3047,13 +3078,6 @@
 - [[pytorch-profiler-beginners-guide]]
 - [[torch-internals-part1-fx-graphs]]
 
-### quant (4)
-
-- [[dqn-adaptive-trade-execution-ritonchain]]
-- [[jim-simons-medallion-quant-framework]]
-- [[jp-morgan-quant-python-training]]
-- [[markov-chains-polymarket-trading]]
-
 ### quantization (3)
 
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -3116,6 +3140,11 @@
 
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[reward-hacking-and-tampering]]
+
+### risk-management (2)
+
+- [[4-agent-trading-desk]]
+- [[luck-runs-out-on-schedule-trading-0xspivach]]
 
 ### rlm (4)
 
@@ -3301,13 +3330,6 @@
 
 - [[loopholing-schedule-seams-creatorpascal]]
 - [[units-of-time-alfred-lin]]
-
-### token-economy (4)
-
-- [[deep-agents-prompt-caching]]
-- [[economy-of-tokens-vipulved-modular-ai]]
-- [[harness-is-the-product-context-aware-agents]]
-- [[opus-48-token-economy-guide]]
 
 ### trace-data (2)
 
@@ -3507,7 +3529,6 @@
 - **cocoindex** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communities** — [[0xsojalsec-llms-local]]
-- **compaction** — [[harness-is-the-product-context-aware-agents]]
 - **company-brain** — [[memory-is-retained-consequence]]
 - **compilation** — [[torch-internals-part1-fx-graphs]]
 - **compliance** — [[claude-compliance-security-partners]]
@@ -3577,6 +3598,7 @@
 - **dynamo** — [[torch-internals-part1-fx-graphs]]
 - **eagle** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
+- **edge** — [[luck-runs-out-on-schedule-trading-0xspivach]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
 - **email-list** — [[career-platform-email-list-ryan-holiday]]
 - **energy-based-models** — [[joint-embedding-predictive-architecture-jepa]]
@@ -3890,7 +3912,6 @@
 - **reward-design** — [[rl-algo-comprehensive-qa]]
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
-- **risk-management** — [[4-agent-trading-desk]]
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rollouts** — [[continuous-batching-grpo-trl]]
 - **roofline** — [[speculative-decoding-history-roofline-shreybirmiwal]]
@@ -3953,6 +3974,7 @@
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
+- **statistics** — [[luck-runs-out-on-schedule-trading-0xspivach]]
 - **storm** — [[stanford-storm-method-claude-research]]
 - **storytelling** — [[wtf-is-storytelling-for-vcs-laurie-owen]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]

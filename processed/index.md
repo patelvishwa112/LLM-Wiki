@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 417 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 419 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -127,6 +127,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [colleague-skill-dot-skill.md](/processed/colleague-skill-dot-skill.md) — *bookmark* — COLLEAGUE.SKILL — dot-skill Paper from Shanghai AI Lab
 - [computer-use.md](/processed/computer-use.md) — *concept* — Computer Use
 - [constitutional-ai.md](/processed/constitutional-ai.md) — *concept* — Constitutional AI
+- [context-engineering-field-guide-phosphenq.md](/processed/context-engineering-field-guide-phosphenq.md) — *bookmark* — Phosphenq field guide: context engineering designs the whole window (not one prompt); bigger windows worsen via Lost-in-the-Middle and context rot; 12 moves for high-signal tokens.
 - [continual-learning-replit-agent-vibench.md](/processed/continual-learning-replit-agent-vibench.md) — *bookmark* — Replit continual learning without weight updates — harness and context layers, ViBench, A/B tests, Telescope clustering, and an autonomous improvement loop.
 - [continuous-batching-grpo-trl.md](/processed/continuous-batching-grpo-trl.md) — *concept* — Continuous Batching for GRPO Rollouts in TRL
 - [continuous-trace-intelligence-braintrust-topics.md](/processed/continuous-trace-intelligence-braintrust-topics.md) — *bookmark* — How Braintrust Made Continuous Trace Intelligence Possible at Scale
@@ -276,6 +277,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
 - [looped-ttt-test-time-training-looped-transformers-alvinzh.md](/processed/looped-ttt-test-time-training-looped-transformers-alvinzh.md) — *article* — Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal ...
 - [loopholing-schedule-seams-creatorpascal.md](/processed/loopholing-schedule-seams-creatorpascal.md) — *bookmark* — Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep.
+- [luck-runs-out-on-schedule-trading-0xspivach.md](/processed/luck-runs-out-on-schedule-trading-0xspivach.md) — *bookmark* — 0xSpivach on why trading luck dies on a calculable schedule: edge grows linear in N, noise as sqrt(N); size up at peak confidence is the blowup intersection.
 - [macro-evals-for-agentic-systems-openai-cookbook.md](/processed/macro-evals-for-agentic-systems-openai-cookbook.md) — *bookmark* — Macro Evals for Agentic Systems (OpenAI Cookbook)
 - [make-requirements-great.md](/processed/make-requirements-great.md) — *bookmark* — make-requirements-great skill for PMs: enforces three altitudes of requirements, scans for weasel words, performs catalogue-level checks (consistency, completeness, traceability), and flags open decisions instead of i...
 - [making-ai-agent-production-ready-sarthakrastogi.md](/processed/making-ai-agent-production-ready-sarthakrastogi.md) — *bookmark* — Sarthak Rastogi tutorial — production Apple-style support bot with FastAPI, LangGraph, GPTCache, Presidio, Rival AI, PageIndex RAG, Ragas validation, LangSmith.
