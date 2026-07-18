@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 419 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 420 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -406,6 +406,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [virtual-filesystem-for-agent-assistants.md](/processed/virtual-filesystem-for-agent-assistants.md) — *bookmark* — Virtual Filesystem for AI Assistants — Beyond RAG
 - [voxyz-ai-10-lessons-agents-md.md](/processed/voxyz-ai-10-lessons-agents-md.md) — *article* — 10 Lessons from Shipping with AI Coding Agents
 - [vscode-copilot-token-efficiency.md](/processed/vscode-copilot-token-efficiency.md) — *bookmark* — Improving Token Efficiency in GitHub Copilot Agentic Harness (VS Code)
+- [waku-agent-github.md](/processed/waku-agent-github.md) — *resource* — Waku: MIT local-first personal agent teaching harness, loop (~95 LOC), memory pillars + retrieval gate, and dual evals/release gate; dashboard + Telegram/voice; Hermes/OpenClaw-shaped blueprint.
 - [weight-synchronization-rl-post-training.md](/processed/weight-synchronization-rl-post-training.md) — *bookmark* — Weight Synchronization in RL Post-Training
 - [what-every-programmer-should-know-about-rlhf.md](/processed/what-every-programmer-should-know-about-rlhf.md) — *bookmark* — Clear explanation of the RLHF pipeline: SFT → reward model (Bradley-Terry on preference pairs) → PPO with KL penalty to prevent reward hacking. Covers failure modes (reward hacking, distributional shift, labeler bias)...
 - [what-if-harness-comes-before-pretraining-lihanc02.md](/processed/what-if-harness-comes-before-pretraining-lihanc02.md) — *bookmark* — Hanchen Li — harness and pretraining hold hands both ways: flywheel data shaped by harness; harness as symbolic override of pretrain reflexes.

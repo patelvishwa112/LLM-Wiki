@@ -71,6 +71,7 @@
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
 - [[Dynamic Workflows in Claude Code]] — [A Harness for Every Task: Dynamic Workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 - [[harness-is-the-product-context-aware-agents]] — [The Harness Is the Product: Building Context-Aware Agent Harnesses](https://x.com/0x_kaize/status/2063343984521490722) `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
+- [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] — [Kimi K2.6 runs 300 parallel agents. Here's what comes out.](https://x.com/sprytixl/status/2062420467034513604) `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[claude-code-changed-what-agents-look-like]] — [Claude Code Just Changed What "Agents" Look Like](https://x.com/suryanshti777/status/2061393185126097356) `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
@@ -278,6 +279,7 @@
 - [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Building an efficient harness for advanced enterprise work](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management]`
+- [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
 
@@ -762,6 +764,7 @@
 - [[trq212]] `[models]`
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
+- [[waku-agent-github]] `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`

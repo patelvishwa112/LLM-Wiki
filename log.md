@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-18
 
+- Ingest: waku-agent GitHub (ShenSeanChen/waku-agent)
+
+## 2026-07-18
+
 - Ingest: Luck runs out on schedule (0xspivach 2078046857016619053)
 
 ## 2026-07-18

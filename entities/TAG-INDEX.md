@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 969 unique tags across 419 processed notes.
+> 971 unique tags across 420 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (88)
+### agent-harness (89)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -111,6 +111,7 @@
 - [[two-tracks-not-ten-agents]]
 - [[universal-agent-thesis]]
 - [[vscode-copilot-token-efficiency]]
+- [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
@@ -126,7 +127,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (18)
+### agent-memory (19)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -145,6 +146,7 @@
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[unified-memory-layers-entity-resolution]]
+- [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
 ### agent-ops (31)
@@ -191,7 +193,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (187)
+### agents (188)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -373,6 +375,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[virtual-filesystem-for-agent-assistants]]
 - [[voxyz-ai-10-lessons-agents-md]]
+- [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[who-will-set-price-intelligence]]
 - [[why-layout-matters-document-processing]]
@@ -896,7 +899,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (30)
+### evals (31)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -927,6 +930,7 @@
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
+- [[waku-agent-github]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### fable-5 (8)
@@ -992,7 +996,7 @@
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
 
-### harness-engineering (17)
+### harness-engineering (18)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1010,9 +1014,10 @@
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[trying-to-actually-define-continual-learning-oneill]]
+- [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### hermes (20)
+### hermes (21)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
@@ -1033,6 +1038,7 @@
 - [[research-agent-evidence-operator]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[the-best-models-for-hermes-agent]]
+- [[waku-agent-github]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
 ### huggingface (7)
@@ -1197,7 +1203,15 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### loop-engineering (16)
+### llm-judges (5)
+
+- [[agent-as-a-judge-trajectory-evals-aparna]]
+- [[are-you-still-tuning-llms-by-hand-gepa]]
+- [[do-automated-evals-work-parlance-labs]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[waku-agent-github]]
+
+### loop-engineering (17)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1215,6 +1229,7 @@
 - [[loop-engineering]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[waku-agent-github]]
 
 ### loops (9)
 
@@ -1236,7 +1251,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (35)
+### mcp (36)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1273,6 +1288,7 @@
 - [[software-factory-linear-claude-cloud-routines]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[vscode-copilot-token-efficiency]]
+- [[waku-agent-github]]
 
 ### mechanistic-interpretability (8)
 
@@ -1391,7 +1407,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (16)
+### observability (17)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1408,6 +1424,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[twenty-core-agent-concepts-sairahul1]]
+- [[waku-agent-github]]
 - [[your-agent-harness-should-repair-itself]]
 
 ### obsidian (12)
@@ -1448,13 +1465,14 @@
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[vscode-copilot-token-efficiency]]
 
-### openclaw (5)
+### openclaw (6)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[dive-into-claude-code-vila-lab]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[openclaw-hermes-supervisor-setup]]
+- [[waku-agent-github]]
 
 ### orchestration (28)
 
@@ -1847,7 +1865,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (60)
+### skills (61)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -1905,6 +1923,7 @@
 - [[skill-solo-millionaires-ai-era]]
 - [[spec-kit-github-sdd]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[waku-agent-github]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
@@ -2791,13 +2810,6 @@
 
 - [[coding-agent-harness-eight-pillars]]
 - [[llm-engineering-projects-roadmap-2026]]
-
-### llm-judges (4)
-
-- [[agent-as-a-judge-trajectory-evals-aparna]]
-- [[are-you-still-tuning-llms-by-hand-gepa]]
-- [[do-automated-evals-work-parlance-labs]]
-- [[langchain-fireworks-trace-judge-100x-cheaper]]
 
 ### llm-training (2)
 
@@ -3739,6 +3751,7 @@
 - **llm-ops** — [[continuous-trace-intelligence-braintrust-topics]]
 - **llm-research** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **lm-studio** — [[mlx-engine-v185-kv-cache-agentic]]
+- **local-first** — [[waku-agent-github]]
 - **local-llm** — [[google-gemma-4-12b-local-fine-tuning]]
 - **logprobs** — [[continuous-batching-grpo-trl]]
 - **long-context** — [[how-to-use-rlms-in-deep-agents]]
@@ -3971,6 +3984,7 @@
 - **spec-driven-development** — [[spec-kit-github-sdd]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **speech** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- **sqlite** — [[waku-agent-github]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
