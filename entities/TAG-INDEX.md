@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 975 unique tags across 421 processed notes.
+> 978 unique tags across 423 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -459,7 +459,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (20)
+### architecture (21)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -473,6 +473,7 @@
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[learnings-training-llm-from-scratch]]
+- [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
@@ -491,6 +492,14 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[sierra-pinecone-singular-company-agent]]
+
+### attention (5)
+
+- [[attention-qkv-math-amitiitbhu]]
+- [[everything-you-didnt-want-to-know-about-architectures]]
+- [[kv-caching-llms-clearly-explained-avichawla]]
+- [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[what-is-kv-cache-llms]]
 
 ### automation (10)
 
@@ -522,7 +531,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (18)
+### career (19)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -533,6 +542,7 @@
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-research]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 - [[jp-morgan-quant-python-training]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
@@ -808,11 +818,12 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
 
-### creator-economy (9)
+### creator-economy (10)
 
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
 - [[career-platform-email-list-ryan-holiday]]
 - [[david-ogilvy-writing-coach-claude-skill]]
+- [[how-to-have-better-conversations-lifemaxx]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
@@ -1060,7 +1071,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (15)
+### inference (16)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1072,6 +1083,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
@@ -1327,7 +1339,7 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
 
-### ml-research (9)
+### ml-research (10)
 
 - [[0xsojalsec-llms-local]]
 - [[aiedge-glm-5.2-guide]]
@@ -1337,6 +1349,7 @@
 - [[how-to-be-good-at-research]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
+- [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
 ### models (19)
@@ -1567,7 +1580,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (50)
+### productivity (51)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1597,6 +1610,7 @@
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-goal-mode-guide]]
 - [[how-to-create-loops-claude-code-sairahul1]]
+- [[how-to-have-better-conversations-lifemaxx]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -2028,7 +2042,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (54)
+### training (55)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2057,6 +2071,7 @@
 - [[knowledge-distillation-theturingpost]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
+- [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[multi-lora-training-osmosis]]
@@ -2085,7 +2100,7 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (9)
+### transformers (10)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-research-job-search-alisa-wuffles]]
@@ -2095,6 +2110,7 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[what-is-kv-cache-llms]]
 
 ### venture-capital (5)
@@ -2274,13 +2290,6 @@
 - [[rl-interview-answers-2026]]
 - [[weight-synchronization-rl-post-training]]
 
-### attention (4)
-
-- [[attention-qkv-math-amitiitbhu]]
-- [[everything-you-didnt-want-to-know-about-architectures]]
-- [[kv-caching-llms-clearly-explained-avichawla]]
-- [[what-is-kv-cache-llms]]
-
 ### audience-building (2)
 
 - [[career-platform-email-list-ryan-holiday]]
@@ -2377,9 +2386,10 @@
 - [[anthropic-internal-claude-code-workflow]]
 - [[coding-agent-harness-eight-pillars]]
 
-### communication (3)
+### communication (4)
 
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
+- [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 - [[pm-as-context-compressor]]
 
@@ -2837,6 +2847,11 @@
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
 
+### looped-transformers (2)
+
+- [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
+
 ### managed-agents (3)
 
 - [[anthropic-ant-cli-guide]]
@@ -2896,9 +2911,10 @@
 - [[fable-5-system-prompt]]
 - [[how-to-actually-use-claude-fable-5]]
 
-### networking (3)
+### networking (4)
 
 - [[browser-internals-chromium-architecture]]
+- [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
 
@@ -3140,6 +3156,11 @@
 - [[weight-synchronization-rl-post-training]]
 - [[world-models-agent-imagination]]
 
+### relationships (2)
+
+- [[how-to-have-better-conversations-lifemaxx]]
+- [[ideas-build-better-personal-network-benln]]
+
 ### research-methodology (3)
 
 - [[design-good-ml-experiments-grigorev]]
@@ -3266,6 +3287,11 @@
 - [[ai-policy-and-regulation]]
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
+
+### soft-skills (2)
+
+- [[how-to-have-better-conversations-lifemaxx]]
+- [[ideas-build-better-personal-network-benln]]
 
 ### software-factory (2)
 
@@ -3772,7 +3798,6 @@
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **loop** — [[how-to-be-good-at-research]]
 - **loop-driven-development** — [[loop-driven-development]]
-- **looped-transformers** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **luna** — [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - **macro** — [[ray-dalio-x-post]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
@@ -3815,6 +3840,7 @@
 - **mtp** — [[training-llm-from-scratch-5-lessons]]
 - **multilingual** — [[trimming-introduction]]
 - **n8n** — [[knowledge-system-compounding-obsidian-vellum]]
+- **nanochat** — [[looped-nanochat-two-pass-routing-kyleliang]]
 - **network-effects** — [[post-agent-companies]]
 - **neural-network** — [[jim-simons-medallion-quant-framework]]
 - **neuroscience** — [[anthropic-global-workspace-j-space]]
@@ -3910,11 +3936,11 @@
 - **reading-writing** — [[zen-and-the-art-of-ai-research]]
 - **reasoning-models** — [[why-on-policy-distillation-works]]
 - **recognition-primed-decision-making** — [[pattern-recognition-as-expertise-jaynitx]]
+- **recurrence** — [[looped-nanochat-two-pass-routing-kyleliang]]
 - **red-teaming** — [[red-teaming]]
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **refusal** — [[how-to-actually-use-claude-fable-5]]
 - **regime-detection** — [[jim-simons-medallion-quant-framework]]
-- **relationships** — [[ideas-build-better-personal-network-benln]]
 - **reliability** — [[automate-writing-llm-prompts-dspy]]
 - **remotion** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **renaissance-technologies** — [[jim-simons-medallion-quant-framework]]
@@ -3988,7 +4014,6 @@
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
-- **soft-skills** — [[ideas-build-better-personal-network-benln]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
@@ -4024,6 +4049,7 @@
 - **teresa-torres** — [[opportunity-ai-pm-os-workflow]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
+- **test-time-compute** — [[looped-nanochat-two-pass-routing-kyleliang]]
 - **test-time-training** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]
 - **thinky-machines** — [[inkling-ear-7-9m-lookup-table-huckiyang]]

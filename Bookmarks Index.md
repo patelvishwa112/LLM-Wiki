@@ -186,6 +186,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]] — [Inference optimizations for sub-second LLM responses (16-item checklist)](https://x.com/asmah2107/status/2071196830088777741) `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
 - [[speculative-decoding-history-roofline-shreybirmiwal]] — [Speculative decoding history — roofline to 8x lossless speedups](https://x.com/shreybirmiwal/status/2074666256402448732) `[inference, serving, speculative-decoding, gpu, kv-cache, medusa, eagle, roofline, throughput, latency]`
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]] — [Loop deeper or adapt? TTT in looped transformers (Ouro)](https://alvinzh04.github.io/blog/looped-ttt.html) `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy]`
+- [[looped-nanochat-two-pass-routing-kyleliang]] — [What if a Transformer could think twice? (Looped Nanochat)](https://x.com/kyleliang5/status/2078543088419840292) `[architecture, transformers, training, inference, looped-transformers, attention, nanochat, test-time-compute]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling's ear — 7.9M dMel lookup table, no audio encoder](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
@@ -369,6 +370,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling ear — 7.9M dMel table, encoderless audio](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, asr]`
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 vision retrofit — projector-only SFT+RL](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, models]`
 - [[understanding-video-models-rl-post-training]] — [Understanding Video Models: Part III - RL Post-Training](https://x.com/majumdar_ani/status/2078508177620926531) `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training, models]`
+- [[looped-nanochat-two-pass-routing-kyleliang]] — [Looped Nanochat — two-pass routing-loop Transformer](https://x.com/kyleliang5/status/2078543088419840292) `[architecture, transformers, looped-transformers, attention, nanochat, training, inference, models]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
 - [[how-openai-sol-learned-design-taste-designarena]] — [GPT-5.6 Sol #1 Design Arena — anti-patterns & templates](https://x.com/designarena/status/2077432249033830706) `[design, models, openai, gpt-5.6, sol, evals, frontend, designarena]`
@@ -396,6 +398,7 @@
 - [[career-platform-email-list-ryan-holiday]] — [Here's the Most Important Career (and Life) Asset You Can Develop](https://x.com/ryanholiday/status/2068709749617561704) `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity]`
 - [[personal-brand-better-than-resume-lindsay-casale]] — [Personal brand better than a resume — positioning + content engine](https://x.com/lindsaycasale/status/2077425295033036987) `[career, personal-brand, productivity, content-strategy, writing, marketing, networking, audience-building]`
 - [[ideas-build-better-personal-network-benln]] — [Ideas to help you build a better personal network](https://x.com/benln/status/2076351797673824318) `[networking, career, productivity, soft-skills, relationships, communication]`
+- [[how-to-have-better-conversations-lifemaxx]] — [How To Have Better Conversations](https://x.com/lifemaxxjourney/status/2078571200956301691) `[productivity, communication, soft-skills, networking, relationships, career]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Never get writer's block — ChatGPT Voice + Codex (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
@@ -625,6 +628,7 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-create-right-skill-ai-agent]] `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
+- [[how-to-have-better-conversations-lifemaxx]] `[productivity, communication, soft-skills, networking, relationships, career, creator-economy]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
@@ -672,6 +676,7 @@
 - [[loop-engineering-clearly-explained]] `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-engineering-quietly-ate-prompt-engineering]] `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
+- [[looped-nanochat-two-pass-routing-kyleliang]] `[architecture, transformers, training, inference, looped-transformers, attention, nanochat, test-time-compute, ml-research, recurrence]`
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]] `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy, adaptation, ml-research]`
 - [[lotteverheyden]] `[ai-ml]`
 - [[luck-runs-out-on-schedule-trading-0xspivach]] `[trading, quant, finance, kelly-criterion, risk-management, edge, statistics]`

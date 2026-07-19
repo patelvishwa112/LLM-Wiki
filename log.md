@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-19
 
+- Ingest: How To Have Better Conversations (lifemaxxjourney 2078571200956301691)
+
+## 2026-07-19
+
+- Ingest: Looped Nanochat two-pass routing (kyleliang5 2078543088419840292)
+
+## 2026-07-19
+
 - Ingest: Understanding Video Models Part III RL Post-Training (majumdar_ani 2078508177620926531)
 
 ## 2026-07-18

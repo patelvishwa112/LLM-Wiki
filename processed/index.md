@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 421 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 423 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -222,6 +222,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-design-a-loop-that-prompts-your-agent.md](/processed/how-to-design-a-loop-that-prompts-your-agent.md) — *bookmark* — Detailed blueprint for designing loops that prompt agents: 5 parts (define done, build context from state, act & capture, feedback, stop conditions). Full code pattern + common mistakes. The loop is the strategy; a pr...
 - [how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md](/processed/how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind.md) — *lecture* — Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier labs actually hire for: low-level kernel engineering for LLM runtime, research taste as a stochastic MDP skill, scaling laws intuition, d...
 - [how-to-give-your-agent-memory.md](/processed/how-to-give-your-agent-memory.md) — *bookmark* — LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub.
+- [how-to-have-better-conversations-lifemaxx.md](/processed/how-to-have-better-conversations-lifemaxx.md) — *bookmark* — Six conversation habits: real curiosity, humble opinions, common-ground first, make others feel important, nonverbal presence, novelty — craft over charisma.
 - [how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md](/processed/how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md) — *bookmark* — Jason (@jxnlco) replaces human ghostwriting with ChatGPT live voice + Codex: talk-walk transcripts, only-use-my-words essay skill, then FFmpeg/Remotion video essay edits — open skills in jxnl/dots.
 - [how-to-read-company-ai-analyst.md](/processed/how-to-read-company-ai-analyst.md) — *bookmark* — How to Read Any Company With AI Like an Analyst
 - [how-to-use-gpt-56-all-day-without-limits-sairahul1.md](/processed/how-to-use-gpt-56-all-day-without-limits-sairahul1.md) — *bookmark* — Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clone subagents); Sol Extra High + Sol Medium + Luna Extra High; max_depth=1; AGENTS.md no auto-spawn; explicit stop points.
@@ -275,6 +276,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-engineering-quietly-ate-prompt-engineering.md](/processed/loop-engineering-quietly-ate-prompt-engineering.md) — *bookmark* — Field guide defining agent loops vs cron, five meanings of loop, verification brakes, skills as compounding assets, and a three-level build ladder.
 - [loop-engineering-technical-roadmap-h100envy.md](/processed/loop-engineering-technical-roadmap-h100envy.md) — *bookmark* — Step-by-step technical roadmap for autonomous agent loops: external deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking gates, disk state, isolation, and JSONL observability.
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
+- [looped-nanochat-two-pass-routing-kyleliang.md](/processed/looped-nanochat-two-pass-routing-kyleliang.md) — *bookmark* — Looped Nanochat: shared-weight two-pass Transformer with gated first-pass Q/K attention priors; +9–12% CORE, GSM8K relative +45% at ~2.4× train compute; K>2 untrained fails.
 - [looped-ttt-test-time-training-looped-transformers-alvinzh.md](/processed/looped-ttt-test-time-training-looped-transformers-alvinzh.md) — *article* — Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal ...
 - [loopholing-schedule-seams-creatorpascal.md](/processed/loopholing-schedule-seams-creatorpascal.md) — *bookmark* — Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep.
 - [luck-runs-out-on-schedule-trading-0xspivach.md](/processed/luck-runs-out-on-schedule-trading-0xspivach.md) — *bookmark* — 0xSpivach on why trading luck dies on a calculable schedule: edge grows linear in N, noise as sqrt(N); size up at peak confidence is the blowup intersection.
