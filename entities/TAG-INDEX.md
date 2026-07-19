@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 971 unique tags across 420 processed notes.
+> 975 unique tags across 421 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -985,7 +985,7 @@
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### grpo (8)
+### grpo (9)
 
 - [[autodata-synthetic-data-generation-explained]]
 - [[building-agents-from-first-principles]]
@@ -995,6 +995,7 @@
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
+- [[understanding-video-models-rl-post-training]]
 
 ### harness-engineering (18)
 
@@ -1526,7 +1527,7 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (8)
+### post-training (9)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[controlling-reasoning-effort-in-llms]]
@@ -1535,6 +1536,7 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 - [[trying-to-actually-define-continual-learning-oneill]]
+- [[understanding-video-models-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### pretraining (7)
@@ -1715,7 +1717,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (35)
+### rl (36)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1749,11 +1751,12 @@
 - [[sutton-barto-rl-notes]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[trying-to-actually-define-continual-learning-oneill]]
+- [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[weight-synchronization-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### rlhf (10)
+### rlhf (11)
 
 - [[ai-alignment]]
 - [[constitutional-ai]]
@@ -1763,6 +1766,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 - [[rlhf]]
+- [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
@@ -2024,7 +2028,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (53)
+### training (54)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2074,6 +2078,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[trying-to-actually-define-continual-learning-oneill]]
+- [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[weight-synchronization-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
@@ -2503,6 +2508,11 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
+### diffusion (2)
+
+- [[how-to-build-diffusion-language-model-kuleshov]]
+- [[understanding-video-models-rl-post-training]]
+
 ### distributed-systems (3)
 
 - [[10-hall-of-fame-engineering-papers]]
@@ -2514,10 +2524,11 @@
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### dpo (3)
+### dpo (4)
 
 - [[rl-algo-comprehensive-qa]]
 - [[rlhf-from-first-principles]]
+- [[understanding-video-models-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
 ### dspy (2)
@@ -3165,9 +3176,10 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (3)
+### rlvr (4)
 
 - [[controlling-reasoning-effort-in-llms]]
+- [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[why-on-policy-distillation-works]]
 
@@ -3594,7 +3606,6 @@
 - **dev-tools** — [[anthropic-ant-cli-guide]]
 - **developer-platform** — [[code-w-claude-london-2026]]
 - **devops** — [[how-to-automate-disaster-recovery-with-agents]]
-- **diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
 - **disaster-recovery** — [[how-to-automate-disaster-recovery-with-agents]]
 - **discipline** — [[loopholing-schedule-seams-creatorpascal]]
 - **discord** — [[openclaw-hermes-supervisor-setup]]
@@ -3642,6 +3653,7 @@
 - **firecrawl** — [[claude-code-investment-research-setup]]
 - **fireworks** — [[langchain-fireworks-trace-judge-100x-cheaper]]
 - **flashattention** — [[inference-optimizations-sub-second-llm-checklist]]
+- **flow-matching** — [[understanding-video-models-rl-post-training]]
 - **focus** — [[ten-commandments-building-product-feitong-yang]]
 - **folder-structure** — [[hermes-agent-10x-faster-vault-index]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
@@ -3653,6 +3665,7 @@
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
 - **fx** — [[torch-internals-part1-fx-graphs]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
+- **geometric-consistency** — [[understanding-video-models-rl-post-training]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
 - **gepa** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **ghost-protocol** — [[loopholing-schedule-seams-creatorpascal]]
@@ -3925,6 +3938,7 @@
 - **reward-design** — [[rl-algo-comprehensive-qa]]
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
+- **reward-models** — [[understanding-video-models-rl-post-training]]
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rollouts** — [[continuous-batching-grpo-trl]]
 - **roofline** — [[speculative-decoding-history-roofline-shreybirmiwal]]
@@ -4047,6 +4061,7 @@
 - **vercel** — [[leerob-x-post-2065469795529588940]]
 - **vibench** — [[continual-learning-replit-agent-vibench]]
 - **video** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
+- **video-generation** — [[understanding-video-models-rl-post-training]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vocabulary** — [[trimming-introduction]]

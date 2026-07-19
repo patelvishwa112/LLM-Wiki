@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-19
+
+- Ingest: Understanding Video Models Part III RL Post-Training (majumdar_ani 2078508177620926531)
+
 ## 2026-07-18
 
 - Ingest: waku-agent GitHub (ShenSeanChen/waku-agent)

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 420 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 421 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -398,6 +398,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [twenty-core-agent-concepts-sairahul1.md](/processed/twenty-core-agent-concepts-sairahul1.md) — *bookmark* — Framework-agnostic map of twenty recurring agent concepts across six layers, from execution loops and state through config, MCP, subagents, guardrails, and tracing.
 - [two-tracks-not-ten-agents.md](/processed/two-tracks-not-ten-agents.md) — *bookmark* — You don't need ten agents. You need two tracks.
 - [ubuntu-shuttleworth-story.md](/processed/ubuntu-shuttleworth-story.md) — *bookmark* — Mark Shuttleworth, Thawte sale, and the origin story of Ubuntu from a small Debian team.
+- [understanding-video-models-rl-post-training.md](/processed/understanding-video-models-rl-post-training.md) — *bookmark* — Majumdar Part III: RL post-training for video models — Flow-DPO/GRPO RLHF path plus sparse RLVR via epipolar/scene geometry (Epipolar-DPO, VideoGPA, VGGRPO).
 - [unified-memory-layers-entity-resolution.md](/processed/unified-memory-layers-entity-resolution.md) — *bookmark* — Unified Memory Layers — Entity Resolution vs Deduplication
 - [units-of-time-alfred-lin.md](/processed/units-of-time-alfred-lin.md) — *bookmark* — Units of Time
 - [universal-agent-thesis.md](/processed/universal-agent-thesis.md) — *bookmark* — Universal AgentThesis
