@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 978 unique tags across 424 processed notes.
+> 981 unique tags across 425 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -194,7 +194,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (189)
+### agents (190)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -368,6 +368,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1001,7 +1002,7 @@
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### grpo (9)
+### grpo (10)
 
 - [[autodata-synthetic-data-generation-explained]]
 - [[building-agents-from-first-principles]]
@@ -1011,6 +1012,7 @@
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
 - [[sakana-fugu-orchestrator-models]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
 ### harness-engineering (19)
@@ -1549,7 +1551,7 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (9)
+### post-training (10)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[controlling-reasoning-effort-in-llms]]
@@ -1557,6 +1559,7 @@
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[understanding-video-models-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1706,12 +1709,13 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### qwen (5)
+### qwen (6)
 
 - [[controlling-reasoning-effort-in-llms]]
 - [[ghost-in-residual-stream-experiment]]
 - [[multi-lora-training-osmosis]]
 - [[portal-portable-task-adapters-llms]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 - [[why-on-policy-distillation-works]]
 
 ### rag (12)
@@ -1740,7 +1744,7 @@
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
 
-### rl (36)
+### rl (37)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1772,6 +1776,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlm-recursive-llm-query-system]]
 - [[sutton-barto-rl-notes]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[understanding-video-models-rl-post-training]]
@@ -1792,6 +1797,14 @@
 - [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
+
+### rlvr (5)
+
+- [[controlling-reasoning-effort-in-llms]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
+- [[understanding-video-models-rl-post-training]]
+- [[verifiability-constraint-rlvr-unverifiable-tanayj]]
+- [[why-on-policy-distillation-works]]
 
 ### roadmap (5)
 
@@ -2052,7 +2065,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (55)
+### training (56)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2100,6 +2113,7 @@
 - [[rlhf-from-first-principles]]
 - [[sia-recursive-self-improving-agent]]
 - [[torch-internals-part1-fx-graphs]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -2447,10 +2461,11 @@
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[the-html-brand-input-based-outcomes]]
 
-### credit-assignment (2)
+### credit-assignment (3)
 
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
+- [[trace-turn-level-reward-credit-assignment-agents]]
 
 ### critique (2)
 
@@ -3209,13 +3224,6 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (4)
-
-- [[controlling-reasoning-effort-in-llms]]
-- [[understanding-video-models-rl-post-training]]
-- [[verifiability-constraint-rlvr-unverifiable-tanayj]]
-- [[why-on-policy-distillation-works]]
-
 ### robotics (4)
 
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -3393,6 +3401,11 @@
 - [[loopholing-schedule-seams-creatorpascal]]
 - [[units-of-time-alfred-lin]]
 
+### tool-use (2)
+
+- [[trace-turn-level-reward-credit-assignment-agents]]
+- [[universal-agent-thesis]]
+
 ### trace-data (2)
 
 - [[improving-agents-data-mining-traces]]
@@ -3567,6 +3580,7 @@
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
 - **briefing** — [[fable-5-system-prompt]]
+- **browsecomp** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **browser-internals** — [[browser-internals-chromium-architecture]]
 - **browserbase** — [[autobrowse-browser-agent-memory]]
 - **business-ideas** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -3806,6 +3820,7 @@
 - **local-llm** — [[google-gemma-4-12b-local-fine-tuning]]
 - **logprobs** — [[continuous-batching-grpo-trl]]
 - **long-context** — [[how-to-use-rlms-in-deep-agents]]
+- **long-horizon** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **long-running** — [[how-to-actually-use-claude-fable-5]]
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
 - **loop** — [[how-to-be-good-at-research]]
@@ -3828,6 +3843,7 @@
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
 - **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
+- **microsoft-research** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **middleware** — [[how-to-build-custom-agent-harness-langchain]]
 - **migration** — [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - **misuse** — [[detecting-misuse]]
@@ -4075,7 +4091,6 @@
 - **tokenmaxxing** — [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - **tool-design** — [[agent-harness-engineering-agentforge]]
 - **tool-search** — [[vscode-copilot-token-efficiency]]
-- **tool-use** — [[universal-agent-thesis]]
 - **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **training-data** — [[goldmine-selling-data-frontier-labs-viks-rum]]

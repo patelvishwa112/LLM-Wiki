@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-20
 
+- Ingest: TRACE turn-level reward credit assignment (sharonyixuanli 2078854876084502825)
+
+## 2026-07-20
+
 - Ingest: Graph engineering 14-step roadmap (0xcodez 2079165300625330317)
 
 ## 2026-07-19

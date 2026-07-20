@@ -95,6 +95,7 @@
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
 - [[research-world-model-distill-ai-researcher-amber-liu]] — [How to Distill a $10M+ AI Researcher — Research World Model](https://x.com/jiachenliu8/status/2074558254328455577) `[ai-research, research-world-model, agents, knowledge-graph, arc-agi, claude-code, career]`
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]] — [Verifiability constraint — RLVR and unverifiable domains](https://x.com/tanayj/status/2072766211256119475) `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
+- [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — turn-level credit for long-horizon tool agents (arXiv:2607.13988)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, rlvr, grpo, post-training, tool-use, qwen, long-horizon, browsecomp]`
 - [[understanding-video-models-rl-post-training]] — [Understanding Video Models: Part III - RL Post-Training](https://x.com/majumdar_ani/status/2078508177620926531) `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training]`
 - [[universal-agent-thesis]] — [Universal AgentThesis](https://x.com/cobusgreylingza/status/2066593705906012188) `[agents, agent-harness, self-evolving-agents, tool-use, autonomy, architecture]`
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]] — [Using Claude to go Viral on X… (Mr. Beasts Framework)](https://x.com/mattepstein/status/2066664675542999369) `[claude, x, viral-content, mrbeast, content-creation, prompt-engineering, growth]`
@@ -438,6 +439,7 @@
 - [[rl-algo-comprehensive-qa]] — [RL ALGO — Comprehensive Q&A](https://www.k-a.in/rl-algo.html) `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, teacher-model, huggingface]`
 - [[controlling-reasoning-effort-in-llms]] — [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms) `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
+- [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — turn-level TD credit from gold-answer predictability](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, grpo, tool-use, qwen, browsecomp, post-training]`
 
 
 ### Security
@@ -460,6 +462,7 @@
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
+- [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — densify outcome RL with turn-level credit (BrowseComp-Plus)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, post-training, tool-use, qwen, microsoft-research]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
 - [[controlling-reasoning-effort-in-llms]] — [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms) `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
@@ -767,6 +770,7 @@
 - [[theturingpost]] `[agents]`
 - [[torch-internals-part1-fx-graphs]] `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] `[weather, models]`
+- [[trace-turn-level-reward-credit-assignment-agents]] `[rl, training, agents, credit-assignment, rlvr, grpo, post-training, tool-use, qwen, microsoft-research, long-horizon, browsecomp]`
 - [[tradermorin]] `[finance]`
 - [[training-agents-class-1-sft-by-agent]] `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[training-llm-from-scratch-5-lessons]] `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
