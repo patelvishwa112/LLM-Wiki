@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-20
 
+- Ingest: Graph Engineering vs RAG GraphRAG roundup (sprytixl 2078778799064584535)
+
+## 2026-07-20
+
+- Ingest: Loops vs graphs Polygres Infinite Context (daleverett 2078969402046009374)
+
+## 2026-07-20
+
 - Ingest: TRACE turn-level reward credit assignment (sharonyixuanli 2078854876084502825)
 
 ## 2026-07-20

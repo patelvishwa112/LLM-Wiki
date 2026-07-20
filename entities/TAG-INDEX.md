@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 981 unique tags across 425 processed notes.
+> 983 unique tags across 427 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (90)
+### agent-harness (91)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -87,6 +87,7 @@
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
@@ -128,7 +129,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (19)
+### agent-memory (21)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -137,12 +138,14 @@
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[gbrain-markdown-git-brain-mem0]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graph-memory-reconstruction-llms]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[how-to-give-your-agent-memory]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -194,7 +197,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (190)
+### agents (192)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -275,6 +278,7 @@
 - [[goal-loss-functions-distill-product]]
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[guide-to-goal-codex]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -321,6 +325,7 @@
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[managed-agents-built-in-memory]]
@@ -427,7 +432,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (32)
+### anthropic (33)
 
 - [[ai-native-engineering-org]]
 - [[anthropic-ant-cli-guide]]
@@ -451,6 +456,7 @@
 - [[code-w-claude-london-2026]]
 - [[coderabbit-claude-agent-orchestration]]
 - [[fable-5-mythos-prompting-masterclass]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[llms-securing-source-code]]
@@ -781,13 +787,14 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (9)
+### context-management (10)
 
 - [[agent-harness-engineering-agentforge]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[orchestrating-agents-adk-fhinkel]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1015,7 +1022,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (19)
+### harness-engineering (20)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1031,6 +1038,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -1139,11 +1147,13 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### knowledge-graph (8)
+### knowledge-graph (10)
 
 - [[gbrain-markdown-git-brain-mem0]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
@@ -1178,6 +1188,14 @@
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[openwiki-02-okf-langchain-bracesproul]]
+
+### langgraph (5)
+
+- [[fault-tolerance-langgraph-retries-timeouts]]
+- [[harbor-langchain-unified-agent-eval-stack]]
+- [[langchain-langgraph-101-repo]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[making-ai-agent-production-ready-sarthakrastogi]]
 
 ### langsmith (7)
 
@@ -1232,7 +1250,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (18)
+### loop-engineering (19)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1249,6 +1267,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[waku-agent-github]]
@@ -1273,7 +1292,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (36)
+### mcp (37)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1293,6 +1312,7 @@
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[generative-ui-is-the-new-frontend]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
 - [[how-to-read-company-ai-analyst]]
@@ -1383,7 +1403,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (37)
+### multi-agent (38)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1407,6 +1427,7 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[langchain-langgraph-101-repo]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[managed-agents-dreaming-orchestration]]
 - [[multi-perspective-prd-review-claude-code]]
@@ -1498,7 +1519,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (29)
+### orchestration (30)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1522,6 +1543,7 @@
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[iii-agent-harness-workers]]
 - [[introducing-dynamic-subagents-deep-agents]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[managed-agents-dreaming-orchestration]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[orchestrating-agents-adk-fhinkel]]
@@ -1663,7 +1685,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (35)
+### prompt-engineering (36)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1680,6 +1702,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[goal-loss-functions-distill-product]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[harness-is-the-product-280k]]
 - [[harnessing-claudes-intelligence]]
 - [[how-to-actually-design-with-ai-lexnlin]]
@@ -1718,13 +1741,14 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[why-on-policy-distillation-works]]
 
-### rag (12)
+### rag (13)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[gbrain-markdown-git-brain-mem0]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-vector-database-works]]
@@ -1743,6 +1767,14 @@
 - [[how-to-be-good-at-research]]
 - [[recursive-self-improvement-ai-101]]
 - [[stanford-storm-method-claude-research]]
+
+### retrieval (5)
+
+- [[cerebras-knowledge-base-hybrid-search-mcp]]
+- [[gbrain-markdown-git-brain-mem0]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
+- [[production-rag-agents-technmak]]
+- [[quarq-agent-memory-architecture]]
 
 ### rl (37)
 
@@ -1845,13 +1877,14 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 
-### second-brain (14)
+### second-brain (15)
 
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[gbrain-markdown-git-brain-mem0]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[hermes-agent-10x-faster-vault-index]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[leopardracer-ai-workflows-prompts]]
@@ -2567,10 +2600,11 @@
 - [[understanding-video-models-rl-post-training]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### dspy (2)
+### dspy (3)
 
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[automate-writing-llm-prompts-dspy]]
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
 
 ### education (3)
 
@@ -2840,13 +2874,6 @@
 - [[claude-cowork-product-guide]]
 - [[not-ambitious-enough-with-claude]]
 
-### langgraph (4)
-
-- [[fault-tolerance-langgraph-retries-timeouts]]
-- [[harbor-langchain-unified-agent-eval-stack]]
-- [[langchain-langgraph-101-repo]]
-- [[making-ai-agent-production-ready-sarthakrastogi]]
-
 ### latency (3)
 
 - [[inference-optimizations-sub-second-llm-checklist]]
@@ -2916,6 +2943,11 @@
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[hermes-seven-skills-cobi-bean]]
+
+### microsoft (2)
+
+- [[graph-engineering-vs-rag-graphrag-sprytixl]]
+- [[microsoft-mai-thinking1-rank-noninvariance]]
 
 ### mlx (3)
 
@@ -3053,6 +3085,11 @@
 
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ideacide-eleven-filters-drurly]]
+
+### postgres (2)
+
+- [[daleverett-polygress-agent-era]]
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 
 ### ppo (4)
 
@@ -3193,13 +3230,6 @@
 - [[design-good-ml-experiments-grigorev]]
 - [[how-to-be-good-at-ai-research]]
 - [[training-llm-from-scratch-5-lessons]]
-
-### retrieval (4)
-
-- [[cerebras-knowledge-base-hybrid-search-mcp]]
-- [[gbrain-markdown-git-brain-mem0]]
-- [[production-rag-agents-technmak]]
-- [[quarq-agent-memory-architecture]]
 
 ### review (3)
 
@@ -3736,6 +3766,7 @@
 - **gqa** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **graph-memory** — [[graph-memory-reconstruction-llms]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
+- **graphrag** — [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - **grokking** — [[glm-5-2-with-vision-projector-part-harry]]
 - **growth** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **gsd** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -3841,7 +3872,6 @@
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-agents** — [[shepherd-reversible-execution-traces-avichawla]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
-- **microsoft** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **microsoft-research** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **middleware** — [[how-to-build-custom-agent-harness-langchain]]
@@ -3930,12 +3960,12 @@
 - **plugins** — [[claude-cowork-one-person-company-2026]]
 - **policy-engine** — [[iii-agent-harness-workers]]
 - **policy-optimization** — [[opsd-off-policy-self-distillation]]
+- **polygres** — [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - **polygress** — [[daleverett-polygress-agent-era]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
 - **portable-adaptation** — [[portal-portable-task-adapters-llms]]
 - **position-vs-effort** — [[effort-position-leverage-principles]]
 - **post-agent-companies** — [[post-agent-companies]]
-- **postgres** — [[daleverett-polygress-agent-era]]
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prd-review** — [[make-requirements-great]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 425 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 427 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -183,6 +183,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [goodfire-parameter-decomposition-interpretability.md](/processed/goodfire-parameter-decomposition-interpretability.md) — *note* — Goodfire: Parameter Decomposition for Model Interpretability
 - [google-gemma-4-12b-local-fine-tuning.md](/processed/google-gemma-4-12b-local-fine-tuning.md) — *bookmark* — Google released Gemma 4 12B, a multimodal model (text, images, audio) that runs on 8GB VRAM. Plan to fine-tune locally with Unsloth and Hugging Face transformers for chess move prediction.
 - [graph-engineering-14-step-roadmap-0xcodez.md](/processed/graph-engineering-14-step-roadmap-0xcodez.md) — *bookmark* — 0xCodez 14-step graph engineering roadmap: turn linear multi-step agents into Claude Code dynamic-workflow graphs with nodes/edges, diamond topology, verifiers, model tiering, and self-routing fleets.
+- [graph-engineering-vs-rag-graphrag-sprytixl.md](/processed/graph-engineering-vs-rag-graphrag-sprytixl.md) — *bookmark* — Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Sta...
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents
 - [guide-to-goal-codex.md](/processed/guide-to-goal-codex.md) — *bookmark* — A guide to /goal 🥅
@@ -280,6 +281,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [looped-nanochat-two-pass-routing-kyleliang.md](/processed/looped-nanochat-two-pass-routing-kyleliang.md) — *bookmark* — Looped Nanochat: shared-weight two-pass Transformer with gated first-pass Q/K attention priors; +9–12% CORE, GSM8K relative +45% at ~2.4× train compute; K>2 untrained fails.
 - [looped-ttt-test-time-training-looped-transformers-alvinzh.md](/processed/looped-ttt-test-time-training-looped-transformers-alvinzh.md) — *article* — Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal ...
 - [loopholing-schedule-seams-creatorpascal.md](/processed/loopholing-schedule-seams-creatorpascal.md) — *bookmark* — Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep.
+- [loops-vs-graphs-polygres-infinite-context-daleverett.md](/processed/loops-vs-graphs-polygres-infinite-context-daleverett.md) — *bookmark* — Dale Everett on Steinberger loops-vs-graphs: a loop is a degenerate graph; transcript-as-string is a bad DB. Distinguish control/execution/data graphs; Polygres stores all on Postgres so execution joins the data graph...
 - [luck-runs-out-on-schedule-trading-0xspivach.md](/processed/luck-runs-out-on-schedule-trading-0xspivach.md) — *bookmark* — 0xSpivach on why trading luck dies on a calculable schedule: edge grows linear in N, noise as sqrt(N); size up at peak confidence is the blowup intersection.
 - [macro-evals-for-agentic-systems-openai-cookbook.md](/processed/macro-evals-for-agentic-systems-openai-cookbook.md) — *bookmark* — Macro Evals for Agentic Systems (OpenAI Cookbook)
 - [make-requirements-great.md](/processed/make-requirements-great.md) — *bookmark* — make-requirements-great skill for PMs: enforces three altitudes of requirements, scans for weasel words, performs catalogue-level checks (consistency, completeness, traceability), and flags open decisions instead of i...
