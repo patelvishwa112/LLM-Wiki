@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 978 unique tags across 423 processed notes.
+> 978 unique tags across 424 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (89)
+### agent-harness (90)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -61,6 +61,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[glean-coding-harness-programmatic-tool-calling]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -193,7 +194,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (188)
+### agents (189)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -273,6 +274,7 @@
 - [[generative-ui-is-the-new-frontend]]
 - [[goal-loss-functions-distill-product]]
 - [[goal-primitive-guide]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[guide-to-goal-codex]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -594,7 +596,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (88)
+### claude-code (89)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -644,6 +646,7 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -801,7 +804,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (14)
+### cost-optimization (15)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -811,6 +814,7 @@
 - [[deepseek-v4-claude-code-setup]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[glean-coding-harness-programmatic-tool-calling]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -870,11 +874,12 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-on-policy-distillation-works]]
 
-### dynamic-workflows (5)
+### dynamic-workflows (6)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[fable-5-self-improving-system-14-steps]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 
@@ -1008,7 +1013,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (18)
+### harness-engineering (19)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1017,6 +1022,7 @@
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[glean-coding-harness-programmatic-tool-calling]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -1224,13 +1230,14 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (17)
+### loop-engineering (18)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -1374,7 +1381,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (36)
+### multi-agent (37)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1389,6 +1396,7 @@
 - [[fable-manager-sol-worker-nateherk]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1488,7 +1496,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (28)
+### orchestration (29)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1505,6 +1513,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[guide-to-goal-codex]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1985,7 +1994,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (18)
+### subagents (19)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -1997,6 +2006,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[how-to-use-rlms-in-deep-agents]]
@@ -2121,7 +2131,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (20)
+### verification (21)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2132,6 +2142,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -2959,9 +2970,10 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 
-### parallelism (3)
+### parallelism (4)
 
 - [[claude-code-dynamic-workflows-intro]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[how-gpu-executes-code-first-principles]]
 - [[how-to-build-ai-agent-swarms]]
 

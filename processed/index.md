@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 423 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 424 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -182,6 +182,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [goldmine-selling-data-frontier-labs-viks-rum.md](/processed/goldmine-selling-data-frontier-labs-viks-rum.md) — *bookmark* — Long-form map of the training-data gold rush: six products (hours/judgment/worlds/verdicts/bodies/rights), non-recurring POs, and how founders should convert cash into scarce verification moats.
 - [goodfire-parameter-decomposition-interpretability.md](/processed/goodfire-parameter-decomposition-interpretability.md) — *note* — Goodfire: Parameter Decomposition for Model Interpretability
 - [google-gemma-4-12b-local-fine-tuning.md](/processed/google-gemma-4-12b-local-fine-tuning.md) — *bookmark* — Google released Gemma 4 12B, a multimodal model (text, images, audio) that runs on 8GB VRAM. Plan to fine-tune locally with Unsloth and Hugging Face transformers for chess move prediction.
+- [graph-engineering-14-step-roadmap-0xcodez.md](/processed/graph-engineering-14-step-roadmap-0xcodez.md) — *bookmark* — 0xCodez 14-step graph engineering roadmap: turn linear multi-step agents into Claude Code dynamic-workflow graphs with nodes/edges, diamond topology, verifiers, model tiering, and self-routing fleets.
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents
 - [guide-to-goal-codex.md](/processed/guide-to-goal-codex.md) — *bookmark* — A guide to /goal 🥅

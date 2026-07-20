@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-20
+
+- Ingest: Graph engineering 14-step roadmap (0xcodez 2079165300625330317)
+
 ## 2026-07-19
 
 - Ingest: How To Have Better Conversations (lifemaxxjourney 2078571200956301691)
