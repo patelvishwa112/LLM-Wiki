@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 983 unique tags across 427 processed notes.
+> 984 unique tags across 428 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (91)
+### agent-harness (92)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -105,6 +105,7 @@
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
@@ -197,7 +198,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (192)
+### agents (193)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -365,6 +366,7 @@
 - [[shepherd-reversible-execution-traces-avichawla]]
 - [[sia-recursive-self-improving-agent]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
@@ -468,7 +470,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (21)
+### architecture (22)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -489,6 +491,7 @@
 - [[notes-on-foundation-models]]
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[universal-agent-thesis]]
 
@@ -1022,7 +1025,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (20)
+### harness-engineering (21)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1039,6 +1042,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -1079,12 +1083,13 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### human-in-the-loop (5)
+### human-in-the-loop (6)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
 ### inference (16)
@@ -1250,7 +1255,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (19)
+### loop-engineering (20)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1269,6 +1274,7 @@
 - [[loop-engineering]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[waku-agent-github]]
 
@@ -2178,7 +2184,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (21)
+### verification (22)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2198,6 +2204,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
@@ -2243,6 +2250,11 @@
 
 - [[anthropic-natural-language-autoencoders]]
 - [[persona-vectors-paper]]
+
+### addy-osmani (2)
+
+- [[addy-osmani-agent-skills-open-source]]
+- [[software-factories-light-and-dark-addy-osmani]]
 
 ### ag-ui (2)
 
@@ -3343,9 +3355,10 @@
 - [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 
-### software-factory (2)
+### software-factory (3)
 
 - [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
 ### sol (2)
@@ -3548,7 +3561,6 @@
 - **active-reconstruction** — [[graph-memory-reconstruction-llms]]
 - **adaptation** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **adapters** — [[peft-beyond-lora]]
-- **addy-osmani** — [[addy-osmani-agent-skills-open-source]]
 - **adk** — [[orchestrating-agents-adk-fhinkel]]
 - **advantage** — [[rl-algo-comprehensive-qa]]
 - **adversarial** — [[level-above-phd-knowledge-works-without-you]]
@@ -3639,6 +3651,7 @@
 - **compilation** — [[torch-internals-part1-fx-graphs]]
 - **compliance** — [[claude-compliance-security-partners]]
 - **compounding-systems** — [[token-capital-scaffolding-process-governance]]
+- **comprehension-debt** — [[software-factories-light-and-dark-addy-osmani]]
 - **compression** — [[agent-swarms-production-governance]]
 - **computer-use** — [[computer-use]]
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]

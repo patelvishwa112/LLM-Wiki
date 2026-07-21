@@ -120,6 +120,7 @@
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[software-factory-linear-claude-cloud-routines]] — [Software factory in an afternoon — Linear + Claude Cloud Routines](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob]`
+- [[software-factories-light-and-dark-addy-osmani]] — [Software Factories, Light and Dark — loop/harness/factory + comprehension debt](https://x.com/addyosmani/status/2079442194449232227) `[software-factory, harness-engineering, loop-engineering, agents, verification, human-in-the-loop, addy-osmani]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
@@ -283,6 +284,7 @@
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [Codex Pro GPT-5.6 limits — Sol/Luna routing, max_depth=1](https://x.com/sairahul1/status/2076556282195329249) `[codex, cost-optimization, gpt-5.6, subagents, harness-engineering, routing]`
 - [[software-factory-linear-claude-cloud-routines]] — [Linear software factory — pre-triage loops + webhook SDLC agent](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, harness-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, observability]`
+- [[software-factories-light-and-dark-addy-osmani]] — [Software Factories Light and Dark — dark vs lit, back pressure, comprehension debt](https://x.com/addyosmani/status/2079442194449232227) `[software-factory, harness-engineering, loop-engineering, verification, human-in-the-loop, addy-osmani, architecture]`
 - [[anthropic-self-service-analytics-claude]] — [How Anthropic Enables Self-Service Data Analytics with Claude](https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude) `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[llms-securing-source-code]] — [Using LLMs to Secure Source Code](https://claude.com/blog/using-llms-to-secure-source-code) `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
 - [[harness-is-the-product-280k]] — [6 MCP servers, 0 calls, $280K wasted](https://x.com/dunik_7/status/2064342854051209338) `[agent-harness, claude-code, mcp, tools, cost-optimization, agent-memory, sub-agents, code-review]`
@@ -755,6 +757,7 @@
 - [[shepherd-reversible-execution-traces-avichawla]] `[agents, meta-agents, agent-harness, shepherd, reversible-execution, kv-cache, supervision, stanford]`
 - [[sierra-pinecone-singular-company-agent]] `[agents, agent-harness, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
 - [[skill-solo-millionaires-ai-era]] `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
+- [[software-factories-light-and-dark-addy-osmani]] `[software-factory, harness-engineering, loop-engineering, agents, agent-harness, verification, human-in-the-loop, addy-osmani, architecture, comprehension-debt]`
 - [[software-factory-linear-claude-cloud-routines]] `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob, observability]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
