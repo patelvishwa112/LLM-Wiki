@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-21
 
+- Ingest: Metacognition as systems debugging human-AI (stablechen 2079624266707054825)
+
+## 2026-07-21
+
 - Ingest: GTM as versioned code outbound Karpathy loop (nifinet 2078851409068654639)
 
 ## 2026-07-21

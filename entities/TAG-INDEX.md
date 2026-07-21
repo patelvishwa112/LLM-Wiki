@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 985 unique tags across 429 processed notes.
+> 987 unique tags across 430 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (93)
+### agent-harness (94)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -90,6 +90,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[orchestrating-agents-adk-fhinkel]]
@@ -199,7 +200,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (194)
+### agents (195)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -339,6 +340,7 @@
 - [[mcp-model-context-protocol]]
 - [[mcp-server-workflow-problems]]
 - [[memory-is-retained-consequence]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[modern-ai-robotics-first-principles]]
 - [[multi-perspective-prd-review-claude-code]]
@@ -507,12 +509,13 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[sierra-pinecone-singular-company-agent]]
 
-### attention (5)
+### attention (6)
 
 - [[attention-qkv-math-amitiitbhu]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[what-is-kv-cache-llms]]
 
 ### automation (10)
@@ -793,7 +796,7 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (10)
+### context-management (11)
 
 - [[agent-harness-engineering-agentforge]]
 - [[context-engineering-field-guide-phosphenq]]
@@ -801,6 +804,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[orchestrating-agents-adk-fhinkel]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1029,7 +1033,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (21)
+### harness-engineering (22)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1046,6 +1050,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[learn-harness-engineering]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
@@ -1626,7 +1631,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (52)
+### productivity (53)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1668,6 +1673,7 @@
 - [[ideas-build-better-personal-network-benln]]
 - [[loopholing-schedule-seams-creatorpascal]]
 - [[mcp-server-workflow-problems]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[mid-career-dissatisfaction]]
 - [[not-ambitious-enough-with-claude]]
 - [[opus-48-token-economy-guide]]
@@ -2192,7 +2198,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (22)
+### verification (23)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2210,6 +2216,7 @@
 - [[learn-harness-engineering]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
@@ -2557,9 +2564,10 @@
 - [[anthropic-self-service-analytics-claude]]
 - [[github-qubot-data-analytics-agent]]
 
-### debugging (3)
+### debugging (4)
 
 - [[agent-harness-should-repair-itself]]
+- [[metacognition-debug-human-ai-system-stablechen]]
 - [[torch-internals-part1-fx-graphs]]
 - [[your-agent-harness-should-repair-itself]]
 
@@ -3815,6 +3823,7 @@
 - **horizon** — [[4-agent-trading-desk]]
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
 - **hrm** — [[training-llm-from-scratch-5-lessons]]
+- **human-ai** — [[metacognition-debug-human-ai-system-stablechen]]
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
 - **human-nature** — [[human-nature-meta-skill-dan-koe]]
 - **humanoids** — [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -3906,6 +3915,7 @@
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-agents** — [[shepherd-reversible-execution-traces-avichawla]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
+- **metacognition** — [[metacognition-debug-human-ai-system-stablechen]]
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
 - **microsoft-research** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **middleware** — [[how-to-build-custom-agent-harness-langchain]]

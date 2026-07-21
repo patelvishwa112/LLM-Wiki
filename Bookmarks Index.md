@@ -74,6 +74,7 @@
 - [[harness-is-the-product-context-aware-agents]] — [The Harness Is the Product: Building Context-Aware Agent Harnesses](https://x.com/0x_kaize/status/2063343984521490722) `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
 - [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
+- [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, context-management, productivity, verification, human-ai, attention, debugging]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] — [Kimi K2.6 runs 300 parallel agents. Here's what comes out.](https://x.com/sprytixl/status/2062420467034513604) `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[claude-code-changed-what-agents-look-like]] — [Claude Code Just Changed What "Agents" Look Like](https://x.com/suryanshti777/status/2061393185126097356) `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
@@ -294,6 +295,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]] — [Building an efficient harness for advanced enterprise work](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management]`
 - [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
+- [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, harness-engineering, context-management, verification, human-ai, attention]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
 
 ### Evals
@@ -426,6 +428,7 @@
 - [[ai-research-job-search-alisa-wuffles]] — [Notes on industry job search — Alisa Wuffles / Harnoor digest](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, productivity, learning]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
+- [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, productivity, human-ai, attention, debugging, verification, context-management]`
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[skill-solo-millionaires-ai-era]] — [The Skill Quietly Minting The First Solo Millionaires Of The AI Era](https://x.com/zephyr_hg/status/2070171729373118742) `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
 - [[ai-native-engineering-org]] — [Running an AI-Native Engineering Org](https://claude.com/blog/running-an-ai-native-engineering-org) `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
@@ -706,6 +709,7 @@
 - [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
 - [[memory-is-retained-consequence]] `[memory, agents, enterprise, knowledge-graphs, infrastructure]`
+- [[metacognition-debug-human-ai-system-stablechen]] `[metacognition, agents, agent-harness, context-management, productivity, verification, human-ai, attention, debugging, harness-engineering]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] `[training, rl, models, microsoft, mai, data-quality, ablations]`
 - [[mid-career-dissatisfaction]] `[career, productivity]`
 - [[mlx-engine-v185-kv-cache-agentic]] `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving, optimization]`

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 429 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 430 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -299,6 +299,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [mechanistic-interpretability-is-not-the-whole-field.md](/processed/mechanistic-interpretability-is-not-the-whole-field.md) — *summary* — Mechanistic Interpretability Is Not the Whole Interpretability Field
 - [mechanistic-interpretability.md](/processed/mechanistic-interpretability.md) — *concept* — Mechanistic Interpretability
 - [memory-is-retained-consequence.md](/processed/memory-is-retained-consequence.md) — *bookmark* — Memory Is Retained Consequence
+- [metacognition-debug-human-ai-system-stablechen.md](/processed/metacognition-debug-human-ai-system-stablechen.md) — *bookmark* — Will Chen frames metacognition as debugging the human half of human–AI systems via four operational checks (level, temperature, reality contact, budget).
 - [microsoft-mai-thinking1-rank-noninvariance.md](/processed/microsoft-mai-thinking1-rank-noninvariance.md) — *bookmark* — Microsoft's Most Important Result Isn't a Benchmark (MAI-Thinking-1)
 - [mid-career-dissatisfaction.md](/processed/mid-career-dissatisfaction.md) — *bookmark* — On mid-career (dis)satisfaction
 - [mlx-engine-v185-kv-cache-agentic.md](/processed/mlx-engine-v185-kv-cache-agentic.md) — *bookmark* — MLX Engine v1.8.5 (LM Studio) adds disk-backed KV cache checkpointing for agentic workflows and continuous batching for VLMs. Solves the cache-rewind problem for models like Qwen 3.5 and Gemma 4. 256-token block bound...
