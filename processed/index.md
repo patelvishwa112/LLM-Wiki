@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 428 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 429 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -186,6 +186,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [graph-engineering-vs-rag-graphrag-sprytixl.md](/processed/graph-engineering-vs-rag-graphrag-sprytixl.md) — *bookmark* — Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Sta...
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents
+- [gtm-versioned-code-outbound-karpathy-loop-nifinet.md](/processed/gtm-versioned-code-outbound-karpathy-loop-nifinet.md) — *bookmark* — Nicolas Finet applies Karpathy cheap-metric agent loops to outbound: versioned scoring/plays, outcome memory, eval gate, human-merge PRs.
 - [guide-to-goal-codex.md](/processed/guide-to-goal-codex.md) — *bookmark* — A guide to /goal 🥅
 - [harbor-by-terminal-bench-multi-language-agent-evaluation-fr.md](/processed/harbor-by-terminal-bench-multi-language-agent-evaluation-fr.md) — *bookmark* — Harbor by Terminal Bench: Multi-Language Agent Evaluation Framework
 - [harbor-langchain-unified-agent-eval-stack.md](/processed/harbor-langchain-unified-agent-eval-stack.md) — *bookmark* — LangChain announces Harbor integrations for Deep Agents/LangGraph, LangSmith Sandboxes, and LangSmith Experiments—an isolated, parallel agent eval stack with script-based verifiers and trace-backed debugging.

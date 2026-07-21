@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 984 unique tags across 428 processed notes.
+> 985 unique tags across 429 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (92)
+### agent-harness (93)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -62,6 +62,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
@@ -198,7 +199,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (193)
+### agents (194)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -280,6 +281,7 @@
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -722,7 +724,7 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (18)
+### codex (19)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -731,6 +733,7 @@
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[fable-manager-sol-worker-nateherk]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
 - [[how-to-actually-design-with-ai-lexnlin]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
@@ -926,7 +929,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (31)
+### evals (32)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -944,6 +947,7 @@
 - [[evals-strategic-ip-garrettlord]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
@@ -1083,10 +1087,11 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### human-in-the-loop (6)
+### human-in-the-loop (7)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
@@ -1255,7 +1260,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (20)
+### loop-engineering (21)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1263,6 +1268,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -1620,7 +1626,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (51)
+### productivity (52)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1643,6 +1649,7 @@
 - [[claude-personal-assistant-zero-dollars]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
 - [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
@@ -1912,10 +1919,11 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### self-improvement (5)
+### self-improvement (6)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sia-recursive-self-improving-agent]]
@@ -2802,6 +2810,11 @@
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 
+### gtm (2)
+
+- [[anthropic-gtm-claude-code-workflows]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
+
 ### guardrails (2)
 
 - [[ai-agent-loop-architecture-buinevici]]
@@ -2852,6 +2865,11 @@
 
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
+
+### karpathy (2)
+
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
+- [[living-wiki-second-brain-hermes-leopardracer]]
 
 ### kelly-criterion (3)
 
@@ -3288,6 +3306,11 @@
 - [[goodfire-parameter-decomposition-interpretability]]
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
+
+### sales (2)
+
+- [[anthropic-gtm-claude-code-workflows]]
+- [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 
 ### sandbox (4)
 
@@ -3785,7 +3808,6 @@
 - **gsd** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **gspo** — [[rl-algo-comprehensive-qa]]
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
-- **gtm** — [[anthropic-gtm-claude-code-workflows]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hallucination** — [[why-on-policy-distillation-works]]
 - **harbor** — [[harbor-langchain-unified-agent-eval-stack]]
@@ -3834,7 +3856,6 @@
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
-- **karpathy** — [[living-wiki-second-brain-hermes-leopardracer]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kernel-engineering** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
@@ -3944,6 +3965,7 @@
 - **osint** — [[osiris-open-source-palantir-tool]]
 - **osmosis** — [[multi-lora-training-osmosis]]
 - **ouro** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
+- **outbound** — [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - **outcomes** — [[sierra-pinecone-singular-company-agent]]
 - **overview** — [[anthropic-publications]]
 - **paper** — [[dive-into-claude-code-vila-lab]]
@@ -4047,7 +4069,6 @@
 - **sae-steering** — [[Llama SAE Interpretability Project]]
 - **saga** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **sakana-ai** — [[sakana-fugu-orchestrator-models]]
-- **sales** — [[anthropic-gtm-claude-code-workflows]]
 - **saliency** — [[priests-of-agi-interpretability-crisis]]
 - **sarif** — [[nvidia-skillspector-security-scanner]]
 - **scalable-oversight** — [[scalable-oversight]]
