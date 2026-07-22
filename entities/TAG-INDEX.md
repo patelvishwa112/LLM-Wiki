@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 987 unique tags across 430 processed notes.
+> 988 unique tags across 431 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -840,7 +840,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
 
-### creator-economy (10)
+### creator-economy (11)
 
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
 - [[career-platform-email-list-ryan-holiday]]
@@ -852,6 +852,7 @@
 - [[loopholing-schedule-seams-creatorpascal]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[productize-problems-you-already-solved-eptwts]]
 
 ### cronjob (6)
 
@@ -1577,7 +1578,7 @@
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[sub-agents-inference-time-scaling]]
 
-### pm (10)
+### pm (11)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[ideacide-eleven-filters-drurly]]
@@ -1587,6 +1588,7 @@
 - [[opportunity-ai-pm-os-workflow]]
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
+- [[productize-problems-you-already-solved-eptwts]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
@@ -1631,7 +1633,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (53)
+### productivity (54)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1680,6 +1682,7 @@
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[pm-as-context-compressor]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[productize-problems-you-already-solved-eptwts]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -2041,11 +2044,12 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[sparse-autoencoders]]
 
-### startups (7)
+### startups (8)
 
 - [[agent-native-career-advice-philhchen]]
 - [[coderabbit-claude-agent-orchestration]]
 - [[ideacide-eleven-filters-drurly]]
+- [[productize-problems-you-already-solved-eptwts]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 - [[who-will-set-price-intelligence]]
@@ -2416,9 +2420,10 @@
 - [[autobrowse-browser-agent-memory]]
 - [[browser-internals-chromium-architecture]]
 
-### business (2)
+### business (3)
 
 - [[ideacide-eleven-filters-drurly]]
+- [[productize-problems-you-already-solved-eptwts]]
 - [[ubuntu-shuttleworth-story]]
 
 ### business-models (2)
@@ -2859,6 +2864,11 @@
 - [[claude-code-self-correcting-setup]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 
+### ideation (2)
+
+- [[ideacide-eleven-filters-drurly]]
+- [[productize-problems-you-already-solved-eptwts]]
+
 ### jepa (2)
 
 - [[joint-embedding-predictive-architecture-jepa]]
@@ -3163,10 +3173,11 @@
 - [[software-factory-linear-claude-cloud-routines]]
 - [[ten-commandments-building-product-feitong-yang]]
 
-### product-discovery (3)
+### product-discovery (4)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[opportunity-ai-pm-os-workflow]]
+- [[productize-problems-you-already-solved-eptwts]]
 - [[testing-business-ideas-product-operating-system]]
 
 ### product-management (3)
@@ -3396,6 +3407,11 @@
 
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
+
+### solopreneur (2)
+
+- [[loopholing-schedule-seams-creatorpascal]]
+- [[productize-problems-you-already-solved-eptwts]]
 
 ### speculative-decoding (2)
 
@@ -3834,7 +3850,6 @@
 - **hyperparameters** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **i-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
-- **ideation** — [[ideacide-eleven-filters-drurly]]
 - **identity-layer** — [[second-self-vs-second-brain-obsidian]]
 - **iii** — [[iii-agent-harness-workers]]
 - **imagination** — [[world-models-agent-imagination]]
@@ -4010,6 +4025,7 @@
 - **polymarket** — [[markov-chains-polymarket-trading]]
 - **portable-adaptation** — [[portal-portable-task-adapters-llms]]
 - **position-vs-effort** — [[effort-position-leverage-principles]]
+- **positioning** — [[productize-problems-you-already-solved-eptwts]]
 - **post-agent-companies** — [[post-agent-companies]]
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
@@ -4119,7 +4135,6 @@
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
-- **solopreneur** — [[loopholing-schedule-seams-creatorpascal]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]

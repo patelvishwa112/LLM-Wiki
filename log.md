@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-22
+
+- Ingest: Productize problems you already solved (eptwts 2079571791341633643)
+
 ## 2026-07-21
 
 - Ingest: Metacognition as systems debugging human-AI (stablechen 2079624266707054825)

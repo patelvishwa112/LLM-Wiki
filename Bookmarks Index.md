@@ -229,6 +229,7 @@
 - [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, delegation, dynamic-workflows]`
 - [[testing-business-ideas-product-operating-system]] — [Testing Business Ideas as a product operating system](https://x.com/nurijanian/status/2070110096294642034) `[pm, product-discovery, experimentation, assumption-mapping, testing-business-ideas, stakeholders, discovery]`
 - [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
+- [[productize-problems-you-already-solved-eptwts]] — [Productize problems you already solved (EP problem-mining)](https://x.com/eptwts/status/2079571791341633643) `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur]`
 - [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[opportunity-ai-pm-os-workflow]] — [/opportunity: an AI PM OS workflow to turn chaos into order](https://x.com/nurijanian/status/2067201971896176856) `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
@@ -422,6 +423,7 @@
 - [[loopholing-schedule-seams-creatorpascal]] — [Loopholing — reclaim calendar seams](https://x.com/creatorpascal/status/2075357304690516005) `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
 - [[ten-commandments-building-product-feitong-yang]] — [The Ten Commandments for Building Product](https://x.com/feitong_yang/status/2068822981946794438) `[product, product-market-fit, startups, agents, pm, vibe-coding, distribution, retention, focus]`
 - [[ideacide-eleven-filters-drurly]] — [Ideacide — 11 filters before committing to a business idea](https://x.com/drurly/status/2073808336231813273) `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`
+- [[productize-problems-you-already-solved-eptwts]] — [Productize problems you already solved (EP problem-mining)](https://x.com/eptwts/status/2079571791341633643) `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[agent-native-career-advice-philhchen]] — [Career skills in the agent-native era](https://x.com/philhchen/status/2072793818945167475) `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
@@ -746,6 +748,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]] `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`
 - [[problem-first-skill-invert-bad-ideas]] `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
+- [[productize-problems-you-already-solved-eptwts]] `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur, positioning]`
 - [[ramplabs]] `[ai-ml]`
 - [[rawworks]] `[evals, papers]`
 - [[research-agent-evidence-operator]] `[research-agent, agents, evidence, vault, compounding]`

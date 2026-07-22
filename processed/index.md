@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 430 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 431 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -340,6 +340,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [principled-thinking-and-ai-ray-dalio.md](/processed/principled-thinking-and-ai-ray-dalio.md) — *bookmark* — Ray Dalio argues that principled thinking and AI must be combined for effective decision-making. The approach involves deeply examining cause-effect relationships, writing explicit criteria/principles, backtesting the...
 - [problem-first-skill-invert-bad-ideas.md](/processed/problem-first-skill-invert-bad-ideas.md) — *bookmark* — A Claude/Cowork skill that decompresses proposed solutions back into underlying problems. Treats solutions as "compressed confessions" of sensed-but-unarticulated problems. 8-section output includes assumption challen...
 - [production-rag-agents-technmak.md](/processed/production-rag-agents-technmak.md) — *bookmark* — "@techNmak's Part 2 post on production AI systems. Focuses on where real systems fail: retrieval (RAG pipeline stages from ingestion to evaluation) and agent design (tool design, observation, verification, memory, ter...
+- [productize-problems-you-already-solved-eptwts.md](/processed/productize-problems-you-already-solved-eptwts.md) — *bookmark* — EP (@eptwts) four-step problem-mining: productize problems you already solved, filter money/time/status, split surface vs root, pain + one-sentence transformation checks.
 - [pytorch-profiler-beginners-guide.md](/processed/pytorch-profiler-beginners-guide.md) — *article* — Profiling in PyTorch: A Beginner's Guide to torch.profiler
 - [quarq-agent-memory-architecture.md](/processed/quarq-agent-memory-architecture.md) — *bookmark* — Quarq open-source memory-first agent architecture with four-layer continual learning design.
 - [ray-dalio-x-post.md](/processed/ray-dalio-x-post.md) — *bookmark* — Ray Dalio post on X
