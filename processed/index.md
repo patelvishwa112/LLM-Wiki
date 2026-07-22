@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 431 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 432 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -183,6 +183,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [goodfire-parameter-decomposition-interpretability.md](/processed/goodfire-parameter-decomposition-interpretability.md) — *note* — Goodfire: Parameter Decomposition for Model Interpretability
 - [google-gemma-4-12b-local-fine-tuning.md](/processed/google-gemma-4-12b-local-fine-tuning.md) — *bookmark* — Google released Gemma 4 12B, a multimodal model (text, images, audio) that runs on 8GB VRAM. Plan to fine-tune locally with Unsloth and Hugging Face transformers for chess move prediction.
 - [graph-engineering-14-step-roadmap-0xcodez.md](/processed/graph-engineering-14-step-roadmap-0xcodez.md) — *bookmark* — 0xCodez 14-step graph engineering roadmap: turn linear multi-step agents into Claude Code dynamic-workflow graphs with nodes/edges, diamond topology, verifiers, model tiering, and self-routing fleets.
+- [graph-engineering-dynamic-workflows-fleet-0xcodila.md](/processed/graph-engineering-dynamic-workflows-fleet-0xcodila.md) — *bookmark* — 0xCodila graph engineering guide: real edges vs fake waits, Claude Code dynamic workflows fleets, fresh-context verifiers, isolation, Bun-scale costs, when not to graph.
 - [graph-engineering-vs-rag-graphrag-sprytixl.md](/processed/graph-engineering-vs-rag-graphrag-sprytixl.md) — *bookmark* — Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Sta...
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 988 unique tags across 431 processed notes.
+> 988 unique tags across 432 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (94)
+### agent-harness (95)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -62,6 +62,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
@@ -200,7 +201,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (195)
+### agents (196)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -281,6 +282,7 @@
 - [[goal-loss-functions-distill-product]]
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
@@ -611,7 +613,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (89)
+### claude-code (90)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -662,6 +664,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -822,7 +825,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (15)
+### cost-optimization (16)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -833,6 +836,7 @@
 - [[fable-manager-sol-worker-nateherk]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -893,12 +897,13 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-on-policy-distillation-works]]
 
-### dynamic-workflows (6)
+### dynamic-workflows (7)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 
@@ -1034,7 +1039,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (22)
+### harness-engineering (23)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1044,6 +1049,7 @@
 - [[fable-manager-sol-worker-nateherk]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -1266,7 +1272,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (21)
+### loop-engineering (22)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1274,6 +1280,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -1421,7 +1428,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (38)
+### multi-agent (39)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1437,6 +1444,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1537,7 +1545,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (30)
+### orchestration (31)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1555,6 +1563,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[guide-to-goal-codex]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1577,6 +1586,14 @@
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[sub-agents-inference-time-scaling]]
+
+### parallelism (5)
+
+- [[claude-code-dynamic-workflows-intro]]
+- [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[how-gpu-executes-code-first-principles]]
+- [[how-to-build-ai-agent-swarms]]
 
 ### pm (11)
 
@@ -2202,7 +2219,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (23)
+### verification (24)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2214,6 +2231,7 @@
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -3065,13 +3083,6 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 
-### parallelism (4)
-
-- [[claude-code-dynamic-workflows-intro]]
-- [[graph-engineering-14-step-roadmap-0xcodez]]
-- [[how-gpu-executes-code-first-principles]]
-- [[how-to-build-ai-agent-swarms]]
-
 ### parameter-decomposition (2)
 
 - [[goodfire-parameter-decomposition-interpretability]]
@@ -3583,9 +3594,10 @@
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[level-above-phd-knowledge-works-without-you]]
 
-### worktrees (3)
+### worktrees (4)
 
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 

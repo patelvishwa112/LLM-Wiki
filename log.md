@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-22
 
+- Ingest: Graph engineering dynamic workflows fleets (0xcodila 2079597821511020996)
+
+## 2026-07-22
+
 - Ingest: Productize problems you already solved (eptwts 2079571791341633643)
 
 ## 2026-07-21
