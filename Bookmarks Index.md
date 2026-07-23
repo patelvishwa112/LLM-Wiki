@@ -58,6 +58,7 @@
 - [[build-claude-code-harness-crewai-akshay]] — [Claude Code harness rebuild — loop/planning/subagents/E2B (CrewAI)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agents, agent-harness, claude-code, crewai, multi-agent, sandbox, coding-tools]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Glean coding harness — 100% programmatic tool calling (24% tokens)](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, search]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — one company-wide agent (Neil Rahilly)](https://x.com/neilrahilly/status/2075290325757608148) `[agents, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, artifacts, outcomes]`
+- [[buzz-open-source-workspace-block-jack]] — [why we're buzzing — Block open workspace for people + agents](https://x.com/jack/status/2080056638820450400) `[agents, agent-harness, enterprise, open-source, nostr, block, goose, claude-code, codex, multi-agent, agent-ops, cryptographic-identity]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] — [Enterprise finance background agents — 85% code, Varick](https://x.com/vasuman/status/2077156239059107867) `[agents, enterprise, finance, agent-ops, evals, background-agents, cost-optimization]`
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
@@ -300,6 +301,7 @@
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, harness-engineering, context-management, verification, human-ai, attention]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
+- [[buzz-open-source-workspace-block-jack]] — [Buzz — Nostr/crypto identity workspace, people + agents equal (Jack/Block)](https://x.com/jack/status/2080056638820450400) `[agents, agent-harness, harness-engineering, enterprise, open-source, nostr, block, goose, context-management, agent-ops]`
 
 ### Evals
 
@@ -550,6 +552,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] `[skills, claude, claude-code, prompt-engineering, progressive-disclosure, agent-harness, hermes, mcp]`
 - [[build-claude-code-harness-crewai-akshay]] `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents, agents, coding-tools]`
 - [[build-your-own-llm-workshop-justin-angel]] `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
+- [[buzz-open-source-workspace-block-jack]] `[agents, agent-harness, enterprise, open-source, nostr, block, goose, claude-code, codex, multi-agent, agent-ops, cryptographic-identity, context-management, decentralization]`
 - [[avi-chawla-avichawla-how-top-ai-labs-are-building]] `[agents, coding-tools]`
 - [[avichawla]] `[models]`
 - [[avichawla]] `[ai-ml]`

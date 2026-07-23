@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 988 unique tags across 432 processed notes.
+> 993 unique tags across 433 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (95)
+### agent-harness (96)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -48,6 +48,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[claude-md-12-rules-mikenevermiss]]
@@ -157,7 +158,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (31)
+### agent-ops (32)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -168,6 +169,7 @@
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-managed-agents]]
 - [[claude-md-12-rules-mikenevermiss]]
@@ -201,7 +203,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (196)
+### agents (197)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -245,6 +247,7 @@
 - [[building-agents-from-first-principles]]
 - [[building-good-vertical-agent]]
 - [[building-your-first-ai-agent-clear-path]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-dynamic-workflows-intro]]
@@ -613,7 +616,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (90)
+### claude-code (91)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -636,6 +639,7 @@
 - [[anthropic-self-service-analytics-claude]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-dynamic-workflows-intro]]
@@ -730,11 +734,12 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (19)
+### codex (20)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-memory-landscape-2026]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[coding-agent-harness-eight-pillars]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[every-agentic-engineering-hack-june-2026]]
@@ -799,9 +804,10 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (11)
+### context-management (12)
 
 - [[agent-harness-engineering-agentforge]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
@@ -915,12 +921,13 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (21)
+### enterprise (22)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-self-service-analytics-claude]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
 - [[claude-compliance-security-partners]]
 - [[claude-cowork-best-practices]]
@@ -1428,7 +1435,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (39)
+### multi-agent (40)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1437,6 +1444,7 @@
 - [[agents-behave-like-employees-six-shifts]]
 - [[autoscientists-decentralized-ai-research-agents]]
 - [[build-claude-code-harness-crewai-akshay]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[claude-code-dynamic-workflows-intro]]
 - [[claude-subagents-vs-agent-teams]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -1513,10 +1521,11 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (10)
+### open-source (11)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[buzz-open-source-workspace-block-jack]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[open-knowledge-format-okf-google]]
@@ -3680,6 +3689,7 @@
 - **backups** — [[how-to-automate-disaster-recovery-with-agents]]
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
+- **block** — [[buzz-open-source-workspace-block-jack]]
 - **briefing** — [[fable-5-system-prompt]]
 - **browsecomp** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **browser-internals** — [[browser-internals-chromium-architecture]]
@@ -3738,6 +3748,7 @@
 - **criteria-drift** — [[do-automated-evals-work-parlance-labs]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **cross-harness** — [[dark-arts-of-skill-engineering-pbakaus]]
+- **cryptographic-identity** — [[buzz-open-source-workspace-block-jack]]
 - **cublas** — [[pytorch-profiler-beginners-guide]]
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
@@ -3751,6 +3762,7 @@
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **database** — [[daleverett-polygress-agent-era]]
 - **debian** — [[ubuntu-shuttleworth-story]]
+- **decentralization** — [[buzz-open-source-workspace-block-jack]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
 - **deel** — [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
@@ -3832,6 +3844,7 @@
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
 - **google-cloud** — [[open-knowledge-format-okf-google]]
+- **goose** — [[buzz-open-source-workspace-block-jack]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
@@ -3978,6 +3991,7 @@
 - **nimbalyst** — [[coding-agent-harness-eight-pillars]]
 - **nla** — [[anthropic-natural-language-autoencoders]]
 - **nlp** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
+- **nostr** — [[buzz-open-source-workspace-block-jack]]
 - **notebooklm** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **notes** — [[sutton-barto-rl-notes]]
 - **nous-portal** — [[the-best-models-for-hermes-agent]]

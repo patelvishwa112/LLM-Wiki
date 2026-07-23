@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-23
+
+- Ingest: Buzz open-source workspace people+agents (jack 2080056638820450400)
+
 ## 2026-07-22
 
 - Ingest: Graph engineering dynamic workflows fleets (0xcodila 2079597821511020996)

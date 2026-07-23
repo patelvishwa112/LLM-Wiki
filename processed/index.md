@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 432 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 433 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -92,6 +92,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [building-agents-from-first-principles.md](/processed/building-agents-from-first-principles.md) — *bookmark* — Building Agents From First Principles — Environment, Teacher, RL
 - [building-good-vertical-agent.md](/processed/building-good-vertical-agent.md) — *bookmark* — Building a Good Vertical Agent by Peter Wang
 - [building-your-first-ai-agent-clear-path.md](/processed/building-your-first-ai-agent-clear-path.md) — *bookmark* — Building your first AI Agent; A clear path!
+- [buzz-open-source-workspace-block-jack.md](/processed/buzz-open-source-workspace-block-jack.md) — *bookmark* — Jack Dorsey/Block open-sources Buzz — self-hosted Nostr workspace where people and agents share cryptographic identity, one event log, and harnesses for Goose/Codex/Claude Code.
 - [career-guide-early-twenties-optimize-for-learning.md](/processed/career-guide-early-twenties-optimize-for-learning.md) — *bookmark* — A career guide for people in their early twenties
 - [career-platform-email-list-ryan-holiday.md](/processed/career-platform-email-list-ryan-holiday.md) — *bookmark* — Ryan Holiday argues that a durable career platform—especially an owned email list—is more valuable than office or follower counts, using Churchill's wilderness years and his own list growth as proof.
 - [cerebras-knowledge-base-hybrid-search-mcp.md](/processed/cerebras-knowledge-base-hybrid-search-mcp.md) — *bookmark* — Cerebras Knowledge: meet-data-where-it-lives enterprise KB (15k queries/day) — unified Postgres embeddings, hybrid Slack search, CocoIndex code, planner/RRF/rerank, MCP primitives vs full UI pipeline.
