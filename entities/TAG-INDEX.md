@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 993 unique tags across 433 processed notes.
+> 995 unique tags across 434 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (96)
+### agent-harness (97)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -64,6 +64,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
@@ -203,7 +204,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (197)
+### agents (198)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -286,6 +287,7 @@
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
@@ -992,12 +994,13 @@
 - [[how-to-actually-use-claude-fable-5]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 
-### finance (8)
+### finance (9)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
 - [[claude-code-investment-research-setup]]
 - [[dqn-adaptive-trade-execution-ritonchain]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[how-to-read-company-ai-analyst]]
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
@@ -1046,7 +1049,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (23)
+### harness-engineering (24)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1057,6 +1060,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -1279,7 +1283,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (22)
+### loop-engineering (23)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1288,6 +1292,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -1435,7 +1440,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (40)
+### multi-agent (41)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1453,6 +1458,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1554,7 +1560,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (31)
+### orchestration (32)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1573,6 +1579,7 @@
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[guide-to-goal-codex]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1772,9 +1779,10 @@
 - [[vscode-copilot-token-efficiency]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
-### quant (5)
+### quant (6)
 
 - [[dqn-adaptive-trade-execution-ritonchain]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[jim-simons-medallion-quant-framework]]
 - [[jp-morgan-quant-python-training]]
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
@@ -2139,10 +2147,11 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
-### trading (6)
+### trading (7)
 
 - [[4-agent-trading-desk]]
 - [[dqn-adaptive-trade-execution-ritonchain]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[jim-simons-medallion-quant-framework]]
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
@@ -2228,7 +2237,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (24)
+### verification (25)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2241,6 +2250,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -2739,6 +2749,11 @@
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[not-ambitious-enough-with-claude]]
 
+### factor-model (2)
+
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[jim-simons-medallion-quant-framework]]
+
 ### faiss (2)
 
 - [[how-vector-database-works]]
@@ -3176,6 +3191,11 @@
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[multi-perspective-prd-review-claude-code]]
+
+### prediction-markets (2)
+
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[markov-chains-polymarket-trading]]
 
 ### probing (2)
 
@@ -3806,7 +3826,6 @@
 - **experimentation** — [[testing-business-ideas-product-operating-system]]
 - **extended-thinking** — [[extended-thinking]]
 - **extensions** — [[spec-kit-github-sdd]]
-- **factor-model** — [[jim-simons-medallion-quant-framework]]
 - **fast-slow-training** — [[fast-slow-training-continual-llm-adaptation]]
 - **fastapi** — [[making-ai-agent-production-ready-sarthakrastogi]]
 - **fault-tolerance** — [[fault-tolerance-langgraph-retries-timeouts]]
@@ -3849,6 +3868,7 @@
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
 - **gqa** — [[kv-caching-llms-clearly-explained-avichawla]]
+- **graph-engineering** — [[graph-engineering-multi-factor-alpha-rohonchain]]
 - **graph-memory** — [[graph-memory-reconstruction-llms]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
 - **graphrag** — [[graph-engineering-vs-rag-graphrag-sprytixl]]
@@ -4057,7 +4077,6 @@
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prd-review** — [[make-requirements-great]]
 - **pre-training** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
-- **prediction-markets** — [[markov-chains-polymarket-trading]]
 - **preferences** — [[hundred-x-agentic-engineer-preferences-systematicls]]
 - **prefill** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **presets** — [[spec-kit-github-sdd]]
@@ -4156,6 +4175,7 @@
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **skill-pack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **skillspector** — [[nvidia-skillspector-security-scanner]]
+- **slate** — [[graph-engineering-multi-factor-alpha-rohonchain]]
 - **social-media** — [[ai-content-system-framework]]
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]

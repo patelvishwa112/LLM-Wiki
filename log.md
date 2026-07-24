@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-24
+
+- Ingest: Graph engineering multi-factor alpha (rohonchain 2080296261576687751)
+
 ## 2026-07-23
 
 - Ingest: Buzz open-source workspace people+agents (jack 2080056638820450400)
