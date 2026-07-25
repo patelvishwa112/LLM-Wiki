@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 995 unique tags across 434 processed notes.
+> 997 unique tags across 435 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -892,8 +892,9 @@
 - [[rl-algo-comprehensive-qa]]
 - [[the-best-models-for-hermes-agent]]
 
-### distillation (10)
+### distillation (11)
 
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[distillation-post-training-frontier-2026]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
@@ -1418,9 +1419,10 @@
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (19)
+### models (20)
 
 - [[adapad-lora-parallel-deflation]]
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[big-book-of-llms]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[dear-lord-no-wonder-evals-are-a-mess]]
@@ -1625,9 +1627,10 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (10)
+### post-training (11)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
 - [[glm-5-2-with-vision-projector-part-harry]]
@@ -1872,9 +1875,10 @@
 - [[weight-synchronization-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### rlhf (11)
+### rlhf (12)
 
 - [[ai-alignment]]
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[constitutional-ai]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[learnings-training-llm-from-scratch]]
@@ -1983,8 +1987,9 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (9)
+### sft (10)
 
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
 - [[glm-5-2-with-vision-projector-part-harry]]
@@ -2157,7 +2162,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (56)
+### training (57)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2166,6 +2171,7 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-research-job-search-alisa-wuffles]]
 - [[autodata-synthetic-data-generation-explained]]
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[building-agents-from-first-principles]]
 - [[claude-code-slm-training-bootstrap]]
@@ -2383,6 +2389,11 @@
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
+
+### ai-policy (2)
+
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
+- [[framework-frontier-ai-standards-demis-hassabis]]
 
 ### ai-safety (2)
 
@@ -3276,8 +3287,9 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 
-### reasoning (2)
+### reasoning (3)
 
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[hrm-text-1b-reasoning-model]]
 
@@ -3674,7 +3686,6 @@
 - **ai-content** — [[ai-content-system-framework]]
 - **ai-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **ai-native** — [[ai-native-engineering-org]]
-- **ai-policy** — [[framework-frontier-ai-standards-demis-hassabis]]
 - **ai-scaffolding** — [[token-capital-scaffolding-process-governance]]
 - **ai-skills** — [[5-ai-skills-six-figures-2027]]
 - **ai-workflows** — [[leopardracer-ai-workflows-prompts]]
@@ -3686,6 +3697,7 @@
 - **ambient-agents** — [[ambient-pm-agents-evidence-first-prd]]
 - **analytics-agent** — [[github-qubot-data-analytics-agent]]
 - **ann** — [[how-vector-database-works]]
+- **api-distillation** — [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - **apple-silicon** — [[mlx-engine-v185-kv-cache-agentic]]
 - **applied-ai** — [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - **approval-gate** — [[iii-agent-harness-workers]]
@@ -3709,6 +3721,7 @@
 - **backups** — [[how-to-automate-disaster-recovery-with-agents]]
 - **bandit** — [[curiosity-bayesian-bandit]]
 - **bayesian** — [[curiosity-bayesian-bandit]]
+- **behavior-cloning** — [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - **block** — [[buzz-open-source-workspace-block-jack]]
 - **briefing** — [[fable-5-system-prompt]]
 - **browsecomp** — [[trace-turn-level-reward-credit-assignment-agents]]

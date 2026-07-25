@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-25
+
+- Ingest: Behavior parroting cross-lab distillation (completeskeptic 2080494182775521745)
+
 ## 2026-07-24
 
 - Ingest: Graph engineering multi-factor alpha (rohonchain 2080296261576687751)

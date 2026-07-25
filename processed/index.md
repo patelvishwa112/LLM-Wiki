@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 434 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 435 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -81,6 +81,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [automate-writing-llm-prompts-dspy.md](/processed/automate-writing-llm-prompts-dspy.md) — *article* — Automate Writing Your LLM Prompts with DSPy
 - [autoscientists-decentralized-ai-research-agents.md](/processed/autoscientists-decentralized-ai-research-agents.md) — *article* — AutoScientists — Decentralized AI Research Agents
 - [beginners-guide-physical-ai-stack-muskan-kalra.md](/processed/beginners-guide-physical-ai-stack-muskan-kalra.md) — *bookmark* — Muskan Kalra beginner map of Physical AI: five layers (brain/VLA, humanoid body OEMs, parts/actuators, training data, deployments) with 2026 funding context — humanoids as stress test, not the whole market.
+- [behavior-parroting-cross-lab-distillation-completeskeptic.md](/processed/behavior-parroting-cross-lab-distillation-completeskeptic.md) — *bookmark* — Ex-OpenAI RLHF co-author clarifies three distillation tiers and argues API-only behavior parroting can still transfer capability via style.
 - [beyond-ghost-sae-experiment-proposals.md](/processed/beyond-ghost-sae-experiment-proposals.md) — *proposal* — Beyond the Ghost: SAE Experiments for Understanding and Steering Model Behavior
 - [bezos-writing-framework-six-page-memos-dickiebush.md](/processed/bezos-writing-framework-six-page-memos-dickiebush.md) — *bookmark* — Bezos banned slides for 6-page narrative memos plus six writing rules that force clear thinking
 - [big-book-of-llms.md](/processed/big-book-of-llms.md) — *note* — The Big Book of Large Language Models

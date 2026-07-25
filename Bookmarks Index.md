@@ -483,6 +483,7 @@
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]] — [Behavior parroting — can Chinese labs distill US models via APIs?](https://x.com/completeskeptic/status/2080494182775521745) `[distillation, training, post-training, rlhf, sft, reasoning, ai-policy, api-distillation, behavior-cloning, models]`
 - [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — densify outcome RL with turn-level credit (BrowseComp-Plus)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, post-training, tool-use, qwen, microsoft-research]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
@@ -560,6 +561,7 @@
 - [[avichawla]] `[models]`
 - [[avichawla]] `[ai-ml]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] `[robotics, physical-ai, vla, humanoids, investing, hardware, simulation, nvidia, foundation-models, ai-strategy]`
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]] `[distillation, training, post-training, rlhf, sft, reasoning, ai-policy, api-distillation, behavior-cloning, models]`
 - [[bezos-writing-framework-six-page-memos-dickiebush]] `[writing, productivity, content-strategy, creator-economy, communication, amazon, clear-thinking, memos]`
 - [[brain-dump-of-howwhy-we-use-evals-to-measure-agent]] `[evals, agents]`
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] `[agents, business-ideas]`
