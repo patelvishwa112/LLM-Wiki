@@ -79,6 +79,7 @@
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] — [Kimi K2.6 runs 300 parallel agents. Here's what comes out.](https://x.com/sprytixl/status/2062420467034513604) `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
 - [[claude-code-changed-what-agents-look-like]] — [Claude Code Just Changed What "Agents" Look Like](https://x.com/suryanshti777/status/2061393185126097356) `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
+- [[new-rules-context-engineering-claude-5-trq212]] — [New rules of context engineering for Claude 5 (80% system prompt cut)](https://x.com/trq212/status/2080710971228918066) `[context-engineering, claude-code, claude, fable, opus, skills, progressive-disclosure, agent-harness, anthropic, agents]`
 - [[generative-ui-is-the-new-frontend]] — [Generative UI Is the New Frontend](https://x.com/saboo_shubham_/status/2062220865643982875) `[agents, generative-ui, mcp, ag-ui]`
 - [[feedback-loops-claude-code-less-babysitting]] — [Feedback loops: Help Claude Code complete ambitious tasks with less babysitting](https://x.com/delba_oliveira/status/2062203743387459836) `[claude-code, agents, skills, verification]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] — [How to Build a Claude Skill (Never Paste the Same Prompt Twice)](https://x.com/0xlagosaur/status/2068693290581414390) `[skills, claude, claude-code, prompt-engineering, progressive-disclosure]`
@@ -250,6 +251,7 @@
 - [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
+- [[new-rules-context-engineering-claude-5-trq212]] — [New rules of context engineering for Claude 5 — /doctor + progressive disclosure](https://x.com/trq212/status/2080710971228918066) `[context-engineering, claude-code, skills, fable, progressive-disclosure, anthropic, coding-tools, agent-harness]`
 - [[anthropic-ant-cli-guide]] — [Anthropic's ant CLI — Full Guide](https://x.com/hey_madni/status/2063606029146034375) `[anthropic, ant-cli, claude-code, managed-agents, mcp, cli, agents, dev-tools]`
 - [[anthropic-gtm-claude-code-workflows]] — [How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, gtm, sales, skills, productivity, enterprise]`
 - [[claude-code-dynamic-workflows-intro]] — [Introducing dynamic workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, agent-ops]`
@@ -741,6 +743,7 @@
 - [[neuralavb]] `[papers, training]`
 - [[new-anthropic-research-natural-language-autoencode]] `[evals, papers]`
 - [[new-blackboard-lecture-w]] `[papers, models]`
+- [[new-rules-context-engineering-claude-5-trq212]] `[context-engineering, claude-code, claude, fable, opus, skills, prompt-engineering, progressive-disclosure, agent-harness, anthropic, agents, coding-tools]`
 - [[not-ambitious-enough-with-claude]] `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`

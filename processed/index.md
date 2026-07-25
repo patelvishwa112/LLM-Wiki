@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 435 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 436 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -313,6 +313,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [multi-gpu-inference-tp-pp-sp-ep-mainzonx.md](/processed/multi-gpu-inference-tp-pp-sp-ep-mainzonx.md) — *bookmark* — Adam Mainz multi-GPU inference Part 2: capacity cliff (weights + KV), TP/PP/SP/EP tradeoffs, topology hierarchy (HBM → NVLink → IB), and vLLM/TensorRT-LLM orchestration.
 - [multi-lora-training-osmosis.md](/processed/multi-lora-training-osmosis.md) — *bookmark* — Multi-LoRA Training at Scale
 - [multi-perspective-prd-review-claude-code.md](/processed/multi-perspective-prd-review-claude-code.md) — *bookmark* — Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng, design, exec, legal, UX, customer, devil's advocate) surface PRD objections before circulation — maps to dynamic workflows fan-out; packages as m...
+- [new-rules-context-engineering-claude-5-trq212.md](/processed/new-rules-context-engineering-claude-5-trq212.md) — *bookmark* — Anthropic removed 80%+ of Claude Code system prompt for Opus/Fable 5; shift from rigid rules to judgment, progressive disclosure, and rich references.
 - [not-ambitious-enough-with-claude.md](/processed/not-ambitious-enough-with-claude.md) — *bookmark* — Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders.
 - [notes-on-foundation-models.md](/processed/notes-on-foundation-models.md) — *bookmark* — Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs ...
 - [nvidia-skillspector-security-scanner.md](/processed/nvidia-skillspector-security-scanner.md) — *article* — NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills

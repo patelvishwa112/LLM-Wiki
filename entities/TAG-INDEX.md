@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 997 unique tags across 435 processed notes.
+> 997 unique tags across 436 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (97)
+### agent-harness (98)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -94,6 +94,7 @@
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[metacognition-debug-human-ai-system-stablechen]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[orchestrating-agents-adk-fhinkel]]
@@ -204,7 +205,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (198)
+### agents (199)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -351,6 +352,7 @@
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[modern-ai-robotics-first-principles]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[open-knowledge-format-okf-google]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
@@ -445,7 +447,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (33)
+### anthropic (34)
 
 - [[ai-native-engineering-org]]
 - [[anthropic-ant-cli-guide]]
@@ -476,6 +478,7 @@
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-dreaming-orchestration]]
 - [[managed-agents-sandbox-mcp]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[opus-cybersecurity-partners]]
 - [[priests-of-agi-interpretability-crisis]]
 - [[vscode-copilot-token-efficiency]]
@@ -577,7 +580,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (38)
+### claude (39)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -608,6 +611,7 @@
 - [[iceberg-opus-48-prompts]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[marclou-x-post-2065385672991752210]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[opus-48-token-economy-guide]]
@@ -618,7 +622,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (91)
+### claude-code (92)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -690,6 +694,7 @@
 - [[loop-engineering]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opus-48-token-economy-guide]]
@@ -759,7 +764,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (12)
+### coding-tools (13)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -771,6 +776,7 @@
 - [[harbor-rl-coding-environments]]
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[spec-kit-github-sdd]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
@@ -791,7 +797,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (12)
+### context-engineering (13)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
@@ -802,6 +808,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
@@ -1726,13 +1733,14 @@
 - [[units-of-time-alfred-lin]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### progressive-disclosure (6)
+### progressive-disclosure (7)
 
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[how-to-create-right-skill-ai-agent]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### projects (5)
@@ -1743,7 +1751,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (36)
+### prompt-engineering (37)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1772,6 +1780,7 @@
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[mcp-model-context-protocol]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[opus-48-token-economy-guide]]
 - [[production-rag-agents-technmak]]
 - [[rl-agents-system-prompt-reward-function]]
@@ -2000,7 +2009,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (61)
+### skills (62)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2046,6 +2055,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
 - [[nvidia-skillspector-security-scanner]]
 - [[opportunity-ai-pm-os-workflow]]
@@ -2755,9 +2765,10 @@
 - [[curiosity-bayesian-bandit]]
 - [[general-intelligence-rethinking-exploration-2022]]
 
-### fable (2)
+### fable (3)
 
 - [[claude-fable-map-territory-unknowns-trq212]]
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
 
 ### factor-model (2)
@@ -3108,8 +3119,9 @@
 - [[karpathy-autoresearch-marketing-optimization]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### opus (2)
+### opus (3)
 
+- [[new-rules-context-engineering-claude-5-trq212]]
 - [[opus-48-token-economy-guide]]
 - [[opus-cybersecurity-partners]]
 

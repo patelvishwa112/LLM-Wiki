@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-25
 
+- Ingest: New rules of context engineering Claude 5 (trq212 2080710971228918066)
+
+## 2026-07-25
+
 - Ingest: Behavior parroting cross-lab distillation (completeskeptic 2080494182775521745)
 
 ## 2026-07-24
