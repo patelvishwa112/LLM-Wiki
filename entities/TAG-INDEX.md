@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 998 unique tags across 437 processed notes.
+> 1001 unique tags across 438 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -206,7 +206,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (200)
+### agents (201)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -383,6 +383,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
 - [[ten-commandments-building-product-feitong-yang]]
@@ -487,7 +488,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (22)
+### architecture (23)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -509,6 +510,7 @@
 - [[rethinking-search-as-code-generation]]
 - [[rlm-recursive-llm-query-system]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[universal-agent-thesis]]
 
@@ -522,13 +524,14 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[sierra-pinecone-singular-company-agent]]
 
-### attention (6)
+### attention (7)
 
 - [[attention-qkv-math-amitiitbhu]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[metacognition-debug-human-ai-system-stablechen]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[what-is-kv-cache-llms]]
 
 ### automation (10)
@@ -895,12 +898,13 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-langgraph-101-repo]]
 
-### deepseek (5)
+### deepseek (6)
 
 - [[deepseek-v4-claude-code-setup]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[distillation-post-training-frontier-2026]]
 - [[rl-algo-comprehensive-qa]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[the-best-models-for-hermes-agent]]
 
 ### distillation (11)
@@ -1040,12 +1044,13 @@
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[what-is-kv-cache-llms]]
 
-### gpu (6)
+### gpu (7)
 
 - [[how-gpu-executes-code-first-principles]]
 - [[how-vllm-works-amitiitbhu]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 
@@ -1133,7 +1138,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (16)
+### inference (17)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1149,6 +1154,7 @@
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[what-is-kv-cache-llms]]
 
@@ -1206,7 +1212,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### kv-cache (12)
+### kv-cache (13)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
@@ -1217,6 +1223,7 @@
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[shepherd-reversible-execution-traces-avichawla]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-is-kv-cache-llms]]
@@ -1993,7 +2000,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sia-recursive-self-improving-agent]]
 
-### serving (9)
+### serving (10)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-vllm-works-amitiitbhu]]
@@ -2003,6 +2010,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
 ### sft (11)
@@ -2182,7 +2190,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (58)
+### training (59)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2231,6 +2239,7 @@
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
 - [[sia-recursive-self-improving-agent]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[torch-internals-part1-fx-graphs]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
@@ -2898,6 +2907,11 @@
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 
+### gqa (2)
+
+- [[kv-caching-llms-clearly-explained-avichawla]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
+
 ### gtm (2)
 
 - [[anthropic-gtm-claude-code-workflows]]
@@ -3022,6 +3036,11 @@
 
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
+
+### long-context (2)
+
+- [[how-to-use-rlms-in-deep-agents]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
 ### looped-transformers (2)
 
@@ -3903,7 +3922,6 @@
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
-- **gqa** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **graph-engineering** — [[graph-engineering-multi-factor-alpha-rohonchain]]
 - **graph-memory** — [[graph-memory-reconstruction-llms]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
@@ -3989,7 +4007,6 @@
 - **local-first** — [[waku-agent-github]]
 - **local-llm** — [[google-gemma-4-12b-local-fine-tuning]]
 - **logprobs** — [[continuous-batching-grpo-trl]]
-- **long-context** — [[how-to-use-rlms-in-deep-agents]]
 - **long-horizon** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **long-running** — [[how-to-actually-use-claude-fable-5]]
 - **longshot-bias** — [[markov-chains-polymarket-trading]]
@@ -4016,8 +4033,10 @@
 - **microsoft-research** — [[trace-turn-level-reward-credit-assignment-agents]]
 - **middleware** — [[how-to-build-custom-agent-harness-langchain]]
 - **migration** — [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
+- **minimax** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
+- **mla** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **mlops** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **moats** — [[the-untrainable]]
 - **modal** — [[secure-automated-learning-loops-modal-claude-code]]
@@ -4220,6 +4239,7 @@
 - **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
+- **sparse-attention** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **speech** — [[inkling-ear-7-9m-lookup-table-huckiyang]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 437 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 438 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -387,6 +387,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [skill-solo-millionaires-ai-era.md](/processed/skill-solo-millionaires-ai-era.md) — *bookmark* — X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation.
 - [software-factories-light-and-dark-addy-osmani.md](/processed/software-factories-light-and-dark-addy-osmani.md) — *bookmark* — Addy Osmani on loop→harness→factory, dark vs lit factories, comprehension debt, and back pressure as the real constraint.
 - [software-factory-linear-claude-cloud-routines.md](/processed/software-factory-linear-claude-cloud-routines.md) — *bookmark* — Pierson Marks' afternoon-build software factory — Linear as hub, Claude Code Cloud Routines for pre-triage loops (PostHog/Vercel/Stripe), webhook-triggered SDLC via auto label and /do skill.
+- [sparse-attention-long-context-dsa-msa-cyrusasg.md](/processed/sparse-attention-long-context-dsa-msa-cyrusasg.md) — *bookmark* — Cyrus maps 1M-context sparse attention: KV-cache bandwidth bill, compress vs restrict vs replace axes; NSA→DSA/MSA/Inkling/KDA; indexer KL training; silicon-first design.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning
 - [spec-kit-github-sdd.md](/processed/spec-kit-github-sdd.md) — *bookmark* — GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → ...
 - [speculative-decoding-history-roofline-shreybirmiwal.md](/processed/speculative-decoding-history-roofline-shreybirmiwal.md) — *bookmark* — Shrey Birmiwal walks speculative decoding from roofline arithmetic intensity through Leviathan draft-verify, rejection sampling, Medusa/Eagle/DFlash/DDTree, up to ~8x lossless decode speedups.

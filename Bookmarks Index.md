@@ -201,6 +201,7 @@
 - [[looped-nanochat-two-pass-routing-kyleliang]] — [What if a Transformer could think twice? (Looped Nanochat)](https://x.com/kyleliang5/status/2078543088419840292) `[architecture, transformers, training, inference, looped-transformers, attention, nanochat, test-time-compute]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]] — [Sparse attention design space — DSA/MSA/Inkling/KDA for 1M context](https://x.com/cyrusasg/status/2080697631286681998) `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling's ear — 7.9M dMel lookup table, no audio encoder](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 with vision — 50M projector on Kimi tower](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, projector, grokking, models]`
 - [[mlx-engine-v185-kv-cache-agentic]] — [Improving LM Studio's MLX Engine for Agentic Workflows](https://x.com/ostensiblyneil/status/2063006720616734835) `[mlx, apple-silicon, inference, kv-cache, agents, agentic-workflows, vlm, lm-studio, serving]`
@@ -393,6 +394,7 @@
 - [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP topology (Mainz)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, moe, kv-cache, vllm, distributed-systems]`
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]] — [Sparse attention long-context — NSA→DSA/MSA, KDA fork, silicon-first](https://x.com/cyrusasg/status/2080697631286681998) `[inference, kv-cache, sparse-attention, long-context, mla, deepseek, minimax, architecture, models]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling ear — 7.9M dMel table, encoderless audio](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, asr]`
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 vision retrofit — projector-only SFT+RL](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, models]`
 - [[understanding-video-models-rl-post-training]] — [Understanding Video Models: Part III - RL Post-Training](https://x.com/majumdar_ani/status/2078508177620926531) `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training, models]`
@@ -790,6 +792,7 @@
 - [[software-factories-light-and-dark-addy-osmani]] `[software-factory, harness-engineering, loop-engineering, agents, agent-harness, verification, human-in-the-loop, addy-osmani, architecture, comprehension-debt]`
 - [[software-factory-linear-claude-cloud-routines]] `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob, observability]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]] `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax, agents, gpu, architecture, training]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`
 - [[suppose-our-context-is-1m-chars-and-we-want-each-s]] `[evals, coding-tools]`

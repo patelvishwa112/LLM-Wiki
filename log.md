@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-25
 
+- Ingest: Sparse attention long-context DSA/MSA (cyrusasg 2080697631286681998)
+
+## 2026-07-25
+
 - Ingest: How AI models learn skills and behaviors (leerob 2080467752897146898)
 
 ## 2026-07-25
