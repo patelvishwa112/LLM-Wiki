@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 997 unique tags across 436 processed notes.
+> 998 unique tags across 437 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -136,7 +136,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (21)
+### agent-memory (22)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -150,6 +150,7 @@
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[harness-is-the-product-280k]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-give-your-agent-memory]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
@@ -205,7 +206,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (199)
+### agents (200)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -306,6 +307,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-kanban-mission-control]]
 - [[hiiinternet-x-post]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-agent-that-never-forgets]]
@@ -425,7 +427,7 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
-### alignment (19)
+### alignment (20)
 
 - [[agentic-misalignment]]
 - [[ai-alignment]]
@@ -436,6 +438,7 @@
 - [[constitutional-ai]]
 - [[deceptive-alignment]]
 - [[extended-thinking]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[persona-vectors-paper]]
 - [[persona-vectors]]
@@ -828,12 +831,13 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### continual-learning (9)
+### continual-learning (10)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fast-slow-training-continual-llm-adaptation]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[improving-agents-data-mining-traces]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[quarq-agent-memory-architecture]]
@@ -956,7 +960,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (32)
+### evals (33)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -978,6 +982,7 @@
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harbor-rl-coding-environments]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-give-your-agent-memory]]
@@ -1283,11 +1288,12 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### llm-judges (5)
+### llm-judges (6)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[do-automated-evals-work-parlance-labs]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
@@ -1634,13 +1640,14 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (11)
+### post-training (12)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
 - [[glm-5-2-with-vision-projector-part-harry]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[multi-lora-training-osmosis]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
@@ -1648,11 +1655,12 @@
 - [[understanding-video-models-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### pretraining (7)
+### pretraining (8)
 
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[design-good-ml-experiments-grigorev]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
@@ -1844,7 +1852,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (37)
+### rl (38)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -1860,6 +1868,7 @@
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[harbor-rl-coding-environments]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-ai-agent-swarms]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
@@ -1996,12 +2005,13 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (10)
+### sft (11)
 
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
 - [[glm-5-2-with-vision-projector-part-harry]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
@@ -2172,7 +2182,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (57)
+### training (58)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2192,6 +2202,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[harbor-rl-coding-environments]]
+- [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -4015,6 +4026,7 @@
 - **model-context-protocol** — [[mcp-model-context-protocol]]
 - **model-guide** — [[aiedge-glm-5.2-guide]]
 - **model-routing** — [[evals-strategic-ip-garrettlord]]
+- **model-spec** — [[how-ai-models-learn-skills-behaviors-leerob]]
 - **model-vs-harness** — [[2-ways-self-evolving-agents-model-harness]]
 - **model-welfare** — [[model-welfare]]
 - **modularization** — [[economy-of-tokens-vipulved-modular-ai]]

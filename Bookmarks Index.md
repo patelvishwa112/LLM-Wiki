@@ -107,6 +107,7 @@
 - [[continuous-trace-intelligence-braintrust-topics]] — [How we made continuous trace intelligence possible at scale](https://x.com/ankrgyl/status/2062635408182427859) `[observability, traces, llm-ops, braintrust]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents at Replit](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, production-traces, self-improvement]`
 - [[trying-to-actually-define-continual-learning-oneill]] — [Trying to actually define continual learning (amnesiac intern)](https://x.com/oneill_c/status/2077453217609453784) `[continual-learning, agent-memory, agents, agent-harness, training, rl, sft, plasticity, kv-cache]`
+- [[how-ai-models-learn-skills-behaviors-leerob]] — [How do AI models learn new skills and behaviors? (pretrain/SFT/RL primer)](https://x.com/leerob/status/2080467752897146898) `[training, pretraining, sft, rl, evals, alignment, model-spec, continual-learning, agents, agent-memory]`
 - [[hermes-kanban-mission-control]] — [Hermes Kanban: Mission control for your Agents](https://x.com/akshay_pachaar/status/2062526843564233040) `[hermes, kanban, agents, multi-agent, profiles]`
 - [[hermes-seven-skills-cobi-bean]] — [Seven skills for a serious Hermes agent](https://x.com/cobi_bean/status/2067962559441908208) `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, meta-skills]`
 - [[hermes-agent-10x-faster-vault-index]] — [I Made My Hermes Agent 10x Faster Without Changing the Model](https://x.com/wandermist/status/2071930382581195105) `[hermes, agent-harness, obsidian, vault, folder-structure, productivity, context-engineering, second-brain]`
@@ -208,6 +209,7 @@
 - [[autodata-synthetic-data-generation-explained]] — [AutoData: Synthetic data generation explained](https://x.com/neural_avb/status/2072294078805684613) `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
 - [[joint-embedding-predictive-architecture-jepa]] — [Joint Embedding Predictive Architecture (JEPA)](https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa) `[jepa, i-jepa, v-jepa, yann-lecun, meta, self-supervised-learning, embeddings, world-models, representation-learning, computer-vision]`
 - [[learning-from-experience-noise-oaklab-handsdiff]] — [Oak Lab — SGD vs IDBD on noisy experience streams](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, jepa, oak-lab, sutton, online-learning, sgd]`
+- [[how-ai-models-learn-skills-behaviors-leerob]] — [How AI models learn skills — pretrain/SFT/RL, model specs, file memory](https://x.com/leerob/status/2080467752897146898) `[training, pretraining, sft, rl, evals, alignment, model-spec, continual-learning, agents]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Beginner guide to Physical AI stack (5 layers)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, vla, humanoids, investing, hardware, simulation, nvidia]`
 - [[how-vector-database-works]] — [How does a Vector Database work?](https://outcomeschool.com/blog/how-does-a-vector-database-work) `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
 - [[graph-engineering-vs-rag-graphrag-sprytixl]] — [Graph Engineering vs RAG — GraphRAG / DSPy / STORM / LaunchNotes roundup](https://x.com/sprytixl/status/2078778799064584535) `[rag, knowledge-graph, graphrag, retrieval, dspy, mcp, microsoft, anthropic]`
@@ -382,6 +384,7 @@
 - [[if-youre-looking-for-a-long-read-for-the-weekend-t]] — [if you're looking for a long read for the weekend: the ultimate guide to RL envi](https://x.com/SergioPaniego/status/2053120052157628678)
 - [[avichawla]] — [_avichawla](https://x.com/_avichawla/status/2052326975034048754)
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]] — [How To Build Your Own LLM from Scratch (The 5-Stage Pipeline Behind GPT and Claude)](https://x.com/sairahul1/status/2066076937806856661) `[llm, training, tokenization, alignment, rlhf, data, evaluation, transformer, pretraining, sft]`
+- [[how-ai-models-learn-skills-behaviors-leerob]] — [How AI models learn — pretrain book smarts, SFT film, RL coach (Lee Robinson)](https://x.com/leerob/status/2080467752897146898) `[training, pretraining, sft, rl, model-spec, evals, alignment, models, continual-learning]`
 - [[the-big-book-of-large-language-models]] — [The Big Book of Large Language Models](https://x.com/hamptonism/status/2051978299635589592)
 - [[my-team-at-goodfireai-has-been-cooking-up-a-new-wa]] — [My team at @GoodfireAI has been cooking up a new way to do interpretability: dec](https://x.com/leedsharkey/status/2051717264286609516)
 - [[trq212]] — [trq212](https://x.com/trq212/status/2052809885763747935)
@@ -650,6 +653,7 @@
 - [[human-in-the-loop-agent-loops]] `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, productivity, cursor, cloud-agents, multi-agent]`
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
+- [[how-ai-models-learn-skills-behaviors-leerob]] `[training, pretraining, sft, rl, evals, alignment, model-spec, continual-learning, agents, agent-memory, llm-judges, post-training]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-openai-sol-learned-design-taste-designarena]] `[design, frontend, models, openai, gpt-5.6, sol, evals, designarena, taste, generative-ui, benchmarks]`
 - [[how-to-actually-design-with-ai-lexnlin]] `[design, skills, ui, frontend, prompt-engineering, taste, claude, codex, creativity]`
