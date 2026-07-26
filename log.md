@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-26
 
+- Ingest: Own your intelligence (hwchase17 2081002647814094888)
+
+## 2026-07-26
+
 - Ingest: Decision memos top-down bottom-up structure-problem (nurijanian 2081192545942679804)
 
 ## 2026-07-26

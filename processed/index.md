@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 440 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 441 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -330,6 +330,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [opus-cybersecurity-partners.md](/processed/opus-cybersecurity-partners.md) — *bookmark* — Anthropic's partners are deploying Claude Opus for cybersecurity at scale: Wiz surfaces thousands of validated high/critical findings weekly across 150K+ production assets with zero false positives, Palo Alto Networks...
 - [orchestrating-agents-adk-fhinkel.md](/processed/orchestrating-agents-adk-fhinkel.md) — *bookmark* — Franziska Hinkelmann on Google ADK multi-agent orchestration: specialist subagents + default isolation; share only sliced session state, not a global context pool.
 - [osiris-open-source-palantir-tool.md](/processed/osiris-open-source-palantir-tool.md) — *processed-note* — Osiris: Open Source Palantir Alternative
+- [own-your-intelligence-harrison-chase.md](/processed/own-your-intelligence-harrison-chase.md) — *bookmark* — Own your intelligence: control model optionality + harness + context/memory; own cost/quality/risk/observability; compound via traces→feedback→evals. Generic API intelligence is not the moat — adapted systems are.
 - [parameter-decomposition-vs-sae-interpretability.md](/processed/parameter-decomposition-vs-sae-interpretability.md) — *note* — Parameter Decomposition vs SAEs for LLM Interpretability
 - [pattern-recognition-as-expertise-jaynitx.md](/processed/pattern-recognition-as-expertise-jaynitx.md) — *bookmark* — "@jaynitx shares a high-engagement thread on how pattern recognition (chunking) is the true foundation of expertise. Draws from chess masters (50k–100k patterns), deliberate practice with tight feedback loops, and Gar...
 - [peft-beyond-lora.md](/processed/peft-beyond-lora.md) — *article* — Beyond LoRA: Can you beat the most popular fine-tuning technique?

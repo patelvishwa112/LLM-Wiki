@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1004 unique tags across 440 processed notes.
+> 1004 unique tags across 441 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (99)
+### agent-harness (100)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -98,6 +98,7 @@
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
 - [[production-rag-agents-technmak]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
@@ -137,7 +138,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (22)
+### agent-memory (23)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -155,6 +156,7 @@
 - [[how-to-give-your-agent-memory]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[own-your-intelligence-harrison-chase]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -208,7 +210,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (202)
+### agents (203)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -364,6 +366,7 @@
 - [[opsd-off-policy-self-distillation]]
 - [[opus-cybersecurity-partners]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[production-rag-agents-technmak]]
@@ -422,11 +425,12 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (6)
+### ai-strategy (7)
 
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
@@ -838,7 +842,7 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### continual-learning (10)
+### continual-learning (11)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
@@ -847,11 +851,12 @@
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[improving-agents-data-mining-traces]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
+- [[own-your-intelligence-harrison-chase]]
 - [[quarq-agent-memory-architecture]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (16)
+### cost-optimization (17)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -867,6 +872,7 @@
 - [[harness-is-the-product-280k]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[own-your-intelligence-harrison-chase]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
 
@@ -943,7 +949,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (22)
+### enterprise (23)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -963,12 +969,13 @@
 - [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
 - [[opus-cybersecurity-partners]]
+- [[own-your-intelligence-harrison-chase]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (34)
+### evals (35)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1000,6 +1007,7 @@
 - [[loop-engineering-clearly-explained]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[own-your-intelligence-harrison-chase]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[waku-agent-github]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
@@ -1072,7 +1080,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (25)
+### harness-engineering (26)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1092,6 +1100,7 @@
 - [[learn-harness-engineering]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[metacognition-debug-human-ai-system-stablechen]]
+- [[own-your-intelligence-harrison-chase]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
@@ -1234,7 +1243,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (11)
+### langchain (12)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -1247,6 +1256,7 @@
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[openwiki-02-okf-langchain-bracesproul]]
+- [[own-your-intelligence-harrison-chase]]
 
 ### langgraph (5)
 
@@ -1520,7 +1530,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (17)
+### observability (18)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1535,6 +1545,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[own-your-intelligence-harrison-chase]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[waku-agent-github]]

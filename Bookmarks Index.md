@@ -55,6 +55,7 @@
 - [[langchain-langgraph-101-repo]] — [LangGraph 101](https://github.com/langchain-ai/langgraph-101) `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi]`
 - [[how-to-build-custom-agent-harness-langchain]] — [How to Build a Custom Agent Harness](https://www.langchain.com/blog/how-to-build-a-custom-agent-harness) `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
+- [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
 - [[build-claude-code-harness-crewai-akshay]] — [Claude Code harness rebuild — loop/planning/subagents/E2B (CrewAI)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agents, agent-harness, claude-code, crewai, multi-agent, sandbox, coding-tools]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Glean coding harness — 100% programmatic tool calling (24% tokens)](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, search]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — one company-wide agent (Neil Rahilly)](https://x.com/neilrahilly/status/2075290325757608148) `[agents, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, artifacts, outcomes]`
@@ -276,6 +277,7 @@
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
+- [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
 - [[build-claude-code-harness-crewai-akshay]] — [Let's build Claude Code's harness in CrewAI (Akshay)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? — flywheel + pretrain reflexes](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, pretraining, data-flywheel, sft, rl, distillation, context-management]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, harness-engineering, agent-harness, hooks, multi-agent, cross-harness, impeccable]`
@@ -765,6 +767,7 @@
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[orchestrating-agents-adk-fhinkel]] `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
+- [[own-your-intelligence-harrison-chase]] `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory, continual-learning, cost-optimization, ai-strategy]`
 - [[portal-portable-task-adapters-llms]] `[lora, peft, training, fine-tuning, hypernetwork, portable-adaptation, qwen, gemma, slm]`
 - [[persona-vectors-paper]] `[interpretability, safety, steering]`
 - [[personal-brand-better-than-resume-lindsay-casale]] `[career, personal-brand, productivity, content-strategy, writing, marketing, networking, creator-economy, audience-building]`
