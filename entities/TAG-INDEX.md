@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1004 unique tags across 441 processed notes.
+> 1004 unique tags across 442 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (100)
+### agent-harness (101)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -65,6 +65,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
@@ -210,7 +211,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (203)
+### agents (204)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -294,6 +295,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
@@ -856,7 +858,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (17)
+### cost-optimization (18)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -868,6 +870,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -1080,7 +1083,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (26)
+### harness-engineering (27)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1092,6 +1095,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -1258,9 +1262,10 @@
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[own-your-intelligence-harrison-chase]]
 
-### langgraph (5)
+### langgraph (6)
 
 - [[fault-tolerance-langgraph-retries-timeouts]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[langchain-langgraph-101-repo]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
@@ -1320,7 +1325,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (23)
+### loop-engineering (24)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1330,6 +1335,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -1478,7 +1484,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (41)
+### multi-agent (42)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1497,6 +1503,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -1599,7 +1606,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (32)
+### orchestration (33)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1619,6 +1626,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[guide-to-goal-codex]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -2310,7 +2318,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (26)
+### verification (27)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2324,6 +2332,7 @@
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -2952,6 +2961,11 @@
 
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
+
+### graph-engineering (2)
+
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
 
 ### gtm (2)
 
@@ -3951,7 +3965,6 @@
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
 - **gpu-optimization** — [[pytorch-profiler-beginners-guide]]
-- **graph-engineering** — [[graph-engineering-multi-factor-alpha-rohonchain]]
 - **graph-memory** — [[graph-memory-reconstruction-llms]]
 - **graphiti** — [[graphiti-knowledge-graph-agent-memory]]
 - **graphrag** — [[graph-engineering-vs-rag-graphrag-sprytixl]]

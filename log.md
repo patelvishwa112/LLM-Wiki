@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-26
 
+- Ingest: Graph engineering substance over meme (akshay_pachaar 2081089131808243999)
+
+## 2026-07-26
+
 - Ingest: Own your intelligence (hwchase17 2081002647814094888)
 
 ## 2026-07-26
