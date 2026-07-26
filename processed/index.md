@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 442 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 445 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -186,6 +186,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [google-gemma-4-12b-local-fine-tuning.md](/processed/google-gemma-4-12b-local-fine-tuning.md) — *bookmark* — Google released Gemma 4 12B, a multimodal model (text, images, audio) that runs on 8GB VRAM. Plan to fine-tune locally with Unsloth and Hugging Face transformers for chess move prediction.
 - [graph-engineering-14-step-roadmap-0xcodez.md](/processed/graph-engineering-14-step-roadmap-0xcodez.md) — *bookmark* — 0xCodez 14-step graph engineering roadmap: turn linear multi-step agents into Claude Code dynamic-workflow graphs with nodes/edges, diamond topology, verifiers, model tiering, and self-routing fleets.
 - [graph-engineering-dynamic-workflows-fleet-0xcodila.md](/processed/graph-engineering-dynamic-workflows-fleet-0xcodila.md) — *bookmark* — 0xCodila graph engineering guide: real edges vs fake waits, Claude Code dynamic workflows fleets, fresh-context verifiers, isolation, Bun-scale costs, when not to graph.
+- [graph-engineering-fake-edges-diamond-anatolikopadze.md](/processed/graph-engineering-fake-edges-diamond-anatolikopadze.md) — *bookmark* — Graph engineering field guide: fake-edge test, diamond (fan-out/reduce/synthesize), fresh-context checkers, anchors for truth, Claude Code 'workflow' fleets. Graphs buy breadth not judgment; Bun rewrite ~$165k caution.
 - [graph-engineering-multi-factor-alpha-rohonchain.md](/processed/graph-engineering-multi-factor-alpha-rohonchain.md) — *bookmark* — RohOnChain maps prompts→loops→swarms→graphs to an 11-node Fama-French/Carhart multi-factor alpha Program on Slate (7 parallel factors + validator/HMM/portfolio/risk).
 - [graph-engineering-substance-over-meme-akshay.md](/processed/graph-engineering-substance-over-meme-akshay.md) — *bookmark* — Graph engineering is coordination of loops (nodes/edges/state), not a loop replacement. Four hard parts: node worthiness, typed shared state, code-first routing, anti-groupthink reviewers. Most times graphs are overki...
 - [graph-engineering-vs-rag-graphrag-sprytixl.md](/processed/graph-engineering-vs-rag-graphrag-sprytixl.md) — *bookmark* — Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Sta...
@@ -319,6 +320,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [not-ambitious-enough-with-claude.md](/processed/not-ambitious-enough-with-claude.md) — *bookmark* — Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders.
 - [notes-on-foundation-models.md](/processed/notes-on-foundation-models.md) — *bookmark* — Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs ...
 - [nvidia-skillspector-security-scanner.md](/processed/nvidia-skillspector-security-scanner.md) — *article* — NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills
+- [obsidian-vault-graph-fable5-11-step-unicodef1wn.md](/processed/obsidian-vault-graph-fable5-11-step-unicodef1wn.md) — *bookmark* — Obsidian second-brain graph for agents (Fable 5): ROUTER + index + atomic nodes + edges + retrieval logic + state. Pretty graph view is for humans; index is the engine. Target 2–3 files per answer vs whole vault.
 - [on-policy-distillation-must-read.md](/processed/on-policy-distillation-must-read.md) — *note* — On-Policy Distillation: Must-Read Articles
 - [on-policy-distillation-resources-2026.md](/processed/on-policy-distillation-resources-2026.md) — *note* — On-Policy Distillation Resources (2026)
 - [open-knowledge-format-okf-google.md](/processed/open-knowledge-format-okf-google.md) — *concept* — OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karp...
@@ -408,6 +410,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [the-html-brand-input-based-outcomes.md](/processed/the-html-brand-input-based-outcomes.md) — *bookmark* — The HTML Brand: The Rise of Input-Based Outcomes
 - [the-untrainable.md](/processed/the-untrainable.md) — *bookmark* — The untrainable is the last defensible corner: private correctness, illegible work, relationships, accountability, and slow organizational translation. Measurable work gets eaten; value accrues to those who earn the r...
 - [thesupereng-x-post-2065361684747719164.md](/processed/thesupereng-x-post-2065361684747719164.md) — *bookmark* — X post by thesupereng
+- [thinking-database-infinite-context-polygres-daleverett.md](/processed/thinking-database-infinite-context-polygres-daleverett.md) — *bookmark* — Polygres 'thinking database': infinite context = addressable rows/relations/embeddings on demand, not stuffing the company into the prompt. Better context over more context; Postgres as system of thought.
 - [token-capital-scaffolding-process-governance.md](/processed/token-capital-scaffolding-process-governance.md) — *bookmark* — Token Capital Requires Scaffolding, Process, and Governance
 - [torch-internals-part1-fx-graphs.md](/processed/torch-internals-part1-fx-graphs.md) — *bookmark* — PyTorch 2.0 compile series pt.1 — torch.fx IR (Graph/Node/GraphModule), symbolic tracing via Proxies, and tracing limits before TorchDynamo.
 - [trace-turn-level-reward-credit-assignment-agents.md](/processed/trace-turn-level-reward-credit-assignment-agents.md) — *bookmark* — TRACE densifies outcome RL for long-horizon tool agents: frozen ref model scores gold-answer predictability per prefix; TD deltas become turn rewards (no critic, process labels, MC rollouts, or LLM judge). BrowseComp-...

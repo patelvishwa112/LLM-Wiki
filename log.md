@@ -4,6 +4,18 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-26
 
+- Ingest: Graph engineering fake edges diamond (anatolikopadze 2080668775796314331)
+
+## 2026-07-26
+
+- Ingest: Thinking database infinite context Polygres (daleverett 2080883869281386672)
+
+## 2026-07-26
+
+- Ingest: Obsidian vault graph Fable5 11-step (unicodef1wn 2080693998180606075)
+
+## 2026-07-26
+
 - Ingest: Graph engineering substance over meme (akshay_pachaar 2081089131808243999)
 
 ## 2026-07-26

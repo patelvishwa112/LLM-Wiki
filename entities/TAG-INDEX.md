@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1004 unique tags across 442 processed notes.
+> 1005 unique tags across 445 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (101)
+### agent-harness (102)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -64,6 +64,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
@@ -139,7 +140,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (23)
+### agent-memory (25)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -157,9 +158,11 @@
 - [[how-to-give-your-agent-memory]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[own-your-intelligence-harrison-chase]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[unified-memory-layers-entity-resolution]]
 - [[waku-agent-github]]
@@ -211,7 +214,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (204)
+### agents (207)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -294,6 +297,7 @@
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
@@ -361,6 +365,7 @@
 - [[modern-ai-robotics-first-principles]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[open-knowledge-format-okf-google]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
@@ -398,6 +403,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -637,7 +643,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (93)
+### claude-code (94)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -690,6 +696,7 @@
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -813,7 +820,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (13)
+### context-engineering (14)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
@@ -826,10 +833,11 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (12)
+### context-management (13)
 
 - [[agent-harness-engineering-agentforge]]
 - [[buzz-open-source-workspace-block-jack]]
@@ -840,6 +848,7 @@
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[metacognition-debug-human-ai-system-stablechen]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
@@ -858,7 +867,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (18)
+### cost-optimization (20)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[agent-swarms-production-governance]]
@@ -870,11 +879,13 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[own-your-intelligence-harrison-chase]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
@@ -934,13 +945,14 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-on-policy-distillation-works]]
 
-### dynamic-workflows (7)
+### dynamic-workflows (8)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-dynamic-workflows-second-brain]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 
@@ -952,7 +964,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (23)
+### enterprise (24)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -976,6 +988,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 - [[zero-trust-ai-agents]]
 
 ### evals (35)
@@ -1016,7 +1029,7 @@
 - [[why-harness-engineering-is-so-hard-winterarc]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
-### fable-5 (8)
+### fable-5 (9)
 
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
@@ -1026,6 +1039,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[how-to-actually-use-claude-fable-5]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 
 ### finance (9)
 
@@ -1083,7 +1097,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (27)
+### harness-engineering (28)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1108,12 +1122,13 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
 
-### hermes (21)
+### hermes (22)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
@@ -1130,6 +1145,7 @@
 - [[hermes-kanban-mission-control]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[openclaw-hermes-supervisor-setup]]
 - [[research-agent-evidence-operator]]
 - [[self-learning-agents-three-layers-user-signal]]
@@ -1218,18 +1234,20 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### knowledge-graph (10)
+### knowledge-graph (12)
 
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 
 ### kv-cache (13)
 
@@ -1325,7 +1343,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (24)
+### loop-engineering (25)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1334,6 +1352,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
@@ -1484,7 +1503,7 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### multi-agent (42)
+### multi-agent (43)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1502,6 +1521,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
@@ -1558,7 +1578,7 @@
 - [[waku-agent-github]]
 - [[your-agent-harness-should-repair-itself]]
 
-### obsidian (12)
+### obsidian (13)
 
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[claude-code-investment-research-setup]]
@@ -1568,6 +1588,7 @@
 - [[hermes-seven-skills-cobi-bean]]
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
@@ -1606,7 +1627,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (33)
+### orchestration (34)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1625,6 +1646,7 @@
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[guide-to-goal-codex]]
@@ -1998,7 +2020,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 
-### second-brain (15)
+### second-brain (16)
 
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
@@ -2011,6 +2033,7 @@
 - [[leopardracer-ai-workflows-prompts]]
 - [[level-above-phd-knowledge-works-without-you]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
@@ -2318,7 +2341,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (27)
+### verification (28)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2331,6 +2354,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -2962,10 +2986,12 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### graph-engineering (2)
+### graph-engineering (4)
 
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 
 ### gtm (2)
 
@@ -3272,15 +3298,21 @@
 - [[ai-safety-levels]]
 - [[responsible-scaling-policy]]
 
+### polygres (2)
+
+- [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
+
 ### portfolio (2)
 
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ideacide-eleven-filters-drurly]]
 
-### postgres (2)
+### postgres (3)
 
 - [[daleverett-polygress-agent-era]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[thinking-database-infinite-context-polygres-daleverett]]
 
 ### ppo (4)
 
@@ -3879,6 +3911,7 @@
 - **data-labeling** — [[goldmine-selling-data-frontier-labs-viks-rum]]
 - **data-quality** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **database** — [[daleverett-polygress-agent-era]]
+- **databases** — [[thinking-database-infinite-context-polygres-daleverett]]
 - **debian** — [[ubuntu-shuttleworth-story]]
 - **decentralization** — [[buzz-open-source-workspace-block-jack]]
 - **decentralized** — [[autoscientists-decentralized-ai-research-agents]]
@@ -4165,7 +4198,6 @@
 - **plugins** — [[claude-cowork-one-person-company-2026]]
 - **policy-engine** — [[iii-agent-harness-workers]]
 - **policy-optimization** — [[opsd-off-policy-self-distillation]]
-- **polygres** — [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - **polygress** — [[daleverett-polygress-agent-era]]
 - **polymarket** — [[markov-chains-polymarket-trading]]
 - **portable-adaptation** — [[portal-portable-task-adapters-llms]]
