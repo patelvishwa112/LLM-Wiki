@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 439 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 440 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -392,6 +392,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [spec-kit-github-sdd.md](/processed/spec-kit-github-sdd.md) — *bookmark* — GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → ...
 - [speculative-decoding-history-roofline-shreybirmiwal.md](/processed/speculative-decoding-history-roofline-shreybirmiwal.md) — *bookmark* — Shrey Birmiwal walks speculative decoding from roofline arithmetic intensity through Leviathan draft-verify, rejection sampling, Medusa/Eagle/DFlash/DDTree, up to ~8x lossless decode speedups.
 - [stanford-storm-method-claude-research.md](/processed/stanford-storm-method-claude-research.md) — *bookmark* — Nav Toor shares the Stanford STORM method — a multi-agent research system that enables Claude to conduct deep, PhD-level research by orchestrating multiple specialized agents instead of single-shot prompting.
+- [structure-problem-top-down-bottom-up-decision-memo.md](/processed/structure-problem-top-down-bottom-up-decision-memo.md) — *bookmark* — Decision memo method: independent top-down (logic → options) and bottom-up (evidence groups → findings), one-page alignment map, answer-first with kill condition; AI amplifies volume so structure matters more than bla...
 - [sub-agents-inference-time-scaling.md](/processed/sub-agents-inference-time-scaling.md) — *bookmark* — Sub-Agents as Inference-Time Scaling Primitive
 - [superposition.md](/processed/superposition.md) — *concept* — Superposition
 - [sutton-barto-rl-notes.md](/processed/sutton-barto-rl-notes.md) — *note* — Sutton & Barto RL Notes — Parts I & II

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-26
 
+- Ingest: Decision memos top-down bottom-up structure-problem (nurijanian 2081192545942679804)
+
+## 2026-07-26
+
 - Ingest: Why Harness Engineering Is So Hard (winterarc2125 2081042507471696318)
 
 ## 2026-07-25

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1003 unique tags across 439 processed notes.
+> 1004 unique tags across 440 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -631,7 +631,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (92)
+### claude-code (93)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -716,6 +716,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-kit-github-sdd]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-full-loop-in-code]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1638,7 +1639,7 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[how-to-build-ai-agent-swarms]]
 
-### pm (11)
+### pm (12)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[ideacide-eleven-filters-drurly]]
@@ -1649,6 +1650,7 @@
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[productize-problems-you-already-solved-eptwts]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
@@ -1678,6 +1680,14 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
+### product-discovery (5)
+
+- [[ambient-pm-agents-evidence-first-prd]]
+- [[opportunity-ai-pm-os-workflow]]
+- [[productize-problems-you-already-solved-eptwts]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
+- [[testing-business-ideas-product-operating-system]]
+
 ### production (15)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -1696,7 +1706,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (54)
+### productivity (55)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1748,6 +1758,7 @@
 - [[productize-problems-you-already-solved-eptwts]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
@@ -2033,7 +2044,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (62)
+### skills (63)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2091,6 +2102,7 @@
 - [[self-learning-agents-three-layers-user-signal]]
 - [[skill-solo-millionaires-ai-era]]
 - [[spec-kit-github-sdd]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[waku-agent-github]]
 - [[writing-good-skills-measured-rulebook-aparna]]
@@ -2116,6 +2128,14 @@
 - [[exp1-sae-gap-closure-initial-result]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[sparse-autoencoders]]
+
+### stakeholders (5)
+
+- [[ambient-pm-agents-evidence-first-prd]]
+- [[multi-perspective-prd-review-claude-code]]
+- [[pm-as-context-compressor]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
+- [[testing-business-ideas-product-operating-system]]
 
 ### startups (8)
 
@@ -2331,7 +2351,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
-### writing (9)
+### writing (10)
 
 - [[ai-writing-style-personalization]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
@@ -2341,6 +2361,7 @@
 - [[human-nature-meta-skill-dan-koe]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
 ## Mid-Frequency Tags (2-4 articles)
@@ -2666,10 +2687,11 @@
 - [[alignment-faking]]
 - [[deceptive-alignment]]
 
-### decision-making (2)
+### decision-making (3)
 
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[principled-thinking-and-ai-ray-dalio]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 
 ### deepmind (4)
 
@@ -3274,17 +3296,11 @@
 - [[software-factory-linear-claude-cloud-routines]]
 - [[ten-commandments-building-product-feitong-yang]]
 
-### product-discovery (4)
-
-- [[ambient-pm-agents-evidence-first-prd]]
-- [[opportunity-ai-pm-os-workflow]]
-- [[productize-problems-you-already-solved-eptwts]]
-- [[testing-business-ideas-product-operating-system]]
-
-### product-management (3)
+### product-management (4)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[multi-perspective-prd-review-claude-code]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
 ### production-traces (2)
@@ -3520,13 +3536,6 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### stakeholders (4)
-
-- [[ambient-pm-agents-evidence-first-prd]]
-- [[multi-perspective-prd-review-claude-code]]
-- [[pm-as-context-compressor]]
-- [[testing-business-ideas-product-operating-system]]
-
 ### standards (2)
 
 - [[open-knowledge-format-okf-google]]
@@ -3736,6 +3745,7 @@
 - **ai-content** — [[ai-content-system-framework]]
 - **ai-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **ai-native** — [[ai-native-engineering-org]]
+- **ai-pm-os** — [[structure-problem-top-down-bottom-up-decision-memo]]
 - **ai-scaffolding** — [[token-capital-scaffolding-process-governance]]
 - **ai-skills** — [[5-ai-skills-six-figures-2027]]
 - **ai-workflows** — [[leopardracer-ai-workflows-prompts]]

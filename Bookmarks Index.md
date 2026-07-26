@@ -240,6 +240,7 @@
 - [[productize-problems-you-already-solved-eptwts]] — [Productize problems you already solved (EP problem-mining)](https://x.com/eptwts/status/2079571791341633643) `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur]`
 - [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[opportunity-ai-pm-os-workflow]] — [/opportunity: an AI PM OS workflow to turn chaos into order](https://x.com/nurijanian/status/2067201971896176856) `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
+- [[structure-problem-top-down-bottom-up-decision-memo]] — [Decision memos: top-down + bottom-up (structure-problem)](https://x.com/nurijanian/status/2081192545942679804) `[pm, decision-making, product-discovery, skills, claude-code, writing, ai-pm-os]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
@@ -796,6 +797,7 @@
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax, agents, gpu, architecture, training]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
+- [[structure-problem-top-down-bottom-up-decision-memo]] `[pm, product-management, decision-making, product-discovery, skills, claude-code, writing, stakeholders, productivity, ai-pm-os]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`
 - [[suppose-our-context-is-1m-chars-and-we-want-each-s]] `[evals, coding-tools]`
 - [[techwithram]] `[ai-ml]`
