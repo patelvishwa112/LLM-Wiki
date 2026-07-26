@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 445 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 447 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -130,6 +130,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [computer-use.md](/processed/computer-use.md) — *concept* — Computer Use
 - [constitutional-ai.md](/processed/constitutional-ai.md) — *concept* — Constitutional AI
 - [context-engineering-field-guide-phosphenq.md](/processed/context-engineering-field-guide-phosphenq.md) — *bookmark* — Phosphenq field guide: context engineering designs the whole window (not one prompt); bigger windows worsen via Lost-in-the-Middle and context rot; 12 moves for high-signal tokens.
+- [context-engineering-os-loop-engineering-vartekxx.md](/processed/context-engineering-os-loop-engineering-vartekxx.md) — *bookmark* — Prompt→context→loop stack: Karpathy Software 3.0 (write/select/compress/isolate) + Cherny loops/verifiers on Claude Code.
 - [continual-learning-replit-agent-vibench.md](/processed/continual-learning-replit-agent-vibench.md) — *bookmark* — Replit continual learning without weight updates — harness and context layers, ViBench, A/B tests, Telescope clustering, and an autonomous improvement loop.
 - [continuous-batching-grpo-trl.md](/processed/continuous-batching-grpo-trl.md) — *concept* — Continuous Batching for GRPO Rollouts in TRL
 - [continuous-trace-intelligence-braintrust-topics.md](/processed/continuous-trace-intelligence-braintrust-topics.md) — *bookmark* — How Braintrust Made Continuous Trace Intelligence Possible at Scale
@@ -189,6 +190,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [graph-engineering-fake-edges-diamond-anatolikopadze.md](/processed/graph-engineering-fake-edges-diamond-anatolikopadze.md) — *bookmark* — Graph engineering field guide: fake-edge test, diamond (fan-out/reduce/synthesize), fresh-context checkers, anchors for truth, Claude Code 'workflow' fleets. Graphs buy breadth not judgment; Bun rewrite ~$165k caution.
 - [graph-engineering-multi-factor-alpha-rohonchain.md](/processed/graph-engineering-multi-factor-alpha-rohonchain.md) — *bookmark* — RohOnChain maps prompts→loops→swarms→graphs to an 11-node Fama-French/Carhart multi-factor alpha Program on Slate (7 parallel factors + validator/HMM/portfolio/risk).
 - [graph-engineering-substance-over-meme-akshay.md](/processed/graph-engineering-substance-over-meme-akshay.md) — *bookmark* — Graph engineering is coordination of loops (nodes/edges/state), not a loop replacement. Four hard parts: node worthiness, typed shared state, code-first routing, anti-groupthink reviewers. Most times graphs are overki...
+- [graph-engineering-three-commitments-cyrilxbt.md](/processed/graph-engineering-three-commitments-cyrilxbt.md) — *bookmark* — Graph engineering course: loops hide next-step decisions; immutable plan, separated layers, strict escalation (unimplemented design caveat).
 - [graph-engineering-vs-rag-graphrag-sprytixl.md](/processed/graph-engineering-vs-rag-graphrag-sprytixl.md) — *bookmark* — Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Sta...
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents

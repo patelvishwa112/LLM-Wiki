@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-26
 
+- Ingest: Context engineering OS + loop engineering (vartekxx 2074864291568664646)
+
+## 2026-07-26
+
+- Ingest: Graph engineering three commitments (cyrilxbt 2081212504093446357)
+
+## 2026-07-26
+
 - Ingest: Graph engineering fake edges diamond (anatolikopadze 2080668775796314331)
 
 ## 2026-07-26

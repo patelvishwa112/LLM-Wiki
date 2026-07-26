@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1005 unique tags across 445 processed notes.
+> 1007 unique tags across 447 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (102)
+### agent-harness (104)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -53,6 +53,7 @@
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[continual-learning-replit-agent-vibench]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deep-agents-prompt-caching]]
@@ -67,6 +68,7 @@
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
@@ -214,7 +216,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (207)
+### agents (209)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -277,6 +279,7 @@
 - [[colleague-skill-dot-skill]]
 - [[computer-use]]
 - [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[deep-agents-prompt-caching]]
@@ -300,6 +303,7 @@
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
@@ -643,7 +647,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (94)
+### claude-code (95)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -684,6 +688,7 @@
 - [[coderabbit-claude-agent-orchestration]]
 - [[coding-agent-harness-eight-pillars]]
 - [[colleague-skill-dot-skill]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deepseek-v4-claude-code-setup]]
 - [[dive-into-claude-code-vila-lab]]
@@ -820,13 +825,14 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (14)
+### context-engineering (15)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[hermes-agent-10x-faster-vault-index]]
 - [[loop-engineering-clearly-explained]]
@@ -1084,6 +1090,14 @@
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 
+### graph-engineering (5)
+
+- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
+- [[graph-engineering-multi-factor-alpha-rohonchain]]
+- [[graph-engineering-substance-over-meme-akshay]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
+- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
+
 ### grpo (10)
 
 - [[autodata-synthetic-data-generation-explained]]
@@ -1097,7 +1111,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (28)
+### harness-engineering (29)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1110,6 +1124,7 @@
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -1163,10 +1178,11 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### human-in-the-loop (7)
+### human-in-the-loop (8)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
@@ -1343,11 +1359,12 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
 
-### loop-engineering (25)
+### loop-engineering (27)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[claude-code-four-loop-types-datasciencedojo]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
@@ -1355,6 +1372,7 @@
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
@@ -1823,7 +1841,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (38)
+### prompt-engineering (39)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1839,6 +1857,7 @@
 - [[claude-hidden-features-guide]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[goal-loss-functions-distill-product]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[harness-is-the-product-280k]]
@@ -2086,7 +2105,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (63)
+### skills (64)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2111,6 +2130,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[colleague-skill-dot-skill]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[david-ogilvy-writing-coach-claude-skill]]
@@ -2199,7 +2219,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (19)
+### subagents (20)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -2208,6 +2228,7 @@
 - [[claude-dynamic-workflows-second-brain]]
 - [[claude-subagents-vs-agent-teams]]
 - [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[dynamic-workflows-where-plan-lives]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -2341,11 +2362,12 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (28)
+### verification (30)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-code-changed-what-agents-look-like]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
@@ -2357,6 +2379,7 @@
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
+- [[graph-engineering-three-commitments-cyrilxbt]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -2650,9 +2673,10 @@
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### context-rot (3)
+### context-rot (4)
 
 - [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
@@ -2985,13 +3009,6 @@
 
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
-
-### graph-engineering (4)
-
-- [[graph-engineering-fake-edges-diamond-anatolikopadze]]
-- [[graph-engineering-multi-factor-alpha-rohonchain]]
-- [[graph-engineering-substance-over-meme-akshay]]
-- [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 
 ### gtm (2)
 
@@ -3827,6 +3844,7 @@
 - **assumption-mapping** — [[testing-business-ideas-product-operating-system]]
 - **atomic-notes** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **audio** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- **auditability** — [[graph-engineering-three-commitments-cyrilxbt]]
 - **autobrowse** — [[autobrowse-browser-agent-memory]]
 - **autodata** — [[autodata-synthetic-data-generation-explained]]
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
@@ -3951,6 +3969,7 @@
 - **epistemic-verbalization** — [[why-on-policy-distillation-works]]
 - **error-analysis** — [[do-automated-evals-work-parlance-labs]]
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
+- **escalation** — [[graph-engineering-three-commitments-cyrilxbt]]
 - **esm** — [[notes-on-foundation-models]]
 - **eval** — [[langchain-fireworks-trace-judge-100x-cheaper]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
