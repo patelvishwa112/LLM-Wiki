@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-26
+
+- Ingest: Why Harness Engineering Is So Hard (winterarc2125 2081042507471696318)
+
 ## 2026-07-25
 
 - Ingest: Sparse attention long-context DSA/MSA (cyrusasg 2080697631286681998)

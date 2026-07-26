@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1001 unique tags across 438 processed notes.
+> 1003 unique tags across 439 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (98)
+### agent-harness (99)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -122,6 +122,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
@@ -161,7 +162,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (32)
+### agent-ops (33)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -193,6 +194,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[two-tracks-not-ten-agents]]
 - [[voxyz-ai-10-lessons-agents-md]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[zero-trust-ai-agents]]
 
@@ -206,7 +208,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (201)
+### agents (202)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -404,6 +406,7 @@
 - [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[who-will-set-price-intelligence]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
 - [[wtf-is-a-loop]]
@@ -964,7 +967,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[zero-trust-ai-agents]]
 
-### evals (33)
+### evals (34)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -998,6 +1001,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[waku-agent-github]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### fable-5 (8)
@@ -1067,7 +1071,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (24)
+### harness-engineering (25)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1093,6 +1097,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 
 ### hermes (21)
 
@@ -1766,7 +1771,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (37)
+### prompt-engineering (38)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -1804,6 +1809,7 @@
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[vscode-copilot-token-efficiency]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### quant (6)
@@ -2273,7 +2279,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (25)
+### verification (26)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2298,6 +2304,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
@@ -2813,11 +2820,12 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### feedback-loops (3)
+### feedback-loops (4)
 
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[harness-engineering-2026-discipline]]
 - [[token-capital-scaffolding-process-governance]]
+- [[why-harness-engineering-is-so-hard-winterarc]]
 
 ### foundation-models (2)
 
@@ -4043,6 +4051,7 @@
 - **model-architecture** — [[huggingface-model-architecture-visualizer]]
 - **model-compression** — [[trimming-introduction]]
 - **model-context-protocol** — [[mcp-model-context-protocol]]
+- **model-drift** — [[why-harness-engineering-is-so-hard-winterarc]]
 - **model-guide** — [[aiedge-glm-5.2-guide]]
 - **model-routing** — [[evals-strategic-ip-garrettlord]]
 - **model-spec** — [[how-ai-models-learn-skills-behaviors-leerob]]
@@ -4226,6 +4235,7 @@
 - **sierra** — [[sierra-pinecone-singular-company-agent]]
 - **signal-detection** — [[jim-simons-medallion-quant-framework]]
 - **signaling** — [[effort-position-leverage-principles]]
+- **silent-failures** — [[why-harness-engineering-is-so-hard-winterarc]]
 - **similarity-search** — [[how-vector-database-works]]
 - **six-figure-skills** — [[5-ai-skills-six-figures-2027]]
 - **skill-creator** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]

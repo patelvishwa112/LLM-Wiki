@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 438 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 439 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -430,6 +430,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [what-if-harness-comes-before-pretraining-lihanc02.md](/processed/what-if-harness-comes-before-pretraining-lihanc02.md) — *bookmark* — Hanchen Li — harness and pretraining hold hands both ways: flywheel data shaped by harness; harness as symbolic override of pretrain reflexes.
 - [what-is-kv-cache-llms.md](/processed/what-is-kv-cache-llms.md) — *bookmark* — What is KV Cache in LLMs?
 - [who-will-set-price-intelligence.md](/processed/who-will-set-price-intelligence.md) — *bookmark* — Intelligence is becoming a priced strategic resource; AI investing breaks SaaS playbooks because capability, cost, latency, inference-time compute, task horizon, geopolitics, and talent move on coupled curves. Threat ...
+- [why-harness-engineering-is-so-hard-winterarc.md](/processed/why-harness-engineering-is-so-hard-winterarc.md) — *bookmark* — Five months / 104 commits on why harness work is structurally hard: non-deterministic tests, silent graded failures, prose debugging, additive prompt bloat, examples > rules, moving models, slow expensive loops — diff...
 - [why-layout-matters-document-processing.md](/processed/why-layout-matters-document-processing.md) — *bookmark* — Why Layout Matters in a Document Processing Pipeline
 - [why-on-policy-distillation-works.md](/processed/why-on-policy-distillation-works.md) — *concept* — Why On-Policy Distillation Works and Naive Self-Distillation Doesn't
 - [world-models-agent-imagination.md](/processed/world-models-agent-imagination.md) — *bookmark* — World Models — Can Agents Learn Inside Their Own Dreams?

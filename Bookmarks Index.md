@@ -141,6 +141,7 @@
 - [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[human-in-the-loop-agent-loops]] — [Human in the /loop](https://x.com/ericzakariasson/status/2070493377267646797) `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, cursor, cloud-agents]`
 - [[agent-workflows-silent-degradation-verification-vladic]] — [Silent degradation — verification layers for agent workflows](https://x.com/vladic_eth/status/2073723103629222127) `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
+- [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[agents-behave-like-employees-six-shifts]] — [How to make AI agents behave like actual employees](https://x.com/zodchiii/status/2072630422358425719) `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[agent-swarms-production-governance]] — [Your Agent Isn't Slow. It's Doing 4 Jobs at Once](https://x.com/nyk_builderz/status/2070346338269819043) `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression]`
@@ -273,6 +274,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[build-claude-code-harness-crewai-akshay]] — [Let's build Claude Code's harness in CrewAI (Akshay)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? — flywheel + pretrain reflexes](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, pretraining, data-flywheel, sft, rl, distillation, context-management]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, harness-engineering, agent-harness, hooks, multi-agent, cross-harness, impeccable]`
@@ -828,10 +830,11 @@
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
 - [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
+- [[why-harness-engineering-is-so-hard-winterarc]] `[harness-engineering, agent-harness, agents, evals, verification, silent-failures, prompt-engineering, model-drift, feedback-loops, agent-ops]`
+- [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[writing-good-skills-measured-rulebook-aparna]] `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering, coding-tools]`
 - [[wtf-is-a-loop]] `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[wtf-is-storytelling-for-vcs-laurie-owen]] `[venture-capital, investing, storytelling, writing, marketing, content-strategy, startups, fundraising, productivity]`
-- [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[youre-burning-200month-on-claude-these-20-prompts]] `[agents, coding-tools]`
 - [[zero-trust-ai-agents]] `[agents, security, zero-trust, enterprise, anthropic, agent-ops]`
