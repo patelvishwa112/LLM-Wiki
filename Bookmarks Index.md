@@ -434,6 +434,7 @@
 
 - [[iceberg-opus-48-prompts]] — [Iceberg: The Prompts That Unleash Opus 4.8](https://x.com/0xchasetm/status/2061363479525663170)
 - [[mid-career-dissatisfaction]] — [On mid-career (dis)satisfaction](https://x.com/shreyas/status/2061140507884155145)
+- [[antithesis-principle-shreyas-doshi]] — [The Antithesis Principle](https://x.com/shreyas/status/2081524543471153456) `[clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]`
 - [[not-ambitious-enough-with-claude]] — [You're not ambitious enough with Claude](https://x.com/christinexzhu/status/2074847461588267466) `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
 - [[ashwingop]] — [ashwingop](https://x.com/ashwingop/status/2053173547393331318)
 - [[article]] — [Article](https://x.com/cyrilXBT/status/2052235121416188114)
@@ -556,6 +557,7 @@
 - [[anthropic-gtm-claude-code-workflows]] `[anthropic, claude-code, claude-cowork, gtm, sales, skills, productivity, enterprise, mcp]`
 - [[anthropic-recursive-self-improvement]] `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
+- [[antithesis-principle-shreyas-doshi]] `[clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]`
 - [[antpalkin]] `[agents]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[article]] `[evals, agents]`

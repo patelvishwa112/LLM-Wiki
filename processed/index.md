@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 447 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 448 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -73,6 +73,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [anthropic-publications.md](/processed/anthropic-publications.md) — *overview* — Anthropic Publications
 - [anthropic-recursive-self-improvement.md](/processed/anthropic-recursive-self-improvement.md) — *article* — The Anthropic Institute's definitive analysis showing AI is already accelerating AI development: >80% of Anthropic's code is Claude-authored, engineers ship 8x more code, task horizons doubled from 4min to 16+ hours. ...
 - [anthropic-self-service-analytics-claude.md](/processed/anthropic-self-service-analytics-claude.md) — *bookmark* — Anthropic's internal self-service analytics system: 95% of business queries automated via Claude at ~95% accuracy. Four-layer stack: data foundations (canonical datasets, colocated artifacts, metadata as product), sou...
+- [antithesis-principle-shreyas-doshi.md](/processed/antithesis-principle-shreyas-doshi.md) — *bookmark* — Human-nature truths point two ways — outward tactic vs inward antithesis; smart finds the first, wise the second.
 - [are-you-still-tuning-llms-by-hand-gepa.md](/processed/are-you-still-tuning-llms-by-hand-gepa.md) — *bookmark* — Microsoft AI's Harold Benoit on dspy.GEPA as compute-driven prompt search with Genetic-Pareto optimization, strong reflection LLMs, and graders that return scores plus text feedback.
 - [athcanft-grow-x-make-money.md](/processed/athcanft-grow-x-make-money.md) — *bookmark* — how to grow your X (and make $$$)
 - [attention-qkv-math-amitiitbhu.md](/processed/attention-qkv-math-amitiitbhu.md) — *bookmark* — Amit Shekhar: hand-worked scaled dot-product attention on "I love AI" — X→Q/K/V via learned weights, QK^T scores, ÷√d_k, row softmax (e.g. I→love 70.7%), multiply V; bridges to KV cache (only last row needed at decode).

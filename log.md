@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-27
+
+- Ingest: The Antithesis Principle (shreyas 2081524543471153456)
+
 ## 2026-07-26
 
 - Ingest: Context engineering OS + loop engineering (vartekxx 2074864291568664646)

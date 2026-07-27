@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1007 unique tags across 447 processed notes.
+> 1010 unique tags across 448 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1477,8 +1477,9 @@
 - [[memory-is-retained-consequence]]
 - [[quarq-agent-memory-architecture]]
 
-### meta-learning (5)
+### meta-learning (6)
 
+- [[antithesis-principle-shreyas-doshi]]
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-ai-research]]
 - [[human-nature-meta-skill-dan-koe]]
@@ -1698,9 +1699,10 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[how-to-build-ai-agent-swarms]]
 
-### pm (12)
+### pm (13)
 
 - [[ambient-pm-agents-evidence-first-prd]]
+- [[antithesis-principle-shreyas-doshi]]
 - [[ideacide-eleven-filters-drurly]]
 - [[make-requirements-great]]
 - [[multi-perspective-prd-review-claude-code]]
@@ -1765,7 +1767,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (55)
+### productivity (56)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1776,6 +1778,7 @@
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
+- [[antithesis-principle-shreyas-doshi]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
 - [[career-platform-email-list-ryan-holiday]]
 - [[claude-code-slash-command-library]]
@@ -2616,6 +2619,11 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[mechanistic-interpretability]]
 
+### clear-thinking (2)
+
+- [[antithesis-principle-shreyas-doshi]]
+- [[bezos-writing-framework-six-page-memos-dickiebush]]
+
 ### cli (2)
 
 - [[anthropic-ant-cli-guide]]
@@ -2755,8 +2763,9 @@
 - [[alignment-faking]]
 - [[deceptive-alignment]]
 
-### decision-making (3)
+### decision-making (4)
 
+- [[antithesis-principle-shreyas-doshi]]
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[principled-thinking-and-ai-ray-dalio]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -3050,6 +3059,11 @@
 - [[anthropic-claude-code-skills-lessons]]
 - [[claude-code-self-correcting-setup]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
+
+### human-nature (2)
+
+- [[antithesis-principle-shreyas-doshi]]
+- [[human-nature-meta-skill-dan-koe]]
 
 ### ideation (2)
 
@@ -3877,7 +3891,6 @@
 - **cispo** — [[rl-algo-comprehensive-qa]]
 - **classical-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **classifiers** — [[jailbreaks-and-defenses]]
-- **clear-thinking** — [[bezos-writing-framework-six-page-memos-dickiebush]]
 - **clients** — [[mcp-core-architecture-hosts-clients-servers]]
 - **clio** — [[continuous-trace-intelligence-braintrust-topics]]
 - **clustering** — [[continuous-trace-intelligence-braintrust-topics]]
@@ -4034,7 +4047,6 @@
 - **hrm** — [[training-llm-from-scratch-5-lessons]]
 - **human-ai** — [[metacognition-debug-human-ai-system-stablechen]]
 - **human-capital** — [[token-capital-scaffolding-process-governance]]
-- **human-nature** — [[human-nature-meta-skill-dan-koe]]
 - **humanoids** — [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - **hurst-exponent** — [[jim-simons-medallion-quant-framework]]
 - **hybrid-search** — [[cerebras-knowledge-base-hybrid-search-mcp]]
@@ -4084,6 +4096,7 @@
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
 - **layout** — [[why-layout-matters-document-processing]]
+- **leadership** — [[antithesis-principle-shreyas-doshi]]
 - **lean-startup** — [[testing-business-ideas-product-operating-system]]
 - **legibility** — [[the-untrainable]]
 - **leverage** — [[effort-position-leverage-principles]]
@@ -4236,6 +4249,7 @@
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
+- **product-sense** — [[antithesis-principle-shreyas-doshi]]
 - **profiles** — [[hermes-kanban-mission-control]]
 - **profiling** — [[pytorch-profiler-beginners-guide]]
 - **programmatic-tool-calling** — [[glean-coding-harness-programmatic-tool-calling]]
@@ -4414,6 +4428,7 @@
 - **web-performance** — [[browser-internals-chromium-architecture]]
 - **weight-synchronization** — [[weight-synchronization-rl-post-training]]
 - **wikilinks** — [[gbrain-markdown-git-brain-mem0]]
+- **wisdom** — [[antithesis-principle-shreyas-doshi]]
 - **workers** — [[iii-agent-harness-workers]]
 - **workflow-automation** — [[claude-code-investment-research-setup]]
 - **workflow-design** — [[leopardracer-ai-workflows-prompts]]
