@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1016 unique tags across 451 processed notes.
+> 1019 unique tags across 452 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -650,7 +650,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (96)
+### claude-code (97)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -674,6 +674,7 @@
 - [[build-claude-code-harness-crewai-akshay]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[buzz-open-source-workspace-block-jack]]
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[claude-code-cost-optimization-prompts]]
 - [[claude-code-dynamic-workflows-intro]]
@@ -923,10 +924,11 @@
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### decision-making (5)
+### decision-making (6)
 
 - [[antithesis-principle-shreyas-doshi]]
 - [[career-guide-early-twenties-optimize-for-learning]]
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[principled-thinking-and-ai-ray-dalio]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -1734,10 +1736,11 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[how-to-build-ai-agent-swarms]]
 
-### pm (14)
+### pm (15)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[antithesis-principle-shreyas-doshi]]
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[ideacide-eleven-filters-drurly]]
 - [[make-requirements-great]]
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
@@ -1777,9 +1780,10 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### product-discovery (6)
+### product-discovery (7)
 
 - [[ambient-pm-agents-evidence-first-prd]]
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[productize-problems-you-already-solved-eptwts]]
@@ -1804,7 +1808,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (57)
+### productivity (58)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1818,6 +1822,7 @@
 - [[antithesis-principle-shreyas-doshi]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
 - [[career-platform-email-list-ryan-holiday]]
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-14-day-guide]]
 - [[claude-cowork-60-power-moves]]
@@ -2146,7 +2151,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (65)
+### skills (66)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2162,6 +2167,7 @@
 - [[anthropic-self-service-analytics-claude]]
 - [[autobrowse-browser-agent-memory]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[claude-code-slash-command-library]]
 - [[claude-cowork-60-power-moves]]
 - [[claude-cowork-plugin-building-guide]]
@@ -2562,8 +2568,9 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
-### ai-pm-os (2)
+### ai-pm-os (3)
 
+- [[causal-tree-second-third-order-effects-nurijanian]]
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 
@@ -3930,6 +3937,7 @@
 - **career-advice** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **career-strategy** — [[effort-position-leverage-principles]]
 - **causal-ablation** — [[goodfire-parameter-decomposition-interpretability]]
+- **causal-reasoning** — [[causal-tree-second-third-order-effects-nurijanian]]
 - **cerebras** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **chatgpt** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **chinchilla** — [[kaplan-scaling-laws-bug-chinchilla]]
@@ -4344,6 +4352,7 @@
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
 - **reward-models** — [[understanding-video-models-rl-post-training]]
+- **risk** — [[causal-tree-second-third-order-effects-nurijanian]]
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rollouts** — [[continuous-batching-grpo-trl]]
 - **roofline** — [[speculative-decoding-history-roofline-shreybirmiwal]]
@@ -4360,6 +4369,7 @@
 - **scalable-oversight** — [[scalable-oversight]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]
 - **scope-control** — [[building-your-first-ai-agent-clear-path]]
+- **second-order-effects** — [[causal-tree-second-third-order-effects-nurijanian]]
 - **second-self** — [[second-self-vs-second-brain-obsidian]]
 - **self-evolving** — [[self-evolving-autoresearch-workflow-loops]]
 - **self-improving** — [[self-improving-agent-swarm-kimi-loop]]

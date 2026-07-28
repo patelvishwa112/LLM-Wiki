@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 451 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 452 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -97,6 +97,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [buzz-open-source-workspace-block-jack.md](/processed/buzz-open-source-workspace-block-jack.md) — *bookmark* — Jack Dorsey/Block open-sources Buzz — self-hosted Nostr workspace where people and agents share cryptographic identity, one event log, and harnesses for Goose/Codex/Claude Code.
 - [career-guide-early-twenties-optimize-for-learning.md](/processed/career-guide-early-twenties-optimize-for-learning.md) — *bookmark* — A career guide for people in their early twenties
 - [career-platform-email-list-ryan-holiday.md](/processed/career-platform-email-list-ryan-holiday.md) — *bookmark* — Ryan Holiday argues that a durable career platform—especially an owned email list—is more valuable than office or follower counts, using Churchill's wilderness years and his own list growth as proof.
+- [causal-tree-second-third-order-effects-nurijanian.md](/processed/causal-tree-second-third-order-effects-nurijanian.md) — *bookmark* — Root-cause alone is incomplete — causal-tree maps backward whys plus five-order forward effects, evidence gaps, and assumptions for team review.
 - [cerebras-knowledge-base-hybrid-search-mcp.md](/processed/cerebras-knowledge-base-hybrid-search-mcp.md) — *bookmark* — Cerebras Knowledge: meet-data-where-it-lives enterprise KB (15k queries/day) — unified Postgres embeddings, hybrid Slack search, CocoIndex code, planner/RRF/rerank, MCP primitives vs full UI pipeline.
 - [claude-code-changed-what-agents-look-like.md](/processed/claude-code-changed-what-agents-look-like.md) — *article* — Claude Code Just Changed What "Agents" Look Like
 - [claude-code-cost-optimization-prompts.md](/processed/claude-code-cost-optimization-prompts.md) — *processed-note* — Claude Code Cost Optimization: 20 Prompts to Cut Spend

@@ -251,6 +251,7 @@
 - [[opportunity-ai-pm-os-workflow]] — [/opportunity: an AI PM OS workflow to turn chaos into order](https://x.com/nurijanian/status/2067201971896176856) `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[structure-problem-top-down-bottom-up-decision-memo]] — [Decision memos: top-down + bottom-up (structure-problem)](https://x.com/nurijanian/status/2081192545942679804) `[pm, decision-making, product-discovery, skills, claude-code, writing, ai-pm-os]`
 - [[mckinsey-issue-tree-why-what-how-nurijanian]] — [/mckinsey-issue-tree: Why / What / How trees](https://x.com/nurijanian/status/2081707189853642988) `[pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, mece, problem-solving]`
+- [[causal-tree-second-third-order-effects-nurijanian]] — [/causal-tree: 2nd/3rd order effects of decisions](https://x.com/nurijanian/status/2082065077021335632) `[pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, causal-reasoning, risk, second-order-effects]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
@@ -596,6 +597,7 @@
 - [[brain-dump-of-howwhy-we-use-evals-to-measure-agent]] `[evals, agents]`
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] `[agents, business-ideas]`
 - [[can-llms-adapt-continually-without-losing-base-ski]] `[training, coding-tools]`
+- [[causal-tree-second-third-order-effects-nurijanian]] `[pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, causal-reasoning, risk, second-order-effects, productivity]`
 - [[cerebras-knowledge-base-hybrid-search-mcp]] `[agent-memory, rag, mcp, enterprise, cerebras, cocoindex, retrieval, knowledge-base, hybrid-search, agents, agent-harness, second-brain]`
 - [[check-this---bootstrapping-claude-to-train-a-slm]] `[training, evals]`
 - [[chrishayduk]] `[ai-ml]`

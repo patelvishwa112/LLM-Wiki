@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-28
 
+- Ingest: causal-tree 2nd/3rd order effects (nurijanian 2082065077021335632)
+
+## 2026-07-28
+
 - Ingest: mckinsey-issue-tree Why What How (nurijanian 2081707189853642988)
 
 ## 2026-07-28
