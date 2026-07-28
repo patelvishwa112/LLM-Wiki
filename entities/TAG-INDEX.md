@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1010 unique tags across 448 processed notes.
+> 1013 unique tags across 449 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -507,7 +507,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (23)
+### architecture (24)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -516,6 +516,7 @@
 - [[dynamic-workflows-where-plan-lives]]
 - [[encoder-free-models-bitter-lesson]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
@@ -543,10 +544,11 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[sierra-pinecone-singular-company-agent]]
 
-### attention (7)
+### attention (8)
 
 - [[attention-qkv-math-amitiitbhu]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[metacognition-debug-human-ai-system-stablechen]]
@@ -1189,12 +1191,13 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (17)
+### inference (18)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-engines-2026]]
@@ -1250,6 +1253,14 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
+### kimi (5)
+
+- [[15-prompts-cut-coding-costs-88-percent]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[how-to-build-ai-agent-swarms]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[self-improving-agent-swarm-kimi-loop]]
+
 ### knowledge-graph (12)
 
 - [[gbrain-markdown-git-brain-mem0]]
@@ -1265,11 +1276,12 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 
-### kv-cache (13)
+### kv-cache (14)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
 - [[deep-agents-prompt-caching]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
@@ -1499,7 +1511,7 @@
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (20)
+### models (21)
 
 - [[adapad-lora-parallel-deflation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -1511,6 +1523,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[goodfire-parameter-decomposition-interpretability]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
@@ -1521,6 +1534,14 @@
 - [[rl-environments-guide-llm]]
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
+
+### moe (5)
+
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
+- [[rl-algo-comprehensive-qa]]
+- [[rl-interview-answers-2026]]
 
 ### multi-agent (43)
 
@@ -2282,7 +2303,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (59)
+### training (60)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2301,6 +2322,7 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[glm-5-2-with-vision-projector-part-harry]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[harbor-rl-coding-environments]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
@@ -2344,7 +2366,7 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (10)
+### transformers (11)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-research-job-search-alisa-wuffles]]
@@ -2352,6 +2374,7 @@
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
@@ -3096,13 +3119,6 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### kimi (4)
-
-- [[15-prompts-cut-coding-costs-88-percent]]
-- [[how-to-build-ai-agent-swarms]]
-- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
-- [[self-improving-agent-swarm-kimi-loop]]
-
 ### knowledge-graphs (3)
 
 - [[how-to-build-agent-that-never-forgets]]
@@ -3149,8 +3165,9 @@
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
 
-### long-context (2)
+### long-context (3)
 
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
@@ -3203,18 +3220,21 @@
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 
+### mla (2)
+
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[sparse-attention-long-context-dsa-msa-cyrusasg]]
+
 ### mlx (3)
 
 - [[Llama SAE Interpretability Project]]
 - [[ghost-in-residual-stream-experiment]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### moe (4)
+### moonshot (2)
 
-- [[inkling-ear-7-9m-lookup-table-huckiyang]]
-- [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
-- [[rl-algo-comprehensive-qa]]
-- [[rl-interview-answers-2026]]
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 
 ### mythos (4)
 
@@ -3949,6 +3969,7 @@
 - **deel** — [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - **defense-in-depth** — [[secure-automated-learning-loops-modal-claude-code]]
 - **delegation** — [[multi-perspective-prd-review-claude-code]]
+- **deltanet** — [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - **designarena** — [[how-openai-sol-learned-design-taste-designarena]]
 - **desktop** — [[claude-cowork-14-day-guide]]
 - **dev-tools** — [[anthropic-ant-cli-guide]]
@@ -4102,6 +4123,7 @@
 - **leverage** — [[effort-position-leverage-principles]]
 - **life** — [[units-of-time-alfred-lin]]
 - **linear** — [[software-factory-linear-claude-cloud-routines]]
+- **linear-attention** — [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - **linux** — [[ubuntu-shuttleworth-story]]
 - **litellm** — [[secure-automated-learning-loops-modal-claude-code]]
 - **llama** — [[Llama SAE Interpretability Project]]
@@ -4123,6 +4145,7 @@
 - **macro** — [[ray-dalio-x-post]]
 - **mai** — [[microsoft-mai-thinking1-rank-noninvariance]]
 - **mai-thinking** — [[are-you-still-tuning-llms-by-hand-gepa]]
+- **mamba** — [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - **markdown** — [[540k-lines-i-didnt-need-garry-tan]]
 - **market-dynamics** — [[effort-position-leverage-principles]]
 - **masked-diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
@@ -4143,7 +4166,6 @@
 - **minimax** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
-- **mla** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **mlops** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **moats** — [[the-untrainable]]
 - **modal** — [[secure-automated-learning-loops-modal-claude-code]]
@@ -4160,7 +4182,6 @@
 - **monetization** — [[athcanft-grow-x-make-money]]
 - **monitoring** — [[anthropic-global-workspace-j-space]]
 - **monte-carlo** — [[markov-chains-polymarket-trading]]
-- **moonshot** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **mqa** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **mrbeast** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **mtp** — [[training-llm-from-scratch-5-lessons]]
