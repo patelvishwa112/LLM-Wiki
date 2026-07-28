@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-28
 
+- Ingest: mckinsey-issue-tree Why What How (nurijanian 2081707189853642988)
+
+## 2026-07-28
+
 - Ingest: What are Looped Transformers Explained clearly (neural_avb 2081741935883223196)
 
 ## 2026-07-28

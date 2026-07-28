@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1014 unique tags across 450 processed notes.
+> 1016 unique tags across 451 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -650,7 +650,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (95)
+### claude-code (96)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -723,6 +723,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
@@ -921,6 +922,14 @@
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[software-factory-linear-claude-cloud-routines]]
+
+### decision-making (5)
+
+- [[antithesis-principle-shreyas-doshi]]
+- [[career-guide-early-twenties-optimize-for-learning]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
+- [[principled-thinking-and-ai-ray-dalio]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 
 ### deep-agents (6)
 
@@ -1725,12 +1734,13 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[how-to-build-ai-agent-swarms]]
 
-### pm (13)
+### pm (14)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[antithesis-principle-shreyas-doshi]]
 - [[ideacide-eleven-filters-drurly]]
 - [[make-requirements-great]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[not-ambitious-enough-with-claude]]
 - [[opportunity-ai-pm-os-workflow]]
@@ -1767,9 +1777,10 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### product-discovery (5)
+### product-discovery (6)
 
 - [[ambient-pm-agents-evidence-first-prd]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[productize-problems-you-already-solved-eptwts]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -1793,7 +1804,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (56)
+### productivity (57)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -1835,6 +1846,7 @@
 - [[ideacide-eleven-filters-drurly]]
 - [[ideas-build-better-personal-network-benln]]
 - [[loopholing-schedule-seams-creatorpascal]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[mcp-server-workflow-problems]]
 - [[metacognition-debug-human-ai-system-stablechen]]
 - [[mid-career-dissatisfaction]]
@@ -2134,7 +2146,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (64)
+### skills (65)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2181,6 +2193,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
 - [[nvidia-skillspector-security-scanner]]
@@ -2451,7 +2464,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
 
-### writing (10)
+### writing (11)
 
 - [[ai-writing-style-personalization]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
@@ -2459,6 +2472,7 @@
 - [[how-to-be-good-at-research]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[human-nature-meta-skill-dan-koe]]
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -2547,6 +2561,11 @@
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
+
+### ai-pm-os (2)
+
+- [[mckinsey-issue-tree-why-what-how-nurijanian]]
+- [[structure-problem-top-down-bottom-up-decision-memo]]
 
 ### ai-policy (2)
 
@@ -2792,13 +2811,6 @@
 
 - [[alignment-faking]]
 - [[deceptive-alignment]]
-
-### decision-making (4)
-
-- [[antithesis-principle-shreyas-doshi]]
-- [[career-guide-early-twenties-optimize-for-learning]]
-- [[principled-thinking-and-ai-ray-dalio]]
-- [[structure-problem-top-down-bottom-up-decision-memo]]
 
 ### deepmind (4)
 
@@ -3871,7 +3883,6 @@
 - **ai-content** — [[ai-content-system-framework]]
 - **ai-ml** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **ai-native** — [[ai-native-engineering-org]]
-- **ai-pm-os** — [[structure-problem-top-down-bottom-up-decision-memo]]
 - **ai-scaffolding** — [[token-capital-scaffolding-process-governance]]
 - **ai-skills** — [[5-ai-skills-six-figures-2027]]
 - **ai-workflows** — [[leopardracer-ai-workflows-prompts]]
@@ -4168,6 +4179,7 @@
 - **market-dynamics** — [[effort-position-leverage-principles]]
 - **masked-diffusion** — [[how-to-build-diffusion-language-model-kuleshov]]
 - **mcts** — [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
+- **mece** — [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - **medallion** — [[jim-simons-medallion-quant-framework]]
 - **medusa** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
@@ -4286,6 +4298,7 @@
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
 - **probes** — [[priests-of-agi-interpretability-crisis]]
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
+- **problem-solving** — [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **product-sense** — [[antithesis-principle-shreyas-doshi]]

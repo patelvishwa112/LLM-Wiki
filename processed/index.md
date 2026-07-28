@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 450 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 451 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -304,6 +304,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [managed-agents-sandbox-mcp.md](/processed/managed-agents-sandbox-mcp.md) — *bookmark* — Claude Managed Agents now support self-hosted sandboxes that keep execution within enterprise perimeters and MCP tunnels that connect agents to private internal services without exposing them to the public internet.
 - [marclou-x-post-2065385672991752210.md](/processed/marclou-x-post-2065385672991752210.md) — *bookmark* — X post by marclou
 - [markov-chains-polymarket-trading.md](/processed/markov-chains-polymarket-trading.md) — *bookmark* — Markov Chains for Polymarket Trading
+- [mckinsey-issue-tree-why-what-how-nurijanian.md](/processed/mckinsey-issue-tree-why-what-how-nurijanian.md) — *bookmark* — Separate cause/plan/solution with MECE Why-, What-, and How-trees before analysis; skill mckinsey-issue-tree in AI PM OS.
 - [mcp-core-architecture-explained.md](/processed/mcp-core-architecture-explained.md) — *bookmark* — MCP core architecture broken into a clean mental model: 8 components (User, Host, Client, Server, Tools, Resources, Prompts, Backend), 5 layers, and strict separation of concerns. Key principle: host orchestrates, cli...
 - [mcp-core-architecture-hosts-clients-servers.md](/processed/mcp-core-architecture-hosts-clients-servers.md) — *bookmark* — Clean mental model for MCP: Host orchestrates user interaction, Client handles protocol, Server exposes Tools/Resources/Prompts, Backend systems do the real work. Emphasizes separation of concerns, proper capability m...
 - [mcp-model-context-protocol.md](/processed/mcp-model-context-protocol.md) — *bookmark* — "Arun Chauhan (@imarun_chauhan) explains Model Context Protocol (MCP) as an open-source standard that unifies how AI agents connect to external tools, data sources, and workflows. Contrasts fragmented custom integrati...
