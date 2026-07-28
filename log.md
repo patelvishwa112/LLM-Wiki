@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-28
 
+- Ingest: What are Looped Transformers Explained clearly (neural_avb 2081741935883223196)
+
+## 2026-07-28
+
 - Ingest: 22580 From GPT2 to Kimi3 Explained (waterloo_intern 2081762065392541951)
 
 ## 2026-07-27

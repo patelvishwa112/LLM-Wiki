@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1013 unique tags across 449 processed notes.
+> 1014 unique tags across 450 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -507,7 +507,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (24)
+### architecture (25)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -523,6 +523,7 @@
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[learnings-training-llm-from-scratch]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
@@ -1191,7 +1192,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (18)
+### inference (19)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1205,6 +1206,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
@@ -1498,7 +1500,7 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
 
-### ml-research (10)
+### ml-research (11)
 
 - [[0xsojalsec-llms-local]]
 - [[aiedge-glm-5.2-guide]]
@@ -1509,9 +1511,10 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (21)
+### models (22)
 
 - [[adapad-lora-parallel-deflation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -1528,6 +1531,7 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[mosaic-probabilistic-weather-model]]
 - [[parameter-decomposition-vs-sae-interpretability]]
@@ -1535,10 +1539,11 @@
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
 
-### moe (5)
+### moe (6)
 
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
@@ -2303,7 +2308,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (60)
+### training (61)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2336,6 +2341,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[multi-lora-training-osmosis]]
@@ -2366,7 +2372,7 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (11)
+### transformers (12)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-research-job-search-alisa-wuffles]]
@@ -2378,6 +2384,7 @@
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[what-is-kv-cache-llms]]
 
 ### venture-capital (5)
@@ -3171,9 +3178,10 @@
 - [[how-to-use-rlms-in-deep-agents]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### looped-transformers (2)
+### looped-transformers (3)
 
 - [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
 ### managed-agents (3)
@@ -3467,6 +3475,11 @@
 - [[controlling-reasoning-effort-in-llms]]
 - [[hrm-text-1b-reasoning-model]]
 
+### recurrence (2)
+
+- [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
+
 ### recursive-language-models (3)
 
 - [[how-to-use-rlms-in-deep-agents]]
@@ -3698,6 +3711,11 @@
 - [[claude-code-slash-command-library]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[spec-kit-github-sdd]]
+
+### test-time-compute (2)
+
+- [[looped-nanochat-two-pass-routing-kyleliang]]
+- [[looped-transformers-explained-neural-avb]]
 
 ### throughput (3)
 
@@ -4285,7 +4303,6 @@
 - **reading-writing** — [[zen-and-the-art-of-ai-research]]
 - **reasoning-models** — [[why-on-policy-distillation-works]]
 - **recognition-primed-decision-making** — [[pattern-recognition-as-expertise-jaynitx]]
-- **recurrence** — [[looped-nanochat-two-pass-routing-kyleliang]]
 - **red-teaming** — [[red-teaming]]
 - **reddit-scraping** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **refusal** — [[how-to-actually-use-claude-fable-5]]
@@ -4399,7 +4416,6 @@
 - **teresa-torres** — [[opportunity-ai-pm-os-workflow]]
 - **terse** — [[secure-automated-learning-loops-modal-claude-code]]
 - **test-suites** — [[loop-driven-development]]
-- **test-time-compute** — [[looped-nanochat-two-pass-routing-kyleliang]]
 - **test-time-training** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **testing-business-ideas** — [[testing-business-ideas-product-operating-system]]
 - **thinky-machines** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
@@ -4425,6 +4441,7 @@
 - **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]
 - **ubuntu** — [[ubuntu-shuttleworth-story]]
+- **universal-transformer** — [[looped-transformers-explained-neural-avb]]
 - **unsloth** — [[google-gemma-4-12b-local-fine-tuning]]
 - **user-research** — [[ten-commandments-building-product-feitong-yang]]
 - **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 449 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 450 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -291,6 +291,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [loop-engineering-technical-roadmap-h100envy.md](/processed/loop-engineering-technical-roadmap-h100envy.md) — *bookmark* — Step-by-step technical roadmap for autonomous agent loops: external deterministic checks, stateless iterations, narrow context budgets, anti-reward-hacking gates, disk state, isolation, and JSONL observability.
 - [loop-engineering.md](/processed/loop-engineering.md) — *bookmark* — Loop engineering = designing the system that prompts agents instead of prompting them yourself. Five building blocks: automations, worktrees, skills, plugins/connectors, sub-agents + external memory. Both Codex and Cl...
 - [looped-nanochat-two-pass-routing-kyleliang.md](/processed/looped-nanochat-two-pass-routing-kyleliang.md) — *bookmark* — Looped Nanochat: shared-weight two-pass Transformer with gated first-pass Q/K attention priors; +9–12% CORE, GSM8K relative +45% at ~2.4× train compute; K>2 untrained fails.
+- [looped-transformers-explained-neural-avb.md](/processed/looped-transformers-explained-neural-avb.md) — *bookmark* — Looped Transformers reuse the same layers for iterative latent thinking — parameter savings with FLOPs similar to deeper stacks; UT→Huginn→MoR→Loopie lineage.
 - [looped-ttt-test-time-training-looped-transformers-alvinzh.md](/processed/looped-ttt-test-time-training-looped-transformers-alvinzh.md) — *article* — Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal ...
 - [loopholing-schedule-seams-creatorpascal.md](/processed/loopholing-schedule-seams-creatorpascal.md) — *bookmark* — Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep.
 - [loops-vs-graphs-polygres-infinite-context-daleverett.md](/processed/loops-vs-graphs-polygres-infinite-context-daleverett.md) — *bookmark* — Dale Everett on Steinberger loops-vs-graphs: a loop is a degenerate graph; transcript-as-string is a bad DB. Distinguish control/execution/data graphs; Polygres stores all on Postgres so execution joins the data graph...
