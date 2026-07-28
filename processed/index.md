@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 454 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 455 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -241,6 +241,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-give-your-agent-memory.md](/processed/how-to-give-your-agent-memory.md) — *bookmark* — LangChain's Jake Broekhuizen on closing the agent memory loop with traces, analysis, and versioned context via LangSmith Observability, Engine, and Context Hub.
 - [how-to-have-better-conversations-lifemaxx.md](/processed/how-to-have-better-conversations-lifemaxx.md) — *bookmark* — Six conversation habits: real curiosity, humble opinions, common-ground first, make others feel important, nonverbal presence, novelty — craft over charisma.
 - [how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md](/processed/how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md) — *bookmark* — Jason (@jxnlco) replaces human ghostwriting with ChatGPT live voice + Codex: talk-walk transcripts, only-use-my-words essay skill, then FFmpeg/Remotion video essay edits — open skills in jxnl/dots.
+- [how-to-never-run-out-of-writing-ideas-nicolas-cole.md](/processed/how-to-never-run-out-of-writing-ideas-nicolas-cole.md) — *bookmark* — Question-based content engine — collect nuanced questions, unbundle angles, answer via 10 Magical Ways formats
 - [how-to-read-company-ai-analyst.md](/processed/how-to-read-company-ai-analyst.md) — *bookmark* — How to Read Any Company With AI Like an Analyst
 - [how-to-use-gpt-56-all-day-without-limits-sairahul1.md](/processed/how-to-use-gpt-56-all-day-without-limits-sairahul1.md) — *bookmark* — Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clone subagents); Sol Extra High + Sol Medium + Luna Extra High; max_depth=1; AGENTS.md no auto-spawn; explicit stop points.
 - [how-to-use-rlms-in-deep-agents.md](/processed/how-to-use-rlms-in-deep-agents.md) — *bookmark* — Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent.

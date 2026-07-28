@@ -26,6 +26,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]] — [How To Build a Second Brain That Runs Itself With Obsidian (Full Course)](https://x.com/eng_khairallah1/status/2066437136354545981) `[obsidian, second-brain, agents, kimi-work, agent-swarm, knowledge-graph, atomic-notes, friction, playbooks, mcp, night-shift]`
 - [[how-to-set-up-your-content-system]] — [how to set up your content system](https://x.com/shannholmberg/status/2053077052069449780)
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity]`
+- [[how-to-never-run-out-of-writing-ideas-nicolas-cole]] — [How To Never Run Out Of Writing Ideas Again](https://x.com/nicolascole77/status/2081721221100740615) `[writing, content-strategy, creator-economy, productivity, ghostwriting, ideation, audience-building]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[hermes-agent-changed-how-i-work]] — [Hermes Agent changed how I work](https://x.com/shannholmberg/status/2055335043904492011)
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]] — [How to Find Business Ideas by Reading What People Already Want](https://x.com/damir_akaza/article/2059621796052193667)
@@ -457,6 +458,7 @@
 - [[ideas-build-better-personal-network-benln]] — [Ideas to help you build a better personal network](https://x.com/benln/status/2076351797673824318) `[networking, career, productivity, soft-skills, relationships, communication]`
 - [[how-to-have-better-conversations-lifemaxx]] — [How To Have Better Conversations](https://x.com/lifemaxxjourney/status/2078571200956301691) `[productivity, communication, soft-skills, networking, relationships, career]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] — [Five skills to hit $10k/month as a premium ghostwriter](https://x.com/nicolascole77/status/2069037098464940233) `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
+- [[how-to-never-run-out-of-writing-ideas-nicolas-cole]] — [Never run out of writing ideas — questions + 10 Magical Ways (Cole)](https://x.com/nicolascole77/status/2081721221100740615) `[writing, content-strategy, creator-economy, productivity, ghostwriting, ideation, audience-building, digital-writing]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Never get writer's block — ChatGPT Voice + Codex (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[david-ogilvy-writing-coach-claude-skill]] — [David Ogilvy Writing Coach — Claude Skill](https://x.com/nicolascole77/status/2072662998326415447) `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[bezos-writing-framework-six-page-memos-dickiebush]] — [Bezos Writing Framework — 6-page narrative memos](https://x.com/dickiebush/status/2078096611138580818) `[writing, productivity, content-strategy, creator-economy, communication, amazon, clear-thinking, memos]`
@@ -710,6 +712,7 @@
 - [[how-to-have-better-conversations-lifemaxx]] `[productivity, communication, soft-skills, networking, relationships, career, creator-economy]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
+- [[how-to-never-run-out-of-writing-ideas-nicolas-cole]] `[writing, content-strategy, creator-economy, productivity, ghostwriting, audience-building, ideation, digital-writing]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] `[codex, gpt-5.6, cost-optimization, subagents, agent-harness, routing, openai, sol, luna, productivity]`
