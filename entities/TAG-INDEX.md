@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1022 unique tags across 453 processed notes.
+> 1022 unique tags across 454 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,13 +27,14 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (105)
+### agent-harness (106)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[Dynamic Workflows in Claude Code]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[addy-osmani-agent-skills-open-source]]
+- [[aftermarket-harnesses-ttunguz]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -431,6 +432,14 @@
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
 
+### ai-economics (5)
+
+- [[aftermarket-harnesses-ttunguz]]
+- [[economy-of-tokens-vipulved-modular-ai]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[the-untrainable]]
+- [[who-will-set-price-intelligence]]
+
 ### ai-research (6)
 
 - [[ai-research-job-search-alisa-wuffles]]
@@ -440,8 +449,9 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (7)
+### ai-strategy (8)
 
+- [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
@@ -653,7 +663,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (97)
+### claude-code (98)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -663,6 +673,7 @@
 - [[Dynamic Workflows in Claude Code]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[addy-osmani-agent-skills-open-source]]
+- [[aftermarket-harnesses-ttunguz]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-memory-landscape-2026]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -777,10 +788,11 @@
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### codex (20)
+### codex (21)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
+- [[aftermarket-harnesses-ttunguz]]
 - [[agent-memory-landscape-2026]]
 - [[buzz-open-source-workspace-block-jack]]
 - [[coding-agent-harness-eight-pillars]]
@@ -881,9 +893,10 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (20)
+### cost-optimization (21)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
+- [[aftermarket-harnesses-ttunguz]]
 - [[agent-swarms-production-governance]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[claude-code-cost-optimization-prompts]]
@@ -1129,9 +1142,10 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (30)
+### harness-engineering (31)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
+- [[aftermarket-harnesses-ttunguz]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[dive-into-claude-code-vila-lab]]
@@ -1261,8 +1275,9 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### investing (8)
+### investing (9)
 
+- [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[how-to-read-company-ai-analyst]]
@@ -2307,8 +2322,9 @@
 - [[agent-harness-should-repair-itself]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 
-### token-economy (5)
+### token-economy (6)
 
+- [[aftermarket-harnesses-ttunguz]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
@@ -2415,8 +2431,9 @@
 - [[looped-transformers-explained-neural-avb]]
 - [[what-is-kv-cache-llms]]
 
-### venture-capital (5)
+### venture-capital (6)
 
+- [[aftermarket-harnesses-ttunguz]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[the-untrainable]]
@@ -2563,13 +2580,6 @@
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[coding-agent-harness-eight-pillars]]
-
-### ai-economics (4)
-
-- [[economy-of-tokens-vipulved-modular-ai]]
-- [[goldmine-selling-data-frontier-labs-viks-rum]]
-- [[the-untrainable]]
-- [[who-will-set-price-intelligence]]
 
 ### ai-engineering (4)
 
@@ -2795,8 +2805,9 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[pytorch-profiler-beginners-guide]]
 
-### cursor (2)
+### cursor (3)
 
+- [[aftermarket-harnesses-ttunguz]]
 - [[human-in-the-loop-agent-loops]]
 - [[nvidia-skillspector-security-scanner]]
 
@@ -3458,8 +3469,9 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
 
-### prompt-caching (2)
+### prompt-caching (3)
 
+- [[aftermarket-harnesses-ttunguz]]
 - [[deep-agents-prompt-caching]]
 - [[vscode-copilot-token-efficiency]]
 

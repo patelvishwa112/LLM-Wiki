@@ -75,6 +75,7 @@
 - [[claude-cowork-14-day-guide]] — [Claude Cowork — The 14-Day Guide to Desktop Automation](https://x.com/eng_khairallah1/status/2061735480862150850)
 - [[Dynamic Workflows in Claude Code]] — [A Harness for Every Task: Dynamic Workflows in Claude Code](https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code)
 - [[harness-is-the-product-context-aware-agents]] — [The Harness Is the Product: Building Context-Aware Agent Harnesses](https://x.com/0x_kaize/status/2063343984521490722) `[agents, harness, context-management, context-engineering, compaction, agent-architecture, subagents, context-rot, token-economy, hydradb]`
+- [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — harness moves benchmarks more than model (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, cursor, claude-code, codex, ai-economics]`
 - [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, context-management, productivity, verification, human-ai, attention, debugging]`
@@ -287,6 +288,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — Cursor vs native Codex/Claude Code deltas (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, cursor, claude-code, codex]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
 - [[build-claude-code-harness-crewai-akshay]] — [Let's build Claude Code's harness in CrewAI (Akshay)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents]`
@@ -374,6 +376,7 @@
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — input-token bill + harness battleground (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[ai-economics, venture-capital, ai-strategy, harness-engineering, cost-optimization, prompt-caching, investing]`
 - [[goldmine-selling-data-frontier-labs-viks-rum]] — [The goldmine business of selling data to frontier labs](https://x.com/viks_rum/status/2077650169265590727) `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
 - [[wtf-is-storytelling-for-vcs-laurie-owen]] — [WTF is Storytelling for VCs? — four fund narrative frames](https://x.com/imlaurieowen/status/2077440615214686259) `[venture-capital, investing, storytelling, writing, marketing, content-strategy, startups, fundraising]`
 - [[beginners-guide-physical-ai-stack-muskan-kalra]] — [Physical AI stack map — capital + 5 layers (Kalra)](https://x.com/muskan_kalra24/status/2077090406819647871) `[robotics, physical-ai, investing, humanoids, ai-strategy, hardware]`
@@ -551,6 +554,7 @@
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[addy-osmani-agent-skills-open-source]] `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
+- [[aftermarket-harnesses-ttunguz]] `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, ai-strategy, cursor, claude-code, codex, token-economy, investing]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick, background-agents]`
 - [[aiedge]] `[agents]`

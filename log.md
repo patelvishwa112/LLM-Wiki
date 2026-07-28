@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-07-28
 
+- Ingest: Aftermarket Harnesses (ttunguz 2082158740107866459)
+
+## 2026-07-28
+
 - Ingest: How to Build a Company OS using Kimi K3 (av1dlive 2079607748396994789)
 
 ## 2026-07-28
