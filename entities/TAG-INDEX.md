@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1019 unique tags across 452 processed notes.
+> 1022 unique tags across 453 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (104)
+### agent-harness (105)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -78,6 +78,7 @@
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -170,7 +171,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (33)
+### agent-ops (34)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -190,6 +191,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[llms-securing-source-code]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[managed-agents-built-in-memory]]
@@ -216,7 +218,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (209)
+### agents (210)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -326,6 +328,7 @@
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
@@ -984,7 +987,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (24)
+### enterprise (25)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -998,6 +1001,7 @@
 - [[claude-managed-agents]]
 - [[enterprise-and-industry-applications]]
 - [[glean-coding-harness-programmatic-tool-calling]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[llms-securing-source-code]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-sandbox-mcp]]
@@ -1125,7 +1129,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
-### harness-engineering (29)
+### harness-engineering (30)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -1141,6 +1145,7 @@
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[harness-engineering-2026-discipline]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
@@ -1192,12 +1197,13 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### human-in-the-loop (8)
+### human-in-the-loop (9)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
@@ -1266,11 +1272,12 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### kimi (5)
+### kimi (6)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - [[self-improving-agent-swarm-kimi-loop]]
 
@@ -1559,7 +1566,7 @@
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 
-### multi-agent (43)
+### multi-agent (44)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1583,6 +1590,7 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[human-in-the-loop-agent-loops]]
 - [[introducing-dynamic-subagents-deep-agents]]
@@ -1683,7 +1691,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[waku-agent-github]]
 
-### orchestration (34)
+### orchestration (35)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1708,6 +1716,7 @@
 - [[guide-to-goal-codex]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[iii-agent-harness-workers]]
 - [[introducing-dynamic-subagents-deep-agents]]
@@ -2414,7 +2423,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (30)
+### verification (31)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2432,6 +2441,7 @@
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-three-commitments-cyrilxbt]]
+- [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
@@ -3955,6 +3965,7 @@
 - **collective-intelligence** — [[sakana-fugu-orchestrator-models]]
 - **communities** — [[0xsojalsec-llms-local]]
 - **company-brain** — [[memory-is-retained-consequence]]
+- **company-os** — [[how-to-build-company-os-kimi-k3]]
 - **compilation** — [[torch-internals-part1-fx-graphs]]
 - **compliance** — [[claude-compliance-security-partners]]
 - **compounding-systems** — [[token-capital-scaffolding-process-governance]]
@@ -4147,6 +4158,7 @@
 - **kernel-engineering** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- **kimi-k3** — [[how-to-build-company-os-kimi-k3]]
 - **kimi-work** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **kl-divergence** — [[rl-algo-comprehensive-qa]]
 - **knowledge-base** — [[cerebras-knowledge-base-hybrid-search-mcp]]
@@ -4416,6 +4428,7 @@
 - **sqlite** — [[waku-agent-github]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
+- **state-management** — [[how-to-build-company-os-kimi-k3]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
 - **statistics** — [[luck-runs-out-on-schedule-trading-0xspivach]]
 - **storm** — [[stanford-storm-method-claude-research]]

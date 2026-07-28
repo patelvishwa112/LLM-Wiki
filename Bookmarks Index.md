@@ -87,6 +87,7 @@
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] — [How to Build a Claude Skill (Never Paste the Same Prompt Twice)](https://x.com/0xlagosaur/status/2068693290581414390) `[skills, claude, claude-code, prompt-engineering, progressive-disclosure]`
 - [[how-to-build-agent-that-never-forgets]] — [how to build an agent that never forgets](https://x.com/rohit4verse/status/2012925228159295810) `[agents, memory, knowledge-graphs, architecture]`
 - [[how-to-build-ai-agent-swarms]] — [How to Build AI Agent Swarms (Complete Guide)](https://x.com/av1dlive/status/2062561213532471707) `[agents, multi-agent, swarms, kimi, claude]`
+- [[how-to-build-company-os-kimi-k3]] — [How to Build a Company OS using Kimi K3 (Builder's Guide)](https://x.com/av1dlive/status/2079607748396994789) `[agents, agent-harness, harness-engineering, multi-agent, kimi-k3, company-os, human-in-the-loop, verification, agent-ops]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] — [From 1 agent to a swarm: a roadmap for orchestrating agent loops](https://x.com/0xmorlex/status/2070079645148451263) `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness]`
 - [[orchestrating-agents-adk-fhinkel]] — [Orchestrating Agents in ADK](https://x.com/fhinkel/status/2076782085516493079) `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [How to Build a Conductor: Multi-Agent Loops from Scratch](https://x.com/leanxbt/status/2076679468186513600) `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor]`
@@ -328,6 +329,7 @@
 - [[context-engineering-os-loop-engineering-vartekxx]] — [Prompt is one instruction; context is the OS; loops automate it (Karpathy + Cherny)](https://x.com/vartekxx/status/2074864291568664646) `[context-engineering, loop-engineering, prompt-engineering, agent-harness, claude-code, verification, context-rot, skills]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, harness-engineering, context-management, verification, human-ai, attention]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
+- [[how-to-build-company-os-kimi-k3]] — [Company OS — nine elements, gates, fenced Kimi runtime (Av1d)](https://x.com/av1dlive/status/2079607748396994789) `[company-os, harness-engineering, agent-harness, human-in-the-loop, kimi-k3, multi-agent, verification, agent-ops]`
 - [[buzz-open-source-workspace-block-jack]] — [Buzz — Nostr/crypto identity workspace, people + agents equal (Jack/Block)](https://x.com/jack/status/2080056638820450400) `[agents, agent-harness, harness-engineering, enterprise, open-source, nostr, block, goose, context-management, agent-ops]`
 
 ### Evals
@@ -693,6 +695,7 @@
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
 - [[how-to-build-ai-agent-swarms]] `[agents, multi-agent, swarms, orchestration, kimi, claude, kimi-k2, parallelism, rl]`
+- [[how-to-build-company-os-kimi-k3]] `[agents, agent-harness, harness-engineering, multi-agent, kimi, kimi-k3, company-os, human-in-the-loop, verification, orchestration, agent-ops, enterprise, state-management]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor, harness-engineering]`
 - [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[how-to-build-diffusion-language-model-kuleshov]] `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, transformers, tutorial]`
