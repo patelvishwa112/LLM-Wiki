@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1023 unique tags across 455 processed notes.
+> 1025 unique tags across 456 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -432,11 +432,12 @@
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
 
-### ai-economics (5)
+### ai-economics (6)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
@@ -520,7 +521,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (25)
+### architecture (26)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -534,6 +535,7 @@
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[learnings-training-llm-from-scratch]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-transformers-explained-neural-avb]]
@@ -1144,6 +1146,14 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 
+### hardware (5)
+
+- [[0xsojalsec-llms-local]]
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[how-gpu-executes-code-first-principles]]
+- [[inference-engines-2026]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
+
 ### harness-engineering (31)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1225,7 +1235,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (19)
+### inference (20)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1237,6 +1247,7 @@
 - [[inference-engines-2026]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-transformers-explained-neural-avb]]
@@ -1277,25 +1288,27 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### investing (9)
+### investing (10)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[how-to-read-company-ai-analyst]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[principled-thinking-and-ai-ray-dalio]]
 - [[ray-dalio-x-post]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### kimi (6)
+### kimi (7)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[self-improving-agent-swarm-kimi-loop]]
 
 ### knowledge-graph (12)
@@ -1313,7 +1326,7 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 
-### kv-cache (14)
+### kv-cache (15)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[continuous-batching-grpo-trl]]
@@ -1321,6 +1334,7 @@
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
@@ -1509,7 +1523,7 @@
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[zen-and-the-art-of-ai-research]]
 
-### memory (14)
+### memory (15)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-memory-landscape-2026]]
@@ -1520,6 +1534,7 @@
 - [[designing-loops-with-fable-5]]
 - [[graph-memory-reconstruction-llms]]
 - [[how-to-build-agent-that-never-forgets]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-dreaming-orchestration]]
@@ -1549,7 +1564,7 @@
 - [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (22)
+### models (23)
 
 - [[adapad-lora-parallel-deflation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -1566,6 +1581,7 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[hrm-text-1b-reasoning-model]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[looped-transformers-explained-neural-avb]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[mosaic-probabilistic-weather-model]]
@@ -3105,13 +3121,6 @@
 - [[ai-agent-loop-architecture-buinevici]]
 - [[twenty-core-agent-concepts-sairahul1]]
 
-### hardware (4)
-
-- [[0xsojalsec-llms-local]]
-- [[beginners-guide-physical-ai-stack-muskan-kalra]]
-- [[how-gpu-executes-code-first-principles]]
-- [[inference-engines-2026]]
-
 ### harness (2)
 
 - [[coding-agent-harness-eight-pillars]]
@@ -3173,6 +3182,11 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
+### kimi-k3 (2)
+
+- [[how-to-build-company-os-kimi-k3]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
+
 ### knowledge-graphs (3)
 
 - [[how-to-build-agent-that-never-forgets]]
@@ -3199,6 +3213,11 @@
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[vscode-copilot-token-efficiency]]
 
+### linear-attention (2)
+
+- [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
+
 ### llm-engineering (2)
 
 - [[coding-agent-harness-eight-pillars]]
@@ -3219,10 +3238,11 @@
 - [[0xsojalsec-llms-local]]
 - [[21-agent-building-mistakes]]
 
-### long-context (3)
+### long-context (4)
 
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-use-rlms-in-deep-agents]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
 ### looped-transformers (3)
@@ -3275,9 +3295,10 @@
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 
-### mla (2)
+### mla (3)
 
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
 ### mlx (3)
@@ -3286,10 +3307,11 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### moonshot (2)
+### moonshot (3)
 
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
 ### mythos (4)
 
@@ -4171,14 +4193,15 @@
 - **j-space** — [[anthropic-global-workspace-j-space]]
 - **jailbreaks** — [[jailbreaks-and-defenses]]
 - **javascript-engine** — [[browser-internals-chromium-architecture]]
+- **jevon-paradox** — [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - **jim-simons** — [[jim-simons-medallion-quant-framework]]
 - **judgment** — [[level-above-phd-knowledge-works-without-you]]
 - **kanban** — [[hermes-kanban-mission-control]]
+- **kda** — [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - **kernel-analysis** — [[pytorch-profiler-beginners-guide]]
 - **kernel-engineering** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **kimi-k2** — [[how-to-build-ai-agent-swarms]]
 - **kimi-k2.6** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
-- **kimi-k3** — [[how-to-build-company-os-kimi-k3]]
 - **kimi-work** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **kl-divergence** — [[rl-algo-comprehensive-qa]]
 - **knowledge-base** — [[cerebras-knowledge-base-hybrid-search-mcp]]
@@ -4192,7 +4215,6 @@
 - **leverage** — [[effort-position-leverage-principles]]
 - **life** — [[units-of-time-alfred-lin]]
 - **linear** — [[software-factory-linear-claude-cloud-routines]]
-- **linear-attention** — [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - **linux** — [[ubuntu-shuttleworth-story]]
 - **litellm** — [[secure-automated-learning-loops-modal-claude-code]]
 - **llama** — [[Llama SAE Interpretability Project]]

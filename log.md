@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-07-29
+
+- Ingest: Kimi K3 memory savings vs Jevon's paradox (bookwormengr 2082377457852920075)
+
 ## 2026-07-28
 
 - Ingest: How To Never Run Out Of Writing Ideas Again (nicolascole77 2081721221100740615)

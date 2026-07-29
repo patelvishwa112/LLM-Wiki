@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 455 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 456 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -271,6 +271,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [karpathy-autoresearch-marketing-optimization.md](/processed/karpathy-autoresearch-marketing-optimization.md) — *bookmark* — Karpathy AutoResearch for Marketing Optimization
 - [keeping-up-ai-skills-job-listings-loganthorneloe.md](/processed/keeping-up-ai-skills-job-listings-loganthorneloe.md) — *bookmark* — Logan Thorneloe on sourcing durable AI skills from job qualifications, curated RSS + agent filter, X/Substack, and interest-aligned depth.
 - [kimi-k2.6-agent-swarm-300-parallel-agents.md](/processed/kimi-k2.6-agent-swarm-300-parallel-agents.md) — *article* — Kimi K2.6: 300 Parallel Agents in One Run
+- [kimi-k3-memory-savings-jevon-bookwormengr.md](/processed/kimi-k3-memory-savings-jevon-bookwormengr.md) — *bookmark* — Kimi K3 KDA hybrid linear at frontier scale — ~73% KV/state savings vs all-MLA; memory-stock debate vs Jevon's paradox
 - [knowledge-distillation-theturingpost.md](/processed/knowledge-distillation-theturingpost.md) — *bookmark* — "@TheTuringPost explains Knowledge Distillation (KD) as a core technique for creating smaller, capable models. Instead of training from scratch, a large teacher model transfers 'dark knowledge' (confidence distributio...
 - [knowledge-system-compounding-obsidian-vellum.md](/processed/knowledge-system-compounding-obsidian-vellum.md) — *bookmark* — Knowledge System That Compounds
 - [kv-caching-llms-clearly-explained-avichawla.md](/processed/kv-caching-llms-clearly-explained-avichawla.md) — *bookmark* — Avi Chawla: six-part KV cache primer — last-token generation, Q/K/V reuse, O(n²) waste without cache, prefill vs decode (TTFT), memory cost (Qwen 72B example), GQA/MQA and paged attention follow-ons; ~5× decode speedu...
