@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-02
 
+- Refresh raw via Playwright MCP: 8 X bookmarks (slime, fine-tune, marfin master-arch, FDE, context-delete, Kimi K3, GRPO class3, loop-graph-harness)
+
+## 2026-08-02
+
 - Ingest: LOOP GRAPH HARNESS pipeline (ArchiveExplorer 2080621294979023358)
 
 ## 2026-08-02
