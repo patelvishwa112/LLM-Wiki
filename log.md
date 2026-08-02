@@ -2,6 +2,38 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-02
+
+- Ingest: LOOP GRAPH HARNESS pipeline (ArchiveExplorer 2080621294979023358)
+
+## 2026-08-02
+
+- Ingest: Training Agents Class 3 GRPO TRL (SergioPaniego 2082469796893839393)
+
+## 2026-08-02
+
+- Ingest: Kimi K3 explained forgetting (swill1ams 2082856158520398279)
+
+## 2026-08-02
+
+- Ingest: Context engineering delete audit (free_ai_guides 2082463119742320825)
+
+## 2026-08-02
+
+- Ingest: Forward Deployed Engineer roadmap (0xMorlex 2083144963819270357)
+
+## 2026-08-02
+
+- Ingest: Master Agent Architecture harness loop graph (marfinxx 2081687570488954915)
+
+## 2026-08-02
+
+- Ingest: How to Fine-Tune LLMs in 2026 GRPO RULER ART (akshay_pachaar 2029212227438518406)
+
+## 2026-08-02
+
+- Ingest: slime open-source RL kernel GLM (DailyDoseOfDS_ 2083123018914746803)
+
 ## 2026-07-29
 
 - Ingest: Kimi K3 memory savings vs Jevon's paradox (bookwormengr 2082377457852920075)

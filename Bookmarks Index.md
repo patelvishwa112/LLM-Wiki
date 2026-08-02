@@ -84,6 +84,7 @@
 - [[claude-code-changed-what-agents-look-like]] — [Claude Code Just Changed What "Agents" Look Like](https://x.com/suryanshti777/status/2061393185126097356) `[claude-code, agents, agent-architecture, verification, memory, tools, workflows, autonomous, production]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
 - [[new-rules-context-engineering-claude-5-trq212]] — [New rules of context engineering for Claude 5 (80% system prompt cut)](https://x.com/trq212/status/2080710971228918066) `[context-engineering, claude-code, claude, fable, opus, skills, progressive-disclosure, agent-harness, anthropic, agents]`
+- [[context-engineering-delete-audit-free-ai-guides]] — [Context engineering rules changed — 4-layer delete audit](https://x.com/free_ai_guides/status/2082463119742320825) `[context-engineering, prompt-engineering, claude-code, agents, agent-harness, skills, mcp, compaction]`
 - [[generative-ui-is-the-new-frontend]] — [Generative UI Is the New Frontend](https://x.com/saboo_shubham_/status/2062220865643982875) `[agents, generative-ui, mcp, ag-ui]`
 - [[feedback-loops-claude-code-less-babysitting]] — [Feedback loops: Help Claude Code complete ambitious tasks with less babysitting](https://x.com/delba_oliveira/status/2062203743387459836) `[claude-code, agents, skills, verification]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] — [How to Build a Claude Skill (Never Paste the Same Prompt Twice)](https://x.com/0xlagosaur/status/2068693290581414390) `[skills, claude, claude-code, prompt-engineering, progressive-disclosure]`
@@ -99,11 +100,15 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] — [Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers](https://x.com/sydneyrunkle/status/2062588423295111208) `[agents, langgraph, fault-tolerance, production]`
 - [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer — evals, harness, multi-agent DS](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems]`
+- [[forward-deployed-engineer-roadmap-morlex]] — [Forward Deployed Engineer 8-step roadmap ($215K–$785K)](https://x.com/0xMorlex/status/2083144963819270357) `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
 - [[ai-research-job-search-alisa-wuffles]] — [AI research interview playbook — Alisa Wuffles (57 interviews → OpenAI)](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, transformers, learning]`
 - [[2-ways-self-evolving-agents-model-harness]] — [2 Ways towards Self-Evolving Agents](https://x.com/qinzytech/status/2066585405479371092) `[agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]`
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
 - [[research-world-model-distill-ai-researcher-amber-liu]] — [How to Distill a $10M+ AI Researcher — Research World Model](https://x.com/jiachenliu8/status/2074558254328455577) `[ai-research, research-world-model, agents, knowledge-graph, arc-agi, claude-code, career]`
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]] — [Verifiability constraint — RLVR and unverifiable domains](https://x.com/tanayj/status/2072766211256119475) `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
+- [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] — [How to Fine-Tune LLMs in 2026 — GRPO + RULER + ART](https://x.com/akshay_pachaar/status/2029212227438518406) `[rl, training, fine-tuning, grpo, agents, evals, openpipe, art, ruler, lora, post-training]`
+- [[slime-open-source-rl-kernel-glm-dailydose]] — [slime — open-source RL kernel behind GLM-5.2](https://x.com/DailyDoseOfDS_/status/2083123018914746803) `[rl, training, post-training, agents, open-source, glm, megatron, sglang, slime]`
+- [[grpo-trl-training-agents-class3-sergiopaniego]] — [Training Agents Class 3 — GRPO with TRL resources](https://x.com/SergioPaniego/status/2082469796893839393) `[rl, grpo, trl, training, agents, huggingface, post-training, evals]`
 - [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — turn-level credit for long-horizon tool agents (arXiv:2607.13988)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, rlvr, grpo, post-training, tool-use, qwen, long-horizon, browsecomp]`
 - [[understanding-video-models-rl-post-training]] — [Understanding Video Models: Part III - RL Post-Training](https://x.com/majumdar_ani/status/2078508177620926531) `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training]`
 - [[universal-agent-thesis]] — [Universal AgentThesis](https://x.com/cobusgreylingza/status/2066593705906012188) `[agents, agent-harness, self-evolving-agents, tool-use, autonomy, architecture]`
@@ -142,6 +147,8 @@
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]] — [Graph engineering: fake edges, diamond, anchors](https://x.com/anatolikopadze/status/2080668775796314331) `[graph-engineering, loop-engineering, multi-agent, verification, claude-code, dynamic-workflows, cost-optimization]`
 - [[graph-engineering-substance-over-meme-akshay]] — [Graph engineering: substance over the meme](https://x.com/akshay_pachaar/status/2081089131808243999) `[graph-engineering, loop-engineering, multi-agent, orchestration, verification, langgraph, cost-optimization]`
 - [[graph-engineering-three-commitments-cyrilxbt]] — [Graph engineering course — immutable plan, separated layers, strict escalation](https://x.com/cyrilxbt/status/2081212504093446357) `[graph-engineering, loop-engineering, agents, agent-harness, harness-engineering, verification, human-in-the-loop, escalation, auditability]`
+- [[master-agent-architecture-harness-loop-graph-marfin]] — [Master Agent Architecture — unify harness, loop, graph](https://x.com/marfinxx/status/2081687570488954915) `[agents, agent-harness, harness-engineering, loop-engineering, graph-engineering, verification, claude-code, subagents, production]`
+- [[loop-graph-harness-pipeline-archiveexplorer]] — [LOOP → GRAPH → HARNESS pipeline + offline demo repo](https://x.com/ArchiveExplorer/status/2080621294979023358) `[loop-engineering, graph-engineering, harness-engineering, agents, agent-harness, verification, context-management, subagents, production]`
 - [[graph-engineering-multi-factor-alpha-rohonchain]] — [Graph engineering multi-factor alpha model (RohOnChain / Slate)](https://x.com/rohonchain/status/2080296261576687751) `[agents, graph-engineering, multi-agent, trading, quant, factor-model, slate, verification, loop-engineering]`
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]] — [Loops vs graphs — control/execution/data graphs + Infinite Context (Polygres)](https://x.com/daleverett/status/2078969402046009374) `[agents, loop-engineering, multi-agent, orchestration, agent-memory, langgraph, postgres, polygres, context-management, agent-harness]`
 - [[thinking-database-infinite-context-polygres-daleverett]] — [Thinking database / infinite context (Polygres)](https://x.com/daleverett/status/2080883869281386672) `[polygres, postgres, agent-memory, knowledge-graph, context-management, databases]`
@@ -215,6 +222,7 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] — [Sparse attention design space — DSA/MSA/Inkling/KDA for 1M context](https://x.com/cyrusasg/status/2080697631286681998) `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax]`
 - [[gpt2-to-kimik3-architecture-22580-waterloo]] — [22580: From GPT2 to Kimi3, Explained](https://x.com/waterloo_intern/status/2081762065392541951) `[architecture, transformers, attention, kv-cache, linear-attention, deltanet, mamba, moe, mla, kimi, moonshot, inference, long-context, models]`
+- [[kimi-k3-explained-forgetting-swill1ams]] — [Kimi K3 explained — forgetting / KDA hybrid made the 2.8T model possible](https://x.com/swill1ams/status/2082856158520398279) `[architecture, kimi, moonshot, kv-cache, linear-attention, deltanet, mla, moe, inference, long-context, models, attention]`
 - [[kimi-k3-memory-savings-jevon-bookwormengr]] — [Kimi K3 memory savings vs Jevon's paradox (KDA + HBM debate)](https://x.com/bookwormengr/status/2082377457852920075) `[kimi-k3, kda, mla, kv-cache, linear-attention, long-context, inference, investing, ai-economics, moonshot]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling's ear — 7.9M dMel lookup table, no audio encoder](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 with vision — 50M projector on Kimi tower](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, projector, grokking, models]`
@@ -272,6 +280,7 @@
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
 - [[new-rules-context-engineering-claude-5-trq212]] — [New rules of context engineering for Claude 5 — /doctor + progressive disclosure](https://x.com/trq212/status/2080710971228918066) `[context-engineering, claude-code, skills, fable, progressive-disclosure, anthropic, coding-tools, agent-harness]`
+- [[context-engineering-delete-audit-free-ai-guides]] — [Context delete audit — instructions/memory/files/tools](https://x.com/free_ai_guides/status/2082463119742320825) `[context-engineering, claude-code, skills, mcp, prompt-engineering, coding-tools]`
 - [[anthropic-ant-cli-guide]] — [Anthropic's ant CLI — Full Guide](https://x.com/hey_madni/status/2063606029146034375) `[anthropic, ant-cli, claude-code, managed-agents, mcp, cli, agents, dev-tools]`
 - [[anthropic-gtm-claude-code-workflows]] — [How one Anthropic seller rebuilt his team's workflows with Claude Code](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, gtm, sales, skills, productivity, enterprise]`
 - [[claude-code-dynamic-workflows-intro]] — [Introducing dynamic workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, agent-ops]`
@@ -305,6 +314,8 @@
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]] — [Graph engineering: fake edges, diamond, anchors](https://x.com/anatolikopadze/status/2080668775796314331) `[graph-engineering, loop-engineering, multi-agent, verification, claude-code, dynamic-workflows, cost-optimization]`
 - [[graph-engineering-substance-over-meme-akshay]] — [Graph engineering: substance over the meme](https://x.com/akshay_pachaar/status/2081089131808243999) `[graph-engineering, loop-engineering, multi-agent, orchestration, verification, langgraph, cost-optimization]`
 - [[graph-engineering-three-commitments-cyrilxbt]] — [Graph engineering course — immutable plan, separated layers, strict escalation](https://x.com/cyrilxbt/status/2081212504093446357) `[graph-engineering, loop-engineering, harness-engineering, verification, human-in-the-loop, escalation, auditability]`
+- [[master-agent-architecture-harness-loop-graph-marfin]] — [Master Agent Architecture — harness ⊃ graph ⊃ loop](https://x.com/marfinxx/status/2081687570488954915) `[agents, agent-harness, harness-engineering, loop-engineering, graph-engineering, verification, production]`
+- [[loop-graph-harness-pipeline-archiveexplorer]] — [LOOP → GRAPH → HARNESS offline pipeline demo](https://x.com/ArchiveExplorer/status/2080621294979023358) `[loop-engineering, graph-engineering, harness-engineering, agents, verification, context-management]`
 - [[graph-engineering-multi-factor-alpha-rohonchain]] — [11-node multi-factor alpha graph on Slate (RohOnChain)](https://x.com/rohonchain/status/2080296261576687751) `[graph-engineering, quant, trading, factor-model, multi-agent, verification, harness-engineering, slate]`
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]] — [Loops vs graphs — Postgres data+execution graph (Infinite Context)](https://x.com/daleverett/status/2078969402046009374) `[agents, loop-engineering, agent-memory, langgraph, postgres, polygres, context-management, harness-engineering]`
 - [[thinking-database-infinite-context-polygres-daleverett]] — [Thinking database / infinite context (Polygres)](https://x.com/daleverett/status/2080883869281386672) `[polygres, postgres, agent-memory, knowledge-graph, context-management, databases]`
@@ -330,6 +341,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]] — [Building an efficient harness for advanced enterprise work](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management]`
 - [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
+- [[context-engineering-delete-audit-free-ai-guides]] — [4-layer context delete audit (after Anthropic 80% cut)](https://x.com/free_ai_guides/status/2082463119742320825) `[context-engineering, prompt-engineering, agent-harness, skills, mcp, compaction]`
 - [[context-engineering-os-loop-engineering-vartekxx]] — [Prompt is one instruction; context is the OS; loops automate it (Karpathy + Cherny)](https://x.com/vartekxx/status/2074864291568664646) `[context-engineering, loop-engineering, prompt-engineering, agent-harness, claude-code, verification, context-rot, skills]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, harness-engineering, context-management, verification, human-ai, attention]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
@@ -424,6 +436,7 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP topology (Mainz)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] — [Sparse attention long-context — NSA→DSA/MSA, KDA fork, silicon-first](https://x.com/cyrusasg/status/2080697631286681998) `[inference, kv-cache, sparse-attention, long-context, mla, deepseek, minimax, architecture, models]`
 - [[gpt2-to-kimik3-architecture-22580-waterloo]] — [22580: From GPT2 to Kimi3, Explained](https://x.com/waterloo_intern/status/2081762065392541951) `[architecture, transformers, attention, kv-cache, linear-attention, deltanet, mamba, moe, mla, kimi, moonshot, inference, long-context, models]`
+- [[kimi-k3-explained-forgetting-swill1ams]] — [Kimi K3 explained — KDA hybrid / selective forgetting](https://x.com/swill1ams/status/2082856158520398279) `[architecture, kimi, moonshot, kv-cache, linear-attention, mla, moe, inference, long-context, models]`
 - [[kimi-k3-memory-savings-jevon-bookwormengr]] — [Kimi K3 KDA — ~73% memory vs all-MLA; Jevon/HBM debate](https://x.com/bookwormengr/status/2082377457852920075) `[kimi-k3, kda, mla, kv-cache, linear-attention, long-context, models, moonshot, inference]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling ear — 7.9M dMel table, encoderless audio](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, asr]`
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 vision retrofit — projector-only SFT+RL](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, models]`
@@ -523,6 +536,9 @@
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
+- [[grpo-trl-training-agents-class3-sergiopaniego]] — [Training Agents Class 3 — GRPO + TRL (Sergio)](https://x.com/SergioPaniego/status/2082469796893839393) `[rl, grpo, trl, training, agents, huggingface, post-training]`
+- [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] — [Fine-tune LLMs 2026 — GRPO + RULER + ART](https://x.com/akshay_pachaar/status/2029212227438518406) `[rl, training, fine-tuning, grpo, agents, openpipe, art, ruler, post-training]`
+- [[slime-open-source-rl-kernel-glm-dailydose]] — [slime open-source RL kernel (GLM-5.2)](https://x.com/DailyDoseOfDS_/status/2083123018914746803) `[rl, training, post-training, glm, open-source, slime, megatron, sglang]`
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]] — [Behavior parroting — can Chinese labs distill US models via APIs?](https://x.com/completeskeptic/status/2080494182775521745) `[distillation, training, post-training, rlhf, sft, reasoning, ai-policy, api-distillation, behavior-cloning, models]`
 - [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — densify outcome RL with turn-level credit (BrowseComp-Plus)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, post-training, tool-use, qwen, microsoft-research]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
@@ -633,6 +649,7 @@
 - [[colleague-skill-dot-skill]] `[skills, agents, agent-skills]`
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
 - [[continual-learning-replit-agent-vibench]] `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
+- [[context-engineering-delete-audit-free-ai-guides]] `[context-engineering, prompt-engineering, claude-code, agents, agent-harness, skills, mcp, compaction]`
 - [[context-engineering-field-guide-phosphenq]] `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[context-engineering-os-loop-engineering-vartekxx]] `[context-engineering, loop-engineering, prompt-engineering, agents, agent-harness, claude-code, subagents, verification, context-rot, skills]`
 - [[controlling-reasoning-effort-in-llms]] `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
@@ -662,6 +679,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
+- [[forward-deployed-engineer-roadmap-morlex]] `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[framework-frontier-ai-standards-demis-hassabis]] `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic, cybersecurity, biosecurity]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness, loop-engineering]`
@@ -673,6 +691,7 @@
 - [[goldmine-selling-data-frontier-labs-viks-rum]] `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
 - [[googlegemma]] `[interpretability]`
 - [[gpt2-to-kimik3-architecture-22580-waterloo]] `[architecture, transformers, attention, kv-cache, linear-attention, deltanet, mamba, moe, mla, kimi, moonshot, inference, long-context, models, training]`
+- [[grpo-trl-training-agents-class3-sergiopaniego]] `[rl, grpo, trl, training, agents, huggingface, post-training, evals]`
 - [[graph-engineering-14-step-roadmap-0xcodez]] `[agents, multi-agent, orchestration, claude-code, dynamic-workflows, loop-engineering, verification, agent-harness, harness-engineering, subagents, parallelism, cost-optimization]`
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]] `[agents, multi-agent, orchestration, claude-code, dynamic-workflows, loop-engineering, verification, agent-harness, harness-engineering, parallelism, cost-optimization, worktrees]`
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]] `[graph-engineering, loop-engineering, agents, multi-agent, orchestration, verification, claude-code, dynamic-workflows, cost-optimization, agent-harness]`
@@ -712,6 +731,7 @@
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-create-right-skill-ai-agent]] `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
+- [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] `[rl, training, fine-tuning, grpo, agents, evals, openpipe, art, ruler, lora, post-training]`
 - [[how-to-have-better-conversations-lifemaxx]] `[productivity, communication, soft-skills, networking, relationships, career, creator-economy]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
@@ -742,6 +762,7 @@
 - [[karpathys-autoresearch-is-changing-how-campaigns-g]] `[productivity, papers]`
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]] `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]] `[kimi, kimi-k2.6, agent-swarm, parallel-agents, multi-agent, moonshot, document-to-skill, automation]`
+- [[kimi-k3-explained-forgetting-swill1ams]] `[architecture, kimi, moonshot, kv-cache, linear-attention, deltanet, mla, moe, inference, long-context, models, attention]`
 - [[kimi-k3-memory-savings-jevon-bookwormengr]] `[kimi, kimi-k3, moonshot, architecture, linear-attention, kda, mla, kv-cache, inference, long-context, investing, ai-economics, hardware, memory, models, jevon-paradox]`
 - [[kirillkweb3]] `[agents]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
@@ -762,6 +783,7 @@
 - [[loop-engineering-clearly-explained]] `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-engineering-quietly-ate-prompt-engineering]] `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
+- [[loop-graph-harness-pipeline-archiveexplorer]] `[loop-engineering, graph-engineering, harness-engineering, agents, agent-harness, verification, context-management, subagents, production]`
 - [[looped-nanochat-two-pass-routing-kyleliang]] `[architecture, transformers, training, inference, looped-transformers, attention, nanochat, test-time-compute, ml-research, recurrence]`
 - [[looped-transformers-explained-neural-avb]] `[architecture, transformers, looped-transformers, recurrence, test-time-compute, training, inference, moe, universal-transformer, models, ml-research]`
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]] `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy, adaptation, ml-research]`
@@ -772,6 +794,7 @@
 - [[managed-agents-built-in-memory]] `[agents, memory, anthropic, enterprise, agent-ops]`
 - [[managed-agents-dreaming-orchestration]] `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`
 - [[managed-agents-sandbox-mcp]] `[agents, mcp, enterprise, anthropic, security, agent-ops]`
+- [[master-agent-architecture-harness-loop-graph-marfin]] `[agents, agent-harness, harness-engineering, loop-engineering, graph-engineering, verification, claude-code, subagents, production]`
 - [[maziyarpanahi]] `[ai-ml]`
 - [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
@@ -837,6 +860,7 @@
 - [[shepherd-reversible-execution-traces-avichawla]] `[agents, meta-agents, agent-harness, shepherd, reversible-execution, kv-cache, supervision, stanford]`
 - [[sierra-pinecone-singular-company-agent]] `[agents, agent-harness, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
 - [[skill-solo-millionaires-ai-era]] `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
+- [[slime-open-source-rl-kernel-glm-dailydose]] `[rl, training, post-training, agents, open-source, glm, megatron, sglang, slime]`
 - [[software-factories-light-and-dark-addy-osmani]] `[software-factory, harness-engineering, loop-engineering, agents, agent-harness, verification, human-in-the-loop, addy-osmani, architecture, comprehension-debt]`
 - [[software-factory-linear-claude-cloud-routines]] `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob, observability]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
