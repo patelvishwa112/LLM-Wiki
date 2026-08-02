@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-02
 
+- Ingest: Memory Engineering forgetting policy (leanxbt 2083915037635424462)
+
+## 2026-08-02
+
+- Ingest: The Loop Is the Moat (m0egpt 2083913045152035139)
+
+## 2026-08-02
+
 - Ingest: Eval Engineering merge gate (hanakoxbt 2083540339147567268)
 
 ## 2026-08-02

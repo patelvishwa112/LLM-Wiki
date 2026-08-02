@@ -94,6 +94,7 @@
 - [[from-1-agent-to-swarm-orchestration-roadmap]] — [From 1 agent to a swarm: a roadmap for orchestrating agent loops](https://x.com/0xmorlex/status/2070079645148451263) `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness]`
 - [[orchestrating-agents-adk-fhinkel]] — [Orchestrating Agents in ADK](https://x.com/fhinkel/status/2076782085516493079) `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [How to Build a Conductor: Multi-Agent Loops from Scratch](https://x.com/leanxbt/status/2076679468186513600) `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor]`
+- [[memory-engineering-forgetting-policy-leanxbt]] — [Memory Engineering — forgetting policy, not a store](https://x.com/leanxbt/status/2083915037635424462) `[agent-memory, agents, agent-harness, memory, forgetting, context-management, procedural-memory]`
 - [[building-your-first-ai-agent-clear-path]] — [Building your first AI Agent; A clear path!](Reddit r/AgentsOfAI) `[agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]`
 - [[how-to-build-first-ai-agent-claude-full-course]] — [How to Actually Build Your First AI Agent Using Claude (Full Course)](https://x.com/eng_khairallah1/status/2065721530546373016) `[agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]`
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
@@ -130,6 +131,7 @@
 - [[agent-harness-engineering-agentforge]] — [Agent Harness Engineering — Lessons from Building AgentForge](https://x.com/bytemohit/status/2063493300884246598) `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
 - [[agent-harness-should-repair-itself]] — [Your Agent Harness Should Repair Itself](https://x.com/akshay_pachaar/status/2064051835636498924) `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[anthropic-recursive-self-improvement]] — [When AI Builds Itself — Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
+- [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — RSI flywheel as lab moat](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, agents, agent-harness, harness-engineering, rlvr, synthetic-data, verification, ai-strategy]`
 - [[anthropic-global-workspace-j-space]] — [A global workspace in language models (J-space)](https://www.anthropic.com/research/global-workspace) `[mechanistic-interpretability, interpretability, anthropic, global-workspace, j-space, safety, monitoring, consciousness]`
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
@@ -300,6 +302,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — harness+verifier+synthetic flywheel](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, harness-engineering, agent-harness, rlvr, synthetic-data, verification, autodata, ai-strategy]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — Cursor vs native Codex/Claude Code deltas (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, cursor, claude-code, codex]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — automated merge gate (blast radius over confidence)](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
@@ -311,6 +314,7 @@
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, distributed-systems, trajectory-grading]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable parent + 40 Devin children — migration gates & manifest](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, orchestration, verification, production, human-in-the-loop, migration]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [Build a conductor — decompose/dispatch/integrate/verify/brakes](https://x.com/leanxbt/status/2076679468186513600) `[conductor, multi-agent, orchestration, verification, harness-engineering, loop-engineering]`
+- [[memory-engineering-forgetting-policy-leanxbt]] — [Memory Engineering — four shelves + TTL/eviction/supersede](https://x.com/leanxbt/status/2083915037635424462) `[agent-memory, agent-harness, harness-engineering, forgetting, context-management, memory]`
 - [[graph-engineering-14-step-roadmap-0xcodez]] — [Graph engineering — nodes/edges, diamond, verifiers, Claude Code dynamic workflows](https://x.com/0xcodez/status/2079165300625330317) `[agents, multi-agent, orchestration, claude-code, dynamic-workflows, verification, harness-engineering, parallelism, cost-optimization]`
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]] — [Graph engineering — Loop successor, dynamic workflows fleets (0xCodila)](https://x.com/0xcodila/status/2079597821511020996) `[agents, multi-agent, claude-code, dynamic-workflows, verification, harness-engineering, parallelism, worktrees, cost-optimization]`
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]] — [Graph engineering: fake edges, diamond, anchors](https://x.com/anatolikopadze/status/2080668775796314331) `[graph-engineering, loop-engineering, multi-agent, verification, claude-code, dynamic-workflows, cost-optimization]`
@@ -788,6 +792,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]] `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
 - [[loop-engineering-technical-roadmap-h100envy]] `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, claude-code, production, agent-ops]`
 - [[loop-graph-harness-pipeline-archiveexplorer]] `[loop-engineering, graph-engineering, harness-engineering, agents, agent-harness, verification, context-management, subagents, production]`
+- [[loop-is-the-moat-rsi-m0egpt]] `[recursive-self-improvement, agents, agent-harness, harness-engineering, evals, rlhf, rlvr, synthetic-data, autodata, verification, ai-strategy, loop-engineering, continual-learning]`
 - [[looped-nanochat-two-pass-routing-kyleliang]] `[architecture, transformers, training, inference, looped-transformers, attention, nanochat, test-time-compute, ml-research, recurrence]`
 - [[looped-transformers-explained-neural-avb]] `[architecture, transformers, looped-transformers, recurrence, test-time-compute, training, inference, moe, universal-transformer, models, ml-research]`
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]] `[training, inference, test-time-training, looped-transformers, architecture, llm, math, ouro, entropy, adaptation, ml-research]`
@@ -803,6 +808,7 @@
 - [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
 - [[mcp-server-workflow-problems]] `[mcp, agents, coding-tools, antigravity]`
 - [[mckinsey-issue-tree-why-what-how-nurijanian]] `[pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, mece, problem-solving, writing, productivity]`
+- [[memory-engineering-forgetting-policy-leanxbt]] `[agent-memory, agents, agent-harness, context-management, memory, forgetting, procedural-memory, episodic-memory, semantic-memory, verification, harness-engineering]`
 - [[memory-is-retained-consequence]] `[memory, agents, enterprise, knowledge-graphs, infrastructure]`
 - [[metacognition-debug-human-ai-system-stablechen]] `[metacognition, agents, agent-harness, context-management, productivity, verification, human-ai, attention, debugging, harness-engineering]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] `[training, rl, models, microsoft, mai, data-quality, ablations]`
