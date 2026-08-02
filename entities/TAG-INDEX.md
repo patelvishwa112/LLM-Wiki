@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1032 unique tags across 464 processed notes.
+> 1032 unique tags across 465 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (109)
+### agent-harness (110)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -60,6 +60,7 @@
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
@@ -222,7 +223,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (217)
+### agents (218)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -294,6 +295,7 @@
 - [[distillation-post-training-frontier-2026]]
 - [[do-automated-evals-work-parlance-labs]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
@@ -1050,7 +1052,7 @@
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[zero-trust-ai-agents]]
 
-### evals (38)
+### evals (39)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1065,6 +1067,7 @@
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[do-automated-evals-work-parlance-labs]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[evals-strategic-ip-garrettlord]]
 - [[forward-deployed-engineer-roadmap-morlex]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
@@ -1180,13 +1183,14 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (33)
+### harness-engineering (34)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[dive-into-claude-code-vila-lab]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[glean-coding-harness-programmatic-tool-calling]]
@@ -1445,11 +1449,12 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### llm-judges (6)
+### llm-judges (7)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[do-automated-evals-work-parlance-labs]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[waku-agent-github]]
@@ -1701,7 +1706,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (18)
+### observability (19)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1709,6 +1714,7 @@
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
 - [[do-automated-evals-work-parlance-labs]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-give-your-agent-memory]]
@@ -1883,7 +1889,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### production (17)
+### production (18)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
@@ -1893,6 +1899,7 @@
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[how-to-build-custom-agent-harness-langchain]]
@@ -2523,13 +2530,14 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (33)
+### verification (34)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
@@ -3886,8 +3894,9 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[universal-agent-thesis]]
 
-### trace-data (2)
+### trace-data (3)
 
+- [[eval-engineering-merge-gate-hanakoxbt]]
 - [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 
@@ -3895,6 +3904,11 @@
 
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[do-automated-evals-work-parlance-labs]]
+
+### trajectories (2)
+
+- [[agent-as-a-judge-trajectory-evals-aparna]]
+- [[eval-engineering-merge-gate-hanakoxbt]]
 
 ### transformer (2)
 
@@ -4597,7 +4611,6 @@
 - **torch-compile** — [[torch-internals-part1-fx-graphs]]
 - **torch.compile** — [[pytorch-profiler-beginners-guide]]
 - **training-data** — [[goldmine-selling-data-frontier-labs-viks-rum]]
-- **trajectories** — [[agent-as-a-judge-trajectory-evals-aparna]]
 - **trajectory-grading** — [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - **triage** — [[problem-first-skill-invert-bad-ideas]]
 - **trimming** — [[trimming-introduction]]

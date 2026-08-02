@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 464 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 465 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -161,6 +161,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [effort-position-leverage-principles.md](/processed/effort-position-leverage-principles.md) — *concept* — Effort is Linear, Position is Exponential — Five Principles of Market Reality
 - [encoder-free-models-bitter-lesson.md](/processed/encoder-free-models-bitter-lesson.md) — *bookmark* — rumik discusses how Sutton's Bitter Lesson continues to play out in modality interfaces — hand-designed encoders and codecs keep getting replaced by simpler, scale-driven encoder-free approaches.
 - [enterprise-and-industry-applications.md](/processed/enterprise-and-industry-applications.md) — *concept* — Enterprise and Industry Applications
+- [eval-engineering-merge-gate-hanakoxbt.md](/processed/eval-engineering-merge-gate-hanakoxbt.md) — *bookmark* — Six-step course on eval infrastructure so an automated gate can merge agent changes without human review — blast radius over confidence.
 - [evals-strategic-ip-garrettlord.md](/processed/evals-strategic-ip-garrettlord.md) — *bookmark* — "Garrett Lord (@GarrettLord, CEO of Handshake) argues that 'evals' (evaluation suites) are the new strategic IP that will define the next era of AI. Companies must turn workflows, domain knowledge, and judgment into A...
 - [every-agentic-engineering-hack-june-2026.md](/processed/every-agentic-engineering-hack-june-2026.md) — *bookmark* — Every Agentic Engineering Hack I Know (June 2026)
 - [everything-you-didnt-want-to-know-about-architectures.md](/processed/everything-you-didnt-want-to-know-about-architectures.md) — *lecture* — Everything You Didn't Want to Know About Architectures and Hyperparameters

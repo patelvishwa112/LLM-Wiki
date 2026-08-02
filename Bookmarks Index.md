@@ -138,6 +138,7 @@
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
+- [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] — [Your AI's Memory Is Quietly Making It Dumber (I Cut Mine to 6 Files)](https://x.com/mvanhorn/status/2070966613994795489) `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
@@ -301,6 +302,7 @@
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — Cursor vs native Codex/Claude Code deltas (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, cursor, claude-code, codex]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
+- [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — automated merge gate (blast radius over confidence)](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
 - [[build-claude-code-harness-crewai-akshay]] — [Let's build Claude Code's harness in CrewAI (Akshay)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? — flywheel + pretrain reflexes](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, pretraining, data-flywheel, sft, rl, distillation, context-management]`
@@ -351,6 +353,7 @@
 ### Evals
 
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
+- [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [Applied AI engineer guide — outcome vs trajectory evals](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, evals, trajectory-grading, agent-harness, career]`
@@ -672,6 +675,7 @@
 - [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[eval-engineering-merge-gate-hanakoxbt]] `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
 - [[fable-5-self-improving-system-14-steps]] `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
 - [[fable-manager-sol-worker-nateherk]] `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
