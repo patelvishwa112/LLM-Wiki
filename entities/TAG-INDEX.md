@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1036 unique tags across 470 processed notes.
+> 1039 unique tags across 471 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1858,11 +1858,12 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
 
-### papers (5)
+### papers (6)
 
 - [[10-hall-of-fame-engineering-papers]]
 - [[adapad-lora-parallel-deflation]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
+- [[explorative-modeling-third-pretraining-axis-xm]]
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[sub-agents-inference-time-scaling]]
 
@@ -1910,11 +1911,12 @@
 - [[understanding-video-models-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### pretraining (8)
+### pretraining (9)
 
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[build-your-own-llm-workshop-justin-angel]]
 - [[design-good-ml-experiments-grigorev]]
+- [[explorative-modeling-third-pretraining-axis-xm]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -2207,6 +2209,14 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[opportunity-ai-pm-os-workflow]]
 
+### robotics (5)
+
+- [[beginners-guide-physical-ai-stack-muskan-kalra]]
+- [[explorative-modeling-third-pretraining-axis-xm]]
+- [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[interlatent-modern-ai-robotics-first-principles]]
+- [[modern-ai-robotics-first-principles]]
+
 ### safety (16)
 
 - [[2026-ai-engineering-roadmap]]
@@ -2226,10 +2236,11 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### scaling-laws (9)
+### scaling-laws (10)
 
 - [[design-good-ml-experiments-grigorev]]
 - [[encoder-free-models-bitter-lesson]]
+- [[explorative-modeling-third-pretraining-axis-xm]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
@@ -2485,7 +2496,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (64)
+### training (65)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2502,6 +2513,7 @@
 - [[design-good-ml-experiments-grigorev]]
 - [[distillation-post-training-frontier-2026]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
+- [[explorative-modeling-third-pretraining-axis-xm]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
@@ -2638,6 +2650,14 @@
 - [[opportunity-ai-pm-os-workflow]]
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[spec-kit-github-sdd]]
+
+### world-models (5)
+
+- [[explorative-modeling-third-pretraining-axis-xm]]
+- [[interlatent-modern-ai-robotics-first-principles]]
+- [[joint-embedding-predictive-architecture-jepa]]
+- [[notes-on-foundation-models]]
+- [[world-models-agent-imagination]]
 
 ### writing (12)
 
@@ -3018,8 +3038,9 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### diffusion (2)
+### diffusion (3)
 
+- [[explorative-modeling-third-pretraining-axis-xm]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[understanding-video-models-rl-post-training]]
 
@@ -3053,8 +3074,9 @@
 - [[claude-for-education]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 
-### efficiency (2)
+### efficiency (3)
 
+- [[explorative-modeling-third-pretraining-axis-xm]]
 - [[hrm-text-1b-reasoning-model]]
 - [[knowledge-distillation-theturingpost]]
 
@@ -3759,13 +3781,6 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### robotics (4)
-
-- [[beginners-guide-physical-ai-stack-muskan-kalra]]
-- [[goldmine-selling-data-frontier-labs-viks-rum]]
-- [[interlatent-modern-ai-robotics-first-principles]]
-- [[modern-ai-robotics-first-principles]]
-
 ### routing (2)
 
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -4010,6 +4025,11 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[ten-commandments-building-product-feitong-yang]]
 
+### video-generation (2)
+
+- [[explorative-modeling-third-pretraining-axis-xm]]
+- [[understanding-video-models-rl-post-training]]
+
 ### vision (2)
 
 - [[glm-5-2-with-vision-projector-part-harry]]
@@ -4051,13 +4071,6 @@
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
-
-### world-models (4)
-
-- [[interlatent-modern-ai-robotics-first-principles]]
-- [[joint-embedding-predictive-architecture-jepa]]
-- [[notes-on-foundation-models]]
-- [[world-models-agent-imagination]]
 
 ## Single-Use Tags
 
@@ -4279,6 +4292,7 @@
 - **future-of-work** — [[5-ai-skills-six-figures-2027]]
 - **fx** — [[torch-internals-part1-fx-graphs]]
 - **general-intelligence** — [[general-intelligence-rethinking-exploration-2022]]
+- **generative-models** — [[explorative-modeling-third-pretraining-axis-xm]]
 - **geometric-consistency** — [[understanding-video-models-rl-post-training]]
 - **geopolitics** — [[who-will-set-price-intelligence]]
 - **gepa** — [[are-you-still-tuning-llms-by-hand-gepa]]
@@ -4322,6 +4336,7 @@
 - **idea-generation** — [[level-above-phd-knowledge-works-without-you]]
 - **identity-layer** — [[second-self-vs-second-brain-obsidian]]
 - **iii** — [[iii-agent-harness-workers]]
+- **image-generation** — [[explorative-modeling-third-pretraining-axis-xm]]
 - **imagination** — [[world-models-agent-imagination]]
 - **impeccable** — [[dark-arts-of-skill-engineering-pbakaus]]
 - **importance-sampling** — [[rl-algo-comprehensive-qa]]
@@ -4362,6 +4377,7 @@
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
+- **language-models** — [[explorative-modeling-third-pretraining-axis-xm]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **leadership** — [[antithesis-principle-shreyas-doshi]]
 - **lean-startup** — [[testing-business-ideas-product-operating-system]]
@@ -4690,7 +4706,6 @@
 - **vercel** — [[leerob-x-post-2065469795529588940]]
 - **vibench** — [[continual-learning-replit-agent-vibench]]
 - **video** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
-- **video-generation** — [[understanding-video-models-rl-post-training]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **vision-transformer** — [[joint-embedding-predictive-architecture-jepa]]
 - **vocabulary** — [[trimming-introduction]]

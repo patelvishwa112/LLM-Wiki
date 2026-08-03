@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-03
 
+- Ingest: Explorative Modeling XM third pretraining axis (explorative-modeling.github.io arxiv 2607.27372)
+
+## 2026-08-03
+
 - Ingest: Context Engineering feed model not dumber (h100envy 2082064768844837357)
 
 ## 2026-08-03

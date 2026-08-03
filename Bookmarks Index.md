@@ -217,6 +217,7 @@
 - [[thesmartape]] — [the_smart_ape](https://x.com/the_smart_ape/status/2053034897514660074)
 - [[llm-engineering-projects-roadmap-2026]] — [Step-By-Step LLM Engineering Projects (2026 Edition)](https://x.com/theahmadosman/status/2058745340895870985)
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model — Kuleshov Group](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, architecture, inference, scaling-laws, tutorial]`
+- [[explorative-modeling-third-pretraining-axis-xm]] — [Explorative Modeling (XM) — third pretraining axis + end-to-end gen](https://explorative-modeling.github.io/) `[training, pretraining, generative-models, diffusion, scaling-laws, image-generation, efficiency, papers]`
 - [[claude-code-self-correcting-setup]] — [How to Make Claude Code Fix Its Own Mistakes Automatically](https://x.com/zodchiii/status/2059563487676784696)
 - [[inference-engines-2026]] — [Inference Engines for LLMs & Local AI Hardware (2026 Edition)](https://x.com/theahmadosman/status/2057183854444843202)
 - [[inference-optimizations-sub-second-llm-checklist]] — [Inference optimizations for sub-second LLM responses (16-item checklist)](https://x.com/asmah2107/status/2071196830088777741) `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
@@ -454,6 +455,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] — [Inkling ear — 7.9M dMel table, encoderless audio](https://x.com/huckiyang/status/2077625513384841679) `[models, multimodal, audio, speech, inference, serving, moe, asr]`
 - [[glm-5-2-with-vision-projector-part-harry]] — [GLM 5.2 vision retrofit — projector-only SFT+RL](https://x.com/part_harry_/status/2077610277571637435) `[multimodal, vision, vlm, glm, post-training, sft, rl, models]`
 - [[understanding-video-models-rl-post-training]] — [Understanding Video Models: Part III - RL Post-Training](https://x.com/majumdar_ani/status/2078508177620926531) `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training, models]`
+- [[explorative-modeling-third-pretraining-axis-xm]] — [Explorative Modeling — K-mode training + end-to-end gen](https://explorative-modeling.github.io/) `[training, pretraining, generative-models, diffusion, video-generation, image-generation, robotics, world-models, models]`
 - [[looped-nanochat-two-pass-routing-kyleliang]] — [Looped Nanochat — two-pass routing-loop Transformer](https://x.com/kyleliang5/status/2078543088419840292) `[architecture, transformers, looped-transformers, attention, nanochat, training, inference, models]`
 - [[looped-transformers-explained-neural-avb]] — [What are Looped Transformers? Explained clearly](https://x.com/neural_avb/status/2081741935883223196) `[architecture, transformers, looped-transformers, recurrence, test-time-compute, training, inference, moe, universal-transformer, models]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
@@ -547,6 +549,7 @@
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
+- [[explorative-modeling-third-pretraining-axis-xm]] — [Explorative Modeling (XM) — third pretraining axis](https://explorative-modeling.github.io/) `[training, pretraining, generative-models, diffusion, scaling-laws, efficiency, papers]`
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
 - [[grpo-trl-training-agents-class3-sergiopaniego]] — [Training Agents Class 3 — GRPO + TRL (Sergio)](https://x.com/SergioPaniego/status/2082469796893839393) `[rl, grpo, trl, training, agents, huggingface, post-training]`
@@ -688,6 +691,7 @@
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[eval-engineering-merge-gate-hanakoxbt]] `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
+- [[explorative-modeling-third-pretraining-axis-xm]] `[training, pretraining, generative-models, diffusion, scaling-laws, image-generation, video-generation, language-models, robotics, world-models, efficiency, papers]`
 - [[fable-5-self-improving-system-14-steps]] `[fable-5, agents, agent-harness, claude-code, loops, continual-learning, skills, verification, dynamic-workflows, harness-engineering]`
 - [[fable-manager-sol-worker-nateherk]] `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] `[fable-5, agents, multi-agent, orchestration, subagents, devin, agent-harness, verification, production, migration, human-in-the-loop]`

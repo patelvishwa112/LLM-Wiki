@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 470 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 471 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -167,6 +167,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [every-agentic-engineering-hack-june-2026.md](/processed/every-agentic-engineering-hack-june-2026.md) — *bookmark* — Every Agentic Engineering Hack I Know (June 2026)
 - [everything-you-didnt-want-to-know-about-architectures.md](/processed/everything-you-didnt-want-to-know-about-architectures.md) — *lecture* — Everything You Didn't Want to Know About Architectures and Hyperparameters
 - [exp1-sae-gap-closure-initial-result.md](/processed/exp1-sae-gap-closure-initial-result.md) — *experiment* — Exp1: SAE Gap Closure — Initial Result (Pre-Trained SAE)
+- [explorative-modeling-third-pretraining-axis-xm.md](/processed/explorative-modeling-third-pretraining-axis-xm.md) — *paper* — Explorative Modeling (XM) factors training not generation — third pretraining axis (K-mode exploration) plus end-to-end gen matching diffusion at far fewer NFEs.
 - [extended-thinking.md](/processed/extended-thinking.md) — *concept* — Extended Thinking
 - [fable-5-mythos-prompting-masterclass.md](/processed/fable-5-mythos-prompting-masterclass.md) — *bookmark* — Plain-English guide to prompting Anthropic's Fable 5 (Mythos): long-running autonomous tasks, first-pass accuracy, clarifying questions, 50+ subagent management, superior vision, and coding/security audits. Optimal pr...
 - [fable-5-self-improving-system-14-steps.md](/processed/fable-5-self-improving-system-14-steps.md) — *bookmark* — 14-step roadmap for a compounding Fable 5 harness: four-layer stack, /goal vs Outcomes, verifiers, STATE.md, Skills, Routines, and model routing.
