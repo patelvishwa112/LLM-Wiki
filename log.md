@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-03
 
+- Ingest: Three layers harness/loop/graph (lunarresearcher 2082076425465762082)
+
+## 2026-08-03
+
 - Ingest: Explorative Modeling XM third pretraining axis (explorative-modeling.github.io arxiv 2607.27372)
 
 ## 2026-08-03

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1039 unique tags across 471 processed notes.
+> 1039 unique tags across 472 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (115)
+### agent-harness (116)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -131,6 +131,7 @@
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[two-tracks-not-ten-agents]]
@@ -230,7 +231,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (223)
+### agents (224)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -436,6 +437,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[thesupereng-x-post-2065361684747719164]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -1181,7 +1183,7 @@
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[training-llm-from-scratch-5-lessons]]
 
-### graph-engineering (7)
+### graph-engineering (8)
 
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
@@ -1190,6 +1192,7 @@
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 
 ### grpo (12)
 
@@ -1214,7 +1217,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (37)
+### harness-engineering (38)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1249,6 +1252,7 @@
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1503,7 +1507,7 @@
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### loop-engineering (32)
+### loop-engineering (33)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1536,6 +1540,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[waku-agent-github]]
 
 ### loops (9)
@@ -1692,7 +1697,7 @@
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
 
-### multi-agent (44)
+### multi-agent (45)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1736,6 +1741,7 @@
 - [[sub-agents-inference-time-scaling]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
@@ -1747,7 +1753,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (20)
+### observability (21)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1766,6 +1772,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[own-your-intelligence-harrison-chase]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[waku-agent-github]]
 - [[your-agent-harness-should-repair-itself]]
@@ -1933,7 +1940,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### production (18)
+### production (19)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
@@ -1952,6 +1959,7 @@
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
 ### productivity (59)
@@ -2588,7 +2596,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (37)
+### verification (38)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2624,6 +2632,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]

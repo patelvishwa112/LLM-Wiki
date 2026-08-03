@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 471 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 472 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -437,6 +437,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [the-untrainable.md](/processed/the-untrainable.md) — *bookmark* — The untrainable is the last defensible corner: private correctness, illegible work, relationships, accountability, and slow organizational translation. Measurable work gets eaten; value accrues to those who earn the r...
 - [thesupereng-x-post-2065361684747719164.md](/processed/thesupereng-x-post-2065361684747719164.md) — *bookmark* — X post by thesupereng
 - [thinking-database-infinite-context-polygres-daleverett.md](/processed/thinking-database-infinite-context-polygres-daleverett.md) — *bookmark* — Polygres 'thinking database': infinite context = addressable rows/relations/embeddings on demand, not stuffing the company into the prompt. Better context over more context; Postgres as system of thought.
+- [three-layers-harness-loop-graph-lunarresearcher.md](/processed/three-layers-harness-loop-graph-lunarresearcher.md) — *bookmark* — Harness vs loop vs graph — environment, evidence-based feedback, and workflow topology as three distinct production agent layers.
 - [token-capital-scaffolding-process-governance.md](/processed/token-capital-scaffolding-process-governance.md) — *bookmark* — Token Capital Requires Scaffolding, Process, and Governance
 - [torch-internals-part1-fx-graphs.md](/processed/torch-internals-part1-fx-graphs.md) — *bookmark* — PyTorch 2.0 compile series pt.1 — torch.fx IR (Graph/Node/GraphModule), symbolic tracing via Proxies, and tracing limits before TorchDynamo.
 - [trace-turn-level-reward-credit-assignment-agents.md](/processed/trace-turn-level-reward-credit-assignment-agents.md) — *bookmark* — TRACE densifies outcome RL for long-horizon tool agents: frozen ref model scores gold-answer predictability per prefix; TD deltas become turn rewards (no critic, process labels, MC rollouts, or LLM judge). BrowseComp-...
