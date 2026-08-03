@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1035 unique tags across 467 processed notes.
+> 1036 unique tags across 470 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (112)
+### agent-harness (115)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -54,6 +54,7 @@
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[context-engineering-delete-audit-free-ai-guides]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[continual-learning-replit-agent-vibench]]
@@ -80,6 +81,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -126,6 +128,7 @@
 - [[skill-solo-millionaires-ai-era]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -150,7 +153,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (26)
+### agent-memory (27)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -165,6 +168,7 @@
 - [[harness-is-the-product-280k]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-give-your-agent-memory]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
@@ -226,7 +230,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (220)
+### agents (223)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -289,6 +293,7 @@
 - [[colleague-skill-dot-skill]]
 - [[computer-use]]
 - [[context-engineering-delete-audit-free-ai-guides]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[continuous-trace-intelligence-braintrust-topics]]
@@ -337,6 +342,7 @@
 - [[hiiinternet-x-post]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-automate-disaster-recovery-with-agents]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[how-to-build-ai-agent-swarms]]
@@ -421,6 +427,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spec-kit-github-sdd]]
 - [[sub-agents-inference-time-scaling]]
 - [[ten-commandments-building-product-feitong-yang]]
@@ -579,9 +586,10 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[sierra-pinecone-singular-company-agent]]
 
-### attention (9)
+### attention (10)
 
 - [[attention-qkv-math-amitiitbhu]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[kimi-k3-explained-forgetting-swill1ams]]
@@ -686,7 +694,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (100)
+### claude-code (101)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -777,6 +785,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spec-kit-github-sdd]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -837,7 +846,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (13)
+### coding-tools (14)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -850,6 +859,7 @@
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spec-kit-github-sdd]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
@@ -871,13 +881,14 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (16)
+### context-engineering (17)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[claude-personal-assistant-zero-dollars]]
 - [[context-engineering-delete-audit-free-ai-guides]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[harness-is-the-product-context-aware-agents]]
@@ -890,7 +901,7 @@
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 
-### context-management (15)
+### context-management (17)
 
 - [[agent-harness-engineering-agentforge]]
 - [[buzz-open-source-workspace-block-jack]]
@@ -898,15 +909,25 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[metacognition-debug-human-ai-system-stablechen]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
+
+### context-rot (5)
+
+- [[context-engineering-feed-model-not-dumber-h100envy]]
+- [[context-engineering-field-guide-phosphenq]]
+- [[context-engineering-os-loop-engineering-vartekxx]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[how-to-use-rlms-in-deep-agents]]
 
 ### continual-learning (12)
 
@@ -923,7 +944,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (21)
+### cost-optimization (22)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -940,6 +961,7 @@
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
@@ -1192,7 +1214,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (36)
+### harness-engineering (37)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1209,6 +1231,7 @@
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[harness-engineering-2026-discipline]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -1372,12 +1395,14 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 
-### kv-cache (16)
+### kv-cache (18)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[continuous-batching-grpo-trl]]
 - [[deep-agents-prompt-caching]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kimi-k3-explained-forgetting-swill1ams]]
@@ -1478,11 +1503,12 @@
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### loop-engineering (30)
+### loop-engineering (32)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[claude-code-four-loop-types-datasciencedojo]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
@@ -1509,6 +1535,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[waku-agent-github]]
 
 ### loops (9)
@@ -1585,7 +1612,7 @@
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[zen-and-the-art-of-ai-research]]
 
-### memory (16)
+### memory (17)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-memory-landscape-2026]]
@@ -1595,6 +1622,7 @@
 - [[claude-hidden-features-guide]]
 - [[designing-loops-with-fable-5]]
 - [[graph-memory-reconstruction-llms]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-build-agent-that-never-forgets]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
@@ -1719,7 +1747,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (19)
+### observability (20)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1730,6 +1758,7 @@
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-langchain-unified-agent-eval-stack]]
+- [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-give-your-agent-memory]]
 - [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
@@ -2003,7 +2032,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (40)
+### prompt-engineering (41)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -2019,6 +2048,7 @@
 - [[claude-hidden-features-guide]]
 - [[claude-md-12-rules-mikenevermiss]]
 - [[context-engineering-delete-audit-free-ai-guides]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[goal-loss-functions-distill-product]]
@@ -2064,12 +2094,13 @@
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[why-on-policy-distillation-works]]
 
-### rag (13)
+### rag (14)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[cerebras-knowledge-base-hybrid-search-mcp]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graphiti-knowledge-graph-agent-memory]]
@@ -2545,7 +2576,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (36)
+### verification (37)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2579,6 +2610,7 @@
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
@@ -2862,9 +2894,10 @@
 - [[ideas-build-better-personal-network-benln]]
 - [[pm-as-context-compressor]]
 
-### compaction (3)
+### compaction (4)
 
 - [[context-engineering-delete-audit-free-ai-guides]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[harness-is-the-product-context-aware-agents]]
 
@@ -2879,13 +2912,6 @@
 - [[ai-content-system-framework]]
 - [[athcanft-grow-x-make-money]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
-
-### context-rot (4)
-
-- [[context-engineering-field-guide-phosphenq]]
-- [[context-engineering-os-loop-engineering-vartekxx]]
-- [[harness-is-the-product-context-aware-agents]]
-- [[how-to-use-rlms-in-deep-agents]]
 
 ### continuous-batching (2)
 
@@ -3123,6 +3149,11 @@
 - [[harness-engineering-2026-discipline]]
 - [[token-capital-scaffolding-process-governance]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
+
+### forgetting (2)
+
+- [[how-to-be-a-memory-engineer-n01ennn]]
+- [[memory-engineering-forgetting-policy-leanxbt]]
 
 ### foundation-models (2)
 
@@ -3512,11 +3543,12 @@
 - [[ai-research-job-search-alisa-wuffles]]
 - [[level-above-phd-knowledge-works-without-you]]
 
-### planning (3)
+### planning (4)
 
 - [[build-claude-code-harness-crewai-akshay]]
 - [[claude-fable-map-territory-unknowns-trq212]]
 - [[coderabbit-claude-agent-orchestration]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 
 ### playbooks (2)
 
@@ -4239,7 +4271,6 @@
 - **focus** — [[ten-commandments-building-product-feitong-yang]]
 - **folder-structure** — [[hermes-agent-10x-faster-vault-index]]
 - **forecasting** — [[recursive-self-improvement-2028-prediction]]
-- **forgetting** — [[memory-engineering-forgetting-policy-leanxbt]]
 - **friction** — [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - **frontend-performance** — [[browser-internals-chromium-architecture]]
 - **frontier-labs** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
@@ -4593,6 +4624,7 @@
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **sparse-attention** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **spec-driven-development** — [[spec-kit-github-sdd]]
+- **spec-engineering** — [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - **specialization** — [[premium-ghostwriter-five-skills-nicolas-cole]]
 - **speech** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **sqlite** — [[waku-agent-github]]

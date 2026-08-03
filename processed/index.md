@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 467 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 470 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -133,6 +133,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [computer-use.md](/processed/computer-use.md) — *concept* — Computer Use
 - [constitutional-ai.md](/processed/constitutional-ai.md) — *concept* — Constitutional AI
 - [context-engineering-delete-audit-free-ai-guides.md](/processed/context-engineering-delete-audit-free-ai-guides.md) — *bookmark* — 4-layer context audit (instructions, memory, files, tools) with delete tests after Anthropic cut ~80% of Claude Code system prompt.
+- [context-engineering-feed-model-not-dumber-h100envy.md](/processed/context-engineering-feed-model-not-dumber-h100envy.md) — *bookmark* — Context is a biased attention budget — lost-in-the-middle, RoPE decay, softmax sinks, dilution; spend edges deliberately, measure MECW.
 - [context-engineering-field-guide-phosphenq.md](/processed/context-engineering-field-guide-phosphenq.md) — *bookmark* — Phosphenq field guide: context engineering designs the whole window (not one prompt); bigger windows worsen via Lost-in-the-Middle and context rot; 12 moves for high-signal tokens.
 - [context-engineering-os-loop-engineering-vartekxx.md](/processed/context-engineering-os-loop-engineering-vartekxx.md) — *bookmark* — Prompt→context→loop stack: Karpathy Software 3.0 (write/select/compress/isolate) + Cherny loops/verifiers on Claude Code.
 - [continual-learning-replit-agent-vibench.md](/processed/continual-learning-replit-agent-vibench.md) — *bookmark* — Replit continual learning without weight updates — harness and context layers, ViBench, A/B tests, Telescope clustering, and an autonomous improvement loop.
@@ -226,6 +227,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-actually-design-with-ai-lexnlin.md](/processed/how-to-actually-design-with-ai-lexnlin.md) — *bookmark* — Leon Lin (@LexnLin) on designing with AI: taste and direction stay human; three methods — design skills (fast), component-by-component with references (best), inspiration boards (middle).
 - [how-to-actually-use-claude-fable-5.md](/processed/how-to-actually-use-claude-fable-5.md) — *bookmark* — 8 concrete Fable 5 (Mythos) capabilities Opus 4.8 could not do: full-repo rebuilds, screenshot-to-working-app, precise chart/PDF extraction, senior analyst reasoning, hours-long autonomous execution, proactive self-ve...
 - [how-to-automate-disaster-recovery-with-agents.md](/processed/how-to-automate-disaster-recovery-with-agents.md) — *bookmark* — Production disaster-recovery automation: two independent backups (PITR + off-site dump), agent-executed playbook with safety gates, instant maintenance mode, non-destructive validation + live destructive drill. 8-minu...
+- [how-to-be-a-memory-engineer-n01ennn.md](/processed/how-to-be-a-memory-engineer-n01ennn.md) — *bookmark* — Memory engineering as cost/utility/control/hardware discipline — Stanford write-path cost, Microsoft utility density, Anthropic file control, Nvidia KV/HBM.
 - [how-to-be-good-at-ai-research.md](/processed/how-to-be-good-at-ai-research.md) — *bookmark* — AdiiX argues that most people trying to get good at AI research optimize the wrong variable — they try to 'know more' instead of developing better research systems and filters for the firehose of information.
 - [how-to-be-good-at-research.md](/processed/how-to-be-good-at-research.md) — *bookmark* — High-signal guide to research: pick your own problems, upgrade inputs (old material + range), write everything down (Feynman's rule + Darwin's habit), tighten the loop (tooling + volume), stare at outputs (data + fail...
 - [how-to-become-applied-ai-engineer-eyad-khrais.md](/processed/how-to-become-applied-ai-engineer-eyad-khrais.md) — *bookmark* — Eyad Khrais — SWE→applied AI path: probabilistic systems, outcome+trajectory evals, harness layers, multi-agent as distributed systems (single-writer, idempotency, preconditions).
@@ -415,6 +417,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [software-factory-linear-claude-cloud-routines.md](/processed/software-factory-linear-claude-cloud-routines.md) — *bookmark* — Pierson Marks' afternoon-build software factory — Linear as hub, Claude Code Cloud Routines for pre-triage loops (PostHog/Vercel/Stripe), webhook-triggered SDLC via auto label and /do skill.
 - [sparse-attention-long-context-dsa-msa-cyrusasg.md](/processed/sparse-attention-long-context-dsa-msa-cyrusasg.md) — *bookmark* — Cyrus maps 1M-context sparse attention: KV-cache bandwidth bill, compress vs restrict vs replace axes; NSA→DSA/MSA/Inkling/KDA; indexer KL training; silicon-first design.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning
+- [spec-engineering-three-failures-vibe-coding-0xmortyx.md](/processed/spec-engineering-three-failures-vibe-coding-0xmortyx.md) — *bookmark* — Spec engineering answers three vibe-coding failures — intent drift, context decay, unverifiable output — by making the spec the primary artifact.
 - [spec-kit-github-sdd.md](/processed/spec-kit-github-sdd.md) — *bookmark* — GitHub's open-source Spec-Driven Development toolkit. Flips development so specifications become executable, generating implementations. 109k stars. 9 slash commands (constitution → specify → clarify → plan → tasks → ...
 - [speculative-decoding-history-roofline-shreybirmiwal.md](/processed/speculative-decoding-history-roofline-shreybirmiwal.md) — *bookmark* — Shrey Birmiwal walks speculative decoding from roofline arithmetic intensity through Leviathan draft-verify, rejection sampling, Medusa/Eagle/DFlash/DDTree, up to ~8x lossless decode speedups.
 - [stanford-storm-method-claude-research.md](/processed/stanford-storm-method-claude-research.md) — *bookmark* — Nav Toor shares the Stanford STORM method — a multi-agent research system that enables Claude to conduct deep, PhD-level research by orchestrating multiple specialized agents instead of single-shot prompting.

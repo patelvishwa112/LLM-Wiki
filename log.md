@@ -2,6 +2,18 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-03
+
+- Ingest: Context Engineering feed model not dumber (h100envy 2082064768844837357)
+
+## 2026-08-03
+
+- Ingest: Spec Engineering three failures vibe coding (0xmortyx 2084221348616765863)
+
+## 2026-08-03
+
+- Ingest: How to be a Memory Engineer (n01ennn 2083971749079581120)
+
 ## 2026-08-02
 
 - Ingest: Memory Engineering forgetting policy (leanxbt 2083915037635424462)

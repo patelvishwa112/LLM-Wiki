@@ -95,6 +95,7 @@
 - [[orchestrating-agents-adk-fhinkel]] — [Orchestrating Agents in ADK](https://x.com/fhinkel/status/2076782085516493079) `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [How to Build a Conductor: Multi-Agent Loops from Scratch](https://x.com/leanxbt/status/2076679468186513600) `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor]`
 - [[memory-engineering-forgetting-policy-leanxbt]] — [Memory Engineering — forgetting policy, not a store](https://x.com/leanxbt/status/2083915037635424462) `[agent-memory, agents, agent-harness, memory, forgetting, context-management, procedural-memory]`
+- [[how-to-be-a-memory-engineer-n01ennn]] — [How to be a Memory Engineer — cost/utility/control/hardware](https://x.com/n01ennn/status/2083971749079581120) `[agent-memory, agents, agent-harness, memory, forgetting, kv-cache, cost-optimization]`
 - [[building-your-first-ai-agent-clear-path]] — [Building your first AI Agent; A clear path!](Reddit r/AgentsOfAI) `[agents, agent-harness, beginner, workflow, tools, memory, iteration, scope-control, practical-guide]`
 - [[how-to-build-first-ai-agent-claude-full-course]] — [How to Actually Build Your First AI Agent Using Claude (Full Course)](https://x.com/eng_khairallah1/status/2065721530546373016) `[agents, claude, claude-code, beginner, workflow, agent-harness, practical-guide]`
 - [[openclaw-hermes-supervisor-setup]] — [The Setup That Saved Me Hours Every Day: OpenClaw + Hermes](https://x.com/gkisokay/status/2037902655016804496) `[hermes, agents, multi-agent, supervisor]`
@@ -144,6 +145,7 @@
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
 - [[your-ais-memory-is-quietly-making-it-dumber]] — [Your AI's Memory Is Quietly Making It Dumber (I Cut Mine to 6 Files)](https://x.com/mvanhorn/status/2070966613994795489) `[agents, agent-memory, claude-md, skills, agent-harness, context-management, claude-code, agents-md]`
 - [[loop-engineering-technical-roadmap-h100envy]] — [Loop Engineering: A Technical Roadmap for an Autonomous Loop](https://x.com/h100envy/status/2068987470960623783) `[loop-engineering, agent-harness, agents, reward-hacking, observability, context-engineering, production]`
+- [[context-engineering-feed-model-not-dumber-h100envy]] — [Context Engineering — feed a model so it does not get dumber](https://x.com/h100envy/status/2082064768844837357) `[context-engineering, context-rot, agents, attention, rag, compaction, loop-engineering]`
 - [[loop-engineering-14-step-roadmap]] — [Loop engineering: the 14-step roadmap from prompter to loop designer](https://x.com/0xCodez/status/2064374643729773029) `[agents, claude-code, loop-engineering, automation, mcp, skills, worktrees, sub-agents]`
 - [[graph-engineering-14-step-roadmap-0xcodez]] — [Graph engineering: 14-step roadmap from linear agents to graph fleets](https://x.com/0xcodez/status/2079165300625330317) `[agents, multi-agent, orchestration, claude-code, dynamic-workflows, loop-engineering, verification, agent-harness, harness-engineering, subagents, parallelism, cost-optimization]`
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]] — [Graph engineering — Loop successor, dynamic workflows fleets (0xCodila)](https://x.com/0xcodila/status/2079597821511020996) `[agents, multi-agent, orchestration, claude-code, dynamic-workflows, loop-engineering, verification, agent-harness, harness-engineering, parallelism, worktrees]`
@@ -172,6 +174,7 @@
 
 
 - [[9-step-loop-claude-code-senior-engineer]] — [The 9-Step Loop That Turns Claude Code Into a Senior Engineer](https://x.com/0xmortyx/status/2066469702075920794) `[claude-code, agents, loop-engineering, sub-agents, hooks, plan-mode, claude-md, review, senior-engineer, slash-commands]`
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]] — [Spec Engineering — 3 failures that killed vibe coding](https://x.com/0xmortyx/status/2084221348616765863) `[spec-engineering, agents, agent-harness, claude-code, verification, planning, coding-tools]`
 - [[claude-code-dynamic-workflows-intro]] — [Dynamic Workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, parallelism, agent-ops]`
 - [[claude-managed-agents]] — [Claude Managed Agents: Production Agents 10x Faster](https://claude.com/blog/claude-managed-agents) `[agents, anthropic, enterprise, mcp, claude, agent-ops]`
 - [[code-w-claude-london-2026]] — [Code w/ Claude London 2026](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`
@@ -268,6 +271,7 @@
 - [[mckinsey-issue-tree-why-what-how-nurijanian]] — [/mckinsey-issue-tree: Why / What / How trees](https://x.com/nurijanian/status/2081707189853642988) `[pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, mece, problem-solving]`
 - [[causal-tree-second-third-order-effects-nurijanian]] — [/causal-tree: 2nd/3rd order effects of decisions](https://x.com/nurijanian/status/2082065077021335632) `[pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, causal-reasoning, risk, second-order-effects]`
 - [[spec-kit-github-sdd]] — [Spec Kit — GitHub's Spec-Driven Development Toolkit](https://github.com/github/spec-kit) `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github]`
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]] — [Spec Engineering — 3 failures that killed vibe coding](https://x.com/0xmortyx/status/2084221348616765863) `[spec-engineering, agents, claude-code, verification, planning, coding-tools]`
 - [[nvidia-skillspector-security-scanner]] — [How NVIDIA's SkillSpector works and How to add It to your skill PRs](https://x.com/dani_avila7/status/2063336153630011728) `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] — [I tried 100+ Claude Skills, These 15 are the ones that stuck!](https://x.com/vaibhavsisinty/status/2063290847723192610) `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] — [How to Build a Claude Skill (Never Paste the Same Prompt Twice)](https://x.com/0xlagosaur/status/2068693290581414390) `[skills, claude, claude-code, prompt-engineering, progressive-disclosure, agent-harness]`
@@ -315,6 +319,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable parent + 40 Devin children — migration gates & manifest](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, orchestration, verification, production, human-in-the-loop, migration]`
 - [[how-to-build-conductor-multi-agent-leanxbt]] — [Build a conductor — decompose/dispatch/integrate/verify/brakes](https://x.com/leanxbt/status/2076679468186513600) `[conductor, multi-agent, orchestration, verification, harness-engineering, loop-engineering]`
 - [[memory-engineering-forgetting-policy-leanxbt]] — [Memory Engineering — four shelves + TTL/eviction/supersede](https://x.com/leanxbt/status/2083915037635424462) `[agent-memory, agent-harness, harness-engineering, forgetting, context-management, memory]`
+- [[how-to-be-a-memory-engineer-n01ennn]] — [How to be a Memory Engineer — write path, utility density, file control, KV](https://x.com/n01ennn/status/2083971749079581120) `[agent-memory, agent-harness, harness-engineering, memory, kv-cache, cost-optimization]`
 - [[graph-engineering-14-step-roadmap-0xcodez]] — [Graph engineering — nodes/edges, diamond, verifiers, Claude Code dynamic workflows](https://x.com/0xcodez/status/2079165300625330317) `[agents, multi-agent, orchestration, claude-code, dynamic-workflows, verification, harness-engineering, parallelism, cost-optimization]`
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]] — [Graph engineering — Loop successor, dynamic workflows fleets (0xCodila)](https://x.com/0xcodila/status/2079597821511020996) `[agents, multi-agent, claude-code, dynamic-workflows, verification, harness-engineering, parallelism, worktrees, cost-optimization]`
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]] — [Graph engineering: fake edges, diamond, anchors](https://x.com/anatolikopadze/status/2080668775796314331) `[graph-engineering, loop-engineering, multi-agent, verification, claude-code, dynamic-workflows, cost-optimization]`
@@ -348,6 +353,7 @@
 - [[waku-agent-github]] — [waku-agent — local harness/loop/memory/eval assistant](https://github.com/ShenSeanChen/waku-agent) `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[context-engineering-field-guide-phosphenq]] — [Context engineering field guide (12 moves)](https://x.com/phosphenq/status/2078221723409830336) `[context-engineering, prompt-engineering, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[context-engineering-delete-audit-free-ai-guides]] — [4-layer context delete audit (after Anthropic 80% cut)](https://x.com/free_ai_guides/status/2082463119742320825) `[context-engineering, prompt-engineering, agent-harness, skills, mcp, compaction]`
+- [[context-engineering-feed-model-not-dumber-h100envy]] — [Context Engineering — feed a model so it does not get dumber](https://x.com/h100envy/status/2082064768844837357) `[context-engineering, context-rot, agent-harness, attention, rag, compaction, loop-engineering]`
 - [[context-engineering-os-loop-engineering-vartekxx]] — [Prompt is one instruction; context is the OS; loops automate it (Karpathy + Cherny)](https://x.com/vartekxx/status/2074864291568664646) `[context-engineering, loop-engineering, prompt-engineering, agent-harness, claude-code, verification, context-rot, skills]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, agents, agent-harness, harness-engineering, context-management, verification, human-ai, attention]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — singular company agent, MCP Gateway, outcomes over activity](https://x.com/neilrahilly/status/2075290325757608148) `[agents, agent-harness, enterprise, sierra, claude-code, codex, mcp, agent-ops, productivity, outcomes, artifacts]`
@@ -657,6 +663,7 @@
 - [[continuous-trace-intelligence-braintrust-topics]] `[observability, traces, llm-ops, clustering, braintrust, clio, agents]`
 - [[continual-learning-replit-agent-vibench]] `[continual-learning, evals, vibench, replit, agent-harness, production-traces, vibe-coding, self-improvement, observability]`
 - [[context-engineering-delete-audit-free-ai-guides]] `[context-engineering, prompt-engineering, claude-code, agents, agent-harness, skills, mcp, compaction]`
+- [[context-engineering-feed-model-not-dumber-h100envy]] `[context-engineering, context-rot, agents, agent-harness, attention, rag, compaction, loop-engineering, kv-cache, prompt-engineering]`
 - [[context-engineering-field-guide-phosphenq]] `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[context-engineering-os-loop-engineering-vartekxx]] `[context-engineering, loop-engineering, prompt-engineering, agents, agent-harness, claude-code, subagents, verification, context-rot, skills]`
 - [[controlling-reasoning-effort-in-llms]] `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
@@ -727,6 +734,7 @@
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-openai-sol-learned-design-taste-designarena]] `[design, frontend, models, openai, gpt-5.6, sol, evals, designarena, taste, generative-ui, benchmarks]`
 - [[how-to-actually-design-with-ai-lexnlin]] `[design, skills, ui, frontend, prompt-engineering, taste, claude, codex, creativity]`
+- [[how-to-be-a-memory-engineer-n01ennn]] `[agent-memory, agents, agent-harness, memory, forgetting, kv-cache, observability, harness-engineering, cost-optimization, context-management]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems, trajectory-grading]`
 - [[how-to-build-a-claude-cowork-plugin-that-actually]] `[agents, coding-tools]`
 - [[how-to-build-agent-that-never-forgets]] `[agents, memory, knowledge-graphs, architecture, rag, cron]`
@@ -875,6 +883,7 @@
 - [[software-factory-linear-claude-cloud-routines]] `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob, observability]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax, agents, gpu, architecture, training]`
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]] `[spec-engineering, agents, agent-harness, claude-code, verification, planning, context-management, coding-tools, loop-engineering]`
 - [[spec-kit-github-sdd]] `[spec-driven-development, agents, claude-code, skills, templates, presets, extensions, github, coding-tools]`
 - [[structure-problem-top-down-bottom-up-decision-memo]] `[pm, product-management, decision-making, product-discovery, skills, claude-code, writing, stakeholders, productivity, ai-pm-os]`
 - [[sub-agents-are-a-promising-inference-time-scaling]] `[agents, papers]`
