@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-07
 
+- Ingest: Graph Engineering work plans ultracode (mojeskoqq 2085035505662439707)
+
+## 2026-08-07
+
 - Ingest: Scoping and curating eval datasets (annabellschfr 2085381643687047434)
 
 ## 2026-08-07
