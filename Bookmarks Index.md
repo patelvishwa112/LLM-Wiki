@@ -133,6 +133,7 @@
 - [[agent-harness-should-repair-itself]] — [Your Agent Harness Should Repair Itself](https://x.com/akshay_pachaar/status/2064051835636498924) `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[anthropic-recursive-self-improvement]] — [When AI Builds Itself — Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — RSI flywheel as lab moat](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, agents, agent-harness, harness-engineering, rlvr, synthetic-data, verification, ai-strategy]`
+- [[knowledge-flywheels-yisongyue]] — [Knowledge Flywheels — scale knowledge from agent experience](https://x.com/yisongyue/status/2085043769297277114) `[recursive-self-improvement, agents, agent-harness, continual-learning, distillation, trace-data, ai-strategy]`
 - [[anthropic-global-workspace-j-space]] — [A global workspace in language models (J-space)](https://www.anthropic.com/research/global-workspace) `[mechanistic-interpretability, interpretability, anthropic, global-workspace, j-space, safety, monitoring, consciousness]`
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
@@ -309,6 +310,7 @@
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — harness+verifier+synthetic flywheel](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, harness-engineering, agent-harness, rlvr, synthetic-data, verification, autodata, ai-strategy]`
+- [[knowledge-flywheels-yisongyue]] — [Knowledge Flywheels — experience → reusable insights → harnesses/models](https://x.com/yisongyue/status/2085043769297277114) `[recursive-self-improvement, harness-engineering, agent-harness, continual-learning, distillation, trace-data]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — Cursor vs native Codex/Claude Code deltas (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, cursor, claude-code, codex]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — automated merge gate (blast radius over confidence)](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
@@ -368,6 +370,7 @@
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
+- [[scoping-curating-eval-datasets-annabellschfr]] — [Scoping and curating eval datasets — 15-30 MVP rows](https://x.com/annabellschfr/status/2085381643687047434) `[evals, llm-judges, agents, verification, observability, trace-data, production, regression-testing]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [Applied AI engineer guide — outcome vs trajectory evals](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, evals, trajectory-grading, agent-harness, career]`
 - [[article]] — [Article](https://x.com/AmarSVS/status/2051470760947159197)
@@ -787,6 +790,7 @@
 - [[kimi-k3-explained-forgetting-swill1ams]] `[architecture, kimi, moonshot, kv-cache, linear-attention, deltanet, mla, moe, inference, long-context, models, attention]`
 - [[kimi-k3-memory-savings-jevon-bookwormengr]] `[kimi, kimi-k3, moonshot, architecture, linear-attention, kda, mla, kv-cache, inference, long-context, investing, ai-economics, hardware, memory, models, jevon-paradox]`
 - [[kirillkweb3]] `[agents]`
+- [[knowledge-flywheels-yisongyue]] `[recursive-self-improvement, agents, agent-harness, harness-engineering, continual-learning, agent-memory, distillation, trace-data, verification, ai-strategy, knowledge-management]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
 - [[kv-caching-llms-clearly-explained-avichawla]] `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, fundamentals, serving, gpu]`
 - [[langchain-langgraph-101-repo]] `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
@@ -878,6 +882,7 @@
 - [[rohonchain]] `[ai-ml]`
 - [[rohonchain]] `[ai-ml]`
 - [[sakana-fugu-orchestrator-models]] `[orchestration, multi-agent, sakana-ai, models, agent-harness, grpo, collective-intelligence, routing]`
+- [[scoping-curating-eval-datasets-annabellschfr]] `[evals, llm-judges, agents, agent-harness, verification, observability, trace-data, production, regression-testing]`
 - [[secure-automated-learning-loops-modal-claude-code]] `[terse, modal, claude-code, agent-security, prompt-injection, litellm, sandbox, automated-learning, workflows, defense-in-depth]`
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]] `[agents, loop-engineering, verification, self-improvement, multi-agent, playwright, testing, enterprise, agent-harness, human-in-the-loop, deel]`
 - [[self-learning-agents-three-layers-user-signal]] `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`

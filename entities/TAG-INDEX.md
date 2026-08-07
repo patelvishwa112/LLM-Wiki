@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1039 unique tags across 472 processed notes.
+> 1039 unique tags across 474 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (116)
+### agent-harness (118)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -95,6 +95,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iii-agent-harness-workers]]
 - [[improving-agents-data-mining-traces]]
+- [[knowledge-flywheels-yisongyue]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
@@ -120,6 +121,7 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 - [[sakana-fugu-orchestrator-models]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[self-learning-agents-three-layers-user-signal]]
@@ -154,7 +156,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (27)
+### agent-memory (28)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -171,6 +173,7 @@
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-give-your-agent-memory]]
+- [[knowledge-flywheels-yisongyue]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
@@ -231,7 +234,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (224)
+### agents (226)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -364,6 +367,7 @@
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[karpathy-autoresearch-marketing-optimization]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
+- [[knowledge-flywheels-yisongyue]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[langchain-langgraph-101-repo]]
 - [[learn-harness-engineering]]
@@ -417,6 +421,7 @@
 - [[rlm-structured-outputs]]
 - [[rryssf-x-post-2065451210019102945]]
 - [[ryanbai1412-x-post-2065466603358306470]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
@@ -476,12 +481,13 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (9)
+### ai-strategy (10)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[knowledge-flywheels-yisongyue]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
@@ -931,7 +937,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
-### continual-learning (12)
+### continual-learning (13)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
@@ -939,6 +945,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[improving-agents-data-mining-traces]]
+- [[knowledge-flywheels-yisongyue]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[own-your-intelligence-harrison-chase]]
@@ -1022,12 +1029,13 @@
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[the-best-models-for-hermes-agent]]
 
-### distillation (11)
+### distillation (12)
 
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[distillation-post-training-frontier-2026]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
+- [[knowledge-flywheels-yisongyue]]
 - [[on-policy-distillation-must-read]]
 - [[on-policy-distillation-resources-2026]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
@@ -1084,7 +1092,7 @@
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[zero-trust-ai-agents]]
 
-### evals (40)
+### evals (41)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1122,6 +1130,7 @@
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[own-your-intelligence-harrison-chase]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[waku-agent-github]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
@@ -1217,7 +1226,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (38)
+### harness-engineering (39)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1240,6 +1249,7 @@
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
+- [[knowledge-flywheels-yisongyue]]
 - [[learn-harness-engineering]]
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[loop-is-the-moat-rsi-m0egpt]]
@@ -1399,6 +1409,14 @@
 - [[second-self-vs-second-brain-obsidian]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 
+### knowledge-management (5)
+
+- [[claude-code-investment-research-setup]]
+- [[knowledge-flywheels-yisongyue]]
+- [[knowledge-system-compounding-obsidian-vellum]]
+- [[level-above-phd-knowledge-works-without-you]]
+- [[research-agent-evidence-operator]]
+
 ### kv-cache (18)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1489,7 +1507,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### llm-judges (7)
+### llm-judges (8)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
@@ -1497,6 +1515,7 @@
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[waku-agent-github]]
 
 ### long-context (5)
@@ -1753,7 +1772,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (21)
+### observability (22)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1771,6 +1790,7 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[own-your-intelligence-harrison-chase]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1940,7 +1960,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### production (19)
+### production (20)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
@@ -1959,6 +1979,7 @@
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
@@ -2120,6 +2141,14 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 - [[virtual-filesystem-for-agent-assistants]]
+
+### recursive-self-improvement (5)
+
+- [[anthropic-recursive-self-improvement]]
+- [[knowledge-flywheels-yisongyue]]
+- [[loop-is-the-moat-rsi-m0egpt]]
+- [[recursive-self-improvement-2028-prediction]]
+- [[recursive-self-improvement-ai-101]]
 
 ### research (8)
 
@@ -2494,6 +2523,14 @@
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[osiris-open-source-palantir-tool]]
 
+### trace-data (5)
+
+- [[eval-engineering-merge-gate-hanakoxbt]]
+- [[improving-agents-data-mining-traces]]
+- [[knowledge-flywheels-yisongyue]]
+- [[langchain-fireworks-trace-judge-100x-cheaper]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
+
 ### trading (7)
 
 - [[4-agent-trading-desk]]
@@ -2596,7 +2633,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (38)
+### verification (40)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2619,6 +2656,7 @@
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
+- [[knowledge-flywheels-yisongyue]]
 - [[learn-harness-engineering]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
@@ -2627,6 +2665,7 @@
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[metacognition-debug-human-ai-system-stablechen]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
@@ -3367,13 +3406,6 @@
 - [[memory-is-retained-consequence]]
 - [[unified-memory-layers-entity-resolution]]
 
-### knowledge-management (4)
-
-- [[claude-code-investment-research-setup]]
-- [[knowledge-system-compounding-obsidian-vellum]]
-- [[level-above-phd-knowledge-works-without-you]]
-- [[research-agent-evidence-operator]]
-
 ### knowledge-work (4)
 
 - [[claude-cowork-best-practices]]
@@ -3733,16 +3765,10 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### recursive-self-improvement (4)
-
-- [[anthropic-recursive-self-improvement]]
-- [[loop-is-the-moat-rsi-m0egpt]]
-- [[recursive-self-improvement-2028-prediction]]
-- [[recursive-self-improvement-ai-101]]
-
-### regression-testing (2)
+### regression-testing (3)
 
 - [[agent-harness-should-repair-itself]]
+- [[scoping-curating-eval-datasets-annabellschfr]]
 - [[your-agent-harness-should-repair-itself]]
 
 ### regulation (2)
@@ -3974,12 +4000,6 @@
 
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[universal-agent-thesis]]
-
-### trace-data (3)
-
-- [[eval-engineering-merge-gate-hanakoxbt]]
-- [[improving-agents-data-mining-traces]]
-- [[langchain-fireworks-trace-judge-100x-cheaper]]
 
 ### traces (2)
 

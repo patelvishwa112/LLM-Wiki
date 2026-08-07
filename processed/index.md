@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 472 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 474 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -282,6 +282,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [kimi-k3-explained-forgetting-swill1ams.md](/processed/kimi-k3-explained-forgetting-swill1ams.md) — *bookmark* — Kimi K3 2.8T MoE explained via GQA/MLA/window/linear toolbox and hybrid KDA + Gated MLA for fixed-state long agents.
 - [kimi-k3-memory-savings-jevon-bookwormengr.md](/processed/kimi-k3-memory-savings-jevon-bookwormengr.md) — *bookmark* — Kimi K3 KDA hybrid linear at frontier scale — ~73% KV/state savings vs all-MLA; memory-stock debate vs Jevon's paradox
 - [knowledge-distillation-theturingpost.md](/processed/knowledge-distillation-theturingpost.md) — *bookmark* — "@TheTuringPost explains Knowledge Distillation (KD) as a core technique for creating smaller, capable models. Instead of training from scratch, a large teacher model transfers 'dark knowledge' (confidence distributio...
+- [knowledge-flywheels-yisongyue.md](/processed/knowledge-flywheels-yisongyue.md) — *bookmark* — Knowledge scaling as third axis — distill agent experience into reusable insights (when/why/what fails) that simplify harnesses and train wiser models.
 - [knowledge-system-compounding-obsidian-vellum.md](/processed/knowledge-system-compounding-obsidian-vellum.md) — *bookmark* — Knowledge System That Compounds
 - [kv-caching-llms-clearly-explained-avichawla.md](/processed/kv-caching-llms-clearly-explained-avichawla.md) — *bookmark* — Avi Chawla: six-part KV cache primer — last-token generation, Q/K/V reuse, O(n²) waste without cache, prefill vs decode (TTFT), memory cost (Qwen 72B example), GQA/MQA and paged attention follow-ons; ~5× decode speedu...
 - [langchain-fireworks-trace-judge-100x-cheaper.md](/processed/langchain-fireworks-trace-judge-100x-cheaper.md) — *bookmark* — Building a 100x Cheaper Trace Judge with Fireworks
@@ -401,6 +402,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [sakana-fugu-orchestrator-models.md](/processed/sakana-fugu-orchestrator-models.md) — *bookmark* — Sakana Fugu orchestrator models route queries across frontier LLMs instead of answering alone: Fugu picks one model via a fast selection head; Fugu-Ultra builds multi-model workflows trained with GRPO, with debate, bu...
 - [scalable-oversight.md](/processed/scalable-oversight.md) — *concept* — Scalable Oversight
 - [scaling-laws.md](/processed/scaling-laws.md) — *concept* — Scaling Laws
+- [scoping-curating-eval-datasets-annabellschfr.md](/processed/scoping-curating-eval-datasets-annabellschfr.md) — *bookmark* — Eval dataset design before row writing — goal, sources, distribution, reference vs free eval, schema, 15-30 MVP rows, then expand from runs.
 - [second-brain-obsidian-night-shift-300-agent-swarm.md](/processed/second-brain-obsidian-night-shift-300-agent-swarm.md) — *bookmark* — A complete autonomous second-brain system using Obsidian + Kimi Work 300-agent swarm. Five roles (Scouts, Catalogers, Cartographers, Critics, Editors) run overnight via four staged playbooks (Scout, Refinery, Editor, ...
 - [second-self-vs-second-brain-obsidian.md](/processed/second-self-vs-second-brain-obsidian.md) — *bookmark* — Second Self vs Second Brain: Obsidian Architecture for Reasoning Systems
 - [secure-automated-learning-loops-modal-claude-code.md](/processed/secure-automated-learning-loops-modal-claude-code.md) — *bookmark* — Terse CTO Olivier Morissette on weekly workflow review loops via Modal sandboxes and Claude Code, with six application-layer defenses against attacker-controlled code and logs.

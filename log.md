@@ -2,6 +2,14 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-07
+
+- Ingest: Scoping and curating eval datasets (annabellschfr 2085381643687047434)
+
+## 2026-08-07
+
+- Ingest: Knowledge Flywheels (yisongyue 2085043769297277114)
+
 ## 2026-08-03
 
 - Ingest: Three layers harness/loop/graph (lunarresearcher 2082076425465762082)
