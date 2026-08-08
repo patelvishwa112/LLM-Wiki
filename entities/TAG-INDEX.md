@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1039 unique tags across 475 processed notes.
+> 1048 unique tags across 479 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (119)
+### agent-harness (122)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -107,6 +107,7 @@
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[managed-deep-agents-harrison-chase]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[metacognition-debug-human-ai-system-stablechen]]
@@ -116,6 +117,7 @@
 - [[orchestrating-agents-adk-fhinkel]]
 - [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[production-rag-agents-technmak]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
@@ -143,6 +145,7 @@
 - [[waku-agent-github]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 - [[wtf-is-a-loop]]
@@ -235,7 +238,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (227)
+### agents (231)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -317,6 +320,7 @@
 - [[forward-deployed-engineer-roadmap-morlex]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[generative-ui-is-the-new-frontend]]
 - [[goal-loss-functions-distill-product]]
@@ -390,6 +394,7 @@
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-dreaming-orchestration]]
 - [[managed-agents-sandbox-mcp]]
+- [[managed-deep-agents-harrison-chase]]
 - [[marclou-x-post-2065385672991752210]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[mcp-core-architecture-explained]]
@@ -412,6 +417,7 @@
 - [[orchestrating-agents-adk-fhinkel]]
 - [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[production-rag-agents-technmak]]
 - [[recursive-self-improvement-ai-101]]
@@ -461,6 +467,7 @@
 - [[why-harness-engineering-is-so-hard-winterarc]]
 - [[why-layout-matters-document-processing]]
 - [[world-models-agent-imagination]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
@@ -857,7 +864,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (14)
+### coding-tools (16)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -870,8 +877,10 @@
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spec-kit-github-sdd]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### constitutional-ai (5)
@@ -892,7 +901,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (17)
+### context-engineering (18)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
@@ -911,6 +920,7 @@
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 
 ### context-management (17)
 
@@ -940,7 +950,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
-### continual-learning (13)
+### continual-learning (14)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
@@ -952,6 +962,7 @@
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[own-your-intelligence-harrison-chase]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[quarq-agent-memory-architecture]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1015,7 +1026,7 @@
 - [[principled-thinking-and-ai-ray-dalio]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 
-### deep-agents (6)
+### deep-agents (7)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -1023,6 +1034,7 @@
 - [[how-to-use-rlms-in-deep-agents]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-langgraph-101-repo]]
+- [[managed-deep-agents-harrison-chase]]
 
 ### deepseek (6)
 
@@ -1068,7 +1080,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (26)
+### enterprise (27)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -1087,6 +1099,7 @@
 - [[llms-securing-source-code]]
 - [[managed-agents-built-in-memory]]
 - [[managed-agents-sandbox-mcp]]
+- [[managed-deep-agents-harrison-chase]]
 - [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
 - [[opus-cybersecurity-partners]]
@@ -1097,7 +1110,7 @@
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[zero-trust-ai-agents]]
 
-### evals (41)
+### evals (44)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1116,6 +1129,7 @@
 - [[evals-strategic-ip-garrettlord]]
 - [[forward-deployed-engineer-roadmap-morlex]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
@@ -1134,11 +1148,13 @@
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[macro-evals-for-agentic-systems-openai-cookbook]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[managed-deep-agents-harrison-chase]]
 - [[own-your-intelligence-harrison-chase]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[waku-agent-github]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### fable-5 (9)
@@ -1232,7 +1248,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (40)
+### harness-engineering (42)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1261,10 +1277,12 @@
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
+- [[managed-deep-agents-harrison-chase]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[metacognition-debug-human-ai-system-stablechen]]
 - [[own-your-intelligence-harrison-chase]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
@@ -1445,7 +1463,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (12)
+### langchain (13)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
@@ -1457,6 +1475,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[managed-deep-agents-harrison-chase]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[own-your-intelligence-harrison-chase]]
 
@@ -1469,7 +1488,7 @@
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 
-### langsmith (7)
+### langsmith (8)
 
 - [[deep-agents-prompt-caching]]
 - [[do-automated-evals-work-parlance-labs]]
@@ -1478,6 +1497,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[langchain-langgraph-101-repo]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[managed-deep-agents-harrison-chase]]
 
 ### learning (6)
 
@@ -1591,7 +1611,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (39)
+### mcp (40)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1621,6 +1641,7 @@
 - [[langchain-langgraph-101-repo]]
 - [[loop-engineering-14-step-roadmap]]
 - [[managed-agents-sandbox-mcp]]
+- [[managed-deep-agents-harrison-chase]]
 - [[mcp-core-architecture-explained]]
 - [[mcp-core-architecture-hosts-clients-servers]]
 - [[mcp-model-context-protocol]]
@@ -1822,7 +1843,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (12)
+### open-source (13)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1832,6 +1853,7 @@
 - [[open-knowledge-format-okf-google]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[osiris-open-source-palantir-tool]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[quarq-agent-memory-architecture]]
 - [[sia-recursive-self-improving-agent]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
@@ -1970,7 +1992,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### production (20)
+### production (21)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
@@ -1988,12 +2010,13 @@
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[managed-deep-agents-harrison-chase]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (59)
+### productivity (60)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2053,9 +2076,10 @@
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[two-tracks-not-ten-agents]]
 - [[units-of-time-alfred-lin]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### progressive-disclosure (7)
+### progressive-disclosure (8)
 
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -2063,6 +2087,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
 ### projects (5)
@@ -2152,9 +2177,10 @@
 - [[quarq-agent-memory-architecture]]
 - [[virtual-filesystem-for-agent-assistants]]
 
-### recursive-self-improvement (5)
+### recursive-self-improvement (6)
 
 - [[anthropic-recursive-self-improvement]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[knowledge-flywheels-yisongyue]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[recursive-self-improvement-2028-prediction]]
@@ -2179,7 +2205,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (41)
+### rl (42)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -2192,6 +2218,7 @@
 - [[curiosity-bayesian-bandit]]
 - [[distillation-post-training-frontier-2026]]
 - [[fast-slow-training-continual-llm-adaptation]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[general-intelligence-rethinking-exploration-2022]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
@@ -2238,6 +2265,14 @@
 - [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
+
+### rlm (5)
+
+- [[how-to-use-rlms-in-deep-agents]]
+- [[introducing-dynamic-subagents-deep-agents]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
+- [[rlm-agents-structured-outputs]]
+- [[rlm-structured-outputs]]
 
 ### rlvr (6)
 
@@ -2326,12 +2361,13 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### self-improvement (6)
+### self-improvement (7)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[interlatent-modern-ai-robotics-first-principles]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sia-recursive-self-improving-agent]]
 
@@ -2348,11 +2384,12 @@
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (11)
+### sft (12)
 
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
@@ -2362,7 +2399,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (68)
+### skills (70)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2412,6 +2449,7 @@
 - [[loop-engineering-quietly-ate-prompt-engineering]]
 - [[loop-engineering]]
 - [[make-requirements-great]]
+- [[managed-deep-agents-harrison-chase]]
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[not-ambitious-enough-with-claude]]
@@ -2428,15 +2466,17 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[waku-agent-github]]
+- [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 - [[wtf-is-a-loop]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### slm (8)
+### slm (9)
 
 - [[autodata-synthetic-data-generation-explained]]
 - [[claude-code-slm-training-bootstrap]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[hrm-text-1b-reasoning-model]]
 - [[huggingface-model-architecture-visualizer]]
 - [[multi-lora-training-osmosis]]
@@ -2480,7 +2520,7 @@
 - [[loop-engineering]]
 - [[sub-agents-inference-time-scaling]]
 
-### subagents (23)
+### subagents (24)
 
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -2502,6 +2542,7 @@
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[orchestrating-agents-adk-fhinkel]]
+- [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -2552,7 +2593,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (65)
+### training (66)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2571,6 +2612,7 @@
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[explorative-modeling-third-pretraining-axis-xm]]
 - [[fast-slow-training-continual-llm-adaptation]]
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
@@ -3463,11 +3505,12 @@
 - [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### managed-agents (3)
+### managed-agents (4)
 
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-ant-cli-managed-agents]]
 - [[code-w-claude-london-2026]]
+- [[managed-deep-agents-harrison-chase]]
 
 ### market-research (2)
 
@@ -3821,13 +3864,6 @@
 - [[4-agent-trading-desk]]
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 
-### rlm (4)
-
-- [[how-to-use-rlms-in-deep-agents]]
-- [[introducing-dynamic-subagents-deep-agents]]
-- [[rlm-agents-structured-outputs]]
-- [[rlm-structured-outputs]]
-
 ### routing (2)
 
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -4179,6 +4215,7 @@
 - **autoencoders** — [[anthropic-natural-language-autoencoders]]
 - **automated-learning** — [[secure-automated-learning-loops-modal-claude-code]]
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
+- **autonomous-agents** — [[prime-agent-rlm-continual-harness-primeintellect]]
 - **autonomous-machine-intelligence** — [[joint-embedding-predictive-architecture-jepa]]
 - **background-agents** — [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - **backtesting** — [[4-agent-trading-desk]]
@@ -4304,6 +4341,7 @@
 - **escalation** — [[graph-engineering-three-commitments-cyrilxbt]]
 - **esm** — [[notes-on-foundation-models]]
 - **eval** — [[langchain-fireworks-trace-judge-100x-cheaper]]
+- **evolutionary-search** — [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - **exp1-gap-closure** — [[exp1-sae-gap-closure-initial-result]]
 - **experimentation** — [[testing-business-ideas-product-operating-system]]
 - **extended-thinking** — [[extended-thinking]]
@@ -4398,6 +4436,7 @@
 - **interview-prep** — [[ai-research-job-search-alisa-wuffles]]
 - **interview-questions** — [[rl-interview-questions-2026]]
 - **investment-research** — [[claude-code-investment-research-setup]]
+- **ipython** — [[prime-agent-rlm-continual-harness-primeintellect]]
 - **iteration** — [[building-your-first-ai-agent-clear-path]]
 - **ivf** — [[how-vector-database-works]]
 - **j-space** — [[anthropic-global-workspace-j-space]]
@@ -4461,6 +4500,7 @@
 - **mermaid** — [[hermes-seven-skills-cobi-bean]]
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-agents** — [[shepherd-reversible-execution-traces-avichawla]]
+- **meta-evolution** — [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - **meta-prompting** — [[automate-writing-llm-prompts-dspy]]
 - **metacognition** — [[metacognition-debug-human-ai-system-stablechen]]
 - **microsoft-ai** — [[are-you-still-tuning-llms-by-hand-gepa]]
@@ -4470,6 +4510,7 @@
 - **minimax** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - **misuse** — [[detecting-misuse]]
 - **ml-infra** — [[daleverett-polygress-agent-era]]
+- **mle** — [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - **mlops** — [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - **moats** — [[the-untrainable]]
 - **modal** — [[secure-automated-learning-loops-modal-claude-code]]
@@ -4514,6 +4555,7 @@
 - **one-person-company** — [[claude-cowork-one-person-company-2026]]
 - **online-learning** — [[learning-from-experience-noise-oaklab-handsdiff]]
 - **ood-generalization** — [[why-on-policy-distillation-works]]
+- **openmle** — [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - **openpipe** — [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - **openrouter** — [[the-best-models-for-hermes-agent]]
 - **openwiki** — [[openwiki-02-okf-langchain-bracesproul]]
@@ -4562,6 +4604,7 @@
 - **position-vs-effort** — [[effort-position-leverage-principles]]
 - **positioning** — [[productize-problems-you-already-solved-eptwts]]
 - **post-agent-companies** — [[post-agent-companies]]
+- **posthog** — [[writing-agent-skills-posthog-ian-vanagas]]
 - **pq** — [[how-vector-database-works]]
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prd-review** — [[make-requirements-great]]
@@ -4569,6 +4612,7 @@
 - **preferences** — [[hundred-x-agentic-engineer-preferences-systematicls]]
 - **prefill** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **presets** — [[spec-kit-github-sdd]]
+- **prime-intellect** — [[prime-agent-rlm-continual-harness-primeintellect]]
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
 - **probes** — [[priests-of-agi-interpretability-crisis]]
@@ -4632,6 +4676,7 @@
 - **saga** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **sakana-ai** — [[sakana-fugu-orchestrator-models]]
 - **saliency** — [[priests-of-agi-interpretability-crisis]]
+- **sandboxes** — [[managed-deep-agents-harrison-chase]]
 - **sarif** — [[nvidia-skillspector-security-scanner]]
 - **scalable-oversight** — [[scalable-oversight]]
 - **scheduled-tasks** — [[claude-hidden-features-guide]]

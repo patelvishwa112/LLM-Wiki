@@ -58,6 +58,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]] — [Making an AI Agent Production-Ready [Tutorial With Code]](https://sarthakai.substack.com/p/making-an-ai-agent-production-ready) `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi]`
 - [[how-to-build-custom-agent-harness-langchain]] — [How to Build a Custom Agent Harness](https://www.langchain.com/blog/how-to-build-a-custom-agent-harness) `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
+- [[managed-deep-agents-harrison-chase]] — [Managed Deep Agents — Deep Agents + LangSmith production](https://x.com/hwchase17/status/2085780032031760694) `[agents, agent-harness, harness-engineering, langchain, langsmith, deep-agents, managed-agents, production, sandboxes, evals]`
 - [[build-claude-code-harness-crewai-akshay]] — [Claude Code harness rebuild — loop/planning/subagents/E2B (CrewAI)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agents, agent-harness, claude-code, crewai, multi-agent, sandbox, coding-tools]`
 - [[glean-coding-harness-programmatic-tool-calling]] — [Glean coding harness — 100% programmatic tool calling (24% tokens)](https://x.com/tonygentilcore/status/2075234683202531403) `[agent-harness, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, search]`
 - [[sierra-pinecone-singular-company-agent]] — [Sierra Pinecone — one company-wide agent (Neil Rahilly)](https://x.com/neilrahilly/status/2075290325757608148) `[agents, enterprise, sierra, pinecone, claude-code, codex, mcp, agent-ops, artifacts, outcomes]`
@@ -66,6 +67,7 @@
 - [[deep-agents-prompt-caching]] — [Prompt Caching with Deep Agents](https://x.com/its_ao/status/2070556265906917860) `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, inference]`
 - [[introducing-dynamic-subagents-deep-agents]] — [Introducing Dynamic Subagents in Deep Agents](https://x.com/sydneyrunkle/status/2071629451712983319) `[agents, multi-agent, subagents, orchestration, langchain, deep-agents, workflows, rlm, code-interpreter]`
 - [[how-to-use-rlms-in-deep-agents]] — [How to Use RLMs in Deep Agents](https://x.com/sydneyrunkle/status/2072347918447558978) `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
+- [[prime-agent-rlm-continual-harness-primeintellect]] — [Prime Agent — self-improving RLM + Continual Harness](https://x.com/primeintellect/status/2085612369154281546) `[agents, agent-harness, rlm, continual-learning, self-improvement, open-source, prime-intellect]`
 - [[hermes-goal-mode-guide]] — [Hermes /goal — Turn a Chat Message Into a Standing Job](https://x.com/zaimiri/status/2061745669077926042)
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
@@ -133,6 +135,7 @@
 - [[agent-harness-should-repair-itself]] — [Your Agent Harness Should Repair Itself](https://x.com/akshay_pachaar/status/2064051835636498924) `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[anthropic-recursive-self-improvement]] — [When AI Builds Itself — Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — RSI flywheel as lab moat](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, agents, agent-harness, harness-engineering, rlvr, synthetic-data, verification, ai-strategy]`
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE — meta-evolution operators beat frontier on MLE](https://x.com/neural_avb/status/2086073348531110130) `[recursive-self-improvement, meta-evolution, training, rl, sft, mle, agents, openmle]`
 - [[knowledge-flywheels-yisongyue]] — [Knowledge Flywheels — scale knowledge from agent experience](https://x.com/yisongyue/status/2085043769297277114) `[recursive-self-improvement, agents, agent-harness, continual-learning, distillation, trace-data, ai-strategy]`
 - [[anthropic-global-workspace-j-space]] — [A global workspace in language models (J-space)](https://www.anthropic.com/research/global-workspace) `[mechanistic-interpretability, interpretability, anthropic, global-workspace, j-space, safety, monitoring, consciousness]`
 - [[wtf-is-a-loop]] — [WTF Is a Loop? Peter Steinberger vs. Boris Cherny](https://x.com/mvanhorn/status/2063865685558903149) `[agents, loops, claude-code, orchestration, agent-harness, skills]`
@@ -140,6 +143,7 @@
 - [[software-factory-linear-claude-cloud-routines]] — [Software factory in an afternoon — Linear + Claude Cloud Routines](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob]`
 - [[software-factories-light-and-dark-addy-osmani]] — [Software Factories, Light and Dark — loop/harness/factory + comprehension debt](https://x.com/addyosmani/status/2079442194449232227) `[software-factory, harness-engineering, loop-engineering, agents, verification, human-in-the-loop, addy-osmani]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
+- [[writing-agent-skills-posthog-ian-vanagas]] — [What nobody tells you about writing agent skills (PostHog)](https://x.com/posthog/status/2084345938089316582) `[skills, agents, progressive-disclosure, context-engineering, posthog, coding-tools]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
@@ -284,6 +288,7 @@
 - [[claude-code-slash-command-library]] — [How to Build a Claude Code Slash Command Library](https://x.com/0x_rody/status/2063549084695158936) `[claude-code, slash-commands, skills, productivity, templates]`
 - [[anthropic-claude-code-skills-lessons]] — [Lessons from Building Claude Code: How We Use Skills](https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills) `[claude-code, skills, anthropic, agent-engineering, productivity, hooks, progressive-disclosure]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now. (SkillsBench)](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, coding-tools]`
+- [[writing-agent-skills-posthog-ian-vanagas]] — [What nobody tells you about writing agent skills (PostHog)](https://x.com/posthog/status/2084345938089316582) `[skills, progressive-disclosure, posthog, coding-tools, agent-harness]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering — harness extension patterns](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, claude-code, codex, hooks, progressive-disclosure, design, impeccable]`
 - [[how-to-create-right-skill-ai-agent]] — [How to Create the Right Skill for Your AI Agent](https://x.com/free_ai_guides/status/2071666929451094227) `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Voice → transcript → Codex essay/video skills (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, productivity, ffmpeg, remotion]`
@@ -312,11 +317,14 @@
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
 - [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — harness+verifier+synthetic flywheel](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, harness-engineering, agent-harness, rlvr, synthetic-data, verification, autodata, ai-strategy]`
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE meta-evolution](https://x.com/neural_avb/status/2086073348531110130) `[recursive-self-improvement, meta-evolution, harness-engineering, training, rl, mle]`
 - [[knowledge-flywheels-yisongyue]] — [Knowledge Flywheels — experience → reusable insights → harnesses/models](https://x.com/yisongyue/status/2085043769297277114) `[recursive-self-improvement, harness-engineering, agent-harness, continual-learning, distillation, trace-data]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — Cursor vs native Codex/Claude Code deltas (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, cursor, claude-code, codex]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — automated merge gate (blast radius over confidence)](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
+- [[managed-deep-agents-harrison-chase]] — [Managed Deep Agents — Deep Agents + LangSmith production](https://x.com/hwchase17/status/2085780032031760694) `[agents, agent-harness, harness-engineering, langchain, langsmith, deep-agents, managed-agents, production]`
+- [[prime-agent-rlm-continual-harness-primeintellect]] — [Prime Agent — RLM + Continual Harness (open-source)](https://x.com/primeintellect/status/2085612369154281546) `[agent-harness, harness-engineering, rlm, continual-learning, self-improvement, open-source]`
 - [[build-claude-code-harness-crewai-akshay]] — [Let's build Claude Code's harness in CrewAI (Akshay)](https://x.com/akshay_pachaar/status/2077455755066868098) `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? — flywheel + pretrain reflexes](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, pretraining, data-flywheel, sft, rl, distillation, context-management]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, harness-engineering, agent-harness, hooks, multi-agent, cross-harness, impeccable]`
@@ -553,6 +561,7 @@
 - [[anshuman-athletickoder-on-building-agents-from-fir]] — [anshuman @athleticKoder On Building Agents From First Principles. How to define ](https://x.com/athleticKoder/status/2057091692235481560)
 - [[2026-is-shaping-up-to-be-the-year-of-opd-more-spec]] — [2026 is shaping up to be the year of OPD, more specifically OPSD](https://x.com/neural_avb/status/2054640032087146727)
 - [[check-this---bootstrapping-claude-to-train-a-slm]] — [Check this - Bootstrapping Claude to train a SLM!](https://x.com/neural_avb/status/2057201992666411518)
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE — trained operators beat frontier on MLE](https://x.com/neural_avb/status/2086073348531110130) `[training, rl, sft, meta-evolution, openmle, mle, recursive-self-improvement]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
@@ -708,6 +717,7 @@
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
 - [[forward-deployed-engineer-roadmap-morlex]] `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
+- [[frontis-ma1-openmle-meta-evolution-neural-avb]] `[recursive-self-improvement, meta-evolution, training, rl, sft, mle, openmle, agents]`
 - [[framework-frontier-ai-standards-demis-hassabis]] `[agi, ai-safety, ai-policy, governance, frontier-models, deepmind, regulation, agentic, cybersecurity, biosecurity]`
 - [[from-1-agent-to-swarm-orchestration-roadmap]] `[agents, multi-agent, orchestration, claude-code, subagents, worktrees, verification, agent-harness, loop-engineering]`
 - [[gaurigupta]] `[productivity, papers]`
@@ -825,6 +835,7 @@
 - [[managed-agents-built-in-memory]] `[agents, memory, anthropic, enterprise, agent-ops]`
 - [[managed-agents-dreaming-orchestration]] `[agents, anthropic, memory, orchestration, multi-agent, agent-ops]`
 - [[managed-agents-sandbox-mcp]] `[agents, mcp, enterprise, anthropic, security, agent-ops]`
+- [[managed-deep-agents-harrison-chase]] `[agents, agent-harness, harness-engineering, langchain, langsmith, deep-agents, managed-agents, production, sandboxes, evals]`
 - [[master-agent-architecture-harness-loop-graph-marfin]] `[agents, agent-harness, harness-engineering, loop-engineering, graph-engineering, verification, claude-code, subagents, production]`
 - [[maziyarpanahi]] `[ai-ml]`
 - [[mcp-core-architecture-explained]] `[mcp, architecture, agents, tools, protocol-design, separation-of-concerns, enterprise]`
@@ -870,6 +881,7 @@
 - [[personal-brand-better-than-resume-lindsay-casale]] `[career, personal-brand, productivity, content-strategy, writing, marketing, networking, creator-economy, audience-building]`
 - [[pm-as-context-compressor]] `[pm, context-compression, productivity, skills, communication, stakeholders]`
 - [[premium-ghostwriter-five-skills-nicolas-cole]] `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
+- [[prime-agent-rlm-continual-harness-primeintellect]] `[agents, agent-harness, rlm, continual-learning, self-improvement, open-source, prime-intellect, harness-engineering]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`
 - [[problem-first-skill-invert-bad-ideas]] `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[productize-problems-you-already-solved-eptwts]] `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur, positioning]`
@@ -939,6 +951,7 @@
 - [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[why-harness-engineering-is-so-hard-winterarc]] `[harness-engineering, agent-harness, agents, evals, verification, silent-failures, prompt-engineering, model-drift, feedback-loops, agent-ops]`
 - [[why-layout-matters-document-processing]] `[document-processing, ocr, layout, parsing, vlm, agents, pipelines]`
+- [[writing-agent-skills-posthog-ian-vanagas]] `[skills, agents, progressive-disclosure, context-engineering, posthog, coding-tools, agent-harness]`
 - [[writing-good-skills-measured-rulebook-aparna]] `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering, coding-tools]`
 - [[wtf-is-a-loop]] `[agents, loops, claude-code, orchestration, agent-harness, skills]`
 - [[wtf-is-storytelling-for-vcs-laurie-owen]] `[venture-capital, investing, storytelling, writing, marketing, content-strategy, startups, fundraising, productivity]`

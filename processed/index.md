@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 475 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 479 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -181,6 +181,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [four-loops-ai-engineering-taxonomy-aparna.md](/processed/four-loops-ai-engineering-taxonomy-aparna.md) — *bookmark* — Aparna Dhinakaran maps four loop architectures (execution, task/Ralph, product factory, system/autoresearch) plus an oversight loop, from AIEWF June 2026 hype.
 - [framework-frontier-ai-standards-demis-hassabis.md](/processed/framework-frontier-ai-standards-demis-hassabis.md) — *bookmark* — Demis Hassabis: AGI years away; proposes US FINRA-like Frontier AI Standards Body with dynamic benchmarks, pre-release testing, agentic/deception evals, and path to international standards.
 - [from-1-agent-to-swarm-orchestration-roadmap.md](/processed/from-1-agent-to-swarm-orchestration-roadmap.md) — *bookmark* — Claude Code–focused roadmap from one reliable agent loop to a swarm: orchestrator plus isolated subagent workers, git worktrees for parallel edits, independent verifiers per lane, workflows for composition, shared cla...
+- [frontis-ma1-openmle-meta-evolution-neural-avb.md](/processed/frontis-ma1-openmle-meta-evolution-neural-avb.md) — *bookmark* — neural_avb on OpenMLE / Frontis-MA1 — meta-evolution trains Draft/Improve/Debug/Crossover operators so a 35B SLM beats frontier stacks on MLE tasks under a 12 GPU-hour budget.
 - [gbrain-markdown-git-brain-mem0.md](/processed/gbrain-markdown-git-brain-mem0.md) — *bookmark* — Mem0 In Context #14 on Garry Tan's GBrain: markdown+git as source of truth, regex/wikilink typed graph (no LLM at write) drives BrainBench P@5 49.1% vs ~11–18% without graph; hybrid search + think mode with gap honest...
 - [general-intelligence-rethinking-exploration-2022.md](/processed/general-intelligence-rethinking-exploration-2022.md) — *note* — General Intelligence Requires Rethinking Exploration (2022)
 - [generative-ui-is-the-new-frontend.md](/processed/generative-ui-is-the-new-frontend.md) — *bookmark* — Generative UI Is the New Frontend
@@ -320,6 +321,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [managed-agents-built-in-memory.md](/processed/managed-agents-built-in-memory.md) — *bookmark* — Built-in memory for Claude Managed Agents lets agents learn across sessions using a filesystem-based memory layer — portable, observable, and optimized for long-running multi-session work with scoped permissions and a...
 - [managed-agents-dreaming-orchestration.md](/processed/managed-agents-dreaming-orchestration.md) — *bookmark* — Three major Managed Agents updates: dreaming for cross-session self-improvement, outcomes for rubric-driven self-evaluation, and multiagent orchestration for parallelizing complex work across specialist subagents.
 - [managed-agents-sandbox-mcp.md](/processed/managed-agents-sandbox-mcp.md) — *bookmark* — Claude Managed Agents now support self-hosted sandboxes that keep execution within enterprise perimeters and MCP tunnels that connect agents to private internal services without exposing them to the public internet.
+- [managed-deep-agents-harrison-chase.md](/processed/managed-deep-agents-harrison-chase.md) — *bookmark* — Harrison Chase launches Managed Deep Agents — Deep Agents harness plus LangSmith production infra (deployments, sandboxes, Context Hub, Harbor evals, memory, auth).
 - [marclou-x-post-2065385672991752210.md](/processed/marclou-x-post-2065385672991752210.md) — *bookmark* — X post by marclou
 - [markov-chains-polymarket-trading.md](/processed/markov-chains-polymarket-trading.md) — *bookmark* — Markov Chains for Polymarket Trading
 - [master-agent-architecture-harness-loop-graph-marfin.md](/processed/master-agent-architecture-harness-loop-graph-marfin.md) — *bookmark* — Unifies harness, loop, and graph as nested production layers ending in adversarial red-team gate and state hashing.
@@ -373,6 +375,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [post-agent-companies.md](/processed/post-agent-companies.md) — *concept* — Post-Agent Companies
 - [premium-ghostwriter-five-skills-nicolas-cole.md](/processed/premium-ghostwriter-five-skills-nicolas-cole.md) — *bookmark* — Nicolas Cole's five skills before charging $2k+/mo as a premium ghostwriter: client leadership (not employee mode), pre-writing topic strategy, five voice archetypes, platform specialization, and tech/AI scaling with ...
 - [priests-of-agi-interpretability-crisis.md](/processed/priests-of-agi-interpretability-crisis.md) — *bookmark* — Priests of AGI
+- [prime-agent-rlm-continual-harness-primeintellect.md](/processed/prime-agent-rlm-continual-harness-primeintellect.md) — *bookmark* — Prime Intellect open-sources Prime Agent — self-improving coding harness built on Recursive Language Models (persistent IPython) and a Continual Harness the agent can CRUD.
 - [principled-thinking-and-ai-ray-dalio.md](/processed/principled-thinking-and-ai-ray-dalio.md) — *bookmark* — Ray Dalio argues that principled thinking and AI must be combined for effective decision-making. The approach involves deeply examining cause-effect relationships, writing explicit criteria/principles, backtesting the...
 - [problem-first-skill-invert-bad-ideas.md](/processed/problem-first-skill-invert-bad-ideas.md) — *bookmark* — A Claude/Cowork skill that decompresses proposed solutions back into underlying problems. Treats solutions as "compressed confessions" of sensed-but-unarticulated problems. 8-section output includes assumption challen...
 - [production-rag-agents-technmak.md](/processed/production-rag-agents-technmak.md) — *bookmark* — "@techNmak's Part 2 post on production AI systems. Focuses on where real systems fail: retrieval (RAG pipeline stages from ingestion to evaluation) and agent design (tool design, observation, verification, memory, ter...
@@ -470,6 +473,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [why-layout-matters-document-processing.md](/processed/why-layout-matters-document-processing.md) — *bookmark* — Why Layout Matters in a Document Processing Pipeline
 - [why-on-policy-distillation-works.md](/processed/why-on-policy-distillation-works.md) — *concept* — Why On-Policy Distillation Works and Naive Self-Distillation Doesn't
 - [world-models-agent-imagination.md](/processed/world-models-agent-imagination.md) — *bookmark* — World Models — Can Agents Learn Inside Their Own Dreams?
+- [writing-agent-skills-posthog-ian-vanagas.md](/processed/writing-agent-skills-posthog-ian-vanagas.md) — *bookmark* — PostHog (Ian Vanagas) on writing agent skills that work — 226 internal skills, progressive disclosure, anti-rot principles, and when not to skill-ify.
 - [writing-good-skills-measured-rulebook-aparna.md](/processed/writing-good-skills-measured-rulebook-aparna.md) — *bookmark* — Aparna Dhinakaran + @seldo — five measured rules for writing agent skills (SkillsBench, SkillComposer); expert-authored, focused, routed, per-harness, weak-domain eval loops.
 - [wtf-is-a-loop-part-2-15-loops-ai-agents.md](/processed/wtf-is-a-loop-part-2-15-loops-ai-agents.md) — *bookmark* — WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running
 - [wtf-is-a-loop-peter-steinberger-boris-cherny.md](/processed/wtf-is-a-loop-peter-steinberger-boris-cherny.md) — *bookmark* — Synthesis of the 'design loops that prompt your agents' discourse: loops are cron + decision-maker; lineage ReAct → ralph → /goal → multi-agent supervision; the loop is only as good as its feedback/verification; the e...

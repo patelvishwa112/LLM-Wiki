@@ -2,6 +2,22 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-08
+
+- Ingest: Frontis-MA1 OpenMLE meta-evolution (neural_avb 2086073348531110130)
+
+## 2026-08-08
+
+- Ingest: Writing agent skills PostHog (posthog 2084345938089316582)
+
+## 2026-08-08
+
+- Ingest: Prime Agent RLM Continual Harness (primeintellect 2085612369154281546)
+
+## 2026-08-08
+
+- Ingest: Managed Deep Agents (hwchase17 2085780032031760694)
+
 ## 2026-08-07
 
 - Ingest: Graph Engineering work plans ultracode (mojeskoqq 2085035505662439707)
