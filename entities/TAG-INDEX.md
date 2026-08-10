@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1049 unique tags across 480 processed notes.
+> 1050 unique tags across 481 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -238,7 +238,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (232)
+### agents (233)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -351,6 +351,7 @@
 - [[hermes-kanban-mission-control]]
 - [[hiiinternet-x-post]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
@@ -1042,19 +1043,21 @@
 - [[langchain-langgraph-101-repo]]
 - [[managed-deep-agents-harrison-chase]]
 
-### deepseek (6)
+### deepseek (7)
 
 - [[deepseek-v4-claude-code-setup]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[distillation-post-training-frontier-2026]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[rl-algo-comprehensive-qa]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[the-best-models-for-hermes-agent]]
 
-### distillation (12)
+### distillation (13)
 
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[distillation-post-training-frontier-2026]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - [[knowledge-distillation-theturingpost]]
 - [[knowledge-flywheels-yisongyue]]
@@ -1232,12 +1235,13 @@
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 
-### grpo (12)
+### grpo (13)
 
 - [[autodata-synthetic-data-generation-explained]]
 - [[building-agents-from-first-principles]]
 - [[continuous-batching-grpo-trl]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[opsd-off-policy-self-distillation]]
 - [[rl-algo-comprehensive-qa]]
@@ -1325,11 +1329,12 @@
 - [[waku-agent-github]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### huggingface (8)
+### huggingface (9)
 
 - [[continuous-batching-grpo-trl]]
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[huggingface-model-architecture-visualizer]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[peft-beyond-lora]]
@@ -1960,7 +1965,7 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (15)
+### post-training (16)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -1969,6 +1974,7 @@
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[multi-lora-training-osmosis]]
@@ -2213,7 +2219,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (42)
+### rl (43)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -2232,6 +2238,7 @@
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[harbor-rl-coding-environments]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[how-to-build-ai-agent-swarms]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[learning-from-experience-noise-oaklab-handsdiff]]
@@ -2282,9 +2289,10 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (6)
+### rlvr (7)
 
 - [[controlling-reasoning-effort-in-llms]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
@@ -2603,7 +2611,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (66)
+### training (67)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2628,6 +2636,7 @@
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[harbor-rl-coding-environments]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
@@ -2686,6 +2695,14 @@
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-transformers-explained-neural-avb]]
 - [[what-is-kv-cache-llms]]
+
+### trl (5)
+
+- [[continuous-batching-grpo-trl]]
+- [[distillation-post-training-frontier-2026]]
+- [[grpo-trl-training-agents-class3-sergiopaniego]]
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
+- [[training-agents-class-1-sft-by-agent]]
 
 ### venture-capital (6)
 
@@ -3097,6 +3114,11 @@
 - [[ai-cybersecurity]]
 - [[framework-frontier-ai-standards-demis-hassabis]]
 - [[opus-cybersecurity-partners]]
+
+### dapo (2)
+
+- [[how-frontier-models-train-on-outcomes-2026-sergio]]
+- [[rl-algo-comprehensive-qa]]
 
 ### data (3)
 
@@ -4076,13 +4098,6 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 
-### trl (4)
-
-- [[continuous-batching-grpo-trl]]
-- [[distillation-post-training-frontier-2026]]
-- [[grpo-trl-training-agents-class3-sergiopaniego]]
-- [[training-agents-class-1-sft-by-agent]]
-
 ### tutorial (2)
 
 - [[how-to-build-diffusion-language-model-kuleshov]]
@@ -4300,7 +4315,6 @@
 - **curation** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **curiosity** — [[curiosity-bayesian-bandit]]
 - **curriculum** — [[2026-ai-engineering-roadmap]]
-- **dapo** — [[rl-algo-comprehensive-qa]]
 - **data-curation** — [[openthoughts-agent-data-recipes-agentic-models]]
 - **data-engineering** — [[anthropic-self-service-analytics-claude]]
 - **data-flywheel** — [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -4803,6 +4817,7 @@
 - **vector-database** — [[how-vector-database-works]]
 - **vellum** — [[knowledge-system-compounding-obsidian-vellum]]
 - **vercel** — [[leerob-x-post-2065469795529588940]]
+- **verifiable-rewards** — [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - **vibench** — [[continual-learning-replit-agent-vibench]]
 - **video** — [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - **viral-content** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]

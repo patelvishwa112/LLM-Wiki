@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 480 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 481 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -225,6 +225,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [hermes-seven-skills-cobi-bean.md](/processed/hermes-seven-skills-cobi-bean.md) — *bookmark* — Cobi Bean's stack for serious Hermes agents: if you repeat an instruction twice, encode it as a skill — seven picks cover design-first (Superpowers), soul.md grading, repo project memory, Obsidian agent wiki, gogcli g...
 - [hiiinternet-x-post.md](/processed/hiiinternet-x-post.md) — *bookmark* — X post by hiiinternet
 - [how-ai-models-learn-skills-behaviors-leerob.md](/processed/how-ai-models-learn-skills-behaviors-leerob.md) — *bookmark* — Lee Robinson lay explainer: pretrain → SFT → RL as book/film/coach; model specs + held-out evals; alignment quirks; agents still use file memory not true continual learning.
+- [how-frontier-models-train-on-outcomes-2026-sergio.md](/processed/how-frontier-models-train-on-outcomes-2026-sergio.md) — *bookmark* — Sergio Paniego maps 2026 frontier post-training RL — verifiable rewards, GRPO variants (DAPO/GSPO/CISPO), agentic environments, and RL-then-distill pipelines.
 - [how-gpu-executes-code-first-principles.md](/processed/how-gpu-executes-code-first-principles.md) — *bookmark* — A first-principles walkthrough of how GPUs execute code — from the thread hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline, to why GPUs revolutionized parallel computation. Includes th...
 - [how-openai-sol-learned-design-taste-designarena.md](/processed/how-openai-sol-learned-design-taste-designarena.md) — *bookmark* — Design Arena: GPT-5.6 Sol #1 Web Design (non-agentic) — CLIP/UMAP 'holes' avoid AI anti-patterns, templating+personalization, new Pareto on preference vs speed/price.
 - [how-to-actually-design-with-ai-lexnlin.md](/processed/how-to-actually-design-with-ai-lexnlin.md) — *bookmark* — Leon Lin (@LexnLin) on designing with AI: taste and direction stay human; three methods — design skills (fast), component-by-component with references (best), inspiration boards (middle).

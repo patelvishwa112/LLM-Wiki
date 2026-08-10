@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-10
 
+- Ingest: How frontier models train on outcomes 2026 (sergiopaniego 2086805987705417851)
+
+## 2026-08-10
+
 - Ingest: Opus 5 explained effort dial (notegoyard 2086768712804126959)
 
 ## 2026-08-08

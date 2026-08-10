@@ -114,6 +114,7 @@
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] — [How to Fine-Tune LLMs in 2026 — GRPO + RULER + ART](https://x.com/akshay_pachaar/status/2029212227438518406) `[rl, training, fine-tuning, grpo, agents, evals, openpipe, art, ruler, lora, post-training]`
 - [[slime-open-source-rl-kernel-glm-dailydose]] — [slime — open-source RL kernel behind GLM-5.2](https://x.com/DailyDoseOfDS_/status/2083123018914746803) `[rl, training, post-training, agents, open-source, glm, megatron, sglang, slime]`
 - [[grpo-trl-training-agents-class3-sergiopaniego]] — [Training Agents Class 3 — GRPO with TRL resources](https://x.com/SergioPaniego/status/2082469796893839393) `[rl, grpo, trl, training, agents, huggingface, post-training, evals]`
+- [[how-frontier-models-train-on-outcomes-2026-sergio]] — [How frontier models train on outcomes in 2026](https://x.com/sergiopaniego/status/2086805987705417851) `[rl, rlvr, grpo, training, post-training, agents, distillation, trl, verifiable-rewards]`
 - [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — turn-level credit for long-horizon tool agents (arXiv:2607.13988)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, rlvr, grpo, post-training, tool-use, qwen, long-horizon, browsecomp]`
 - [[understanding-video-models-rl-post-training]] — [Understanding Video Models: Part III - RL Post-Training](https://x.com/majumdar_ani/status/2078508177620926531) `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training]`
 - [[universal-agent-thesis]] — [Universal AgentThesis](https://x.com/cobusgreylingza/status/2066593705906012188) `[agents, agent-harness, self-evolving-agents, tool-use, autonomy, architecture]`
@@ -575,6 +576,7 @@
 - [[training-agents-class-1-sft-by-agent]] — [Training Agents Class 1: SFT, run by an agent](https://x.com/sergiopaniego/status/2069369115630870771) `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`
 - [[distillation-post-training-frontier-2026]] — [Distillation in 2026 frontier post-training (Training an Agent series)](https://x.com/sergiopaniego/status/2074863503312044499) `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
 - [[grpo-trl-training-agents-class3-sergiopaniego]] — [Training Agents Class 3 — GRPO + TRL (Sergio)](https://x.com/SergioPaniego/status/2082469796893839393) `[rl, grpo, trl, training, agents, huggingface, post-training]`
+- [[how-frontier-models-train-on-outcomes-2026-sergio]] — [How frontier models train on outcomes in 2026 (Class 3 companion)](https://x.com/sergiopaniego/status/2086805987705417851) `[rl, rlvr, grpo, dapo, training, post-training, distillation, verifiable-rewards, trl]`
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] — [Fine-tune LLMs 2026 — GRPO + RULER + ART](https://x.com/akshay_pachaar/status/2029212227438518406) `[rl, training, fine-tuning, grpo, agents, openpipe, art, ruler, post-training]`
 - [[slime-open-source-rl-kernel-glm-dailydose]] — [slime open-source RL kernel (GLM-5.2)](https://x.com/DailyDoseOfDS_/status/2083123018914746803) `[rl, training, post-training, glm, open-source, slime, megatron, sglang]`
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]] — [Behavior parroting — can Chinese labs distill US models via APIs?](https://x.com/completeskeptic/status/2080494182775521745) `[distillation, training, post-training, rlhf, sft, reasoning, ai-policy, api-distillation, behavior-cloning, models]`
@@ -759,6 +761,7 @@
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[how-ai-models-learn-skills-behaviors-leerob]] `[training, pretraining, sft, rl, evals, alignment, model-spec, continual-learning, agents, agent-memory, llm-judges, post-training]`
+- [[how-frontier-models-train-on-outcomes-2026-sergio]] `[rl, rlvr, grpo, dapo, training, post-training, agents, distillation, trl, verifiable-rewards, huggingface]`
 - [[how-gpu-executes-code-first-principles]] `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[how-openai-sol-learned-design-taste-designarena]] `[design, frontend, models, openai, gpt-5.6, sol, evals, designarena, taste, generative-ui, benchmarks]`
 - [[how-to-actually-design-with-ai-lexnlin]] `[design, skills, ui, frontend, prompt-engineering, taste, claude, codex, creativity]`
