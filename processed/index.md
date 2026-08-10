@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 479 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 480 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -358,6 +358,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [opportunity-ai-pm-os-workflow.md](/processed/opportunity-ai-pm-os-workflow.md) — *bookmark* — PM OS /opportunity workflow: intake outcomes + journey moments, OST tree with need-reframing, qualitative four-lens selection—not RICE at opportunity stage.
 - [opsd-off-policy-self-distillation.md](/processed/opsd-off-policy-self-distillation.md) — *bookmark* — ar0cket1 shares early experimental results on Off-Policy Self-Distillation (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD's sample efficiency and training stability. Work in progress after ...
 - [opus-48-token-economy-guide.md](/processed/opus-48-token-economy-guide.md) — *bookmark* — Opus 4.8 Token Economy Guide
+- [opus-5-explained-effort-dial-notegoyard.md](/processed/opus-5-explained-effort-dial-notegoyard.md) — *bookmark* — YARD on Opus 5 — same price as Opus 4.8 with an effort dial; Anthropic pitches intelligence per dollar, not peak smarts (Fable 5 still higher).
 - [opus-cybersecurity-partners.md](/processed/opus-cybersecurity-partners.md) — *bookmark* — Anthropic's partners are deploying Claude Opus for cybersecurity at scale: Wiz surfaces thousands of validated high/critical findings weekly across 150K+ production assets with zero false positives, Palo Alto Networks...
 - [orchestrating-agents-adk-fhinkel.md](/processed/orchestrating-agents-adk-fhinkel.md) — *bookmark* — Franziska Hinkelmann on Google ADK multi-agent orchestration: specialist subagents + default isolation; share only sliced session state, not a global context pool.
 - [osiris-open-source-palantir-tool.md](/processed/osiris-open-source-palantir-tool.md) — *processed-note* — Osiris: Open Source Palantir Alternative

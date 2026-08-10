@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1048 unique tags across 479 processed notes.
+> 1049 unique tags across 480 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -238,7 +238,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (231)
+### agents (232)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -413,6 +413,7 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[opsd-off-policy-self-distillation]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[opus-cybersecurity-partners]]
 - [[orchestrating-agents-adk-fhinkel]]
 - [[own-your-intelligence-harrison-chase]]
@@ -490,7 +491,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (10)
+### ai-strategy (11)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -498,6 +499,7 @@
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[knowledge-flywheels-yisongyue]]
 - [[loop-is-the-moat-rsi-m0egpt]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
 - [[the-untrainable]]
@@ -526,7 +528,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (34)
+### anthropic (35)
 
 - [[ai-native-engineering-org]]
 - [[anthropic-ant-cli-guide]]
@@ -558,6 +560,7 @@
 - [[managed-agents-dreaming-orchestration]]
 - [[managed-agents-sandbox-mcp]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[opus-cybersecurity-partners]]
 - [[priests-of-agi-interpretability-crisis]]
 - [[vscode-copilot-token-efficiency]]
@@ -669,7 +672,7 @@
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
-### claude (39)
+### claude (40)
 
 - [[10-rules-polished-ui-claude]]
 - [[15-prompts-cut-coding-costs-88-percent]]
@@ -704,6 +707,7 @@
 - [[not-ambitious-enough-with-claude]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[opus-48-token-economy-guide]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[personal-ai-assistant-claude-0-cost]]
 - [[skill-solo-millionaires-ai-era]]
 - [[stanford-storm-method-claude-research]]
@@ -864,7 +868,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (16)
+### coding-tools (17)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[build-claude-code-harness-crewai-akshay]]
@@ -877,6 +881,7 @@
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spec-kit-github-sdd]]
@@ -967,7 +972,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (23)
+### cost-optimization (24)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -989,6 +994,7 @@
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[own-your-intelligence-harrison-chase]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[vscode-copilot-token-efficiency]]
@@ -1157,7 +1163,7 @@
 - [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
-### fable-5 (9)
+### fable-5 (10)
 
 - [[designing-loops-with-fable-5]]
 - [[fable-5-mythos-prompting-masterclass]]
@@ -1168,6 +1174,7 @@
 - [[how-to-actually-use-claude-fable-5]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 
 ### finance (9)
 
@@ -1708,7 +1715,7 @@
 - [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (24)
+### models (25)
 
 - [[adapad-lora-parallel-deflation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -1730,6 +1737,7 @@
 - [[looped-transformers-explained-neural-avb]]
 - [[microsoft-mai-thinking1-rank-noninvariance]]
 - [[mosaic-probabilistic-weather-model]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[rl-environments-guide-llm]]
 - [[sakana-fugu-orchestrator-models]]
@@ -2299,7 +2307,7 @@
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[modern-ai-robotics-first-principles]]
 
-### safety (16)
+### safety (17)
 
 - [[2026-ai-engineering-roadmap]]
 - [[agent-harness-engineering-agentforge]]
@@ -2315,6 +2323,7 @@
 - [[detecting-misuse]]
 - [[jailbreaks-and-defenses]]
 - [[model-welfare]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
@@ -2555,7 +2564,7 @@
 - [[agent-harness-should-repair-itself]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 
-### token-economy (6)
+### token-economy (7)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[context-engineering-field-guide-phosphenq]]
@@ -2563,6 +2572,7 @@
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[opus-48-token-economy-guide]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 
 ### tools (8)
 
@@ -3615,10 +3625,11 @@
 - [[karpathy-autoresearch-marketing-optimization]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 
-### opus (3)
+### opus (4)
 
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[opus-48-token-economy-guide]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[opus-cybersecurity-partners]]
 
 ### pagedattention (2)
@@ -3762,10 +3773,11 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
 
-### prompt-caching (3)
+### prompt-caching (4)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[deep-agents-prompt-caching]]
+- [[opus-5-explained-effort-dial-notegoyard]]
 - [[vscode-copilot-token-efficiency]]
 
 ### prompt-injection (4)
@@ -4325,6 +4337,7 @@
 - **eagle** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
 - **edge** — [[luck-runs-out-on-schedule-trading-0xspivach]]
+- **effort-dial** — [[opus-5-explained-effort-dial-notegoyard]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
 - **email-list** — [[career-platform-email-list-ryan-holiday]]
 - **energy-based-models** — [[joint-embedding-predictive-architecture-jepa]]

@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-10
+
+- Ingest: Opus 5 explained effort dial (notegoyard 2086768712804126959)
+
 ## 2026-08-08
 
 - Ingest: Frontis-MA1 OpenMLE meta-evolution (neural_avb 2086073348531110130)

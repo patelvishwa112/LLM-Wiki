@@ -37,6 +37,7 @@
 - [[rethinking-search-as-code-generation]] — [Rethinking Search as Code Generation](https://research.perplexity.ai/articles/rethinking-search-as-code-generation)
 - [[colleague-skill-dot-skill]] — [COLLEAGUE.SKILL: Expertise as Editable, Versioned Files](https://x.com/alphasignalai/status/2061521674546119026)
 - [[opus-48-token-economy-guide]] — [Opus 4.8 Token Economy Guide](https://x.com/0x_kaize/status/2061475678143365248)
+- [[opus-5-explained-effort-dial-notegoyard]] — [Opus 5 explained — effort dial, same $ as 4.8, intel per dollar](https://x.com/notegoyard/status/2086768712804126959) `[claude, opus, fable-5, cost-optimization, token-economy, agents, effort-dial, anthropic]`
 - [[dynamic-workflows-where-plan-lives]] — [Dynamic Workflows: The Plan Moves Out of Chat](https://x.com/voxyz_ai/status/2061782441606451381)
 - [[multi-perspective-prd-review-claude-code]] — [How I use AI to find PRD flaws before review](https://x.com/nurijanian/status/2066439099712741827) `[pm, prd, claude-code, agents, multi-agent, stakeholders, review, dynamic-workflows]`
 - [[ambient-pm-agents-evidence-first-prd]] — [Ambient PM agents](https://x.com/nurijanian/status/2071555826087760076) `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
@@ -199,6 +200,7 @@
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]] — [GTM as versioned code — Karpathy cheap-metric loop on outbound](https://x.com/nifinet/status/2078851409068654639) `[gtm, sales, loop-engineering, agents, codex, evals, self-improvement, karpathy, outbound]`
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] — [Fable orchestrator — 40 sub-agents, 834-file migration, zero incidents](https://x.com/ryancarson/status/2074093250399330418) `[fable-5, agents, multi-agent, orchestration, subagents, devin, verification, production, migration, human-in-the-loop]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification, multi-agent, harness-engineering]`
+- [[opus-5-explained-effort-dial-notegoyard]] — [Opus 5 — effort dial vs Fable peak; intelligence per dollar](https://x.com/notegoyard/status/2086768712804126959) `[claude, opus, fable-5, cost-optimization, agents, anthropic, models]`
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx, six bottlenecks, neutral harness](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW (Kun notes)](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
@@ -296,6 +298,7 @@
 - [[addy-osmani-agent-skills-open-source]] — [Addy Osmani open-sources agent-skills Claude loadout](https://x.com/granite0x/status/2073540259208700311) `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] — [Agent autonomy ladder — six levels (agency + orchestration)](https://x.com/addyosmani/status/2072885435312042327) `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[claude-fable-map-territory-unknowns-trq212]] — [Claude Fable 5 — map vs territory and unknowns](https://x.com/trq212/status/2073100352921215386) `[claude, fable, claude-code, agents, prompt-engineering, planning, artifacts, context-engineering, coding-tools]`
+- [[opus-5-explained-effort-dial-notegoyard]] — [Opus 5 explained — effort dial + token economics](https://x.com/notegoyard/status/2086768712804126959) `[claude, opus, fable-5, cost-optimization, coding-tools, anthropic]`
 - [[new-rules-context-engineering-claude-5-trq212]] — [New rules of context engineering for Claude 5 — /doctor + progressive disclosure](https://x.com/trq212/status/2080710971228918066) `[context-engineering, claude-code, skills, fable, progressive-disclosure, anthropic, coding-tools, agent-harness]`
 - [[context-engineering-delete-audit-free-ai-guides]] — [Context delete audit — instructions/memory/files/tools](https://x.com/free_ai_guides/status/2082463119742320825) `[context-engineering, claude-code, skills, mcp, prompt-engineering, coding-tools]`
 - [[anthropic-ant-cli-guide]] — [Anthropic's ant CLI — Full Guide](https://x.com/hey_madni/status/2063606029146034375) `[anthropic, ant-cli, claude-code, managed-agents, mcp, cli, agents, dev-tools]`
@@ -420,6 +423,7 @@
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[opus-5-explained-effort-dial-notegoyard]] — [Opus 5 — intelligence per dollar / effort dial](https://x.com/notegoyard/status/2086768712804126959) `[ai-strategy, ai-economics, token-economy, cost-optimization, claude, anthropic]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — input-token bill + harness battleground (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[ai-economics, venture-capital, ai-strategy, harness-engineering, cost-optimization, prompt-caching, investing]`
 - [[kimi-k3-memory-savings-jevon-bookwormengr]] — [Kimi K3 memory savings vs Jevon's paradox — HBM demand debate](https://x.com/bookwormengr/status/2082377457852920075) `[ai-economics, investing, hardware, memory, kimi-k3, kv-cache, inference, long-context]`
 - [[goldmine-selling-data-frontier-labs-viks-rum]] — [The goldmine business of selling data to frontier labs](https://x.com/viks_rum/status/2077650169265590727) `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
@@ -476,6 +480,7 @@
 - [[looped-transformers-explained-neural-avb]] — [What are Looped Transformers? Explained clearly](https://x.com/neural_avb/status/2081741935883223196) `[architecture, transformers, looped-transformers, recurrence, test-time-compute, training, inference, moe, universal-transformer, models]`
 - [[sakana-fugu-orchestrator-models]] — [Sakana Fugu orchestrator models](https://x.com/amitiitbhu/status/2069023290182758497) `[orchestration, multi-agent, sakana-ai, models, grpo, routing]`
 - [[fable-manager-sol-worker-nateherk]] — [Fable is the manager, Sol is the worker](https://x.com/nateherk/status/2075394620536578128) `[fable-5, models, agents, claude-code, codex, cost-optimization, verification]`
+- [[opus-5-explained-effort-dial-notegoyard]] — [Opus 5 — effort dial; not Fable-peak, intel/$](https://x.com/notegoyard/status/2086768712804126959) `[claude, opus, fable-5, models, cost-optimization, anthropic]`
 - [[how-openai-sol-learned-design-taste-designarena]] — [GPT-5.6 Sol #1 Design Arena — anti-patterns & templates](https://x.com/designarena/status/2077432249033830706) `[design, models, openai, gpt-5.6, sol, evals, frontend, designarena]`
 
 ### Papers
@@ -873,6 +878,7 @@
 - [[openthoughts-agent-data-recipes-agentic-models]] `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, huggingface, benchmarks, teacher-model]`
 - [[opportunity-ai-pm-os-workflow]] `[pm, product-discovery, opportunity-solution-tree, continuous-discovery, teresa-torres, workflows, claude, skills, roadmap]`
 - [[opus-48-token-economy-guide]] `[claude, claude-code, productivity]`
+- [[opus-5-explained-effort-dial-notegoyard]] `[claude, opus, fable-5, cost-optimization, token-economy, agents, effort-dial, anthropic, models]`
 - [[opus-cybersecurity-partners]] `[anthropic, security, opus, cybersecurity, partners, enterprise, agents]`
 - [[orchestrating-agents-adk-fhinkel]] `[agents, multi-agent, orchestration, adk, google, context-management, subagents, agent-harness]`
 - [[own-your-intelligence-harrison-chase]] `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory, continual-learning, cost-optimization, ai-strategy]`
