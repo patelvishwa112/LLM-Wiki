@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1050 unique tags across 481 processed notes.
+> 1050 unique tags across 482 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -191,7 +191,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (34)
+### agent-ops (35)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -200,6 +200,7 @@
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[ai-agent-loop-architecture-buinevici]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[anthropic-internal-claude-code-workflow]]
 - [[anthropic-self-service-analytics-claude]]
 - [[buzz-open-source-workspace-block-jack]]
@@ -238,7 +239,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (233)
+### agents (234)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -270,6 +271,7 @@
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
@@ -650,12 +652,13 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (20)
+### career (21)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-research-job-search-alisa-wuffles]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[career-platform-email-list-ryan-holiday]]
@@ -869,9 +872,10 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (17)
+### coding-tools (18)
 
 - [[addy-osmani-agent-skills-open-source]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[claude-code-slash-command-library]]
 - [[claude-fable-map-territory-unknowns-trq212]]
@@ -973,12 +977,13 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (24)
+### cost-optimization (25)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[aftermarket-harnesses-ttunguz]]
 - [[agent-swarms-production-governance]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[claude-code-cost-optimization-prompts]]
 - [[deep-agents-prompt-caching]]
 - [[deepseek-v4-claude-code-setup]]
@@ -1341,9 +1346,10 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### human-in-the-loop (9)
+### human-in-the-loop (10)
 
 - [[agents-behave-like-employees-six-shifts]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
@@ -2030,7 +2036,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (60)
+### productivity (61)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2038,6 +2044,7 @@
 - [[ai-native-engineering-org]]
 - [[ai-research-job-search-alisa-wuffles]]
 - [[ai-survival-guide-ikea-style]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
@@ -2713,10 +2720,11 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (41)
+### verification (42)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
@@ -2852,8 +2860,9 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### agentic-engineering (3)
+### agentic-engineering (4)
 
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -3985,8 +3994,9 @@
 - [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 
-### software-factory (3)
+### software-factory (4)
 
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]

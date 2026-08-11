@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 481 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 482 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -57,6 +57,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [ai-research-job-search-alisa-wuffles.md](/processed/ai-research-job-search-alisa-wuffles.md) — *bookmark* — Alisa Wuffles (via Harnoor): 57 interviews / 11 companies → OpenAI — study full-time, implement transformers from scratch, public LLM/math notes + CS336 resource stack, negotiate hard.
 - [ai-safety-levels.md](/processed/ai-safety-levels.md) — *concept* — AI Safety Levels (ASL)
 - [ai-survival-guide-ikea-style.md](/processed/ai-survival-guide-ikea-style.md) — *bookmark* — A non-technical survival guide to AI in 6 levels: (1) Claude.ai with Opus + Thinking + AskUserQuestion, (2) voice dictation via Wispr Flow, (3) Claude Cowork for file creation, (4) app connectors (Gmail, Calendar), (5...
+- [ai-velocity-pod-senior-engineer-agents-mardehaym.md](/processed/ai-velocity-pod-senior-engineer-agents-mardehaym.md) — *bookmark* — Mark Ajzenstadt / LimestoneHQ AI Velocity Pod — one senior + agents vs five-person squad; V.U.E. gate, knowledge graph week-one, six-step ticket loop.
 - [ai-writing-style-personalization.md](/processed/ai-writing-style-personalization.md) — *processed-note* — Anti-AI Writing Style: Making AI Sound Human
 - [aiedge-glm-5.2-guide.md](/processed/aiedge-glm-5.2-guide.md) — *bookmark* — GLM-5.2 Ultimate Guide
 - [alignment-faking.md](/processed/alignment-faking.md) — *concept* — Alignment Faking

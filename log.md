@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-11
+
+- Ingest: AI Velocity Pod senior engineer agents (mardehaym 2085025462481223755)
+
 ## 2026-08-10
 
 - Ingest: How frontier models train on outcomes 2026 (sergiopaniego 2086805987705417851)
