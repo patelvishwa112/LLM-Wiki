@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 482 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 484 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -347,6 +347,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [multi-lora-training-osmosis.md](/processed/multi-lora-training-osmosis.md) — *bookmark* — Multi-LoRA Training at Scale
 - [multi-perspective-prd-review-claude-code.md](/processed/multi-perspective-prd-review-claude-code.md) — *bookmark* — Nurijanian (prodmgmt.world): parallel Claude Code reviewer agents (eng, design, exec, legal, UX, customer, devil's advocate) surface PRD objections before circulation — maps to dynamic workflows fan-out; packages as m...
 - [new-rules-context-engineering-claude-5-trq212.md](/processed/new-rules-context-engineering-claude-5-trq212.md) — *bookmark* — Anthropic removed 80%+ of Claude Code system prompt for Opus/Fable 5; shift from rigid rules to judgment, progressive disclosure, and rich references.
+- [no-process-no-agent-mardehaym.md](/processed/no-process-no-agent-mardehaym.md) — *bookmark* — No Process, No Agent — Mark Ajzenstadt argues process maturity is ~95% of agent success; document → connect SoR → observability before agent code.
 - [not-ambitious-enough-with-claude.md](/processed/not-ambitious-enough-with-claude.md) — *bookmark* — Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders.
 - [notes-on-foundation-models.md](/processed/notes-on-foundation-models.md) — *bookmark* — Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs ...
 - [nvidia-skillspector-security-scanner.md](/processed/nvidia-skillspector-security-scanner.md) — *article* — NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills
@@ -393,6 +394,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [research-world-model-distill-ai-researcher-amber-liu.md](/processed/research-world-model-distill-ai-researcher-amber-liu.md) — *bookmark* — Amber Liu — research intuition as compressed process traces; Research World Model externalizes exploration (ARC-AGI-3 ls20: 5000+ steps vs 63 with archive).
 - [responsible-scaling-policy.md](/processed/responsible-scaling-policy.md) — *concept* — Responsible Scaling Policy (RSP)
 - [rethinking-search-as-code-generation.md](/processed/rethinking-search-as-code-generation.md) — *article* — Rethinking Search as Code Generation
+- [reverse-prompting-101-alex-prompter.md](/processed/reverse-prompting-101-alex-prompter.md) — *bookmark* — Reverse prompting / Flipped Interaction — state a goal, let the model interview you one question at a time, then produce; flip control on fuzzy work.
 - [reward-hacking-and-tampering.md](/processed/reward-hacking-and-tampering.md) — *concept* — Reward Hacking and Tampering
 - [rl-agents-system-prompt-reward-function.md](/processed/rl-agents-system-prompt-reward-function.md) — *processed-note* — RL Agents Using System Prompt as Reward Function
 - [rl-algo-comprehensive-qa.md](/processed/rl-algo-comprehensive-qa.md) — *bookmark* — Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computation, KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution. Based on Xiuyu Li's interview questions.

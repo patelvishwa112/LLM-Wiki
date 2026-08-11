@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1050 unique tags across 482 processed notes.
+> 1051 unique tags across 484 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (122)
+### agent-harness (123)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -112,6 +112,7 @@
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[metacognition-debug-human-ai-system-stablechen]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[no-process-no-agent-mardehaym]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 - [[orchestrating-agents-adk-fhinkel]]
@@ -191,7 +192,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (35)
+### agent-ops (36)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -219,6 +220,7 @@
 - [[managed-agents-dreaming-orchestration]]
 - [[managed-agents-sandbox-mcp]]
 - [[mcp-model-context-protocol]]
+- [[no-process-no-agent-mardehaym]]
 - [[production-rag-agents-technmak]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -239,7 +241,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (234)
+### agents (236)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -410,6 +412,7 @@
 - [[modern-ai-robotics-first-principles]]
 - [[multi-perspective-prd-review-claude-code]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[no-process-no-agent-mardehaym]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[open-knowledge-format-okf-google]]
 - [[openclaw-hermes-supervisor-setup]]
@@ -428,6 +431,7 @@
 - [[research-agent-evidence-operator]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
+- [[reverse-prompting-101-alex-prompter]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
 - [[rlm-structured-outputs]]
@@ -494,7 +498,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (11)
+### ai-strategy (12)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -502,6 +506,7 @@
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[knowledge-flywheels-yisongyue]]
 - [[loop-is-the-moat-rsi-m0egpt]]
+- [[no-process-no-agent-mardehaym]]
 - [[opus-5-explained-effort-dial-notegoyard]]
 - [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
@@ -893,6 +898,14 @@
 - [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
+### communication (5)
+
+- [[bezos-writing-framework-six-page-memos-dickiebush]]
+- [[how-to-have-better-conversations-lifemaxx]]
+- [[ideas-build-better-personal-network-benln]]
+- [[pm-as-context-compressor]]
+- [[reverse-prompting-101-alex-prompter]]
+
 ### constitutional-ai (5)
 
 - [[ai-alignment]]
@@ -911,7 +924,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (18)
+### context-engineering (19)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
@@ -929,6 +942,7 @@
 - [[not-ambitious-enough-with-claude]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[personal-ai-assistant-claude-0-cost]]
+- [[reverse-prompting-101-alex-prompter]]
 - [[skill-solo-millionaires-ai-era]]
 - [[writing-agent-skills-posthog-ian-vanagas]]
 
@@ -1094,7 +1108,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (27)
+### enterprise (28)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -1116,6 +1130,7 @@
 - [[managed-deep-agents-harrison-chase]]
 - [[mcp-core-architecture-explained]]
 - [[memory-is-retained-consequence]]
+- [[no-process-no-agent-mardehaym]]
 - [[opus-cybersecurity-partners]]
 - [[own-your-intelligence-harrison-chase]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
@@ -1821,7 +1836,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (22)
+### observability (23)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1838,6 +1853,7 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[making-ai-agent-production-ready-sarthakrastogi]]
+- [[no-process-no-agent-mardehaym]]
 - [[own-your-intelligence-harrison-chase]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 - [[software-factory-linear-claude-cloud-routines]]
@@ -2036,7 +2052,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (61)
+### productivity (63)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2085,12 +2101,14 @@
 - [[mcp-server-workflow-problems]]
 - [[metacognition-debug-human-ai-system-stablechen]]
 - [[mid-career-dissatisfaction]]
+- [[no-process-no-agent-mardehaym]]
 - [[not-ambitious-enough-with-claude]]
 - [[opus-48-token-economy-guide]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[pm-as-context-compressor]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[productize-problems-you-already-solved-eptwts]]
+- [[reverse-prompting-101-alex-prompter]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -2119,7 +2137,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (41)
+### prompt-engineering (42)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -2154,6 +2172,7 @@
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[opus-48-token-economy-guide]]
 - [[production-rag-agents-technmak]]
+- [[reverse-prompting-101-alex-prompter]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
 - [[the-full-loop-in-code]]
@@ -2423,7 +2442,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (70)
+### skills (71)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2482,6 +2501,7 @@
 - [[opus-48-token-economy-guide]]
 - [[pm-as-context-compressor]]
 - [[problem-first-skill-invert-bad-ideas]]
+- [[reverse-prompting-101-alex-prompter]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-learning-agents-three-layers-user-signal]]
@@ -2720,7 +2740,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (42)
+### verification (43)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2754,6 +2774,7 @@
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[metacognition-debug-human-ai-system-stablechen]]
+- [[no-process-no-agent-mardehaym]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
@@ -2796,7 +2817,7 @@
 - [[notes-on-foundation-models]]
 - [[world-models-agent-imagination]]
 
-### writing (12)
+### writing (13)
 
 - [[ai-writing-style-personalization]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
@@ -2808,6 +2829,7 @@
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[reverse-prompting-101-alex-prompter]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
@@ -2953,6 +2975,11 @@
 - [[hermes-goal-mode-guide]]
 - [[universal-agent-thesis]]
 
+### background-agents (2)
+
+- [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[no-process-no-agent-mardehaym]]
+
 ### beginner (3)
 
 - [[ai-survival-guide-ikea-style]]
@@ -3044,13 +3071,6 @@
 
 - [[anthropic-internal-claude-code-workflow]]
 - [[coding-agent-harness-eight-pillars]]
-
-### communication (4)
-
-- [[bezos-writing-framework-six-page-memos-dickiebush]]
-- [[how-to-have-better-conversations-lifemaxx]]
-- [[ideas-build-better-personal-network-benln]]
-- [[pm-as-context-compressor]]
 
 ### compaction (4)
 
@@ -4254,7 +4274,6 @@
 - **autonomous** — [[claude-code-changed-what-agents-look-like]]
 - **autonomous-agents** — [[prime-agent-rlm-continual-harness-primeintellect]]
 - **autonomous-machine-intelligence** — [[joint-embedding-predictive-architecture-jepa]]
-- **background-agents** — [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - **backtesting** — [[4-agent-trading-desk]]
 - **backups** — [[how-to-automate-disaster-recovery-with-agents]]
 - **bandit** — [[curiosity-bayesian-bandit]]
@@ -4655,6 +4674,7 @@
 - **probes** — [[priests-of-agi-interpretability-crisis]]
 - **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **problem-solving** — [[mckinsey-issue-tree-why-what-how-nurijanian]]
+- **process** — [[no-process-no-agent-mardehaym]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
 - **product-market-fit** — [[ten-commandments-building-product-feitong-yang]]
 - **profiles** — [[hermes-kanban-mission-control]]

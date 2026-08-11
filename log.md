@@ -4,6 +4,14 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-11
 
+- Ingest: No Process No Agent (mardehaym 2087086419491647589)
+
+## 2026-08-11
+
+- Ingest: Reverse Prompting 101 (alex_prompter 2086807496942068197)
+
+## 2026-08-11
+
 - Ingest: AI Velocity Pod senior engineer agents (mardehaym 2085025462481223755)
 
 ## 2026-08-10

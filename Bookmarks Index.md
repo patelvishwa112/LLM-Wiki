@@ -168,6 +168,7 @@
 - [[thinking-database-infinite-context-polygres-daleverett]] — [Thinking database / infinite context (Polygres)](https://x.com/daleverett/status/2080883869281386672) `[polygres, postgres, agent-memory, knowledge-graph, context-management, databases]`
 - [[loop-engineering-clearly-explained]] — [Loop Engineering Clearly Explained](https://x.com/akshay_pachaar/status/2069118430582866051) `[loop-engineering, agents, agent-harness, context-engineering, claude-code, prompt-engineering, production, evals]`
 - [[loop-engineering-quietly-ate-prompt-engineering]] — [Loop engineering: the skill that quietly ate prompt engineering](https://x.com/dunik_7/status/2071584492804784468) `[loop-engineering, agents, agent-harness, claude-code, prompt-engineering, skills, verification, automation]`
+- [[reverse-prompting-101-alex-prompter]] — [Reverse Prompting 101 — model interviews you first](https://x.com/alex_prompter/status/2086807496942068197) `[prompt-engineering, productivity, agents, context-engineering, writing]`
 - [[context-engineering-os-loop-engineering-vartekxx]] — [Prompt is one instruction; context is the OS; loops automate it (Karpathy + Cherny)](https://x.com/vartekxx/status/2074864291568664646) `[context-engineering, loop-engineering, prompt-engineering, agents, agent-harness, claude-code, subagents, verification, context-rot, skills]`
 - [[loop-designer-ten-step-roadmap-de1lymoon]] — [Ten moves from prompter to loop designer (Claude Code)](https://x.com/de1lymoon/status/2069726411724673077) `[agents, claude-code, loop-engineering, agent-harness, skills, automation, verification]`
 - [[human-in-the-loop-agent-loops]] — [Human in the /loop](https://x.com/ericzakariasson/status/2070493377267646797) `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, cursor, cloud-agents]`
@@ -206,6 +207,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW (Kun notes)](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [One senior + agents vs five-person team (Velocity Pod / V.U.E.)](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, agents, software-factory, verification, human-in-the-loop, productivity, agent-ops]`
+- [[no-process-no-agent-mardehaym]] — [No Process, No Agent — process maturity before model choice](https://x.com/mardehaym/status/2087086419491647589) `[agents, agent-ops, enterprise, process, background-agents, observability, ai-strategy]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? (data flywheel)](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
 - [[learning-from-experience-noise-oaklab-handsdiff]] — [Learning from experience needs noise handling (Oak Lab / IDBD)](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, agents, agent-memory, jepa, oak-lab, sutton, online-learning]`
 
@@ -363,6 +365,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [100x agentic engineer — declarative vs imperative preferences](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, preferences, prompt-engineering, skills]`
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW — manager mindset, memory, parallel Devin](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, devin]`
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [AI Velocity Pod — V.U.E. + knowledge graph + six gates](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, software-factory, verification, harness-engineering, human-in-the-loop, agent-ops]`
+- [[no-process-no-agent-mardehaym]] — [No Process, No Agent — document then automate](https://x.com/mardehaym/status/2087086419491647589) `[agents, process, enterprise, observability, background-agents, harness-engineering]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [Codex Pro GPT-5.6 limits — Sol/Luna routing, max_depth=1](https://x.com/sairahul1/status/2076556282195329249) `[codex, cost-optimization, gpt-5.6, subagents, harness-engineering, routing]`
 - [[software-factory-linear-claude-cloud-routines]] — [Linear software factory — pre-triage loops + webhook SDLC agent](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, harness-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, observability]`
@@ -500,6 +503,7 @@
 ### Productivity
 
 - [[iceberg-opus-48-prompts]] — [Iceberg: The Prompts That Unleash Opus 4.8](https://x.com/0xchasetm/status/2061363479525663170)
+- [[reverse-prompting-101-alex-prompter]] — [Reverse Prompting 101 — flipped interaction / model interviews you](https://x.com/alex_prompter/status/2086807496942068197) `[prompt-engineering, productivity, writing, agents, context-engineering]`
 - [[mid-career-dissatisfaction]] — [On mid-career (dis)satisfaction](https://x.com/shreyas/status/2061140507884155145)
 - [[antithesis-principle-shreyas-doshi]] — [The Antithesis Principle](https://x.com/shreyas/status/2081524543471153456) `[clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]`
 - [[not-ambitious-enough-with-claude]] — [You're not ambitious enough with Claude](https://x.com/christinexzhu/status/2074847461588267466) `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
@@ -873,6 +877,7 @@
 - [[new-anthropic-research-natural-language-autoencode]] `[evals, papers]`
 - [[new-blackboard-lecture-w]] `[papers, models]`
 - [[new-rules-context-engineering-claude-5-trq212]] `[context-engineering, claude-code, claude, fable, opus, skills, prompt-engineering, progressive-disclosure, agent-harness, anthropic, agents, coding-tools]`
+- [[no-process-no-agent-mardehaym]] `[agents, agent-ops, enterprise, process, background-agents, observability, ai-strategy, verification, productivity]`
 - [[not-ambitious-enough-with-claude]] `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
@@ -901,6 +906,7 @@
 - [[rawworks]] `[evals, papers]`
 - [[research-agent-evidence-operator]] `[research-agent, agents, evidence, vault, compounding]`
 - [[research-world-model-distill-ai-researcher-amber-liu]] `[ai-research, research-world-model, agent-harness, agents, knowledge-graph, arc-agi, claude-code, career]`
+- [[reverse-prompting-101-alex-prompter]] `[prompt-engineering, productivity, writing, agents, context-engineering, skills, communication]`
 - [[rethinking-search-as-code-generation]] `[agents, search, architecture, sac]`
 - [[ridarketh]] `[ai-ml]`
 - [[rl-algo-comprehensive-qa]] `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
