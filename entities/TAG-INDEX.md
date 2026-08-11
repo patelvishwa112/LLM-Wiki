@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1051 unique tags across 484 processed notes.
+> 1053 unique tags across 485 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -241,7 +241,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (236)
+### agents (237)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -431,6 +431,7 @@
 - [[research-agent-evidence-operator]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[reverse-prompting-101-alex-prompter]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
@@ -498,7 +499,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (12)
+### ai-strategy (13)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -510,6 +511,7 @@
 - [[opus-5-explained-effort-dial-notegoyard]]
 - [[own-your-intelligence-harrison-chase]]
 - [[post-agent-companies]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
@@ -1108,7 +1110,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (28)
+### enterprise (29)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -1133,13 +1135,14 @@
 - [[no-process-no-agent-mardehaym]]
 - [[opus-cybersecurity-partners]]
 - [[own-your-intelligence-harrison-chase]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[zero-trust-ai-agents]]
 
-### evals (44)
+### evals (45)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1179,6 +1182,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[managed-deep-agents-harrison-chase]]
 - [[own-your-intelligence-harrison-chase]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[waku-agent-github]]
@@ -1361,7 +1365,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[trimming-introduction]]
 
-### human-in-the-loop (10)
+### human-in-the-loop (11)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
@@ -1370,6 +1374,7 @@
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-custom-agent-harness-langchain]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
@@ -2291,7 +2296,7 @@
 - [[weight-synchronization-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### rlhf (13)
+### rlhf (14)
 
 - [[ai-alignment]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -2299,6 +2304,7 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[learnings-training-llm-from-scratch]]
 - [[loop-is-the-moat-rsi-m0egpt]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[rl-interview-answers-2026]]
 - [[rl-interview-questions-2026]]
 - [[rlhf-from-first-principles]]
@@ -2315,11 +2321,12 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (7)
+### rlvr (8)
 
 - [[controlling-reasoning-effort-in-llms]]
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[loop-is-the-moat-rsi-m0egpt]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[understanding-video-models-rl-post-training]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
@@ -2731,11 +2738,12 @@
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### venture-capital (6)
+### venture-capital (7)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
@@ -2991,10 +2999,11 @@
 - [[ai-biosecurity-and-nuclear]]
 - [[framework-frontier-ai-standards-demis-hassabis]]
 
-### bitter-lesson (2)
+### bitter-lesson (3)
 
 - [[agent-native-career-advice-philhchen]]
 - [[encoder-free-models-bitter-lesson]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 
 ### books (2)
 
@@ -3439,10 +3448,11 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### gtm (2)
+### gtm (3)
 
 - [[anthropic-gtm-claude-code-workflows]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 
 ### guardrails (2)
 
@@ -3943,10 +3953,11 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[priests-of-agi-interpretability-crisis]]
 
-### sales (2)
+### sales (3)
 
 - [[anthropic-gtm-claude-code-workflows]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
+- [[revenue-superintelligence-human-judgment-octolane]]
 
 ### sandbox (4)
 
@@ -4337,6 +4348,7 @@
 - **create-agent** — [[how-to-build-custom-agent-harness-langchain]]
 - **crewai** — [[build-claude-code-harness-crewai-akshay]]
 - **criteria-drift** — [[do-automated-evals-work-parlance-labs]]
+- **crm** — [[revenue-superintelligence-human-judgment-octolane]]
 - **cron** — [[how-to-build-agent-that-never-forgets]]
 - **cross-harness** — [[dark-arts-of-skill-engineering-pbakaus]]
 - **cryptographic-identity** — [[buzz-open-source-workspace-block-jack]]
@@ -4665,6 +4677,7 @@
 - **praw** — [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - **prd-review** — [[make-requirements-great]]
 - **pre-training** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
+- **preference-data** — [[revenue-superintelligence-human-judgment-octolane]]
 - **preferences** — [[hundred-x-agentic-engineer-preferences-systematicls]]
 - **prefill** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **presets** — [[spec-kit-github-sdd]]

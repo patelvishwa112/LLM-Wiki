@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 484 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 485 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -394,6 +394,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [research-world-model-distill-ai-researcher-amber-liu.md](/processed/research-world-model-distill-ai-researcher-amber-liu.md) — *bookmark* — Amber Liu — research intuition as compressed process traces; Research World Model externalizes exploration (ARC-AGI-3 ls20: 5000+ steps vs 63 with archive).
 - [responsible-scaling-policy.md](/processed/responsible-scaling-policy.md) — *concept* — Responsible Scaling Policy (RSP)
 - [rethinking-search-as-code-generation.md](/processed/rethinking-search-as-code-generation.md) — *article* — Rethinking Search as Code Generation
+- [revenue-superintelligence-human-judgment-octolane.md](/processed/revenue-superintelligence-human-judgment-octolane.md) — *bookmark* — Octolane CEO manifesto — revenue superintelligence via human-in-loop preference/trajectory data; moat is judgment logs not base models; agent per account with approval.
 - [reverse-prompting-101-alex-prompter.md](/processed/reverse-prompting-101-alex-prompter.md) — *bookmark* — Reverse prompting / Flipped Interaction — state a goal, let the model interview you one question at a time, then produce; flip control on fuzzy work.
 - [reward-hacking-and-tampering.md](/processed/reward-hacking-and-tampering.md) — *concept* — Reward Hacking and Tampering
 - [rl-agents-system-prompt-reward-function.md](/processed/rl-agents-system-prompt-reward-function.md) — *processed-note* — RL Agents Using System Prompt as Reward Function
