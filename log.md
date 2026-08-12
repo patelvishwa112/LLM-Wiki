@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-12
+
+- Ingest: To FDE or not to FDE Jesse Zhang Decagon (thejessezhang 2087198484093149421)
+
 ## 2026-08-11
 
 - Ingest: Revenue superintelligence human judgment Octolane (coffeewithone 2086912331288809865)

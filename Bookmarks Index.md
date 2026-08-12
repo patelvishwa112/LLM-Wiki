@@ -107,6 +107,7 @@
 - [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer — evals, harness, multi-agent DS](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems]`
 - [[forward-deployed-engineer-roadmap-morlex]] — [Forward Deployed Engineer 8-step roadmap ($215K–$785K)](https://x.com/0xMorlex/status/2083144963819270357) `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
+- [[to-fde-or-not-to-fde-jesse-zhang]] — [To FDE, or not to FDE? — discovery then productize (Decagon)](https://x.com/thejessezhang/status/2087198484093149421) `[ai-strategy, enterprise, gtm, fde, startups, product, agents]`
 - [[ai-research-job-search-alisa-wuffles]] — [AI research interview playbook — Alisa Wuffles (57 interviews → OpenAI)](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, transformers, learning]`
 - [[2-ways-self-evolving-agents-model-harness]] — [2 Ways towards Self-Evolving Agents](https://x.com/qinzytech/status/2066585405479371092) `[agents, agent-harness, self-evolving-agents, model-vs-harness, training, architecture]`
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
@@ -429,6 +430,7 @@
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] — [AI for enterprise finance — background agents (Varick)](https://x.com/vasuman/status/2077156239059107867) `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick]`
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
+- [[to-fde-or-not-to-fde-jesse-zhang]] — [To FDE or not — eat pain, excrete product (Jesse Zhang / Decagon)](https://x.com/thejessezhang/status/2087198484093149421) `[ai-strategy, gtm, enterprise, startups, fde, product, venture-capital]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[revenue-superintelligence-human-judgment-octolane]] — [Revenue superintelligence — preference data moat over base models](https://x.com/coffeewithone/status/2086912331288809865) `[ai-strategy, sales, venture-capital, preference-data, enterprise, agents, crm]`
@@ -955,6 +957,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]] `[agents, agent-harness, harness-engineering, loop-engineering, graph-engineering, verification, observability, multi-agent, production]`
 - [[torch-internals-part1-fx-graphs]] `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] `[weather, models]`
+- [[to-fde-or-not-to-fde-jesse-zhang]] `[ai-strategy, enterprise, gtm, fde, startups, product, agents, venture-capital, agent-ops]`
 - [[trace-turn-level-reward-credit-assignment-agents]] `[rl, training, agents, credit-assignment, rlvr, grpo, post-training, tool-use, qwen, microsoft-research, long-horizon, browsecomp]`
 - [[tradermorin]] `[finance]`
 - [[training-agents-class-1-sft-by-agent]] `[sft, training, agents, lora, gemma, codex, huggingface, agent-traces, distillation, trl]`

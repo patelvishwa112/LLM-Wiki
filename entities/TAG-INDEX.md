@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1053 unique tags across 485 processed notes.
+> 1053 unique tags across 486 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -192,7 +192,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (36)
+### agent-ops (37)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -225,6 +225,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[two-tracks-not-ten-agents]]
 - [[voxyz-ai-10-lessons-agents-md]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
@@ -241,7 +242,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (237)
+### agents (238)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -460,6 +461,7 @@
 - [[thesupereng-x-post-2065361684747719164]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -499,7 +501,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (13)
+### ai-strategy (14)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -513,6 +515,7 @@
 - [[post-agent-companies]]
 - [[revenue-superintelligence-human-judgment-octolane]]
 - [[the-untrainable]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[who-will-set-price-intelligence]]
 
 ### alignment (20)
@@ -659,7 +662,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (21)
+### career (22)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -680,6 +683,7 @@
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[units-of-time-alfred-lin]]
 - [[zen-and-the-art-of-ai-research]]
 
@@ -1110,7 +1114,7 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (29)
+### enterprise (30)
 
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
@@ -1140,6 +1144,7 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[zero-trust-ai-agents]]
 
 ### evals (45)
@@ -2551,7 +2556,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### startups (8)
+### startups (9)
 
 - [[agent-native-career-advice-philhchen]]
 - [[coderabbit-claude-agent-orchestration]]
@@ -2559,6 +2564,7 @@
 - [[productize-problems-you-already-solved-eptwts]]
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
@@ -2738,13 +2744,14 @@
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### venture-capital (7)
+### venture-capital (8)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[revenue-superintelligence-human-judgment-octolane]]
 - [[the-untrainable]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
@@ -3448,11 +3455,12 @@
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### gtm (3)
+### gtm (4)
 
 - [[anthropic-gtm-claude-code-workflows]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[revenue-superintelligence-human-judgment-octolane]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 
 ### guardrails (2)
 
@@ -3806,11 +3814,12 @@
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[self-learning-agents-three-layers-user-signal]]
 
-### product (3)
+### product (4)
 
 - [[ideacide-eleven-filters-drurly]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[ten-commandments-building-product-feitong-yang]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
 
 ### product-management (4)
 
