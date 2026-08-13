@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1053 unique tags across 486 processed notes.
+> 1054 unique tags across 487 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (123)
+### agent-harness (124)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -130,6 +130,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[shepherd-reversible-execution-traces-avichawla]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[software-factories-light-and-dark-addy-osmani]]
@@ -242,7 +243,7 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (238)
+### agents (239)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -445,6 +446,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[self-learning-agents-three-layers-user-signal]]
 - [[shepherd-reversible-execution-traces-avichawla]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[sia-recursive-self-improving-agent]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
@@ -730,7 +732,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (102)
+### claude-code (103)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -820,6 +822,7 @@
 - [[secure-automated-learning-loops-modal-claude-code]]
 - [[self-evolving-autoresearch-workflow-loops]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
@@ -883,7 +886,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (18)
+### coding-tools (19)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
@@ -899,6 +902,7 @@
 - [[new-rules-context-engineering-claude-5-trq212]]
 - [[opus-5-explained-effort-dial-notegoyard]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spec-kit-github-sdd]]
 - [[writing-agent-skills-posthog-ian-vanagas]]
@@ -1077,6 +1081,14 @@
 - [[rl-algo-comprehensive-qa]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[the-best-models-for-hermes-agent]]
+
+### design (5)
+
+- [[dark-arts-of-skill-engineering-pbakaus]]
+- [[how-openai-sol-learned-design-taste-designarena]]
+- [[how-to-actually-design-with-ai-lexnlin]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
+- [[the-html-brand-input-based-outcomes]]
 
 ### distillation (13)
 
@@ -2062,7 +2074,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (63)
+### productivity (64)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2119,6 +2131,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[productize-problems-you-already-solved-eptwts]]
 - [[reverse-prompting-101-alex-prompter]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -2128,7 +2141,7 @@
 - [[writing-agent-skills-posthog-ian-vanagas]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### progressive-disclosure (8)
+### progressive-disclosure (9)
 
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -2136,6 +2149,7 @@
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[how-to-create-right-skill-ai-agent]]
 - [[new-rules-context-engineering-claude-5-trq212]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[writing-agent-skills-posthog-ian-vanagas]]
 - [[writing-good-skills-measured-rulebook-aparna]]
 
@@ -2147,7 +2161,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (42)
+### prompt-engineering (43)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -2185,6 +2199,7 @@
 - [[reverse-prompting-101-alex-prompter]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[the-full-loop-in-code]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -2454,7 +2469,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (71)
+### skills (72)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2517,6 +2532,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-learning-agents-three-layers-user-signal]]
+- [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[skill-solo-millionaires-ai-era]]
 - [[spec-kit-github-sdd]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
@@ -3204,13 +3220,6 @@
 
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[kimi-k3-explained-forgetting-swill1ams]]
-
-### design (4)
-
-- [[dark-arts-of-skill-engineering-pbakaus]]
-- [[how-openai-sol-learned-design-taste-designarena]]
-- [[how-to-actually-design-with-ai-lexnlin]]
-- [[the-html-brand-input-based-outcomes]]
 
 ### devin (2)
 
@@ -4862,6 +4871,7 @@
 - **universal-transformer** — [[looped-transformers-explained-neural-avb]]
 - **unsloth** — [[google-gemma-4-12b-local-fine-tuning]]
 - **user-research** — [[ten-commandments-building-product-feitong-yang]]
+- **ux** — [[show-me-visual-reps-coding-agents-dexhorthy]]
 - **v-jepa** — [[joint-embedding-predictive-architecture-jepa]]
 - **v8** — [[browser-internals-chromium-architecture]]
 - **varick** — [[ai-enterprise-finance-background-agents-varick-vasuman]]

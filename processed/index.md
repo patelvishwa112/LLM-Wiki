@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 486 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 487 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -422,6 +422,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [self-improving-ai-native-company-deel-bug-loop-westgarth.md](/processed/self-improving-ai-native-company-deel-bug-loop-westgarth.md) — *bookmark* — Deel COO Dan Westgarth: self-improving software via closed bug loop — Bug Hunter on customer-account replicas + multimodal Deel Code with Playwright browser verification; human approves every PR.
 - [self-learning-agents-three-layers-user-signal.md](/processed/self-learning-agents-three-layers-user-signal.md) — *bookmark* — Atai Barkai maps self-learning into model vs harness vs context layers, then argues the missing signal is real human overrides in product — not agent-only traces.
 - [shepherd-reversible-execution-traces-avichawla.md](/processed/shepherd-reversible-execution-traces-avichawla.md) — *bookmark* — Shepherd records agent runs as copy-on-write execution traces so meta-agents can fork, replay, and revert live sandbox+KV state—CooperBench 28.8%→54.7% with a supervisor; repo shepherd-agents/shepherd.
+- [show-me-visual-reps-coding-agents-dexhorthy.md](/processed/show-me-visual-reps-coding-agents-dexhorthy.md) — *bookmark* — HumanLayer /show-me skill — force coding agents to answer with trees, stacks, diffs, types, Mermaid/HTML instead of prose walls.
 - [sia-recursive-self-improving-agent.md](/processed/sia-recursive-self-improving-agent.md) — *article* — SIA — Self Improving AI Framework (hexo.ai)
 - [sierra-pinecone-singular-company-agent.md](/processed/sierra-pinecone-singular-company-agent.md) — *bookmark* — Sierra's Neil Rahilly on Pinecone — one persistent company-wide agent (Claude Code/Codex), MCP Gateway for context, artifacts as UI, and measuring outcomes not token activity.
 - [skill-solo-millionaires-ai-era.md](/processed/skill-solo-millionaires-ai-era.md) — *bookmark* — X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation.
