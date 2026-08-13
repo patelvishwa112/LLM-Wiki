@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-13
 
+- Ingest: How to keep thinking (seangoedecke)
+
+## 2026-08-13
+
 - Ingest: /show-me visual reps coding agents (dexhorthy 2087569590268391897)
 
 ## 2026-08-12

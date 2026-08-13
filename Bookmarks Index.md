@@ -210,6 +210,7 @@
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]] — [The Great Flattening — tokenmaxx, six bottlenecks, neutral harness](https://x.com/myprasanna/status/2077065557204222238) `[agents, harness-engineering, agent-harness, tokenmaxxing, cloud-agents, multi-agent, orchestration, verification, review, cost-optimization, vorflux, agent-ops]`
 - [[hundred-x-agentic-engineer-preferences-systematicls]] — [What The New 100x Agentic Engineer Looks Like (Fable & GPT 5.6)](https://x.com/systematicls/status/2074142558595207435) `[agentic-engineering, agents, agent-harness, fable-5, harness-engineering, prompt-engineering, skills, preferences, productivity]`
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW (Kun notes)](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, productivity, agent-ops, devin]`
+- [[how-to-keep-thinking-sean-goedecke]] — [How to keep thinking under multi-agent skim culture (Goedecke)](https://www.seangoedecke.com/how-to-keep-thinking/) `[agents, agentic-engineering, productivity, writing, career, clear-thinking]`
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [One senior + agents vs five-person team (Velocity Pod / V.U.E.)](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, agents, software-factory, verification, human-in-the-loop, productivity, agent-ops]`
 - [[no-process-no-agent-mardehaym]] — [No Process, No Agent — process maturity before model choice](https://x.com/mardehaym/status/2087086419491647589) `[agents, agent-ops, enterprise, process, background-agents, observability, ai-strategy]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? (data flywheel)](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
@@ -511,6 +512,7 @@
 
 - [[iceberg-opus-48-prompts]] — [Iceberg: The Prompts That Unleash Opus 4.8](https://x.com/0xchasetm/status/2061363479525663170)
 - [[reverse-prompting-101-alex-prompter]] — [Reverse Prompting 101 — flipped interaction / model interviews you](https://x.com/alex_prompter/status/2086807496942068197) `[prompt-engineering, productivity, writing, agents, context-engineering]`
+- [[how-to-keep-thinking-sean-goedecke]] — [How to keep thinking — own writing + books vs agent skim mode](https://www.seangoedecke.com/how-to-keep-thinking/) `[productivity, writing, career, agents, clear-thinking, meta-learning]`
 - [[mid-career-dissatisfaction]] — [On mid-career (dis)satisfaction](https://x.com/shreyas/status/2061140507884155145)
 - [[antithesis-principle-shreyas-doshi]] — [The Antithesis Principle](https://x.com/shreyas/status/2081524543471153456) `[clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]`
 - [[not-ambitious-enough-with-claude]] — [You're not ambitious enough with Claude](https://x.com/christinexzhu/status/2074847461588267466) `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
@@ -794,6 +796,7 @@
 - [[how-to-create-right-skill-ai-agent]] `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] `[rl, training, fine-tuning, grpo, agents, evals, openpipe, art, ruler, lora, post-training]`
 - [[how-to-have-better-conversations-lifemaxx]] `[productivity, communication, soft-skills, networking, relationships, career, creator-economy]`
+- [[how-to-keep-thinking-sean-goedecke]] `[productivity, writing, career, agents, clear-thinking, meta-learning, coding-tools, agentic-engineering]`
 - [[how-to-make-ai-sound-exactly-like-you-forever]] `[finance, coding-tools]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[how-to-never-run-out-of-writing-ideas-nicolas-cole]] `[writing, content-strategy, creator-economy, productivity, ghostwriting, audience-building, ideation, digital-writing]`

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1054 unique tags across 487 processed notes.
+> 1054 unique tags across 488 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -243,7 +243,15 @@
 - [[the-full-loop-in-code]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### agents (239)
+### agentic-engineering (5)
+
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
+- [[every-agentic-engineering-hack-june-2026]]
+- [[how-to-keep-thinking-sean-goedecke]]
+- [[hundred-x-agentic-engineer-preferences-systematicls]]
+- [[the-agentic-engineer-workflow-aashatwt]]
+
+### agents (240)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -370,6 +378,7 @@
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[how-to-give-your-agent-memory]]
+- [[how-to-keep-thinking-sean-goedecke]]
 - [[how-to-read-company-ai-analyst]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[how-vllm-works-amitiitbhu]]
@@ -664,7 +673,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (22)
+### career (23)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -678,6 +687,7 @@
 - [[how-to-be-good-at-research]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-have-better-conversations-lifemaxx]]
+- [[how-to-keep-thinking-sean-goedecke]]
 - [[ideas-build-better-personal-network-benln]]
 - [[jp-morgan-quant-python-training]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
@@ -886,7 +896,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (19)
+### coding-tools (20)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
@@ -897,6 +907,7 @@
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
+- [[how-to-keep-thinking-sean-goedecke]]
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
 - [[new-rules-context-engineering-claude-5-trq212]]
@@ -1740,11 +1751,12 @@
 - [[memory-is-retained-consequence]]
 - [[quarq-agent-memory-architecture]]
 
-### meta-learning (6)
+### meta-learning (7)
 
 - [[antithesis-principle-shreyas-doshi]]
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-ai-research]]
+- [[how-to-keep-thinking-sean-goedecke]]
 - [[human-nature-meta-skill-dan-koe]]
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
@@ -2074,7 +2086,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (64)
+### productivity (65)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2109,6 +2121,7 @@
 - [[hermes-goal-mode-guide]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-have-better-conversations-lifemaxx]]
+- [[how-to-keep-thinking-sean-goedecke]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[how-to-never-run-out-of-writing-ideas-nicolas-cole]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
@@ -2848,12 +2861,13 @@
 - [[notes-on-foundation-models]]
 - [[world-models-agent-imagination]]
 
-### writing (13)
+### writing (14)
 
 - [[ai-writing-style-personalization]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[how-to-be-good-at-research]]
+- [[how-to-keep-thinking-sean-goedecke]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
 - [[how-to-never-run-out-of-writing-ideas-nicolas-cole]]
 - [[human-nature-meta-skill-dan-koe]]
@@ -2912,13 +2926,6 @@
 
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[training-agents-class-1-sft-by-agent]]
-
-### agentic-engineering (4)
-
-- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
-- [[every-agentic-engineering-hack-june-2026]]
-- [[hundred-x-agentic-engineer-preferences-systematicls]]
-- [[the-agentic-engineer-workflow-aashatwt]]
 
 ### agents-md (2)
 
@@ -3066,10 +3073,11 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[mechanistic-interpretability]]
 
-### clear-thinking (2)
+### clear-thinking (3)
 
 - [[antithesis-principle-shreyas-doshi]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
+- [[how-to-keep-thinking-sean-goedecke]]
 
 ### cli (2)
 
