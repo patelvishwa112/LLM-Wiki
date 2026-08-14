@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 488 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 489 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -35,6 +35,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [agent-memory-four-layer-stack-matthew-gunnin.md](/processed/agent-memory-four-layer-stack-matthew-gunnin.md) — *bookmark* — Matt Gunnin's 4-layer memory stack for coordinated OpenClaw + Hermes agents—markdown identity/index, Hindsight retention, Nexus shared vault, gbrain MCP recall.
 - [agent-memory-landscape-2026.md](/processed/agent-memory-landscape-2026.md) — *bookmark* — Agent Memory Landscape 2026
 - [agent-native-career-advice-philhchen.md](/processed/agent-native-career-advice-philhchen.md) — *bookmark* — Phil Chen on hiring in agent-native companies—scarce time/reputation, problem-finding over LeetCode, ambitious problems, last-mile craft, xG vs efficiency, and breaking into research via evals.
+- [agent-plugins-skills-mcp-standard-google.md](/processed/agent-plugins-skills-mcp-standard-google.md) — *bookmark* — Agent Plugins 1.0 Working Draft — portable folder of SKILL.md + mcp.json; Google joins TSC; skills+MCP travel together across clients.
 - [agent-swarms-production-governance.md](/processed/agent-swarms-production-governance.md) — *bookmark* — Nyk (@nyk_builderz): one agent doing research+code+review+orchestration blurs by week 4 — throughput is architecture (sub-agents for compression vs multi-agent only for coordination). Production org: worker sub-agents...
 - [agent-workflows-silent-degradation-verification-vladic.md](/processed/agent-workflows-silent-degradation-verification-vladic.md) — *bookmark* — Vladic argues agent workflows fail via silent degradation—not crashes—and that automated verification against external constraints (not model honesty alone) is what makes automations survive past week two.
 - [agentic-misalignment.md](/processed/agentic-misalignment.md) — *concept* — Agentic Misalignment

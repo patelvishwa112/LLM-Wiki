@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-14
+
+- Ingest: Agent Plugins skills+MCP standard (googlecloudtech 2087733334617063503)
+
 ## 2026-08-13
 
 - Ingest: How to keep thinking (seangoedecke)

@@ -150,6 +150,7 @@
 - [[writing-agent-skills-posthog-ian-vanagas]] — [What nobody tells you about writing agent skills (PostHog)](https://x.com/posthog/status/2084345938089316582) `[skills, agents, progressive-disclosure, context-engineering, posthog, coding-tools]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
 - [[show-me-visual-reps-coding-agents-dexhorthy]] — [/show-me — trees, stacks, diffs, HTML instead of prose walls](https://x.com/dexhorthy/status/2087569590268391897) `[skills, coding-tools, agents, ux, claude-code, progressive-disclosure]`
+- [[agent-plugins-skills-mcp-standard-google]] — [Agent Plugins — SKILL.md + mcp.json portable package (Google TSC)](https://x.com/googlecloudtech/status/2087733334617063503) `[skills, mcp, standards, google-cloud, agent-harness, progressive-disclosure]`
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
@@ -302,6 +303,7 @@
 - [[writing-agent-skills-posthog-ian-vanagas]] — [What nobody tells you about writing agent skills (PostHog)](https://x.com/posthog/status/2084345938089316582) `[skills, progressive-disclosure, posthog, coding-tools, agent-harness]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [Dark arts of skill engineering — harness extension patterns](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, claude-code, codex, hooks, progressive-disclosure, design, impeccable]`
 - [[show-me-visual-reps-coding-agents-dexhorthy]] — [/show-me skill — visual converse for coding agents (HumanLayer)](https://x.com/dexhorthy/status/2087569590268391897) `[skills, coding-tools, agents, claude-code, ux, progressive-disclosure, agent-harness]`
+- [[agent-plugins-skills-mcp-standard-google]] — [Agent Plugins 1.0 — skills + MCP one folder (agent-plugins.org)](https://x.com/googlecloudtech/status/2087733334617063503) `[skills, mcp, standards, google-cloud, coding-tools, agent-harness, open-source]`
 - [[how-to-create-right-skill-ai-agent]] — [How to Create the Right Skill for Your AI Agent](https://x.com/free_ai_guides/status/2071666929451094227) `[skills, agent-harness, claude-code, progressive-disclosure, skillsbench, prompt-engineering, security, agentskills]`
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] — [Voice → transcript → Codex essay/video skills (jxnl)](https://x.com/jxnlco/status/2076846537230160251) `[writing, skills, codex, chatgpt, voice, content-strategy, productivity, ffmpeg, remotion]`
 - [[claude-code-four-loop-types-datasciencedojo]] — [Four Claude Code loops — turn, goal, time, proactive](https://x.com/datasciencedojo/status/2075671400900157670) `[loop-engineering, claude-code, agents, agent-harness, goal, cronjob, automation]`
@@ -621,6 +623,7 @@
 - [[agent-memory-landscape-2026]] `[memory, agents, hermes, benchmarks, infrastructure]`
 - [[agent-memory-four-layer-stack-matthew-gunnin]] `[agents, agent-memory, hermes, openclaw, obsidian, second-brain, gbrain, multi-agent, mcp]`
 - [[agent-native-career-advice-philhchen]] `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
+- [[agent-plugins-skills-mcp-standard-google]] `[skills, mcp, agents, agent-harness, standards, google-cloud, coding-tools, progressive-disclosure, open-source, enterprise]`
 - [[agent-swarms-production-governance]] `[agents, multi-agent, subagents, orchestration, agent-harness, governance, production, compression, coordination, cost-optimization]`
 - [[agent-workflows-silent-degradation-verification-vladic]] `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[agents-behave-like-employees-six-shifts]] `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`

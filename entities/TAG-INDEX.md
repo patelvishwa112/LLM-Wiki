@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1054 unique tags across 488 processed notes.
+> 1054 unique tags across 489 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (124)
+### agent-harness (125)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -39,6 +39,7 @@
 - [[agent-harness-engineering-agentforge]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
 - [[agent-harness-should-repair-itself]]
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[agent-swarms-production-governance]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -251,7 +252,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (240)
+### agents (241)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -273,6 +274,7 @@
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
 - [[agent-memory-landscape-2026]]
 - [[agent-native-career-advice-philhchen]]
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[agent-swarms-production-governance]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agentic-misalignment]]
@@ -896,9 +898,10 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (20)
+### coding-tools (21)
 
 - [[addy-osmani-agent-skills-open-source]]
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[claude-code-slash-command-library]]
@@ -1137,8 +1140,9 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (30)
+### enterprise (31)
 
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
@@ -1677,13 +1681,14 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (40)
+### mcp (41)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-agent-loop-architecture-buinevici]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[anthropic-ant-cli-guide]]
@@ -1912,9 +1917,10 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (13)
+### open-source (14)
 
 - [[addy-osmani-agent-skills-open-source]]
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[buzz-open-source-workspace-block-jack]]
 - [[graphiti-knowledge-graph-agent-memory]]
@@ -2154,8 +2160,9 @@
 - [[writing-agent-skills-posthog-ian-vanagas]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### progressive-disclosure (9)
+### progressive-disclosure (10)
 
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -2482,12 +2489,13 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (72)
+### skills (73)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-harness-engineering-agentforge]]
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-loops-anatoli-kopadze]]
@@ -3456,6 +3464,11 @@
 - [[google-gemma-4-12b-local-fine-tuning]]
 - [[orchestrating-agents-adk-fhinkel]]
 
+### google-cloud (2)
+
+- [[agent-plugins-skills-mcp-standard-google]]
+- [[open-knowledge-format-okf-google]]
+
 ### governance (3)
 
 - [[agent-swarms-production-governance]]
@@ -4073,8 +4086,9 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### standards (2)
+### standards (3)
 
+- [[agent-plugins-skills-mcp-standard-google]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
 
@@ -4477,7 +4491,6 @@
 - **glean** — [[glean-coding-harness-programmatic-tool-calling]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
-- **google-cloud** — [[open-knowledge-format-okf-google]]
 - **goose** — [[buzz-open-source-workspace-block-jack]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
