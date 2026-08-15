@@ -106,6 +106,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] — [Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers](https://x.com/sydneyrunkle/status/2062588423295111208) `[agents, langgraph, fault-tolerance, production]`
 - [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer — evals, harness, multi-agent DS](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems]`
+- [[ai-engineering-skills-map-andrew-ng]] — [AI Engineering Skills Map — build AI apps, SWE, coding agents, shape the build](https://x.com/andrewyng/status/2088302050706686198) `[ai-engineering, career, evals, agents, coding-tools, product, hiring, fundamentals]`
 - [[forward-deployed-engineer-roadmap-morlex]] — [Forward Deployed Engineer 8-step roadmap ($215K–$785K)](https://x.com/0xMorlex/status/2083144963819270357) `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
 - [[to-fde-or-not-to-fde-jesse-zhang]] — [To FDE, or not to FDE? — discovery then productize (Decagon)](https://x.com/thejessezhang/status/2087198484093149421) `[ai-strategy, enterprise, gtm, fde, startups, product, agents]`
 - [[ai-research-job-search-alisa-wuffles]] — [AI research interview playbook — Alisa Wuffles (57 interviews → OpenAI)](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, transformers, learning]`
@@ -266,6 +267,7 @@
 - [[how-gpu-executes-code-first-principles]] — [How GPUs Execute Code — First Principles](https://x.com/rocky_t07/status/2059997637726937492) `[gpu, gpu-architecture, cuda, parallelism, fundamentals, hardware]`
 - [[torch-internals-part1-fx-graphs]] — [Torch Internals (Part 1) - FX Graphs](https://x.com/jino_rohit/status/2071247775837356399) `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[ai-engineering-roadmap-2026-from-scratch]] — [The 2026 AI Engineering Roadmap — Build It From Scratch](https://x.com/ghumare64/status/2063574610889560271) `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
+- [[ai-engineering-skills-map-andrew-ng]] — [The AI Engineering Skills Map — four pillars (Andrew Ng)](https://x.com/andrewyng/status/2088302050706686198) `[ai-engineering, career, evals, agents, coding-tools, product, fundamentals, hiring]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] — [How To Become An AI Engineer in 2026 (Without a CS Degree)](https://x.com/cyrilxbt/status/2071604212912246899) `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
@@ -636,6 +638,7 @@
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[aftermarket-harnesses-ttunguz]] `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, ai-strategy, cursor, claude-code, codex, token-economy, investing]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
+- [[ai-engineering-skills-map-andrew-ng]] `[ai-engineering, career, evals, agents, coding-tools, product, agent-harness, fundamentals, roadmap, hiring]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick, background-agents]`
 - [[aiedge]] `[agents]`
 - [[akshaypachaar]] `[agents]`

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1054 unique tags across 489 processed notes.
+> 1054 unique tags across 490 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (125)
+### agent-harness (126)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -45,6 +45,7 @@
 - [[agents-behave-like-employees-six-shifts]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -252,7 +253,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (241)
+### agents (242)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -284,6 +285,7 @@
 - [[ai-content-system-framework]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[ambient-pm-agents-evidence-first-prd]]
@@ -505,6 +507,14 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
+### ai-engineering (5)
+
+- [[2026-ai-engineering-roadmap]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-engineering-skills-map-andrew-ng]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
+
 ### ai-research (6)
 
 - [[ai-research-job-search-alisa-wuffles]]
@@ -675,11 +685,12 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (23)
+### career (24)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-research-job-search-alisa-wuffles]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[anthropic-engineering-hiring-resumes]]
@@ -898,10 +909,11 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (21)
+### coding-tools (22)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-plugins-skills-mcp-standard-google]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[claude-code-slash-command-library]]
@@ -1174,12 +1186,13 @@
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[zero-trust-ai-agents]]
 
-### evals (45)
+### evals (46)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
 - [[agent-harness-should-repair-itself]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[anthropic-self-service-analytics-claude]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
@@ -1259,9 +1272,10 @@
 - [[peft-beyond-lora]]
 - [[portal-portable-task-adapters-llms]]
 
-### fundamentals (7)
+### fundamentals (8)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[attention-qkv-math-amitiitbhu]]
 - [[how-gpu-executes-code-first-principles]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
@@ -1384,6 +1398,14 @@
 - [[the-best-models-for-hermes-agent]]
 - [[waku-agent-github]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
+
+### hiring (5)
+
+- [[agent-native-career-advice-philhchen]]
+- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
+- [[ai-engineering-skills-map-andrew-ng]]
+- [[anthropic-engineering-hiring-resumes]]
+- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
 ### huggingface (9)
 
@@ -2058,6 +2080,14 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
+### product (5)
+
+- [[ai-engineering-skills-map-andrew-ng]]
+- [[ideacide-eleven-filters-drurly]]
+- [[software-factory-linear-claude-cloud-routines]]
+- [[ten-commandments-building-product-feitong-yang]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
+
 ### product-discovery (7)
 
 - [[ambient-pm-agents-evidence-first-prd]]
@@ -2372,11 +2402,12 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[why-on-policy-distillation-works]]
 
-### roadmap (5)
+### roadmap (6)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
+- [[ai-engineering-skills-map-andrew-ng]]
 - [[llm-engineering-projects-roadmap-2026]]
 - [[opportunity-ai-pm-os-workflow]]
 
@@ -2950,13 +2981,6 @@
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[coding-agent-harness-eight-pillars]]
 
-### ai-engineering (4)
-
-- [[2026-ai-engineering-roadmap]]
-- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
-- [[ai-engineering-roadmap-2026-from-scratch]]
-- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
-
 ### ai-pm-os (3)
 
 - [[causal-tree-second-third-order-effects-nurijanian]]
@@ -3507,13 +3531,6 @@
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-agent-user-experience]]
 
-### hiring (4)
-
-- [[agent-native-career-advice-philhchen]]
-- [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
-- [[anthropic-engineering-hiring-resumes]]
-- [[keeping-up-ai-skills-job-listings-loganthorneloe]]
-
 ### hooks (4)
 
 - [[9-step-loop-claude-code-senior-engineer]]
@@ -3843,13 +3860,6 @@
 - [[how-to-give-your-agent-memory]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[self-learning-agents-three-layers-user-signal]]
-
-### product (4)
-
-- [[ideacide-eleven-filters-drurly]]
-- [[software-factory-linear-claude-cloud-routines]]
-- [[ten-commandments-building-product-feitong-yang]]
-- [[to-fde-or-not-to-fde-jesse-zhang]]
 
 ### product-management (4)
 
