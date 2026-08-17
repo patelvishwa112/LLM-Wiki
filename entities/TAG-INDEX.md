@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1054 unique tags across 490 processed notes.
+> 1054 unique tags across 491 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (126)
+### agent-harness (127)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -62,6 +62,7 @@
 - [[continual-learning-replit-agent-vibench]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deep-agents-prompt-caching]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
@@ -253,7 +254,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (242)
+### agents (243)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -325,6 +326,7 @@
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[deep-agents-prompt-caching]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[design-good-ml-experiments-grigorev]]
 - [[distillation-post-training-frontier-2026]]
 - [[do-automated-evals-work-parlance-labs]]
@@ -909,7 +911,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (22)
+### coding-tools (23)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-plugins-skills-mcp-standard-google]]
@@ -918,6 +920,7 @@
 - [[build-claude-code-harness-crewai-akshay]]
 - [[claude-code-slash-command-library]]
 - [[claude-fable-map-territory-unknowns-trq212]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
@@ -982,11 +985,12 @@
 - [[skill-solo-millionaires-ai-era]]
 - [[writing-agent-skills-posthog-ian-vanagas]]
 
-### context-management (17)
+### context-management (18)
 
 - [[agent-harness-engineering-agentforge]]
 - [[buzz-open-source-workspace-block-jack]]
 - [[context-engineering-field-guide-phosphenq]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[glean-coding-harness-programmatic-tool-calling]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
@@ -1098,8 +1102,9 @@
 - [[langchain-langgraph-101-repo]]
 - [[managed-deep-agents-harrison-chase]]
 
-### deepseek (7)
+### deepseek (8)
 
+- [[deepseek-harness-five-patterns-saboo]]
 - [[deepseek-v4-claude-code-setup]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[distillation-post-training-frontier-2026]]
@@ -1329,12 +1334,13 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (42)
+### harness-engineering (43)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[dive-into-claude-code-vila-lab]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
@@ -1645,13 +1651,14 @@
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### loop-engineering (34)
+### loop-engineering (35)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[claude-code-four-loop-types-datasciencedojo]]
 - [[context-engineering-feed-model-not-dumber-h100envy]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
@@ -1897,13 +1904,14 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (23)
+### observability (24)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
 - [[continual-learning-replit-agent-vibench]]
 - [[continuous-trace-intelligence-braintrust-topics]]
 - [[deep-agents-prompt-caching]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[do-automated-evals-work-parlance-labs]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
@@ -1939,12 +1947,13 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (14)
+### open-source (15)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[buzz-open-source-workspace-block-jack]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[graphiti-knowledge-graph-agent-memory]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[open-knowledge-format-okf-google]]
@@ -2098,7 +2107,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### production (21)
+### production (22)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
@@ -2108,6 +2117,7 @@
 - [[automate-writing-llm-prompts-dspy]]
 - [[big-book-of-llms]]
 - [[claude-code-changed-what-agents-look-like]]
+- [[deepseek-harness-five-patterns-saboo]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]

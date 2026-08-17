@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 490 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 491 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -151,6 +151,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [dear-lord-no-wonder-evals-are-a-mess.md](/processed/dear-lord-no-wonder-evals-are-a-mess.md) — *bookmark* — dear lord no wonder evals are a mess
 - [deceptive-alignment.md](/processed/deceptive-alignment.md) — *concept* — Deceptive Alignment
 - [deep-agents-prompt-caching.md](/processed/deep-agents-prompt-caching.md) — *bookmark* — Alex Olsen (Deep Agents/LangChain): provider-agnostic prompt caching — explicit breakpoints + implicit fallback + stable prefix layout; 49–80% token cost cuts on real trajectories (Haiku/GPT mini/Gemini flash); LangSm...
+- [deepseek-harness-five-patterns-saboo.md](/processed/deepseek-harness-five-patterns-saboo.md) — *bookmark* — Five portable harness patterns from DeepSeek open-source agent (dsh): event-log context, loop reminders, truncation honesty, permissioned code-mode, workspace restarts.
 - [deepseek-v4-claude-code-setup.md](/processed/deepseek-v4-claude-code-setup.md) — *processed-note* — DeepSeek V4 as a Parallel Claude Code Session
 - [deepseek-v4-pro-threejs-embedding-visualization.md](/processed/deepseek-v4-pro-threejs-embedding-visualization.md) — *note* — DeepSeek-V4 Pro: Three.js Embedding Visualization
 - [design-good-ml-experiments-grigorev.md](/processed/design-good-ml-experiments-grigorev.md) — *bookmark* — Poolside-scale playbook for ML experiments — research questions, dated baselines, manual run logs, finish runs, and compute-efficiency gain via scaling laws.

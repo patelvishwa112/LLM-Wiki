@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-17
+
+- Ingest: DeepSeek harness five patterns (saboo_shubham_ 2089177978265870817)
+
 ## 2026-08-15
 
 - Ingest: AI Engineering Skills Map (andrewyng 2088302050706686198)

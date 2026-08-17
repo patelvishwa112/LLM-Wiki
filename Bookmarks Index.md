@@ -137,6 +137,7 @@
 - [[dive-into-claude-code-vila-lab]] — [Dive into Claude Code (architectural analysis)](https://github.com/VILA-Lab/Dive-into-Claude-Code) `[claude-code, architecture, agent-engineering, paper, hermes]`
 - [[15-prompts-cut-coding-costs-88-percent]] — [15 prompts that cut my Coding bill from $62,000 to $7,800/month](https://x.com/0xdepressionn/status/2062185806999994444) `[claude, kimi, cost-optimization, prompts, workflows]`
 - [[agent-harness-engineering-agentforge]] — [Agent Harness Engineering — Lessons from Building AgentForge](https://x.com/bytemohit/status/2063493300884246598) `[agents, agent-harness, tool-design, safety, prompt-injection, context-management, subagents, mcp, skills, testing]`
+- [[deepseek-harness-five-patterns-saboo]] — [DeepSeek harness — log-derived context, soft loop break, workspace restarts](https://x.com/saboo_shubham_/status/2089177978265870817) `[agents, agent-harness, deepseek, observability, loop-engineering, production]`
 - [[agent-harness-should-repair-itself]] — [Your Agent Harness Should Repair Itself](https://x.com/akshay_pachaar/status/2064051835636498924) `[agents, observability, agent-harness, opik, debugging, testing, evals, regression-testing, self-repair, production]`
 - [[anthropic-recursive-self-improvement]] — [When AI Builds Itself — Recursive Self-Improvement](https://www.anthropic.com/institute/recursive-self-improvement) `[anthropic, recursive-self-improvement, agents, safety, alignment, acceleration, code-generation, research-automation, benchmarks]`
 - [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — RSI flywheel as lab moat](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, agents, agent-harness, harness-engineering, rlvr, synthetic-data, verification, ai-strategy]`
@@ -337,6 +338,7 @@
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE meta-evolution](https://x.com/neural_avb/status/2086073348531110130) `[recursive-self-improvement, meta-evolution, harness-engineering, training, rl, mle]`
 - [[knowledge-flywheels-yisongyue]] — [Knowledge Flywheels — experience → reusable insights → harnesses/models](https://x.com/yisongyue/status/2085043769297277114) `[recursive-self-improvement, harness-engineering, agent-harness, continual-learning, distillation, trace-data]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — Cursor vs native Codex/Claude Code deltas (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, cursor, claude-code, codex]`
+- [[deepseek-harness-five-patterns-saboo]] — [5 patterns from DeepSeek open agent harness (event log, loops, code-mode)](https://x.com/saboo_shubham_/status/2089177978265870817) `[harness-engineering, agent-harness, deepseek, observability, loop-engineering, context-management]`
 - [[why-harness-engineering-is-so-hard-winterarc]] — [Why Harness Engineering Is So Hard](https://x.com/winterarc2125/status/2081042507471696318) `[harness-engineering, agent-harness, evals, verification, silent-failures, prompt-engineering, model-drift]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — automated merge gate (blast radius over confidence)](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[own-your-intelligence-harrison-chase]] — [Own your intelligence](https://x.com/hwchase17/status/2081002647814094888) `[agents, agent-harness, harness-engineering, enterprise, langchain, evals, observability, agent-memory]`
@@ -723,6 +725,7 @@
 - [[david-ogilvy-writing-coach-claude-skill]] `[writing, copywriting, skills, claude, content-strategy, creator-economy, productivity, ogilvy]`
 - [[dair-ai-ten-papers-co-evolving-agents-verification]] `[papers, agents, evals, mcp, agent-memory, skills, verification, self-improvement, ml-research]`
 - [[deep-agents-prompt-caching]] `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents, observability, inference, token-economy]`
+- [[deepseek-harness-five-patterns-saboo]] `[agent-harness, agents, harness-engineering, deepseek, observability, loop-engineering, context-management, coding-tools, open-source, production]`
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`
 - [[design-good-ml-experiments-grigorev]] `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
