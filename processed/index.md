@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 491 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 493 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -189,6 +189,8 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [gbrain-markdown-git-brain-mem0.md](/processed/gbrain-markdown-git-brain-mem0.md) — *bookmark* — Mem0 In Context #14 on Garry Tan's GBrain: markdown+git as source of truth, regex/wikilink typed graph (no LLM at write) drives BrainBench P@5 49.1% vs ~11–18% without graph; hybrid search + think mode with gap honest...
 - [general-intelligence-rethinking-exploration-2022.md](/processed/general-intelligence-rethinking-exploration-2022.md) — *note* — General Intelligence Requires Rethinking Exploration (2022)
 - [generative-ui-is-the-new-frontend.md](/processed/generative-ui-is-the-new-frontend.md) — *bookmark* — Generative UI Is the New Frontend
+- [generative-verifiers-genrm-deepmind.md](/processed/generative-verifiers-genrm-deepmind.md) — *paper* — DeepMind GenRM (ICLR 2025) — train verifiers as next-token Yes/No (+ CoT); Best-of-N beats discriminative RM and LLM-as-Judge; easy-to-hard MATH gains.
+- [generative-verifiers-genrm-marfinxx.md](/processed/generative-verifiers-genrm-marfinxx.md) — *bookmark* — marfinxx on DeepMind GenRM — verification as Yes/No next-token + CoT majority vote; GSM8K 73→93.4%, MATH easy-to-hard 28→44.6%.
 - [ghost-in-residual-stream-experiment.md](/processed/ghost-in-residual-stream-experiment.md) — *experiment* — The Ghost in the Residual Stream: I Probed Every Layer of a 0.5B Model and Found Something Weird
 - [github-qubot-data-analytics-agent.md](/processed/github-qubot-data-analytics-agent.md) — *bookmark* — How we built an internal data analytics agent (Qubot)
 - [glean-coding-harness-programmatic-tool-calling.md](/processed/glean-coding-harness-programmatic-tool-calling.md) — *bookmark* — Glean's enterprise agent harness uses 100% programmatic Python tool calls, sandbox file truncation, and search-driven progressive disclosure — 24% fewer tokens than hybrid tool-calling.

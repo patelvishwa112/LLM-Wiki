@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1054 unique tags across 491 processed notes.
+> 1054 unique tags across 493 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -254,7 +254,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (243)
+### agents (244)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -343,6 +343,7 @@
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[gbrain-markdown-git-brain-mem0]]
 - [[generative-ui-is-the-new-frontend]]
+- [[generative-verifiers-genrm-marfinxx]]
 - [[goal-loss-functions-distill-product]]
 - [[goal-primitive-guide]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
@@ -1102,6 +1103,15 @@
 - [[langchain-langgraph-101-repo]]
 - [[managed-deep-agents-harrison-chase]]
 
+### deepmind (6)
+
+- [[framework-frontier-ai-standards-demis-hassabis]]
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
+- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
+- [[kaplan-scaling-laws-bug-chinchilla]]
+- [[mosaic-probabilistic-weather-model]]
+
 ### deepseek (8)
 
 - [[deepseek-harness-five-patterns-saboo]]
@@ -1191,7 +1201,7 @@
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[zero-trust-ai-agents]]
 
-### evals (46)
+### evals (48)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1212,6 +1222,8 @@
 - [[forward-deployed-engineer-roadmap-morlex]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]]
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
@@ -1632,12 +1644,13 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### llm-judges (8)
+### llm-judges (9)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[do-automated-evals-work-parlance-labs]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
+- [[generative-verifiers-genrm-deepmind]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
@@ -2022,13 +2035,15 @@
 - [[two-tracks-not-ten-agents]]
 - [[wtf-is-a-loop]]
 
-### papers (6)
+### papers (8)
 
 - [[10-hall-of-fame-engineering-papers]]
 - [[adapad-lora-parallel-deflation]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[explorative-modeling-third-pretraining-axis-xm]]
 - [[general-intelligence-rethinking-exploration-2022]]
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
 - [[sub-agents-inference-time-scaling]]
 
 ### parallelism (6)
@@ -2058,12 +2073,13 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (16)
+### post-training (17)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
+- [[generative-verifiers-genrm-deepmind]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
@@ -2302,6 +2318,14 @@
 - [[quarq-agent-memory-architecture]]
 - [[virtual-filesystem-for-agent-assistants]]
 
+### reasoning (5)
+
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
+- [[controlling-reasoning-effort-in-llms]]
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
+- [[hrm-text-1b-reasoning-model]]
+
 ### recursive-self-improvement (6)
 
 - [[anthropic-recursive-self-improvement]]
@@ -2330,7 +2354,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (43)
+### rl (44)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -2345,6 +2369,7 @@
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[general-intelligence-rethinking-exploration-2022]]
+- [[generative-verifiers-genrm-deepmind]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[harbor-rl-coding-environments]]
@@ -2729,7 +2754,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (67)
+### training (68)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2749,6 +2774,7 @@
 - [[explorative-modeling-third-pretraining-axis-xm]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]]
+- [[generative-verifiers-genrm-deepmind]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
@@ -2833,7 +2859,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (43)
+### verification (45)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2847,6 +2873,8 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[from-1-agent-to-swarm-orchestration-roadmap]]
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
 - [[graph-engineering-14-step-roadmap-0xcodez]]
 - [[graph-engineering-dynamic-workflows-fleet-0xcodila]]
 - [[graph-engineering-fake-edges-diamond-anatolikopadze]]
@@ -3254,13 +3282,6 @@
 - [[alignment-faking]]
 - [[deceptive-alignment]]
 
-### deepmind (4)
-
-- [[framework-frontier-ai-standards-demis-hassabis]]
-- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
-- [[kaplan-scaling-laws-bug-chinchilla]]
-- [[mosaic-probabilistic-weather-model]]
-
 ### deliberate-practice (2)
 
 - [[effort-position-leverage-principles]]
@@ -3558,6 +3579,12 @@
 - [[how-to-never-run-out-of-writing-ideas-nicolas-cole]]
 - [[ideacide-eleven-filters-drurly]]
 - [[productize-problems-you-already-solved-eptwts]]
+
+### inference-scaling (3)
+
+- [[controlling-reasoning-effort-in-llms]]
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
 
 ### jepa (2)
 
@@ -3935,12 +3962,6 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 
-### reasoning (3)
-
-- [[behavior-parroting-cross-lab-distillation-completeskeptic]]
-- [[controlling-reasoning-effort-in-llms]]
-- [[hrm-text-1b-reasoning-model]]
-
 ### recurrence (2)
 
 - [[looped-nanochat-two-pass-routing-kyleliang]]
@@ -3990,6 +4011,12 @@
 
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[reward-hacking-and-tampering]]
+
+### reward-models (3)
+
+- [[generative-verifiers-genrm-deepmind]]
+- [[generative-verifiers-genrm-marfinxx]]
+- [[understanding-video-models-rl-post-training]]
 
 ### risk-management (2)
 
@@ -4551,7 +4578,6 @@
 - **inductor** — [[torch-internals-part1-fx-graphs]]
 - **inference-code-design** — [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]
 - **inference-optimization** — [[trimming-introduction]]
-- **inference-scaling** — [[controlling-reasoning-effort-in-llms]]
 - **inference-time-compute** — [[who-will-set-price-intelligence]]
 - **inference-time-scaling** — [[sub-agents-inference-time-scaling]]
 - **infra** — [[learnings-training-llm-from-scratch]]
@@ -4790,7 +4816,6 @@
 - **reward-design** — [[rl-algo-comprehensive-qa]]
 - **reward-model** — [[what-every-programmer-should-know-about-rlhf]]
 - **reward-modeling** — [[rlhf-from-first-principles]]
-- **reward-models** — [[understanding-video-models-rl-post-training]]
 - **risk** — [[causal-tree-second-third-order-effects-nurijanian]]
 - **rloo** — [[continuous-batching-grpo-trl]]
 - **rollouts** — [[continuous-batching-grpo-trl]]

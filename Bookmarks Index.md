@@ -114,6 +114,7 @@
 - [[zen-and-the-art-of-ai-research]] — [Zen and the Art of AI Research](https://x.com/jxmnop/status/2066668040557867368) `[ai-research, career, mechanistic-interpretability, training, reading-writing, research-skills]`
 - [[research-world-model-distill-ai-researcher-amber-liu]] — [How to Distill a $10M+ AI Researcher — Research World Model](https://x.com/jiachenliu8/status/2074558254328455577) `[ai-research, research-world-model, agents, knowledge-graph, arc-agi, claude-code, career]`
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]] — [Verifiability constraint — RLVR and unverifiable domains](https://x.com/tanayj/status/2072766211256119475) `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
+- [[generative-verifiers-genrm-deepmind]] — [Generative Verifiers GenRM — NTP reward models (Zhang et al.)](https://arxiv.org/abs/2408.15240) `[rl, evals, reward-models, reasoning, inference-scaling, deepmind, papers]`
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]] — [How to Fine-Tune LLMs in 2026 — GRPO + RULER + ART](https://x.com/akshay_pachaar/status/2029212227438518406) `[rl, training, fine-tuning, grpo, agents, evals, openpipe, art, ruler, lora, post-training]`
 - [[slime-open-source-rl-kernel-glm-dailydose]] — [slime — open-source RL kernel behind GLM-5.2](https://x.com/DailyDoseOfDS_/status/2083123018914746803) `[rl, training, post-training, agents, open-source, glm, megatron, sglang, slime]`
 - [[grpo-trl-training-agents-class3-sergiopaniego]] — [Training Agents Class 3 — GRPO with TRL resources](https://x.com/SergioPaniego/status/2082469796893839393) `[rl, grpo, trl, training, agents, huggingface, post-training, evals]`
@@ -401,6 +402,8 @@
 
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
+- [[generative-verifiers-genrm-deepmind]] — [GenRM — generative verifiers as next-token Yes/No + CoT (ICLR 2025)](https://arxiv.org/abs/2408.15240) `[evals, reward-models, reasoning, inference-scaling, verification, deepmind, papers]`
+- [[generative-verifiers-genrm-marfinxx]] — [Thread on GenRM generative verifiers (marfinxx)](https://x.com/marfinxx/status/2089684002466619772) `[evals, reward-models, reasoning, inference-scaling, verification]`
 - [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
 - [[scoping-curating-eval-datasets-annabellschfr]] — [Scoping and curating eval datasets — 15-30 MVP rows](https://x.com/annabellschfr/status/2085381643687047434) `[evals, llm-judges, agents, verification, observability, trace-data, production, regression-testing]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
@@ -505,6 +508,7 @@
 
 ### Papers
 
+- [[generative-verifiers-genrm-deepmind]] — [Generative Verifiers: Reward Modeling as Next-Token Prediction (ICLR 2025)](https://arxiv.org/abs/2408.15240) `[papers, evals, reward-models, reasoning, deepmind, inference-scaling]`
 - [[dimitrispapail]] — [DimitrisPapail](https://x.com/DimitrisPapail/status/2056368948870811746)
 - [[just-wrote-a-new-high-quality-blog-post-on-a-resea]] — [Just wrote a new high quality blog post on a research question I care a lot: 'Wh](https://x.com/FrancescoSacco1/status/2051674951602594002)
 - [[introducing-hrm-text]] — [Introducing HRM-Text.](https://x.com/Sapient_Int/status/2056510383935172798)
@@ -591,6 +595,7 @@
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE — trained operators beat frontier on MLE](https://x.com/neural_avb/status/2086073348531110130) `[training, rl, sft, meta-evolution, openmle, mle, recursive-self-improvement]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
+- [[generative-verifiers-genrm-deepmind]] — [GenRM — reward modeling as next-token prediction (DeepMind ICLR 2025)](https://arxiv.org/abs/2408.15240) `[training, reward-models, reasoning, post-training, verification, deepmind, papers, evals]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[explorative-modeling-third-pretraining-axis-xm]] — [Explorative Modeling (XM) — third pretraining axis](https://explorative-modeling.github.io/) `[training, pretraining, generative-models, diffusion, scaling-laws, efficiency, papers]`
@@ -755,6 +760,8 @@
 - [[gaurigupta]] `[productivity, papers]`
 - [[gbrain-markdown-git-brain-mem0]] `[agents, agent-memory, mem0, gbrain, garry-tan, knowledge-graph, obsidian, wikilinks, rag, retrieval, openclaw, hermes, second-brain, git]`
 - [[generative-ui-is-the-new-frontend]] `[agents, generative-ui, mcp, ag-ui, a2ui, copilotkit, frontend]`
+- [[generative-verifiers-genrm-deepmind]] `[papers, evals, reward-models, reasoning, inference-scaling, rl, training, post-training, deepmind, verification, llm-judges]`
+- [[generative-verifiers-genrm-marfinxx]] `[papers, evals, reward-models, reasoning, inference-scaling, verification, deepmind, agents]`
 - [[glean-coding-harness-programmatic-tool-calling]] `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management, search, agent-ops]`
 - [[glm-5-2-with-vision-projector-part-harry]] `[multimodal, vision, vlm, glm, post-training, sft, rl, training, models, projector, grokking]`
 - [[goldmine-selling-data-frontier-labs-viks-rum]] `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
