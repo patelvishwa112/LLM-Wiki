@@ -276,6 +276,7 @@
 - [[how-to-be-good-at-research]] — [how to be good at research](https://x.com/itsreallyvivek/status/2064686372737454155) `[research, research-methodology, ml-research, career, writing, learning, interpretability]`
 - [[design-good-ml-experiments-grigorev]] — [How to design good ML experiments and actually learn from them](https://x.com/iamgrigorev/status/2071688181628678468) `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 - [[kaplan-scaling-laws-bug-chinchilla]] — [Scaling laws honestly — Kaplan bug and Chinchilla](https://x.com/completeskeptic/status/2073442518117884197) `[training, scaling-laws, chinchilla, pretraining, ml-research, openai, deepmind]`
+- [[thoughts-about-scaling-law-jietang]] — [Thoughts About Scaling Law — multi-dial + GLM-5.3 post-training (Jie Tang)](https://x.com/jietang/status/2089941544581403107) `[training, scaling-laws, post-training, moe, inference, glm, models, rl]`
 - [[dair-ai-ten-papers-co-evolving-agents-verification]] — [DAIR.AI — 10 papers on agents, verification, MCP](https://x.com/dair_ai/status/2073814128888549810) `[papers, agents, evals, mcp, agent-memory, skills, verification, self-improvement, ml-research]`
 
 ### Coding Tools
@@ -610,6 +611,7 @@
 - [[trace-turn-level-reward-credit-assignment-agents]] — [TRACE — densify outcome RL with turn-level credit (BrowseComp-Plus)](https://x.com/sharonyixuanli/status/2078854876084502825) `[rl, training, agents, credit-assignment, post-training, tool-use, qwen, microsoft-research]`
 - [[openthoughts-agent-data-recipes-agentic-models]] — [OpenThoughts-Agent: Data Recipes for Agentic Models](https://x.com/sergiopaniego/status/2070511769315930493) `[training, agents, rl, sft, data-curation, agent-traces, distillation, open-source, benchmarks]`
 - [[build-your-own-llm-workshop-justin-angel]] — [Build Your Own LLM — free workshop (23 videos + deck + exercises)](https://x.com/justinangel/status/2069482255312195980) `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
+- [[thoughts-about-scaling-law-jietang]] — [Scaling dials — Chinchilla→inference→MoE; GLM-5.3 RL-only lift](https://x.com/jietang/status/2089941544581403107) `[scaling-laws, post-training, moe, glm, rl, training, inference]`
 - [[controlling-reasoning-effort-in-llms]] — [Controlling Reasoning Effort in LLMs](https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms) `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
 
 ### Weather
@@ -978,6 +980,7 @@
 - [[thesmartape]] `[ai-ml]`
 - [[theturingpost]] `[agents]`
 - [[thinking-database-infinite-context-polygres-daleverett]] `[polygres, postgres, agent-memory, agents, knowledge-graph, context-management, databases, enterprise, harness-engineering]`
+- [[thoughts-about-scaling-law-jietang]] `[scaling-laws, training, post-training, moe, inference, pretraining, glm, models, rl, ai-strategy]`
 - [[three-layers-harness-loop-graph-lunarresearcher]] `[agents, agent-harness, harness-engineering, loop-engineering, graph-engineering, verification, observability, multi-agent, production]`
 - [[torch-internals-part1-fx-graphs]] `[pytorch, torch-compile, fx, dynamo, inductor, training, compilation, debugging]`
 - [[today-we-release-mosaic-a-probabilistic-weather-mo]] `[weather, models]`

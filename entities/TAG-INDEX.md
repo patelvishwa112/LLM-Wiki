@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1055 unique tags across 494 processed notes.
+> 1055 unique tags across 495 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -529,7 +529,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (14)
+### ai-strategy (15)
 
 - [[aftermarket-harnesses-ttunguz]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
@@ -543,6 +543,7 @@
 - [[post-agent-companies]]
 - [[revenue-superintelligence-human-judgment-octolane]]
 - [[the-untrainable]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[who-will-set-price-intelligence]]
 
@@ -1454,7 +1455,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (21)
+### inference (22)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1476,6 +1477,7 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[what-is-kv-cache-llms]]
 
 ### infrastructure (11)
@@ -1826,7 +1828,7 @@
 - [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 
-### models (25)
+### models (26)
 
 - [[adapad-lora-parallel-deflation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -1853,8 +1855,9 @@
 - [[rl-environments-guide-llm]]
 - [[sakana-fugu-orchestrator-models]]
 - [[the-best-models-for-hermes-agent]]
+- [[thoughts-about-scaling-law-jietang]]
 
-### moe (7)
+### moe (8)
 
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
@@ -1863,6 +1866,7 @@
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-interview-answers-2026]]
+- [[thoughts-about-scaling-law-jietang]]
 
 ### multi-agent (46)
 
@@ -2078,7 +2082,7 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (17)
+### post-training (18)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
@@ -2093,12 +2097,13 @@
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[multi-lora-training-osmosis]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[understanding-video-models-rl-post-training]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### pretraining (9)
+### pretraining (10)
 
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -2108,6 +2113,7 @@
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]]
 - [[kaplan-scaling-laws-bug-chinchilla]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
 ### product (5)
@@ -2360,7 +2366,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (44)
+### rl (45)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
@@ -2399,6 +2405,7 @@
 - [[rlm-recursive-llm-query-system]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
 - [[sutton-barto-rl-notes]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -2480,7 +2487,7 @@
 - [[red-teaming]]
 - [[responsible-scaling-policy]]
 
-### scaling-laws (10)
+### scaling-laws (11)
 
 - [[design-good-ml-experiments-grigorev]]
 - [[encoder-free-models-bitter-lesson]]
@@ -2490,6 +2497,7 @@
 - [[kaplan-scaling-laws-bug-chinchilla]]
 - [[knowledge-distillation-theturingpost]]
 - [[scaling-laws]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 
@@ -2760,7 +2768,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (68)
+### training (69)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2819,6 +2827,7 @@
 - [[sia-recursive-self-improving-agent]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
+- [[thoughts-about-scaling-law-jietang]]
 - [[torch-internals-part1-fx-graphs]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
 - [[training-agents-class-1-sft-by-agent]]
@@ -3510,10 +3519,11 @@
 - [[github-qubot-data-analytics-agent]]
 - [[vscode-copilot-token-efficiency]]
 
-### glm (2)
+### glm (3)
 
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
+- [[thoughts-about-scaling-law-jietang]]
 
 ### goal (2)
 

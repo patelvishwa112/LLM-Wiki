@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-19
 
+- Ingest: Thoughts About Scaling Law (jietang 2089941544581403107)
+
+## 2026-08-19
+
 - Ingest: How to build an eval set you can maintain (lotte_verheyden 2089838277729890437)
 
 ## 2026-08-18
