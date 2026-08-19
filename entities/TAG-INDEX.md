@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1054 unique tags across 493 processed notes.
+> 1055 unique tags across 494 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -196,7 +196,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (37)
+### agent-ops (38)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -218,6 +218,7 @@
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-seven-skills-cobi-bean]]
 - [[how-to-build-company-os-kimi-k3]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[llms-securing-source-code]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[managed-agents-built-in-memory]]
@@ -254,7 +255,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (244)
+### agents (245)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -381,6 +382,7 @@
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-build-custom-agent-harness-langchain]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
@@ -1201,7 +1203,7 @@
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[zero-trust-ai-agents]]
 
-### evals (48)
+### evals (49)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1233,6 +1235,7 @@
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[how-to-give-your-agent-memory]]
 - [[human-in-the-loop-agent-loops]]
@@ -1644,7 +1647,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[what-is-kv-cache-llms]]
 
-### llm-judges (9)
+### llm-judges (10)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
@@ -1652,6 +1655,7 @@
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[generative-verifiers-genrm-deepmind]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 - [[waku-agent-github]]
@@ -1917,7 +1921,7 @@
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[notes-on-foundation-models]]
 
-### observability (24)
+### observability (25)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-harness-should-repair-itself]]
@@ -1930,6 +1934,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-be-a-memory-engineer-n01ennn]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-give-your-agent-memory]]
 - [[improving-agents-data-mining-traces]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
@@ -2123,7 +2128,7 @@
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[testing-business-ideas-product-operating-system]]
 
-### production (22)
+### production (23)
 
 - [[6-mcp-servers-0-calls-280k-wasted]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
@@ -2138,6 +2143,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[fault-tolerance-langgraph-retries-timeouts]]
 - [[how-to-build-custom-agent-harness-langchain]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[loop-graph-harness-pipeline-archiveexplorer]]
@@ -2859,7 +2865,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (45)
+### verification (46)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2884,6 +2890,7 @@
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[human-in-the-loop-agent-loops]]
 - [[knowledge-flywheels-yisongyue]]
@@ -3358,6 +3365,11 @@
 - [[the-untrainable]]
 - [[token-capital-scaffolding-process-governance]]
 - [[who-will-set-price-intelligence]]
+
+### error-analysis (2)
+
+- [[do-automated-evals-work-parlance-labs]]
+- [[how-to-build-eval-set-you-can-maintain-lotte]]
 
 ### evaluation (3)
 
@@ -4491,7 +4503,6 @@
 - **environment** — [[harbor-rl-coding-environments]]
 - **episodic-memory** — [[memory-engineering-forgetting-policy-leanxbt]]
 - **epistemic-verbalization** — [[why-on-policy-distillation-works]]
-- **error-analysis** — [[do-automated-evals-work-parlance-labs]]
 - **error-handling** — [[fault-tolerance-langgraph-retries-timeouts]]
 - **escalation** — [[graph-engineering-three-commitments-cyrilxbt]]
 - **esm** — [[notes-on-foundation-models]]
@@ -4610,6 +4621,7 @@
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
+- **langfuse** — [[how-to-build-eval-set-you-can-maintain-lotte]]
 - **language-models** — [[explorative-modeling-third-pretraining-axis-xm]]
 - **layout** — [[why-layout-matters-document-processing]]
 - **leadership** — [[antithesis-principle-shreyas-doshi]]

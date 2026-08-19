@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-19
+
+- Ingest: How to build an eval set you can maintain (lotte_verheyden 2089838277729890437)
+
 ## 2026-08-18
 
 - Ingest: GenRM generative verifiers DeepMind paper + marfinxx 2089684002466619772

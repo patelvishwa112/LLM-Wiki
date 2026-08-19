@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 493 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 494 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -247,6 +247,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-build-conductor-multi-agent-leanxbt.md](/processed/how-to-build-conductor-multi-agent-leanxbt.md) — *bookmark* — leanxbt conductor build: decompose with mandatory checks, sequential dispatch, disk-materialized integration + seam tests, conductor-run oracles, multi-agent brakes and attribution.
 - [how-to-build-custom-agent-harness-langchain.md](/processed/how-to-build-custom-agent-harness-langchain.md) — *bookmark* — LangChain guide—agent = model + harness; customize via create_agent middleware hooks (memory, subagents, retries, HITL, cost limits) for task-harness fit.
 - [how-to-build-diffusion-language-model-kuleshov.md](/processed/how-to-build-diffusion-language-model-kuleshov.md) — *bookmark* — Tutorial on diffusion LLMs — masked/uniform diffusion, remasking, block diffusion, distillation, post-training; Mercury 2, Gemma Diffusion, Nemotron; parallel inference scaling thesis.
+- [how-to-build-eval-set-you-can-maintain-lotte.md](/processed/how-to-build-eval-set-you-can-maintain-lotte.md) — *bookmark* — Langfuse Academy — maintainable eval sets: goals vs guardrails vs ops; error analysis; filter one-time fixes; tie metrics to decisions; Goodhart.
 - [how-to-build-first-ai-agent-claude-full-course.md](/processed/how-to-build-first-ai-agent-claude-full-course.md) — *bookmark* — How to Actually Build Your First AI Agent Using Claude (Full Course)
 - [how-to-build-your-own-llm-from-scratch-5-stage-pipeline.md](/processed/how-to-build-your-own-llm-from-scratch-5-stage-pipeline.md) — *bookmark* — A complete 5-stage pipeline for building a working LLM from scratch: data cleaning, BPE tokenization, decoder-only transformer training with next-token prediction, SFT + RLHF alignment, and evaluation with perplexity ...
 - [how-to-build-your-own-llm-from-scratch-in-5-stages.md](/processed/how-to-build-your-own-llm-from-scratch-in-5-stages.md) — *bookmark* — How to Build Your Own LLM From Scratch in 5 Stages

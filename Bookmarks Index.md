@@ -406,6 +406,7 @@
 - [[generative-verifiers-genrm-marfinxx]] — [Thread on GenRM generative verifiers (marfinxx)](https://x.com/marfinxx/status/2089684002466619772) `[evals, reward-models, reasoning, inference-scaling, verification]`
 - [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
 - [[scoping-curating-eval-datasets-annabellschfr]] — [Scoping and curating eval datasets — 15-30 MVP rows](https://x.com/annabellschfr/status/2085381643687047434) `[evals, llm-judges, agents, verification, observability, trace-data, production, regression-testing]`
+- [[how-to-build-eval-set-you-can-maintain-lotte]] — [How to build an eval set you can maintain (error analysis + filters)](https://x.com/lotte_verheyden/status/2089838277729890437) `[evals, error-analysis, observability, agents, llm-judges, production, langfuse]`
 - [[continual-learning-replit-agent-vibench]] — [Continual learning for AI agents — ViBench and production eval loop](https://x.com/pirroh/status/2074118901143679414) `[continual-learning, evals, vibench, replit, agent-harness, vibe-coding, self-improvement]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [Applied AI engineer guide — outcome vs trajectory evals](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, evals, trajectory-grading, agent-harness, career]`
 - [[article]] — [Article](https://x.com/AmarSVS/status/2051470760947159197)
@@ -806,6 +807,7 @@
 - [[how-to-build-conductor-multi-agent-leanxbt]] `[agents, multi-agent, orchestration, loop-engineering, verification, agent-harness, conductor, harness-engineering]`
 - [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[how-to-build-diffusion-language-model-kuleshov]] `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, transformers, tutorial]`
+- [[how-to-build-eval-set-you-can-maintain-lotte]] `[evals, error-analysis, observability, agents, llm-judges, production, langfuse, agent-ops, verification]`
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
