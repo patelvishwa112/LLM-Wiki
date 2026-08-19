@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1055 unique tags across 495 processed notes.
+> 1055 unique tags across 496 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -255,7 +255,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (245)
+### agents (246)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -384,6 +384,7 @@
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[how-to-give-your-agent-memory]]
@@ -512,12 +513,13 @@
 - [[the-untrainable]]
 - [[who-will-set-price-intelligence]]
 
-### ai-engineering (5)
+### ai-engineering (6)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-engineering-skills-map-andrew-ng]]
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
 ### ai-research (6)
@@ -691,7 +693,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (24)
+### career (25)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -705,6 +707,7 @@
 - [[forward-deployed-engineer-roadmap-morlex]]
 - [[how-to-be-good-at-research]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[how-to-have-better-conversations-lifemaxx]]
 - [[how-to-keep-thinking-sean-goedecke]]
 - [[ideas-build-better-personal-network-benln]]
@@ -915,7 +918,7 @@
 - [[training-agents-class-1-sft-by-agent]]
 - [[voxyz-ai-10-lessons-agents-md]]
 
-### coding-tools (23)
+### coding-tools (24)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-plugins-skills-mcp-standard-google]]
@@ -929,6 +932,7 @@
 - [[goal-primitive-guide]]
 - [[harbor-by-terminal-bench-multi-language-agent-evaluation-fr]]
 - [[harbor-rl-coding-environments]]
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[how-to-keep-thinking-sean-goedecke]]
 - [[how-to-read-company-ai-analyst]]
 - [[mcp-server-workflow-problems]]
@@ -1293,12 +1297,13 @@
 - [[peft-beyond-lora]]
 - [[portal-portable-task-adapters-llms]]
 
-### fundamentals (8)
+### fundamentals (9)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-engineering-skills-map-andrew-ng]]
 - [[attention-qkv-math-amitiitbhu]]
 - [[how-gpu-executes-code-first-principles]]
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
 - [[rlhf-from-first-principles]]
 - [[twenty-core-agent-concepts-sairahul1]]
@@ -1421,12 +1426,13 @@
 - [[waku-agent-github]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
 
-### hiring (5)
+### hiring (6)
 
 - [[agent-native-career-advice-philhchen]]
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]]
 - [[ai-engineering-skills-map-andrew-ng]]
 - [[anthropic-engineering-hiring-resumes]]
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 
 ### huggingface (9)
@@ -3608,6 +3614,11 @@
 - [[generative-verifiers-genrm-deepmind]]
 - [[generative-verifiers-genrm-marfinxx]]
 
+### interview-prep (2)
+
+- [[ai-research-job-search-alisa-wuffles]]
+- [[how-to-clear-technical-interview-2026-shubh]]
+
 ### jepa (2)
 
 - [[joint-embedding-predictive-architecture-jepa]]
@@ -4128,8 +4139,9 @@
 - [[claude-for-education]]
 - [[enterprise-and-industry-applications]]
 
-### soft-skills (2)
+### soft-skills (3)
 
+- [[how-to-clear-technical-interview-2026-shubh]]
 - [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 
@@ -4607,7 +4619,6 @@
 - **interview** — [[ai-ml-engineer-interview-guide-2026-part1]]
 - **interview-answers** — [[rl-interview-answers-2026]]
 - **interview-me** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
-- **interview-prep** — [[ai-research-job-search-alisa-wuffles]]
 - **interview-questions** — [[rl-interview-questions-2026]]
 - **investment-research** — [[claude-code-investment-research-setup]]
 - **ipython** — [[prime-agent-rlm-continual-harness-primeintellect]]

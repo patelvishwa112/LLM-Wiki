@@ -107,6 +107,7 @@
 - [[5-ai-skills-six-figures-2027]] — [5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month](https://x.com/zephyr_hg/status/2066457081738088882) `[ai-skills, career, future-of-work, six-figure-skills, training]`
 - [[how-to-become-applied-ai-engineer-eyad-khrais]] — [How to become an applied AI engineer — evals, harness, multi-agent DS](https://x.com/eyad_khrais/status/2074519552277336571) `[applied-ai, career, evals, agent-harness, harness-engineering, agents, distributed-systems]`
 - [[ai-engineering-skills-map-andrew-ng]] — [AI Engineering Skills Map — build AI apps, SWE, coding agents, shape the build](https://x.com/andrewyng/status/2088302050706686198) `[ai-engineering, career, evals, agents, coding-tools, product, hiring, fundamentals]`
+- [[how-to-clear-technical-interview-2026-shubh]] — [How to clear any technical interview in 2026 (reasoning out loud + AI honesty)](https://x.com/shubhranshu2009/status/2089946957313953980) `[career, hiring, interview-prep, coding-tools, soft-skills, agents]`
 - [[forward-deployed-engineer-roadmap-morlex]] — [Forward Deployed Engineer 8-step roadmap ($215K–$785K)](https://x.com/0xMorlex/status/2083144963819270357) `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
 - [[to-fde-or-not-to-fde-jesse-zhang]] — [To FDE, or not to FDE? — discovery then productize (Decagon)](https://x.com/thejessezhang/status/2087198484093149421) `[ai-strategy, enterprise, gtm, fde, startups, product, agents]`
 - [[ai-research-job-search-alisa-wuffles]] — [AI research interview playbook — Alisa Wuffles (57 interviews → OpenAI)](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, transformers, learning]`
@@ -550,6 +551,7 @@
 - [[productize-problems-you-already-solved-eptwts]] — [Productize problems you already solved (EP problem-mining)](https://x.com/eptwts/status/2079571791341633643) `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur]`
 - [[units-of-time-alfred-lin]] — [Units of Time](https://x.com/alfred_lin/status/2061806871254835213) `[philosophy, productivity, career, life]`
 - [[agent-native-career-advice-philhchen]] — [Career skills in the agent-native era](https://x.com/philhchen/status/2072793818945167475) `[career, hiring, agents, agent-native, vibe-coding, research, startups, bitter-lesson]`
+- [[how-to-clear-technical-interview-2026-shubh]] — [Technical interview 2026 — patterns, narrate thinking, honest AI use](https://x.com/shubhranshu2009/status/2089946957313953980) `[career, interview-prep, hiring, soft-skills, coding-tools, productivity]`
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[ai-research-job-search-alisa-wuffles]] — [Notes on industry job search — Alisa Wuffles / Harnoor digest](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, productivity, learning]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
@@ -810,6 +812,7 @@
 - [[how-to-build-custom-agent-harness-langchain]] `[agents, agent-harness, langchain, middleware, deep-agents, create-agent, human-in-the-loop, production]`
 - [[how-to-build-diffusion-language-model-kuleshov]] `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, transformers, tutorial]`
 - [[how-to-build-eval-set-you-can-maintain-lotte]] `[evals, error-analysis, observability, agents, llm-judges, production, langfuse, agent-ops, verification]`
+- [[how-to-clear-technical-interview-2026-shubh]] `[career, hiring, interview-prep, coding-tools, agents, fundamentals, soft-skills, ai-engineering]`
 - [[how-to-give-your-agent-memory]] `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[how-to-build-your-own-llm-from-scratch-in-5-stages]] `[llm, training]`
 - [[how-to-create-loops-claude-code-sairahul1]] `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
