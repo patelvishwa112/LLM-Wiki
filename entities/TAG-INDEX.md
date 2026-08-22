@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1055 unique tags across 497 processed notes.
+> 1057 unique tags across 499 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (128)
+### agent-harness (129)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -138,6 +138,7 @@
 - [[skill-solo-millionaires-ai-era]]
 - [[skills-what-are-they-good-for-samzliu]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[software-factories-no-slop-dzhng]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -257,7 +258,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (247)
+### agents (249)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -292,6 +293,7 @@
 - [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
+- [[aiesi-post-training-world-adaptation]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
@@ -473,6 +475,7 @@
 - [[skills-what-are-they-good-for-samzliu]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[software-factories-no-slop-dzhng]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
@@ -1141,8 +1144,9 @@
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[the-html-brand-input-based-outcomes]]
 
-### distillation (13)
+### distillation (14)
 
+- [[aiesi-post-training-world-adaptation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[distillation-post-training-frontier-2026]]
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
@@ -1358,7 +1362,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (43)
+### harness-engineering (44)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1395,6 +1399,7 @@
 - [[own-your-intelligence-harrison-chase]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[software-factories-no-slop-dzhng]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
@@ -1504,7 +1509,7 @@
 - [[training-llm-from-scratch-5-lessons]]
 - [[weight-synchronization-rl-post-training]]
 
-### interpretability (13)
+### interpretability (14)
 
 - [[anthropic-global-workspace-j-space]]
 - [[anthropic-natural-language-autoencoders]]
@@ -1517,6 +1522,7 @@
 - [[parameter-decomposition-vs-sae-interpretability]]
 - [[persona-vectors]]
 - [[priests-of-agi-interpretability-crisis]]
+- [[software-factories-no-slop-dzhng]]
 - [[sparse-autoencoders]]
 - [[superposition]]
 
@@ -1680,7 +1686,7 @@
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 
-### loop-engineering (35)
+### loop-engineering (36)
 
 - [[9-step-loop-claude-code-senior-engineer]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -1713,6 +1719,7 @@
 - [[master-agent-architecture-harness-loop-graph-marfin]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[software-factories-no-slop-dzhng]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
@@ -2092,9 +2099,10 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[testing-business-ideas-product-operating-system]]
 
-### post-training (18)
+### post-training (19)
 
 - [[ai-ml-engineer-interview-guide-2026-part1]]
+- [[aiesi-post-training-world-adaptation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
@@ -2377,9 +2385,10 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (45)
+### rl (46)
 
 - [[ai-research-job-search-alisa-wuffles]]
+- [[aiesi-post-training-world-adaptation]]
 - [[alphago-mcts-llm-rl-dwarkesh-eric-jang]]
 - [[autodata-synthetic-data-generation-explained]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -2450,8 +2459,9 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (8)
+### rlvr (9)
 
+- [[aiesi-post-training-world-adaptation]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[loop-is-the-moat-rsi-m0egpt]]
@@ -2565,8 +2575,9 @@
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 
-### sft (12)
+### sft (13)
 
+- [[aiesi-post-training-world-adaptation]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[distillation-post-training-frontier-2026]]
@@ -2580,7 +2591,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (74)
+### skills (75)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2647,6 +2658,7 @@
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[skill-solo-millionaires-ai-era]]
 - [[skills-what-are-they-good-for-samzliu]]
+- [[software-factories-no-slop-dzhng]]
 - [[spec-kit-github-sdd]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -2668,6 +2680,14 @@
 - [[peft-beyond-lora]]
 - [[portal-portable-task-adapters-llms]]
 - [[sia-recursive-self-improving-agent]]
+
+### software-factory (5)
+
+- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
+- [[four-loops-ai-engineering-taxonomy-aparna]]
+- [[software-factories-light-and-dark-addy-osmani]]
+- [[software-factories-no-slop-dzhng]]
+- [[software-factory-linear-claude-cloud-routines]]
 
 ### sparse-autoencoders (5)
 
@@ -2780,7 +2800,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (69)
+### training (70)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2788,6 +2808,7 @@
 - [[adapad-lora-parallel-deflation]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-research-job-search-alisa-wuffles]]
+- [[aiesi-post-training-world-adaptation]]
 - [[autodata-synthetic-data-generation-explained]]
 - [[behavior-parroting-cross-lab-distillation-completeskeptic]]
 - [[build-your-own-llm-workshop-justin-angel]]
@@ -2886,7 +2907,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (46)
+### verification (47)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2928,6 +2949,7 @@
 - [[self-improving-agent-swarm-kimi-loop]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[software-factories-light-and-dark-addy-osmani]]
+- [[software-factories-no-slop-dzhng]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
@@ -4152,13 +4174,6 @@
 - [[how-to-have-better-conversations-lifemaxx]]
 - [[ideas-build-better-personal-network-benln]]
 
-### software-factory (4)
-
-- [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
-- [[four-loops-ai-engineering-taxonomy-aparna]]
-- [[software-factories-light-and-dark-addy-osmani]]
-- [[software-factory-linear-claude-cloud-routines]]
-
 ### sol (2)
 
 - [[how-openai-sol-learned-design-taste-designarena]]
@@ -4519,6 +4534,7 @@
 - **dynamo** — [[torch-internals-part1-fx-graphs]]
 - **eagle** — [[speculative-decoding-history-roofline-shreybirmiwal]]
 - **early-career** — [[career-guide-early-twenties-optimize-for-learning]]
+- **economics** — [[aiesi-post-training-world-adaptation]]
 - **edge** — [[luck-runs-out-on-schedule-trading-0xspivach]]
 - **effort-dial** — [[opus-5-explained-effort-dial-notegoyard]]
 - **egocentric-data** — [[interlatent-modern-ai-robotics-first-principles]]
@@ -4648,6 +4664,7 @@
 - **knowledge-base** — [[cerebras-knowledge-base-hybrid-search-mcp]]
 - **knowledge-capture** — [[colleague-skill-dot-skill]]
 - **knowledge-compounding** — [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- **kto** — [[aiesi-post-training-world-adaptation]]
 - **kusto** — [[github-qubot-data-analytics-agent]]
 - **langfuse** — [[how-to-build-eval-set-you-can-maintain-lotte]]
 - **language-models** — [[explorative-modeling-third-pretraining-axis-xm]]

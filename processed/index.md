@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 497 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 499 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -62,6 +62,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [ai-velocity-pod-senior-engineer-agents-mardehaym.md](/processed/ai-velocity-pod-senior-engineer-agents-mardehaym.md) — *bookmark* — Mark Ajzenstadt / LimestoneHQ AI Velocity Pod — one senior + agents vs five-person squad; V.U.E. gate, knowledge graph week-one, six-step ticket loop.
 - [ai-writing-style-personalization.md](/processed/ai-writing-style-personalization.md) — *processed-note* — Anti-AI Writing Style: Making AI Sound Human
 - [aiedge-glm-5.2-guide.md](/processed/aiedge-glm-5.2-guide.md) — *bookmark* — GLM-5.2 Ultimate Guide
+- [aiesi-post-training-world-adaptation.md](/processed/aiesi-post-training-world-adaptation.md) — *article* — Kawin Ethayarajh AIESI 2026 deck — post-training stack SFT through distillation, then world adaptation and mecha-nudges as the next problem for economists.
 - [alignment-faking.md](/processed/alignment-faking.md) — *concept* — Alignment Faking
 - [alphago-mcts-llm-rl-dwarkesh-eric-jang.md](/processed/alphago-mcts-llm-rl-dwarkesh-eric-jang.md) — *note* — AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang
 - [ambient-pm-agents-evidence-first-prd.md](/processed/ambient-pm-agents-evidence-first-prd.md) — *bookmark* — Nurijanian ambient PM agents — cron evidence packets before PRDs, PR-style stakeholder review, keep uncertainty visible not polished doc theater.
@@ -437,6 +438,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [skills-what-are-they-good-for-samzliu.md](/processed/skills-what-are-they-good-for-samzliu.md) — *bookmark* — Skills are folders that help agents act — they solve recall-vs-recognition, consistency, portable expertise, and reasoning checkpoints, not just prompt reuse.
 - [slime-open-source-rl-kernel-glm-dailydose.md](/processed/slime-open-source-rl-kernel-glm-dailydose.md) — *bookmark* — Open-source slime RL stack behind GLM-5.2 keeps one fixed learning kernel and pushes task variety into data generation.
 - [software-factories-light-and-dark-addy-osmani.md](/processed/software-factories-light-and-dark-addy-osmani.md) — *bookmark* — Addy Osmani on loop→harness→factory, dark vs lit factories, comprehension debt, and back pressure as the real constraint.
+- [software-factories-no-slop-dzhng.md](/processed/software-factories-no-slop-dzhng.md) — *bookmark* — dzhng — slop is a verification bottleneck; treat unread first-party code as interpretability: seams, sensors, and a least-confident decision ledger from a separate auditor.
 - [software-factory-linear-claude-cloud-routines.md](/processed/software-factory-linear-claude-cloud-routines.md) — *bookmark* — Pierson Marks' afternoon-build software factory — Linear as hub, Claude Code Cloud Routines for pre-triage loops (PostHog/Vercel/Stripe), webhook-triggered SDLC via auto label and /do skill.
 - [sparse-attention-long-context-dsa-msa-cyrusasg.md](/processed/sparse-attention-long-context-dsa-msa-cyrusasg.md) — *bookmark* — Cyrus maps 1M-context sparse attention: KV-cache bandwidth bill, compress vs restrict vs replace axes; NSA→DSA/MSA/Inkling/KDA; indexer KL training; silicon-first design.
 - [sparse-autoencoders.md](/processed/sparse-autoencoders.md) — *concept* — Sparse Autoencoders / Dictionary Learning

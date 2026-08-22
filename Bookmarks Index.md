@@ -150,6 +150,7 @@
 - [[four-loops-ai-engineering-taxonomy-aparna]] — [Four Distinct Loops in AI Engineering](https://x.com/aparnadhinak/status/2073492320159510869) `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`
 - [[software-factory-linear-claude-cloud-routines]] — [Software factory in an afternoon — Linear + Claude Cloud Routines](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob]`
 - [[software-factories-light-and-dark-addy-osmani]] — [Software Factories, Light and Dark — loop/harness/factory + comprehension debt](https://x.com/addyosmani/status/2079442194449232227) `[software-factory, harness-engineering, loop-engineering, agents, verification, human-in-the-loop, addy-osmani]`
+- [[software-factories-no-slop-dzhng]] — [Building software factories (with no slop)](https://x.com/dzhng/status/2090252351533973768) `[software-factory, agents, verification, interpretability, skills, agent-harness, harness-engineering, loop-engineering]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
 - [[writing-agent-skills-posthog-ian-vanagas]] — [What nobody tells you about writing agent skills (PostHog)](https://x.com/posthog/status/2084345938089316582) `[skills, agents, progressive-disclosure, context-engineering, posthog, coding-tools]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
@@ -602,6 +603,7 @@
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[generative-verifiers-genrm-deepmind]] — [GenRM — reward modeling as next-token prediction (DeepMind ICLR 2025)](https://arxiv.org/abs/2408.15240) `[training, reward-models, reasoning, post-training, verification, deepmind, papers, evals]`
+- [[aiesi-post-training-world-adaptation]] — [Post-Training LLMs — AIESI 2026 (Ethayarajh slides)](https://kawine.github.io/assets/aiesi_post-training_public.pdf) `[training, post-training, rl, sft, distillation, rlvr, kto, agents, economics]`
 - [[training-llm-from-scratch-5-lessons]] — [5 Lessons From Training an LLM From Scratch (~300 Experiments)](https://x.com/harshbhatt7585/status/2063593933314113587) `[training, llm, from-scratch, architecture, rl, scaling-laws, infrastructure, experiments]`
 - [[how-to-build-diffusion-language-model-kuleshov]] — [How to Build a Diffusion Language Model](https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/) `[training, llm, diffusion, dllm, masked-diffusion, architecture, inference, scaling-laws, tutorial]`
 - [[explorative-modeling-third-pretraining-axis-xm]] — [Explorative Modeling (XM) — third pretraining axis](https://explorative-modeling.github.io/) `[training, pretraining, generative-models, diffusion, scaling-laws, efficiency, papers]`
@@ -655,6 +657,7 @@
 - [[ai-engineering-skills-map-andrew-ng]] `[ai-engineering, career, evals, agents, coding-tools, product, agent-harness, fundamentals, roadmap, hiring]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick, background-agents]`
 - [[aiedge]] `[agents]`
+- [[aiesi-post-training-world-adaptation]] `[training, post-training, rl, sft, distillation, rlvr, kto, agents, economics]`
 - [[akshaypachaar]] `[agents]`
 - [[akshaypachaar]] `[agents, papers]`
 - [[ambient-pm-agents-evidence-first-prd]] `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
@@ -963,6 +966,7 @@
 - [[skills-what-are-they-good-for-samzliu]] `[skills, agents, agent-harness, agent-memory, procedural-memory, prompt-engineering, hermes]`
 - [[slime-open-source-rl-kernel-glm-dailydose]] `[rl, training, post-training, agents, open-source, glm, megatron, sglang, slime]`
 - [[software-factories-light-and-dark-addy-osmani]] `[software-factory, harness-engineering, loop-engineering, agents, agent-harness, verification, human-in-the-loop, addy-osmani, architecture, comprehension-debt]`
+- [[software-factories-no-slop-dzhng]] `[software-factory, agents, verification, interpretability, skills, agent-harness, harness-engineering, loop-engineering]`
 - [[software-factory-linear-claude-cloud-routines]] `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob, observability]`
 - [[somebody-made-a-huggingface-model-visualizer-just]] `[agents, rl]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax, agents, gpu, architecture, training]`

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-22
 
+- Ingest: AIESI post-training slides (ethayarajh 2090894841265733744) + software factories no slop (dzhng 2090252351533973768)
+
+## 2026-08-22
+
 - Ingest: Skills, what are they good for? (samzliu 2090977607219396771)
 
 ## 2026-08-19
