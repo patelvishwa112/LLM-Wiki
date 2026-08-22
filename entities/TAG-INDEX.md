@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1055 unique tags across 496 processed notes.
+> 1055 unique tags across 497 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (127)
+### agent-harness (128)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -136,6 +136,7 @@
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[skill-solo-millionaires-ai-era]]
+- [[skills-what-are-they-good-for-samzliu]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
@@ -165,7 +166,7 @@
 - [[self-improvement-loop-for-skills-zach-lloyd]]
 - [[wtf-is-a-loop-part-2-15-loops-ai-agents]]
 
-### agent-memory (28)
+### agent-memory (29)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-claude-14-step-roadmap]]
@@ -189,6 +190,7 @@
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[own-your-intelligence-harrison-chase]]
 - [[self-learning-agents-three-layers-user-signal]]
+- [[skills-what-are-they-good-for-samzliu]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trying-to-actually-define-continual-learning-oneill]]
@@ -255,7 +257,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (246)
+### agents (247)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -468,6 +470,7 @@
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[sia-recursive-self-improving-agent]]
 - [[sierra-pinecone-singular-company-agent]]
+- [[skills-what-are-they-good-for-samzliu]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
@@ -1401,7 +1404,7 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[why-harness-engineering-is-so-hard-winterarc]]
 
-### hermes (22)
+### hermes (23)
 
 - [[21-agent-building-mistakes]]
 - [[agent-memory-four-layer-stack-matthew-gunnin]]
@@ -1422,6 +1425,7 @@
 - [[openclaw-hermes-supervisor-setup]]
 - [[research-agent-evidence-operator]]
 - [[self-learning-agents-three-layers-user-signal]]
+- [[skills-what-are-they-good-for-samzliu]]
 - [[the-best-models-for-hermes-agent]]
 - [[waku-agent-github]]
 - [[wtf-is-a-loop-peter-steinberger-boris-cherny]]
@@ -2255,7 +2259,7 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
-### prompt-engineering (43)
+### prompt-engineering (44)
 
 - [[10-rules-polished-ui-claude]]
 - [[ai-chief-of-staff-morning-brief]]
@@ -2294,6 +2298,7 @@
 - [[rl-agents-system-prompt-reward-function]]
 - [[rlm-recursive-llm-query-system]]
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
+- [[skills-what-are-they-good-for-samzliu]]
 - [[the-full-loop-in-code]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -2575,7 +2580,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (73)
+### skills (74)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2641,6 +2646,7 @@
 - [[self-learning-agents-three-layers-user-signal]]
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
 - [[skill-solo-millionaires-ai-era]]
+- [[skills-what-are-they-good-for-samzliu]]
 - [[spec-kit-github-sdd]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
@@ -3925,11 +3931,12 @@
 - [[ghost-in-residual-stream-experiment]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 
-### procedural-memory (3)
+### procedural-memory (4)
 
 - [[how-to-give-your-agent-memory]]
 - [[memory-engineering-forgetting-policy-leanxbt]]
 - [[self-learning-agents-three-layers-user-signal]]
+- [[skills-what-are-they-good-for-samzliu]]
 
 ### product-management (4)
 

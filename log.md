@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-22
+
+- Ingest: Skills, what are they good for? (samzliu 2090977607219396771)
+
 ## 2026-08-19
 
 - Ingest: How to clear technical interview 2026 (shubhranshu2009 2089946957313953980)
