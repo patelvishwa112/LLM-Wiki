@@ -529,6 +529,7 @@
 - [[iceberg-opus-48-prompts]] — [Iceberg: The Prompts That Unleash Opus 4.8](https://x.com/0xchasetm/status/2061363479525663170)
 - [[reverse-prompting-101-alex-prompter]] — [Reverse Prompting 101 — flipped interaction / model interviews you](https://x.com/alex_prompter/status/2086807496942068197) `[prompt-engineering, productivity, writing, agents, context-engineering]`
 - [[how-to-keep-thinking-sean-goedecke]] — [How to keep thinking — own writing + books vs agent skim mode](https://www.seangoedecke.com/how-to-keep-thinking/) `[productivity, writing, career, agents, clear-thinking, meta-learning]`
+- [[find-problems-staff-engineer-lalitm]] — [How I Find Problems to Solve as a Staff Engineer](https://lalitm.com/post/find-problems-staff-engineer/) `[career, productivity, problem-first, product-discovery, staff-engineer, clear-thinking]`
 - [[mid-career-dissatisfaction]] — [On mid-career (dis)satisfaction](https://x.com/shreyas/status/2061140507884155145)
 - [[antithesis-principle-shreyas-doshi]] — [The Antithesis Principle](https://x.com/shreyas/status/2081524543471153456) `[clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]`
 - [[not-ambitious-enough-with-claude]] — [You're not ambitious enough with Claude](https://x.com/christinexzhu/status/2074847461588267466) `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
@@ -761,6 +762,7 @@
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]] `[fable-5, agents, multi-agent, orchestration, subagents, devin, agent-harness, verification, production, migration, human-in-the-loop]`
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
+- [[find-problems-staff-engineer-lalitm]] `[career, productivity, problem-first, product-discovery, staff-engineer, clear-thinking]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
 - [[forward-deployed-engineer-roadmap-morlex]] `[career, applied-ai, fde, enterprise, mcp, skills, agents, evals, product-sense]`
 - [[four-loops-ai-engineering-taxonomy-aparna]] `[loop-engineering, agents, agent-harness, observability, evals, software-factory, autoresearch, arize]`

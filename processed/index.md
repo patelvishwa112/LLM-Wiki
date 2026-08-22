@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 499 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 500 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -182,6 +182,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [fast-slow-training-continual-llm-adaptation.md](/processed/fast-slow-training-continual-llm-adaptation.md) — *note* — Fast-Slow Training for Continual LLM Adaptation
 - [fault-tolerance-langgraph-retries-timeouts.md](/processed/fault-tolerance-langgraph-retries-timeouts.md) — *bookmark* — Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers
 - [feedback-loops-claude-code-less-babysitting.md](/processed/feedback-loops-claude-code-less-babysitting.md) — *bookmark* — Feedback Loops: Help Claude Code Complete Ambitious Tasks With Less Babysitting
+- [find-problems-staff-engineer-lalitm.md](/processed/find-problems-staff-engineer-lalitm.md) — *article* — Lalit Maganti — staff engineers find work by absorbing ambient problems, waiting for repeats, collapsing requests into a common shape, then pressure-testing before building.
 - [forward-deployed-engineer-roadmap-morlex.md](/processed/forward-deployed-engineer-roadmap-morlex.md) — *bookmark* — 8-step FDE roadmap: embed, ship MCP/skills/sub-agents, breadth over depth; comp ~$215K–$785K+ at Palantir/labs.
 - [four-loops-ai-engineering-taxonomy-aparna.md](/processed/four-loops-ai-engineering-taxonomy-aparna.md) — *bookmark* — Aparna Dhinakaran maps four loop architectures (execution, task/Ralph, product factory, system/autoresearch) plus an oversight loop, from AIEWF June 2026 hype.
 - [framework-frontier-ai-standards-demis-hassabis.md](/processed/framework-frontier-ai-standards-demis-hassabis.md) — *bookmark* — Demis Hassabis: AGI years away; proposes US FINRA-like Frontier AI Standards Body with dynamic benchmarks, pre-release testing, agentic/deception evals, and path to international standards.

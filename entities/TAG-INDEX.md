@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1057 unique tags across 499 processed notes.
+> 1058 unique tags across 500 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -699,7 +699,7 @@
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
 
-### career (25)
+### career (26)
 
 - [[5-ai-skills-six-figures-2027]]
 - [[agent-native-career-advice-philhchen]]
@@ -710,6 +710,7 @@
 - [[anthropic-engineering-hiring-resumes]]
 - [[career-guide-early-twenties-optimize-for-learning]]
 - [[career-platform-email-list-ryan-holiday]]
+- [[find-problems-staff-engineer-lalitm]]
 - [[forward-deployed-engineer-roadmap-morlex]]
 - [[how-to-be-good-at-research]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
@@ -2142,10 +2143,11 @@
 - [[ten-commandments-building-product-feitong-yang]]
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 
-### product-discovery (7)
+### product-discovery (8)
 
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[causal-tree-second-third-order-effects-nurijanian]]
+- [[find-problems-staff-engineer-lalitm]]
 - [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - [[opportunity-ai-pm-os-workflow]]
 - [[productize-problems-you-already-solved-eptwts]]
@@ -2178,7 +2180,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (65)
+### productivity (66)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2204,6 +2206,7 @@
 - [[claude-personal-assistant-zero-dollars]]
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
+- [[find-problems-staff-engineer-lalitm]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
 - [[hermes-agent-10x-faster-vault-index]]
@@ -3193,10 +3196,11 @@
 - [[mechanistic-interpretability-is-not-the-whole-field]]
 - [[mechanistic-interpretability]]
 
-### clear-thinking (3)
+### clear-thinking (4)
 
 - [[antithesis-principle-shreyas-doshi]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
+- [[find-problems-staff-engineer-lalitm]]
 - [[how-to-keep-thinking-sean-goedecke]]
 
 ### cli (2)
@@ -3952,6 +3956,11 @@
 
 - [[ghost-in-residual-stream-experiment]]
 - [[mechanistic-interpretability-is-not-the-whole-field]]
+
+### problem-first (2)
+
+- [[find-problems-staff-engineer-lalitm]]
+- [[problem-first-skill-invert-bad-ideas]]
 
 ### procedural-memory (4)
 
@@ -4827,7 +4836,6 @@
 - **principles** — [[principled-thinking-and-ai-ray-dalio]]
 - **probabilistic-modeling** — [[mosaic-probabilistic-weather-model]]
 - **probes** — [[priests-of-agi-interpretability-crisis]]
-- **problem-first** — [[problem-first-skill-invert-bad-ideas]]
 - **problem-solving** — [[mckinsey-issue-tree-why-what-how-nurijanian]]
 - **process** — [[no-process-no-agent-mardehaym]]
 - **process-design** — [[token-capital-scaffolding-process-governance]]
@@ -4942,6 +4950,7 @@
 - **speech** — [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - **sqlite** — [[waku-agent-github]]
 - **stability** — [[everything-you-didnt-want-to-know-about-architectures]]
+- **staff-engineer** — [[find-problems-staff-engineer-lalitm]]
 - **stanford** — [[shepherd-reversible-execution-traces-avichawla]]
 - **state-management** — [[how-to-build-company-os-kimi-k3]]
 - **static-analysis** — [[nvidia-skillspector-security-scanner]]
