@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1058 unique tags across 500 processed notes.
+> 1059 unique tags across 502 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (129)
+### agent-harness (130)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -47,6 +47,7 @@
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[ai-native-sdlc-playbook]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
 - [[building-a-good-vertical-agent]]
@@ -258,7 +259,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (249)
+### agents (250)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -336,6 +337,7 @@
 - [[distillation-post-training-frontier-2026]]
 - [[do-automated-evals-work-parlance-labs]]
 - [[dynamic-workflows-where-plan-lives]]
+- [[era-of-evals-brendan-foody]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[fable-5-self-improving-system-14-steps]]
 - [[fable-manager-sol-worker-nateherk]]
@@ -578,9 +580,10 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (35)
+### anthropic (36)
 
 - [[ai-native-engineering-org]]
+- [[ai-native-sdlc-playbook]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-ant-cli-managed-agents]]
 - [[anthropic-claude-code-skills-lessons]]
@@ -771,7 +774,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (103)
+### claude-code (104)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -787,6 +790,7 @@
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-native-engineering-org]]
+- [[ai-native-sdlc-playbook]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-claude-code-skills-lessons]]
@@ -1182,10 +1186,11 @@
 - [[joint-embedding-predictive-architecture-jepa]]
 - [[trimming-introduction]]
 
-### enterprise (31)
+### enterprise (32)
 
 - [[agent-plugins-skills-mcp-standard-google]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[ai-native-sdlc-playbook]]
 - [[anthropic-finance-claude-cowork]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[anthropic-self-service-analytics-claude]]
@@ -1216,7 +1221,7 @@
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[zero-trust-ai-agents]]
 
-### evals (49)
+### evals (51)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1224,6 +1229,7 @@
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[ai-engineering-skills-map-andrew-ng]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]
+- [[ai-native-sdlc-playbook]]
 - [[anthropic-self-service-analytics-claude]]
 - [[are-you-still-tuning-llms-by-hand-gepa]]
 - [[coderabbit-claude-agent-orchestration]]
@@ -1232,6 +1238,7 @@
 - [[dear-lord-no-wonder-evals-are-a-mess]]
 - [[deepseek-v4-pro-threejs-embedding-visualization]]
 - [[do-automated-evals-work-parlance-labs]]
+- [[era-of-evals-brendan-foody]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[evals-strategic-ip-garrettlord]]
 - [[forward-deployed-engineer-roadmap-morlex]]
@@ -1363,10 +1370,11 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (44)
+### harness-engineering (45)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
+- [[ai-native-sdlc-playbook]]
 - [[build-claude-code-harness-crewai-akshay]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
 - [[deepseek-harness-five-patterns-saboo]]
@@ -2388,7 +2396,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (46)
+### rl (47)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[aiesi-post-training-world-adaptation]]
@@ -2401,6 +2409,7 @@
 - [[controlling-reasoning-effort-in-llms]]
 - [[curiosity-bayesian-bandit]]
 - [[distillation-post-training-frontier-2026]]
+- [[era-of-evals-brendan-foody]]
 - [[fast-slow-training-continual-llm-adaptation]]
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]]
 - [[general-intelligence-rethinking-exploration-2022]]
@@ -2462,10 +2471,11 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (9)
+### rlvr (10)
 
 - [[aiesi-post-training-world-adaptation]]
 - [[controlling-reasoning-effort-in-llms]]
+- [[era-of-evals-brendan-foody]]
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[revenue-superintelligence-human-judgment-octolane]]
@@ -2594,7 +2604,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (75)
+### skills (76)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2604,6 +2614,7 @@
 - [[ai-chief-of-staff-morning-brief]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-loops-anatoli-kopadze]]
+- [[ai-native-sdlc-playbook]]
 - [[ai-survival-guide-ikea-style]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-finance-claude-cowork]]
@@ -2684,8 +2695,9 @@
 - [[portal-portable-task-adapters-llms]]
 - [[sia-recursive-self-improving-agent]]
 
-### software-factory (5)
+### software-factory (6)
 
+- [[ai-native-sdlc-playbook]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[four-loops-ai-engineering-taxonomy-aparna]]
 - [[software-factories-light-and-dark-addy-osmani]]
@@ -2803,7 +2815,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (70)
+### training (71)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2820,6 +2832,7 @@
 - [[controlling-reasoning-effort-in-llms]]
 - [[design-good-ml-experiments-grigorev]]
 - [[distillation-post-training-frontier-2026]]
+- [[era-of-evals-brendan-foody]]
 - [[everything-you-didnt-want-to-know-about-architectures]]
 - [[explorative-modeling-third-pretraining-axis-xm]]
 - [[fast-slow-training-continual-llm-adaptation]]
@@ -2910,10 +2923,11 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (47)
+### verification (48)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
+- [[ai-native-sdlc-playbook]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[context-engineering-os-loop-engineering-vartekxx]]
@@ -4716,6 +4730,7 @@
 - **meetings** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **megatron** — [[slime-open-source-rl-kernel-glm-dailydose]]
 - **memos** — [[bezos-writing-framework-six-page-memos-dickiebush]]
+- **mercor** — [[era-of-evals-brendan-foody]]
 - **mermaid** — [[hermes-seven-skills-cobi-bean]]
 - **meta** — [[joint-embedding-predictive-architecture-jepa]]
 - **meta-agents** — [[shepherd-reversible-execution-traces-avichawla]]

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 500 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 502 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -54,6 +54,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [ai-loops-anatoli-kopadze.md](/processed/ai-loops-anatoli-kopadze.md) — *bookmark* — "Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift from one-prompt-at-a-time usage to autonomous iterative workflows. A real loop requires Goal + Verify (the most critical element) + State + Stop condit...
 - [ai-ml-engineer-interview-guide-2026-part1.md](/processed/ai-ml-engineer-interview-guide-2026-part1.md) — *bookmark* — 2026 AI/ML Engineer interview guide (Part 1): classical ML (bias-variance, class imbalance, calibration), statistics/experimentation, LLM fundamentals (tokenization, FlashAttention, RoPE), multimodal systems, fine-tun...
 - [ai-native-engineering-org.md](/processed/ai-native-engineering-org.md) — *bookmark* — How the Claude Code team restructured for AI-native engineering. Four broken norms: JIT planning replaces roadmaps, ask Claude instead of authors, humans review only domain expertise (Claude handles style/bugs/tests),...
+- [ai-native-sdlc-playbook.md](/processed/ai-native-sdlc-playbook.md) — *article* — Anthropic Applied AI playbook — rebuild SDLC around agents: intent.md through maintain loop; humans at gates; skills/hooks/evals as the control plane.
 - [ai-persuasion.md](/processed/ai-persuasion.md) — *concept* — AI Persuasion
 - [ai-policy-and-regulation.md](/processed/ai-policy-and-regulation.md) — *concept* — AI Policy and Regulation
 - [ai-research-job-search-alisa-wuffles.md](/processed/ai-research-job-search-alisa-wuffles.md) — *bookmark* — Alisa Wuffles (via Harnoor): 57 interviews / 11 companies → OpenAI — study full-time, implement transformers from scratch, public LLM/math notes + CS336 resource stack, negotiate hard.
@@ -167,6 +168,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [effort-position-leverage-principles.md](/processed/effort-position-leverage-principles.md) — *concept* — Effort is Linear, Position is Exponential — Five Principles of Market Reality
 - [encoder-free-models-bitter-lesson.md](/processed/encoder-free-models-bitter-lesson.md) — *bookmark* — rumik discusses how Sutton's Bitter Lesson continues to play out in modality interfaces — hand-designed encoders and codecs keep getting replaced by simpler, scale-driven encoder-free approaches.
 - [enterprise-and-industry-applications.md](/processed/enterprise-and-industry-applications.md) — *concept* — Enterprise and Industry Applications
+- [era-of-evals-brendan-foody.md](/processed/era-of-evals-brendan-foody.md) — *bookmark* — Brendan Foody — RL will saturate any eval, so the bottleneck is building environments that map real work; evals are the new PRD.
 - [eval-engineering-merge-gate-hanakoxbt.md](/processed/eval-engineering-merge-gate-hanakoxbt.md) — *bookmark* — Six-step course on eval infrastructure so an automated gate can merge agent changes without human review — blast radius over confidence.
 - [evals-strategic-ip-garrettlord.md](/processed/evals-strategic-ip-garrettlord.md) — *bookmark* — "Garrett Lord (@GarrettLord, CEO of Handshake) argues that 'evals' (evaluation suites) are the new strategic IP that will define the next era of AI. Companies must turn workflows, domain knowledge, and judgment into A...
 - [every-agentic-engineering-hack-june-2026.md](/processed/every-agentic-engineering-hack-june-2026.md) — *bookmark* — Every Agentic Engineering Hack I Know (June 2026)

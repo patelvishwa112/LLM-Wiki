@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-25
+
+- Ingest: Era of Evals (brendanfoody 1939764763485171948) + AI-Native SDLC playbook (claude.com)
+
 ## 2026-08-22
 
 - Ingest: How I Find Problems to Solve as a Staff Engineer (lalitm)

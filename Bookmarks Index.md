@@ -151,6 +151,7 @@
 - [[software-factory-linear-claude-cloud-routines]] — [Software factory in an afternoon — Linear + Claude Cloud Routines](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, loop-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, cronjob]`
 - [[software-factories-light-and-dark-addy-osmani]] — [Software Factories, Light and Dark — loop/harness/factory + comprehension debt](https://x.com/addyosmani/status/2079442194449232227) `[software-factory, harness-engineering, loop-engineering, agents, verification, human-in-the-loop, addy-osmani]`
 - [[software-factories-no-slop-dzhng]] — [Building software factories (with no slop)](https://x.com/dzhng/status/2090252351533973768) `[software-factory, agents, verification, interpretability, skills, agent-harness, harness-engineering, loop-engineering]`
+- [[ai-native-sdlc-playbook]] — [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook) `[anthropic, claude-code, software-factory, agent-harness, harness-engineering, evals, verification, skills, enterprise]`
 - [[writing-good-skills-measured-rulebook-aparna]] — [How do you write a good skill? There's actual data now.](https://x.com/aparnadhinak/status/2074569427346174039) `[skills, evals, agent-harness, claude-code, skillsbench, progressive-disclosure, arize, prompt-engineering]`
 - [[writing-agent-skills-posthog-ian-vanagas]] — [What nobody tells you about writing agent skills (PostHog)](https://x.com/posthog/status/2084345938089316582) `[skills, agents, progressive-disclosure, context-engineering, posthog, coding-tools]`
 - [[dark-arts-of-skill-engineering-pbakaus]] — [The Dark Arts of Skill Engineering (Impeccable)](https://x.com/pbakaus/status/2077114326985687525) `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, impeccable]`
@@ -407,6 +408,7 @@
 
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
+- [[era-of-evals-brendan-foody]] — [Welcome to The Era of Evals](https://x.com/brendanfoody/status/1939764763485171948) `[evals, rl, rlvr, training, agents, mercor]`
 - [[generative-verifiers-genrm-deepmind]] — [GenRM — generative verifiers as next-token Yes/No + CoT (ICLR 2025)](https://arxiv.org/abs/2408.15240) `[evals, reward-models, reasoning, inference-scaling, verification, deepmind, papers]`
 - [[generative-verifiers-genrm-marfinxx]] — [Thread on GenRM generative verifiers (marfinxx)](https://x.com/marfinxx/status/2089684002466619772) `[evals, reward-models, reasoning, inference-scaling, verification]`
 - [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
@@ -564,7 +566,7 @@
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[skill-solo-millionaires-ai-era]] — [The Skill Quietly Minting The First Solo Millionaires Of The AI Era](https://x.com/zephyr_hg/status/2070171729373118742) `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
 - [[ai-native-engineering-org]] — [Running an AI-Native Engineering Org](https://claude.com/blog/running-an-ai-native-engineering-org) `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
-
+- [[ai-native-sdlc-playbook]] — [The AI-Native SDLC playbook](https://claude.com/blog/the-ai-native-sdlc-playbook) `[anthropic, claude-code, software-factory, agent-harness, evals, verification, skills, enterprise]`
 
 - [[anthropic-finance-claude-cowork]] — [How Anthropic's Finance Team Uses Claude](https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers) `[anthropic, claude-cowork, finance, enterprise, productivity, skills]`
 - [[anthropic-gtm-claude-code-workflows]] — [GTM Engineering with Claude Code: Jared Sires' Workflows](https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering) `[anthropic, claude-code, claude-cowork, gtm, sales, skills, productivity, enterprise, mcp]`
@@ -648,6 +650,7 @@
 - [[agents-behave-like-employees-six-shifts]] `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
+- [[ai-native-sdlc-playbook]] `[anthropic, claude-code, software-factory, agent-harness, harness-engineering, evals, verification, skills, enterprise]`
 - [[ai-research-job-search-alisa-wuffles]] `[career, ai-research, interview-prep, phd, openai, training, rl, transformers, job-search, productivity, learning]`
 - [[ai-survival-guide-ikea-style]] `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] `[agentic-engineering, agents, software-factory, verification, human-in-the-loop, productivity, agent-ops, career, cost-optimization]`
@@ -754,6 +757,7 @@
 - [[Dynamic Workflows in Claude Code]] `[claude-code, workflows, agents, multi-agent, orchestration]`
 - [[dynamic-workflows-where-plan-lives]] `[claude-code, workflows, agents, orchestration]`
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[era-of-evals-brendan-foody]] `[evals, rl, rlvr, training, agents, mercor]`
 - [[eval-engineering-merge-gate-hanakoxbt]] `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
 - [[explorative-modeling-third-pretraining-axis-xm]] `[training, pretraining, generative-models, diffusion, scaling-laws, image-generation, video-generation, language-models, robotics, world-models, efficiency, papers]`
