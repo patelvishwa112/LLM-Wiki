@@ -409,6 +409,7 @@
 - [[agent-as-a-judge-trajectory-evals-aparna]] — [Agent-as-a-Judge — trajectory evals](https://x.com/aparnadhinak/status/2075688574960488558) `[evals, agents, llm-judges, observability, arize, trajectories, agent-harness, production]`
 - [[eval-engineering-merge-gate-hanakoxbt]] — [Eval Engineering — build the gate that merges agent changes without you](https://x.com/hanakoxbt/status/2083540339147567268) `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
 - [[era-of-evals-brendan-foody]] — [Welcome to The Era of Evals](https://x.com/brendanfoody/status/1939764763485171948) `[evals, rl, rlvr, training, agents, mercor]`
+- [[how-we-build-agent-environments-vtrivedy]] — [How we Build Agent Environments & Tasks](https://x.com/vtrivedy10/status/2092266609838604368) `[evals, agents, langchain, harbor, skills, rlvr, harness-engineering]`
 - [[generative-verifiers-genrm-deepmind]] — [GenRM — generative verifiers as next-token Yes/No + CoT (ICLR 2025)](https://arxiv.org/abs/2408.15240) `[evals, reward-models, reasoning, inference-scaling, verification, deepmind, papers]`
 - [[generative-verifiers-genrm-marfinxx]] — [Thread on GenRM generative verifiers (marfinxx)](https://x.com/marfinxx/status/2089684002466619772) `[evals, reward-models, reasoning, inference-scaling, verification]`
 - [[do-automated-evals-work-parlance-labs]] — [Do Automated Evals Work?](https://parlance-labs.com/blog/posts/auto-evals/) `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift]`
@@ -840,6 +841,7 @@
 - [[how-to-use-rlms-in-deep-agents]] `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
 - [[how-vllm-works-amitiitbhu]] `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[how-vector-database-works]] `[vector-database, embeddings, similarity-search, ann, hnsw, ivf, pq, faiss, cosine-similarity, rag, semantic-search]`
+- [[how-we-build-agent-environments-vtrivedy]] `[evals, agents, langchain, harbor, skills, rlvr, harness-engineering]`
 - [[huge-kudos-to-barbara-su-rice-cs---msc-stanford-sh]] `[ai-ml]`
 - [[iceberg-opus-48-prompts]] `[prompt-engineering, claude, productivity]`
 - [[ideacide-eleven-filters-drurly]] `[startups, product, ideation, business, portfolio, seven-powers, productivity, pm]`

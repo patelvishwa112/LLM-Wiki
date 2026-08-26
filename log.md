@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-26
+
+- Ingest: How we Build Agent Environments & Tasks (vtrivedy10 2092266609838604368)
+
 ## 2026-08-25
 
 - Ingest: Era of Evals (brendanfoody 1939764763485171948) + AI-Native SDLC playbook (claude.com)

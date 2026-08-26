@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 502 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 503 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -271,6 +271,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-use-rlms-in-deep-agents.md](/processed/how-to-use-rlms-in-deep-agents.md) — *bookmark* — Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent.
 - [how-vector-database-works.md](/processed/how-vector-database-works.md) — *article* — How Does a Vector Database Work?
 - [how-vllm-works-amitiitbhu.md](/processed/how-vllm-works-amitiitbhu.md) — *bookmark* — Amit Shekhar explains vLLM: KV cache as the serving bottleneck, naive max-length reservation vs PagedAttention block tables and prefix sharing, static vs continuous batching, and OpenAI-compatible deployment for chat ...
+- [how-we-build-agent-environments-vtrivedy.md](/processed/how-we-build-agent-environments-vtrivedy.md) — *bookmark* — LangChain Labs — two-step pipeline for agent evals: world spec plus task specs in markdown, then Spec2Task into Harbor; human review stays on specs, not code.
 - [hrm-text-1b-reasoning-model.md](/processed/hrm-text-1b-reasoning-model.md) — *note* — HRM-Text: 1B Parameter Reasoning Model
 - [huggingface-model-architecture-visualizer.md](/processed/huggingface-model-architecture-visualizer.md) — *bookmark* — HuggingFace Model Architecture Visualizer — hfviewer.com
 - [human-in-the-loop-agent-loops.md](/processed/human-in-the-loop-agent-loops.md) — *bookmark* — Eric Zakariasson (Cursor): long agent tasks need a scorable definition of done (eval score, tests, Playwright QA, p95, validation counts), a /loop with explicit stop conditions, /notify via MCP (Slack) for human-in-th...

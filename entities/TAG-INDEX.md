@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1059 unique tags across 502 processed notes.
+> 1059 unique tags across 503 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -259,7 +259,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (250)
+### agents (251)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -398,6 +398,7 @@
 - [[how-to-read-company-ai-analyst]]
 - [[how-to-use-rlms-in-deep-agents]]
 - [[how-vllm-works-amitiitbhu]]
+- [[how-we-build-agent-environments-vtrivedy]]
 - [[human-in-the-loop-agent-loops]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[iceberg-opus-48-prompts]]
@@ -1221,7 +1222,7 @@
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[zero-trust-ai-agents]]
 
-### evals (51)
+### evals (52)
 
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[agent-evals-practical-guide]]
@@ -1258,6 +1259,7 @@
 - [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-fine-tune-llms-2026-grpo-ruler-art-akshay]]
 - [[how-to-give-your-agent-memory]]
+- [[how-we-build-agent-environments-vtrivedy]]
 - [[human-in-the-loop-agent-loops]]
 - [[improving-agents-data-mining-traces]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
@@ -1370,7 +1372,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (45)
+### harness-engineering (46)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1394,6 +1396,7 @@
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
+- [[how-we-build-agent-environments-vtrivedy]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[improving-agents-data-mining-traces]]
 - [[knowledge-flywheels-yisongyue]]
@@ -1603,13 +1606,14 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-is-kv-cache-llms]]
 
-### langchain (13)
+### langchain (14)
 
 - [[deep-agents-prompt-caching]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[how-to-give-your-agent-memory]]
 - [[how-to-use-rlms-in-deep-agents]]
+- [[how-we-build-agent-environments-vtrivedy]]
 - [[improving-agents-data-mining-traces]]
 - [[introducing-dynamic-subagents-deep-agents]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
@@ -2471,12 +2475,13 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
-### rlvr (10)
+### rlvr (11)
 
 - [[aiesi-post-training-world-adaptation]]
 - [[controlling-reasoning-effort-in-llms]]
 - [[era-of-evals-brendan-foody]]
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
+- [[how-we-build-agent-environments-vtrivedy]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[revenue-superintelligence-human-judgment-octolane]]
 - [[trace-turn-level-reward-credit-assignment-agents]]
@@ -2604,7 +2609,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (76)
+### skills (77)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2648,6 +2653,7 @@
 - [[how-to-create-right-skill-ai-agent]]
 - [[how-to-design-a-loop-that-prompts-your-agent]]
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]]
+- [[how-we-build-agent-environments-vtrivedy]]
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[llms-securing-source-code]]
@@ -3625,6 +3631,11 @@
 
 - [[ai-agent-loop-architecture-buinevici]]
 - [[twenty-core-agent-concepts-sairahul1]]
+
+### harbor (2)
+
+- [[harbor-langchain-unified-agent-eval-stack]]
+- [[how-we-build-agent-environments-vtrivedy]]
 
 ### harness (2)
 
@@ -4631,7 +4642,6 @@
 - **gstack** — [[540k-lines-i-didnt-need-garry-tan]]
 - **hacks** — [[every-agentic-engineering-hack-june-2026]]
 - **hallucination** — [[why-on-policy-distillation-works]]
-- **harbor** — [[harbor-langchain-unified-agent-eval-stack]]
 - **hnsw** — [[how-vector-database-works]]
 - **horizon** — [[4-agent-trading-desk]]
 - **hosts** — [[mcp-core-architecture-hosts-clients-servers]]
