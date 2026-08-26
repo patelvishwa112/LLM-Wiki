@@ -340,6 +340,7 @@
 ### Harness Engineering
 
 - [[learn-harness-engineering]] — [Learn Harness Engineering](https://walkinglabs.github.io/learn-harness-engineering/en/) `[harness-engineering, agents, claude-code, codex, course]`
+- [[long-running-agent-open-source-harness-sumanth]] — [Build a Long-Running Agent With an Open Source Harness](https://x.com/sumanth_077/status/2092242081154847137) `[harness-engineering, agent-harness, agents, mcp, skills, context-engineering, trueforge, open-source]`
 - [[loop-is-the-moat-rsi-m0egpt]] — [The Loop Is the Moat — harness+verifier+synthetic flywheel](https://x.com/m0egpt/status/2083913045152035139) `[recursive-self-improvement, harness-engineering, agent-harness, rlvr, synthetic-data, verification, autodata, ai-strategy]`
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE meta-evolution](https://x.com/neural_avb/status/2086073348531110130) `[recursive-self-improvement, meta-evolution, harness-engineering, training, rl, mle]`
 - [[knowledge-flywheels-yisongyue]] — [Knowledge Flywheels — experience → reusable insights → harnesses/models](https://x.com/yisongyue/status/2085043769297277114) `[recursive-self-improvement, harness-engineering, agent-harness, continual-learning, distillation, trace-data]`
@@ -876,6 +877,7 @@
 - [[living-wiki-second-brain-hermes-leopardracer]] `[second-brain, obsidian, agents, hermes, knowledge-graph, karpathy, cronjob, creator-economy]`
 - [[llm-engineering-projects-roadmap-2026]] `[ai-ml, training]`
 - [[llms-securing-source-code]] `[security, anthropic, claude-code, vulnerability-scanning, skills, enterprise, threat-modeling, sandbox]`
+- [[long-running-agent-open-source-harness-sumanth]] `[harness-engineering, agent-harness, agents, mcp, skills, context-engineering, trueforge, open-source]`
 - [[longmemeval-evaluating-agent-memory-across-sessions]] `[evals]`
 - [[loopholing-schedule-seams-creatorpascal]] `[productivity, creator-economy, time-management, solopreneur, discipline, ghost-protocol]`
 - [[making-ai-agent-production-ready-sarthakrastogi]] `[agents, agent-harness, production, langgraph, langchain, langsmith, rag, evals, observability, fastapi, prompt-injection, semantic-cache]`

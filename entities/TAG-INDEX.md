@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1059 unique tags across 503 processed notes.
+> 1060 unique tags across 504 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (130)
+### agent-harness (131)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -103,6 +103,7 @@
 - [[knowledge-flywheels-yisongyue]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[leopardracer-ai-workflows-prompts]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
@@ -259,7 +260,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (251)
+### agents (252)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -413,6 +414,7 @@
 - [[learning-from-experience-noise-oaklab-handsdiff]]
 - [[leerob-x-post-2065469795529588940]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
@@ -983,7 +985,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### context-engineering (19)
+### context-engineering (20)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[building-a-good-vertical-agent]]
@@ -995,6 +997,7 @@
 - [[context-engineering-os-loop-engineering-vartekxx]]
 - [[harness-is-the-product-context-aware-agents]]
 - [[hermes-agent-10x-faster-vault-index]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[loop-engineering-clearly-explained]]
 - [[loop-engineering-technical-roadmap-h100envy]]
 - [[new-rules-context-engineering-claude-5-trq212]]
@@ -1372,7 +1375,7 @@
 - [[inference-engines-2026]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 
-### harness-engineering (46)
+### harness-engineering (47)
 
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1401,6 +1404,7 @@
 - [[improving-agents-data-mining-traces]]
 - [[knowledge-flywheels-yisongyue]]
 - [[learn-harness-engineering]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[loop-graph-harness-pipeline-archiveexplorer]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 - [[loops-vs-graphs-polygres-infinite-context-daleverett]]
@@ -1759,7 +1763,7 @@
 - [[portal-portable-task-adapters-llms]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### mcp (41)
+### mcp (42)
 
 - [[2026-ai-engineering-roadmap]]
 - [[50-mcp-servers-guide]]
@@ -1788,6 +1792,7 @@
 - [[how-to-read-company-ai-analyst]]
 - [[human-in-the-loop-agent-loops]]
 - [[langchain-langgraph-101-repo]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[loop-engineering-14-step-roadmap]]
 - [[managed-agents-sandbox-mcp]]
 - [[managed-deep-agents-harrison-chase]]
@@ -1999,7 +2004,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (15)
+### open-source (16)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-plugins-skills-mcp-standard-google]]
@@ -2007,6 +2012,7 @@
 - [[buzz-open-source-workspace-block-jack]]
 - [[deepseek-harness-five-patterns-saboo]]
 - [[graphiti-knowledge-graph-agent-memory]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[open-knowledge-format-okf-google]]
 - [[openthoughts-agent-data-recipes-agentic-models]]
@@ -2609,7 +2615,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### skills (77)
+### skills (78)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -2657,6 +2663,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[leopardracer-ai-workflows-prompts]]
 - [[llms-securing-source-code]]
+- [[long-running-agent-open-source-harness-sumanth]]
 - [[loop-designer-ten-step-roadmap-de1lymoon]]
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
@@ -5021,6 +5028,7 @@
 - **triage** — [[problem-first-skill-invert-bad-ideas]]
 - **trimming** — [[trimming-introduction]]
 - **trino** — [[github-qubot-data-analytics-agent]]
+- **trueforge** — [[long-running-agent-open-source-harness-sumanth]]
 - **ttft** — [[kv-caching-llms-clearly-explained-avichawla]]
 - **twap** — [[dqn-adaptive-trade-execution-ritonchain]]
 - **typescript** — [[mcp-server-workflow-problems]]

@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-26
 
+- Ingest: Build a Long-Running Agent With an Open Source Harness (sumanth_077 2092242081154847137)
+
+## 2026-08-26
+
 - Ingest: How we Build Agent Environments & Tasks (vtrivedy10 2092266609838604368)
 
 ## 2026-08-25

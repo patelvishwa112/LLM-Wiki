@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 503 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 504 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -314,6 +314,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [living-wiki-second-brain-hermes-leopardracer.md](/processed/living-wiki-second-brain-hermes-leopardracer.md) — *bookmark* — Living Obsidian wiki built Karpathy-style; four Hermes cron agents (Post, Build, Stoic, Note) ingest Claude.ai/Code history, write back to wiki pages, and deliver journal insights every six hours.
 - [llm-engineering-projects-roadmap-2026.md](/processed/llm-engineering-projects-roadmap-2026.md) — *bookmark* — Step-By-Step LLM Engineering Projects (2026 Edition)
 - [llms-securing-source-code.md](/processed/llms-securing-source-code.md) — *bookmark* — Anthropic's guide to using Claude Opus for security: a 6-step find-and-fix loop (threat model → sandbox → discovery → verification → triage → patching). Key insight: discovery is now easy to parallelize; the bottlenec...
+- [long-running-agent-open-source-harness-sumanth.md](/processed/long-running-agent-open-source-harness-sumanth.md) — *bookmark* — Sumanth walks a TrueForge research agent through the harness: loop, MCP, skills, sandbox offload, subagents, compaction, runtime approval gates, durable event stream.
 - [longmemeval-evaluating-agent-memory-across-sessions.md](/processed/longmemeval-evaluating-agent-memory-across-sessions.md) — *bookmark* — LongMemEval: Evaluating Agent Memory Across Sessions
 - [loop-designer-ten-step-roadmap-de1lymoon.md](/processed/loop-designer-ten-step-roadmap-de1lymoon.md) — *bookmark* — A three-tier roadmap (see, build, compound) for turning manual Claude Code prompting into self-scheduled loops with independent graders, state memory, skill distillation, and fail-safe hooks.
 - [loop-driven-development.md](/processed/loop-driven-development.md) — *bookmark* — Loop Driven Development (LDD): the oracle problem, behavior coverage, four quadrants of feedback (independence + queryability), mining test suites, querying authoritative oracles, distance assertions, and the shift fr...
