@@ -59,6 +59,7 @@ Vendor narrative (LimestoneHQ discovery call). Survey stats need primary sources
 ## Related
 
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
+- [[notes-on-fde-mardehaym]]
 - [[agents-behave-like-employees-six-shifts]]
 - [[sierra-pinecone-singular-company-agent]]
 - [[ai-enterprise-finance-background-agents-varick-vasuman]]

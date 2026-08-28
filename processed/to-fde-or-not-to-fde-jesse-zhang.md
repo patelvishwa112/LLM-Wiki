@@ -67,6 +67,7 @@ CEO narrative + Decagon metrics self-reported. Category fit matters — CS may p
 ## Related
 
 - [[forward-deployed-engineer-roadmap-morlex]]
+- [[notes-on-fde-mardehaym]]
 - [[no-process-no-agent-mardehaym]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[revenue-superintelligence-human-judgment-octolane]]

@@ -221,6 +221,7 @@
 - [[how-to-keep-thinking-sean-goedecke]] — [How to keep thinking under multi-agent skim culture (Goedecke)](https://www.seangoedecke.com/how-to-keep-thinking/) `[agents, agentic-engineering, productivity, writing, career, clear-thinking]`
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [One senior + agents vs five-person team (Velocity Pod / V.U.E.)](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, agents, software-factory, verification, human-in-the-loop, productivity, agent-ops]`
 - [[no-process-no-agent-mardehaym]] — [No Process, No Agent — process maturity before model choice](https://x.com/mardehaym/status/2087086419491647589) `[agents, agent-ops, enterprise, process, background-agents, observability, ai-strategy]`
+- [[notes-on-fde-mardehaym]] — [notes on FDE — culture develops FDEs; rotation kills context](https://x.com/mardehaym/status/2092971458309820641) `[fde, enterprise, agents, agent-ops, ai-strategy, career, gtm, productivity]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? (data flywheel)](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
 - [[learning-from-experience-noise-oaklab-handsdiff]] — [Learning from experience needs noise handling (Oak Lab / IDBD)](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, agents, agent-memory, jepa, oak-lab, sutton, online-learning]`
 
@@ -386,6 +387,7 @@
 - [[the-agentic-engineer-workflow-aashatwt]] — [THE AGENTIC ENGINEER WORKFLOW — manager mindset, memory, parallel Devin](https://x.com/aashatwt/status/2077428487779148061) `[agentic-engineering, agents, agent-harness, harness-engineering, multi-agent, claude-code, skills, agent-memory, devin]`
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [AI Velocity Pod — V.U.E. + knowledge graph + six gates](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, software-factory, verification, harness-engineering, human-in-the-loop, agent-ops]`
 - [[no-process-no-agent-mardehaym]] — [No Process, No Agent — document then automate](https://x.com/mardehaym/status/2087086419491647589) `[agents, process, enterprise, observability, background-agents, harness-engineering]`
+- [[notes-on-fde-mardehaym]] — [notes on FDE — factory-floor culture vs rotating lab FDEs](https://x.com/mardehaym/status/2092971458309820641) `[fde, enterprise, agent-ops, ai-strategy, harness-engineering, career]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [Codex Pro GPT-5.6 limits — Sol/Luna routing, max_depth=1](https://x.com/sairahul1/status/2076556282195329249) `[codex, cost-optimization, gpt-5.6, subagents, harness-engineering, routing]`
 - [[software-factory-linear-claude-cloud-routines]] — [Linear software factory — pre-triage loops + webhook SDLC agent](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, harness-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, observability]`
@@ -453,6 +455,7 @@
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] — [AI for enterprise finance — background agents (Varick)](https://x.com/vasuman/status/2077156239059107867) `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick]`
 - [[the-untrainable]] — [The Untrainable](https://x.com/saranormous/status/2064510215056400652) `[ai-strategy, investing, venture-capital, ai-economics, moats, enterprise-ai, legibility]`
 - [[to-fde-or-not-to-fde-jesse-zhang]] — [To FDE or not — eat pain, excrete product (Jesse Zhang / Decagon)](https://x.com/thejessezhang/status/2087198484093149421) `[ai-strategy, gtm, enterprise, startups, fde, product, venture-capital]`
+- [[notes-on-fde-mardehaym]] — [notes on FDE — develop culture, don’t rotate titles (Limestone)](https://x.com/mardehaym/status/2092971458309820641) `[fde, ai-strategy, enterprise, gtm, career, agents]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[revenue-superintelligence-human-judgment-octolane]] — [Revenue superintelligence — preference data moat over base models](https://x.com/coffeewithone/status/2086912331288809865) `[ai-strategy, sales, venture-capital, preference-data, enterprise, agents, crm]`
@@ -927,6 +930,7 @@
 - [[new-rules-context-engineering-claude-5-trq212]] `[context-engineering, claude-code, claude, fable, opus, skills, prompt-engineering, progressive-disclosure, agent-harness, anthropic, agents, coding-tools]`
 - [[no-process-no-agent-mardehaym]] `[agents, agent-ops, enterprise, process, background-agents, observability, ai-strategy, verification, productivity]`
 - [[not-ambitious-enough-with-claude]] `[claude, claude-cowork, claude-code, productivity, pm, fable, context-engineering, skills, knowledge-work]`
+- [[notes-on-fde-mardehaym]] `[fde, enterprise, agents, agent-ops, ai-strategy, career, gtm, productivity]`
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`

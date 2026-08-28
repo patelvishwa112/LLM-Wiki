@@ -34,5 +34,7 @@ Clear career map adjacent to applied AI engineer guides: the scarce skill is sur
 ## Related
 
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
+- [[to-fde-or-not-to-fde-jesse-zhang]]
+- [[notes-on-fde-mardehaym]]
 - [[ai-research-job-search-alisa-wuffles]]
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
