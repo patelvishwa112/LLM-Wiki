@@ -222,6 +222,7 @@
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [One senior + agents vs five-person team (Velocity Pod / V.U.E.)](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, agents, software-factory, verification, human-in-the-loop, productivity, agent-ops]`
 - [[no-process-no-agent-mardehaym]] — [No Process, No Agent — process maturity before model choice](https://x.com/mardehaym/status/2087086419491647589) `[agents, agent-ops, enterprise, process, background-agents, observability, ai-strategy]`
 - [[notes-on-fde-mardehaym]] — [notes on FDE — culture develops FDEs; rotation kills context](https://x.com/mardehaym/status/2092971458309820641) `[fde, enterprise, agents, agent-ops, ai-strategy, career, gtm, productivity]`
+- [[how-to-run-perfect-ai-implementation-pierce]] — [How to Run the Perfect AI Implementation — assess, one write path, agents last](https://x.com/lukepierceops/status/2093413799646896231) `[agents, enterprise, process, agent-ops, automation, observability, ai-strategy, productivity, verification]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] — [What If the Harness Comes Before Pretraining? (data flywheel)](https://x.com/lihanc02/status/2077087985879888361) `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
 - [[learning-from-experience-noise-oaklab-handsdiff]] — [Learning from experience needs noise handling (Oak Lab / IDBD)](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, agents, agent-memory, jepa, oak-lab, sutton, online-learning]`
 
@@ -388,6 +389,7 @@
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]] — [AI Velocity Pod — V.U.E. + knowledge graph + six gates](https://x.com/mardehaym/status/2085025462481223755) `[agentic-engineering, software-factory, verification, harness-engineering, human-in-the-loop, agent-ops]`
 - [[no-process-no-agent-mardehaym]] — [No Process, No Agent — document then automate](https://x.com/mardehaym/status/2087086419491647589) `[agents, process, enterprise, observability, background-agents, harness-engineering]`
 - [[notes-on-fde-mardehaym]] — [notes on FDE — factory-floor culture vs rotating lab FDEs](https://x.com/mardehaym/status/2092971458309820641) `[fde, enterprise, agent-ops, ai-strategy, harness-engineering, career]`
+- [[how-to-run-perfect-ai-implementation-pierce]] — [How to Run the Perfect AI Implementation — floor map then gated build](https://x.com/lukepierceops/status/2093413799646896231) `[agents, process, enterprise, agent-ops, automation, harness-engineering, observability]`
 - [[how-to-create-loops-claude-code-sairahul1]] — [How to Create Loops with Claude Code](https://x.com/sairahul1/status/2074063593759227938) `[claude-code, loop-engineering, agents, agent-harness, productivity, verification, automation]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] — [Codex Pro GPT-5.6 limits — Sol/Luna routing, max_depth=1](https://x.com/sairahul1/status/2076556282195329249) `[codex, cost-optimization, gpt-5.6, subagents, harness-engineering, routing]`
 - [[software-factory-linear-claude-cloud-routines]] — [Linear software factory — pre-triage loops + webhook SDLC agent](https://x.com/piersonmarks/status/2075361336381555096) `[software-factory, harness-engineering, claude-code, linear, mcp, agent-harness, human-in-the-loop, observability]`
@@ -840,6 +842,7 @@
 - [[how-to-never-get-writers-block-chatgpt-voice-codex-jxnl]] `[writing, skills, codex, chatgpt, voice, content-strategy, creator-economy, productivity, ghostwriting, video]`
 - [[how-to-never-run-out-of-writing-ideas-nicolas-cole]] `[writing, content-strategy, creator-economy, productivity, ghostwriting, audience-building, ideation, digital-writing]`
 - [[how-to-read-company-ai-analyst]] `[finance, agents, mcp, investing]`
+- [[how-to-run-perfect-ai-implementation-pierce]] `[agents, enterprise, process, agent-ops, automation, observability, ai-strategy, productivity, verification]`
 - [[how-to-set-up-your-content-system]] `[agents, productivity]`
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]] `[codex, gpt-5.6, cost-optimization, subagents, agent-harness, routing, openai, sol, luna, productivity]`
 - [[how-to-use-rlms-in-deep-agents]] `[agents, rlm, recursive-language-models, deep-agents, langchain, subagents, context-rot, long-context, code-interpreter]`
