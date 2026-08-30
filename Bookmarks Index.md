@@ -255,6 +255,7 @@
 - [[looped-nanochat-two-pass-routing-kyleliang]] — [What if a Transformer could think twice? (Looped Nanochat)](https://x.com/kyleliang5/status/2078543088419840292) `[architecture, transformers, training, inference, looped-transformers, attention, nanochat, test-time-compute]`
 - [[looped-transformers-explained-neural-avb]] — [What are Looped Transformers? Explained clearly](https://x.com/neural_avb/status/2081741935883223196) `[architecture, transformers, looped-transformers, recurrence, test-time-compute, training, inference, moe, universal-transformer, models]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]] — [KV, Prefix, Prompt and Semantic Caching in LLMs — four layers](https://x.com/_avichawla/status/2093265776266637739) `[llm, inference, kv-cache, serving, vllm, prompt-caching, cost-optimization, transformers, fundamentals]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP (Mainz Part 2)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, pipeline-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] — [Sparse attention design space — DSA/MSA/Inkling/KDA for 1M context](https://x.com/cyrusasg/status/2080697631286681998) `[inference, serving, kv-cache, sparse-attention, long-context, attention, mla, gqa, deepseek, minimax]`
 - [[gpt2-to-kimik3-architecture-22580-waterloo]] — [22580: From GPT2 to Kimi3, Explained](https://x.com/waterloo_intern/status/2081762065392541951) `[architecture, transformers, attention, kv-cache, linear-attention, deltanet, mamba, moe, mla, kimi, moonshot, inference, long-context, models]`
@@ -504,6 +505,7 @@
 - [[what-is-kv-cache-llms]] — [What is KV Cache in LLMs?](https://x.com/amitiitbhu/status/2037413998279491927) `[llm, transformers, attention, kv-cache, fundamentals]`
 - [[attention-qkv-math-amitiitbhu]] — [Math behind Attention - Q, K, and V](https://x.com/amitiitbhu/status/2040027305297526811) `[transformers, attention, llm, fundamentals, math, qkv, softmax, embeddings]`
 - [[kv-caching-llms-clearly-explained-avichawla]] — [KV Caching in LLMs, Clearly Explained](https://x.com/_avichawla/status/2034902650534187503) `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, serving]`
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]] — [KV, Prefix, Prompt and Semantic Caching in LLMs, clearly explained](https://x.com/_avichawla/status/2093265776266637739) `[llm, inference, kv-cache, serving, vllm, prompt-caching, cost-optimization, transformers, fundamentals]`
 - [[how-vllm-works-amitiitbhu]] — [How does vLLM work?](https://x.com/amitiitbhu/status/2069384034074107905) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu, llm, agents, throughput]`
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]] — [Multi-GPU inference — TP/PP/SP/EP topology (Mainz)](https://x.com/mainzonx/status/2017308696649302483) `[inference, serving, gpu, tensor-parallelism, moe, kv-cache, vllm, distributed-systems]`
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]] — [Sparse attention long-context — NSA→DSA/MSA, KDA fork, silicon-first](https://x.com/cyrusasg/status/2080697631286681998) `[inference, kv-cache, sparse-attention, long-context, mla, deepseek, minimax, architecture, models]`
@@ -876,6 +878,7 @@
 - [[knowledge-flywheels-yisongyue]] `[recursive-self-improvement, agents, agent-harness, harness-engineering, continual-learning, agent-memory, distillation, trace-data, verification, ai-strategy, knowledge-management]`
 - [[knowledge-system-compounding-obsidian-vellum]] `[obsidian, second-brain, knowledge-management, workflows]`
 - [[kv-caching-llms-clearly-explained-avichawla]] `[llm, inference, kv-cache, transformers, attention, ttft, prefill, gqa, mqa, fundamentals, serving, gpu]`
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]] `[llm, inference, kv-cache, serving, vllm, prompt-caching, cost-optimization, transformers, fundamentals]`
 - [[langchain-langgraph-101-repo]] `[langgraph, langchain, deep-agents, agents, multi-agent, tutorial, resource, mcp, langsmith]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[learn-harness-engineering]] `[harness-engineering, agents, claude-code, codex, verification, course]`

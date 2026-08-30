@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 507 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 508 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -303,6 +303,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [knowledge-flywheels-yisongyue.md](/processed/knowledge-flywheels-yisongyue.md) — *bookmark* — Knowledge scaling as third axis — distill agent experience into reusable insights (when/why/what fails) that simplify harnesses and train wiser models.
 - [knowledge-system-compounding-obsidian-vellum.md](/processed/knowledge-system-compounding-obsidian-vellum.md) — *bookmark* — Knowledge System That Compounds
 - [kv-caching-llms-clearly-explained-avichawla.md](/processed/kv-caching-llms-clearly-explained-avichawla.md) — *bookmark* — Avi Chawla: six-part KV cache primer — last-token generation, Q/K/V reuse, O(n²) waste without cache, prefill vs decode (TTFT), memory cost (Qwen 72B example), GQA/MQA and paged attention follow-ons; ~5× decode speedu...
+- [kv-prefix-prompt-semantic-caching-llms-avichawla.md](/processed/kv-prefix-prompt-semantic-caching-llms-avichawla.md) — *bookmark* — Avi Chawla: four LLM cache layers (KV, prefix, prompt, semantic) from first principles — what each stores, what breaks reuse, RAG/LMCache, Anthropic billing.
 - [langchain-fireworks-trace-judge-100x-cheaper.md](/processed/langchain-fireworks-trace-judge-100x-cheaper.md) — *bookmark* — Building a 100x Cheaper Trace Judge with Fireworks
 - [langchain-langgraph-101-repo.md](/processed/langchain-langgraph-101-repo.md) — *resource* — Official LangChain hands-on repo—101/201 Jupyter tracks plus Studio-ready agents for LangGraph, middleware/HITL, multi-agent, and Deep Agents (skills, AGENTS.md, memory).
 - [learn-anything-3x-faster-claude-9-study-systems.md](/processed/learn-anything-3x-faster-claude-9-study-systems.md) — *article* — How to Learn Anything 3x Faster with Claude: 9 Study Systems

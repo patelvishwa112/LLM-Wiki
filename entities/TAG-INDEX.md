@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1060 unique tags across 507 processed notes.
+> 1060 unique tags across 508 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1064,7 +1064,7 @@
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
-### cost-optimization (25)
+### cost-optimization (26)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[aftermarket-harnesses-ttunguz]]
@@ -1085,6 +1085,7 @@
 - [[harness-is-the-product-280k]]
 - [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]]
 - [[opus-5-explained-effort-dial-notegoyard]]
@@ -1329,7 +1330,7 @@
 - [[peft-beyond-lora]]
 - [[portal-portable-task-adapters-llms]]
 
-### fundamentals (9)
+### fundamentals (10)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[ai-engineering-skills-map-andrew-ng]]
@@ -1337,6 +1338,7 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[how-to-clear-technical-interview-2026-shubh]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[rlhf-from-first-principles]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[what-is-kv-cache-llms]]
@@ -1506,7 +1508,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (22)
+### inference (23)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1521,6 +1523,7 @@
 - [[kimi-k3-explained-forgetting-swill1ams]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-transformers-explained-neural-avb]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
@@ -1617,7 +1620,7 @@
 - [[not-ambitious-enough-with-claude]]
 - [[one-person-ai-outperformed-entire-team]]
 
-### kv-cache (18)
+### kv-cache (19)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[context-engineering-feed-model-not-dumber-h100envy]]
@@ -1630,6 +1633,7 @@
 - [[kimi-k3-explained-forgetting-swill1ams]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[shepherd-reversible-execution-traces-avichawla]]
@@ -1684,7 +1688,7 @@
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
 
-### llm (23)
+### llm (24)
 
 - [[Llama SAE Interpretability Project]]
 - [[ai-ml-engineer-interview-guide-2026-part1]]
@@ -1701,6 +1705,7 @@
 - [[how-vllm-works-amitiitbhu]]
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[opsd-off-policy-self-distillation]]
@@ -2320,6 +2325,14 @@
 - [[llm-engineering-projects-roadmap-2026]]
 - [[personal-ai-assistant-claude-0-cost]]
 
+### prompt-caching (5)
+
+- [[aftermarket-harnesses-ttunguz]]
+- [[deep-agents-prompt-caching]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
+- [[opus-5-explained-effort-dial-notegoyard]]
+- [[vscode-copilot-token-efficiency]]
+
 ### prompt-engineering (44)
 
 - [[10-rules-polished-ui-claude]]
@@ -2619,7 +2632,7 @@
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sia-recursive-self-improving-agent]]
 
-### serving (10)
+### serving (11)
 
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[how-vllm-works-amitiitbhu]]
@@ -2627,6 +2640,7 @@
 - [[inference-optimizations-sub-second-llm-checklist]]
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
@@ -2935,7 +2949,7 @@
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[zen-and-the-art-of-ai-research]]
 
-### transformers (12)
+### transformers (13)
 
 - [[2026-ai-engineering-roadmap]]
 - [[ai-research-job-search-alisa-wuffles]]
@@ -2946,6 +2960,7 @@
 - [[gpt2-to-kimik3-architecture-22580-waterloo]]
 - [[how-to-build-diffusion-language-model-kuleshov]]
 - [[kv-caching-llms-clearly-explained-avichawla]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[looped-transformers-explained-neural-avb]]
 - [[what-is-kv-cache-llms]]
@@ -4063,13 +4078,6 @@
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[Non-Obvious Agent Projects]]
 
-### prompt-caching (4)
-
-- [[aftermarket-harnesses-ttunguz]]
-- [[deep-agents-prompt-caching]]
-- [[opus-5-explained-effort-dial-notegoyard]]
-- [[vscode-copilot-token-efficiency]]
-
 ### prompt-injection (4)
 
 - [[agent-harness-engineering-agentforge]]
@@ -4416,10 +4424,11 @@
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[notes-on-foundation-models]]
 
-### vllm (3)
+### vllm (4)
 
 - [[0xsojalsec-llms-local]]
 - [[how-vllm-works-amitiitbhu]]
+- [[kv-prefix-prompt-semantic-caching-llms-avichawla]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
 
 ### voice (2)
