@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 504 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 507 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -267,6 +267,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md](/processed/how-to-never-get-writers-block-chatgpt-voice-codex-jxnl.md) — *bookmark* — Jason (@jxnlco) replaces human ghostwriting with ChatGPT live voice + Codex: talk-walk transcripts, only-use-my-words essay skill, then FFmpeg/Remotion video essay edits — open skills in jxnl/dots.
 - [how-to-never-run-out-of-writing-ideas-nicolas-cole.md](/processed/how-to-never-run-out-of-writing-ideas-nicolas-cole.md) — *bookmark* — Question-based content engine — collect nuanced questions, unbundle angles, answer via 10 Magical Ways formats
 - [how-to-read-company-ai-analyst.md](/processed/how-to-read-company-ai-analyst.md) — *bookmark* — How to Read Any Company With AI Like an Analyst
+- [how-to-run-perfect-ai-implementation-pierce.md](/processed/how-to-run-perfect-ai-implementation-pierce.md) — *bookmark* — Luke Pierce / Boom Automations — 5-phase AI implementation: assess floor map, one write path, automations then agents, cutover, adoption rate.
 - [how-to-use-gpt-56-all-day-without-limits-sairahul1.md](/processed/how-to-use-gpt-56-all-day-without-limits-sairahul1.md) — *bookmark* — Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clone subagents); Sol Extra High + Sol Medium + Luna Extra High; max_depth=1; AGENTS.md no auto-spawn; explicit stop points.
 - [how-to-use-rlms-in-deep-agents.md](/processed/how-to-use-rlms-in-deep-agents.md) — *bookmark* — Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent.
 - [how-vector-database-works.md](/processed/how-vector-database-works.md) — *article* — How Does a Vector Database Work?
@@ -363,11 +364,13 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [new-rules-context-engineering-claude-5-trq212.md](/processed/new-rules-context-engineering-claude-5-trq212.md) — *bookmark* — Anthropic removed 80%+ of Claude Code system prompt for Opus/Fable 5; shift from rigid rules to judgment, progressive disclosure, and rich references.
 - [no-process-no-agent-mardehaym.md](/processed/no-process-no-agent-mardehaym.md) — *bookmark* — No Process, No Agent — Mark Ajzenstadt argues process maturity is ~95% of agent success; document → connect SoR → observability before agent code.
 - [not-ambitious-enough-with-claude.md](/processed/not-ambitious-enough-with-claude.md) — *bookmark* — Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders.
+- [notes-on-fde-mardehaym.md](/processed/notes-on-fde-mardehaym.md) — *bookmark* — Mark Ajzenstadt — FDE scarcity is operational culture, not rare talent; rotation kills context; factory-floor ops vs lab implementation wave.
 - [notes-on-foundation-models.md](/processed/notes-on-foundation-models.md) — *bookmark* — Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs ...
 - [nvidia-skillspector-security-scanner.md](/processed/nvidia-skillspector-security-scanner.md) — *article* — NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills
 - [obsidian-vault-graph-fable5-11-step-unicodef1wn.md](/processed/obsidian-vault-graph-fable5-11-step-unicodef1wn.md) — *bookmark* — Obsidian second-brain graph for agents (Fable 5): ROUTER + index + atomic nodes + edges + retrieval logic + state. Pretty graph view is for humans; index is the engine. Target 2–3 files per answer vs whole vault.
 - [on-policy-distillation-must-read.md](/processed/on-policy-distillation-must-read.md) — *note* — On-Policy Distillation: Must-Read Articles
 - [on-policy-distillation-resources-2026.md](/processed/on-policy-distillation-resources-2026.md) — *note* — On-Policy Distillation Resources (2026)
+- [one-person-ai-outperformed-entire-team.md](/processed/one-person-ai-outperformed-entire-team.md) — *bookmark* — Tiago Forte on HBS Cybernetic Teammate (P&G): 1 person + AI matched a two-person team; pitch for owned Personal Context Management.
 - [open-knowledge-format-okf-google.md](/processed/open-knowledge-format-okf-google.md) — *concept* — OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karp...
 - [openclaw-hermes-supervisor-setup.md](/processed/openclaw-hermes-supervisor-setup.md) — *bookmark* — The Setup That Saved Me Hours Every Day: OpenClaw + Hermes Supervisor
 - [openthoughts-agent-data-recipes-agentic-models.md](/processed/openthoughts-agent-data-recipes-agentic-models.md) — *bookmark* — OpenThoughts-Agent: open 6-stage agent training data pipeline (100+ ablations) — task mix/diversity dominates (~30 pts), GLM-4.7 beats GPT-5.3-Codex as teacher, 5+ turn traces, don't rewrite tasks; OpenThinkerAgent-32...

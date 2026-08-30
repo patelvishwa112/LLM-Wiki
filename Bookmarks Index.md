@@ -569,6 +569,7 @@
 - [[ai-research-job-search-alisa-wuffles]] — [Notes on industry job search — Alisa Wuffles / Harnoor digest](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, productivity, learning]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
+- [[one-person-ai-outperformed-entire-team]] — [One person with AI outperformed an entire team — HBS Cybernetic Teammate / P&G](https://x.com/fortelabs/status/2093396426302656811) `[second-brain, productivity, ai-augmentation, knowledge-work, career, context-engineering, human-ai]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, productivity, human-ai, attention, debugging, verification, context-management]`
 - [[ai-survival-guide-ikea-style]] — [A Survival Guide to AI (written like IKEA instructions)](https://x.com/rubenhassid/status/2063471959158260119) `[claude, claude-cowork, claude-code, skills, productivity, beginner]`
 - [[skill-solo-millionaires-ai-era]] — [The Skill Quietly Minting The First Solo Millionaires Of The AI Era](https://x.com/zephyr_hg/status/2070171729373118742) `[claude, agent-harness, productivity, skills, solo-builder, context-engineering]`
@@ -938,6 +939,7 @@
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]] `[graph-engineering, second-brain, obsidian, fable-5, agents, agent-memory, knowledge-graph, hermes, cost-optimization, context-engineering]`
+- [[one-person-ai-outperformed-entire-team]] `[second-brain, productivity, ai-augmentation, knowledge-work, career, context-engineering, human-ai]`
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`
 - [[open-knowledge-format-okf-google]] `[agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud, open-source]`
 - [[openwiki-02-okf-langchain-bracesproul]] `[okf, openwiki, langchain, second-brain, knowledge-graph, agents, agent-harness, documentation, standards, obsidian]`

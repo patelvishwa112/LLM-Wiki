@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-08-30
+
+- Ingest: One person with AI outperformed an entire team (fortelabs 2093396426302656811)
+
 ## 2026-08-26
 
 - Ingest: Build a Long-Running Agent With an Open Source Harness (sumanth_077 2092242081154847137)
