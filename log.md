@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-08-30
 
+- Ingest: The Principles of Learning Faster (0xhvdes 2094075106096009695)
+
+## 2026-08-30
+
 - Ingest: KV, Prefix, Prompt and Semantic Caching in LLMs ( _avichawla 2093265776266637739)
 
 ## 2026-08-30

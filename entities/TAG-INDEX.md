@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1060 unique tags across 508 processed notes.
+> 1060 unique tags across 509 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -1679,7 +1679,7 @@
 - [[making-ai-agent-production-ready-sarthakrastogi]]
 - [[managed-deep-agents-harrison-chase]]
 
-### learning (6)
+### learning (7)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[career-guide-early-twenties-optimize-for-learning]]
@@ -1687,6 +1687,7 @@
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]]
 - [[learn-anything-3x-faster-claude-9-study-systems]]
 - [[llm-engineering-projects-roadmap-2026]]
+- [[principles-of-learning-faster-0xhvdes]]
 
 ### llm (24)
 
@@ -1872,13 +1873,14 @@
 - [[memory-is-retained-consequence]]
 - [[quarq-agent-memory-architecture]]
 
-### meta-learning (7)
+### meta-learning (8)
 
 - [[antithesis-principle-shreyas-doshi]]
 - [[career-platform-email-list-ryan-holiday]]
 - [[how-to-be-good-at-ai-research]]
 - [[how-to-keep-thinking-sean-goedecke]]
 - [[human-nature-meta-skill-dan-koe]]
+- [[principles-of-learning-faster-0xhvdes]]
 - [[second-self-vs-second-brain-obsidian]]
 - [[token-capital-scaffolding-process-governance]]
 
@@ -2232,7 +2234,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (69)
+### productivity (70)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2292,6 +2294,7 @@
 - [[personal-brand-better-than-resume-lindsay-casale]]
 - [[pm-as-context-compressor]]
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
+- [[principles-of-learning-faster-0xhvdes]]
 - [[productize-problems-you-already-solved-eptwts]]
 - [[reverse-prompting-101-alex-prompter]]
 - [[show-me-visual-reps-coding-agents-dexhorthy]]
@@ -3091,6 +3094,11 @@
 - [[anthropic-natural-language-autoencoders]]
 - [[persona-vectors-paper]]
 
+### active-recall (2)
+
+- [[learn-anything-3x-faster-claude-9-study-systems]]
+- [[principles-of-learning-faster-0xhvdes]]
+
 ### addy-osmani (2)
 
 - [[addy-osmani-agent-skills-open-source]]
@@ -3324,10 +3332,11 @@
 - [[context-engineering-field-guide-phosphenq]]
 - [[harness-is-the-product-context-aware-agents]]
 
-### compounding (3)
+### compounding (4)
 
 - [[knowledge-system-compounding-obsidian-vellum]]
 - [[level-above-phd-knowledge-works-without-you]]
+- [[principles-of-learning-faster-0xhvdes]]
 - [[research-agent-evidence-operator]]
 
 ### content-creation (3)
@@ -4295,6 +4304,11 @@
 - [[rlm-agents-structured-outputs]]
 - [[rlm-structured-outputs]]
 
+### study-techniques (2)
+
+- [[learn-anything-3x-faster-claude-9-study-systems]]
+- [[principles-of-learning-faster-0xhvdes]]
+
 ### superposition (4)
 
 - [[ghost-in-residual-stream-experiment]]
@@ -4458,7 +4472,6 @@
 - **academic-research** — [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - **acceleration** — [[anthropic-recursive-self-improvement]]
 - **action-chunking** — [[interlatent-modern-ai-robotics-first-principles]]
-- **active-recall** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **active-reconstruction** — [[graph-memory-reconstruction-llms]]
 - **adaptation** — [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - **adapters** — [[peft-beyond-lora]]
@@ -5035,7 +5048,6 @@
 - **storm** — [[stanford-storm-method-claude-research]]
 - **storytelling** — [[wtf-is-storytelling-for-vcs-laurie-owen]]
 - **strategy** — [[the-html-brand-input-based-outcomes]]
-- **study-techniques** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **superstars** — [[effort-position-leverage-principles]]
 - **supervision** — [[shepherd-reversible-execution-traces-avichawla]]
 - **supervisor** — [[openclaw-hermes-supervisor-setup]]

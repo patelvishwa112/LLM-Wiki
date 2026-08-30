@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 508 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 509 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -399,6 +399,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [priests-of-agi-interpretability-crisis.md](/processed/priests-of-agi-interpretability-crisis.md) — *bookmark* — Priests of AGI
 - [prime-agent-rlm-continual-harness-primeintellect.md](/processed/prime-agent-rlm-continual-harness-primeintellect.md) — *bookmark* — Prime Intellect open-sources Prime Agent — self-improving coding harness built on Recursive Language Models (persistent IPython) and a Continual Harness the agent can CRUD.
 - [principled-thinking-and-ai-ray-dalio.md](/processed/principled-thinking-and-ai-ray-dalio.md) — *bookmark* — Ray Dalio argues that principled thinking and AI must be combined for effective decision-making. The approach involves deeply examining cause-effect relationships, writing explicit criteria/principles, backtesting the...
+- [principles-of-learning-faster-0xhvdes.md](/processed/principles-of-learning-faster-0xhvdes.md) — *bookmark* — Hades (0xhvdes): seven principles for learning faster — do, shorten feedback, struggle before search, just-in-time, retrieval, connect, compound.
 - [problem-first-skill-invert-bad-ideas.md](/processed/problem-first-skill-invert-bad-ideas.md) — *bookmark* — A Claude/Cowork skill that decompresses proposed solutions back into underlying problems. Treats solutions as "compressed confessions" of sensed-but-unarticulated problems. 8-section output includes assumption challen...
 - [production-rag-agents-technmak.md](/processed/production-rag-agents-technmak.md) — *bookmark* — "@techNmak's Part 2 post on production AI systems. Focuses on where real systems fail: retrieval (RAG pipeline stages from ingestion to evaluation) and agent design (tool design, observation, verification, memory, ter...
 - [productize-problems-you-already-solved-eptwts.md](/processed/productize-problems-you-already-solved-eptwts.md) — *bookmark* — EP (@eptwts) four-step problem-mining: productize problems you already solved, filter money/time/status, split surface vs root, pain + one-sentence transformation checks.

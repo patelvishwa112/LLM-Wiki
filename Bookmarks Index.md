@@ -570,6 +570,7 @@
 - [[keeping-up-ai-skills-job-listings-loganthorneloe]] — [How I keep up with important AI skills](https://x.com/loganthorneloe/status/2074246640999731513) `[career, ai-engineering, learning, job-search, hiring, rss, newsletter, agents]`
 - [[ai-research-job-search-alisa-wuffles]] — [Notes on industry job search — Alisa Wuffles / Harnoor digest](https://x.com/iharnoorsingh/status/2077586051112280379) `[career, ai-research, interview-prep, phd, openai, job-search, productivity, learning]`
 - [[learn-anything-3x-faster-claude-9-study-systems]] — [How to learn anything 3x faster with Claude: 9 study systems](https://x.com/0xmorlex/status/2063238361926496345) `[claude, learning, study-techniques, active-recall, spaced-repetition, feynman-technique, socratic-method, education]`
+- [[principles-of-learning-faster-0xhvdes]] — [The Principles of Learning Faster](https://x.com/0xhvdes/status/2094075106096009695) `[learning, meta-learning, productivity, study-techniques, active-recall, compounding]`
 - [[level-above-phd-knowledge-works-without-you]] — [There's a level above PhD. It's a PhD whose knowledge works without him - with AI](https://x.com/borntogambles/status/2062345673245176126) `[second-brain, knowledge-management, judgment, ai-augmentation, expertise, idea-generation, compounding, workflow]`
 - [[one-person-ai-outperformed-entire-team]] — [One person with AI outperformed an entire team — HBS Cybernetic Teammate / P&G](https://x.com/fortelabs/status/2093396426302656811) `[second-brain, productivity, ai-augmentation, knowledge-work, career, context-engineering, human-ai]`
 - [[metacognition-debug-human-ai-system-stablechen]] — [Metacognition as systems debugging — human half of human–AI](https://x.com/stablechen/status/2079624266707054825) `[metacognition, productivity, human-ai, attention, debugging, verification, context-management]`
@@ -960,6 +961,7 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]] `[ghostwriting, writing, career, content-strategy, creator-economy, productivity, voice, specialization]`
 - [[prime-agent-rlm-continual-harness-primeintellect]] `[agents, agent-harness, rlm, continual-learning, self-improvement, open-source, prime-intellect, harness-engineering]`
 - [[priests-of-agi-interpretability-crisis]] `[interpretability, safety]`
+- [[principles-of-learning-faster-0xhvdes]] `[learning, meta-learning, productivity, study-techniques, active-recall, compounding]`
 - [[problem-first-skill-invert-bad-ideas]] `[skills, claude-code, claude-cowork, pm, problem-first, triage, templates]`
 - [[productize-problems-you-already-solved-eptwts]] `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur, positioning]`
 - [[ramplabs]] `[ai-ml]`
