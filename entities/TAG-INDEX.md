@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1060 unique tags across 509 processed notes.
+> 1061 unique tags across 510 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (131)
+### agent-harness (132)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -78,6 +78,7 @@
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[harbor-langchain-unified-agent-eval-stack]]
 - [[harness-engineering-2026-discipline]]
@@ -201,7 +202,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (40)
+### agent-ops (41)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -219,6 +220,7 @@
 - [[claude-md-12-rules-mikenevermiss]]
 - [[evals-strategic-ip-garrettlord]]
 - [[glean-coding-harness-programmatic-tool-calling]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[harness-engineering-2026-discipline]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-seven-skills-cobi-bean]]
@@ -262,7 +264,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (254)
+### agents (255)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -364,6 +366,7 @@
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
@@ -1108,11 +1111,12 @@
 - [[premium-ghostwriter-five-skills-nicolas-cole]]
 - [[productize-problems-you-already-solved-eptwts]]
 
-### cronjob (6)
+### cronjob (7)
 
 - [[agents-behave-like-employees-six-shifts]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[claude-code-four-loop-types-datasciencedojo]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[living-wiki-second-brain-hermes-leopardracer]]
 - [[software-factory-linear-claude-cloud-routines]]
@@ -1938,7 +1942,7 @@
 - [[rl-interview-answers-2026]]
 - [[thoughts-about-scaling-law-jietang]]
 
-### multi-agent (46)
+### multi-agent (47)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1960,6 +1964,7 @@
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -2987,7 +2992,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (49)
+### verification (50)
 
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -3011,6 +3016,7 @@
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
 - [[how-to-build-eval-set-you-can-maintain-lotte]]
@@ -3386,9 +3392,10 @@
 - [[how-gpu-executes-code-first-principles]]
 - [[pytorch-profiler-beginners-guide]]
 
-### cursor (3)
+### cursor (4)
 
 - [[aftermarket-harnesses-ttunguz]]
+- [[grok-bot-for-engineering-lingxi]]
 - [[human-in-the-loop-agent-loops]]
 - [[nvidia-skillspector-security-scanner]]
 
@@ -5123,6 +5130,7 @@
 - **wtf-is-a-loop** — [[ai-loops-anatoli-kopadze]]
 - **x** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **x-growth** — [[athcanft-grow-x-make-money]]
+- **xai** — [[grok-bot-for-engineering-lingxi]]
 - **yann-lecun** — [[joint-embedding-predictive-architecture-jepa]]
 - **zero-cost** — [[personal-ai-assistant-claude-0-cost]]
 - **zero-trust** — [[zero-trust-ai-agents]]

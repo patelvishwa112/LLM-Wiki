@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-09-01
+
+- Ingest: Grok Bot for Engineering (lingxi 2094493172516966781)
+
 ## 2026-08-30
 
 - Ingest: The Principles of Learning Faster (0xhvdes 2094075106096009695)
