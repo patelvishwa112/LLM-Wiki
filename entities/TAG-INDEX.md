@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1061 unique tags across 510 processed notes.
+> 1061 unique tags across 511 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -27,7 +27,7 @@
 - [[token-capital-scaffolding-process-governance]]
 - [[vscode-copilot-token-efficiency]]
 
-### agent-harness (132)
+### agent-harness (133)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[6-mcp-servers-0-calls-280k-wasted]]
@@ -126,6 +126,7 @@
 - [[post-agent-companies]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[production-rag-agents-technmak]]
+- [[reef-continual-self-improving-agents]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
 - [[rlm-agents-structured-outputs]]
@@ -264,7 +265,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (255)
+### agents (256)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -465,6 +466,7 @@
 - [[problem-first-skill-invert-bad-ideas]]
 - [[production-rag-agents-technmak]]
 - [[recursive-self-improvement-ai-101]]
+- [[reef-continual-self-improving-agents]]
 - [[research-agent-evidence-operator]]
 - [[research-world-model-distill-ai-researcher-amber-liu]]
 - [[rethinking-search-as-code-generation]]
@@ -1050,7 +1052,7 @@
 - [[harness-is-the-product-context-aware-agents]]
 - [[how-to-use-rlms-in-deep-agents]]
 
-### continual-learning (14)
+### continual-learning (15)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[distillation-post-training-frontier-2026]]
@@ -1064,6 +1066,7 @@
 - [[own-your-intelligence-harrison-chase]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[quarq-agent-memory-architecture]]
+- [[reef-continual-self-improving-agents]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 
@@ -1512,7 +1515,7 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (23)
+### inference (24)
 
 - [[0xsojalsec-llms-local]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
@@ -1533,6 +1536,7 @@
 - [[looped-ttt-test-time-training-looped-transformers-alvinzh]]
 - [[mlx-engine-v185-kv-cache-agentic]]
 - [[multi-gpu-inference-tp-pp-sp-ep-mainzonx]]
+- [[reef-continual-self-improving-agents]]
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[speculative-decoding-history-roofline-shreybirmiwal]]
 - [[thoughts-about-scaling-law-jietang]]
@@ -2045,7 +2049,7 @@
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 - [[second-self-vs-second-brain-obsidian]]
 
-### open-source (16)
+### open-source (17)
 
 - [[addy-osmani-agent-skills-open-source]]
 - [[agent-plugins-skills-mcp-standard-google]]
@@ -2060,6 +2064,7 @@
 - [[osiris-open-source-palantir-tool]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
 - [[quarq-agent-memory-architecture]]
+- [[reef-continual-self-improving-agents]]
 - [[sia-recursive-self-improving-agent]]
 - [[slime-open-source-rl-kernel-glm-dailydose]]
 - [[ubuntu-shuttleworth-story]]
@@ -2459,7 +2464,7 @@
 - [[production-rag-agents-technmak]]
 - [[quarq-agent-memory-architecture]]
 
-### rl (47)
+### rl (48)
 
 - [[ai-research-job-search-alisa-wuffles]]
 - [[aiesi-post-training-world-adaptation]]
@@ -2492,6 +2497,7 @@
 - [[openthoughts-agent-data-recipes-agentic-models]]
 - [[opsd-off-policy-self-distillation]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
+- [[reef-continual-self-improving-agents]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-environments-guide-llm]]
@@ -2630,13 +2636,14 @@
 - [[opus-cybersecurity-partners]]
 - [[zero-trust-ai-agents]]
 
-### self-improvement (7)
+### self-improvement (8)
 
 - [[continual-learning-replit-agent-vibench]]
 - [[dair-ai-ten-papers-co-evolving-agents-verification]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[interlatent-modern-ai-robotics-first-principles]]
 - [[prime-agent-rlm-continual-harness-primeintellect]]
+- [[reef-continual-self-improving-agents]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 - [[sia-recursive-self-improving-agent]]
 
@@ -2883,7 +2890,7 @@
 - [[luck-runs-out-on-schedule-trading-0xspivach]]
 - [[markov-chains-polymarket-trading]]
 
-### training (71)
+### training (72)
 
 - [[0xsojalsec-llms-local]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -2935,6 +2942,7 @@
 - [[peft-beyond-lora]]
 - [[policy-gradients-timeline-reinforce-to-grpo]]
 - [[portal-portable-task-adapters-llms]]
+- [[reef-continual-self-improving-agents]]
 - [[rl-agents-system-prompt-reward-function]]
 - [[rl-algo-comprehensive-qa]]
 - [[rl-environments-guide-llm]]

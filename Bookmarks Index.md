@@ -74,6 +74,7 @@
 - [[memory-is-retained-consequence]] — [Memory Is Retained Consequence — Agent Memory Architecture](https://x.com/ashwingop/status/2061836996541083912)
 - [[how-to-give-your-agent-memory]] — [How To Give Your Agent Memory](https://x.com/jakebroekhuizen/status/2069828911501021337) `[agents, agent-memory, langsmith, langchain, observability, procedural-memory, agent-harness, evals]`
 - [[self-learning-agents-three-layers-user-signal]] — [Self-learning agents: model, harness, context — learn from real users](https://x.com/ataiiam/status/2069797329809395978) `[agents, agent-harness, self-learning, agent-memory, procedural-memory, copilotkit, ag-ui, hermes, skills]`
+- [[reef-continual-self-improving-agents]] — [Reef — inference-first infra for continual self-improving agents (Ao Qu)](https://x.com/ao_qu18465/status/2094867930081337730) `[continual-learning, agents, agent-harness, self-improvement, training, rl, open-source, inference]`
 - [[dair-ai-ten-papers-co-evolving-agents-verification]] — [DAIR.AI — 10 papers on agents, verification, MCP](https://x.com/dair_ai/status/2073814128888549810) `[papers, agents, evals, mcp, agent-memory, skills, verification, self-improvement, ml-research]`
 - [[multi-lora-training-osmosis]] — [Training Thousands of LoRA Adapters Concurrently](https://x.com/_weexiao/status/2061855508156563871)
 - [[540k-lines-i-didnt-need-garry-tan]] — [540,000 Lines of Code I Didn't Need — Garry Tan](https://x.com/garrytan/status/2061454423034110372)
@@ -615,6 +616,7 @@
 - [[2026-is-shaping-up-to-be-the-year-of-opd-more-spec]] — [2026 is shaping up to be the year of OPD, more specifically OPSD](https://x.com/neural_avb/status/2054640032087146727)
 - [[check-this---bootstrapping-claude-to-train-a-slm]] — [Check this - Bootstrapping Claude to train a SLM!](https://x.com/neural_avb/status/2057201992666411518)
 - [[frontis-ma1-openmle-meta-evolution-neural-avb]] — [Frontis-MA1 / OpenMLE — trained operators beat frontier on MLE](https://x.com/neural_avb/status/2086073348531110130) `[training, rl, sft, meta-evolution, openmle, mle, recursive-self-improvement]`
+- [[reef-continual-self-improving-agents]] — [Reef — inference-first continual self-improvement (model + harness)](https://x.com/ao_qu18465/status/2094867930081337730) `[continual-learning, agents, agent-harness, self-improvement, training, rl, open-source, inference]`
 - [[microsoft-mai-thinking1-rank-noninvariance]] — [Microsoft's Most Important Result Isn't a Benchmark](https://x.com/alphasignalai/status/2062163858182328424) `[training, rl, models, microsoft, data-quality]`
 - [[rlhf-from-first-principles]] — [What Every Programmer Should Know About RLHF](https://x.com/itsreallyvivek/status/2063610589621219596) `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
 - [[generative-verifiers-genrm-deepmind]] — [GenRM — reward modeling as next-token prediction (DeepMind ICLR 2025)](https://arxiv.org/abs/2408.15240) `[training, reward-models, reasoning, post-training, verification, deepmind, papers, evals]`
@@ -968,6 +970,7 @@
 - [[productize-problems-you-already-solved-eptwts]] `[product-discovery, startups, creator-economy, ideation, productivity, pm, business, solopreneur, positioning]`
 - [[ramplabs]] `[ai-ml]`
 - [[rawworks]] `[evals, papers]`
+- [[reef-continual-self-improving-agents]] `[continual-learning, agents, agent-harness, self-improvement, training, rl, open-source, inference]`
 - [[research-agent-evidence-operator]] `[research-agent, agents, evidence, vault, compounding]`
 - [[research-world-model-distill-ai-researcher-amber-liu]] `[ai-research, research-world-model, agent-harness, agents, knowledge-graph, arc-agi, claude-code, career]`
 - [[reverse-prompting-101-alex-prompter]] `[prompt-engineering, productivity, writing, agents, context-engineering, skills, communication]`

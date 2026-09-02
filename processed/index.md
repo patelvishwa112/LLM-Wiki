@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 510 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 511 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -410,6 +410,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [recursive-self-improvement-2028-prediction.md](/processed/recursive-self-improvement-2028-prediction.md) — *note* — Recursive Self-Improvement: 60% Chance by 2028
 - [recursive-self-improvement-ai-101.md](/processed/recursive-self-improvement-ai-101.md) — *bookmark* — AI 101: What is Recursive Self-Improvement?
 - [red-teaming.md](/processed/red-teaming.md) — *concept* — Red Teaming
+- [reef-continual-self-improving-agents.md](/processed/reef-continual-self-improving-agents.md) — *bookmark* — Ao Qu open-sources Reef: inference-first infra so agents evolve model and harness from live experience (recipes, Git LFS releases, Cordis).
 - [research-agent-evidence-operator.md](/processed/research-agent-evidence-operator.md) — *bookmark* — The Research Agent — Evidence Operator
 - [research-world-model-distill-ai-researcher-amber-liu.md](/processed/research-world-model-distill-ai-researcher-amber-liu.md) — *bookmark* — Amber Liu — research intuition as compressed process traces; Research World Model externalizes exploration (ARC-AGI-3 ls20: 5000+ steps vs 63 with archive).
 - [responsible-scaling-policy.md](/processed/responsible-scaling-policy.md) — *concept* — Responsible Scaling Policy (RSP)
