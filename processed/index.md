@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 512 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 513 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -217,6 +217,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [graph-memory-reconstruction-llms.md](/processed/graph-memory-reconstruction-llms.md) — *bookmark* — Graph Memory Reconstruction for LLMs, explained clearly
 - [graphiti-knowledge-graph-agent-memory.md](/processed/graphiti-knowledge-graph-agent-memory.md) — *bookmark* — Graphiti — Knowledge Graph Memory for Agents
 - [grok-bot-for-engineering-lingxi.md](/processed/grok-bot-for-engineering-lingxi.md) — *bookmark* — Lingxi (xAI): Grok Bot mini-org — five domain engineer bots plus Jenny ops, Notion 30-min cadence, nightly audits, P0 steering of Cursor cloud agents.
+- [grok-bot-for-founders-akshaya.md](/processed/grok-bot-for-founders-akshaya.md) — *bookmark* — Akshaya: Grok Bot as Cursor-for-knowledge-work — dedicated iMessage app, computer use, persona swarm (Finance Bro, CoS, ads).
 - [grpo-trl-training-agents-class3-sergiopaniego.md](/processed/grpo-trl-training-agents-class3-sergiopaniego.md) — *bookmark* — HF Training Agents Class 3 resources: GRPO deep dive + TRL experiments (YouTube + slides).
 - [gtm-versioned-code-outbound-karpathy-loop-nifinet.md](/processed/gtm-versioned-code-outbound-karpathy-loop-nifinet.md) — *bookmark* — Nicolas Finet applies Karpathy cheap-metric agent loops to outbound: versioned scoring/plays, outcome memory, eval gate, human-merge PRs.
 - [guide-to-goal-codex.md](/processed/guide-to-goal-codex.md) — *bookmark* — A guide to /goal 🥅

@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1061 unique tags across 512 processed notes.
+> 1061 unique tags across 513 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -265,7 +265,7 @@
 - [[hundred-x-agentic-engineer-preferences-systematicls]]
 - [[the-agentic-engineer-workflow-aashatwt]]
 
-### agents (256)
+### agents (257)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -368,6 +368,7 @@
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
 - [[grok-bot-for-engineering-lingxi]]
+- [[grok-bot-for-founders-akshaya]]
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
@@ -1624,11 +1625,12 @@
 - [[level-above-phd-knowledge-works-without-you]]
 - [[research-agent-evidence-operator]]
 
-### knowledge-work (5)
+### knowledge-work (6)
 
 - [[claude-cowork-best-practices]]
 - [[claude-cowork-one-person-company-2026]]
 - [[claude-cowork-product-guide]]
+- [[grok-bot-for-founders-akshaya]]
 - [[not-ambitious-enough-with-claude]]
 - [[one-person-ai-outperformed-entire-team]]
 
@@ -1950,7 +1952,7 @@
 - [[rl-interview-answers-2026]]
 - [[thoughts-about-scaling-law-jietang]]
 
-### multi-agent (47)
+### multi-agent (48)
 
 - [[21-agent-building-mistakes]]
 - [[Dynamic Workflows in Claude Code]]
@@ -1973,6 +1975,7 @@
 - [[graph-engineering-substance-over-meme-akshay]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
 - [[grok-bot-for-engineering-lingxi]]
+- [[grok-bot-for-founders-akshaya]]
 - [[hermes-agent-use-cases-multi-agent-setup]]
 - [[hermes-kanban-mission-control]]
 - [[how-to-build-ai-agent-swarms]]
@@ -2248,7 +2251,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (70)
+### productivity (71)
 
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[agents-behave-like-employees-six-shifts]]
@@ -2275,6 +2278,7 @@
 - [[david-ogilvy-writing-coach-claude-skill]]
 - [[every-agentic-engineering-hack-june-2026]]
 - [[find-problems-staff-engineer-lalitm]]
+- [[grok-bot-for-founders-akshaya]]
 - [[gtm-versioned-code-outbound-karpathy-loop-nifinet]]
 - [[guide-to-goal-codex]]
 - [[hermes-agent-10x-faster-vault-index]]
@@ -3360,6 +3364,11 @@
 - [[principles-of-learning-faster-0xhvdes]]
 - [[research-agent-evidence-operator]]
 
+### computer-use (2)
+
+- [[computer-use]]
+- [[grok-bot-for-founders-akshaya]]
+
 ### content-creation (3)
 
 - [[ai-content-system-framework]]
@@ -4299,6 +4308,11 @@
 - [[how-openai-sol-learned-design-taste-designarena]]
 - [[how-to-use-gpt-56-all-day-without-limits-sairahul1]]
 
+### solo-operator (2)
+
+- [[claude-cowork-one-person-company-2026]]
+- [[grok-bot-for-founders-akshaya]]
+
 ### solopreneur (2)
 
 - [[loopholing-schedule-seams-creatorpascal]]
@@ -4486,6 +4500,11 @@
 - [[loop-engineering-14-step-roadmap]]
 - [[loop-engineering]]
 
+### xai (2)
+
+- [[grok-bot-for-engineering-lingxi]]
+- [[grok-bot-for-founders-akshaya]]
+
 ## Single-Use Tags
 
 - **2026** — [[ai-engineering-roadmap-2026-from-scratch]]
@@ -4591,7 +4610,6 @@
 - **compounding-systems** — [[token-capital-scaffolding-process-governance]]
 - **comprehension-debt** — [[software-factories-light-and-dark-addy-osmani]]
 - **compression** — [[agent-swarms-production-governance]]
-- **computer-use** — [[computer-use]]
 - **computer-vision** — [[joint-embedding-predictive-architecture-jepa]]
 - **concept-bottleneck-models** — [[mechanistic-interpretability-is-not-the-whole-field]]
 - **conductor** — [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -5052,7 +5070,6 @@
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
-- **solo-operator** — [[claude-cowork-one-person-company-2026]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **sparse-attention** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
@@ -5145,7 +5162,6 @@
 - **wtf-is-a-loop** — [[ai-loops-anatoli-kopadze]]
 - **x** — [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 - **x-growth** — [[athcanft-grow-x-make-money]]
-- **xai** — [[grok-bot-for-engineering-lingxi]]
 - **yann-lecun** — [[joint-embedding-predictive-architecture-jepa]]
 - **zero-cost** — [[personal-ai-assistant-claude-0-cost]]
 - **zero-trust** — [[zero-trust-ai-agents]]
