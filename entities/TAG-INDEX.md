@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1061 unique tags across 511 processed notes.
+> 1061 unique tags across 512 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -524,9 +524,10 @@
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 - [[zero-trust-ai-agents]]
 
-### ai-economics (6)
+### ai-economics (7)
 
 - [[aftermarket-harnesses-ttunguz]]
+- [[ai-demand-reflexivity-cattani]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[kimi-k3-memory-savings-jevon-bookwormengr]]
@@ -551,9 +552,10 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[zen-and-the-art-of-ai-research]]
 
-### ai-strategy (17)
+### ai-strategy (18)
 
 - [[aftermarket-harnesses-ttunguz]]
+- [[ai-demand-reflexivity-cattani]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
@@ -1515,9 +1517,10 @@
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[software-factory-linear-claude-cloud-routines]]
 
-### inference (24)
+### inference (25)
 
 - [[0xsojalsec-llms-local]]
+- [[ai-demand-reflexivity-cattani]]
 - [[ai-engineering-roadmap-2026-from-scratch]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
@@ -1573,9 +1576,10 @@
 - [[sparse-autoencoders]]
 - [[superposition]]
 
-### investing (10)
+### investing (11)
 
 - [[aftermarket-harnesses-ttunguz]]
+- [[ai-demand-reflexivity-cattani]]
 - [[beginners-guide-physical-ai-stack-muskan-kalra]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[how-to-read-company-ai-analyst]]
@@ -2851,9 +2855,10 @@
 - [[agent-harness-should-repair-itself]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]
 
-### token-economy (7)
+### token-economy (8)
 
 - [[aftermarket-harnesses-ttunguz]]
+- [[ai-demand-reflexivity-cattani]]
 - [[context-engineering-field-guide-phosphenq]]
 - [[deep-agents-prompt-caching]]
 - [[economy-of-tokens-vipulved-modular-ai]]
@@ -2880,9 +2885,10 @@
 - [[langchain-fireworks-trace-judge-100x-cheaper]]
 - [[scoping-curating-eval-datasets-annabellschfr]]
 
-### trading (7)
+### trading (8)
 
 - [[4-agent-trading-desk]]
+- [[ai-demand-reflexivity-cattani]]
 - [[dqn-adaptive-trade-execution-ritonchain]]
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
@@ -2989,9 +2995,10 @@
 - [[how-frontier-models-train-on-outcomes-2026-sergio]]
 - [[training-agents-class-1-sft-by-agent]]
 
-### venture-capital (8)
+### venture-capital (9)
 
 - [[aftermarket-harnesses-ttunguz]]
+- [[ai-demand-reflexivity-cattani]]
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[goldmine-selling-data-frontier-labs-viks-rum]]
 - [[revenue-superintelligence-human-judgment-octolane]]

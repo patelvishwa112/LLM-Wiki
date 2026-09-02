@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-09-02
 
+- Ingest: Nobody is talking seriously about AI demand (giovannicatt3 2094815425972539565)
+
+## 2026-09-02
+
 - Ingest: Reef continual self-improving agents (ao_qu18465 2094867930081337730)
 
 ## 2026-09-01

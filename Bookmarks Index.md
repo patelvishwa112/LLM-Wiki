@@ -463,6 +463,7 @@
 - [[notes-on-fde-mardehaym]] — [notes on FDE — develop culture, don’t rotate titles (Limestone)](https://x.com/mardehaym/status/2092971458309820641) `[fde, ai-strategy, enterprise, gtm, career, agents]`
 - [[who-will-set-price-intelligence]] — [Who will set price / intelligence?](https://x.com/jayagup10/status/2065965053334216718) `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
 - [[economy-of-tokens-vipulved-modular-ai]] — [The Economy of Tokens](https://x.com/vipulved/status/2071404852908081211) `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
+- [[ai-demand-reflexivity-cattani]] — [Nobody is talking seriously about AI demand — bounded vs unbounded / reflexive frontier tokens](https://x.com/giovannicatt3/status/2094815425972539565) `[ai-economics, investing, ai-strategy, inference, token-economy, trading, venture-capital]`
 - [[revenue-superintelligence-human-judgment-octolane]] — [Revenue superintelligence — preference data moat over base models](https://x.com/coffeewithone/status/2086912331288809865) `[ai-strategy, sales, venture-capital, preference-data, enterprise, agents, crm]`
 - [[opus-5-explained-effort-dial-notegoyard]] — [Opus 5 — intelligence per dollar / effort dial](https://x.com/notegoyard/status/2086768712804126959) `[ai-strategy, ai-economics, token-economy, cost-optimization, claude, anthropic]`
 - [[aftermarket-harnesses-ttunguz]] — [Aftermarket Harnesses — input-token bill + harness battleground (Tunguz)](https://x.com/ttunguz/status/2082158740107866459) `[ai-economics, venture-capital, ai-strategy, harness-engineering, cost-optimization, prompt-caching, investing]`
@@ -671,6 +672,7 @@
 - [[addy-osmani-agent-skills-open-source]] `[claude-code, skills, addy-osmani, agent-harness, open-source, coding-tools]`
 - [[addy-osmani-agent-autonomy-ladder-six-levels]] `[agents, agent-harness, claude-code, codex, orchestration, verification, loop-engineering, agent-ops]`
 - [[aftermarket-harnesses-ttunguz]] `[harness-engineering, agent-harness, cost-optimization, prompt-caching, venture-capital, ai-economics, ai-strategy, cursor, claude-code, codex, token-economy, investing]`
+- [[ai-demand-reflexivity-cattani]] `[ai-economics, investing, ai-strategy, inference, token-economy, trading, venture-capital]`
 - [[ai-engineering-roadmap-2026-from-scratch]] `[ai-engineering, roadmap, training, inference, agents, skills, from-scratch, courses, fundamentals]`
 - [[ai-engineering-skills-map-andrew-ng]] `[ai-engineering, career, evals, agents, coding-tools, product, agent-harness, fundamentals, roadmap, hiring]`
 - [[ai-enterprise-finance-background-agents-varick-vasuman]] `[agents, enterprise, finance, agent-ops, evals, agent-harness, cost-optimization, workflow, varick, background-agents]`

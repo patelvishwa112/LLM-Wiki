@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 511 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 512 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -47,6 +47,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [ai-chief-of-staff-morning-brief.md](/processed/ai-chief-of-staff-morning-brief.md) — *bookmark* — "Dave Kline (@dklineii) shares a detailed skills file for building an AI Chief of Staff in the form of a daily Morning Brief. The system uses six structured reads (The Day, The Decisions, The People, The Meetings, The...
 - [ai-content-system-framework.md](/processed/ai-content-system-framework.md) — *bookmark* — AI Content System — From Ideas to 5M Impressions
 - [ai-cybersecurity.md](/processed/ai-cybersecurity.md) — *concept* — AI Cybersecurity
+- [ai-demand-reflexivity-cattani.md](/processed/ai-demand-reflexivity-cattani.md) — *bookmark* — Cattani: frontier token demand is reflexive (~50% AI R&D + coding + trading); bounded tasks go cheap, unbounded wants F1 models.
 - [ai-engineer-2026-without-cs-degree-cyrilxbt.md](/processed/ai-engineer-2026-without-cs-degree-cyrilxbt.md) — *bookmark* — Practical 2026 guide to AI engineering without a CS degree—sequential stack (Python → RAG → agents → deploy), three portfolio projects, realistic timelines, and portfolio-over-credential hiring math.
 - [ai-engineering-roadmap-2026-from-scratch.md](/processed/ai-engineering-roadmap-2026-from-scratch.md) — *bookmark* — Rohit Ghumare's 12-layer AI engineering roadmap for 2026, built around his open-source course (503 lessons). Method: build every algorithm from raw math, then ship a reusable SKILL.md artifact. Covers math → deep lear...
 - [ai-engineering-skills-map-andrew-ng.md](/processed/ai-engineering-skills-map-andrew-ng.md) — *bookmark* — Andrew Ng AI Engineering Skills Map — four pillars: build/deploy AI apps, SWE fundamentals, coding agents, shape the build; continuous learning.
