@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 538 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 539 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -387,6 +387,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [notes-on-fde-mardehaym.md](/processed/notes-on-fde-mardehaym.md) — *bookmark* — Mark Ajzenstadt — FDE scarcity is operational culture, not rare talent; rotation kills context; factory-floor ops vs lab implementation wave.
 - [notes-on-foundation-models.md](/processed/notes-on-foundation-models.md) — *bookmark* — Deep, intuition-level survey of foundation model architecture path dependency: image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers, realtime interaction models (Moshi-style), VLAs ...
 - [nvidia-skillspector-security-scanner.md](/processed/nvidia-skillspector-security-scanner.md) — *article* — NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills
+- [oaati-goal-model-profound-ideas.md](/processed/oaati-goal-model-profound-ideas.md) — *bookmark* — Craig Perry (@profound_ideas_): OAATI — Outcome, Activities, Actions, Time, Iterate; Goldratt constraint; Hormozi More-Better-New; living SOP + weekly AI update.
 - [obsidian-vault-graph-fable5-11-step-unicodef1wn.md](/processed/obsidian-vault-graph-fable5-11-step-unicodef1wn.md) — *bookmark* — Obsidian second-brain graph for agents (Fable 5): ROUTER + index + atomic nodes + edges + retrieval logic + state. Pretty graph view is for humans; index is the engine. Target 2–3 files per answer vs whole vault.
 - [on-policy-distillation-aha-neural-avb.md](/processed/on-policy-distillation-aha-neural-avb.md) — *bookmark* — AVB: On-Policy Distillation = student's path + dense teacher token logprobs (SFT dense + RL on-policy); warm up off-policy before OPD.
 - [on-policy-distillation-must-read.md](/processed/on-policy-distillation-must-read.md) — *note* — On-Policy Distillation: Must-Read Articles

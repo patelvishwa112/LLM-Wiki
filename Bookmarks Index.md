@@ -611,6 +611,7 @@
 - [[claude-cowork-one-person-company-2026]] — [Claude Cowork One Person Company 2026 - Full Course](https://x.com/cyrilxbt/status/2072139907615560054) `[claude-cowork, anthropic, productivity, solo-operator, agents, plugins, knowledge-work, one-person-company]`
 - [[grok-bot-for-founders-akshaya]] — [Grok Bot for Founders — persona swarm, Finance Bro, CoS](https://x.com/akshayadinesh19/status/2094980017000153097) `[agents, xai, productivity, solo-operator, computer-use, knowledge-work, multi-agent]`
 - [[everything-i-learnt-in-reverse-finlayekins]] — [Everything I Learnt in Reverse](https://x.com/finlayekins/status/2095326714142544045) `[productivity, agents, startups, solo-operator]`
+- [[oaati-goal-model-profound-ideas]] — [I’m begging you to manage your goals like this (OAATI)](https://x.com/profound_ideas_/status/2098011857684435339) `[productivity, goals, systems, sops]`
 - [[karpathy-three-folders-compiler-v1lrok]] — [Karpathy three-folders: retrieval vs compilation](https://x.com/v1lrok/status/2097780283332325609) `[second-brain, knowledge-graph, obsidian, agents, claude]`
 - [[70-ideas-ai-product-process-nurijanian]] — [70 Ideas to Reimagine Your Product Process With AI](https://x.com/nurijanian/status/2085684396993184019) `[productivity, product, agents, skills, evals]`
 - [[taking-karpathy-wiki-to-work-kmelve]] — [Taking Karpathy’s wiki to work](https://x.com/kmelve/status/2095601256987492516) `[second-brain, knowledge-graph, agents, content-ops]`
@@ -1009,6 +1010,7 @@
 - [[nrehiew]] `[papers, training]`
 - [[nvidia-skillspector-security-scanner]] `[skills, security, supply-chain, agent-security, nvidia, skillspector, static-analysis, mcp, prompt-injection, ci-cd, github-actions]`
 - [[notes-on-foundation-models]] `[foundation-models, architecture, vlm, vla, world-models, video-generation, image-generation, biological-models, alphafold, diffusion, flow-matching]`
+- [[oaati-goal-model-profound-ideas]] `[productivity, goals, systems, sops]`
 - [[obsidian-vault-graph-fable5-11-step-unicodef1wn]] `[graph-engineering, second-brain, obsidian, fable-5, agents, agent-memory, knowledge-graph, hermes, cost-optimization, context-engineering]`
 - [[one-person-ai-outperformed-entire-team]] `[second-brain, productivity, ai-augmentation, knowledge-work, career, context-engineering, human-ai]`
 - [[openclaw-hermes-supervisor-setup]] `[hermes, agents, multi-agent, orchestration, openclaw, discord, supervisor]`

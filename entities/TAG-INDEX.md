@@ -2,7 +2,7 @@
 
 > Auto-generated. Maps every tag to all processed articles using it.
 
-> 1070 unique tags across 538 processed notes.
+> 1072 unique tags across 539 processed notes.
 
 
 ## High-Frequency Tags (5+ articles)
@@ -2329,7 +2329,7 @@
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[your-agent-harness-should-repair-itself]]
 
-### productivity (76)
+### productivity (77)
 
 - [[70-ideas-ai-product-process-nurijanian]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
@@ -2390,6 +2390,7 @@
 - [[no-process-no-agent-mardehaym]]
 - [[not-ambitious-enough-with-claude]]
 - [[notes-on-fde-mardehaym]]
+- [[oaati-goal-model-profound-ideas]]
 - [[one-person-ai-outperformed-entire-team]]
 - [[opus-48-token-economy-guide]]
 - [[personal-brand-better-than-resume-lindsay-casale]]
@@ -4487,10 +4488,11 @@
 - [[claude-code-slm-training-bootstrap]]
 - [[loop-is-the-moat-rsi-m0egpt]]
 
-### systems (2)
+### systems (3)
 
 - [[10-hall-of-fame-engineering-papers]]
 - [[building-a-good-vertical-agent]]
+- [[oaati-goal-model-profound-ideas]]
 
 ### taste (3)
 
@@ -4859,6 +4861,7 @@
 - **glean** — [[glean-coding-harness-programmatic-tool-calling]]
 - **glm-5.2** — [[aiedge-glm-5.2-guide]]
 - **global-workspace** — [[anthropic-global-workspace-j-space]]
+- **goals** — [[oaati-goal-model-profound-ideas]]
 - **goose** — [[buzz-open-source-workspace-block-jack]]
 - **government** — [[ai-policy-and-regulation]]
 - **gpu-architecture** — [[how-gpu-executes-code-first-principles]]
@@ -5193,6 +5196,7 @@
 - **socratic-method** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **softmax** — [[attention-qkv-math-amitiitbhu]]
 - **solo-builder** — [[skill-solo-millionaires-ai-era]]
+- **sops** — [[oaati-goal-model-profound-ideas]]
 - **soul-md** — [[hermes-seven-skills-cobi-bean]]
 - **spaced-repetition** — [[learn-anything-3x-faster-claude-9-study-systems]]
 - **sparse-attention** — [[sparse-attention-long-context-dsa-msa-cyrusasg]]
