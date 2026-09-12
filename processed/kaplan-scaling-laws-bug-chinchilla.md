@@ -1,5 +1,10 @@
 ---
-tags: ["training", "scaling-laws", "chinchilla", "pretraining", "ml-research", "openai", "deepmind"]
+tags:
+  - training
+  - scaling-laws
+  - pretraining
+  - ml-research
+  - frontier-labs
 source: https://x.com/completeskeptic/status/2073442518117884197
 date: 2026-07-04
 type: bookmark
@@ -7,6 +12,8 @@ author: completeskeptic
 description: "Former OpenAI researcher argues Kaplan et al. scaling laws were wrong due to fixed token budgets plus cosine LR decay to zero—not parameter counting alone—so the field over-sized models for years; Chinchilla is the right recipe."
 summary: "Former OpenAI researcher argues Kaplan et al. scaling laws were wrong due to fixed token budgets plus cosine LR decay to zero—not parameter counting alone—so the field over-sized models for years; Chinchilla is the right recipe."
 raw: "[[raw/completeskeptic_2073442518117884197]]"
+status: current
+as_of: 2026-07-04
 ---
 
 # Kaplan scaling laws bug (CompleteSkeptic)

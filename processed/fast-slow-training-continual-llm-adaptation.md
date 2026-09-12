@@ -1,15 +1,16 @@
 ---
 tags:
-- training
-- rl
-- continual-learning
-- models
-- fast-slow-training
+  - training
+  - rl
+  - continual-learning
+  - models
 source: https://x.com/KushaSareen/status/2054586907904901245
 raw: '[[raw/KushaSareen_2054586907904901245]]'
 date: 2026-05-13
 type: note
 description: Fast-Slow Training for Continual LLM Adaptation
+status: current
+as_of: 2026-05-13
 ---
 
 # Fast-Slow Training for Continual LLM Adaptation

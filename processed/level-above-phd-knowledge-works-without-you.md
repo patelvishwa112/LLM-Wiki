@@ -1,22 +1,22 @@
 ---
 tags:
-- second-brain
-- claude-code
-- knowledge-management
-- judgment
-- ai-augmentation
-- phd
-- expertise
-- idea-generation
-- adversarial
-- compounding
-- workflow
+  - second-brain
+  - claude-code
+  - knowledge-management
+  - decision-making
+  - productivity
+  - career
+  - learning
+  - security
+  - workflows
 source: https://x.com/borntogambles/status/2062345673245176126
 raw: '[[raw/borntogambles_2062345673245176126]]'
 type: article
 author: Born to gamble (@borntogambles)
 date: 2026-06-03
 description: 'There''s a Level Above PhD: Knowledge That Works Without You'
+status: current
+as_of: 2026-06-03
 ---
 
 # There's a Level Above PhD: Knowledge That Works Without You

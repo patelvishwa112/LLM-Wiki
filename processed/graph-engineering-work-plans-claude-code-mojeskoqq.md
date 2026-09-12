@@ -1,5 +1,17 @@
 ---
-tags: ["graph-engineering", "loop-engineering", "claude-code", "agents", "multi-agent", "dynamic-workflows", "verification", "parallelism", "agent-harness", "harness-engineering", "cost-optimization", "subagents"]
+tags:
+  - knowledge-graph
+  - loop-engineering
+  - claude-code
+  - agents
+  - multi-agent
+  - workflows
+  - verification
+  - distributed-systems
+  - agent-harness
+  - harness-engineering
+  - cost-optimization
+  - subagents
 source: https://x.com/mojeskoqq/status/2085035505662439707
 date: 2026-08-05
 type: bookmark
@@ -7,6 +19,8 @@ description: "Claude Code dynamic workflows (ultracode work plans) as graph engi
 author: mojeskoqq
 summary: "Claude Code dynamic workflows (ultracode work plans) as graph engineering — fake edges, parallel helpers, independent checkers; five copyable prompts + Bun ceiling."
 raw: "[[raw/mojeskoqq_2085035505662439707]]"
+status: current
+as_of: 2026-08-05
 ---
 
 # Graph Engineering: 16 AIs, minutes not hours (@mojeskoqq)

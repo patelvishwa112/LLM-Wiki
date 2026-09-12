@@ -1,14 +1,16 @@
 ---
 tags:
-- agents
-- world-models
-- reinforcement-learning
-- imagination
+  - agents
+  - world-models
+  - rl
+  - productivity
 source: https://x.com/oprydai/status/2053790376813830250
 raw: '[[raw/oprydai_2053790376813830250]]'
 date: 2026-05-11
 type: bookmark
 description: World Models — Can Agents Learn Inside Their Own Dreams?
+status: current
+as_of: 2026-05-11
 ---
 
 # World Models — Can Agents Learn Inside Their Own Dreams?

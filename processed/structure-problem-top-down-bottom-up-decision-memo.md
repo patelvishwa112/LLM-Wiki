@@ -1,15 +1,13 @@
 ---
 tags:
-- pm
-- product-management
-- decision-making
-- product-discovery
-- skills
-- claude-code
-- writing
-- stakeholders
-- productivity
-- ai-pm-os
+  - pm
+  - decision-making
+  - product
+  - skills
+  - claude-code
+  - writing
+  - communication
+  - productivity
 source: https://x.com/nurijanian/status/2081192545942679804
 date: 2026-07-25
 author: George (@nurijanian)
@@ -17,6 +15,8 @@ type: bookmark
 description: "Decision memo method: independent top-down (logic → options) and bottom-up (evidence groups → findings), one-page alignment map, answer-first with kill condition; AI amplifies volume so structure matters more than blank templates."
 summary: "Decision memo method: independent top-down (logic → options) and bottom-up (evidence groups → findings), one-page alignment map, answer-first with kill condition; AI amplifies volume so structure matters more than blank templates."
 raw: "[[raw/nurijanian_2081192545942679804]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Structure-problem: top-down + bottom-up decision memos

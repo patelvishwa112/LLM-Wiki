@@ -1,12 +1,11 @@
 ---
 title: Build an MCP server to solve your annoying workflow problems
 tags:
-- mcp
-- agents
-- coding-tools
-- typescript
-- antigravity
-- productivity
+  - mcp
+  - agents
+  - coding-tools
+  - web-dev
+  - productivity
 source: https://medium.com/google-cloud/build-an-mcp-server-to-solve-your-annoying-workflow-problems-aa696d5ccf44
 date: 2026-06-01
 published: 2026-05-29
@@ -15,6 +14,8 @@ authors:
 type: article
 raw: '[[raw/medium_kweinmeister_mcp-server-workflow-problems]]'
 description: Build an MCP server to solve your annoying workflow problems
+status: current
+as_of: 2026-06-01
 ---
 
 # Build an MCP server to solve your annoying workflow problems

@@ -1,14 +1,14 @@
 ---
 tags:
-- ai-skills
-- career
-- future-of-work
-- six-figure-skills
-- training
+  - skills
+  - career
+  - training
 source: https://x.com/zephyr_hg/status/2066457081738088882
 type: bookmark
 ingested: 2026-06-15
 description: 5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month
+status: current
+as_of: 2026-06-15
 ---
 
 # 5 AI Skills That Will Pay Six Figures By 2027. Learnable This Month

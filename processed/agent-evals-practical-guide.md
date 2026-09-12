@@ -1,15 +1,17 @@
 ---
 tags:
-- agents
-- evals
-- agent-ops
-- testing
-- production
+  - agents
+  - evals
+  - agent-ops
+  - verification
+  - production
 source: https://x.com/Vtrivedy10/status/2057175860910964967
 raw: '[[raw/Vtrivedy10_2057175860910964967]]'
 date: 2026-05-20
 type: bookmark
 description: Agent Evals — Practical Guide to Measuring Agents in Production
+status: current
+as_of: 2026-05-20
 ---
 
 # Agent Evals — Practical Guide to Measuring Agents in Production

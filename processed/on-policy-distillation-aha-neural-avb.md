@@ -1,5 +1,9 @@
 ---
-tags: ["training", "distillation", "rl", "post-training"]
+tags:
+  - training
+  - distillation
+  - rl
+  - post-training
 source: https://x.com/neural_avb/status/2096121273285828673
 date: 2026-09-05
 type: bookmark
@@ -7,6 +11,8 @@ description: "AVB: On-Policy Distillation = student's path + dense teacher token
 author: neural_avb
 summary: "AVB: On-Policy Distillation = student's path + dense teacher token logprobs (SFT dense + RL on-policy); warm up off-policy before OPD."
 raw: "[[raw/neural_avb_2096121273285828673]]"
+status: current
+as_of: 2026-09-05
 ---
 
 # The "Aha" Moment with On-Policy Distillation

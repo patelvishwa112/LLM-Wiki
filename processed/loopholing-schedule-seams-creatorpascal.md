@@ -1,5 +1,9 @@
 ---
-tags: ["productivity", "creator-economy", "time-management", "solopreneur", "discipline", "ghost-protocol"]
+tags:
+  - productivity
+  - creator-economy
+  - startups
+  - projects
 source: https://x.com/creatorpascal/status/2075357304690516005
 date: 2026-07-11
 type: bookmark
@@ -7,6 +11,8 @@ author: creatorpascal
 description: "Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep."
 summary: "Pascal defines loopholing: reclaim unowned calendar seams (commute, queues, micro-gaps) without stealing job, family, or sleep."
 raw: "[[raw/creatorpascal_2075357304690516005]]"
+status: current
+as_of: 2026-07-11
 ---
 
 # Loopholing — Schedule Seams for Side Work

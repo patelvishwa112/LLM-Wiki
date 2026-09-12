@@ -1,18 +1,18 @@
 ---
 tags:
-- hermes
-- agents
-- multi-agent
-- orchestration
-- openclaw
-- discord
-- supervisor
+  - hermes
+  - agents
+  - multi-agent
+  - orchestration
+  - openclaw
 source: https://x.com/gkisokay/status/2037902655016804496
 date: 2026-03-28
 type: bookmark
 author: Graeme Keith (@gkisokay)
 raw: '[[raw/gkisokay_2037902655016804496]]'
 description: 'The Setup That Saved Me Hours Every Day: OpenClaw + Hermes Supervisor'
+status: current
+as_of: 2026-03-28
 ---
 
 # The Setup That Saved Me Hours Every Day: OpenClaw + Hermes Supervisor

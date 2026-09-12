@@ -1,15 +1,16 @@
 ---
 tags:
-- rl
-- exploration
-- general-intelligence
-- papers
-- self-teaching
+  - rl
+  - ml-research
+  - papers
+  - learning
 source: https://x.com/willccbb/status/2055696342211576074
 raw: '[[raw/willccbb_2055696342211576074]]'
 date: 2026-05-16
 type: note
 description: General Intelligence Requires Rethinking Exploration (2022)
+status: current
+as_of: 2026-05-16
 ---
 
 # General Intelligence Requires Rethinking Exploration (2022)

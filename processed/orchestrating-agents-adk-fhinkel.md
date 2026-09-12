@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "multi-agent", "orchestration", "adk", "google", "context-management", "subagents", "agent-harness"]
+tags:
+  - agents
+  - multi-agent
+  - orchestration
+  - agent-frameworks
+  - frontier-labs
+  - context-engineering
+  - subagents
+  - agent-harness
 source: https://x.com/fhinkel/status/2076782085516493079
 date: 2026-07-13
 type: bookmark
@@ -7,6 +15,8 @@ description: "Franziska Hinkelmann on Google ADK multi-agent orchestration: spec
 author: fhinkel
 summary: "Franziska Hinkelmann on Google ADK multi-agent orchestration: specialist subagents + default isolation; share only sliced session state, not a global context pool."
 raw: "[[raw/fhinkel_2076782085516493079]]"
+status: current
+as_of: 2026-07-13
 ---
 
 # Orchestrating Agents in ADK — @fhinkel

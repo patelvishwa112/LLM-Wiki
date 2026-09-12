@@ -1,5 +1,10 @@
 ---
-tags: ["startups", "product", "ideation", "business", "portfolio", "seven-powers", "productivity", "pm"]
+tags:
+  - startups
+  - product
+  - finance
+  - productivity
+  - pm
 source: https://x.com/drurly/status/2073808336231813273
 date: 2026-07-05
 type: bookmark
@@ -7,6 +12,8 @@ author: drurly
 description: "Dru Riley’s Ideacide checklist — 11 filters (personal use, Seven Powers, counter-positioning, portfolio fit, demand signal) to kill weak business ideas before they consume years."
 summary: "Dru Riley’s Ideacide checklist — 11 filters (personal use, Seven Powers, counter-positioning, portfolio fit, demand signal) to kill weak business ideas before they consume years."
 raw: "[[raw/drurly_2073808336231813273]]"
+status: current
+as_of: 2026-07-05
 ---
 
 # Ideacide — 11 filters (Dru Riley)

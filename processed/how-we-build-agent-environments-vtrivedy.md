@@ -2,10 +2,10 @@
 tags:
   - evals
   - agents
-  - langchain
-  - harbor
+  - agent-frameworks
+  - projects
   - skills
-  - rlvr
+  - rl
   - harness-engineering
 source: https://x.com/vtrivedy10/status/2092266609838604368
 date: 2026-08-25
@@ -15,6 +15,8 @@ description: "LangChain Labs — two-step pipeline for agent evals: world spec p
 summary: "LangChain Labs — two-step pipeline for agent evals: world spec plus task specs in markdown, then Spec2Task into Harbor; human review stays on specs, not code."
 raw: "[[raw/vtrivedy10_2092266609838604368]]"
 published: 2026-08-25
+status: current
+as_of: 2026-08-25
 ---
 
 # How we Build Agent Environments & Tasks

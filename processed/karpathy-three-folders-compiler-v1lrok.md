@@ -1,5 +1,10 @@
 ---
-tags: ["second-brain", "knowledge-graph", "obsidian", "agents", "claude"]
+tags:
+  - second-brain
+  - knowledge-graph
+  - obsidian
+  - agents
+  - claude
 source: https://x.com/v1lrok/status/2097780283332325609
 date: 2026-09-09
 type: bookmark
@@ -7,6 +12,8 @@ description: "Valrok (@v1lrok) on Karpathy's three-folder diagram: retrieval ans
 author: v1lrok
 summary: "Valrok (@v1lrok) on Karpathy's three-folder diagram: retrieval answers questions, compilation builds understanding; CLAUDE.md is the missing center."
 raw: "[[raw/v1lrok_2097780283332325609]]"
+status: current
+as_of: 2026-09-09
 ---
 
 # Karpathy's Three Folders Are a Compiler, Not a Cabinet

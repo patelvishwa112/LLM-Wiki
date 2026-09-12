@@ -1,14 +1,16 @@
 ---
 tags:
-- models
-- llm
-- books
-- production
+  - models
+  - llm
+  - learning
+  - production
 source: https://x.com/hamptonism/status/2051978299635589592
 raw: '[[raw/hamptonism_2051978299635589592]]'
 date: 2026-05-06
 type: note
 description: The Big Book of Large Language Models
+status: current
+as_of: 2026-05-06
 ---
 
 # The Big Book of Large Language Models

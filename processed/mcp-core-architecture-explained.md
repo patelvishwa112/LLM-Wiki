@@ -1,12 +1,10 @@
 ---
 tags:
-- mcp
-- architecture
-- agents
-- tools
-- protocol-design
-- separation-of-concerns
-- enterprise
+  - mcp
+  - architecture
+  - agents
+  - tool-use
+  - enterprise
 source: https://x.com/techyoutbe/status/2063553215623577693
 raw: '[[raw/techyoutbe_2063553215623577693]]'
 date: 2026-06-07
@@ -25,6 +23,8 @@ description: 'MCP core architecture broken into a clean mental model: 8 componen
   strict separation of concerns. Key principle: host orchestrates, client communicates,
   server exposes capabilities, backend does the real work. Covers request lifecycle,
   deployment shapes, common mistakes, and architectural trade-offs.'
+status: current
+as_of: 2026-06-07
 ---
 
 # MCP Core Architecture Explained

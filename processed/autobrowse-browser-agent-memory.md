@@ -1,11 +1,9 @@
 ---
 tags:
-- browser-agents
-- agent-memory
-- autobrowse
-- skills
-- browserbase
-- agents
+  - browser-agents
+  - agent-memory
+  - skills
+  - agents
 source: https://x.com/kylejeong/status/2052103973377867913
 raw: '[[raw/kylejeong_2052103973377867913]]'
 date: 2026-05-28
@@ -14,6 +12,8 @@ authors:
 - kylejeong
 - _shubhankar
 description: 'Autobrowse: Browser Agent Memory'
+status: current
+as_of: 2026-05-28
 ---
 
 # Autobrowse: Browser Agent Memory

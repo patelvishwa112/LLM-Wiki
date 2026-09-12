@@ -1,12 +1,10 @@
 ---
 tags:
-- llm-training
-- from-scratch
-- rlhf
-- infra
-- architecture
-- data
-- optimizer
+  - training
+  - rlhf
+  - infrastructure
+  - architecture
+  - data-engineering
 source: https://x.com/harshbhatt7585/status/2063593933314113587
 date: 2026-06-07
 type: bookmark
@@ -22,6 +20,8 @@ description: 'Hands-on lessons from training a ~160M LLM (MTP + HRM + causal LM)
   models excel at narrow tasks, RL only helps if the base model already has decent
   knowledge, infra (batching, GPU utilization) is critical, and documentation + leaderboards
   beat emotional tinkering.'
+status: current
+as_of: 2026-06-07
 ---
 
 # My Learnings From Training LLM from Scratch

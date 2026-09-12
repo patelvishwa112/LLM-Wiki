@@ -1,10 +1,9 @@
 ---
 tags:
-- agents
-- agent-harness
-- context-engineering
-- vertical-agents
-- systems
+  - agents
+  - agent-harness
+  - context-engineering
+  - distributed-systems
 source: https://x.com/brainsandtennis/status/2065190286519906657
 date: 2026-06-11
 type: bookmark
@@ -20,6 +19,8 @@ description: 'Peter Wang on building production-grade vertical agents: treat con
   case (L1), defer occasional capabilities to on-demand curated specs (L2), and provide
   a bounded escape hatch to the raw API via a mining skill (L3). One execute_code
   tool beats many narrow tools.'
+status: current
+as_of: 2026-06-11
 ---
 
 # Building a Good Vertical Agent

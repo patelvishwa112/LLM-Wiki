@@ -1,17 +1,16 @@
 ---
 tags:
-- ai-strategy
-- ai-economics
-- open-weights
-- venture-capital
-- agent-harness
-- mcp
-- transformers
-- inference
-- token-economy
-- modularization
-- together-ai
-- infrastructure
+  - ai-strategy
+  - ai-economics
+  - open-source
+  - venture-capital
+  - agent-harness
+  - mcp
+  - transformers
+  - inference
+  - architecture
+  - serving
+  - infrastructure
 source: https://x.com/vipulved/status/2071404852908081211
 date: 2026-06-28
 type: bookmark
@@ -19,6 +18,8 @@ author: vipulved
 summary: "Together AI CEO argues AI is modularizing like the PC era—transformers, OpenAI-compatible APIs, and harnesses/MCP as stable interfaces—making open weights an economic inevitability with order-of-magnitude cheaper tokens and political risk as the main threat."
 description: "Together AI CEO argues AI is modularizing like the PC era—transformers, OpenAI-compatible APIs, and harnesses/MCP as stable interfaces—making open weights an economic inevitability with order-of-magnitude cheaper tokens and political risk as the main threat."
 raw: "[[raw/vipulved_2071404852908081211]]"
+status: current
+as_of: 2026-06-28
 ---
 
 # The Economy of Tokens

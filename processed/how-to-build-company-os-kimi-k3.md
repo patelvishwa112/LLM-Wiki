@@ -1,18 +1,17 @@
 ---
 tags:
-- agents
-- agent-harness
-- harness-engineering
-- multi-agent
-- kimi
-- kimi-k3
-- company-os
-- human-in-the-loop
-- verification
-- orchestration
-- agent-ops
-- enterprise
-- state-management
+  - agents
+  - agent-harness
+  - harness-engineering
+  - multi-agent
+  - frontier-labs
+  - infrastructure
+  - human-in-the-loop
+  - verification
+  - orchestration
+  - agent-ops
+  - enterprise
+  - agent-memory
 source: https://x.com/av1dlive/status/2079607748396994789
 date: 2026-07-28
 type: bookmark
@@ -20,6 +19,8 @@ author: Avid (@Av1dlive)
 raw: "[[raw/av1dlive_2079607748396994789]]"
 description: "Nine-element Company OS guide (vocab, world, store, heartbeat, memory, cockpit, gate, CLI, fenced runtime) built with Kimi K3"
 summary: "Avid's builder guide treats multi-agent ops as a company OS — six always-on questions and nine required elements, each with a generalized coding-agent prompt and a check — not a nicer chat UI."
+status: current
+as_of: 2026-07-28
 ---
 
 # How to Build a Company OS using Kimi K3 (Builder's Guide)

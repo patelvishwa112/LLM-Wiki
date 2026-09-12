@@ -1,11 +1,11 @@
 ---
 tags:
-- agents
-- anthropic
-- memory
-- orchestration
-- multi-agent
-- agent-ops
+  - agents
+  - anthropic
+  - agent-memory
+  - orchestration
+  - multi-agent
+  - agent-ops
 source: https://claude.com/blog/new-in-claude-managed-agents
 raw: '[[raw/anthropic-managed-agents-dreaming]]'
 date: 2026-06-07
@@ -21,6 +21,8 @@ related:
 description: 'Three major Managed Agents updates: dreaming for cross-session self-improvement,
   outcomes for rubric-driven self-evaluation, and multiagent orchestration for parallelizing
   complex work across specialist subagents.'
+status: current
+as_of: 2026-06-07
 ---
 
 # Managed Agents: Dreaming, Outcomes & Multiagent Orchestration

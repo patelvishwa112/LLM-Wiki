@@ -1,5 +1,16 @@
 ---
-tags: ["agents", "loop-engineering", "multi-agent", "orchestration", "agent-memory", "langgraph", "postgres", "polygres", "context-management", "agent-harness", "harness-engineering", "knowledge-graph"]
+tags:
+  - agents
+  - loop-engineering
+  - multi-agent
+  - orchestration
+  - agent-memory
+  - agent-frameworks
+  - databases
+  - context-engineering
+  - agent-harness
+  - harness-engineering
+  - knowledge-graph
 source: https://x.com/daleverett/status/2078969402046009374
 date: 2026-07-20
 type: bookmark
@@ -8,6 +19,8 @@ title: "Loops vs graphs — control, execution, data graphs and Infinite Context
 description: "Dale Everett on Steinberger loops-vs-graphs: a loop is a degenerate graph; transcript-as-string is a bad DB. Distinguish control/execution/data graphs; Polygres stores all on Postgres so execution joins the data graph (Infinite Context)."
 summary: "Dale Everett on Steinberger loops-vs-graphs: a loop is a degenerate graph; transcript-as-string is a bad DB. Distinguish control/execution/data graphs; Polygres stores all on Postgres so execution joins the data graph (Infinite Context)."
 raw: "[[raw/daleverett_2078969402046009374]]"
+status: current
+as_of: 2026-07-20
 ---
 
 # Loops vs graphs — control, execution, data graphs and Infinite Context (Polygres)

@@ -1,5 +1,16 @@
 ---
-tags: ["recursive-self-improvement", "agents", "agent-harness", "harness-engineering", "continual-learning", "agent-memory", "distillation", "trace-data", "verification", "ai-strategy", "knowledge-management"]
+tags:
+  - recursive-self-improvement
+  - agents
+  - agent-harness
+  - harness-engineering
+  - continual-learning
+  - agent-memory
+  - distillation
+  - observability
+  - verification
+  - ai-strategy
+  - knowledge-management
 source: https://x.com/yisongyue/status/2085043769297277114
 date: 2026-08-05
 type: bookmark
@@ -7,6 +18,8 @@ description: "Knowledge scaling as third axis — distill agent experience into 
 author: yisongyue
 summary: "Knowledge scaling as third axis — distill agent experience into reusable insights (when/why/what fails) that simplify harnesses and train wiser models."
 raw: "[[raw/yisongyue_2085043769297277114]]"
+status: current
+as_of: 2026-08-05
 ---
 
 # Knowledge Flywheels (@yisongyue)

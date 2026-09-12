@@ -1,5 +1,8 @@
 ---
-tags: ["productivity", "goals", "systems", "sops"]
+tags:
+  - productivity
+  - agents
+  - distributed-systems
 source: https://x.com/profound_ideas_/status/2098011857684435339
 date: 2026-09-10
 type: bookmark
@@ -7,6 +10,8 @@ description: "Craig Perry (@profound_ideas_): OAATI — Outcome, Activities, Act
 author: profound_ideas_
 summary: "Craig Perry (@profound_ideas_): OAATI — Outcome, Activities, Actions, Time, Iterate; Goldratt constraint; Hormozi More-Better-New; living SOP + weekly AI update."
 raw: "[[raw/profound_ideas_2098011857684435339]]"
+status: current
+as_of: 2026-09-10
 ---
 
 # OAATI: Manage Goals as Outcome → Activities → Actions → Time → Iterate

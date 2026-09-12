@@ -1,5 +1,13 @@
 ---
-tags: ["graph-engineering", "loop-engineering", "agents", "agent-harness", "harness-engineering", "verification", "human-in-the-loop", "escalation", "auditability"]
+tags:
+  - knowledge-graph
+  - loop-engineering
+  - agents
+  - agent-harness
+  - harness-engineering
+  - verification
+  - human-in-the-loop
+  - agent-ops
 source: https://x.com/cyrilxbt/status/2081212504093446357
 date: 2026-07-26
 type: bookmark
@@ -7,6 +15,8 @@ description: "Graph engineering course: loops hide next-step decisions; immutabl
 author: cyrilXBT
 summary: "Graph engineering course: loops hide next-step decisions; immutable plan, separated layers, strict escalation (unimplemented design caveat)."
 raw: "[[raw/cyrilxbt_2081212504093446357]]"
+status: current
+as_of: 2026-07-26
 ---
 
 # Graph engineering — three commitments (CyrilXBT)

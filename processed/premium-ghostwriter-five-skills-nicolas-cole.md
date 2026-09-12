@@ -1,13 +1,11 @@
 ---
 tags:
-- ghostwriting
-- writing
-- career
-- content-strategy
-- creator-economy
-- productivity
-- voice
-- specialization
+  - writing
+  - career
+  - creator-economy
+  - productivity
+  - multimodal
+  - learning
 source: https://x.com/nicolascole77/status/2069037098464940233
 raw: '[[raw/nicolascole77_2069037098464940233]]'
 date: 2026-06-23
@@ -21,6 +19,8 @@ description: 'Nicolas Cole''s five skills before charging $2k+/mo as a premium g
   client leadership (not employee mode), pre-writing topic strategy, five voice archetypes,
   platform specialization, and tech/AI scaling with curiosity—not ''being a good writer''
   alone.'
+status: current
+as_of: 2026-06-23
 ---
 
 # Premium Ghostwriter — Five Skills

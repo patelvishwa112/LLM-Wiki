@@ -4,7 +4,7 @@ tags:
   - agent-harness
   - productivity
   - skills
-  - solo-builder
+  - startups
   - context-engineering
 source: https://x.com/zephyr_hg/status/2070171729373118742
 date: 2026-06-25
@@ -13,6 +13,8 @@ author: zephyr_hg
 description: "X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation."
 raw: "[[raw/zephyr_hg_2070171729373118742]]"
 summary: "X Article frames solo leverage as context folder + model brief + connectors + scheduled AI jobs; promotional tone, thin on implementation."
+status: current
+as_of: 2026-06-25
 ---
 
 # The skill behind solo AI-era operators (Zephyr)

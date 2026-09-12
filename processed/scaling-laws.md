@@ -4,13 +4,14 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- scaling-laws
+  - scaling-laws
 sources:
 - raw/anthropic/papers/arxiv-2001.08361.md
 - raw/anthropic/papers/arxiv-2202.07785.md
 - raw/anthropic/papers/arxiv-2303.03846.md
 confidence: high
 description: Scaling Laws
+status: current
 ---
 
 # Scaling Laws

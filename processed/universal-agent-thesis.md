@@ -1,15 +1,17 @@
 ---
 tags:
-- agents
-- agent-harness
-- self-evolving-agents
-- tool-use
-- autonomy
-- architecture
+  - agents
+  - agent-harness
+  - recursive-self-improvement
+  - tool-use
+  - autonomy
+  - architecture
 source: https://x.com/cobusgreylingza/status/2066593705906012188
 type: bookmark
 ingested: 2026-06-15
 description: Universal AgentThesis
+status: current
+as_of: 2026-06-15
 ---
 
 # Universal AgentThesis

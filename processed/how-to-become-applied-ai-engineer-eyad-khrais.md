@@ -1,19 +1,21 @@
 ---
 tags:
-  - applied-ai
+  - ai-engineering
   - career
   - evals
   - agent-harness
   - harness-engineering
   - agents
   - distributed-systems
-  - trajectory-grading
+  - observability
 source: https://x.com/eyad_khrais/status/2074519552277336571
 date: 2026-07-07
 type: bookmark
 author: eyad_khrais
 description: "Eyad Khrais — SWE→applied AI path: probabilistic systems, outcome+trajectory evals, harness layers, multi-agent as distributed systems (single-writer, idempotency, preconditions)."
 raw: "[[raw/eyad_khrais_2074519552277336571]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # How to become an applied AI engineer

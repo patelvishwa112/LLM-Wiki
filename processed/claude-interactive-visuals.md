@@ -1,9 +1,8 @@
 ---
 tags:
-- claude
-- artifacts
-- productivity
-- claude-cowork
+  - claude
+  - productivity
+  - claude-cowork
 source: https://claude.com/blog/claude-builds-visuals
 raw: '[[raw/anthropic-claude-builds-visuals]]'
 date: 2026-06-07
@@ -17,6 +16,8 @@ related:
 description: Claude can now create interactive charts, diagrams, and visualizations
   inline during conversations — temporary visuals that aid understanding and evolve
   as the discussion develops, distinct from persistent Artifacts.
+status: current
+as_of: 2026-06-07
 ---
 
 # Claude Interactive Visuals

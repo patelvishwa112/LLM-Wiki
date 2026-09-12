@@ -1,12 +1,10 @@
 ---
 tags:
-- anthropic
-- security
-- compliance
-- enterprise
-- claude
-- dlp
-- siem
+  - anthropic
+  - security
+  - ai-policy
+  - enterprise
+  - claude
 source: https://claude.com/blog/compliance-api-security-partners
 raw: '[[raw/anthropic-compliance-security-partners]]'
 date: 2026-06-07
@@ -25,6 +23,8 @@ description: Claude Compliance API launches with 28 security and compliance inte
   Enterprise security teams can now govern Claude the same way they govern other workplace
   applications — applying existing monitoring, DLP, and alerting workflows to Claude
   conversations and activity events.
+status: current
+as_of: 2026-06-07
 ---
 
 # Claude Compliance API & Security Partners

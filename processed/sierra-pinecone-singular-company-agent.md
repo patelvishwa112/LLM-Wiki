@@ -5,20 +5,21 @@ tags:
   - agents
   - agent-harness
   - enterprise
-  - sierra
-  - pinecone
+  - vector-search
   - claude-code
   - codex
   - mcp
   - agent-ops
   - productivity
-  - outcomes
-  - artifacts
+  - product
+  - claude
 source: https://x.com/neilrahilly/status/2075290325757608148
 date: 2026-07-09
 author: Neil Rahilly (@neilrahilly)
 summary: "Sierra collapsed role-specific internal agents into Pinecone — one Slack thread across systems, proactive persistence, MCP-scoped context; 70% of PRs and 75k+ sessions since March."
 raw: "[[raw/neilrahilly_2075290325757608148]]"
+status: current
+as_of: 2026-07-09
 ---
 
 # Sierra Pinecone — singular company-wide agent

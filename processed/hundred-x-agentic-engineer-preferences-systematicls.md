@@ -1,13 +1,12 @@
 ---
 tags:
-  - agentic-engineering
+  - ai-engineering
   - agents
   - agent-harness
-  - fable-5
+  - fable
   - harness-engineering
   - prompt-engineering
   - skills
-  - preferences
   - productivity
 source: https://x.com/systematicls/status/2074142558595207435
 date: 2026-07-07
@@ -16,6 +15,8 @@ description: "sysls (@systematicls) on 100x agentic engineers — human bottlene
 author: systematicls
 summary: "sysls (@systematicls) on 100x agentic engineers — human bottleneck, declarative vs imperative and strategic vs tactical preferences, taste and harness vocabulary."
 raw: "[[raw/systematicls_2074142558595207435]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # 100x agentic engineer (Fable & GPT 5.6 era)

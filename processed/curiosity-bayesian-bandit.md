@@ -1,15 +1,15 @@
 ---
 tags:
-- rl
-- exploration
-- curiosity
-- bayesian
-- bandit
+  - rl
+  - decision-making
+  - quant
 source: https://x.com/FrancescoSacco1/status/2051674951602594002
 raw: '[[raw/FrancescoSacco1_2051674951602594002]]'
 date: 2026-05-05
 type: note
 description: What Is Curiosity? A Bayesian Bandit Perspective
+status: current
+as_of: 2026-05-05
 ---
 
 # What Is Curiosity? A Bayesian Bandit Perspective

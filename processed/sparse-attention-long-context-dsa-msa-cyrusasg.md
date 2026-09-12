@@ -1,5 +1,15 @@
 ---
-tags: ["inference", "serving", "kv-cache", "sparse-attention", "long-context", "attention", "mla", "gqa", "deepseek", "minimax", "agents", "gpu", "architecture", "training"]
+tags:
+  - inference
+  - serving
+  - kv-cache
+  - attention
+  - long-context
+  - frontier-labs
+  - agents
+  - gpu
+  - architecture
+  - training
 source: https://x.com/cyrusasg/status/2080697631286681998
 date: 2026-07-25
 type: bookmark
@@ -7,6 +17,8 @@ description: "Cyrus maps 1M-context sparse attention: KV-cache bandwidth bill, c
 author: cyrusasg
 summary: "Cyrus maps 1M-context sparse attention: KV-cache bandwidth bill, compress vs restrict vs replace axes; NSA→DSA/MSA/Inkling/KDA; indexer KL training; silicon-first design."
 raw: "[[raw/cyrusasg_2080697631286681998]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Sparse attention design space for 1M context (Cyrus / Decagon)

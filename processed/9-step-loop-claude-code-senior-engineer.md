@@ -1,15 +1,11 @@
 ---
 tags:
-- claude-code
-- agents
-- loop-engineering
-- sub-agents
-- hooks
-- plan-mode
-- claude-md
-- review
-- senior-engineer
-- slash-commands
+  - claude-code
+  - agents
+  - loop-engineering
+  - subagents
+  - coding-tools
+  - career
 source: https://x.com/0xmortyx/status/2066469702075920794
 date: 2026-06-15
 type: bookmark
@@ -24,6 +20,8 @@ description: 'A 9-step senior-engineer workflow for Claude Code using plan mode,
   subagent, CLAUDE.md, hooks, review subagents, and slash commands. Turns ad-hoc prompting
   into a repeatable disciplined loop: explore → plan → standards → build small → enforce
   with hooks → test → review → fix → ship via /ship command.'
+status: current
+as_of: 2026-06-15
 ---
 
 ## Key Takeaways

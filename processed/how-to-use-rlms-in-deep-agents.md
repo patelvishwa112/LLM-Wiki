@@ -1,14 +1,11 @@
 ---
 tags:
   - agents
-  - rlm
-  - recursive-language-models
-  - deep-agents
-  - langchain
+  - reasoning
+  - agent-frameworks
   - subagents
-  - context-rot
   - long-context
-  - code-interpreter
+  - coding-tools
 source: https://x.com/sydneyrunkle/status/2072347918447558978
 date: 2026-07-01
 type: bookmark
@@ -16,6 +13,8 @@ author: sydneyrunkle
 description: "Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent."
 raw: "[[raw/sydneyrunkle_2072347918447558978]]"
 summary: "Deep Agents adds RLM-style programmatic subagent orchestration (QuickJS REPL); OOLONG AgNews scores 0.79 vs 0.44 at 128k vs turn-by-turn agent."
+status: current
+as_of: 2026-07-01
 ---
 
 # How to Use RLMs in Deep Agents

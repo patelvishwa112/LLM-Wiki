@@ -1,21 +1,20 @@
 ---
 title: My Learnings From Training an LLM From Scratch — 5 Lessons From ~300 Experiments
 tags:
-- training
-- llm
-- from-scratch
-- architecture
-- rl
-- scaling-laws
-- infrastructure
-- gpu
-- experiments
-- documentation
-- mtp
-- hrm
-- tiny-models
-- sft
-- research-methodology
+  - training
+  - llm
+  - architecture
+  - rl
+  - scaling-laws
+  - infrastructure
+  - gpu
+  - projects
+  - writing
+  - inference
+  - model-architecture
+  - slm
+  - fine-tuning
+  - ai-research
 source: https://x.com/harshbhatt7585/status/2063593933314113587
 date: 2026-06-07
 published: 2026-06-07
@@ -35,6 +34,8 @@ description: 'Harsh Bhatt trained a ~160M model combining MTP, HRM, and causal L
   across ~300 experiments. Five hard-won lessons: simplify ideas to core mechanics,
   small models are narrow-task specialists, RL only works above a knowledge threshold,
   infrastructure is a first-class factor, and document everything with leaderboards.'
+status: current
+as_of: 2026-06-07
 ---
 
 # My Learnings From Training an LLM From Scratch — 5 Lessons From ~300 Experiments

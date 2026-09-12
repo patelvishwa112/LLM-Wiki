@@ -1,13 +1,11 @@
 ---
 tags:
   - synthetic-data
-  - grpo
   - rl
   - training
   - agents
   - slm
-  - data-generation
-  - autodata
+  - data-engineering
 source: https://x.com/neural_avb/status/2072294078805684613
 date: 2026-07-01
 type: bookmark
@@ -15,6 +13,8 @@ author: neural_avb
 description: "AutoData (arxiv 2606.25996): agentic Challenger/solver/Judge loop builds GRPO-ready synthetic data; weak–strong gap filters examples for learnable reward variance."
 raw: "[[raw/neural_avb_2072294078805684613]]"
 summary: "AutoData (arxiv 2606.25996): agentic Challenger/solver/Judge loop builds GRPO-ready synthetic data; weak–strong gap filters examples for learnable reward variance."
+status: current
+as_of: 2026-07-01
 ---
 
 # AutoData: Synthetic data generation explained

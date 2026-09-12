@@ -1,18 +1,17 @@
 ---
 tags:
-- document-processing
-- ocr
-- layout
-- parsing
-- vlm
-- agents
-- pipelines
+  - data-engineering
+  - multimodal
+  - agents
+  - infrastructure
 source: https://x.com/ebadgio_/status/2062561241751552173
 date: 2026-06-04
 type: bookmark
 author: Eli (@ebadgio_, Extend)
 raw: '[[raw/ebadgio_2062561241751552173]]'
 description: Why Layout Matters in a Document Processing Pipeline
+status: current
+as_of: 2026-06-04
 ---
 
 # Why Layout Matters in a Document Processing Pipeline

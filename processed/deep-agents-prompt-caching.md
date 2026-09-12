@@ -1,16 +1,13 @@
 ---
 tags:
-- agents
-- agent-harness
-- prompt-caching
-- kv-cache
-- cost-optimization
-- langchain
-- langsmith
-- deep-agents
-- observability
-- inference
-- token-economy
+  - agents
+  - agent-harness
+  - cost-optimization
+  - kv-cache
+  - agent-frameworks
+  - observability
+  - inference
+  - ai-economics
 source: https://x.com/its_ao/status/2070556265906917860
 date: 2026-06-26
 type: bookmark
@@ -24,6 +21,8 @@ description: 'Alex Olsen (Deep Agents/LangChain): provider-agnostic prompt cachi
   — explicit breakpoints + implicit fallback + stable prefix layout; 49–80% token
   cost cuts on real trajectories (Haiku/GPT mini/Gemini flash); LangSmith cache-read
   metrics; ties to KV-cache hit rate as production KPI.'
+status: current
+as_of: 2026-06-26
 ---
 
 # Prompt Caching with Deep Agents

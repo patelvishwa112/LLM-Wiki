@@ -1,11 +1,11 @@
 ---
 tags:
-- agents
-- loops
-- claude-code
-- orchestration
-- agent-harness
-- skills
+  - agents
+  - loop-engineering
+  - claude-code
+  - orchestration
+  - agent-harness
+  - skills
 source: https://x.com/mvanhorn/status/2063865685558903149
 date: 2026-06-08
 type: bookmark
@@ -21,6 +21,8 @@ related:
 description: 'A deep analysis of AI coding loops: what they are, their 5-year lineage
   from ReAct to orchestration, why the loop (not the model) is now the expensive part,
   and how skills inside loops create compounding systems.'
+status: current
+as_of: 2026-06-08
 ---
 
 # WTF Is a Loop?

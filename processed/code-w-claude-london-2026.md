@@ -1,12 +1,11 @@
 ---
 tags:
-- claude-code
-- anthropic
-- agents
-- managed-agents
-- mcp
-- developer-platform
-- conference
+  - claude-code
+  - anthropic
+  - agents
+  - multi-agent
+  - mcp
+  - serving
 source: https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build
 raw: '[[raw/anthropic-code-w-claude-london-2026]]'
 date: 2026-06-07
@@ -26,6 +25,8 @@ description: 'Recap of Code w/ Claude London 2026: two new Managed Agents capabi
   perimeters, and MCP tunnels (research preview) for connecting agents to private
   MCP servers without public internet exposure. Teams including Amplitude, Clay, and
   Rogo are already building on these features.'
+status: current
+as_of: 2026-06-07
 ---
 
 # Code w/ Claude London 2026

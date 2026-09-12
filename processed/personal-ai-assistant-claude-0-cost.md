@@ -1,11 +1,10 @@
 ---
 tags:
-- claude
-- projects
-- personal-assistant
-- context-engineering
-- artifacts
-- zero-cost
+  - claude
+  - projects
+  - agents
+  - context-engineering
+  - cost-optimization
 source: https://x.com/0xmortyx/status/2063967160620245116
 date: 2026-06-08
 type: bookmark
@@ -19,6 +18,8 @@ description: 'Zero-extra-cost personal assistant built entirely inside one Claud
   Project: master prompt + three context files (about_me, preferences, goals) + web
   search + Artifacts. Everything compounds in persistent context. No external tools
   or automation platforms required.'
+status: current
+as_of: 2026-06-08
 ---
 
 # I Built a Personal AI Assistant With Claude for $0 - Here's Exactly How

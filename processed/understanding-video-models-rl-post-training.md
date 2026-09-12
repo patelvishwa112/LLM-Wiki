@@ -3,15 +3,10 @@ tags:
   - training
   - rl
   - rlhf
-  - rlvr
-  - dpo
-  - grpo
-  - video-generation
-  - diffusion
-  - flow-matching
+  - multimodal
+  - diffusion-models
   - post-training
-  - reward-models
-  - geometric-consistency
+  - reward-modeling
 source: https://x.com/majumdar_ani/status/2078508177620926531
 date: 2026-07-18
 type: bookmark
@@ -19,6 +14,8 @@ author: majumdar_ani
 description: "Majumdar Part III: RL post-training for video models — Flow-DPO/GRPO RLHF path plus sparse RLVR via epipolar/scene geometry (Epipolar-DPO, VideoGPA, VGGRPO)."
 summary: "Majumdar Part III: RL post-training for video models — Flow-DPO/GRPO RLHF path plus sparse RLVR via epipolar/scene geometry (Epipolar-DPO, VideoGPA, VGGRPO)."
 raw: "[[raw/majumdar_ani_2078508177620926531]]"
+status: current
+as_of: 2026-07-18
 ---
 
 # Understanding Video Models: Part III — RL Post-Training

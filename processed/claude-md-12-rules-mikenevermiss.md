@@ -1,10 +1,10 @@
 ---
 tags:
-- claude-code
-- agent-harness
-- skills
-- prompt-engineering
-- agent-ops
+  - claude-code
+  - agent-harness
+  - skills
+  - prompt-engineering
+  - agent-ops
 source: https://x.com/mikenevermiss/status/2068197417506222428
 type: bookmark
 related:
@@ -33,6 +33,7 @@ description: '"@mikenevermiss proposes an expanded 12-rule CLAUDE.md template fo
   a clean, concise full template and claims it drops unsupervised error rates to ~3%.
   Key additions: hard token budgets, git worktrees for agents, PROGRESS.md checkpoints,
   separate research/implementation sessions, scoped hooks, and unique skill descriptions."'
+status: current
 ---
 
 # Updated CLAUDE.md Pattern for Claude Code (12 Rules)

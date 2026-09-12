@@ -1,15 +1,15 @@
 ---
 tags:
-- agent-harness
-- claude-code
-- mcp
-- tools
-- cost-optimization
-- agent-memory
-- sub-agents
-- code-review
-- prompt-engineering
-- agents
+  - agent-harness
+  - claude-code
+  - mcp
+  - tool-use
+  - cost-optimization
+  - agent-memory
+  - subagents
+  - coding-tools
+  - prompt-engineering
+  - agents
 source: https://x.com/dunik_7/status/2064342854051209338
 date: 2026-06-09
 type: article
@@ -34,6 +34,8 @@ description: 'A 5-dev team burns ~$280K/year running Claude Code with no harness
   DESIGN.md), THE MEMORY (decision logs, ADRs), THE HANDS (tool audit — cut everything
   unused), and THE TEAM (sub-agents with independent review gate). Same model. Different
   harness. Different outcome.'
+status: current
+as_of: 2026-06-09
 ---
 
 # The Harness Is the Product

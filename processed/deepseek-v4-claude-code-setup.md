@@ -1,16 +1,18 @@
 ---
 tags:
-- claude-code
-- deepseek
-- cost-optimization
+  - claude-code
+  - frontier-labs
+  - cost-optimization
 source: https://x.com/godofprompt/status/2052798956699017621
 raw: '[[raw/godofprompt_2052798956699017621]]'
 date: 2026-05-08
-type: processed-note
+type: note
 related:
 - '[[claude-code-investment-research-setup]]'
 - '[[claude-code-cost-optimization-prompts]]'
 description: DeepSeek V4 as a Parallel Claude Code Session
+status: current
+as_of: 2026-05-08
 ---
 
 # DeepSeek V4 as a Parallel Claude Code Session

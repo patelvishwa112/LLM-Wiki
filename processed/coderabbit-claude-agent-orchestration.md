@@ -1,13 +1,13 @@
 ---
 tags:
-- anthropic
-- claude-code
-- agents
-- orchestration
-- code-review
-- planning
-- evals
-- startups
+  - anthropic
+  - claude-code
+  - agents
+  - orchestration
+  - coding-tools
+  - planning
+  - evals
+  - startups
 source: https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system
 raw: '[[raw/anthropic-coderabbit-agent-orchestration]]'
 date: 2026-05-27
@@ -30,6 +30,8 @@ description: 'CodeRabbit built an agent orchestration layer on Claude that inser
   Key insight: planning quality determines output quality, and late validation in
   AI workflows is very expensive. Evaluated via hand-tuned LLM judges + downstream
   code quality metrics.'
+status: current
+as_of: 2026-05-27
 ---
 
 # CodeRabbit: Agent Orchestration on Claude

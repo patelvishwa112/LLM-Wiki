@@ -1,14 +1,11 @@
 ---
 tags:
-- hermes
-- models
-- providers
-- codex
-- claude
-- gemini
-- deepseek
-- openrouter
-- nous-portal
+  - hermes
+  - models
+  - serving
+  - codex
+  - claude
+  - frontier-labs
 source: https://x.com/zaimiri/status/2063694809592635430
 date: 2026-06-07
 type: bookmark
@@ -26,6 +23,8 @@ description: 'Practical model stack for Hermes Agent: Codex OAuth as the default
   cheap volume work, OpenRouter for flexibility, and Nous Portal for one-login simplicity.
   Stresses that the ''best'' model is the one you can afford to run for hours without
   hesitation.'
+status: current
+as_of: 2026-06-07
 ---
 
 # The Best Models For Hermes Agent

@@ -1,9 +1,9 @@
 ---
 tags:
-- skills
-- agent-harness
-- claude-code
-- prompt-engineering
+  - skills
+  - agent-harness
+  - claude-code
+  - prompt-engineering
 source: https://x.com/dklineii/status/2068331296032424433
 type: bookmark
 related:
@@ -26,6 +26,7 @@ description: '"Dave Kline (@dklineii) shares a detailed skills file for building
   reads (The Day, The Decisions, The People, The Meetings, The World, The Move) plus
   four non-negotiable rules and six specific LLM prompts to turn the AI into a recurring
   executive amplifier."'
+status: current
 ---
 
 # Build Your AI-Powered Morning Brief

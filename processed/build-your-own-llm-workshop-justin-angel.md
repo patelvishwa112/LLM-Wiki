@@ -1,13 +1,12 @@
 ---
 tags:
-- training
-- llm
-- from-scratch
-- course
-- transformers
-- pretraining
-- instruction-tuning
-- rl
+  - training
+  - llm
+  - learning
+  - transformers
+  - pretraining
+  - fine-tuning
+  - rl
 source: https://x.com/justinangel/status/2069482255312195980
 date: 2026-06-23
 type: resource
@@ -20,6 +19,8 @@ raw: '[[raw/justinangel_2069482255312195980]]'
 description: Justin Angel released a no-prereq in-person workshop as free playlist,
   250-page slides, and 50 Excel/coding labs covering sampling through transformers,
   pre-training, instruction tuning, and SimPO RL.
+status: current
+as_of: 2026-06-23
 ---
 
 ## Key takeaways

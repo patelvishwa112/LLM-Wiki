@@ -4,8 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- agents
-- engineering
+  - agents
+  - ai-engineering
 sources:
 - raw/anthropic/articles/anthropic-engineering-building-effective-agents.md
 - raw/anthropic/articles/anthropic-research-building-effective-agents.md
@@ -17,6 +17,7 @@ sources:
 - raw/anthropic/articles/anthropic-engineering-demystifying-evals-for-ai-agents.md
 confidence: high
 description: AI Agents
+status: current
 ---
 
 # AI Agents

@@ -1,5 +1,8 @@
 ---
-tags: ["learning", "meta-learning", "productivity", "study-techniques", "active-recall", "compounding"]
+tags:
+  - learning
+  - productivity
+  - knowledge-management
 source: https://x.com/0xhvdes/status/2094075106096009695
 date: 2026-08-30
 type: bookmark
@@ -7,6 +10,8 @@ description: "Hades (0xhvdes): seven principles for learning faster — do, shor
 author: 0xhvdes
 summary: "Hades (0xhvdes): seven principles for learning faster — do, shorten feedback, struggle before search, just-in-time, retrieval, connect, compound."
 raw: "[[raw/0xhvdes_2094075106096009695]]"
+status: current
+as_of: 2026-08-30
 ---
 
 # The Principles of Learning Faster

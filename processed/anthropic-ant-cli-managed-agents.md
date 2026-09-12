@@ -1,11 +1,11 @@
 ---
 tags:
-- anthropic
-- ant-cli
-- managed-agents
-- cli
-- agent-infrastructure
-- mcp
+  - anthropic
+  - claude-code
+  - multi-agent
+  - coding-tools
+  - infrastructure
+  - mcp
 source: https://x.com/hey_madni/status/2063606029146034375
 date: 2026-06-07
 type: bookmark
@@ -21,6 +21,8 @@ description: 'Full guide to Anthropic''s `ant` CLI (MIT-licensed Go binary): typ
   Skills. Supports Managed Agents primitives, Dreaming, Outcomes, multi-agent orchestration,
   self-hosted sandboxes, MCP tunnels, and Claude Code integration. Sessions billed
   at $0.08/hour + tokens.'
+status: current
+as_of: 2026-06-07
 ---
 
 # Anthropic `ant` CLI — Full Guide to Managed Agents

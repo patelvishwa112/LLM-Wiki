@@ -1,13 +1,13 @@
 ---
 tags:
-- agents
-- claude-code
-- loop-engineering
-- automation
-- mcp
-- skills
-- worktrees
-- sub-agents
+  - agents
+  - claude-code
+  - loop-engineering
+  - automation
+  - mcp
+  - skills
+  - coding-tools
+  - subagents
 source: https://x.com/0xCodez/status/2064374643729773029
 date: 2026-06-09
 type: bookmark
@@ -22,6 +22,8 @@ description: A 14-step framework for moving from manual prompting to designing a
   agent loops, covering the 4-condition test, five building blocks (automations, worktrees,
   skills, connectors, sub-agents), state management, verification gates, and common
   failure modes.
+status: current
+as_of: 2026-06-09
 ---
 
 ## Key Takeaways

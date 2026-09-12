@@ -1,14 +1,16 @@
 ---
 tags:
-- rl
-- training
-- infrastructure
-- models
+  - rl
+  - training
+  - infrastructure
+  - models
 source: https://x.com/SergioPaniego/status/2053120052157628678
 raw: '[[raw/SergioPaniego_2053120052157628678]]'
 date: 2026-05-09
 type: note
 description: RL Environments Guide for LLMs
+status: current
+as_of: 2026-05-09
 ---
 
 # RL Environments Guide for LLMs

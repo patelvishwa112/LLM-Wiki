@@ -1,14 +1,16 @@
 ---
 tags:
-- recursive-self-improvement
-- autoresearch
-- ai-safety
-- forecasting
+  - recursive-self-improvement
+  - ai-research
+  - safety
+  - quant
 source: https://x.com/TheTuringPost/status/2051451337427030477
 raw: '[[raw/TheTuringPost_2051451337427030477]]'
 date: 2026-05-04
 type: note
 description: 'Recursive Self-Improvement: 60% Chance by 2028'
+status: current
+as_of: 2026-05-04
 ---
 
 # Recursive Self-Improvement: 60% Chance by 2028

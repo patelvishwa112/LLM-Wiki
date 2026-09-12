@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "enterprise", "process", "agent-ops", "automation", "observability", "ai-strategy", "productivity", "verification"]
+tags:
+  - agents
+  - enterprise
+  - productivity
+  - agent-ops
+  - automation
+  - observability
+  - ai-strategy
+  - verification
 source: https://x.com/lukepierceops/status/2093413799646896231
 date: 2026-08-29
 type: bookmark
@@ -7,6 +15,8 @@ description: "Luke Pierce / Boom Automations — 5-phase AI implementation: asse
 author: lukepierceops
 summary: "Luke Pierce / Boom Automations — 5-phase AI implementation: assess floor map, one write path, automations then agents, cutover, adoption rate."
 raw: "[[raw/lukepierceops_2093413799646896231]]"
+status: current
+as_of: 2026-08-29
 ---
 
 # How to Run the Perfect AI Implementation

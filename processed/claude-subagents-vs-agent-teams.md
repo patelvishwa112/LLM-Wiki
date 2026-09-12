@@ -1,15 +1,16 @@
 ---
 tags:
-- agents
-- subagents
-- claude
-- multi-agent
-- orchestration
-- agent-teams
+  - agents
+  - subagents
+  - claude
+  - multi-agent
+  - orchestration
 source: https://x.com/_avichawla/status/2050463606719000627
 type: bookmark
 ingested: 2026-06-19
 description: Claude Subagents vs. Agent Teams, clearly explained
+status: current
+as_of: 2026-06-19
 ---
 
 # Claude Subagents vs. Agent Teams, clearly explained

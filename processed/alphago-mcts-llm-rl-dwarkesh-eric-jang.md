@@ -1,16 +1,17 @@
 ---
 tags:
-- rl
-- mcts
-- alphago
-- llm-training
-- credit-assignment
-- autoresearch
+  - rl
+  - reasoning
+  - ml-research
+  - training
+  - ai-research
 source: https://x.com/dwarkesh_sp/status/2055324348332871779
 raw: '[[raw/dwarkesh_sp_2055324348332871779]]'
 date: 2026-05-15
 type: note
 description: AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang
+status: current
+as_of: 2026-05-15
 ---
 
 # AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang

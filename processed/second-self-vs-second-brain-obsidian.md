@@ -1,19 +1,18 @@
 ---
 tags:
-- second-self
-- obsidian
-- second-brain
-- claude-md
-- knowledge-graph
-- synthesis
-- identity-layer
-- vault-architecture
-- personal-knowledge-management
-- meta-learning
+  - recursive-self-improvement
+  - obsidian
+  - second-brain
+  - claude-code
+  - knowledge-graph
+  - knowledge-management
+  - learning
 source: https://x.com/damidefi/status/2067191008425595377
 type: bookmark
 ingested: 2026-06-17
 description: 'Second Self vs Second Brain: Obsidian Architecture for Reasoning Systems'
+status: current
+as_of: 2026-06-17
 ---
 
 # Second Self vs Second Brain: Obsidian Architecture for Reasoning Systems

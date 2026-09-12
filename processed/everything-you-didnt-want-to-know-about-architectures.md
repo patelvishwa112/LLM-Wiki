@@ -1,18 +1,18 @@
 ---
 tags:
-- architecture
-- transformers
-- training
-- llm
-- hyperparameters
-- stability
-- attention
+  - architecture
+  - transformers
+  - training
+  - llm
+  - attention
 source: https://youtu.be/lVynu4bo1rY
 raw: '[[raw/youtube_lVynu4bo1rY]]'
 date: 2026-05-25
-type: lecture
+type: article
 duration: '1:29:10'
 description: Everything You Didn't Want to Know About Architectures and Hyperparameters
+status: current
+as_of: 2026-05-25
 ---
 
 # Everything You Didn't Want to Know About Architectures and Hyperparameters

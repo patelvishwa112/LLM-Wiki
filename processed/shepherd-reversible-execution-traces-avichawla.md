@@ -1,5 +1,11 @@
 ---
-tags: ["agents", "meta-agents", "agent-harness", "shepherd", "reversible-execution", "kv-cache", "supervision", "stanford"]
+tags:
+  - agents
+  - multi-agent
+  - agent-harness
+  - projects
+  - agent-ops
+  - kv-cache
 source: https://x.com/_avichawla/status/2073746091795960237
 date: 2026-07-05
 type: bookmark
@@ -7,6 +13,8 @@ author: _avichawla
 description: "Shepherd records agent runs as copy-on-write execution traces so meta-agents can fork, replay, and revert live sandbox+KV state—CooperBench 28.8%→54.7% with a supervisor; repo shepherd-agents/shepherd."
 summary: "Shepherd records agent runs as copy-on-write execution traces so meta-agents can fork, replay, and revert live sandbox+KV state—CooperBench 28.8%→54.7% with a supervisor; repo shepherd-agents/shepherd."
 raw: "[[raw/_avichawla_2073746091795960237]]"
+status: current
+as_of: 2026-07-05
 ---
 
 # Shepherd — reversible agent execution traces

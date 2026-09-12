@@ -1,16 +1,18 @@
 ---
 tags:
-- agent-harness
-- hermes
-- architecture
-- agents
-- analysis
+  - agent-harness
+  - hermes
+  - architecture
+  - agents
+  - ai-research
 source: https://x.com/aparnadhinak/status/2060406977357070522
 raw: '[[raw/aparnadhinak_2060406977357070522]]'
 author: Aparna Dhinakaran (@aparnadhinak)
 date: 2026-05-29
-type: analysis
+type: concept
 description: Hermes Agent Harness Deep Dive by Aparna Dhinakaran (May 2026)
+status: current
+as_of: 2026-05-29
 ---
 
 # Hermes Agent Harness Deep Dive by Aparna Dhinakaran (May 2026)

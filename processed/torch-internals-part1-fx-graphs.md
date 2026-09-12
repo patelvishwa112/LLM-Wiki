@@ -1,13 +1,8 @@
 ---
 tags:
-- pytorch
-- torch-compile
-- fx
-- dynamo
-- inductor
-- training
-- compilation
-- debugging
+  - training
+  - gpu
+  - verification
 description: "PyTorch 2.0 compile series pt.1 — torch.fx IR (Graph/Node/GraphModule), symbolic tracing via Proxies, and tracing limits before TorchDynamo."
 summary: "PyTorch 2.0 compile series pt.1 — torch.fx IR (Graph/Node/GraphModule), symbolic tracing via Proxies, and tracing limits before TorchDynamo."
 source: https://x.com/jino_rohit/status/2071247775837356399
@@ -15,6 +10,8 @@ date: 2026-06-28
 type: bookmark
 author: jino_rohit
 raw: "[[raw/jino_rohit_2071247775837356399]]"
+status: current
+as_of: 2026-06-28
 ---
 
 # Torch Internals (Part 1) - FX Graphs

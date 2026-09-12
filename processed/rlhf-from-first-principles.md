@@ -1,13 +1,12 @@
 ---
 tags:
-- rlhf
-- training
-- alignment
-- reward-modeling
-- ppo
-- dpo
-- constitutional-ai
-- fundamentals
+  - rlhf
+  - training
+  - alignment
+  - reward-modeling
+  - rl
+  - constitutional-ai
+  - learning
 source: https://x.com/itsreallyvivek/status/2063610589621219596
 raw: '[[raw/itsreallyvivek_2063610589621219596]]'
 date: 2026-06-07
@@ -25,6 +24,8 @@ description: 'RLHF explained from first principles: the three-phase pipeline (SF
   a leash against reward hacking, and common failure modes (reward hacking, distributional
   shift, labeler bias). Covers post-RLHF developments: DPO, Constitutional AI, RLAIF.
   Core insight: measured preferences ≠ actual values ≠ what''s genuinely good.'
+status: current
+as_of: 2026-06-07
 ---
 
 # What Every Programmer Should Know About RLHF

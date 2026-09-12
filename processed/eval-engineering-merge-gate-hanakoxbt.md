@@ -1,5 +1,13 @@
 ---
-tags: ["evals", "llm-judges", "agents", "agent-harness", "harness-engineering", "verification", "trajectories", "observability", "production", "trace-data"]
+tags:
+  - evals
+  - llm-judges
+  - agents
+  - agent-harness
+  - harness-engineering
+  - verification
+  - observability
+  - production
 source: https://x.com/hanakoxbt/status/2083540339147567268
 date: 2026-08-01
 type: bookmark
@@ -7,6 +15,8 @@ description: "Six-step course on eval infrastructure so an automated gate can me
 author: hanakoxbt
 summary: "Six-step course on eval infrastructure so an automated gate can merge agent changes without human review — blast radius over confidence."
 raw: "[[raw/hanakoxbt_2083540339147567268]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # Eval Engineering: the merge gate (Hanako)

@@ -1,12 +1,11 @@
 ---
 title: COLLEAGUE.SKILL — Expertise as Editable, Versioned Files
 tags:
-- skills
-- agents
-- agent-skills
-- knowledge-capture
-- claude-code
-- hermes
+  - skills
+  - agents
+  - knowledge-management
+  - claude-code
+  - hermes
 source: https://x.com/alphasignalai/status/2061521674546119026
 date: 2026-06-02
 published: 2026-06-01
@@ -16,6 +15,8 @@ authors:
 type: bookmark
 raw: '[[raw/alphasignalai_2061521674546119026]]'
 description: COLLEAGUE.SKILL — dot-skill Paper from Shanghai AI Lab
+status: current
+as_of: 2026-06-02
 ---
 
 # COLLEAGUE.SKILL — dot-skill Paper from Shanghai AI Lab

@@ -1,15 +1,17 @@
 ---
 tags:
-- agents
-- agent-harness
-- multi-agent
-- orchestration
-- productivity
-- agent-ops
+  - agents
+  - agent-harness
+  - multi-agent
+  - orchestration
+  - productivity
+  - agent-ops
 source: https://x.com/hugobarauna/status/2067690067288572209
 type: bookmark
 ingested: 2026-06-18
 description: You don't need ten agents. You need two tracks.
+status: current
+as_of: 2026-06-18
 ---
 
 # You don't need ten agents. You need two tracks.

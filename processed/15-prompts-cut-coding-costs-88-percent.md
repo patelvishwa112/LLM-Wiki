@@ -1,18 +1,20 @@
 ---
 tags:
-- claude
-- kimi
-- cost-optimization
-- prompts
-- workflows
-- orchestration
-- agents
+  - claude
+  - frontier-labs
+  - cost-optimization
+  - prompt-engineering
+  - workflows
+  - orchestration
+  - agents
 source: https://x.com/0xdepressionn/status/2062185806999994444
 date: 2026-06-03
 type: bookmark
 author: Dep (@0xDepressionn)
 raw: '[[raw/0xdepressionn_2062185806999994444]]'
 description: 15 Prompts That Cut AI Coding Costs 88% ($62K → $7.8K/month)
+status: current
+as_of: 2026-06-03
 ---
 
 # 15 Prompts That Cut AI Coding Costs 88% ($62K → $7.8K/month)

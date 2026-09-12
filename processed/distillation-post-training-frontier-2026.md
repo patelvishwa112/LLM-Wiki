@@ -4,12 +4,10 @@ tags:
   - training
   - post-training
   - rl
-  - sft
+  - fine-tuning
   - agents
   - continual-learning
-  - trl
-  - gemma
-  - deepseek
+  - frontier-labs
 source: https://x.com/sergiopaniego/status/2074863503312044499
 date: 2026-07-08
 type: bookmark
@@ -17,6 +15,8 @@ author: sergiopaniego
 description: "Sergio Paniego maps 2026 frontier distillation into off-policy, on-policy multi-teacher, and self-distillation with lab examples and TRL Class 2 tie-in."
 summary: "Sergio Paniego maps 2026 frontier distillation into off-policy, on-policy multi-teacher, and self-distillation with lab examples and TRL Class 2 tie-in."
 raw: "[[raw/sergiopaniego_2074863503312044499]]"
+status: current
+as_of: 2026-07-08
 ---
 
 # Distillation in 2026 frontier post-training

@@ -4,8 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- safety
-- cybersecurity
+  - safety
+  - security
 sources:
 - raw/anthropic/articles/anthropic-news-claude-code-security.md
 - raw/anthropic/articles/anthropic-research-building-ai-cyber-defenders.md
@@ -14,6 +14,7 @@ sources:
 - raw/anthropic/articles/anthropic-engineering-claude-code-sandboxing.md
 confidence: high
 description: AI Cybersecurity
+status: current
 ---
 
 # AI Cybersecurity

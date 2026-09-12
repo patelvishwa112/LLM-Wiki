@@ -4,8 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- societal-impacts
-- education
+  - ai-policy
+  - learning
 sources:
 - raw/anthropic/articles/anthropic-news-introducing-claude-for-education.md
 - raw/anthropic/articles/anthropic-news-advancing-claude-for-education.md
@@ -16,6 +16,7 @@ sources:
 - raw/anthropic/articles/anthropic-news-anthropic-signs-pledge-to-americas-youth-investing-in-ai-education.md
 confidence: high
 description: Claude for Education
+status: current
 ---
 
 # Claude for Education

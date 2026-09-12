@@ -1,5 +1,13 @@
 ---
-tags: ["design", "frontend", "models", "openai", "gpt-5.6", "sol", "evals", "designarena", "taste", "generative-ui", "benchmarks"]
+tags:
+  - product
+  - web-dev
+  - models
+  - frontier-labs
+  - projects
+  - evals
+  - benchmarks
+  - decision-making
 source: https://x.com/designarena/status/2077432249033830706
 date: 2026-07-15
 type: bookmark
@@ -7,6 +15,8 @@ description: "Design Arena: GPT-5.6 Sol #1 Web Design (non-agentic) — CLIP/UMA
 author: designarena
 summary: "Design Arena: GPT-5.6 Sol #1 Web Design (non-agentic) — CLIP/UMAP 'holes' avoid AI anti-patterns, templating+personalization, new Pareto on preference vs speed/price."
 raw: "[[raw/designarena_2077432249033830706]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # How OpenAI’s Sol finally learned design taste

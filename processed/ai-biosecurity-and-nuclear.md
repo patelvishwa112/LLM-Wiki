@@ -4,12 +4,12 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- safety
-- biosecurity
+  - safety
 sources:
 - raw/anthropic/articles/anthropic-news-developing-nuclear-safeguards-for-ai-through-public-private-partnership.md
 confidence: medium
 description: AI Biosecurity and Nuclear Safeguards
+status: current
 ---
 
 # AI Biosecurity and Nuclear Safeguards

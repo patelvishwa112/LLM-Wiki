@@ -1,14 +1,12 @@
 ---
 tags:
-- anthropic
-- ant-cli
-- claude-code
-- managed-agents
-- mcp
-- cli
-- agents
-- dev-tools
-- infrastructure
+  - anthropic
+  - claude-code
+  - multi-agent
+  - mcp
+  - coding-tools
+  - agents
+  - infrastructure
 source: https://x.com/hey_madni/status/2063606029146034375
 raw: '[[raw/hey_madni_2063606029146034375]]'
 date: 2026-06-07
@@ -31,6 +29,8 @@ description: Comprehensive guide to Anthropic's ant CLI — a typed API client f
   orchestration, self-hosted sandboxes with worker polling, MCP tunnels, Claude Code
   integration via /claude-api skill, agents-as-code CI/CD, and production shell pipelines.
   Four major releases in 55 days drove 80x Q1 growth.
+status: current
+as_of: 2026-06-07
 ---
 
 # Anthropic's ant CLI — Full Guide

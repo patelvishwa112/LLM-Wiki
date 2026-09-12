@@ -1,5 +1,11 @@
 ---
-tags: ["claude-code", "skills", "addy-osmani", "agent-harness", "open-source", "coding-tools"]
+tags:
+  - claude-code
+  - skills
+  - web-dev
+  - agent-harness
+  - open-source
+  - coding-tools
 source: https://x.com/granite0x/status/2073540259208700311
 date: 2026-07-04
 type: bookmark
@@ -7,6 +13,8 @@ author: granite0x
 description: "Granite0x highlights Addy Osmani open-sourcing his personal Claude agent-skills repo (MIT, drop-in loadout)—harness/wrapper over raw model choice."
 summary: "Granite0x highlights Addy Osmani open-sourcing his personal Claude agent-skills repo (MIT, drop-in loadout)—harness/wrapper over raw model choice."
 raw: "[[raw/granite0x_2073540259208700311]]"
+status: current
+as_of: 2026-07-04
 ---
 
 # Addy Osmani agent-skills (open source)

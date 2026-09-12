@@ -1,19 +1,20 @@
 ---
 tags:
-- agents
-- agent-harness
-- observability
-- eval
-- training
-- cost-optimization
-- langchain
-- fireworks
-- llm-judges
-- trace-data
+  - agents
+  - agent-harness
+  - observability
+  - evals
+  - training
+  - cost-optimization
+  - agent-frameworks
+  - serving
+  - llm-judges
 source: https://x.com/vtrivedy10/status/2066571435871551655
 type: bookmark
 ingested: 2026-06-15
 description: Building a 100x Cheaper Trace Judge with Fireworks
+status: current
+as_of: 2026-06-15
 ---
 
 # Building a 100x Cheaper Trace Judge with Fireworks

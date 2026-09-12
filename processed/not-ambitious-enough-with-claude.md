@@ -8,7 +8,6 @@ tags:
   - fable
   - context-engineering
   - skills
-  - knowledge-work
 source: https://x.com/christinexzhu/status/2074847461588267466
 date: 2026-07-08
 type: bookmark
@@ -16,6 +15,8 @@ author: christinexzhu
 description: "Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders."
 summary: "Intuit platform PM maps Shreyas optics/execution/impact levels to Cowork autopilot, execution copilot, and Fable sparring with rich context folders."
 raw: "[[raw/christinexzhu_2074847461588267466]]"
+status: current
+as_of: 2026-07-08
 ---
 
 # You're not ambitious enough with Claude

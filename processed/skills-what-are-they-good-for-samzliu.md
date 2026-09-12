@@ -4,7 +4,6 @@ tags:
   - agents
   - agent-harness
   - agent-memory
-  - procedural-memory
   - prompt-engineering
   - hermes
 source: https://x.com/samzliu/status/2090977607219396771
@@ -15,6 +14,8 @@ description: "Skills are folders that help agents act — they solve recall-vs-r
 summary: "Skills are folders that help agents act — they solve recall-vs-recognition, consistency, portable expertise, and reasoning checkpoints, not just prompt reuse."
 raw: "[[raw/samzliu_2090977607219396771]]"
 published: 2026-08-21
+status: current
+as_of: 2026-08-21
 ---
 
 # Skills, what are they good for?

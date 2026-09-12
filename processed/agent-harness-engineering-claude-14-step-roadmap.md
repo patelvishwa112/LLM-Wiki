@@ -1,12 +1,12 @@
 ---
 tags:
-- agents
-- agent-harness
-- claude-code
-- subagents
-- agent-memory
-- orchestration
-- self-improving-systems
+  - agents
+  - agent-harness
+  - claude-code
+  - subagents
+  - agent-memory
+  - orchestration
+  - recursive-self-improvement
 source: https://x.com/0xCodez/status/2066867539305459732
 type: bookmark
 related:
@@ -19,6 +19,7 @@ summary: Codez outlines a 14-step roadmap for moving from basic Claude Code usag
 description: Codez outlines a 14-step roadmap for moving from basic Claude Code usage
   to a full agent harness with rules, subagents, hooks, and memory — the missing foundation
   under agent loops.
+status: current
 ---
 
 # Agent Harness Engineering with Claude

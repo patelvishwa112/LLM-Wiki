@@ -1,5 +1,9 @@
 ---
-tags: [ubuntu, linux, shuttleworth, canonical, debian, open-source, business]
+tags:
+  - infrastructure
+  - knowledge-management
+  - open-source
+  - startups
 type: bookmark
 description: "Mark Shuttleworth, Thawte sale, and the origin story of Ubuntu from a small Debian team."
 source: https://medium.com/@canartuc/575-million-founder-12-developers-the-product-running-60-of-the-cloud-9b7659a01f84
@@ -7,6 +11,8 @@ raw: "[[raw/canartuc_9b7659a01f84]]"
 author: Can Artuc
 date: 2026-05-14
 scraped: 2026-05-26
+status: current
+as_of: 2026-05-14
 ---
 
 # $575 Million Founder. 12 Developers. The Product Running 60% of the Cloud.

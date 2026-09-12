@@ -1,13 +1,10 @@
 ---
 tags:
-  - lora
-  - peft
-  - training
   - fine-tuning
-  - hypernetwork
-  - portable-adaptation
-  - qwen
-  - gemma
+  - training
+  - model-architecture
+  - continual-learning
+  - frontier-labs
   - slm
 source: https://x.com/RampLabs/status/2072381992285647280
 date: 2026-07-01
@@ -16,6 +13,8 @@ author: ramplabs
 description: "PorTAL (Ramp Labs): frozen task latent + shared LoRA hypernet core; refit thin per-base converter — ~98% of LoRA lift on unseen Qwen3-8B vs ~14% Cross-LoRA."
 raw: "[[raw/ramplabs_2072381992285647280]]"
 summary: "PorTAL (Ramp Labs): frozen task latent + shared LoRA hypernet core; refit thin per-base converter — ~98% of LoRA lift on unseen Qwen3-8B vs ~14% Cross-LoRA."
+status: current
+as_of: 2026-07-01
 ---
 
 # PorTAL: Portable Task Adapters for LLMs

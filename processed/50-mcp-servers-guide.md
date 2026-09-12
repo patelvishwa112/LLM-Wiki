@@ -1,18 +1,20 @@
 ---
 tags:
-- mcp
-- agents
-- claude-code
-- codex
-- gemini
-- tools
-- catalog
+  - mcp
+  - agents
+  - claude-code
+  - codex
+  - frontier-labs
+  - tool-use
+  - knowledge-management
 source: https://x.com/explorax_/status/2062448236439155173
 date: 2026-06-04
 type: bookmark
 author: m0h (@exploraX_)
 raw: '[[raw/explorax_2062448236439155173]]'
 description: 50 MCP Servers That Give Claude, Codex & Gemini Superpowers
+status: current
+as_of: 2026-06-04
 ---
 
 # 50 MCP Servers That Give Claude, Codex & Gemini Superpowers

@@ -1,5 +1,12 @@
 ---
-tags: ["llm", "inference", "kv-cache", "serving", "vllm", "prompt-caching", "cost-optimization", "transformers", "fundamentals"]
+tags:
+  - llm
+  - inference
+  - kv-cache
+  - serving
+  - cost-optimization
+  - transformers
+  - learning
 source: https://x.com/_avichawla/status/2093265776266637739
 date: 2026-08-28
 type: bookmark
@@ -7,6 +14,8 @@ description: "Avi Chawla: four LLM cache layers (KV, prefix, prompt, semantic) f
 author: _avichawla
 summary: "Avi Chawla: four LLM cache layers (KV, prefix, prompt, semantic) from first principles — what each stores, what breaks reuse, RAG/LMCache, Anthropic billing."
 raw: "[[raw/_avichawla_2093265776266637739]]"
+status: current
+as_of: 2026-08-28
 ---
 
 # KV, Prefix, Prompt and Semantic Caching in LLMs

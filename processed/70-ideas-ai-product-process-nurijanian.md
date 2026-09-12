@@ -1,5 +1,10 @@
 ---
-tags: ["productivity", "product", "agents", "skills", "evals"]
+tags:
+  - productivity
+  - product
+  - agents
+  - skills
+  - evals
 source: https://x.com/nurijanian/status/2085684396993184019
 date: 2026-08-06
 type: bookmark
@@ -7,6 +12,8 @@ description: "nurijanian: 70 practical AI-in-product ideas (context files, evals
 author: nurijanian
 summary: "nurijanian: 70 practical AI-in-product ideas (context files, evals-as-success, Linear-as-agent-FSM) collapsing to loadable context, defined success, files-as-tests."
 raw: "[[raw/nurijanian_2085684396993184019]]"
+status: current
+as_of: 2026-08-06
 ---
 
 # 70 Ideas to Reimagine Your Product Process With AI

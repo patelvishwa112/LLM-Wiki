@@ -1,5 +1,8 @@
 ---
-tags: ["finance", "agents", "ontology", "knowledge-graph", "accounting"]
+tags:
+  - finance
+  - agents
+  - knowledge-graph
 source: https://x.com/eya0/status/2097801524579864803
 date: 2026-09-09
 type: bookmark
@@ -7,6 +10,8 @@ description: "Erik (@eya0): AI accountants fail because the GL stores conclusion
 author: eya0
 summary: "Erik (@eya0): AI accountants fail because the GL stores conclusions not stories; T:0 treats Pacioli double-entry as a proven ontology (objects, links, actions)."
 raw: "[[raw/eya0_2097801524579864803]]"
+status: current
+as_of: 2026-09-09
 ---
 
 # Why Every AI Accountant Fails (and Why Palantir Knew First)

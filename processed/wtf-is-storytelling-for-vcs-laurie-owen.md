@@ -1,14 +1,13 @@
 ---
 tags:
   - venture-capital
-  - investing
-  - storytelling
+  - finance
+  - communication
   - writing
-  - marketing
-  - content-strategy
+  - gtm
+  - creator-economy
   - startups
   - productivity
-  - fundraising
 source: https://x.com/imlaurieowen/status/2077440615214686259
 date: 2026-07-15
 type: bookmark
@@ -16,6 +15,8 @@ description: "Laurie Owen (Refinery) — VC storytelling zooms out across vintag
 author: imlaurieowen
 summary: "Laurie Owen (Refinery) — VC storytelling zooms out across vintages; four frames (Contrast, Insight, Solution, Path) plus craft tips."
 raw: "[[raw/imlaurieowen_2077440615214686259]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # WTF is Storytelling for VCs?

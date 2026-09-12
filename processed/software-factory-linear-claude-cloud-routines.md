@@ -3,14 +3,13 @@ type: bookmark
 description: "Pierson Marks' afternoon-build software factory — Linear as hub, Claude Code Cloud Routines for pre-triage loops (PostHog/Vercel/Stripe), webhook-triggered SDLC via auto label and /do skill."
 tags:
   - agents
-  - software-factory
+  - ai-engineering
   - loop-engineering
   - claude-code
-  - linear
   - mcp
   - agent-harness
   - human-in-the-loop
-  - cronjob
+  - automation
   - product
   - observability
 source: https://x.com/piersonmarks/status/2075361336381555096
@@ -18,6 +17,8 @@ date: 2026-07-09
 author: Pierson Marks (@piersonmarks)
 summary: "Split pre-triage (scheduled MCP loops into Linear) from implementation (Linear auto label → Hono webhook → Claude routine + /do skill); runs on Claude subscription without VPS babysitting."
 raw: "[[raw/piersonmarks_2075361336381555096]]"
+status: current
+as_of: 2026-07-09
 ---
 
 # Software factory on Linear + Claude Cloud Routines

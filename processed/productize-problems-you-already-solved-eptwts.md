@@ -1,5 +1,11 @@
 ---
-tags: ["product-discovery", "startups", "creator-economy", "ideation", "productivity", "pm", "business", "solopreneur", "positioning"]
+tags:
+  - product
+  - startups
+  - creator-economy
+  - productivity
+  - pm
+  - gtm
 source: https://x.com/eptwts/status/2079571791341633643
 date: 2026-07-21
 type: bookmark
@@ -7,6 +13,8 @@ description: "EP (@eptwts) four-step problem-mining: productize problems you alr
 author: eptwts
 summary: "EP (@eptwts) four-step problem-mining: productize problems you already solved, filter money/time/status, split surface vs root, pain + one-sentence transformation checks."
 raw: "[[raw/eptwts_2079571791341633643]]"
+status: current
+as_of: 2026-07-21
 ---
 
 # Productize problems you already solved (EP)

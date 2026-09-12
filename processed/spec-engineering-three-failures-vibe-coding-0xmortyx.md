@@ -1,5 +1,13 @@
 ---
-tags: ["spec-engineering", "agents", "agent-harness", "claude-code", "verification", "planning", "context-management", "coding-tools", "loop-engineering"]
+tags:
+  - coding-tools
+  - agents
+  - agent-harness
+  - claude-code
+  - verification
+  - planning
+  - context-engineering
+  - loop-engineering
 source: https://x.com/0xmortyx/status/2084221348616765863
 date: 2026-08-03
 type: bookmark
@@ -7,6 +15,8 @@ description: "Spec engineering answers three vibe-coding failures — intent dri
 author: 0xmortyx
 summary: "Spec engineering answers three vibe-coding failures — intent drift, context decay, unverifiable output — by making the spec the primary artifact."
 raw: "[[raw/0xmortyx_2084221348616765863]]"
+status: current
+as_of: 2026-08-03
 ---
 
 # Spec Engineering: three failures of vibe coding (@0xmortyx)

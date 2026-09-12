@@ -1,25 +1,19 @@
 ---
 tags:
-- quant
-- jim-simons
-- medallion
-- renaissance-technologies
-- trading
-- markov-chains
-- kelly-criterion
-- hurst-exponent
-- factor-model
-- neural-network
-- execution
-- signal-detection
-- regime-detection
-- finance
+  - quant
+  - trading
+  - ml-research
+  - productivity
+  - observability
+  - finance
 source: https://x.com/ritonchain/status/2063308228323328247
 raw: '[[raw/ritonchain_2063308228323328247]]'
 type: article
 author: venus (@RitOnchain)
 date: 2026-06-06
 description: 'Jim Simons'' Medallion Fund: The Exact Quant Framework'
+status: current
+as_of: 2026-06-06
 ---
 
 # Jim Simons' Medallion Fund: The Exact Quant Framework

@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "agent-harness", "claude-code", "codex", "orchestration", "verification", "loop-engineering", "agent-ops"]
+tags:
+  - agents
+  - agent-harness
+  - claude-code
+  - codex
+  - orchestration
+  - verification
+  - loop-engineering
+  - agent-ops
 source: https://x.com/addyosmani/status/2072885435312042327
 date: 2026-07-03
 type: bookmark
@@ -7,6 +15,8 @@ author: addyosmani
 description: "Addy Osmani’s six-level agent autonomy ladder (assist → factory orchestration) splits agency vs orchestration, ties each rung to verification/evidence, and lists contracts, metrics, and anti-patterns."
 summary: "Addy Osmani’s six-level agent autonomy ladder (assist → factory orchestration) splits agency vs orchestration, ties each rung to verification/evidence, and lists contracts, metrics, and anti-patterns."
 raw: "[[raw/addyosmani_2072885435312042327]]"
+status: current
+as_of: 2026-07-03
 ---
 
 # Agent autonomy ladder (six levels)

@@ -1,5 +1,14 @@
 ---
-tags: ["fable-5", "models", "agents", "claude-code", "codex", "cost-optimization", "verification", "multi-agent", "harness-engineering"]
+tags:
+  - fable
+  - models
+  - agents
+  - claude-code
+  - codex
+  - cost-optimization
+  - verification
+  - multi-agent
+  - harness-engineering
 source: https://x.com/nateherk/status/2075394620536578128
 date: 2026-07-11
 type: bookmark
@@ -7,6 +16,8 @@ author: nateherk
 description: "Nate Herk hands-on Fable 5 vs GPT-5.6 Sol: manager vs worker split, creative builds, API refusals, and cost/token efficiency."
 summary: "Nate Herk hands-on Fable 5 vs GPT-5.6 Sol: manager vs worker split, creative builds, API refusals, and cost/token efficiency."
 raw: "[[raw/nateherk_2075394620536578128]]"
+status: current
+as_of: 2026-07-11
 ---
 
 # Fable Is the Manager, Sol Is the Worker

@@ -1,12 +1,10 @@
 ---
 tags:
-- anthropic
-- security
-- opus
-- cybersecurity
-- partners
-- enterprise
-- agents
+  - anthropic
+  - security
+  - claude
+  - enterprise
+  - agents
 source: https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity
 raw: '[[raw/anthropic-partners-opus-cybersecurity]]'
 date: 2026-06-07
@@ -28,6 +26,8 @@ description: 'Anthropic''s partners are deploying Claude Opus for cybersecurity 
   a year''s pentesting effort in under three weeks, and Accenture takes security testing
   coverage from 10% to 80%+ across 1,600 applications with scan turnaround cut from
   days to under an hour.'
+status: current
+as_of: 2026-06-07
 ---
 
 # Opus in Cybersecurity: Partner Deployments

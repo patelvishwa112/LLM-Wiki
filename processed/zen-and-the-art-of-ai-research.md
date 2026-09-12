@@ -1,15 +1,16 @@
 ---
 tags:
-- ai-research
-- career
-- mechanistic-interpretability
-- training
-- reading-writing
-- research-skills
+  - ai-research
+  - career
+  - interpretability
+  - training
+  - writing
 source: https://x.com/jxmnop/status/2066668040557867368
 type: bookmark
 ingested: 2026-06-15
 description: Zen and the Art of AI Research
+status: current
+as_of: 2026-06-15
 ---
 
 # Zen and the Art of AI Research

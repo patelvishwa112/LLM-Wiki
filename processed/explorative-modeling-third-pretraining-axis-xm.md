@@ -1,14 +1,26 @@
 ---
-tags: ["training", "pretraining", "generative-models", "diffusion", "scaling-laws", "image-generation", "video-generation", "language-models", "robotics", "world-models", "efficiency", "papers"]
+tags:
+  - training
+  - pretraining
+  - diffusion-models
+  - scaling-laws
+  - multimodal
+  - models
+  - robotics
+  - world-models
+  - cost-optimization
+  - papers
 source: https://explorative-modeling.github.io/
 date: 2026-08-03
-type: paper
+type: article
 description: "Explorative Modeling (XM) factors training not generation — third pretraining axis (K-mode exploration) plus end-to-end gen matching diffusion at far fewer NFEs."
 authors: ["Alexi Gladstone", "Heng Ji", "Yilun Du"]
 summary: "Explorative Modeling (XM) factors training not generation — third pretraining axis (K-mode exploration) plus end-to-end gen matching diffusion at far fewer NFEs."
 raw: "[[raw/explorative_modeling_project_page]]"
 arxiv: "2607.27372"
 code_url: "https://github.com/alexiglad/XM"
+status: current
+as_of: 2026-08-03
 ---
 
 # Explorative Modeling (XM) — third pretraining axis

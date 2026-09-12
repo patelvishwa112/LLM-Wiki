@@ -1,5 +1,10 @@
 ---
-tags: ["skills", "prompt-engineering", "agents", "gpt-6", "coding-agents"]
+tags:
+  - skills
+  - prompt-engineering
+  - agents
+  - frontier-labs
+  - coding-agents
 source: https://x.com/pvncher/status/2095991462416490862
 date: 2026-09-04
 type: bookmark
@@ -7,6 +12,8 @@ description: "eric provencher (@pvncher): Astra needs shorter skill descriptions
 author: pvncher
 summary: "eric provencher (@pvncher): Astra needs shorter skill descriptions, progressive disclosure, less itinerary-prompts; AGENTS.md overconstraint now hurts; define completion and persistence."
 raw: "[[raw/pvncher_2095991462416490862]]"
+status: current
+as_of: 2026-09-04
 ---
 
 # Rethinking Skills and Prompts for GPT-6 Astra

@@ -1,13 +1,13 @@
 ---
 tags:
-- training
-- ml-research
-- research-methodology
-- experiments
-- scaling-laws
-- pretraining
-- architecture
-- agents
+  - training
+  - ml-research
+  - ai-research
+  - projects
+  - scaling-laws
+  - pretraining
+  - architecture
+  - agents
 description: "Poolside-scale playbook for ML experiments — research questions, dated baselines, manual run logs, finish runs, and compute-efficiency gain via scaling laws."
 summary: "Poolside-scale playbook for ML experiments — research questions, dated baselines, manual run logs, finish runs, and compute-efficiency gain via scaling laws."
 source: https://x.com/iamgrigorev/status/2071688181628678468
@@ -15,6 +15,8 @@ date: 2026-06-29
 type: bookmark
 author: iamgrigorev
 raw: "[[raw/iamgrigorev_2071688181628678468]]"
+status: current
+as_of: 2026-06-29
 ---
 
 # How to design good ML experiments and actually learn from them

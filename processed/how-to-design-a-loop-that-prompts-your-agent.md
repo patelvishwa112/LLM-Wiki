@@ -1,10 +1,10 @@
 ---
 tags:
-- loops
-- agent-orchestration
-- claude-code
-- prompt-engineering
-- skills
+  - loop-engineering
+  - orchestration
+  - claude-code
+  - prompt-engineering
+  - skills
 source: https://x.com/amitiitbhu/status/2063983640535847093
 date: 2026-06-08
 type: bookmark
@@ -16,6 +16,8 @@ raw: '[[raw/amitiitbhu_2063983640535847093]]'
 description: 'Detailed blueprint for designing loops that prompt agents: 5 parts (define
   done, build context from state, act & capture, feedback, stop conditions). Full
   code pattern + common mistakes. The loop is the strategy; a prompt is just one move.'
+status: current
+as_of: 2026-06-08
 ---
 
 # How to design a loop that prompts your agent?

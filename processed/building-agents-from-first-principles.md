@@ -1,15 +1,16 @@
 ---
 tags:
-- agents
-- rl
-- training
-- fine-tuning
-- grpo
+  - agents
+  - rl
+  - training
+  - fine-tuning
 source: https://x.com/athleticKoder/status/2057091692235481560
 raw: '[[raw/athleticKoder_2057091692235481560]]'
 date: 2026-05-20
 type: bookmark
 description: Building Agents From First Principles — Environment, Teacher, RL
+status: current
+as_of: 2026-05-20
 ---
 
 # Building Agents From First Principles — Environment, Teacher, RL

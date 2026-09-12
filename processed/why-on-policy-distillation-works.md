@@ -1,18 +1,18 @@
 ---
 tags:
-- on-policy-distillation
-- self-distillation
-- hallucination
-- ood-generalization
-- rlvr
-- reasoning-models
-- qwen
-- distillation
-- epistemic-verbalization
+  - distillation
+  - evals
+  - ml-research
+  - rl
+  - reasoning
+  - frontier-labs
+  - interpretability
 source: https://x.com/rish2k1/status/2068414528598286485
 type: concept
 ingested: 2026-06-20
 description: Why On-Policy Distillation Works and Naive Self-Distillation Doesn't
+status: current
+as_of: 2026-06-20
 ---
 
 # Why On-Policy Distillation Works and Naive Self-Distillation Doesn't

@@ -5,11 +5,11 @@ tags:
   - agents
   - pretraining
   - post-training
-  - data-flywheel
-  - sft
+  - data-engineering
+  - fine-tuning
   - rl
   - continual-learning
-  - context-management
+  - context-engineering
   - distillation
   - training
 source: https://x.com/lihanc02/status/2077087985879888361
@@ -19,6 +19,8 @@ description: "Hanchen Li — harness and pretraining hold hands both ways: flywh
 author: lihanc02
 summary: "Hanchen Li — harness and pretraining hold hands both ways: flywheel data shaped by harness; harness as symbolic override of pretrain reflexes."
 raw: "[[raw/lihanc02_2077087985879888361]]"
+status: current
+as_of: 2026-07-14
 ---
 
 # What If the Harness Comes Before Pretraining?

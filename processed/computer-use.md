@@ -4,13 +4,14 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- agents
-- computer-use
+  - agents
+  - computer-use
 sources:
 - raw/anthropic/articles/anthropic-news-3-5-models-and-computer-use.md
 - raw/anthropic/articles/anthropic-news-developing-computer-use.md
 confidence: high
 description: Computer Use
+status: current
 ---
 
 # Computer Use

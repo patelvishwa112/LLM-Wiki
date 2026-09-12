@@ -4,14 +4,13 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- interpretability
-- superposition
-- features
+  - interpretability
 sources:
 - raw/anthropic/papers/tcircuits-toy_model-index.md
 - raw/anthropic/papers/arxiv-2211.00593.md
 confidence: high
 description: Superposition
+status: current
 ---
 
 # Superposition

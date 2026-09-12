@@ -1,15 +1,12 @@
 ---
 tags:
-- langchain
-- langgraph
-- harbor
-- agents
-- evals
-- langsmith
-- sandbox
-- deep-agents
-- observability
-- agent-harness
+  - agent-frameworks
+  - projects
+  - agents
+  - evals
+  - observability
+  - agent-ops
+  - agent-harness
 source: https://x.com/langchain/status/2071972238128005278
 date: 2026-06-30
 type: bookmark
@@ -17,6 +14,8 @@ author: langchain
 summary: "LangChain announces Harbor integrations for Deep Agents/LangGraph, LangSmith Sandboxes, and LangSmith Experiments—an isolated, parallel agent eval stack with script-based verifiers and trace-backed debugging."
 description: "LangChain announces Harbor integrations for Deep Agents/LangGraph, LangSmith Sandboxes, and LangSmith Experiments—an isolated, parallel agent eval stack with script-based verifiers and trace-backed debugging."
 raw: "[[raw/langchain_2071972238128005278]]"
+status: current
+as_of: 2026-06-30
 ---
 
 # Harbor x LangChain: A Unified Stack for Evaluating Agents

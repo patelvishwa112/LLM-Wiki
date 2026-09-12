@@ -1,5 +1,15 @@
 ---
-tags: ["rag", "knowledge-graph", "graphrag", "agents", "retrieval", "dspy", "mcp", "anthropic", "microsoft", "agent-memory", "second-brain", "prompt-engineering"]
+tags:
+  - rag
+  - knowledge-graph
+  - agents
+  - agent-frameworks
+  - mcp
+  - anthropic
+  - frontier-labs
+  - agent-memory
+  - second-brain
+  - prompt-engineering
 source: https://x.com/sprytixl/status/2078778799064584535
 date: 2026-07-20
 type: bookmark
@@ -8,6 +18,8 @@ title: "Graph Engineering vs RAG — relationships over text chunks"
 description: "Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Stanford/Anthropic 'replaced RAG'."
 summary: "Creator roundup arguing Graph Engineering (GraphRAG-style KGs) beats vanilla RAG on global/causal questions; cites Microsoft GraphRAG, DSPy/STORM, KG scaling laws, LaunchNotes+Claude/MCP. Skeptical of overclaiming Stanford/Anthropic 'replaced RAG'."
 raw: "[[raw/sprytixl_2078778799064584535]]"
+status: current
+as_of: 2026-07-20
 ---
 
 # Graph Engineering vs RAG — relationships over text chunks

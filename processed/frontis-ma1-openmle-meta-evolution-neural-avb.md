@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "training", "rl", "sft", "recursive-self-improvement", "meta-evolution", "evals", "mle", "openmle", "evolutionary-search", "slm"]
+tags:
+  - agents
+  - training
+  - rl
+  - fine-tuning
+  - recursive-self-improvement
+  - evals
+  - ml-research
+  - slm
 source: https://x.com/neural_avb/status/2086073348531110130
 date: 2026-08-08
 type: bookmark
@@ -8,6 +16,8 @@ author: neural_avb
 summary: "neural_avb on OpenMLE / Frontis-MA1 — meta-evolution trains Draft/Improve/Debug/Crossover operators so a 35B SLM beats frontier stacks on MLE tasks under a 12 GPU-hour budget."
 raw: "[[raw/neural_avb_2086073348531110130]]"
 paper_url: http://arxiv.org/abs/2607.28568
+status: current
+as_of: 2026-08-08
 ---
 
 # Frontis-MA1 / OpenMLE (neural_avb)

@@ -4,9 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- interpretability
-- sparse-autoencoders
-- features
+  - interpretability
+  - sparse-autoencoders
 sources:
 - raw/anthropic/papers/tcircuits-monosemantic-features-index.md
 - raw/anthropic/papers/tcircuits-scaling-monosemanticity-index.md
@@ -17,6 +16,7 @@ sources:
 - raw/anthropic/articles/anthropic-research-evaluating-feature-steering.md
 confidence: high
 description: Sparse Autoencoders / Dictionary Learning
+status: current
 ---
 
 # Sparse Autoencoders / Dictionary Learning

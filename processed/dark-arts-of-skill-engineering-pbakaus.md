@@ -1,12 +1,23 @@
 ---
 type: bookmark
 description: "Paul Bakaus (Impeccable) — nine dark arts for skill engineering: skills as harness extensions that force model defaults via sub-agents, routing, memory, stdout scripts, hooks, live browser, multi-harness compile, and weakest-model gates."
-tags: ["skills", "agent-harness", "harness-engineering", "claude-code", "codex", "hooks", "multi-agent", "progressive-disclosure", "design", "frontend", "impeccable", "cross-harness"]
+tags:
+  - skills
+  - agent-harness
+  - harness-engineering
+  - claude-code
+  - codex
+  - multi-agent
+  - context-engineering
+  - product
+  - web-dev
 source: https://x.com/pbakaus/status/2077114326985687525
 date: 2026-07-14
 author: pbakaus
 summary: "Paul Bakaus (Impeccable) — nine dark arts for skill engineering: skills as harness extensions that force model defaults via sub-agents, routing, memory, stdout scripts, hooks, live browser, multi-harness compile, and weakest-model gates."
 raw: "[[raw/pbakaus_2077114326985687525]]"
+status: current
+as_of: 2026-07-14
 ---
 
 # The Dark Arts of Skill Engineering

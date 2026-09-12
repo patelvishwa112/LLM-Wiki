@@ -1,15 +1,13 @@
 ---
 tags:
-- sft
-- training
-- agents
-- lora
-- gemma
-- codex
-- huggingface
-- agent-traces
-- distillation
-- trl
+  - fine-tuning
+  - training
+  - agents
+  - frontier-labs
+  - codex
+  - open-source
+  - observability
+  - distillation
 source: https://x.com/sergiopaniego/status/2069369115630870771
 date: 2026-06-23
 type: bookmark
@@ -21,6 +19,8 @@ raw: '[[raw/sergiopaniego_2069369115630870771]]'
 description: 'HF live class recap: one Codex prompt ran full SFT (data, train, Trackio,
   evals, model card) to teach Gemma 4 2B agent format from pi coding-agent traces;
   human keeps goal, constraints, and artifact verification.'
+status: current
+as_of: 2026-06-23
 ---
 
 # Training Agents Class 1 — SFT Run by an Agent

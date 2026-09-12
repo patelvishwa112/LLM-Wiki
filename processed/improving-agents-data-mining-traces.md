@@ -4,17 +4,16 @@ tags:
   - agent-harness
   - observability
   - evals
-  - trace-data
   - harness-engineering
-  - langchain
-  - langsmith
+  - agent-frameworks
   - training
-  - production-traces
 source: https://x.com/vtrivedy10/status/2074509344155066517
 date: 2026-07-07
 type: bookmark
 description: "Viv Trivedy (LangChain) — traces as the substrate for continual learning, harness engineering, and post-training; Scaling Dreaming, LangSmith Engine, and Harness→FT→Harness funnel."
 raw: "[[raw/vtrivedy10_2074509344155066517]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # Improving Agents is a Data Mining Problem

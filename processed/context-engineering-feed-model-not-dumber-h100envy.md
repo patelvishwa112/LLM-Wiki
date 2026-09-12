@@ -1,5 +1,14 @@
 ---
-tags: ["context-engineering", "context-rot", "agents", "agent-harness", "attention", "rag", "compaction", "loop-engineering", "kv-cache", "prompt-engineering"]
+tags:
+  - context-engineering
+  - long-context
+  - agents
+  - agent-harness
+  - attention
+  - rag
+  - loop-engineering
+  - kv-cache
+  - prompt-engineering
 source: https://x.com/h100envy/status/2082064768844837357
 date: 2026-07-28
 type: bookmark
@@ -7,6 +16,8 @@ description: "Context is a biased attention budget — lost-in-the-middle, RoPE 
 author: h100envy
 summary: "Context is a biased attention budget — lost-in-the-middle, RoPE decay, softmax sinks, dilution; spend edges deliberately, measure MECW."
 raw: "[[raw/h100envy_2082064768844837357]]"
+status: current
+as_of: 2026-07-28
 ---
 
 # Context Engineering: feed a model so it does not get dumber (@h100envy)

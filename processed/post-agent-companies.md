@@ -1,16 +1,16 @@
 ---
 tags:
-- agents
-- post-agent-companies
-- business-models
-- agent-harness
-- phoebe
-- network-effects
-- ai-strategy
+  - agents
+  - startups
+  - agent-harness
+  - projects
+  - ai-strategy
 source: https://x.com/jrwoodbridge/status/2067985204958880038
 type: concept
 ingested: 2026-06-20
 description: Post-Agent Companies
+status: current
+as_of: 2026-06-20
 ---
 
 # Post-Agent Companies

@@ -1,12 +1,23 @@
 ---
 type: bookmark
 description: "Deel COO Dan Westgarth: self-improving software via closed bug loop — Bug Hunter on customer-account replicas + multimodal Deel Code with Playwright browser verification; human approves every PR."
-tags: ["agents", "loop-engineering", "verification", "self-improvement", "multi-agent", "playwright", "testing", "enterprise", "agent-harness", "human-in-the-loop", "deel"]
+tags:
+  - agents
+  - loop-engineering
+  - verification
+  - productivity
+  - multi-agent
+  - browser-agents
+  - enterprise
+  - agent-harness
+  - human-in-the-loop
 source: https://x.com/danwestgarth/status/2077346634275430478
 date: 2026-07-15
 author: danwestgarth
 summary: "Deel COO Dan Westgarth: self-improving software via closed bug loop — Bug Hunter on customer-account replicas + multimodal Deel Code with Playwright browser verification; human approves every PR."
 raw: "[[raw/danwestgarth_2077346634275430478]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # Building a Self-Improving, AI-Native Company

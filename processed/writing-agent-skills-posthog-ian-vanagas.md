@@ -1,5 +1,13 @@
 ---
-tags: ["skills", "agents", "agent-harness", "progressive-disclosure", "context-engineering", "coding-tools", "posthog", "productivity", "evals"]
+tags:
+  - skills
+  - agents
+  - agent-harness
+  - context-engineering
+  - coding-tools
+  - observability
+  - productivity
+  - evals
 source: https://x.com/posthog/status/2084345938089316582
 date: 2026-08-03
 type: bookmark
@@ -7,6 +15,8 @@ description: "PostHog (Ian Vanagas) on writing agent skills that work — 226 in
 author: posthog
 summary: "PostHog (Ian Vanagas) on writing agent skills that work — 226 internal skills, progressive disclosure, anti-rot principles, and when not to skill-ify."
 raw: "[[raw/posthog_2084345938089316582]]"
+status: current
+as_of: 2026-08-03
 ---
 
 # What nobody tells you about writing agent skills (PostHog)

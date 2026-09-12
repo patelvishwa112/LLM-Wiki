@@ -1,5 +1,15 @@
 ---
-tags: ["agent-harness", "agents", "harness-engineering", "deepseek", "observability", "loop-engineering", "context-management", "coding-tools", "open-source", "production"]
+tags:
+  - agent-harness
+  - agents
+  - harness-engineering
+  - frontier-labs
+  - observability
+  - loop-engineering
+  - context-engineering
+  - coding-tools
+  - open-source
+  - production
 source: https://x.com/saboo_shubham_/status/2089177978265870817
 date: 2026-08
 type: bookmark
@@ -7,6 +17,8 @@ description: "Five portable harness patterns from DeepSeek open-source agent (ds
 author: saboo_shubham_
 summary: "Five portable harness patterns from DeepSeek open-source agent (dsh): event-log context, loop reminders, truncation honesty, permissioned code-mode, workspace restarts."
 raw: "[[raw/saboo_shubham_2089177978265870817]]"
+status: current
+as_of: 2026-08
 ---
 
 # 5 patterns from DeepSeek’s open-source agent harness

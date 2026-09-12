@@ -1,15 +1,12 @@
 ---
 tags:
-- agents
-- observability
-- agent-harness
-- opik
-- debugging
-- testing
-- evals
-- regression-testing
-- self-repair
-- production
+  - agents
+  - observability
+  - agent-harness
+  - verification
+  - evals
+  - agent-ops
+  - production
 source: https://x.com/akshay_pachaar/status/2064051835636498924
 date: 2026-06-08
 type: bookmark
@@ -26,6 +23,8 @@ related:
 description: 'Opik closes the agent debugging loop: Trace → Ollie diagnoses → proposes
   fix → verify → regression test. Four-layer stack (Tracing, Ollie, Test Suites, Sandbox)
   that automates everything after the trace. 19.3K stars.'
+status: current
+as_of: 2026-06-08
 ---
 
 # Agent Harness Self-Repair (Opik)

@@ -1,18 +1,20 @@
 ---
 tags:
-- hermes
-- kanban
-- agents
-- multi-agent
-- orchestration
-- skills
-- profiles
+  - hermes
+  - productivity
+  - agents
+  - multi-agent
+  - orchestration
+  - skills
+  - knowledge-management
 source: https://x.com/akshay_pachaar/status/2062526843564233040
 date: 2026-06-04
 type: bookmark
 author: Akshay (@akshay_pachaar)
 raw: '[[raw/akshaypachaar_2062526843564233040]]'
 description: 'Hermes Kanban: Mission Control for Your Agents'
+status: current
+as_of: 2026-06-04
 ---
 
 # Hermes Kanban: Mission Control for Your Agents

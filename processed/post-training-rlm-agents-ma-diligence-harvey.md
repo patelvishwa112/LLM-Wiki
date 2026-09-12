@@ -1,5 +1,11 @@
 ---
-tags: ["agents", "rl", "evals", "legal-ai", "rlm", "post-training"]
+tags:
+  - agents
+  - rl
+  - evals
+  - enterprise
+  - reasoning
+  - post-training
 source: https://x.com/nikogrupen/status/2097369705791307952
 date: 2026-09-08
 type: bookmark
@@ -7,6 +13,8 @@ description: "Harvey (@nikogrupen): RLM harness for M&A diligence lifts mean rub
 author: nikogrupen
 summary: "Harvey (@nikogrupen): RLM harness for M&A diligence lifts mean rubric pass 23.3% to 62.4%; RL on Qwen3.5-122B root 29.9% to 63.0% on LAB Diligence."
 raw: "[[raw/nikogrupen_2097369705791307952]]"
+status: current
+as_of: 2026-09-08
 ---
 
 # Post-training RLM Agents for End-to-End M&A Diligence

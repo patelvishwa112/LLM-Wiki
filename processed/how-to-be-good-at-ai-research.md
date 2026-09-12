@@ -1,9 +1,7 @@
 ---
 tags:
-- ai-research
-- research-methodology
-- learning
-- meta-learning
+  - ai-research
+  - learning
 source: https://x.com/adiix_official/status/2066853111763775949
 type: bookmark
 related:
@@ -15,6 +13,7 @@ summary: AdiiX argues that most people trying to get good at AI research optimiz
 description: AdiiX argues that most people trying to get good at AI research optimize
   the wrong variable — they try to 'know more' instead of developing better research
   systems and filters for the firehose of information.
+status: current
 ---
 
 # How to Be Good at AI Research

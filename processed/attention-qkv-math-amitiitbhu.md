@@ -1,14 +1,10 @@
 ---
 tags:
-- transformers
-- attention
-- llm
-- fundamentals
-- math
-- qkv
-- softmax
-- embeddings
-- education
+  - transformers
+  - attention
+  - llm
+  - learning
+  - embeddings
 source: https://x.com/amitiitbhu/status/2040027305297526811
 date: 2026-04-03
 type: bookmark
@@ -20,6 +16,8 @@ raw: '[[raw/amitiitbhu_2040027305297526811]]'
 description: 'Amit Shekhar: hand-worked scaled dot-product attention on "I love AI"
   — X→Q/K/V via learned weights, QK^T scores, ÷√d_k, row softmax (e.g. I→love 70.7%),
   multiply V; bridges to KV cache (only last row needed at decode).'
+status: current
+as_of: 2026-04-03
 ---
 
 # Scaled Dot-Product Attention (Worked Example)

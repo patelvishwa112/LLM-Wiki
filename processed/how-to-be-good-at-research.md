@@ -1,11 +1,11 @@
 ---
 tags:
-- research
-- ml-research
-- career
-- taste
-- writing
-- loop
+  - ai-research
+  - ml-research
+  - career
+  - decision-making
+  - writing
+  - loop-engineering
 source: https://x.com/itsreallyvivek/status/2064686372737454155
 date: 2026-06-10
 type: bookmark
@@ -19,6 +19,8 @@ description: 'High-signal guide to research: pick your own problems, upgrade inp
   (old material + range), write everything down (Feynman''s rule + Darwin''s habit),
   tighten the loop (tooling + volume), stare at outputs (data + failures), wander
   on purpose, find your people. Taste is a trainable muscle; generosity compounds.'
+status: current
+as_of: 2026-06-10
 ---
 
 # how to be good at research

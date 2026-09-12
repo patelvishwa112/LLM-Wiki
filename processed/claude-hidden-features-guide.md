@@ -1,21 +1,22 @@
 ---
 tags:
-- claude
-- claude-code
-- claude-cowork
-- prompt-engineering
-- artifacts
-- projects
-- memory
-- skills
-- mcp
-- scheduled-tasks
+  - claude
+  - claude-code
+  - claude-cowork
+  - prompt-engineering
+  - projects
+  - agent-memory
+  - skills
+  - mcp
+  - automation
 source: https://x.com/anatolikopadze/status/2057813254617858078
 raw: '[[raw/anatolikopadze_2057813254617858078]]'
 date: 2026-05-28
 type: bookmark
 author: AnatoliKopadze
 description: Claude Can Do All of This
+status: current
+as_of: 2026-05-28
 ---
 
 # Claude Can Do All of This

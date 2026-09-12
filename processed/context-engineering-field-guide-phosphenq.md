@@ -4,11 +4,9 @@ tags:
   - prompt-engineering
   - agents
   - agent-harness
-  - context-management
-  - context-rot
-  - compaction
+  - long-context
   - subagents
-  - token-economy
+  - ai-economics
 source: https://x.com/phosphenq/status/2078221723409830336
 date: 2026-07-18
 type: bookmark
@@ -17,6 +15,8 @@ author: phosphenq
 summary: "Phosphenq field guide: context engineering designs the whole window (not one prompt); bigger windows worsen via Lost-in-the-Middle and context rot; 12 moves for high-signal tokens."
 raw: "[[raw/phosphenq_2078221723409830336]]"
 published: 2026-07-17
+status: current
+as_of: 2026-07-18
 ---
 
 # Context engineering field guide (12 moves)

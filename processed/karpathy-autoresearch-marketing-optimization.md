@@ -1,15 +1,17 @@
 ---
 tags:
-- agents
-- marketing
-- optimization
-- autoresearch
-- content
+  - agents
+  - gtm
+  - cost-optimization
+  - ai-research
+  - creator-economy
 source: https://x.com/shannholmberg/status/2052780393326092407
 raw: '[[raw/shannholmberg_2052780393326092407]]'
 date: 2026-03-24
 type: bookmark
 description: Karpathy AutoResearch for Marketing Optimization
+status: current
+as_of: 2026-03-24
 ---
 
 # Karpathy AutoResearch for Marketing Optimization

@@ -1,5 +1,12 @@
 ---
-tags: ["fde", "enterprise", "agents", "agent-ops", "ai-strategy", "career", "gtm", "productivity"]
+tags:
+  - career
+  - enterprise
+  - agents
+  - agent-ops
+  - ai-strategy
+  - gtm
+  - productivity
 source: https://x.com/mardehaym/status/2092971458309820641
 date: 2026-08-28
 published: 2026-08-27
@@ -8,6 +15,8 @@ description: "Mark Ajzenstadt — FDE scarcity is operational culture, not rare 
 author: mardehaym
 summary: "Mark Ajzenstadt — FDE scarcity is operational culture, not rare talent; rotation kills context; factory-floor ops vs lab implementation wave."
 raw: "[[raw/mardehaym_2092971458309820641]]"
+status: current
+as_of: 2026-08-28
 ---
 
 # notes on FDE

@@ -1,14 +1,11 @@
 ---
 tags:
-- rl
-- rlhf
-- training
-- interview-answers
-- ppo
-- grpo
-- infrastructure
-- async-rl
-- moe
+  - rl
+  - rlhf
+  - training
+  - career
+  - infrastructure
+  - moe
 source: https://x.com/vivek_2332/status/2063566811749331353
 raw: '[[raw/vivek_2332_2063566811749331353]]'
 date: 2026-06-07
@@ -27,6 +24,8 @@ description: Answers to Xiuyu Li's RL Interview Questions 2026. Covers 15+ algor
   mismatch, KL penalty removal, OPD) and 13 infrastructure questions (model copies
   in GRPO, KV cache, FP8/INT8, async frameworks, Expert Parallelism, staleness, FSDP
   vs Megatron). Recommends PrimeIntellect over VeRL/TRL/Unsloth/AReaL/slime.
+status: current
+as_of: 2026-06-07
 ---
 
 # RL Interview Answers 2026

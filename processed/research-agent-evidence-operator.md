@@ -1,14 +1,11 @@
 ---
 title: The Research Agent — Building an Evidence Operator That Compounds
 tags:
-- research-agent
-- agents
-- hermes
-- evidence
-- vault
-- knowledge-management
-- compounding
-- operator-surfaces
+  - ai-research
+  - agents
+  - hermes
+  - knowledge-management
+  - agent-ops
 source: https://x.com/gkisokay/status/2051275483996909982
 date: 2026-06-02
 published: 2026-05-04
@@ -17,6 +14,8 @@ authors:
 type: bookmark
 raw: '[[raw/gkisokay_2051275483996909982]]'
 description: The Research Agent — Evidence Operator
+status: current
+as_of: 2026-06-02
 ---
 
 # The Research Agent — Evidence Operator

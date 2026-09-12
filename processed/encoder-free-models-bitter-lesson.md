@@ -1,9 +1,8 @@
 ---
 tags:
-- bitter-lesson
-- scaling-laws
-- ml-research
-- architecture
+  - ml-research
+  - scaling-laws
+  - architecture
 source: https://x.com/rumik_ai/status/2066984970783166907
 type: bookmark
 related:
@@ -15,6 +14,7 @@ summary: rumik discusses how Sutton's Bitter Lesson continues to play out in mod
 description: rumik discusses how Sutton's Bitter Lesson continues to play out in modality
   interfaces — hand-designed encoders and codecs keep getting replaced by simpler,
   scale-driven encoder-free approaches.
+status: current
 ---
 
 # Encoder-Free Models and the Bitter Lesson We Keep Seeing

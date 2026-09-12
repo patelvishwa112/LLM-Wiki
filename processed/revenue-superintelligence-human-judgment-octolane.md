@@ -1,5 +1,16 @@
 ---
-tags: ["agents", "sales", "enterprise", "ai-strategy", "rlhf", "rlvr", "preference-data", "crm", "gtm", "human-in-the-loop", "evals", "bitter-lesson", "venture-capital"]
+tags:
+  - agents
+  - gtm
+  - enterprise
+  - ai-strategy
+  - rlhf
+  - rl
+  - reward-modeling
+  - human-in-the-loop
+  - evals
+  - ml-research
+  - venture-capital
 source: https://x.com/coffeewithone/status/2086912331288809865
 date: 2026-08-10
 type: bookmark
@@ -8,6 +19,8 @@ author: coffeewithone
 summary: "Octolane CEO manifesto — revenue superintelligence via human-in-loop preference/trajectory data; moat is judgment logs not base models; agent per account with approval."
 raw: "[[raw/coffeewithone_2086912331288809865]]"
 blog_url: https://www.octolane.com/article/revenue-superintelligence
+status: current
+as_of: 2026-08-10
 ---
 
 # Revenue superintelligence / scalable human judgment (Octolane)

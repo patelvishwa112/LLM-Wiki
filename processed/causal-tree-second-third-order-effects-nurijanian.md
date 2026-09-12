@@ -1,6 +1,14 @@
 ---
 title: "/causal-tree: see ahead with 2nd/3rd order effects of decisions"
-tags: [pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, causal-reasoning, risk, second-order-effects, productivity]
+tags:
+  - pm
+  - decision-making
+  - product
+  - skills
+  - claude-code
+  - reasoning
+  - finance
+  - productivity
 source: https://x.com/nurijanian/status/2082065077021335632
 date: 2026-07-28
 published: 2026-07-28
@@ -10,6 +18,8 @@ description: "Root-cause alone is incomplete — causal-tree maps backward whys 
 summary: "Root-cause alone is incomplete — causal-tree maps backward whys plus five-order forward effects, evidence gaps, and assumptions for team review."
 author: nurijanian
 raw: "[[raw/nurijanian_2082065077021335632]]"
+status: current
+as_of: 2026-07-28
 ---
 
 # /causal-tree: see ahead with 2nd/3rd order effects of decisions

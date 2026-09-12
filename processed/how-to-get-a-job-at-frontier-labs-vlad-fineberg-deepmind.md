@@ -1,19 +1,18 @@
 ---
 tags:
-- frontier-labs
-- deepmind
-- pre-training
-- scaling-laws
-- research-taste
-- kernel-engineering
-- distillation
-- quantization
-- inference-code-design
-- career-advice
-- llm-research
+  - frontier-labs
+  - pretraining
+  - scaling-laws
+  - ai-research
+  - gpu
+  - distillation
+  - quantization
+  - inference
+  - career
+  - ml-research
 source: https://youtu.be/cDyi91onoJ8
 date: 2026-06-15
-type: lecture
+type: article
 author: Vlad Fineberg (Google DeepMind Pre-training Area Lead)
 title: How to Get a Job at a Frontier Lab — Vlad Fineberg (DeepMind)
 summary: 'Vlad Fineberg (DeepMind pre-training area lead) breaks down the skills frontier
@@ -33,6 +32,8 @@ description: 'Vlad Fineberg (DeepMind pre-training area lead) breaks down the sk
   war stories (Flash 2.0 pipeline prefill), MFU realities, and concrete exercises
   to demonstrate fit. Essential viewing for anyone targeting OpenAI, Anthropic, Google
   DeepMind, or similar.'
+status: current
+as_of: 2026-06-15
 ---
 
 ## Overview & Why This Matters

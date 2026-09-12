@@ -1,5 +1,8 @@
 ---
-tags: ["robotics", "training", "data", "annotation"]
+tags:
+  - robotics
+  - training
+  - data-engineering
 source: https://x.com/_varunnair/status/2096119538589008251
 date: 2026-09-05
 type: bookmark
@@ -7,6 +10,8 @@ description: "Varun Nair: robotics ego-data scaling is really (s, annotated-a); 
 author: _varunnair
 summary: "Varun Nair: robotics ego-data scaling is really (s, annotated-a); annotation margin > collection; VPT-style inverse-dynamics teachers recover lost channels."
 raw: "[[raw/_varunnair_2096119538589008251]]"
+status: current
+as_of: 2026-09-05
 ---
 
 # Where Is the Signal in Robotics Data

@@ -1,6 +1,13 @@
 ---
 title: "/mckinsey-issue-tree: trees to solve any problem"
-tags: [pm, decision-making, product-discovery, skills, claude-code, ai-pm-os, mece, problem-solving, writing, productivity]
+tags:
+  - pm
+  - decision-making
+  - product
+  - skills
+  - claude-code
+  - writing
+  - productivity
 source: https://x.com/nurijanian/status/2081707189853642988
 date: 2026-07-28
 published: 2026-07-27
@@ -10,6 +17,8 @@ description: "Separate cause/plan/solution with MECE Why-, What-, and How-trees 
 summary: "Separate cause/plan/solution with MECE Why-, What-, and How-trees before analysis; skill mckinsey-issue-tree in AI PM OS."
 author: nurijanian
 raw: "[[raw/nurijanian_2081707189853642988]]"
+status: current
+as_of: 2026-07-28
 ---
 
 # /mckinsey-issue-tree: trees to solve any problem

@@ -1,11 +1,10 @@
 ---
 tags:
-- agents
-- security
-- zero-trust
-- enterprise
-- anthropic
-- agent-ops
+  - agents
+  - security
+  - enterprise
+  - anthropic
+  - agent-ops
 source: https://claude.com/blog/zero-trust-for-ai-agents
 raw: '[[raw/anthropic-zero-trust-ai-agents]]'
 date: 2026-05-27
@@ -26,6 +25,8 @@ description: 'A practical framework for deploying autonomous AI agents in the en
   scoping, memory protection against poisoning, and defensive operations at the speed
   of autonomous attackers. Covers a three-tier maturity model (Foundation, Advanced,
   Optimized) and an eight-phase implementation workflow.'
+status: current
+as_of: 2026-05-27
 ---
 
 # Zero Trust for AI Agents

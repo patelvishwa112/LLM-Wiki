@@ -5,9 +5,9 @@ tags:
   - human-in-the-loop
   - multi-agent
   - orchestration
-  - approvals
+  - agent-ops
   - productivity
-  - cronjob
+  - automation
 source: https://x.com/zodchiii/status/2072630422358425719
 date: 2026-07-02
 type: bookmark
@@ -15,6 +15,8 @@ author: zodchiii
 description: "Six shifts for agent-as-employee UX: explicit wait states, question cards, approval gates, team boards, long-horizon outcomes; article pitches Teamly."
 raw: "[[raw/zodchiii_2072630422358425719]]"
 summary: "Six shifts for agent-as-employee UX: explicit wait states, question cards, approval gates, team boards, long-horizon outcomes; article pitches Teamly."
+status: current
+as_of: 2026-07-02
 ---
 
 # Agents as employees — six environment shifts

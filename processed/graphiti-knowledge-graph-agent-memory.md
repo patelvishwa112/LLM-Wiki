@@ -1,17 +1,17 @@
 ---
 tags:
-- knowledge-graph
-- agent-memory
-- graphiti
-- rag
-- open-source
-- entity-extraction
+  - knowledge-graph
+  - agent-memory
+  - rag
+  - open-source
 source: https://x.com/_avichawla/status/2058449798039228568
 raw: '[[raw/avichawla_2058449798039228568]]'
 date: 2026-05-29
 type: bookmark
 author: _avichawla
 description: Graphiti — Knowledge Graph Memory for Agents
+status: current
+as_of: 2026-05-29
 ---
 
 # Graphiti — Knowledge Graph Memory for Agents

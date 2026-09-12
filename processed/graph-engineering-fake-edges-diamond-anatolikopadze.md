@@ -1,15 +1,15 @@
 ---
 tags:
-- graph-engineering
-- loop-engineering
-- agents
-- multi-agent
-- orchestration
-- verification
-- claude-code
-- dynamic-workflows
-- cost-optimization
-- agent-harness
+  - knowledge-graph
+  - loop-engineering
+  - agents
+  - multi-agent
+  - orchestration
+  - verification
+  - claude-code
+  - workflows
+  - cost-optimization
+  - agent-harness
 source: https://x.com/anatolikopadze/status/2080668775796314331
 date: 2026-07-25
 author: Anatoli Kopadze (@AnatoliKopadze)
@@ -17,6 +17,8 @@ type: bookmark
 description: "Graph engineering field guide: fake-edge test, diamond (fan-out/reduce/synthesize), fresh-context checkers, anchors for truth, Claude Code 'workflow' fleets. Graphs buy breadth not judgment; Bun rewrite ~$165k caution."
 summary: "Graph engineering field guide: fake-edge test, diamond (fan-out/reduce/synthesize), fresh-context checkers, anchors for truth, Claude Code 'workflow' fleets. Graphs buy breadth not judgment; Bun rewrite ~$165k caution."
 raw: "[[raw/anatolikopadze_2080668775796314331]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Graph engineering: fake edges, diamond, anchors

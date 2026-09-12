@@ -1,17 +1,19 @@
 ---
 tags:
-- llm
-- transformers
-- attention
-- kv-cache
-- inference
-- fundamentals
+  - llm
+  - transformers
+  - attention
+  - kv-cache
+  - inference
+  - learning
 source: https://x.com/amitiitbhu/status/2037413998279491927
 date: 2026-03-27
 type: bookmark
 author: Amit Shekhar (@amitiitbhu)
 raw: '[[raw/amitiitbhu_2037413998279491927]]'
 description: What is KV Cache in LLMs?
+status: current
+as_of: 2026-03-27
 ---
 
 # What is KV Cache in LLMs?

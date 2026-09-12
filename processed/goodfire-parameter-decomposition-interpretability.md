@@ -1,15 +1,15 @@
 ---
 tags:
-- interpretability
-- models
-- parameter-decomposition
-- sae
-- causal-ablation
+  - interpretability
+  - models
+  - sparse-autoencoders
 source: https://x.com/leedsharkey/status/2051717264286609516
 raw: '[[raw/leedsharkey_2051717264286609516]]'
 date: 2026-05-05
 type: note
 description: 'Goodfire: Parameter Decomposition for Model Interpretability'
+status: current
+as_of: 2026-05-05
 ---
 
 # Goodfire: Parameter Decomposition for Model Interpretability

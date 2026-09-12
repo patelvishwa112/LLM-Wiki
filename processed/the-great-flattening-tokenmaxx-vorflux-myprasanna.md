@@ -1,12 +1,25 @@
 ---
 type: bookmark
 description: "Prasanna S (ex-Rippling CTO) argues frontier coding models are already superhuman: the scarce resource is harnessed judgment (tokenmaxx, not peoplemaxx), cloud full-stack sandboxes, and six lifecycle bottlenecks ending in while-you-sleep merges — positioned as Vorflux."
-tags: ["agents", "harness-engineering", "agent-harness", "tokenmaxxing", "cloud-agents", "multi-agent", "orchestration", "verification", "review", "cost-optimization", "vorflux", "agent-ops", "enterprise"]
+tags:
+  - agents
+  - harness-engineering
+  - agent-harness
+  - cost-optimization
+  - multi-agent
+  - orchestration
+  - verification
+  - coding-tools
+  - projects
+  - agent-ops
+  - enterprise
 source: https://x.com/myprasanna/status/2077065557204222238
 date: 2026-07-14
 author: myprasanna
 summary: "Prasanna S (ex-Rippling CTO) argues frontier coding models are already superhuman: the scarce resource is harnessed judgment (tokenmaxx, not peoplemaxx), cloud full-stack sandboxes, and six lifecycle bottlenecks ending in while-you-sleep merges — positioned as Vorflux."
 raw: "[[raw/myprasanna_2077065557204222238]]"
+status: current
+as_of: 2026-07-14
 ---
 
 # The Great Flattening

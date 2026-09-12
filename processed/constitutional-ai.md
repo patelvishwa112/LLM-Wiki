@@ -4,9 +4,9 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- alignment
-- constitutional-ai
-- rlhf
+  - alignment
+  - constitutional-ai
+  - rlhf
 sources:
 - raw/anthropic/papers/arxiv-2212.08073.md
 - raw/anthropic/papers/arxiv-2310.13798.md
@@ -14,6 +14,7 @@ sources:
 - raw/anthropic/articles/anthropic-news-claude-new-constitution.md
 confidence: high
 description: Constitutional AI
+status: current
 ---
 
 # Constitutional AI

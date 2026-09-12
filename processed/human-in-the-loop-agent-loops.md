@@ -1,16 +1,15 @@
 ---
 tags:
-- agents
-- loop-engineering
-- claude-code
-- agent-harness
-- evals
-- verification
-- mcp
-- productivity
-- cursor
-- cloud-agents
-- multi-agent
+  - agents
+  - loop-engineering
+  - claude-code
+  - agent-harness
+  - evals
+  - verification
+  - mcp
+  - productivity
+  - coding-tools
+  - multi-agent
 source: https://x.com/ericzakariasson/status/2070493377267646797
 date: 2026-06-26
 type: bookmark
@@ -26,6 +25,8 @@ description: 'Eric Zakariasson (Cursor): long agent tasks need a scorable defini
   explicit stop conditions, /notify via MCP (Slack) for human-in-the-loop decisions,
   cloud runners for multi-hour work, and ~3–5 parallel loops with a cap when pings
   stack up.'
+status: current
+as_of: 2026-06-26
 ---
 
 # Human in the /loop

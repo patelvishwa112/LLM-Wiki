@@ -3,15 +3,13 @@ tags:
   - agents
   - agent-harness
   - production
-  - langgraph
-  - langchain
-  - langsmith
+  - agent-frameworks
+  - observability
   - rag
   - evals
-  - observability
-  - fastapi
-  - prompt-injection
-  - semantic-cache
+  - web-dev
+  - security
+  - cost-optimization
 source: https://sarthakai.substack.com/p/making-an-ai-agent-production-ready
 date: 2026-07-07
 type: bookmark
@@ -19,6 +17,8 @@ description: "Sarthak Rastogi tutorial — production Apple-style support bot wi
 author: Sarthak Rastogi
 summary: "Sarthak Rastogi tutorial — production Apple-style support bot with FastAPI, LangGraph, GPTCache, Presidio, Rival AI, PageIndex RAG, Ragas validation, LangSmith."
 raw: "[[raw/sarthakai_making-an-ai-agent-production-ready]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # Making an AI Agent Production-Ready (tutorial)

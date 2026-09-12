@@ -1,12 +1,12 @@
 ---
 tags:
-- claude-code
-- agents
-- skills
-- feedback-loops
-- verification
-- code-review
-- claude
+  - claude-code
+  - agents
+  - skills
+  - loop-engineering
+  - verification
+  - coding-tools
+  - claude
 source: https://x.com/delba_oliveira/status/2062203743387459836
 date: 2026-06-03
 type: bookmark
@@ -14,6 +14,8 @@ author: Delba Oliveira (Anthropic)
 raw: '[[raw/delbaoliveira_2062203743387459836]]'
 description: 'Feedback Loops: Help Claude Code Complete Ambitious Tasks With Less
   Babysitting'
+status: current
+as_of: 2026-06-03
 ---
 
 # Feedback Loops: Help Claude Code Complete Ambitious Tasks With Less Babysitting

@@ -1,12 +1,9 @@
 ---
 tags:
-- robotics
-- vla
-- world-models
-- vlm
-- action-chunking
-- self-improvement
-- egocentric-data
+  - robotics
+  - world-models
+  - multimodal
+  - productivity
 source: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles
 date: 2026-06-12
 type: bookmark
@@ -20,6 +17,8 @@ description: 'First-principles overview of modern AI robotics: policy as a funct
   VLM backbone + action expert (VLA), chunking vs discrete actions, edge vs cloud
   inference, data bottleneck (teleoperation vs egocentric), training ladder, RECAP
   self-improvement, and the data/compute/latency tradeoffs that define the field.'
+status: current
+as_of: 2026-06-12
 ---
 
 # An Overview of Modern AI Robotics from First Principles

@@ -1,16 +1,16 @@
 ---
 tags:
-- agents
-- agent-harness
-- harness-engineering
-- enterprise
-- langchain
-- evals
-- observability
-- agent-memory
-- continual-learning
-- cost-optimization
-- ai-strategy
+  - agents
+  - agent-harness
+  - harness-engineering
+  - enterprise
+  - agent-frameworks
+  - evals
+  - observability
+  - agent-memory
+  - continual-learning
+  - cost-optimization
+  - ai-strategy
 source: https://x.com/hwchase17/status/2081002647814094888
 date: 2026-07-25
 author: Harrison Chase (@hwchase17)
@@ -18,6 +18,8 @@ type: bookmark
 description: "Own your intelligence: control model optionality + harness + context/memory; own cost/quality/risk/observability; compound via traces→feedback→evals. Generic API intelligence is not the moat — adapted systems are."
 summary: "Own your intelligence: control model optionality + harness + context/memory; own cost/quality/risk/observability; compound via traces→feedback→evals. Generic API intelligence is not the moat — adapted systems are."
 raw: "[[raw/hwchase17_2081002647814094888]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Own your intelligence (Harrison Chase)

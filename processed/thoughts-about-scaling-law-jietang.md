@@ -1,5 +1,15 @@
 ---
-tags: ["scaling-laws", "training", "post-training", "moe", "inference", "pretraining", "glm", "models", "rl", "ai-strategy"]
+tags:
+  - scaling-laws
+  - training
+  - post-training
+  - moe
+  - inference
+  - pretraining
+  - frontier-labs
+  - models
+  - rl
+  - ai-strategy
 source: https://x.com/jietang/status/2089941544581403107
 date: 2026-08-19
 type: bookmark
@@ -7,6 +17,8 @@ description: "Jie Tang (Zhipu) — multi-dial scaling: params+data+inference+MoE
 author: jietang
 summary: "Jie Tang (Zhipu) — multi-dial scaling: params+data+inference+MoE depth; GLM-5.3 post-training-only gains vs 5.2 same base."
 raw: "[[raw/jietang_2089941544581403107]]"
+status: current
+as_of: 2026-08-19
 ---
 
 # Thoughts About Scaling Law (Jie Tang / Zhipu)

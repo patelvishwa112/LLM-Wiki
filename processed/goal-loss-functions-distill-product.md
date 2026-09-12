@@ -1,8 +1,7 @@
 ---
 tags:
-- agents
-- prompt-engineering
-- goal-execution
+  - agents
+  - prompt-engineering
 source: https://x.com/elvissun/status/2065035615800864954
 date: 2026-06-12
 type: bookmark
@@ -13,6 +12,8 @@ raw: '[[raw/elvissun_2065035615800864954]]'
 related: []
 description: '/goal + Loss Functions: How to Distill a Product in 30 Hours with One
   Prompt [Full Playbook]'
+status: current
+as_of: 2026-06-12
 ---
 
 # /goal + Loss Functions: How to Distill a Product in 30 Hours with One Prompt [Full Playbook]

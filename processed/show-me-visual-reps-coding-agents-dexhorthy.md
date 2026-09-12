@@ -1,5 +1,15 @@
 ---
-tags: ["skills", "coding-tools", "agents", "agent-harness", "prompt-engineering", "claude-code", "ux", "productivity", "progressive-disclosure", "design"]
+tags:
+  - skills
+  - coding-tools
+  - agents
+  - agent-harness
+  - prompt-engineering
+  - claude-code
+  - web-dev
+  - productivity
+  - context-engineering
+  - product
 source: https://x.com/dexhorthy/status/2087569590268391897
 date: 2026-08-12
 type: bookmark
@@ -7,6 +17,8 @@ description: "HumanLayer /show-me skill — force coding agents to answer with t
 author: dexhorthy
 summary: "HumanLayer /show-me skill — force coding agents to answer with trees, stacks, diffs, types, Mermaid/HTML instead of prose walls."
 raw: "[[raw/dexhorthy_2087569590268391897]]"
+status: current
+as_of: 2026-08-12
 ---
 
 # /show-me — compact visual reps for coding agents

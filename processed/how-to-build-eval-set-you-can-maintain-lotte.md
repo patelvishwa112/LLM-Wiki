@@ -1,5 +1,12 @@
 ---
-tags: ["evals", "observability", "agents", "llm-judges", "error-analysis", "production", "agent-ops", "langfuse", "verification"]
+tags:
+  - evals
+  - observability
+  - agents
+  - llm-judges
+  - production
+  - agent-ops
+  - verification
 source: https://x.com/lotte_verheyden/status/2089838277729890437
 date: 2026-08-18
 type: bookmark
@@ -7,6 +14,8 @@ description: "Langfuse Academy — maintainable eval sets: goals vs guardrails v
 author: lotte_verheyden
 summary: "Langfuse Academy — maintainable eval sets: goals vs guardrails vs ops; error analysis; filter one-time fixes; tie metrics to decisions; Goodhart."
 raw: "[[raw/lotte_verheyden_2089838277729890437]]"
+status: current
+as_of: 2026-08-18
 ---
 
 # How to build an eval set you can maintain

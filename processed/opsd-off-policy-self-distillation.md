@@ -1,16 +1,11 @@
 ---
 tags:
-- rl
-- off-policy
-- self-distillation
-- opsd
-- opd
-- training
-- llm
-- agents
-- grpo
-- distillation
-- policy-optimization
+  - rl
+  - distillation
+  - projects
+  - training
+  - llm
+  - agents
 source: https://x.com/ar0cket1/status/2054108160450064571
 type: bookmark
 summary: 'ar0cket1 shares early experimental results on Off-Policy Self-Distillation
@@ -22,6 +17,8 @@ description: 'ar0cket1 shares early experimental results on Off-Policy Self-Dist
   (OPSD). Goal: achieve RL-like performance upper bounds while retaining OPD''s sample
   efficiency and training stability. Work in progress after 1+ week of experiments,
   with results shared via X Article cover image.'
+status: current
+as_of: 2026-06-13
 ---
 
 # Off-Policy Self-Distillation (OPSD)

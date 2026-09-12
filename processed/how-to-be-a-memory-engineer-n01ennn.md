@@ -1,5 +1,14 @@
 ---
-tags: ["agent-memory", "agents", "agent-harness", "memory", "forgetting", "kv-cache", "observability", "harness-engineering", "cost-optimization", "context-management"]
+tags:
+  - agent-memory
+  - agents
+  - agent-harness
+  - continual-learning
+  - kv-cache
+  - observability
+  - harness-engineering
+  - cost-optimization
+  - context-engineering
 source: https://x.com/n01ennn/status/2083971749079581120
 date: 2026-08-02
 type: bookmark
@@ -7,6 +16,8 @@ description: "Memory engineering as cost/utility/control/hardware discipline —
 author: n01ennn
 summary: "Memory engineering as cost/utility/control/hardware discipline — Stanford write-path cost, Microsoft utility density, Anthropic file control, Nvidia KV/HBM."
 raw: "[[raw/n01ennn_2083971749079581120]]"
+status: current
+as_of: 2026-08-02
 ---
 
 # How to be a Memory Engineer (@n01ennn)

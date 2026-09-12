@@ -1,15 +1,16 @@
 ---
 tags:
-- agents
-- hermes-agent
-- multi-agent
-- productivity
-- agent-crews
+  - agents
+  - hermes
+  - multi-agent
+  - productivity
 source: https://x.com/vmiss33/status/2050984556790939731
 raw: '[[raw/vmiss33_2050984556790939731]]'
 date: 2026-05-03
 type: bookmark
 description: Hermes Agent Use Cases — Multi-Agent Setup and Philosophy
+status: current
+as_of: 2026-05-03
 ---
 
 # Hermes Agent Use Cases — Multi-Agent Setup and Philosophy

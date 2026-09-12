@@ -1,11 +1,10 @@
 ---
 tags:
-- agent-loops
-- wtf-is-a-loop
-- skills
-- agent-architecture
-- prompt-engineering
-- self-improving-systems
+  - loop-engineering
+  - skills
+  - agent-architecture
+  - prompt-engineering
+  - recursive-self-improvement
 source: https://x.com/anatolikopadze/status/2068328135611822149
 type: bookmark
 related:
@@ -29,6 +28,7 @@ description: '"Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift 
   Goal + Verify (the most critical element) + State + Stop condition. Includes when
   loops are worth building, coding applications, cost considerations, and a lightweight
   tool (Mira) for non-engineers."'
+status: current
 ---
 
 # AI Loops: From One Prompt to Autonomous Workflows

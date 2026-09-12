@@ -1,5 +1,14 @@
 ---
-tags: ["agents", "agent-harness", "harness-engineering", "loop-engineering", "graph-engineering", "verification", "claude-code", "subagents", "production"]
+tags:
+  - agents
+  - agent-harness
+  - harness-engineering
+  - loop-engineering
+  - knowledge-graph
+  - verification
+  - claude-code
+  - subagents
+  - production
 source: https://x.com/marfinxx/status/2081687570488954915
 date: 2026-08-01
 type: bookmark
@@ -7,6 +16,8 @@ description: "Unifies harness, loop, and graph as nested production layers endin
 author: marfinxx
 summary: "Unifies harness, loop, and graph as nested production layers ending in adversarial red-team gate and state hashing."
 raw: "[[raw/marfinxx_2081687570488954915]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # Master Agent Architecture: Harness + Loop + Graph

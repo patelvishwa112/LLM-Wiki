@@ -1,15 +1,16 @@
 ---
 tags:
-- goal-execution
-- agents
-- agent-loops
-- orchestration
-- productivity
-- codex
+  - agents
+  - loop-engineering
+  - orchestration
+  - productivity
+  - codex
 source: https://x.com/dkundel/status/2062650378089594955
 type: bookmark
 ingested: 2026-06-19
 description: A guide to /goal 🥅
+status: current
+as_of: 2026-06-19
 ---
 
 # A guide to /goal 🥅

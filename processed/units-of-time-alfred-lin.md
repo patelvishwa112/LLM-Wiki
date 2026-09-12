@@ -1,16 +1,16 @@
 ---
 tags:
-- philosophy
-- productivity
-- career
-- life
-- time-management
+  - decision-making
+  - productivity
+  - career
 source: https://x.com/alfred_lin/status/2061806871254835213
 date: 2026-06-02
 type: bookmark
 author: Alfred Lin (Sequoia)
 raw: '[[raw/alfredlin_2061806871254835213]]'
 description: Units of Time
+status: current
+as_of: 2026-06-02
 ---
 
 # Units of Time

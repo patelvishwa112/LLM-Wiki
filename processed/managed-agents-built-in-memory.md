@@ -1,10 +1,10 @@
 ---
 tags:
-- agents
-- memory
-- anthropic
-- enterprise
-- agent-ops
+  - agents
+  - agent-memory
+  - anthropic
+  - enterprise
+  - agent-ops
 source: https://claude.com/blog/claude-managed-agents-memory
 raw: '[[raw/anthropic-managed-agents-memory]]'
 date: 2026-06-07
@@ -20,6 +20,8 @@ related:
 description: Built-in memory for Claude Managed Agents lets agents learn across sessions
   using a filesystem-based memory layer — portable, observable, and optimized for
   long-running multi-session work with scoped permissions and audit logs.
+status: current
+as_of: 2026-06-07
 ---
 
 # Managed Agents: Built-in Memory

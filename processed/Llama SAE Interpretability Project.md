@@ -1,13 +1,12 @@
 ---
 tags:
-  - mechanistic-interpretability
+  - interpretability
   - sparse-autoencoders
-  - sae-steering
-  - llama
-  - mlx
+  - frontier-labs
+  - inference
   - llm
-  - research
-  - personal-project
+  - ai-research
+  - projects
 type: concept
 description: "Personal Llama SAE interpretability project — sparse autoencoders and steering on local MLX stack."
 created: 2026-05-30

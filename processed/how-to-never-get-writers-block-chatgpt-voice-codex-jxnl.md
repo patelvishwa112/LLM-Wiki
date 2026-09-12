@@ -1,12 +1,22 @@
 ---
 type: bookmark
 description: "Jason (@jxnlco) replaces human ghostwriting with ChatGPT live voice + Codex: talk-walk transcripts, only-use-my-words essay skill, then FFmpeg/Remotion video essay edits — open skills in jxnl/dots."
-tags: ["writing", "skills", "codex", "chatgpt", "voice", "content-strategy", "creator-economy", "productivity", "ghostwriting", "video", "ffmpeg", "remotion"]
+tags:
+  - writing
+  - skills
+  - codex
+  - frontier-labs
+  - multimodal
+  - creator-economy
+  - productivity
+  - web-dev
 source: https://x.com/jxnlco/status/2076846537230160251
 date: 2026-07-14
 author: jxnlco
 summary: "Jason (@jxnlco) replaces human ghostwriting with ChatGPT live voice + Codex: talk-walk transcripts, only-use-my-words essay skill, then FFmpeg/Remotion video essay edits — open skills in jxnl/dots."
 raw: "[[raw/jxnlco_2076846537230160251]]"
+status: current
+as_of: 2026-07-14
 ---
 
 # How to never get writer's block with ChatGPT Voice and Codex

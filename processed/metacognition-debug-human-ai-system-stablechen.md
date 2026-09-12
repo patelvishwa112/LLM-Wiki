@@ -1,5 +1,14 @@
 ---
-tags: ["metacognition", "agents", "agent-harness", "context-management", "productivity", "verification", "human-ai", "attention", "debugging", "harness-engineering"]
+tags:
+  - interpretability
+  - agents
+  - agent-harness
+  - context-engineering
+  - productivity
+  - verification
+  - human-in-the-loop
+  - attention
+  - harness-engineering
 source: https://x.com/stablechen/status/2079624266707054825
 date: 2026-07-21
 type: bookmark
@@ -7,6 +16,8 @@ description: "Will Chen frames metacognition as debugging the human half of huma
 author: stablechen
 summary: "Will Chen frames metacognition as debugging the human half of human–AI systems via four operational checks (level, temperature, reality contact, budget)."
 raw: "[[raw/stablechen_2079624266707054825]]"
+status: current
+as_of: 2026-07-21
 ---
 
 # Metacognition as systems debugging (human–AI)

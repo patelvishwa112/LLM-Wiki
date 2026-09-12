@@ -6,7 +6,6 @@ tags:
   - agents
   - prompt-engineering
   - planning
-  - artifacts
   - context-engineering
   - coding-tools
 source: https://x.com/trq212/status/2073100352921215386
@@ -16,6 +15,8 @@ author: trq212
 description: "Thariq (Anthropic) on Fable 5—map (prompts/skills) vs territory (codebase); bottleneck is clarifying unknowns via blind-spot passes, prototypes, interviews, plans, implementation notes."
 summary: "Thariq (Anthropic) on Fable 5—map (prompts/skills) vs territory (codebase); bottleneck is clarifying unknowns via blind-spot passes, prototypes, interviews, plans, implementation notes."
 raw: "[[raw/trq212_2073100352921215386]]"
+status: current
+as_of: 2026-07-03
 ---
 
 # Claude Fable — map, territory, and unknowns

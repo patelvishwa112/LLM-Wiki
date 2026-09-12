@@ -1,5 +1,10 @@
 ---
-tags: ["second-brain", "productivity", "ai-augmentation", "knowledge-work", "career", "context-engineering", "human-ai"]
+tags:
+  - second-brain
+  - productivity
+  - career
+  - context-engineering
+  - human-in-the-loop
 source: https://x.com/fortelabs/status/2093396426302656811
 date: 2026-08-28
 type: bookmark
@@ -7,6 +12,8 @@ description: "Tiago Forte on HBS Cybernetic Teammate (P&G): 1 person + AI matche
 author: fortelabs
 summary: "Tiago Forte on HBS Cybernetic Teammate (P&G): 1 person + AI matched a two-person team; pitch for owned Personal Context Management."
 raw: "[[raw/fortelabs_2093396426302656811]]"
+status: current
+as_of: 2026-08-28
 ---
 
 # One person with AI outperformed an entire team

@@ -1,5 +1,12 @@
 ---
-tags: ["rl", "training", "agents", "credit-assignment", "rlvr", "grpo", "post-training", "tool-use", "qwen", "microsoft-research", "long-horizon", "browsecomp"]
+tags:
+  - rl
+  - training
+  - agents
+  - post-training
+  - tool-use
+  - frontier-labs
+  - benchmarks
 source: https://x.com/sharonyixuanli/status/2078854876084502825
 date: 2026-07-20
 type: bookmark
@@ -9,6 +16,8 @@ description: "TRACE densifies outcome RL for long-horizon tool agents: frozen re
 summary: "TRACE densifies outcome RL for long-horizon tool agents: frozen ref model scores gold-answer predictability per prefix; TD deltas become turn rewards (no critic, process labels, MC rollouts, or LLM judge). BrowseComp-Plus big gains; beats GRPO/GSPO/GiGPO."
 raw: "[[raw/sharonyixuanli_2078854876084502825]]"
 paper: https://arxiv.org/abs/2607.13988
+status: current
+as_of: 2026-07-20
 ---
 
 # TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents

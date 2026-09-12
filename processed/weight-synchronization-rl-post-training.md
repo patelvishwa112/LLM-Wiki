@@ -1,15 +1,15 @@
 ---
 tags:
-- rl
-- reinforcement-learning
-- async-rl
-- training
-- weight-synchronization
-- infrastructure
+  - rl
+  - training
+  - distributed-systems
+  - infrastructure
 source: https://x.com/vivek_2332/status/2067644233511743528
 type: bookmark
 ingested: 2026-06-18
 description: Weight Synchronization in RL Post-Training
+status: current
+as_of: 2026-06-18
 ---
 
 # Weight Synchronization in RL Post-Training

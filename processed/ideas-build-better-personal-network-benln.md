@@ -1,5 +1,8 @@
 ---
-tags: ["networking", "career", "productivity", "soft-skills", "relationships", "communication"]
+tags:
+  - career
+  - productivity
+  - communication
 source: https://x.com/benln/status/2076351797673824318
 date: 2026-07-12
 type: bookmark
@@ -7,6 +10,8 @@ description: "Ben Lang (@benln) 15 tactical network-building habits: specific as
 author: benln
 summary: "Ben Lang (@benln) 15 tactical network-building habits: specific asks, low-friction help, thank-yous, active listening, connector habits, consistency, and earned optimism."
 raw: "[[raw/benln_2076351797673824318]]"
+status: current
+as_of: 2026-07-12
 ---
 
 # Ideas to help you build a better personal network — @benln

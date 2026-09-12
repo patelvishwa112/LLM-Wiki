@@ -2,7 +2,7 @@
 tags:
   - anthropic
   - claude-code
-  - software-factory
+  - ai-engineering
   - agent-harness
   - harness-engineering
   - evals
@@ -17,6 +17,8 @@ description: "Anthropic Applied AI playbook — rebuild SDLC around agents: inte
 summary: "Anthropic Applied AI playbook — rebuild SDLC around agents: intent.md through maintain loop; humans at gates; skills/hooks/evals as the control plane."
 raw: "[[raw/claude_ai-native-sdlc-playbook]]"
 published: 2026-08-21
+status: current
+as_of: 2026-08-21
 ---
 
 # The AI-Native SDLC playbook

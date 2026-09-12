@@ -1,14 +1,12 @@
 ---
 tags:
-- evals
-- agent-evaluation
-- simulation
-- rubrics
-- model-routing
-- fine-tuning
-- security
-- agent-ops
-- agent-architecture
+  - evals
+  - world-models
+  - inference
+  - fine-tuning
+  - security
+  - agent-ops
+  - agent-architecture
 source: https://x.com/garrettlord/status/2068754262440767500
 type: bookmark
 related:
@@ -41,6 +39,7 @@ description: '"Garrett Lord (@GarrettLord, CEO of Handshake) argues that ''evals
   as foundation, segmented AI strategy per function, security for agentic era, optimized
   model routing, and fine-tuning as a core discipline. Includes a detailed ''Eval
   Suite'' architecture diagram."'
+status: current
 ---
 
 # Evals: the strategic IP that will define the next era of AI

@@ -1,13 +1,9 @@
 ---
 tags:
-- mcp
-- architecture
-- hosts
-- clients
-- servers
-- tools
-- resources
-- prompts
+  - mcp
+  - architecture
+  - tool-use
+  - prompt-engineering
 source: https://x.com/techyoutbe/status/2063553215623577693
 date: 2026-06-07
 type: bookmark
@@ -23,6 +19,8 @@ description: 'Clean mental model for MCP: Host orchestrates user interaction, Cl
   real work. Emphasizes separation of concerns, proper capability modeling (tools
   for actions, resources for data, prompts for templates), common anti-patterns, and
   enterprise deployment shapes.'
+status: current
+as_of: 2026-06-07
 ---
 
 # MCP Core Architecture Explained

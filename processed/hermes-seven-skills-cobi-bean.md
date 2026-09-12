@@ -1,14 +1,12 @@
 ---
 tags:
-- hermes
-- skills
-- agent-harness
-- agent-ops
-- obsidian
-- soul-md
-- mermaid
-- meta-skills
-- superpowers
+  - hermes
+  - skills
+  - agent-harness
+  - agent-ops
+  - obsidian
+  - decision-making
+  - data-engineering
 source: https://x.com/cobi_bean/status/2067962559441908208
 raw: '[[raw/cobi_bean_2067962559441908208]]'
 date: 2026-06-22
@@ -22,6 +20,8 @@ description: 'Cobi Bean''s stack for serious Hermes agents: if you repeat an ins
   twice, encode it as a skill — seven picks cover design-first (Superpowers), soul.md
   grading, repo project memory, Obsidian agent wiki, gogcli gates, Mermaid diagrams,
   and a meta skill factory.'
+status: current
+as_of: 2026-06-22
 ---
 
 # Seven Skills for a Serious Hermes Agent

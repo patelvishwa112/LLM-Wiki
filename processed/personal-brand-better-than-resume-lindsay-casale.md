@@ -1,14 +1,10 @@
 ---
 tags:
   - career
-  - personal-brand
-  - productivity
-  - content-strategy
-  - writing
-  - marketing
-  - networking
   - creator-economy
-  - audience-building
+  - productivity
+  - writing
+  - gtm
 source: https://x.com/lindsaycasale/status/2077425295033036987
 date: 2026-07-15
 type: bookmark
@@ -16,6 +12,8 @@ description: "Lindsay Casale — personal brand beats a resume; 5 positioning qu
 author: lindsaycasale
 summary: "Lindsay Casale — personal brand beats a resume; 5 positioning questions, messaging/presence/content/distribution, stack visibility reps."
 raw: "[[raw/lindsaycasale_2077425295033036987]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # Your Personal Brand is Better Than a Resume

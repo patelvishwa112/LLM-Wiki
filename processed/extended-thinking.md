@@ -4,8 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- extended-thinking
-- alignment
+  - reasoning
+  - alignment
 sources:
 - raw/anthropic/articles/anthropic-research-visible-extended-thinking.md
 - raw/anthropic/articles/anthropic-research-reasoning-models-dont-say-think.md
@@ -13,6 +13,7 @@ sources:
 - raw/anthropic/papers/arxiv-2307.13702.md
 confidence: high
 description: Extended Thinking
+status: current
 ---
 
 # Extended Thinking

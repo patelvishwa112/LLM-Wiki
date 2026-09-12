@@ -10,20 +10,15 @@ authors:
 published: 2026-05-29
 type: article
 tags:
-- pytorch
-- profiling
-- cuda
-- gpu-optimization
-- torch.compile
-- cublas
-- perfetto
-- kernel-analysis
+  - training
+  - gpu
 related:
 - '[[custom-kernels-agent-skills]]'
 - '[[accelerating-generative-ai]]'
 - '[[delta-weight-sync]]'
 raw: '[[raw/huggingface_torch-profiler]]'
 description: 'Profiling in PyTorch: A Beginner''s Guide to torch.profiler'
+status: current
 ---
 
 # Profiling in PyTorch: A Beginner's Guide to torch.profiler

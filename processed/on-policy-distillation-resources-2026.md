@@ -1,14 +1,15 @@
 ---
 tags:
-- training
-- on-policy-distillation
-- rl
-- distillation
+  - training
+  - distillation
+  - rl
 source: https://x.com/neural_avb/status/2054640032087146727
 raw: '[[raw/neural_avb_2054640032087146727]]'
 date: 2026-05-13
 type: note
 description: On-Policy Distillation Resources (2026)
+status: current
+as_of: 2026-05-13
 ---
 
 # On-Policy Distillation Resources (2026)

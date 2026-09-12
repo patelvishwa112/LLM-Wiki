@@ -1,13 +1,11 @@
 ---
 tags:
-- foundation-models
-- vlm
-- vla
-- world-models
-- alphaFold
-- esm
-- multimodal
-- architecture
+  - models
+  - multimodal
+  - robotics
+  - world-models
+  - ml-research
+  - architecture
 source: https://x.com/bqbrady/status/2064055370809778371
 date: 2026-06-08
 type: bookmark
@@ -21,6 +19,8 @@ description: 'Deep, intuition-level survey of foundation model architecture path
   image encoders (SigLIP/ViT), video (DiT + flow matching), audio, Mixture of Transformers,
   realtime interaction models (Moshi-style), VLAs (RT-2 lineage + memory harnesses),
   world models, and biological models (ESM, AlphaFold 2/3). Includes glossary.'
+status: current
+as_of: 2026-06-08
 ---
 
 # Notes on Foundation Models

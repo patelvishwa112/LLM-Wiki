@@ -1,6 +1,6 @@
 ---
 tags:
-  - software-factory
+  - ai-engineering
   - agents
   - verification
   - interpretability
@@ -16,6 +16,8 @@ description: "dzhng — slop is a verification bottleneck; treat unread first-pa
 summary: "dzhng — slop is a verification bottleneck; treat unread first-party code as interpretability: seams, sensors, and a least-confident decision ledger from a separate auditor."
 raw: "[[raw/dzhng_2090252351533973768]]"
 published: 2026-08-19
+status: current
+as_of: 2026-08-19
 ---
 
 # Building software factories (with no slop)

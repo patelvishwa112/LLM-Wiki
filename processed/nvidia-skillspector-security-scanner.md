@@ -1,27 +1,23 @@
 ---
 tags:
-- skills
-- security
-- supply-chain
-- agent-security
-- nvidia
-- skillspector
-- static-analysis
-- claude-code
-- codex
-- antigravity
-- cursor
-- mcp
-- prompt-injection
-- ci-cd
-- github-actions
-- sarif
+  - skills
+  - security
+  - frontier-labs
+  - evals
+  - verification
+  - claude-code
+  - codex
+  - coding-tools
+  - mcp
+  - automation
 source: https://x.com/dani_avila7/status/2063336153630011728
 raw: '[[raw/dani_avila7_2063336153630011728]]'
 type: article
 author: Daniel San (@dani_avila7)
 date: 2026-06-06
 description: 'NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills'
+status: current
+as_of: 2026-06-06
 ---
 
 # NVIDIA SkillSpector: Static Security Scanner for AI Agent Skills

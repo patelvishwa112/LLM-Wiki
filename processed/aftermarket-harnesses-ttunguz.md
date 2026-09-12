@@ -1,17 +1,15 @@
 ---
 tags:
-- harness-engineering
-- agent-harness
-- cost-optimization
-- prompt-caching
-- venture-capital
-- ai-economics
-- ai-strategy
-- cursor
-- claude-code
-- codex
-- token-economy
-- investing
+  - harness-engineering
+  - agent-harness
+  - cost-optimization
+  - venture-capital
+  - ai-economics
+  - ai-strategy
+  - coding-tools
+  - claude-code
+  - codex
+  - finance
 source: https://x.com/ttunguz/status/2082158740107866459
 date: 2026-07-28
 type: bookmark
@@ -19,6 +17,8 @@ author: Tomasz Tunguz (@ttunguz)
 raw: "[[raw/ttunguz_2082158740107866459]]"
 description: "VC thesis — aftermarket harnesses move coding benchmarks more than model choice; Cursor vs native Codex/Claude Code deltas"
 summary: "Tunguz argues AI harnesses (context, cache, retrieval, tools) now dominate quality and cost vs the underlying model, citing Endor Labs swings of +25.7 pts GPT-5.5 Codex→Cursor and Opus 4.7 Claude Code→Cursor."
+status: current
+as_of: 2026-07-28
 ---
 
 # Aftermarket Harnesses

@@ -1,16 +1,14 @@
 ---
 tags:
-- claude
-- x
-- viral-content
-- mrbeast
-- content-creation
-- prompt-engineering
-- growth
+  - claude
+  - creator-economy
+  - prompt-engineering
 source: https://x.com/mattepstein/status/2066664675542999369
 type: bookmark
 ingested: 2026-06-15
 description: Using Claude to go Viral on X… (Mr. Beasts Framework)
+status: current
+as_of: 2026-06-15
 ---
 
 # Using Claude to go Viral on X… (Mr. Beasts Framework)

@@ -1,11 +1,8 @@
 ---
 tags:
-- gpu
-- gpu-architecture
-- cuda
-- parallelism
-- fundamentals
-- hardware
+  - gpu
+  - distributed-systems
+  - learning
 source: https://x.com/rocky_t07/status/2059997637726937492
 raw: '[[raw/rocky_t07_2059997637726937492]]'
 date: 2026-05-28
@@ -21,6 +18,8 @@ description: A first-principles walkthrough of how GPUs execute code — from th
   hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline,
   to why GPUs revolutionized parallel computation. Includes the memory aid GBWT (Grid
   → Block → Warp → Thread).
+status: current
+as_of: 2026-05-28
 ---
 
 # How GPUs Execute Code — First Principles

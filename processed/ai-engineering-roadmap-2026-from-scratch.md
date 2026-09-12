@@ -1,27 +1,24 @@
 ---
 title: The 2026 AI Engineering Roadmap — Build It From Scratch, Ship the Tool
 tags:
-- ai-engineering
-- roadmap
-- '2026'
-- training
-- inference
-- agents
-- agent-harness
-- skills
-- mcp
-- safety
-- infrastructure
-- serving
-- transformer
-- kv-cache
-- fundamentals
-- from-scratch
-- courses
-- open-source
-- rag
-- multimodal
-- alignment
+  - ai-engineering
+  - product
+  - training
+  - inference
+  - agents
+  - agent-harness
+  - skills
+  - mcp
+  - safety
+  - infrastructure
+  - serving
+  - transformers
+  - kv-cache
+  - learning
+  - open-source
+  - rag
+  - multimodal
+  - alignment
 source: https://x.com/ghumare64/status/2063574610889560271
 date: 2026-06-07
 published: 2026-06-07
@@ -46,6 +43,8 @@ description: 'Rohit Ghumare''s 12-layer AI engineering roadmap for 2026, built a
   then ship a reusable SKILL.md artifact. Covers math → deep learning → transformers
   → LLMs → RAG → multimodal → MCP/A2A → agents → autonomous systems → infrastructure
   → safety → capstones.'
+status: current
+as_of: 2026-06-07
 ---
 
 # The 2026 AI Engineering Roadmap — Build It From Scratch, Ship the Tool

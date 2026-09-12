@@ -1,5 +1,11 @@
 ---
-tags: ["evals", "agents", "llm-judges", "observability", "arize", "trajectories", "agent-harness", "production"]
+tags:
+  - evals
+  - agents
+  - llm-judges
+  - observability
+  - agent-harness
+  - production
 source: https://x.com/aparnadhinak/status/2075688574960488558
 date: 2026-07-11
 type: bookmark
@@ -7,6 +13,8 @@ author: aparnadhinak
 description: "Aparna on paper→product Agent-as-a-Judge: trajectory failures, DevAI results, Swiss-cheese eval stack, Arize AX/Signal."
 summary: "Aparna on paper→product Agent-as-a-Judge: trajectory failures, DevAI results, Swiss-cheese eval stack, Arize AX/Signal."
 raw: "[[raw/aparnadhinak_2075688574960488558]]"
+status: current
+as_of: 2026-07-11
 ---
 
 # Agent-as-a-Judge — Trajectory Evals

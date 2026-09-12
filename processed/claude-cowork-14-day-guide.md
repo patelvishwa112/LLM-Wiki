@@ -1,12 +1,11 @@
 ---
 title: Claude Cowork — The 14-Day Guide to Desktop Automation
 tags:
-- claude
-- cowork
-- automation
-- productivity
-- desktop
-- workflows
+  - claude
+  - claude-cowork
+  - automation
+  - productivity
+  - workflows
 source: https://x.com/eng_khairallah1/status/2061735480862150850
 date: 2026-06-02
 published: 2026-06-02
@@ -15,6 +14,8 @@ authors:
 type: bookmark
 raw: '[[raw/eng_khairallah1_2061735480862150850]]'
 description: Claude Cowork — 14-Day Desktop Automation Guide
+status: current
+as_of: 2026-06-02
 ---
 
 # Claude Cowork — 14-Day Desktop Automation Guide

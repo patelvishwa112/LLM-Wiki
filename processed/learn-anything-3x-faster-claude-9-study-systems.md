@@ -1,23 +1,17 @@
 ---
 tags:
-- claude
-- learning
-- study-techniques
-- active-recall
-- spaced-repetition
-- feynman-technique
-- socratic-method
-- dual-coding
-- projects
-- artifacts
-- education
-- prompts
+  - claude
+  - learning
+  - projects
+  - prompt-engineering
 source: https://x.com/0xmorlex/status/2063238361926496345
 raw: '[[raw/0xmorlex_2063238361926496345]]'
 type: article
 author: Morlex (@0xMorlex)
 date: 2026-06-06
 description: 'How to Learn Anything 3x Faster with Claude: 9 Study Systems'
+status: current
+as_of: 2026-06-06
 ---
 
 # How to Learn Anything 3x Faster with Claude: 9 Study Systems

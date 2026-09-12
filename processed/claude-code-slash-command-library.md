@@ -1,11 +1,9 @@
 ---
 tags:
-- claude-code
-- slash-commands
-- skills
-- productivity
-- coding-tools
-- templates
+  - claude-code
+  - skills
+  - productivity
+  - coding-tools
 source: https://x.com/0x_rody/status/2063549084695158936
 raw: '[[raw/0x_rody_2063549084695158936]]'
 date: 2026-06-07
@@ -24,6 +22,8 @@ description: 'Claude Code slash commands are saved prompts in Markdown files. Su
   model) + prompt body with $ARGUMENTS. Includes 7 ready-to-ship commands: /review,
   /test, /migrate, /audit, /doc, /triage, /refactor. Build one a day for a week to
   handle 80% of routine work.'
+status: current
+as_of: 2026-06-07
 ---
 
 # Claude Code Slash Command Library

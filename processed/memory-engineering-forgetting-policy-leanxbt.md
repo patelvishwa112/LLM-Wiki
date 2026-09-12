@@ -1,5 +1,12 @@
 ---
-tags: ["agent-memory", "agents", "agent-harness", "context-management", "memory", "forgetting", "procedural-memory", "episodic-memory", "semantic-memory", "verification", "harness-engineering"]
+tags:
+  - agent-memory
+  - agents
+  - agent-harness
+  - context-engineering
+  - continual-learning
+  - verification
+  - harness-engineering
 source: https://x.com/leanxbt/status/2083915037635424462
 date: 2026-08-02
 type: bookmark
@@ -7,6 +14,8 @@ description: "Agent memory as four shelves plus engineered forgetting (TTL, evic
 author: leanxbt
 summary: "Agent memory as four shelves plus engineered forgetting (TTL, eviction by value, supersede) — good memory is a forgetting policy, not a dump."
 raw: "[[raw/leanxbt_2083915037635424462]]"
+status: current
+as_of: 2026-08-02
 ---
 
 # Memory Engineering: forgetting policy, not a store (@leanxbt)

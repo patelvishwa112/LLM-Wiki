@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "multi-agent", "orchestration", "loop-engineering", "verification", "agent-harness", "conductor", "harness-engineering"]
+tags:
+  - agents
+  - multi-agent
+  - orchestration
+  - loop-engineering
+  - verification
+  - agent-harness
+  - coding-tools
+  - harness-engineering
 source: https://x.com/leanxbt/status/2076679468186513600
 date: 2026-07-13
 type: bookmark
@@ -7,6 +15,8 @@ description: "leanxbt conductor build: decompose with mandatory checks, sequenti
 author: leanxbt
 summary: "leanxbt conductor build: decompose with mandatory checks, sequential dispatch, disk-materialized integration + seam tests, conductor-run oracles, multi-agent brakes and attribution."
 raw: "[[raw/leanxbt_2076679468186513600]]"
+status: current
+as_of: 2026-07-13
 ---
 
 # How to Build a Conductor — Multi-Agent Loops from Scratch (@leanxbt)

@@ -1,5 +1,8 @@
 ---
-tags: ["training", "fine-tuning", "agents", "trl"]
+tags:
+  - training
+  - fine-tuning
+  - agents
 source: https://x.com/SergioPaniego/status/2066498136273531363
 date: 2026-06-20
 type: bookmark
@@ -7,6 +10,8 @@ description: "Sergio Paniego: one prompt + Colab CLI + TRL QLoRA on free T4; age
 author: SergioPaniego
 summary: "Sergio Paniego: one prompt + Colab CLI + TRL QLoRA on free T4; agent writes SFT script, trackio Space, Hub adapter, self-debugs T4 precision."
 raw: "[[raw/SergioPaniego_2066498136273531363]]"
+status: current
+as_of: 2026-06-20
 ---
 
 # Fine-Tune a Model for Free From One Prompt (TRL + Colab CLI)

@@ -1,5 +1,13 @@
 ---
-tags: ["distillation", "training", "post-training", "rlhf", "sft", "reasoning", "ai-policy", "api-distillation", "behavior-cloning", "models"]
+tags:
+  - distillation
+  - training
+  - post-training
+  - rlhf
+  - fine-tuning
+  - reasoning
+  - ai-policy
+  - models
 source: https://x.com/completeskeptic/status/2080494182775521745
 blog_url: https://www.completeskeptic.com/p/is-it-even-possible-for-the-chinese
 date: 2026-07-24
@@ -8,6 +16,8 @@ description: "Ex-OpenAI RLHF co-author clarifies three distillation tiers and ar
 author: completeskeptic
 summary: "Ex-OpenAI RLHF co-author clarifies three distillation tiers and argues API-only behavior parroting can still transfer capability via style."
 raw: "[[raw/completeskeptic_2080494182775521745]]"
+status: current
+as_of: 2026-07-24
 ---
 
 # Behavior parroting — can Chinese labs distill US reasoning models?

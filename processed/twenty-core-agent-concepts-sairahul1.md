@@ -1,13 +1,13 @@
 ---
 tags:
-- agents
-- agent-harness
-- mcp
-- claude-code
-- fundamentals
-- observability
-- guardrails
-- subagents
+  - agents
+  - agent-harness
+  - mcp
+  - claude-code
+  - learning
+  - observability
+  - security
+  - subagents
 source: https://x.com/sairahul1/status/2069351848742629693
 date: 2026-06-24
 type: bookmark
@@ -19,6 +19,8 @@ raw: '[[raw/sairahul1_2069351848742629693]]'
 description: Framework-agnostic map of twenty recurring agent concepts across six
   layers, from execution loops and state through config, MCP, subagents, guardrails,
   and tracing.
+status: current
+as_of: 2026-06-24
 ---
 
 ## Key takeaways

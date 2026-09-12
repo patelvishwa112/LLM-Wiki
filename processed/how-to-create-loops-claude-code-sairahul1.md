@@ -14,6 +14,8 @@ description: "Rahul (@sairahul1) on persistent Claude loops — six parts, four-
 author: sairahul1
 summary: "Rahul (@sairahul1) on persistent Claude loops — six parts, four-file TASK/LOOP_INSTRUCTIONS/PROGRESS/outputs, verification, /loop vs /goal, permission ladder."
 raw: "[[raw/sairahul1_2074063593759227938]]"
+status: current
+as_of: 2026-07-06
 ---
 
 # How to Create Loops with Claude Code

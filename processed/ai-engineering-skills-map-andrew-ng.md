@@ -1,5 +1,14 @@
 ---
-tags: ["career", "ai-engineering", "agents", "evals", "coding-tools", "product", "agent-harness", "fundamentals", "roadmap", "hiring"]
+tags:
+  - career
+  - ai-engineering
+  - agents
+  - evals
+  - coding-tools
+  - product
+  - agent-harness
+  - learning
+  - hiring
 source: https://x.com/andrewyng/status/2088302050706686198
 date: 2026-08-14
 type: bookmark
@@ -7,6 +16,8 @@ description: "Andrew Ng AI Engineering Skills Map — four pillars: build/deploy
 author: andrewyng
 summary: "Andrew Ng AI Engineering Skills Map — four pillars: build/deploy AI apps, SWE fundamentals, coding agents, shape the build; continuous learning."
 raw: "[[raw/andrewyng_2088302050706686198]]"
+status: current
+as_of: 2026-08-14
 ---
 
 # The AI Engineering Skills Map (Andrew Ng)

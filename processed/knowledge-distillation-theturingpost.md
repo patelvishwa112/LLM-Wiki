@@ -1,10 +1,10 @@
 ---
 tags:
-- ml-research
-- training
-- distillation
-- efficiency
-- scaling-laws
+  - ml-research
+  - training
+  - distillation
+  - cost-optimization
+  - scaling-laws
 source: https://x.com/theturingpost/status/2068474648925216861
 linked_article: https://www.turingpost.com/p/kd
 type: bookmark
@@ -33,6 +33,7 @@ description: '"@TheTuringPost explains Knowledge Distillation (KD) as a core tec
   between classes) to a student model via softmax with temperature. Covers response-based,
   feature-based, and relation-based distillation, plus offline/online/self-distillation
   schemes. Highlights DeepSeek-R1 distillation momentum and scaling laws."'
+status: current
 ---
 
 # Knowledge Distillation (KD) — One of the Most Important Techniques for Smaller, Capable Models

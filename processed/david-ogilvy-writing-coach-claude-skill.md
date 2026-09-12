@@ -1,13 +1,10 @@
 ---
 tags:
   - writing
-  - copywriting
   - skills
   - claude
-  - content-strategy
   - creator-economy
   - productivity
-  - ogilvy
 source: https://x.com/nicolascole77/status/2072662998326415447
 date: 2026-07-02
 type: bookmark
@@ -15,6 +12,8 @@ author: nicolascole77
 description: "Nicolas Cole breaks down David Ogilvy's 1982 ten-rule writing memo and ships a Claude Skill that audits copy by severity with concrete fixes—not vague 'tighten it up' feedback."
 summary: "Nicolas Cole breaks down David Ogilvy's 1982 ten-rule writing memo and ships a Claude Skill that audits copy by severity with concrete fixes—not vague 'tighten it up' feedback."
 raw: "[[raw/nicolascole77_2072662998326415447]]"
+status: current
+as_of: 2026-07-02
 ---
 
 # David Ogilvy Writing Coach (Claude Skill)

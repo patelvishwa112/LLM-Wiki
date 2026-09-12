@@ -1,21 +1,16 @@
 ---
 tags:
-- kimi
-- kimi-k3
-- moonshot
-- architecture
-- linear-attention
-- kda
-- mla
-- kv-cache
-- inference
-- long-context
-- investing
-- ai-economics
-- hardware
-- memory
-- models
-- jevon-paradox
+  - frontier-labs
+  - architecture
+  - attention
+  - kv-cache
+  - inference
+  - long-context
+  - finance
+  - ai-economics
+  - gpu
+  - agent-memory
+  - models
 source: https://x.com/bookwormengr/status/2082377457852920075
 date: 2026-07-29
 type: bookmark
@@ -23,6 +18,8 @@ author: GDP (@bookwormengr)
 raw: "[[raw/bookwormengr_2082377457852920075]]"
 description: "Kimi K3 KDA hybrid linear at frontier scale — ~73% KV/state savings vs all-MLA; memory-stock debate vs Jevon's paradox"
 summary: "Technical + market analysis of Kimi K3's constant KDA state (69 KDA + 24 MLA), per-channel decay, subagent snapshot math, and whether hybrid linear at 1T+ is net-new for HBM/memory demand pricing."
+status: current
+as_of: 2026-07-29
 ---
 
 # Kimi K3 Memory Savings vs Jevon's Paradox

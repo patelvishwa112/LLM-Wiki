@@ -1,5 +1,9 @@
 ---
-tags: ["coding-agents", "architecture", "engineering", "agents"]
+tags:
+  - coding-agents
+  - architecture
+  - ai-engineering
+  - agents
 source: https://x.com/bibryam/status/2096524948365775313
 date: 2026-09-06
 type: bookmark
@@ -7,6 +11,8 @@ description: "Bilgin Ibryam: eight pre-agent SE books become more relevant as yo
 author: bibryam
 summary: "Bilgin Ibryam: eight pre-agent SE books become more relevant as you delegate implementation — decide, specify, DDD, architecture, data, threat model, production, Accelerate."
 raw: "[[raw/bibryam_2096524948365775313]]"
+status: current
+as_of: 2026-09-06
 ---
 
 # 8 Software Books AI Has Made More Relevant

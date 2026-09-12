@@ -1,11 +1,9 @@
 ---
 tags:
-- trading
-- agents
-- agent-orchestration
-- horizon
-- risk-management
-- backtesting
+  - trading
+  - agents
+  - orchestration
+  - finance
 source: https://x.com/zodchiii/status/2063919809281110474
 date: 2026-06-08
 type: bookmark
@@ -19,6 +17,8 @@ description: '4-agent trading desk architecture: Hunter scans for setups, Analys
   validates with backtests and risk metrics via Horizon, Executor places orders, Monitor
   watches positions with kill switches and alerts. Build order: Analyst+Executor first,
   then Monitor, then Hunter. Total cost under $100/month.'
+status: current
+as_of: 2026-06-08
 ---
 
 # How to build a 4-agent trading desk that finds and trades opportunities while you sleep

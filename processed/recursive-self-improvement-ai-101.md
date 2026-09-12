@@ -1,15 +1,15 @@
 ---
 tags:
-- self-improving-systems
-- recursive-self-improvement
-- agents
-- research
-- automation
-- ai-research
+  - recursive-self-improvement
+  - agents
+  - ai-research
+  - automation
 source: https://x.com/TheTuringPost/status/2067777046483288355
 type: bookmark
 ingested: 2026-06-19
 description: 'AI 101: What is Recursive Self-Improvement?'
+status: current
+as_of: 2026-06-19
 ---
 
 # AI 101: What is Recursive Self-Improvement?

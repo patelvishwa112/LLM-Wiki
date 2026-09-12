@@ -1,5 +1,9 @@
 ---
-tags: ["agents", "skills", "second-brain", "knowledge-graph"]
+tags:
+  - agents
+  - skills
+  - second-brain
+  - knowledge-graph
 source: https://x.com/omarsar0/status/2094432587821482036
 date: 2026-08-31
 type: bookmark
@@ -7,6 +11,8 @@ description: "elvis (@omarsar0) on Google WikiSkill: persist agent runs into a w
 author: omarsar0
 summary: "elvis (@omarsar0) on Google WikiSkill: persist agent runs into a wiki that evolves skills; model-agnostic; evolved skills transfer to smaller models."
 raw: "[[raw/omarsar0_2094432587821482036]]"
+status: current
+as_of: 2026-08-31
 ---
 
 # WikiSkill (Google) — Persistent Agents, Knowledge Bases, Skills

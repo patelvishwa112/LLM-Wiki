@@ -1,11 +1,11 @@
 ---
 tags:
-- agents
-- anthropic
-- enterprise
-- mcp
-- claude
-- agent-ops
+  - agents
+  - anthropic
+  - enterprise
+  - mcp
+  - claude
+  - agent-ops
 source: https://claude.com/blog/claude-managed-agents
 raw: '[[raw/anthropic-managed-agents]]'
 date: 2026-06-07
@@ -23,6 +23,8 @@ description: Claude Managed Agents is a suite of composable APIs for building an
   deploying cloud-hosted agents at scale, handling sandboxing, state management, permissioning,
   and orchestration so teams can go from prototype to production in days rather than
   months.
+status: current
+as_of: 2026-06-07
 ---
 
 # Claude Managed Agents: Production Agents 10x Faster

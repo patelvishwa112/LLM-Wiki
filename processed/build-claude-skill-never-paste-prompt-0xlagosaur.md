@@ -1,13 +1,13 @@
 ---
 tags:
-- skills
-- claude
-- claude-code
-- prompt-engineering
-- progressive-disclosure
-- agent-harness
-- hermes
-- mcp
+  - skills
+  - claude
+  - claude-code
+  - prompt-engineering
+  - context-engineering
+  - agent-harness
+  - hermes
+  - mcp
 source: https://x.com/0xlagosaur/status/2068693290581414390
 raw: '[[raw/0xlagosaur_2068693290581414390]]'
 date: 2026-06-23
@@ -20,6 +20,8 @@ description: '0xLagosaur on prompts vs Skills: SKILL.md folder with ''Use when I
   triggers, lazy-loaded instructions and references/, four copy-paste starters (voice,
   fact-check, should-i, checkpoint), and open standard across Claude Code, API, Cursor,
   Copilot.'
+status: current
+as_of: 2026-06-23
 ---
 
 # Build a Claude Skill — Stop Re-Pasting Prompts

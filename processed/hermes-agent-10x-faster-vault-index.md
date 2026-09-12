@@ -3,8 +3,7 @@ tags:
   - hermes
   - agent-harness
   - obsidian
-  - vault
-  - folder-structure
+  - knowledge-management
   - productivity
   - context-engineering
   - second-brain
@@ -15,6 +14,8 @@ author: wandermist
 description: "Vault INDEX.md + concern-based numbered folders cut Hermes file-navigation time (~2 min → ~10–26s on author’s tasks) without changing models."
 raw: "[[raw/wandermist_2071930382581195105]]"
 summary: "Vault INDEX.md + concern-based numbered folders cut Hermes file-navigation time (~2 min → ~10–26s on author’s tasks) without changing models."
+status: current
+as_of: 2026-06-30
 ---
 
 # Hermes speedup via vault INDEX scaffolding

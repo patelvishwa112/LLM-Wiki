@@ -1,5 +1,11 @@
 ---
-tags: ["rl", "grpo", "trl", "training", "agents", "huggingface", "post-training", "evals"]
+tags:
+  - rl
+  - training
+  - agents
+  - open-source
+  - post-training
+  - evals
 source: https://x.com/SergioPaniego/status/2082469796893839393
 date: 2026-08-01
 type: bookmark
@@ -7,6 +13,8 @@ description: "HF Training Agents Class 3 resources: GRPO deep dive + TRL experim
 author: SergioPaniego
 summary: "HF Training Agents Class 3 resources: GRPO deep dive + TRL experiments (YouTube + slides)."
 raw: "[[raw/SergioPaniego_2082469796893839393]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # Training Agents Class 3 — GRPO with TRL (resources)

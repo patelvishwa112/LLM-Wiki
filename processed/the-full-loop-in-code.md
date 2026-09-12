@@ -1,9 +1,9 @@
 ---
 tags:
-- loops
-- agent-orchestration
-- claude-code
-- prompt-engineering
+  - loop-engineering
+  - orchestration
+  - claude-code
+  - prompt-engineering
 source: https://x.com/amitiitbhu/status/2064010649680933053
 date: 2026-06-08
 type: bookmark
@@ -15,6 +15,8 @@ raw: '[[raw/amitiitbhu_2064010649680933053]]'
 description: Link to Amit Shekhar's article 'How to design a loop that prompts your
   agent?' — covers the five parts of a production loop, why single prompts fail, and
   the full code pattern for reliable agent orchestration.
+status: current
+as_of: 2026-06-08
 ---
 
 # The Full Loop in Code

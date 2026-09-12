@@ -1,14 +1,12 @@
 ---
 tags:
-- agents
-- agent-harness
-- self-learning
-- agent-memory
-- procedural-memory
-- copilotkit
-- ag-ui
-- hermes
-- skills
+  - agents
+  - agent-harness
+  - learning
+  - agent-memory
+  - web-dev
+  - hermes
+  - skills
 source: https://x.com/ataiiam/status/2069797329809395978
 date: 2026-06-24
 type: bookmark
@@ -19,6 +17,8 @@ raw: '[[raw/ataiiam_2069797329809395978]]'
 description: Atai Barkai maps self-learning into model vs harness vs context layers,
   then argues the missing signal is real human overrides in product — not agent-only
   traces.
+status: current
+as_of: 2026-06-24
 ---
 
 # Self-Learning Agents: Three Layers, One Missing Signal

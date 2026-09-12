@@ -1,11 +1,8 @@
 ---
 tags:
-- pm
-- requirements
-- prd-review
-- skills
-- claude-code
-- weasel-words
+  - pm
+  - skills
+  - claude-code
 source: https://x.com/nurijanian/status/2064666806267289888
 date: 2026-06-10
 type: bookmark
@@ -19,6 +16,8 @@ description: 'make-requirements-great skill for PMs: enforces three altitudes of
   scans for weasel words, performs catalogue-level checks (consistency, completeness,
   traceability), and flags open decisions instead of inventing detail. Turns maximally
   helpful AI into a disciplined reviewer.'
+status: current
+as_of: 2026-06-10
 ---
 
 # /make-requirements-great

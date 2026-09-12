@@ -1,19 +1,16 @@
 ---
 tags:
-- agents
-- agent-memory
-- mem0
-- gbrain
-- garry-tan
-- knowledge-graph
-- obsidian
-- wikilinks
-- rag
-- retrieval
-- openclaw
-- hermes
-- second-brain
-- git
+  - agents
+  - agent-memory
+  - projects
+  - venture-capital
+  - knowledge-graph
+  - obsidian
+  - second-brain
+  - rag
+  - openclaw
+  - hermes
+  - coding-tools
 source: https://x.com/mem0ai/status/2070541048527609885
 date: 2026-06-26
 type: bookmark
@@ -27,6 +24,8 @@ description: 'Mem0 In Context #14 on Garry Tan''s GBrain: markdown+git as source
   truth, regex/wikilink typed graph (no LLM at write) drives BrainBench P@5 49.1%
   vs ~11–18% without graph; hybrid search + think mode with gap honesty; overnight
   dream cycle; brain (world facts) vs Mem0 memory (preferences/session).'
+status: current
+as_of: 2026-06-26
 ---
 
 # GBrain: A Brain in a Git Repo

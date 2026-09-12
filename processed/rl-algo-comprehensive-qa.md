@@ -1,20 +1,11 @@
 ---
 tags:
-- rl
-- grpo
-- ppo
-- dpo
-- moe
-- deepseek
-- training
-- advantage
-- kl-divergence
-- importance-sampling
-- reward-design
-- opd
-- dapo
-- gspo
-- cispo
+  - rl
+  - moe
+  - frontier-labs
+  - training
+  - reward-modeling
+  - projects
 source: https://www.k-a.in/rl-algo.html
 date: 2026-06-08
 type: bookmark
@@ -32,6 +23,8 @@ related:
 description: Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computation,
   KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution.
   Based on Xiuyu Li's interview questions.
+status: current
+as_of: 2026-06-08
 ---
 
 # RL ALGO — Comprehensive Q&A

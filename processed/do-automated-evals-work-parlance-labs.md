@@ -1,5 +1,9 @@
 ---
-tags: ["evals", "llm-judges", "error-analysis", "observability", "braintrust", "arize", "langsmith", "traces", "criteria-drift", "agents"]
+tags:
+  - evals
+  - llm-judges
+  - observability
+  - agents
 source: https://parlance-labs.com/blog/posts/auto-evals/
 date: 2026-07-11
 type: article
@@ -7,6 +11,8 @@ description: "Parlance Labs (Saha, Husain): auto error-analysis on 100 leasing-a
 author: Antaripa Saha, Hamel Husain
 summary: "Parlance Labs (Saha, Husain): auto error-analysis on 100 leasing-agent traces — best system 87% recall of human labels, misses UX/product goals invisible in traces alone; keep human-in-the-loop."
 raw: "[[raw/parlance_labs_auto_evals]]"
+status: current
+as_of: 2026-07-11
 ---
 
 # Do Automated Evals Work? — Parlance Labs

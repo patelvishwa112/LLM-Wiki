@@ -1,14 +1,10 @@
 ---
 tags:
   - pm
-  - product-discovery
-  - opportunity-solution-tree
-  - continuous-discovery
-  - teresa-torres
+  - product
   - workflows
   - claude
   - skills
-  - roadmap
 source: https://x.com/nurijanian/status/2067201971896176856
 date: 2026-06-17
 type: bookmark
@@ -16,6 +12,8 @@ author: nurijanian
 description: "PM OS /opportunity workflow: intake outcomes + journey moments, OST tree with need-reframing, qualitative four-lens selection—not RICE at opportunity stage."
 raw: "[[raw/nurijanian_2067201971896176856]]"
 summary: "PM OS /opportunity workflow: intake outcomes + journey moments, OST tree with need-reframing, qualitative four-lens selection—not RICE at opportunity stage."
+status: current
+as_of: 2026-06-17
 ---
 
 # /opportunity — AI PM OS workflow (Torres OST)

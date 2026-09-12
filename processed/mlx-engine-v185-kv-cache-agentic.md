@@ -1,16 +1,13 @@
 ---
 tags:
-- mlx
-- apple-silicon
-- inference
-- kv-cache
-- agents
-- agentic-workflows
-- vlm
-- lm-studio
-- serving
-- optimization
-- open-source
+  - inference
+  - kv-cache
+  - agents
+  - workflows
+  - multimodal
+  - serving
+  - cost-optimization
+  - open-source
 source: https://x.com/ostensiblyneil/status/2063006720616734835
 raw: '[[raw/ostensiblyneil_2063006720616734835]]'
 date: 2026-06-06
@@ -26,6 +23,8 @@ description: 'MLX Engine v1.8.5 (LM Studio) adds disk-backed KV cache checkpoint
   problem for models like Qwen 3.5 and Gemma 4. 256-token block boundaries, LRU disk
   store, unified-memory-aware eviction. Benchmarks: 2.2x faster parallel chat, 82%
   less extra RAM, 3.5x faster repeated image prompts on M3 Max.'
+status: current
+as_of: 2026-06-06
 ---
 
 # MLX Engine v1.8.5 — KV Cache for Agentic Workflows

@@ -1,5 +1,11 @@
 ---
-tags: ["ai-economics", "investing", "ai-strategy", "inference", "token-economy", "trading", "venture-capital"]
+tags:
+  - ai-economics
+  - finance
+  - ai-strategy
+  - inference
+  - trading
+  - venture-capital
 source: https://x.com/giovannicatt3/status/2094815425972539565
 date: 2026-09-01
 type: bookmark
@@ -7,6 +13,8 @@ description: "Cattani: frontier token demand is reflexive (~50% AI R&D + coding 
 author: giovannicatt3
 summary: "Cattani: frontier token demand is reflexive (~50% AI R&D + coding + trading); bounded tasks go cheap, unbounded wants F1 models."
 raw: "[[raw/giovannicatt3_2094815425972539565]]"
+status: current
+as_of: 2026-09-01
 ---
 
 # Nobody is talking seriously about AI demand

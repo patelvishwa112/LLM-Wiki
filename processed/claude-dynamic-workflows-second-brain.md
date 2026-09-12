@@ -1,18 +1,20 @@
 ---
 tags:
-- claude-code
-- dynamic-workflows
-- obsidian
-- second-brain
-- skills
-- subagents
-- claude
+  - claude-code
+  - workflows
+  - obsidian
+  - second-brain
+  - skills
+  - subagents
+  - claude
 source: https://x.com/artemxtech/status/2062582596190498864
 date: 2026-06-04
 type: bookmark
 author: Artem Zhutov (@ArtemXTech)
 raw: '[[raw/artemxtech_2062582596190498864]]'
 description: Claude Dynamic Workflows for Your Second Brain
+status: current
+as_of: 2026-06-04
 ---
 
 # Claude Dynamic Workflows for Your Second Brain

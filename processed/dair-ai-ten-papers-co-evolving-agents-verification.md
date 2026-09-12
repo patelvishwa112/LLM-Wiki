@@ -1,5 +1,14 @@
 ---
-tags: ["papers", "agents", "evals", "mcp", "agent-memory", "skills", "verification", "self-improvement", "ml-research"]
+tags:
+  - papers
+  - agents
+  - evals
+  - mcp
+  - agent-memory
+  - skills
+  - verification
+  - productivity
+  - ml-research
 source: https://x.com/dair_ai/status/2073814128888549810
 date: 2026-07-05
 type: bookmark
@@ -7,6 +16,8 @@ author: dair_ai
 description: "DAIR.AI roundup of ten papers on co-evolving agents and evaluators, MCP server patterns, verification horizons, skill composition, metamemory, and scalable paper review."
 summary: "DAIR.AI roundup of ten papers on co-evolving agents and evaluators, MCP server patterns, verification horizons, skill composition, metamemory, and scalable paper review."
 raw: "[[raw/dair_ai_2073814128888549810]]"
+status: current
+as_of: 2026-07-05
 ---
 
 # DAIR.AI — ten papers (agents, verification, MCP)

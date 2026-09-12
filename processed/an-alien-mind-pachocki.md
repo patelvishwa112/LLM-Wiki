@@ -1,5 +1,10 @@
 ---
-tags: ["safety", "alignment", "reasoning", "openai", "rsi"]
+tags:
+  - safety
+  - alignment
+  - reasoning
+  - frontier-labs
+  - recursive-self-improvement
 source: https://x.com/merettm/status/2096630018495377464
 date: 2026-09-06
 type: bookmark
@@ -7,6 +12,8 @@ description: "Pachocki (OpenAI): An Alien Mind — goal vs value alignment, CoT 
 author: merettm
 summary: "Pachocki (OpenAI): An Alien Mind — goal vs value alignment, CoT monitoring decaying, RSI pacing; no lab has solved alignment enough for max-speed scaling."
 raw: "[[raw/merettm_2096630018495377464]]"
+status: current
+as_of: 2026-09-06
 ---
 
 # An Alien Mind

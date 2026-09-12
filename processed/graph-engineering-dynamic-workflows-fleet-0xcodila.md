@@ -1,5 +1,17 @@
 ---
-tags: ["agents", "multi-agent", "orchestration", "claude-code", "dynamic-workflows", "loop-engineering", "verification", "agent-harness", "harness-engineering", "parallelism", "cost-optimization", "worktrees"]
+tags:
+  - agents
+  - multi-agent
+  - orchestration
+  - claude-code
+  - workflows
+  - loop-engineering
+  - verification
+  - agent-harness
+  - harness-engineering
+  - distributed-systems
+  - cost-optimization
+  - coding-tools
 source: https://x.com/0xcodila/status/2079597821511020996
 date: 2026-07-21
 type: bookmark
@@ -7,6 +19,8 @@ description: "0xCodila graph engineering guide: real edges vs fake waits, Claude
 author: 0xcodila
 summary: "0xCodila graph engineering guide: real edges vs fake waits, Claude Code dynamic workflows fleets, fresh-context verifiers, isolation, Bun-scale costs, when not to graph."
 raw: "[[raw/0xcodila_2079597821511020996]]"
+status: current
+as_of: 2026-07-21
 ---
 
 # Graph engineering — fleets over linear agents (0xCodila)

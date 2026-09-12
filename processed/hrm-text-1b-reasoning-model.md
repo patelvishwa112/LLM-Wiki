@@ -1,15 +1,17 @@
 ---
 tags:
-- models
-- slm
-- training
-- reasoning
-- efficiency
+  - models
+  - slm
+  - training
+  - reasoning
+  - cost-optimization
 source: https://x.com/Sapient_Int/status/2056510383935172798
 raw: '[[raw/Sapient_Int_2056510383935172798]]'
 date: 2026-05-18
 type: note
 description: 'HRM-Text: 1B Parameter Reasoning Model'
+status: current
+as_of: 2026-05-18
 ---
 
 # HRM-Text: 1B Parameter Reasoning Model

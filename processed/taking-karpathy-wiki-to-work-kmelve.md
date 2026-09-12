@@ -1,5 +1,9 @@
 ---
-tags: ["second-brain", "knowledge-graph", "agents", "content-ops"]
+tags:
+  - second-brain
+  - knowledge-graph
+  - agents
+  - creator-economy
 source: https://x.com/kmelve/status/2095601256987492516
 date: 2026-09-03
 type: bookmark
@@ -7,6 +11,8 @@ description: "knut (@kmelve): Karpathy LLM wiki at org scale is ContentOps not D
 author: kmelve
 summary: "knut (@kmelve): Karpathy LLM wiki at org scale is ContentOps not DevOps; six ownership questions; entropy/drift; Sanity Context pitch."
 raw: "[[raw/kmelve_2095601256987492516]]"
+status: current
+as_of: 2026-09-03
 ---
 
 # Taking Karpathy's Wiki to Work

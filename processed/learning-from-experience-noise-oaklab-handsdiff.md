@@ -3,14 +3,11 @@ tags:
   - continual-learning
   - training
   - rl
-  - credit-assignment
   - agents
   - agent-memory
-  - jepa
-  - oak-lab
-  - sutton
-  - online-learning
-  - sgd
+  - world-models
+  - projects
+  - ml-research
 source: https://x.com/handsdiff/status/2077392432505708714
 date: 2026-07-15
 type: bookmark
@@ -18,6 +15,8 @@ description: "handsdiff + Oak Lab — SGD assumes all data is to learn; IDBD/Net
 author: handsdiff
 summary: "handsdiff + Oak Lab — SGD assumes all data is to learn; IDBD/NetworkIDBD filter noise; agents wrongly treat context as pure signal."
 raw: "[[raw/handsdiff_2077392432505708714]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # Learning from experience requires handling noise

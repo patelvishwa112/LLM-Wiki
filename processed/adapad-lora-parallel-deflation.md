@@ -1,15 +1,16 @@
 ---
 tags:
-- training
-- lora
-- fine-tuning
-- models
-- papers
+  - training
+  - fine-tuning
+  - models
+  - papers
 source: https://x.com/optimalab1/status/2055029895676174338
 raw: '[[raw/optimalab1_2055029895676174338]]'
 date: 2026-05-14
 type: note
 description: 'AdaPaD: Parallel Rank-1 Deflation for LoRA'
+status: current
+as_of: 2026-05-14
 ---
 
 # AdaPaD: Parallel Rank-1 Deflation for LoRA

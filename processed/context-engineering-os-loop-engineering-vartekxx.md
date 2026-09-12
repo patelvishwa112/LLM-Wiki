@@ -1,5 +1,15 @@
 ---
-tags: ["context-engineering", "loop-engineering", "prompt-engineering", "agents", "agent-harness", "claude-code", "subagents", "verification", "context-rot", "skills"]
+tags:
+  - context-engineering
+  - loop-engineering
+  - prompt-engineering
+  - agents
+  - agent-harness
+  - claude-code
+  - subagents
+  - verification
+  - long-context
+  - skills
 source: https://x.com/vartekxx/status/2074864291568664646
 date: 2026-07-08
 type: bookmark
@@ -7,6 +17,8 @@ description: "Prompt→context→loop stack: Karpathy Software 3.0 (write/select
 author: vartekxx
 summary: "Prompt→context→loop stack: Karpathy Software 3.0 (write/select/compress/isolate) + Cherny loops/verifiers on Claude Code."
 raw: "[[raw/vartekxx_2074864291568664646]]"
+status: current
+as_of: 2026-07-08
 ---
 
 # Context engineering as OS; loops as the kitchen (vartekxx)

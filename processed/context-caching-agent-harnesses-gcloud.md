@@ -1,5 +1,8 @@
 ---
-tags: ["agents", "cost", "agent-harness", "caching"]
+tags:
+  - agents
+  - cost-optimization
+  - agent-harness
 source: https://x.com/GoogleCloudTech/status/2095201318348722507
 date: 2026-09-02
 type: bookmark
@@ -7,6 +10,8 @@ description: "Google Cloud: Gemini context caching in agent harnesses — prefix
 author: GoogleCloudTech
 summary: "Google Cloud: Gemini context caching in agent harnesses — prefix invariance, 0.25x cached reads, ~75% transmitted reduction; skip if <32k or <3 turns."
 raw: "[[raw/GoogleCloudTech_2095201318348722507]]"
+status: current
+as_of: 2026-09-02
 ---
 
 # Slash Token Costs with Context Caching in Agent Harnesses

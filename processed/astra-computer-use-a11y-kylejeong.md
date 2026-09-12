@@ -1,5 +1,10 @@
 ---
-tags: ["computer-use", "agents", "browser-agents", "models", "gpt-6"]
+tags:
+  - computer-use
+  - agents
+  - browser-agents
+  - models
+  - frontier-labs
 source: https://x.com/kylejeong/status/2097077446663372966
 date: 2026-09-07
 type: bookmark
@@ -7,6 +12,8 @@ description: "Kyle Jeong (Browserbase): Astra computer use is a11y-tree + code-m
 author: kylejeong
 summary: "Kyle Jeong (Browserbase): Astra computer use is a11y-tree + code-mode (Playwright/PyAutoGUI) plus Guardian policy, not vision-pixel clicking."
 raw: "[[raw/kylejeong_2097077446663372966]]"
+status: current
+as_of: 2026-09-07
 ---
 
 # How Astra's Computer Use Actually Works

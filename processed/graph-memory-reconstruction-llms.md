@@ -1,15 +1,14 @@
 ---
 tags:
-- agent-memory
-- memory
-- llm
-- graph-memory
-- active-reconstruction
-- research
+  - agent-memory
+  - llm
+  - ai-research
 source: https://x.com/neural_avb/status/2067950104062181740
 type: bookmark
 ingested: 2026-06-19
 description: Graph Memory Reconstruction for LLMs, explained clearly
+status: current
+as_of: 2026-06-19
 ---
 
 # Graph Memory Reconstruction for LLMs, explained clearly

@@ -1,14 +1,12 @@
 ---
 title: Memory Is Retained Consequence — Ashwin Gopinath on Agent Memory Architecture
 tags:
-- memory
-- agents
-- enterprise
-- knowledge-graphs
-- semantic-state
-- sentra
-- company-brain
-- infrastructure
+  - agent-memory
+  - agents
+  - enterprise
+  - knowledge-graph
+  - projects
+  - infrastructure
 source: https://x.com/ashwingop/status/2061836996541083912
 date: 2026-06-02
 published: 2026-06-02
@@ -17,6 +15,8 @@ authors:
 type: bookmark
 raw: '[[raw/ashwingop_2061836996541083912]]'
 description: Memory Is Retained Consequence
+status: current
+as_of: 2026-06-02
 ---
 
 # Memory Is Retained Consequence

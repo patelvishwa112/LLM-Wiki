@@ -1,5 +1,15 @@
 ---
-tags: ["ai-economics", "training-data", "venture-capital", "ai-strategy", "evals", "agent-environments", "data-labeling", "robotics", "enterprise-ai", "investing"]
+tags:
+  - ai-economics
+  - synthetic-data
+  - venture-capital
+  - ai-strategy
+  - evals
+  - agents
+  - data-engineering
+  - robotics
+  - enterprise
+  - finance
 source: https://x.com/viks_rum/status/2077650169265590727
 date: 2026-07-16
 type: bookmark
@@ -7,6 +17,8 @@ description: "Long-form map of the training-data gold rush: six products (hours/
 author: viks_rum
 summary: "Long-form map of the training-data gold rush: six products (hours/judgment/worlds/verdicts/bodies/rights), non-recurring POs, and how founders should convert cash into scarce verification moats."
 raw: "[[raw/viks_rum_2077650169265590727]]"
+status: current
+as_of: 2026-07-16
 ---
 
 # The goldmine business of selling data to frontier labs

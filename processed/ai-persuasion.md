@@ -4,13 +4,14 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- societal-impacts
-- persuasion
-- safety
+  - ai-policy
+  - communication
+  - safety
 sources:
 - raw/anthropic/articles/anthropic-research-measuring-model-persuasiveness.md
 confidence: medium
 description: AI Persuasion
+status: current
 ---
 
 # AI Persuasion

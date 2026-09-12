@@ -1,5 +1,15 @@
 ---
-tags: ["software-factory", "harness-engineering", "loop-engineering", "agents", "agent-harness", "verification", "human-in-the-loop", "addy-osmani", "architecture", "comprehension-debt"]
+tags:
+  - ai-engineering
+  - harness-engineering
+  - loop-engineering
+  - agents
+  - agent-harness
+  - verification
+  - human-in-the-loop
+  - web-dev
+  - architecture
+  - context-engineering
 source: https://x.com/addyosmani/status/2079442194449232227
 date: 2026-07-21
 type: bookmark
@@ -7,6 +17,8 @@ description: "Addy Osmani on loop→harness→factory, dark vs lit factories, co
 author: addyosmani
 summary: "Addy Osmani on loop→harness→factory, dark vs lit factories, comprehension debt, and back pressure as the real constraint."
 raw: "[[raw/addyosmani_2079442194449232227]]"
+status: current
+as_of: 2026-07-21
 ---
 
 # Software Factories, Light and Dark

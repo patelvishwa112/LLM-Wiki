@@ -1,5 +1,13 @@
 ---
-tags: [agents, knowledge-graph, obsidian, second-brain, agent-harness, standards, google-cloud, open-source]
+tags:
+  - agents
+  - knowledge-graph
+  - obsidian
+  - second-brain
+  - agent-harness
+  - mcp
+  - infrastructure
+  - open-source
 source: https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing
 date: 2026-06-28
 type: concept
@@ -7,6 +15,8 @@ author: google-cloud
 summary: "OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karpathy LLM-wiki pattern without a mandatory SDK."
 description: "OKF v0.1 is Google's vendor-neutral spec for agent-readable knowledge bundles—markdown concepts with YAML frontmatter (required type), index.md for progressive disclosure, and markdown cross-links—formalizing the Karpathy LLM-wiki pattern without a mandatory SDK."
 raw: "[[raw/googlecloud_okf-open-knowledge-format]]"
+status: current
+as_of: 2026-06-28
 ---
 
 # Open Knowledge Format (OKF)

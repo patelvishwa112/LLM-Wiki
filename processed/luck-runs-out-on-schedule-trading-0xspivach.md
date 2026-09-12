@@ -3,10 +3,8 @@ tags:
   - trading
   - quant
   - finance
-  - kelly-criterion
-  - risk-management
-  - edge
-  - statistics
+  - infrastructure
+  - ml-research
 source: https://x.com/0xspivach/status/2078046857016619053
 date: 2026-07-18
 type: bookmark
@@ -15,6 +13,8 @@ author: 0xSpivach
 summary: "0xSpivach on why trading luck dies on a calculable schedule: edge grows linear in N, noise as sqrt(N); size up at peak confidence is the blowup intersection."
 raw: "[[raw/0xspivach_2078046857016619053]]"
 published: 2026-07-17
+status: current
+as_of: 2026-07-18
 ---
 
 # Luck runs out on schedule (trading)

@@ -1,5 +1,15 @@
 ---
-tags: ["context-engineering", "claude-code", "claude", "fable", "opus", "skills", "prompt-engineering", "progressive-disclosure", "agent-harness", "anthropic", "agents", "coding-tools"]
+tags:
+  - context-engineering
+  - claude-code
+  - claude
+  - fable
+  - skills
+  - prompt-engineering
+  - agent-harness
+  - anthropic
+  - agents
+  - coding-tools
 source: https://x.com/trq212/status/2080710971228918066
 blog_url: https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
 date: 2026-07-24
@@ -8,6 +18,8 @@ description: "Anthropic removed 80%+ of Claude Code system prompt for Opus/Fable
 author: trq212
 summary: "Anthropic removed 80%+ of Claude Code system prompt for Opus/Fable 5; shift from rigid rules to judgment, progressive disclosure, and rich references."
 raw: "[[raw/trq212_2080710971228918066]]"
+status: current
+as_of: 2026-07-24
 ---
 
 # The new rules of context engineering for Claude 5 models

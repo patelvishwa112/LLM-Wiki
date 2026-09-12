@@ -1,5 +1,11 @@
 ---
-tags: ["agents", "xai", "productivity", "solo-operator", "computer-use", "knowledge-work", "multi-agent"]
+tags:
+  - agents
+  - frontier-labs
+  - productivity
+  - startups
+  - computer-use
+  - multi-agent
 source: https://x.com/akshayadinesh19/status/2094980017000153097
 date: 2026-09-02
 type: bookmark
@@ -7,6 +13,8 @@ description: "Akshaya: Grok Bot as Cursor-for-knowledge-work — dedicated iMess
 author: akshayadinesh19
 summary: "Akshaya: Grok Bot as Cursor-for-knowledge-work — dedicated iMessage app, computer use, persona swarm (Finance Bro, CoS, ads)."
 raw: "[[raw/akshayadinesh19_2094980017000153097]]"
+status: current
+as_of: 2026-09-02
 ---
 
 # Grok Bot for Founders

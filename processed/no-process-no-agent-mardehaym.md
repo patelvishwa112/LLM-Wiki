@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "agent-ops", "enterprise", "productivity", "process", "background-agents", "observability", "agent-harness", "ai-strategy", "verification"]
+tags:
+  - agents
+  - agent-ops
+  - enterprise
+  - productivity
+  - observability
+  - agent-harness
+  - ai-strategy
+  - verification
 source: https://x.com/mardehaym/status/2087086419491647589
 date: 2026-08-11
 type: bookmark
@@ -7,6 +15,8 @@ description: "No Process, No Agent — Mark Ajzenstadt argues process maturity i
 author: mardehaym
 summary: "No Process, No Agent — Mark Ajzenstadt argues process maturity is ~95% of agent success; document → connect SoR → observability before agent code."
 raw: "[[raw/mardehaym_2087086419491647589]]"
+status: current
+as_of: 2026-08-11
 ---
 
 # No Process, No Agent

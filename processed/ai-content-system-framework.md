@@ -1,15 +1,15 @@
 ---
 tags:
-- agents
-- content-creation
-- productivity
-- social-media
-- ai-content
+  - agents
+  - creator-economy
+  - productivity
 source: https://x.com/shannholmberg/status/2053077052069449780
 raw: '[[raw/shannholmberg_2053077052069449780]]'
 date: 2026-05-08
 type: bookmark
 description: AI Content System — From Ideas to 5M Impressions
+status: current
+as_of: 2026-05-08
 ---
 
 # AI Content System — From Ideas to 5M Impressions

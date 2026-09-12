@@ -1,12 +1,14 @@
 ---
 tags:
-- evals
-- models
+  - evals
+  - models
 source: https://x.com/yacinelearning/status/2057813285936714194
 raw: '[[raw/yacinelearning_2057813285936714194]]'
 date: 2026-05-22
 type: bookmark
 description: dear lord no wonder evals are a mess
+status: current
+as_of: 2026-05-22
 ---
 
 # dear lord no wonder evals are a mess

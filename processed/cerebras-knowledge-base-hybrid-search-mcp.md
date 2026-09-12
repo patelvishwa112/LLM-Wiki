@@ -1,5 +1,15 @@
 ---
-tags: ["agent-memory", "rag", "mcp", "enterprise", "cerebras", "cocoindex", "retrieval", "knowledge-base", "hybrid-search", "agents", "agent-harness", "second-brain"]
+tags:
+  - agent-memory
+  - rag
+  - mcp
+  - enterprise
+  - inference
+  - vector-search
+  - knowledge-management
+  - agents
+  - agent-harness
+  - second-brain
 source: https://x.com/cerebras/status/2077822555159945507
 date: 2026-07-16
 type: bookmark
@@ -7,6 +17,8 @@ description: "Cerebras Knowledge: meet-data-where-it-lives enterprise KB (15k qu
 author: cerebras
 summary: "Cerebras Knowledge: meet-data-where-it-lives enterprise KB (15k queries/day) — unified Postgres embeddings, hybrid Slack search, CocoIndex code, planner/RRF/rerank, MCP primitives vs full UI pipeline."
 raw: "[[raw/cerebras_2077822555159945507]]"
+status: current
+as_of: 2026-07-16
 ---
 
 # How Cerebras built its knowledge base

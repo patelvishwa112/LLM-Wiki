@@ -1,15 +1,16 @@
 ---
 tags:
-- agents
-- rag
-- filesystem
-- agent-interface
-- assistants
+  - agents
+  - rag
+  - infrastructure
+  - agent-ops
 source: https://x.com/densumesh/status/2039765361533637016
 raw: '[[raw/densumesh_2039765361533637016]]'
 date: 2026-04-02
 type: bookmark
 description: Virtual Filesystem for AI Assistants — Beyond RAG
+status: current
+as_of: 2026-04-02
 ---
 
 # Virtual Filesystem for AI Assistants — Beyond RAG

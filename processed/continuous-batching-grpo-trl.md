@@ -1,19 +1,17 @@
 ---
 tags:
-- trl
-- grpo
-- continuous-batching
-- rl
-- rollouts
-- huggingface
-- agent-training
-- kv-cache
-- logprobs
-- rloo
+  - training
+  - rl
+  - inference
+  - open-source
+  - agents
+  - kv-cache
 source: https://x.com/sergiopaniego/status/2067946867237818830
 type: concept
 ingested: 2026-06-20
 description: Continuous Batching for GRPO Rollouts in TRL
+status: current
+as_of: 2026-06-20
 ---
 
 # Continuous Batching for GRPO Rollouts in TRL

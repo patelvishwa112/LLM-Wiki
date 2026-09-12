@@ -1,15 +1,14 @@
 ---
 title: Agent Memory Landscape 2026 — Every Harness, Every Gap
 tags:
-- memory
-- agents
-- hermes
-- claude-code
-- codex
-- copilot
-- mem0
-- benchmarks
-- infrastructure
+  - agent-memory
+  - agents
+  - hermes
+  - claude-code
+  - codex
+  - coding-tools
+  - benchmarks
+  - infrastructure
 source: https://x.com/mem0ai/status/2061822612398014782
 date: 2026-06-02
 published: 2026-06-02
@@ -18,6 +17,8 @@ authors:
 type: bookmark
 raw: '[[raw/mem0ai_2061822612398014782]]'
 description: Agent Memory Landscape 2026
+status: current
+as_of: 2026-06-02
 ---
 
 # Agent Memory Landscape 2026

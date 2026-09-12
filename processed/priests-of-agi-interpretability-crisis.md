@@ -1,16 +1,15 @@
 ---
 tags:
-- interpretability
-- faithfulness
-- sae
-- probes
-- saliency
-- critique
-- anthropic
+  - interpretability
+  - sparse-autoencoders
+  - verification
+  - anthropic
 source: https://x.com/juliusadml/status/2055042139869045110
 date: 2026-05-14
 type: bookmark
 description: Priests of AGI
+status: current
+as_of: 2026-05-14
 ---
 
 # Priests of AGI

@@ -3,12 +3,10 @@ tags:
   - training
   - post-training
   - rl
-  - sft
+  - fine-tuning
   - distillation
-  - rlvr
-  - kto
   - agents
-  - economics
+  - ai-economics
 source: https://kawine.github.io/assets/aiesi_post-training_public.pdf
 date: 2026-08-21
 type: article
@@ -17,6 +15,8 @@ description: "Kawin Ethayarajh AIESI 2026 deck — post-training stack SFT throu
 summary: "Kawin Ethayarajh AIESI 2026 deck — post-training stack SFT through distillation, then world adaptation and mecha-nudges as the next problem for economists."
 raw: "[[raw/kawine_aiesi-post-training]]"
 published: 2026-08-06
+status: current
+as_of: 2026-08-21
 ---
 
 # Post-Training LLMs (AIESI 2026)

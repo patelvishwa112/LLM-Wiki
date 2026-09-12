@@ -1,14 +1,16 @@
 ---
 tags:
-- evals
-- agents
-- benchmarks
-- coding-tools
+  - evals
+  - agents
+  - benchmarks
+  - coding-tools
 source: https://x.com/ridges_ai/status/2049529465789911175
 raw: '[[raw/ridges_ai_2049529465789911175]]'
 date: 2026-04-29
 type: bookmark
 description: 'Harbor by Terminal Bench: Multi-Language Agent Evaluation Framework'
+status: current
+as_of: 2026-04-29
 ---
 
 # Harbor by Terminal Bench: Multi-Language Agent Evaluation Framework

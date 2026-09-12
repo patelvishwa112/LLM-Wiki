@@ -1,11 +1,11 @@
 ---
 tags:
-- agent-architecture
-- agent-loop
-- guardrails
-- agents
-- agent-ops
-- mcp
+  - agent-architecture
+  - loop-engineering
+  - security
+  - agents
+  - agent-ops
+  - mcp
 source: https://x.com/igor_buinevici/status/2067246032648364310
 type: bookmark
 related:
@@ -34,6 +34,7 @@ description: '"Igor Buinevici shares Brij Kishore Pandey’s clear explanation o
   CrewAI, OpenAI Agents SDK, Google ADK); production agents differ only in the depth
   of each layer. Includes a detailed color-coded infographic showing the full loop,
   memory layer, and continuous guardrails."'
+status: current
 ---
 
 # Every AI Agent Works in a Similar Way Behind the Scenes

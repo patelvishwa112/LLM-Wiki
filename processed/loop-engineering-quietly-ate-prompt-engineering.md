@@ -1,5 +1,13 @@
 ---
-tags: ["loop-engineering", "agents", "agent-harness", "claude-code", "prompt-engineering", "skills", "verification", "automation"]
+tags:
+  - loop-engineering
+  - agents
+  - agent-harness
+  - claude-code
+  - prompt-engineering
+  - skills
+  - verification
+  - automation
 source: https://x.com/dunik_7/status/2071584492804784468
 date: 2026-06-29
 type: bookmark
@@ -7,6 +15,8 @@ author: dunik_7
 description: "Field guide defining agent loops vs cron, five meanings of loop, verification brakes, skills as compounding assets, and a three-level build ladder."
 summary: "Field guide defining agent loops vs cron, five meanings of loop, verification brakes, skills as compounding assets, and a three-level build ladder."
 raw: "[[raw/dunik_7_2071584492804784468]]"
+status: current
+as_of: 2026-06-29
 ---
 
 # Loop engineering: the skill that quietly ate prompt engineering

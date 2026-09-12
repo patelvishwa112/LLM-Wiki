@@ -1,18 +1,17 @@
 ---
 tags:
-- agents
-- langgraph
-- fault-tolerance
-- retries
-- error-handling
-- saga
-- production
+  - agents
+  - agent-frameworks
+  - agent-ops
+  - production
 source: https://x.com/sydneyrunkle/status/2062588423295111208
 date: 2026-06-04
 type: bookmark
 author: Sydney Runkle & @quanzhenglong (LangChain)
 raw: '[[raw/sydneyrunkle_2062588423295111208]]'
 description: 'Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers'
+status: current
+as_of: 2026-06-04
 ---
 
 # Fault Tolerance in LangGraph: Retries, Timeouts, and Error Handlers

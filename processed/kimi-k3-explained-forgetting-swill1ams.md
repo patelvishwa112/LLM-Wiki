@@ -1,5 +1,13 @@
 ---
-tags: ["architecture", "kimi", "moonshot", "kv-cache", "linear-attention", "deltanet", "mla", "moe", "inference", "long-context", "models", "attention"]
+tags:
+  - architecture
+  - frontier-labs
+  - kv-cache
+  - attention
+  - moe
+  - inference
+  - long-context
+  - models
 source: https://x.com/swill1ams/status/2082856158520398279
 date: 2026-08-01
 type: bookmark
@@ -7,6 +15,8 @@ description: "Kimi K3 2.8T MoE explained via GQA/MLA/window/linear toolbox and h
 author: swill1ams
 summary: "Kimi K3 2.8T MoE explained via GQA/MLA/window/linear toolbox and hybrid KDA + Gated MLA for fixed-state long agents."
 raw: "[[raw/swill1ams_2082856158520398279]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # Kimi K3 explained: how forgetting made the biggest open model possible

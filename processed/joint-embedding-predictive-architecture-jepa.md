@@ -1,25 +1,17 @@
 ---
 tags:
-- jepa
-- i-jepa
-- v-jepa
-- yann-lecun
-- meta
-- self-supervised-learning
-- embeddings
-- world-models
-- representation-learning
-- contrastive-learning
-- vision-transformer
-- computer-vision
-- energy-based-models
-- autonomous-machine-intelligence
+  - world-models
+  - frontier-labs
+  - embeddings
+  - multimodal
 source: https://outcomeschool.com/blog/joint-embedding-predictive-architecture-jepa
 raw: '[[raw/outcomeschool_jepa]]'
 type: article
 author: Amit Shekhar (Outcome School)
 date: 2026-06-06
 description: Joint Embedding Predictive Architecture (JEPA)
+status: current
+as_of: 2026-06-06
 ---
 
 # Joint Embedding Predictive Architecture (JEPA)

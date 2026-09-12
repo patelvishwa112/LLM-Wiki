@@ -1,12 +1,12 @@
 ---
 tags:
-- fable-5
-- mythos
-- claude
-- vision
-- long-running
-- self-verification
-- refusal
+  - fable
+  - projects
+  - claude
+  - multimodal
+  - agent-ops
+  - verification
+  - alignment
 source: https://x.com/0xmorlex/status/2064665671716241564
 date: 2026-06-10
 type: bookmark
@@ -20,6 +20,8 @@ description: '8 concrete Fable 5 (Mythos) capabilities Opus 4.8 could not do: fu
   rebuilds, screenshot-to-working-app, precise chart/PDF extraction, senior analyst
   reasoning, hours-long autonomous execution, proactive self-verification, 25-30%
   faster runs, and deliberate high-risk refusal routing to Opus.'
+status: current
+as_of: 2026-06-10
 ---
 
 # How to actually use Claude Fable 5: 8 things the new Mythos-class model does that Opus couldn't

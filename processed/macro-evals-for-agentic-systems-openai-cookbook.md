@@ -1,14 +1,16 @@
 ---
 tags:
-- evals
-- agents
-- multi-agent
-- openai
+  - evals
+  - agents
+  - multi-agent
+  - frontier-labs
 source: https://developers.openai.com/cookbook/examples/partners/macro_evals_for_agentic_systems/macro_evals_for_agentic_systems
 raw: '[[raw/openai_macro-evals-cookbook]]'
 date: 2026-05-19
 type: bookmark
 description: Macro Evals for Agentic Systems (OpenAI Cookbook)
+status: current
+as_of: 2026-05-19
 ---
 
 # Macro Evals for Agentic Systems (OpenAI Cookbook)

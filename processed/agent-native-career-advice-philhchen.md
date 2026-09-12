@@ -3,11 +3,10 @@ tags:
   - career
   - hiring
   - agents
-  - agent-native
-  - vibe-coding
-  - research
+  - coding-tools
+  - ai-research
   - startups
-  - bitter-lesson
+  - ml-research
 source: https://x.com/philhchen/status/2072793818945167475
 date: 2026-07-02
 type: bookmark
@@ -15,6 +14,8 @@ author: philhchen
 description: "Phil Chen on hiring in agent-native companies—scarce time/reputation, problem-finding over LeetCode, ambitious problems, last-mile craft, xG vs efficiency, and breaking into research via evals."
 summary: "Phil Chen on hiring in agent-native companies—scarce time/reputation, problem-finding over LeetCode, ambitious problems, last-mile craft, xG vs efficiency, and breaking into research via evals."
 raw: "[[raw/philhchen_2072793818945167475]]"
+status: current
+as_of: 2026-07-02
 ---
 
 # Agent-native career advice (Phil Chen)

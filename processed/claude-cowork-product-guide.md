@@ -1,12 +1,11 @@
 ---
 tags:
-- claude-cowork
-- anthropic
-- productivity
-- enterprise
-- agents
-- skills
-- knowledge-work
+  - claude-cowork
+  - anthropic
+  - productivity
+  - enterprise
+  - agents
+  - skills
 source: https://claude.com/blog/the-claude-cowork-product-guide
 raw: '[[raw/anthropic-claude-cowork-product-guide]]'
 date: 2026-06-05
@@ -25,6 +24,8 @@ description: 'Claude Cowork is Anthropic''s knowledge work agent for the desktop
   tasks, and multi-step deliverables. Seven common workflows span research briefs,
   meeting prep, recurring reports, and more. Plugins available for marketing and product
   management.'
+status: current
+as_of: 2026-06-05
 ---
 
 # The Claude Cowork Product Guide

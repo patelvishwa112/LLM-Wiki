@@ -1,12 +1,10 @@
 ---
 tags:
-- agents
-- rlm
-- structured-outputs
-- subagents
-- recursive-language-models
-- agent-harness
-- json-schema
+  - agents
+  - reasoning
+  - prompt-engineering
+  - subagents
+  - agent-harness
 source: https://x.com/neural_avb/status/2063907440509571354
 date: 2026-06-08
 type: bookmark
@@ -22,6 +20,8 @@ related:
 description: How structured outputs (JSON schema) dramatically improve subagent communication
   in Recursive Language Models — free-text fan-out fails with 62 subagents, boolean
   schema routing succeeds at same cost.
+status: current
+as_of: 2026-06-08
 ---
 
 # RLM Structured Outputs

@@ -1,12 +1,12 @@
 ---
 tags:
-- fable-5
-- mythos
-- loops
-- self-correction
-- memory
-- claude
-- agent-management
+  - fable
+  - projects
+  - loop-engineering
+  - verification
+  - agent-memory
+  - claude
+  - multi-agent
 source: https://x.com/rlancemartin/status/2064397389189071163
 date: 2026-06-09
 type: bookmark
@@ -20,6 +20,8 @@ description: 'Fable 5 experiments: self-correction loops (/goal, Outcomes) beat 
   memory progression (fail-investigate-verify-distill-consult) works best when the
   model manages its own context. Fable 5 bets on larger structural changes and achieves
   higher verification coverage than Opus 4.7 or Sonnet 4.6.'
+status: current
+as_of: 2026-06-09
 ---
 
 # Designing loops with Fable 5

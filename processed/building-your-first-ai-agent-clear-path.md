@@ -1,18 +1,19 @@
 ---
 tags:
-- agents
-- agent-harness
-- beginner
-- workflow
-- tools
-- memory
-- iteration
-- scope-control
-- practical-guide
+  - agents
+  - agent-harness
+  - learning
+  - workflows
+  - tool-use
+  - agent-memory
+  - productivity
+  - product
 source: Reddit r/AgentsOfAI post by Icy_SwitchTech (screenshot)
 type: bookmark
 ingested: 2026-06-15
 description: Building your first AI Agent; A clear path!
+status: current
+as_of: 2026-06-15
 ---
 
 # Building your first AI Agent; A clear path!

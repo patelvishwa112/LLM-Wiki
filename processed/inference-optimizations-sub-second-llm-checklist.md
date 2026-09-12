@@ -1,15 +1,11 @@
 ---
 tags:
-- inference
-- serving
-- llm
-- kv-cache
-- speculative-decoding
-- flashattention
-- pagedattention
-- quantization
-- throughput
-- latency
+  - inference
+  - serving
+  - llm
+  - kv-cache
+  - attention
+  - quantization
 description: "Ashutosh Maheshwari's 16-technique bookmark list for sub-second LLM inference — caching, attention, batching, parallelism, graphs, streaming."
 summary: "Ashutosh Maheshwari's 16-technique bookmark list for sub-second LLM inference — caching, attention, batching, parallelism, graphs, streaming."
 source: https://x.com/asmah2107/status/2071196830088777741
@@ -17,6 +13,8 @@ date: 2026-06-28
 type: bookmark
 author: asmah2107
 raw: "[[raw/asmah2107_2071196830088777741]]"
+status: current
+as_of: 2026-06-28
 ---
 
 # Inference optimizations for sub-second LLM responses

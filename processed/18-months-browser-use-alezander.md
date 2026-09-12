@@ -1,5 +1,9 @@
 ---
-tags: ["browser-agents", "evals", "agents", "agent-harness"]
+tags:
+  - browser-agents
+  - evals
+  - agents
+  - agent-harness
 source: https://x.com/Alezander9/status/2095329845811237064
 date: 2026-09-03
 type: bookmark
@@ -7,6 +11,8 @@ description: "Alexander Yue (Browser Use #2): eval-first; label your own traces;
 author: Alezander9
 summary: "Alexander Yue (Browser Use #2): eval-first; label your own traces; simple judge prompt beat agentic judges; code-exec over fixed actions; Slack-native evals."
 raw: "[[raw/Alezander9_2095329845811237064]]"
+status: current
+as_of: 2026-09-03
 ---
 
 # 18 Months Building and Evaluating Agents at Browser Use

@@ -1,5 +1,12 @@
 ---
-tags: ["inference", "serving", "gpu", "tensor-parallelism", "pipeline-parallelism", "moe", "kv-cache", "vllm", "distributed-systems", "llm"]
+tags:
+  - inference
+  - serving
+  - gpu
+  - distributed-systems
+  - moe
+  - kv-cache
+  - llm
 source: https://x.com/mainzonx/status/2017308696649302483
 date: 2026-01-30
 type: bookmark
@@ -7,6 +14,8 @@ description: "Adam Mainz multi-GPU inference Part 2: capacity cliff (weights + K
 author: MainzOnX
 summary: "Adam Mainz multi-GPU inference Part 2: capacity cliff (weights + KV), TP/PP/SP/EP tradeoffs, topology hierarchy (HBM → NVLink → IB), and vLLM/TensorRT-LLM orchestration."
 raw: "[[raw/mainzonx_2017308696649302483]]"
+status: current
+as_of: 2026-01-30
 ---
 
 # Multi-GPU Inference — TP / PP / SP / EP (@MainzOnX Part 2)

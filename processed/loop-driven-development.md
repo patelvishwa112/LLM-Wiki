@@ -1,11 +1,8 @@
 ---
 tags:
-- loop-driven-development
-- oracles
-- test-suites
-- feedback
-- agent-loops
-- tdd
+  - loop-engineering
+  - llm-judges
+  - verification
 source: https://x.com/nfcampos/status/2064746971944956299
 date: 2026-06-10
 type: bookmark
@@ -19,6 +16,8 @@ description: 'Loop Driven Development (LDD): the oracle problem, behavior covera
   four quadrants of feedback (independence + queryability), mining test suites, querying
   authoritative oracles, distance assertions, and the shift from writing code to designing
   the training environment for agent loops.'
+status: current
+as_of: 2026-06-10
 ---
 
 # Loop Driven Development

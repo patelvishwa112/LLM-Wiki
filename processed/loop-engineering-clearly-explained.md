@@ -1,13 +1,13 @@
 ---
 tags:
-- loop-engineering
-- agents
-- agent-harness
-- context-engineering
-- claude-code
-- prompt-engineering
-- production
-- evals
+  - loop-engineering
+  - agents
+  - agent-harness
+  - context-engineering
+  - claude-code
+  - prompt-engineering
+  - production
+  - evals
 source: https://x.com/akshay_pachaar/status/2069118430582866051
 date: 2026-06-23
 type: bookmark
@@ -20,6 +20,8 @@ description: 'Accessible loop-engineering primer: the while-loop is solved; valu
   is harness + brakes (completion checks, context rot, idempotent tools, critic).
   Boris Cherny builds loops, not prompts; same model + better loop can jump benchmark
   ranks.'
+status: current
+as_of: 2026-06-23
 ---
 
 # Loop Engineering Clearly Explained

@@ -1,18 +1,19 @@
 ---
 tags:
-- agentic-engineering
-- claude-code
-- codex
-- productivity
-- skills
-- workflows
-- hacks
+  - ai-engineering
+  - claude-code
+  - codex
+  - productivity
+  - skills
+  - workflows
 source: https://x.com/mvanhorn/status/2061877533885473181
 date: 2026-06-03
 type: bookmark
 author: Matt Van Horn (@mvanhorn)
 raw: '[[raw/mvanhorn_2061877533885473181]]'
 description: Every Agentic Engineering Hack I Know (June 2026)
+status: current
+as_of: 2026-06-03
 ---
 
 # Every Agentic Engineering Hack I Know (June 2026)

@@ -1,14 +1,11 @@
 ---
 tags:
-  - langgraph
-  - langchain
-  - deep-agents
+  - agent-frameworks
   - agents
   - multi-agent
-  - tutorial
-  - resource
+  - learning
   - mcp
-  - langsmith
+  - observability
 source: https://github.com/langchain-ai/langgraph-101
 date: 2026-07-03
 type: resource
@@ -16,6 +13,8 @@ author: langchain-ai
 description: "Official LangChain hands-on repo—101/201 Jupyter tracks plus Studio-ready agents for LangGraph, middleware/HITL, multi-agent, and Deep Agents (skills, AGENTS.md, memory)."
 summary: "Official LangChain hands-on repo—101/201 Jupyter tracks plus Studio-ready agents for LangGraph, middleware/HITL, multi-agent, and Deep Agents (skills, AGENTS.md, memory)."
 raw: "[[raw/github_langchain-ai_langgraph-101]]"
+status: current
+as_of: 2026-07-03
 ---
 
 # LangGraph 101 (LangChain repo)

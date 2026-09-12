@@ -1,15 +1,17 @@
 ---
 tags:
-- finance
-- quant
-- python
-- training
-- career
+  - finance
+  - quant
+  - coding-tools
+  - training
+  - career
 source: https://x.com/RohOnChain/status/2056097405783945392
 raw: '[[raw/RohOnChain_2056097405783945392]]'
 date: 2026-04-28
 type: bookmark
 description: J.P. Morgan Free Quant Python Training — Zero to Quant
+status: current
+as_of: 2026-04-28
 ---
 
 # J.P. Morgan Free Quant Python Training — Zero to Quant

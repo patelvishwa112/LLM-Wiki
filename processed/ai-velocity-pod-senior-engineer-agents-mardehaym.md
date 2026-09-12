@@ -1,5 +1,14 @@
 ---
-tags: ["agentic-engineering", "agents", "software-factory", "human-in-the-loop", "verification", "productivity", "agent-ops", "coding-tools", "career", "cost-optimization"]
+tags:
+  - ai-engineering
+  - agents
+  - human-in-the-loop
+  - verification
+  - productivity
+  - agent-ops
+  - coding-tools
+  - career
+  - cost-optimization
 source: https://x.com/mardehaym/status/2085025462481223755
 date: 2026-08
 type: bookmark
@@ -7,6 +16,8 @@ description: "Mark Ajzenstadt / LimestoneHQ AI Velocity Pod — one senior + age
 author: mardehaym
 summary: "Mark Ajzenstadt / LimestoneHQ AI Velocity Pod — one senior + agents vs five-person squad; V.U.E. gate, knowledge graph week-one, six-step ticket loop."
 raw: "[[raw/mardehaym_2085025462481223755]]"
+status: current
+as_of: 2026-08
 ---
 
 # AI Velocity Pod — one senior + agents vs five-person team

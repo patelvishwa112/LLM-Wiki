@@ -1,5 +1,13 @@
 ---
-tags: ["rl", "training", "post-training", "agents", "open-source", "glm", "megatron", "sglang", "slime"]
+tags:
+  - rl
+  - training
+  - post-training
+  - agents
+  - open-source
+  - frontier-labs
+  - distributed-systems
+  - inference
 source: https://x.com/DailyDoseOfDS_/status/2083123018914746803
 date: 2026-08-01
 type: bookmark
@@ -7,6 +15,8 @@ description: "Open-source slime RL stack behind GLM-5.2 keeps one fixed learning
 author: DailyDoseOfDS_
 summary: "Open-source slime RL stack behind GLM-5.2 keeps one fixed learning kernel and pushes task variety into data generation."
 raw: "[[raw/DailyDoseOfDS__2083123018914746803]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # slime — open-source RL kernel behind GLM-5.2

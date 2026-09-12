@@ -6,7 +6,7 @@ tags:
   - mcp
   - skills
   - context-engineering
-  - trueforge
+  - projects
   - open-source
 source: https://x.com/sumanth_077/status/2092242081154847137
 date: 2026-08-25
@@ -16,6 +16,8 @@ description: "Sumanth walks a TrueForge research agent through the harness: loop
 summary: "Sumanth walks a TrueForge research agent through the harness: loop, MCP, skills, sandbox offload, subagents, compaction, runtime approval gates, durable event stream."
 raw: "[[raw/sumanth_077_2092242081154847137]]"
 published: 2026-08-25
+status: current
+as_of: 2026-08-25
 ---
 
 # Build a Long-Running Agent With an Open Source Harness

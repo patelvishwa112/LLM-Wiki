@@ -1,12 +1,12 @@
 ---
 title: Dynamic Workflows — The Plan Moves Out of Chat
 tags:
-- claude-code
-- workflows
-- agents
-- subagents
-- orchestration
-- architecture
+  - claude-code
+  - workflows
+  - agents
+  - subagents
+  - orchestration
+  - architecture
 source: https://x.com/voxyz_ai/status/2061782441606451381
 date: 2026-06-02
 published: 2026-06-02
@@ -15,6 +15,8 @@ authors:
 type: bookmark
 raw: '[[raw/voxyz_ai_2061782441606451381]]'
 description: Claude Code Dynamic Workflows — Vox's 5 Rules
+status: current
+as_of: 2026-06-02
 ---
 
 # Claude Code Dynamic Workflows — Vox's 5 Rules

@@ -1,15 +1,10 @@
 ---
 tags:
-- trading
-- quant
-- reinforcement-learning
-- dqn
-- execution
-- twap
-- vwap
-- markov-chains
-- finance
-- systematic-trading
+  - trading
+  - quant
+  - rl
+  - productivity
+  - finance
 source: https://x.com/ritonchain/status/2068993401815761270
 raw: '[[raw/ritonchain_2068993401815761270]]'
 date: 2026-06-23
@@ -23,6 +18,8 @@ description: 'RitOnchain (Venus) walks through DQN-based adaptive execution vs T
   MDP state (inventory, time, LOB imbalance, price drift), impact+urgency reward,
   Double DQN PyTorch code, synthetic then LOBSTER/ABIDES validation, and ~23% implementation
   shortfall reduction — execution alpha is 5–15 bps, not strategy alpha.'
+status: current
+as_of: 2026-06-23
 ---
 
 # DQN Adaptive Trade Execution

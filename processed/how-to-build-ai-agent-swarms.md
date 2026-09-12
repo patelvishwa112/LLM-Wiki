@@ -1,21 +1,21 @@
 ---
 tags:
-- agents
-- multi-agent
-- swarms
-- orchestration
-- kimi
-- claude
-- kimi-k2
-- parallelism
-- rl
-- architecture
+  - agents
+  - multi-agent
+  - orchestration
+  - frontier-labs
+  - claude
+  - distributed-systems
+  - rl
+  - architecture
 source: https://x.com/av1dlive/status/2062561213532471707
 date: 2026-06-04
 type: bookmark
 author: Avid (@Av1dlive)
 raw: '[[raw/av1dlive_2062561213532471707]]'
 description: How to Build AI Agent Swarms (Complete Guide)
+status: current
+as_of: 2026-06-04
 ---
 
 # How to Build AI Agent Swarms (Complete Guide)

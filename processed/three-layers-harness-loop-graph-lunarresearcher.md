@@ -1,5 +1,14 @@
 ---
-tags: ["agents", "agent-harness", "harness-engineering", "loop-engineering", "graph-engineering", "verification", "observability", "multi-agent", "production"]
+tags:
+  - agents
+  - agent-harness
+  - harness-engineering
+  - loop-engineering
+  - knowledge-graph
+  - verification
+  - observability
+  - multi-agent
+  - production
 source: https://x.com/lunarresearcher/status/2082076425465762082
 date: 2026-07-28
 type: bookmark
@@ -7,6 +16,8 @@ description: "Harness vs loop vs graph — environment, evidence-based feedback,
 author: lunarresearcher
 summary: "Harness vs loop vs graph — environment, evidence-based feedback, and workflow topology as three distinct production agent layers."
 raw: "[[raw/lunarresearcher_2082076425465762082]]"
+status: current
+as_of: 2026-07-28
 ---
 
 # Three layers: harness, loop, graph (@lunarresearcher)

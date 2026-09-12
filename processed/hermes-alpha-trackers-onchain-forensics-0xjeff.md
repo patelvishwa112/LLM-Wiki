@@ -1,5 +1,13 @@
 ---
-tags: ["hermes", "agents", "cronjob", "agent-memory", "trading", "crypto", "onchain", "research", "agent-ops", "productivity"]
+tags:
+  - hermes
+  - agents
+  - automation
+  - agent-memory
+  - trading
+  - ai-research
+  - agent-ops
+  - productivity
 source: https://x.com/0xjeff/status/2076631167152042204
 date: 2026-07-13
 type: bookmark
@@ -7,6 +15,8 @@ description: "0xJeff's production Hermes workflows: daily analyst trackers + boo
 author: 0xJeff
 summary: "0xJeff's production Hermes workflows: daily analyst trackers + bookmark triage + Top 10 alpha synthesis with rotating contrarian sources, plus onchain forensics cross-checked against X sentiment."
 raw: "[[raw/0xjeff_2076631167152042204]]"
+status: current
+as_of: 2026-07-13
 ---
 
 # 2 Hermes Workflows I can't live without — @0xJeff

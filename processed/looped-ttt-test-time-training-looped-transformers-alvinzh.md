@@ -1,12 +1,23 @@
 ---
 type: article
 description: "Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal must be read at trained depth and mostly caches as prompt calibration."
-tags: ["training", "inference", "test-time-training", "looped-transformers", "architecture", "llm", "math", "ouro", "entropy", "adaptation", "ml-research"]
+tags:
+  - training
+  - inference
+  - reasoning
+  - architecture
+  - llm
+  - learning
+  - model-architecture
+  - continual-learning
+  - ml-research
 source: https://alvinzh04.github.io/blog/looped-ttt.html
 date: 2026-07-14
 author: AlvinZH04
 summary: "Alvin ZH on Ouro looped transformers: accuracy peaks then overthinks past trained recurrence; at trained depth, one episodic entropy TTT step on 97 RMSNorm scales lifts GSM8K ~+8 pts and beats deeper looping — signal must be read at trained depth and mostly caches as prompt calibration."
 raw: "[[raw/alvinzh04_looped_ttt]]"
+status: current
+as_of: 2026-07-14
 ---
 
 # Loop deeper, or adapt? Test-time training in looped transformers

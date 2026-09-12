@@ -4,12 +4,10 @@ tags:
   - transformers
   - training
   - inference
-  - looped-transformers
+  - reasoning
   - attention
-  - nanochat
-  - test-time-compute
   - ml-research
-  - recurrence
+  - model-architecture
 source: https://x.com/kyleliang5/status/2078543088419840292
 date: 2026-07-18
 type: bookmark
@@ -17,6 +15,8 @@ author: kyleliang5
 description: "Looped Nanochat: shared-weight two-pass Transformer with gated first-pass Q/K attention priors; +9–12% CORE, GSM8K relative +45% at ~2.4× train compute; K>2 untrained fails."
 summary: "Looped Nanochat: shared-weight two-pass Transformer with gated first-pass Q/K attention priors; +9–12% CORE, GSM8K relative +45% at ~2.4× train compute; K>2 untrained fails."
 raw: "[[raw/kyleliang5_2078543088419840292]]"
+status: current
+as_of: 2026-07-18
 ---
 
 # Looped Nanochat — two-pass routing-loop Transformer

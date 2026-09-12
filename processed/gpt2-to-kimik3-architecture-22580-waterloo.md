@@ -1,6 +1,17 @@
 ---
 title: "22580: From GPT2 to Kimi3, Explained"
-tags: [architecture, transformers, attention, kv-cache, linear-attention, deltanet, mamba, moe, mla, kimi, moonshot, inference, long-context, models, training]
+tags:
+  - architecture
+  - transformers
+  - attention
+  - kv-cache
+  - model-architecture
+  - moe
+  - frontier-labs
+  - inference
+  - long-context
+  - models
+  - training
 source: https://x.com/waterloo_intern/status/2081762065392541951
 date: 2026-07-28
 published: 2026-07-27
@@ -10,6 +21,8 @@ description: "GPT-2→KimiK3 lineage: scale 22580× is secondary to how models s
 summary: "GPT-2→KimiK3 lineage: scale 22580× is secondary to how models store, update, and retrieve in fixed-size state (linear attn, DeltaNet, KDA, MLA, MoE, AttnRes)."
 author: waterloo_intern
 raw: "[[raw/waterloo_intern_2081762065392541951]]"
+status: current
+as_of: 2026-07-28
 ---
 
 # 22580: From GPT2 to Kimi3, Explained

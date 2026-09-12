@@ -1,5 +1,9 @@
 ---
-tags: ["evals", "agents", "agent-harness", "llm-as-judge"]
+tags:
+  - evals
+  - agents
+  - agent-harness
+  - llm-judges
 source: https://x.com/JoshARosen/status/2097324183428444499
 date: 2026-09-08
 type: bookmark
@@ -7,6 +11,8 @@ description: "Josh Rosen: LLM-as-judge is moving from offline eval into agent co
 author: JoshARosen
 summary: "Josh Rosen: LLM-as-judge is moving from offline eval into agent control flow; patterns for runtime judges and why noisy judges become app failures."
 raw: "[[raw/JoshARosen_2097324183428444499]]"
+status: current
+as_of: 2026-09-08
 ---
 
 # LLM-as-Judge Architectures: Putting Evals Into Your Agent Runtime

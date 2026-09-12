@@ -1,5 +1,17 @@
 ---
-tags: ["agents", "multi-agent", "orchestration", "claude-code", "dynamic-workflows", "loop-engineering", "verification", "agent-harness", "harness-engineering", "subagents", "parallelism", "cost-optimization"]
+tags:
+  - agents
+  - multi-agent
+  - orchestration
+  - claude-code
+  - workflows
+  - loop-engineering
+  - verification
+  - agent-harness
+  - harness-engineering
+  - subagents
+  - distributed-systems
+  - cost-optimization
 source: https://x.com/0xcodez/status/2079165300625330317
 date: 2026-07-20
 type: bookmark
@@ -8,6 +20,8 @@ title: "Graph engineering: 14-step roadmap from linear agents to graph fleets"
 description: "0xCodez 14-step graph engineering roadmap: turn linear multi-step agents into Claude Code dynamic-workflow graphs with nodes/edges, diamond topology, verifiers, model tiering, and self-routing fleets."
 summary: "0xCodez 14-step graph engineering roadmap: turn linear multi-step agents into Claude Code dynamic-workflow graphs with nodes/edges, diamond topology, verifiers, model tiering, and self-routing fleets."
 raw: "[[raw/0xcodez_2079165300625330317]]"
+status: current
+as_of: 2026-07-20
 ---
 
 # Graph engineering: 14-step roadmap from linear agents to graph fleets

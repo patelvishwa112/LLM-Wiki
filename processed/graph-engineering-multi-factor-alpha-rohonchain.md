@@ -1,5 +1,18 @@
 ---
-tags: ["agents", "graph-engineering", "multi-agent", "loop-engineering", "trading", "quant", "finance", "factor-model", "slate", "orchestration", "verification", "agent-harness", "harness-engineering", "prediction-markets"]
+tags:
+  - agents
+  - knowledge-graph
+  - multi-agent
+  - loop-engineering
+  - trading
+  - quant
+  - finance
+  - projects
+  - orchestration
+  - verification
+  - agent-harness
+  - harness-engineering
+  - prediction-markets
 source: https://x.com/rohonchain/status/2080296261576687751
 date: 2026-07-23
 type: bookmark
@@ -7,6 +20,8 @@ description: "RohOnChain maps prompts→loops→swarms→graphs to an 11-node Fa
 author: RohOnChain
 summary: "RohOnChain maps prompts→loops→swarms→graphs to an 11-node Fama-French/Carhart multi-factor alpha Program on Slate (7 parallel factors + validator/HMM/portfolio/risk)."
 raw: "[[raw/rohonchain_2080296261576687751]]"
+status: current
+as_of: 2026-07-23
 ---
 
 # Graph engineering → multi-factor alpha model (RohOnChain)

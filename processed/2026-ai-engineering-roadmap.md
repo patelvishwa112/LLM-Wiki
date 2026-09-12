@@ -1,13 +1,13 @@
 ---
 tags:
-- ai-engineering
-- roadmap
-- transformers
-- agents
-- mcp
-- infrastructure
-- safety
-- curriculum
+  - ai-engineering
+  - product
+  - transformers
+  - agents
+  - mcp
+  - infrastructure
+  - safety
+  - training
 source: https://x.com/ghumare64/status/2063574610889560271
 date: 2026-06-07
 type: bookmark
@@ -23,6 +23,8 @@ description: '12-layer 2026 AI Engineering roadmap: build from scratch (math →
   loops → long-horizon agents → vLLM/serving → Constitutional AI) and ship reusable
   skills/artifacts at every layer. Designed to close the gap between slogan-level
   knowledge and mechanism-level understanding.'
+status: current
+as_of: 2026-06-07
 ---
 
 # The 2026 AI Engineering Roadmap

@@ -1,14 +1,11 @@
 ---
 tags:
-- pm
-- prd
-- agents
-- product-discovery
-- evidence
-- stakeholders
-- ambient-agents
-- cronjob
-- product-management
+  - pm
+  - agents
+  - product
+  - ai-research
+  - communication
+  - automation
 description: "Nurijanian ambient PM agents — cron evidence packets before PRDs, PR-style stakeholder review, keep uncertainty visible not polished doc theater."
 summary: "Nurijanian ambient PM agents — cron evidence packets before PRDs, PR-style stakeholder review, keep uncertainty visible not polished doc theater."
 source: https://x.com/nurijanian/status/2071555826087760076
@@ -16,6 +13,8 @@ date: 2026-06-29
 type: bookmark
 author: nurijanian
 raw: "[[raw/nurijanian_2071555826087760076]]"
+status: current
+as_of: 2026-06-29
 ---
 
 # Ambient PM agents

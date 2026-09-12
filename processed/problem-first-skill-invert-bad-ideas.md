@@ -1,13 +1,12 @@
 ---
 tags:
-- skills
-- agents
-- claude-code
-- claude-cowork
-- pm
-- problem-first
-- triage
-- templates
+  - skills
+  - agents
+  - claude-code
+  - claude-cowork
+  - pm
+  - decision-making
+  - agent-ops
 source: https://x.com/nurijanian/status/2063186118409929161
 raw: '[[raw/nurijanian_2063186118409929161]]'
 date: 2026-06-06
@@ -23,6 +22,8 @@ description: 'A Claude/Cowork skill that decompresses proposed solutions back in
   problems. 8-section output includes assumption challenges with risk+validation tests
   and 3 alternative framings. Also works in reverse for triaging your own ideas —
   90% die at "evidence status: none."'
+status: current
+as_of: 2026-06-06
 ---
 
 # /problem-first — A Skill to Invert Bad Ideas

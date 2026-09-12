@@ -1,18 +1,16 @@
 ---
 tags:
-- agents
-- generative-ui
-- mcp
-- ag-ui
-- a2ui
-- copilotkit
-- frontend
+  - agents
+  - web-dev
+  - mcp
 source: https://x.com/saboo_shubham_/status/2062220865643982875
 date: 2026-06-03
 type: bookmark
 author: Shubham Saboo
 raw: '[[raw/sabooshubham_2062220865643982875]]'
 description: Generative UI Is the New Frontend
+status: current
+as_of: 2026-06-03
 ---
 
 # Generative UI Is the New Frontend

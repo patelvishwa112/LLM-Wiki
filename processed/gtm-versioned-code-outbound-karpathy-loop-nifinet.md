@@ -1,5 +1,14 @@
 ---
-tags: ["gtm", "sales", "loop-engineering", "agents", "codex", "evals", "self-improvement", "karpathy", "agent-harness", "human-in-the-loop", "outbound", "productivity"]
+tags:
+  - gtm
+  - loop-engineering
+  - agents
+  - codex
+  - evals
+  - productivity
+  - ml-research
+  - agent-harness
+  - human-in-the-loop
 source: https://x.com/nifinet/status/2078851409068654639
 date: 2026-07-19
 type: bookmark
@@ -7,6 +16,8 @@ description: "Nicolas Finet applies Karpathy cheap-metric agent loops to outboun
 author: nifinet
 summary: "Nicolas Finet applies Karpathy cheap-metric agent loops to outbound: versioned scoring/plays, outcome memory, eval gate, human-merge PRs."
 raw: "[[raw/nifinet_2078851409068654639]]"
+status: current
+as_of: 2026-07-19
 ---
 
 # GTM as versioned code — outbound Karpathy loop

@@ -1,13 +1,12 @@
 ---
 title: Knowledge System That Compounds — Painn's Obsidian + Vellum Workflow
 tags:
-- obsidian
-- second-brain
-- knowledge-management
-- vellum
-- workflows
-- n8n
-- compounding
+  - obsidian
+  - second-brain
+  - knowledge-management
+  - agent-frameworks
+  - workflows
+  - automation
 source: https://x.com/_0xpainn/status/2061014710984511916
 date: 2026-06-02
 published: 2026-05-31
@@ -16,6 +15,8 @@ authors:
 type: bookmark
 raw: '[[raw/0xpainn_2061014710984511916]]'
 description: Knowledge System That Compounds
+status: current
+as_of: 2026-06-02
 ---
 
 # Knowledge System That Compounds

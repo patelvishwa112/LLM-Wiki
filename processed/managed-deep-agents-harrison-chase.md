@@ -1,5 +1,17 @@
 ---
-tags: ["agents", "agent-harness", "harness-engineering", "langchain", "langsmith", "deep-agents", "managed-agents", "mcp", "skills", "enterprise", "production", "sandboxes", "evals"]
+tags:
+  - agents
+  - agent-harness
+  - harness-engineering
+  - agent-frameworks
+  - observability
+  - multi-agent
+  - mcp
+  - skills
+  - enterprise
+  - production
+  - agent-ops
+  - evals
 source: https://x.com/hwchase17/status/2085780032031760694
 date: 2026-08-07
 type: bookmark
@@ -7,6 +19,8 @@ description: "Harrison Chase launches Managed Deep Agents — Deep Agents harnes
 author: hwchase17
 summary: "Harrison Chase launches Managed Deep Agents — Deep Agents harness plus LangSmith production infra (deployments, sandboxes, Context Hub, Harbor evals, memory, auth)."
 raw: "[[raw/hwchase17_2085780032031760694]]"
+status: current
+as_of: 2026-08-07
 ---
 
 # Managed Deep Agents (Harrison Chase)

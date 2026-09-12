@@ -3,10 +3,8 @@ tags:
   - career
   - ai-engineering
   - learning
-  - job-search
   - hiring
-  - rss
-  - newsletter
+  - creator-economy
   - agents
 source: https://x.com/loganthorneloe/status/2074246640999731513
 date: 2026-07-07
@@ -15,6 +13,8 @@ description: "Logan Thorneloe on sourcing durable AI skills from job qualificati
 author: loganthorneloe
 summary: "Logan Thorneloe on sourcing durable AI skills from job qualifications, curated RSS + agent filter, X/Substack, and interest-aligned depth."
 raw: "[[raw/loganthorneloe_2074246640999731513]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # How I keep up with important AI skills (Logan Thorneloe)

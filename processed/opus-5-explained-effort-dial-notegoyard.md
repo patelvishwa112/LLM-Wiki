@@ -1,5 +1,16 @@
 ---
-tags: ["claude", "opus", "fable-5", "anthropic", "cost-optimization", "token-economy", "agents", "coding-tools", "models", "ai-strategy", "effort-dial", "prompt-caching", "safety"]
+tags:
+  - claude
+  - fable
+  - anthropic
+  - cost-optimization
+  - ai-economics
+  - agents
+  - coding-tools
+  - models
+  - ai-strategy
+  - reasoning
+  - safety
 source: https://x.com/notegoyard/status/2086768712804126959
 date: 2026-07-24
 type: bookmark
@@ -7,6 +18,8 @@ description: "YARD on Opus 5 — same price as Opus 4.8 with an effort dial; Ant
 author: notEgoyard
 summary: "YARD on Opus 5 — same price as Opus 4.8 with an effort dial; Anthropic pitches intelligence per dollar, not peak smarts (Fable 5 still higher)."
 raw: "[[raw/notegoyard_2086768712804126959]]"
+status: current
+as_of: 2026-07-24
 ---
 
 # Opus 5 explained (effort dial / intentional “downgrade”)

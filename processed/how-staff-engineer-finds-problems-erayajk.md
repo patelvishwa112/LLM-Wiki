@@ -1,5 +1,7 @@
 ---
-tags: ["engineering", "productivity"]
+tags:
+  - ai-engineering
+  - productivity
 source: https://x.com/erayajk/status/2095182663719997775
 date: 2026-09-02
 type: bookmark
@@ -7,6 +9,8 @@ description: "Eray (@erayajk): staff-engineer problem finding — listen to fric
 author: erayajk
 summary: "Eray (@erayajk): staff-engineer problem finding — listen to friction, treat requests as symptoms, wait for overlap, prototype, shape so others execute."
 raw: "[[raw/erayajk_2095182663719997775]]"
+status: current
+as_of: 2026-09-02
 ---
 
 # How I Find Problems to Solve as a Staff Engineer

@@ -1,10 +1,10 @@
 ---
 tags:
-- fable-5
-- system-prompt
-- briefing
-- mythos
-- claude
+  - fable
+  - prompt-engineering
+  - productivity
+  - projects
+  - claude
 source: https://x.com/godofprompt_new/status/2064695852480794668
 date: 2026-06-10
 type: bookmark
@@ -18,6 +18,8 @@ description: 'Full system prompt for a personalized Fable 5 briefing assistant: 
   definition, length/cut rules, skepticism posture, operational reality first, output
   format, and detailed reference material on access, safeguards, coding, vision, memory,
   and migration mechanics.'
+status: current
+as_of: 2026-06-10
 ---
 
 # Fable 5 System Prompt

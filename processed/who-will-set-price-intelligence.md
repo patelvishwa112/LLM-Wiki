@@ -1,15 +1,15 @@
 ---
 tags:
-- ai-strategy
-- investing
-- venture-capital
-- ai-economics
-- geopolitics
-- inference-time-compute
-- open-weights
-- enterprise-ai
-- startups
-- agents
+  - ai-strategy
+  - finance
+  - venture-capital
+  - ai-economics
+  - ai-policy
+  - reasoning
+  - open-source
+  - enterprise
+  - startups
+  - agents
 source: https://x.com/jayagup10/status/2065965053334216718
 date: 2026-06-23
 type: bookmark
@@ -23,6 +23,8 @@ description: Intelligence is becoming a priced strategic resource; AI investing 
   SaaS playbooks because capability, cost, latency, inference-time compute, task horizon,
   geopolitics, and talent move on coupled curves. Threat is layer migration, not competitors;
   building and investing resemble running a trading book.
+status: current
+as_of: 2026-06-23
 ---
 
 # Who Will Set the Price of Intelligence?

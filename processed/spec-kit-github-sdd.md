@@ -1,15 +1,10 @@
 ---
 tags:
-- spec-driven-development
-- agents
-- claude-code
-- skills
-- templates
-- presets
-- extensions
-- github
-- coding-tools
-- workflows
+  - coding-tools
+  - agents
+  - claude-code
+  - skills
+  - workflows
 source: https://github.com/github/spec-kit
 raw: '[[raw/github_spec-kit]]'
 date: 2026-06-06
@@ -27,6 +22,8 @@ description: 'GitHub''s open-source Spec-Driven Development toolkit. Flips devel
   4-layer extensibility: project overrides > presets > extensions > core. Supports
   30+ AI coding agents. Extension vs preset distinction maps cleanly to Hermes skill
   vs preset model.'
+status: current
+as_of: 2026-06-06
 ---
 
 # Spec Kit — GitHub's Spec-Driven Development Toolkit

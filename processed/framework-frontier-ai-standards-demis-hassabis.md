@@ -1,5 +1,12 @@
 ---
-tags: ["agi", "ai-safety", "ai-policy", "governance", "frontier-models", "deepmind", "regulation", "agentic", "cybersecurity", "biosecurity"]
+tags:
+  - ml-research
+  - safety
+  - ai-policy
+  - models
+  - frontier-labs
+  - agents
+  - security
 source: https://x.com/demishassabis/status/2076957440109625718
 date: 2026-07-14
 type: bookmark
@@ -7,6 +14,8 @@ description: "Demis Hassabis: AGI years away; proposes US FINRA-like Frontier AI
 author: demishassabis
 summary: "Demis Hassabis: AGI years away; proposes US FINRA-like Frontier AI Standards Body with dynamic benchmarks, pre-release testing, agentic/deception evals, and path to international standards."
 raw: "[[raw/demishassabis_2076957440109625718]]"
+status: current
+as_of: 2026-07-14
 ---
 
 # A Framework for Frontier AI and the Dawning of a New Age — Demis Hassabis

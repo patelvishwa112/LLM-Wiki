@@ -1,5 +1,8 @@
 ---
-tags: ["agents", "enterprise", "process", "productivity"]
+tags:
+  - agents
+  - enterprise
+  - productivity
 source: https://x.com/vasuman/status/2095999742031675738
 date: 2026-09-04
 type: bookmark
@@ -7,6 +10,8 @@ description: "Vas (@vasuman): applied AI fails by paving cow paths; Hammer 1990;
 author: vasuman
 summary: "Vas (@vasuman): applied AI fails by paving cow paths; Hammer 1990; map process then sort steps deterministic vs agentic vs HITL. Vendor (Varick)."
 raw: "[[raw/vasuman_2095999742031675738]]"
+status: current
+as_of: 2026-09-04
 ---
 
 # Applied AI Doesn't Work

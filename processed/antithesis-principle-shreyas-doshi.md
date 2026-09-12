@@ -1,6 +1,12 @@
 ---
 title: "The Antithesis Principle"
-tags: [clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]
+tags:
+  - decision-making
+  - career
+  - productivity
+  - learning
+  - pm
+  - product
 source: https://x.com/shreyas/status/2081524543471153456
 date: 2026-07-27
 published: 2026-07-26
@@ -10,6 +16,8 @@ description: "Human-nature truths point two ways — outward tactic vs inward an
 summary: "Human-nature truths point two ways — outward tactic vs inward antithesis; smart finds the first, wise the second."
 author: shreyas
 raw: "[[raw/shreyas_2081524543471153456]]"
+status: current
+as_of: 2026-07-27
 ---
 
 # The Antithesis Principle

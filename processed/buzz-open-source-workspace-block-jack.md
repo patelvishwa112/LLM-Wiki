@@ -1,5 +1,15 @@
 ---
-tags: ["agents", "agent-harness", "enterprise", "open-source", "nostr", "block", "goose", "claude-code", "codex", "multi-agent", "agent-ops", "cryptographic-identity", "context-management", "decentralization"]
+tags:
+  - agents
+  - agent-harness
+  - enterprise
+  - open-source
+  - coding-agents
+  - claude-code
+  - codex
+  - multi-agent
+  - agent-ops
+  - context-engineering
 source: https://x.com/jack/status/2080056638820450400
 date: 2026-07-23
 type: bookmark
@@ -7,6 +17,8 @@ description: "Jack Dorsey/Block open-sources Buzz — self-hosted Nostr workspac
 author: jack
 summary: "Jack Dorsey/Block open-sources Buzz — self-hosted Nostr workspace where people and agents share cryptographic identity, one event log, and harnesses for Goose/Codex/Claude Code."
 raw: "[[raw/jack_2080056638820450400]]"
+status: current
+as_of: 2026-07-23
 ---
 
 # Buzz — open-source workspace for people + agents (Block / Jack)

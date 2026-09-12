@@ -1,5 +1,12 @@
 ---
-tags: ["rl", "training", "fine-tuning", "grpo", "agents", "evals", "openpipe", "art", "ruler", "lora", "post-training"]
+tags:
+  - rl
+  - training
+  - fine-tuning
+  - agents
+  - evals
+  - benchmarks
+  - post-training
 source: https://x.com/akshay_pachaar/status/2029212227438518406
 date: 2026-08-01
 type: bookmark
@@ -7,6 +14,8 @@ description: "2026 agent fine-tuning path: GRPO + RULER LLM judges + OpenPipe AR
 author: akshay_pachaar
 summary: "2026 agent fine-tuning path: GRPO + RULER LLM judges + OpenPipe ART for multi-turn tool agents without hand-written rewards."
 raw: "[[raw/akshay_pachaar_2029212227438518406]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # How to Fine-Tune LLMs in 2026 (GRPO + RULER + ART)

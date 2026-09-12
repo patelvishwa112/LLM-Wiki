@@ -2,13 +2,13 @@
 title: Anthropic Publications Master Index
 created: 2026-05-22
 updated: 2026-05-22
-type: overview
+type: concept
 tags:
-- overview
-- anthropic
+  - anthropic
 sources: []
 confidence: high
 description: Anthropic Publications
+status: current
 ---
 
 # Anthropic Publications

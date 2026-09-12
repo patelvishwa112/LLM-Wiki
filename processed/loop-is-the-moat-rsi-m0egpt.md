@@ -1,5 +1,18 @@
 ---
-tags: ["recursive-self-improvement", "agents", "agent-harness", "harness-engineering", "evals", "rlhf", "rlvr", "synthetic-data", "autodata", "verification", "ai-strategy", "loop-engineering", "continual-learning"]
+tags:
+  - recursive-self-improvement
+  - agents
+  - agent-harness
+  - harness-engineering
+  - evals
+  - rlhf
+  - rl
+  - synthetic-data
+  - data-engineering
+  - verification
+  - ai-strategy
+  - loop-engineering
+  - continual-learning
 source: https://x.com/m0egpt/status/2083913045152035139
 date: 2026-08-02
 type: bookmark
@@ -7,6 +20,8 @@ description: "RSI as engineering roadmap — private model+harness+verifier+synt
 author: m0egpt
 summary: "RSI as engineering roadmap — private model+harness+verifier+synthetic-data flywheel is the durable moat; the verifier is the ceiling."
 raw: "[[raw/m0egpt_2083913045152035139]]"
+status: current
+as_of: 2026-08-02
 ---
 
 # The Loop Is the Moat (@m0egpt)

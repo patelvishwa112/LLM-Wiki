@@ -1,6 +1,6 @@
 ---
 tags:
-  - agentic-engineering
+  - ai-engineering
   - agents
   - agent-harness
   - harness-engineering
@@ -10,7 +10,7 @@ tags:
   - agent-memory
   - productivity
   - agent-ops
-  - devin
+  - coding-agents
 source: https://x.com/aashatwt/status/2077428487779148061
 date: 2026-07-15
 type: bookmark
@@ -18,6 +18,8 @@ description: "Aasha notes on Kun's agentic engineer workflow — manager mindset
 author: aashatwt
 summary: "Aasha notes on Kun's agentic engineer workflow — manager mindset, parallel Claude/Devin, memory over prompts, tmux/neovim environment."
 raw: "[[raw/aashatwt_2077428487779148061]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # THE AGENTIC ENGINEER WORKFLOW

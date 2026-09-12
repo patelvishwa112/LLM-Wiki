@@ -1,5 +1,13 @@
 ---
-tags: ["design", "skills", "ui", "frontend", "prompt-engineering", "taste", "claude", "codex", "creativity"]
+tags:
+  - product
+  - skills
+  - web-dev
+  - prompt-engineering
+  - decision-making
+  - claude
+  - codex
+  - productivity
 source: https://x.com/lexnlin/status/2076422557180608888
 date: 2026-07-12
 type: bookmark
@@ -7,6 +15,8 @@ description: "Leon Lin (@LexnLin) on designing with AI: taste and direction stay
 author: LexnLin
 summary: "Leon Lin (@LexnLin) on designing with AI: taste and direction stay human; three methods — design skills (fast), component-by-component with references (best), inspiration boards (middle)."
 raw: "[[raw/lexnlin_2076422557180608888]]"
+status: current
+as_of: 2026-07-12
 ---
 
 # How To Actually Design With AI — @LexnLin

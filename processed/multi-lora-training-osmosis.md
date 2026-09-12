@@ -1,14 +1,12 @@
 ---
 title: Training Thousands of LoRA Adapters Concurrently — Osmosis Multi-LoRA
 tags:
-- lora
-- rl
-- training
-- fine-tuning
-- qwen
-- osmosis
-- post-training
-- slm
+  - fine-tuning
+  - rl
+  - training
+  - frontier-labs
+  - post-training
+  - slm
 source: https://x.com/_weexiao/status/2061855508156563871
 date: 2026-06-02
 published: 2026-06-02
@@ -17,6 +15,8 @@ authors:
 type: bookmark
 raw: '[[raw/weexiao_2061855508156563871]]'
 description: Multi-LoRA Training at Scale
+status: current
+as_of: 2026-06-02
 ---
 
 # Multi-LoRA Training at Scale

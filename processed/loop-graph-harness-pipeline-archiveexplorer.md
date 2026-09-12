@@ -1,5 +1,14 @@
 ---
-tags: ["loop-engineering", "graph-engineering", "harness-engineering", "agents", "agent-harness", "verification", "context-management", "subagents", "production"]
+tags:
+  - loop-engineering
+  - knowledge-graph
+  - harness-engineering
+  - agents
+  - agent-harness
+  - verification
+  - context-engineering
+  - subagents
+  - production
 source: https://x.com/ArchiveExplorer/status/2080621294979023358
 date: 2026-08-01
 type: bookmark
@@ -7,6 +16,8 @@ description: "Bottom-up LOOP→GRAPH→HARNESS tutorial with offline demo repo; 
 author: ArchiveExplorer
 summary: "Bottom-up LOOP→GRAPH→HARNESS tutorial with offline demo repo; empty child contexts and rule-based verify-first loops."
 raw: "[[raw/ArchiveExplorer_2080621294979023358]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # LOOP → GRAPH → HARNESS: whole pipeline in one sitting

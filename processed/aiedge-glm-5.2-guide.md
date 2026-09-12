@@ -1,16 +1,16 @@
 ---
 tags:
-- glm-5.2
-- model-guide
-- aiedge
-- ml-research
-- llm
-- zhipu
-- chinese-models
+  - frontier-labs
+  - models
+  - projects
+  - ml-research
+  - llm
 source: https://x.com/aiedge_/status/2067978505837850637?s=46
 type: bookmark
 ingested: 2026-06-20
 description: GLM-5.2 Ultimate Guide
+status: current
+as_of: 2026-06-20
 ---
 
 # GLM-5.2 Ultimate Guide

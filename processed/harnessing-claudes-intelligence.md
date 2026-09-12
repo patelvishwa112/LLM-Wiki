@@ -1,11 +1,11 @@
 ---
 tags:
-- agents
-- agent-harness
-- claude
-- skills
-- mcp
-- prompt-engineering
+  - agents
+  - agent-harness
+  - claude
+  - skills
+  - mcp
+  - prompt-engineering
 source: https://claude.com/blog/harnessing-claudes-intelligence
 raw: '[[raw/anthropic-harnessing-claudes-intelligence]]'
 date: 2026-06-07
@@ -22,6 +22,8 @@ related:
 description: Design patterns for building applications that keep pace with Claude's
   evolving intelligence — use what it already knows, ask what you can stop doing,
   and set boundaries carefully.
+status: current
+as_of: 2026-06-07
 ---
 
 # Harnessing Claude's Intelligence

@@ -1,5 +1,13 @@
 ---
-tags: ["codex", "gpt-5.6", "cost-optimization", "subagents", "agent-harness", "routing", "openai", "sol", "luna", "productivity"]
+tags:
+  - codex
+  - frontier-labs
+  - cost-optimization
+  - subagents
+  - agent-harness
+  - inference
+  - projects
+  - productivity
 source: https://x.com/sairahul1/status/2076556282195329249
 date: 2026-07-13
 type: bookmark
@@ -7,6 +15,8 @@ description: "Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clon
 author: sairahul1
 summary: "Rahul (@sairahul1) Codex Pro limit guide: avoid Ultra (parent-clone subagents); Sol Extra High + Sol Medium + Luna Extra High; max_depth=1; AGENTS.md no auto-spawn; explicit stop points."
 raw: "[[raw/sairahul1_2076556282195329249]]"
+status: current
+as_of: 2026-07-13
 ---
 
 # How To Use GPT-5.6 All Day Without Hitting Limits — @sairahul1

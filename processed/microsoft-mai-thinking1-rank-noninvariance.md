@@ -1,19 +1,20 @@
 ---
 tags:
-- training
-- rl
-- models
-- microsoft
-- mai
-- data-quality
-- ablations
-- evaluation
+  - training
+  - rl
+  - models
+  - frontier-labs
+  - data-engineering
+  - ml-research
+  - evals
 source: https://x.com/alphasignalai/status/2062163858182328424
 date: 2026-06-03
 type: bookmark
 author: AlphaSignal AI
 raw: '[[raw/alphasignalai_2062163858182328424]]'
 description: Microsoft's Most Important Result Isn't a Benchmark (MAI-Thinking-1)
+status: current
+as_of: 2026-06-03
 ---
 
 # Microsoft's Most Important Result Isn't a Benchmark (MAI-Thinking-1)

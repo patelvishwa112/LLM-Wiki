@@ -12,8 +12,8 @@ tags:
   - openclaw
   - skills
   - observability
-  - local-first
-  - sqlite
+  - infrastructure
+  - databases
 source: https://github.com/ShenSeanChen/waku-agent
 date: 2026-07-18
 type: resource
@@ -21,6 +21,8 @@ description: "Waku: MIT local-first personal agent teaching harness, loop (~95 L
 author: ShenSeanChen
 summary: "Waku: MIT local-first personal agent teaching harness, loop (~95 LOC), memory pillars + retrieval gate, and dual evals/release gate; dashboard + Telegram/voice; Hermes/OpenClaw-shaped blueprint."
 raw: "[[raw/github_shenseanchen_waku-agent]]"
+status: current
+as_of: 2026-07-18
 ---
 
 # waku-agent (GitHub)

@@ -1,12 +1,23 @@
 ---
 type: bookmark
 description: "Vasuman (Varick Agents) for enterprise CFOs: horizontal copilots and point SaaS fail; win with background agents inside existing ERP tools, ~85% deterministic code + 15% LLM judgment, process mapping, confidence gates, evals — claimed close 12→5 days."
-tags: ["agents", "enterprise", "finance", "agent-ops", "evals", "agent-harness", "cost-optimization", "workflow", "varick", "background-agents"]
+tags:
+  - agents
+  - enterprise
+  - finance
+  - agent-ops
+  - evals
+  - agent-harness
+  - cost-optimization
+  - workflows
+  - projects
 source: https://x.com/vasuman/status/2077156239059107867
 date: 2026-07-15
 author: vasuman
 summary: "Vasuman (Varick Agents) for enterprise CFOs: horizontal copilots and point SaaS fail; win with background agents inside existing ERP tools, ~85% deterministic code + 15% LLM judgment, process mapping, confidence gates, evals — claimed close 12→5 days."
 raw: "[[raw/vasuman_2077156239059107867]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # AI for Enterprise Finance & How to Do It Right

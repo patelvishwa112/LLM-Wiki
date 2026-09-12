@@ -1,14 +1,14 @@
 ---
 tags:
-- anthropic
-- recursive-self-improvement
-- agents
-- safety
-- alignment
-- acceleration
-- code-generation
-- research-automation
-- benchmarks
+  - anthropic
+  - recursive-self-improvement
+  - agents
+  - safety
+  - alignment
+  - ml-research
+  - coding-tools
+  - ai-research
+  - benchmarks
 source: https://www.anthropic.com/institute/recursive-self-improvement
 date: 2026-06-08
 type: article
@@ -30,6 +30,8 @@ description: 'The Anthropic Institute''s definitive analysis showing AI is alrea
   accelerating AI development: >80% of Anthropic''s code is Claude-authored, engineers
   ship 8x more code, task horizons doubled from 4min to 16+ hours. Three futures mapped,
   with compounding efficiency as the most likely path.'
+status: current
+as_of: 2026-06-08
 ---
 
 # Recursive Self-Improvement

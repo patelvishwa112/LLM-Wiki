@@ -1,14 +1,14 @@
 ---
 tags:
-  - fable-5
+  - fable
   - agents
   - agent-harness
   - claude-code
-  - loops
+  - loop-engineering
   - continual-learning
   - skills
   - verification
-  - dynamic-workflows
+  - workflows
   - harness-engineering
 source: https://x.com/0xcodez/status/2065089060104720776
 date: 2026-06-11
@@ -17,6 +17,8 @@ author: 0xcodez
 description: "14-step roadmap for a compounding Fable 5 harness: four-layer stack, /goal vs Outcomes, verifiers, STATE.md, Skills, Routines, and model routing."
 summary: "14-step roadmap for a compounding Fable 5 harness: four-layer stack, /goal vs Outcomes, verifiers, STATE.md, Skills, Routines, and model routing."
 raw: "[[raw/0xcodez_2065089060104720776]]"
+status: current
+as_of: 2026-06-11
 ---
 
 # Build self-improving agent system with Fable 5 (14 steps)

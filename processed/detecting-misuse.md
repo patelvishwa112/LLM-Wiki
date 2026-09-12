@@ -4,8 +4,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- safety
-- misuse
+  - safety
 sources:
 - raw/anthropic/articles/anthropic-news-detecting-and-countering-malicious-uses-of-claude-march-2025.md
 - raw/anthropic/articles/anthropic-news-detecting-countering-misuse-aug-2025.md
@@ -17,6 +16,7 @@ sources:
 - raw/anthropic/articles/anthropic-news-our-approach-to-understanding-and-addressing-ai-harms.md
 confidence: high
 description: Detecting and Countering Misuse
+status: current
 ---
 
 # Detecting and Countering Misuse

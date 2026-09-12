@@ -1,13 +1,11 @@
 ---
 title: How to Read Any Company With AI Like an Analyst
 tags:
-- finance
-- agents
-- mcp
-- coding-tools
-- investing
-- crypto
-- analysis
+  - finance
+  - agents
+  - mcp
+  - coding-tools
+  - ai-research
 source: https://x.com/gemchange_ltd/status/2060757358297469365
 date: 2026-06-01
 published: 2026-05-30
@@ -16,6 +14,8 @@ authors:
 type: bookmark
 raw: '[[raw/x_gemchange_ltd_how-to-read-company-ai-analyst]]'
 description: How to Read Any Company With AI Like an Analyst
+status: current
+as_of: 2026-06-01
 ---
 
 # How to Read Any Company With AI Like an Analyst

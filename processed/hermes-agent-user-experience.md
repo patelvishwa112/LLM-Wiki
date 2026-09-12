@@ -1,14 +1,16 @@
 ---
 tags:
-- agents
-- hermes-agent
-- productivity
-- agent-frameworks
+  - agents
+  - hermes
+  - productivity
+  - agent-frameworks
 source: https://x.com/shannholmberg/status/2055335043904492011
 raw: '[[raw/shannholmberg_2055335043904492011]]'
 date: 2026-05-12
 type: bookmark
 description: Hermes Agent — User Experience and Productivity Impact
+status: current
+as_of: 2026-05-12
 ---
 
 # Hermes Agent — User Experience and Productivity Impact

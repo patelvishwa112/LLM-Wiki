@@ -1,12 +1,21 @@
 ---
 type: bookmark
 description: "Muskan Kalra beginner map of Physical AI: five layers (brain/VLA, humanoid body OEMs, parts/actuators, training data, deployments) with 2026 funding context — humanoids as stress test, not the whole market."
-tags: ["robotics", "physical-ai", "vla", "humanoids", "investing", "hardware", "simulation", "nvidia", "foundation-models", "ai-strategy"]
+tags:
+  - robotics
+  - finance
+  - gpu
+  - world-models
+  - frontier-labs
+  - models
+  - ai-strategy
 source: https://x.com/muskan_kalra24/status/2077090406819647871
 date: 2026-07-15
 author: muskan_kalra24
 summary: "Muskan Kalra beginner map of Physical AI: five layers (brain/VLA, humanoid body OEMs, parts/actuators, training data, deployments) with 2026 funding context — humanoids as stress test, not the whole market."
 raw: "[[raw/muskan_kalra24_2077090406819647871]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # The Beginner’s Guide to Physical AI Stack

@@ -1,5 +1,10 @@
 ---
-tags: ["writing", "productivity", "content-strategy", "creator-economy", "communication", "amazon", "clear-thinking", "memos"]
+tags:
+  - writing
+  - productivity
+  - creator-economy
+  - communication
+  - decision-making
 source: https://x.com/dickiebush/status/2078096611138580818
 date: 2026-07-17
 type: bookmark
@@ -7,6 +12,8 @@ description: "Bezos banned slides for 6-page narrative memos plus six writing ru
 author: dickiebush
 summary: "Bezos banned slides for 6-page narrative memos plus six writing rules that force clear thinking"
 raw: "[[raw/dickiebush_2078096611138580818]]"
+status: current
+as_of: 2026-07-17
 ---
 
 # Bezos Writing Framework — 6-page narrative memos (Dickie Bush)

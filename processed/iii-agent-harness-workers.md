@@ -1,19 +1,20 @@
 ---
 tags:
-- agents
-- agent-harness
-- iii
-- agent-architecture
-- workers
-- orchestration
-- policy-engine
-- approval-gate
+  - agents
+  - agent-harness
+  - agent-architecture
+  - multi-agent
+  - orchestration
+  - rl
+  - agent-ops
 source: https://x.com/mfpiccolo/status/2060069083878408689
 raw: '[[raw/mfpiccolo_2060069083878408689]]'
 date: 2026-05-28
 type: bookmark
 author: mfpiccolo
 description: How to Build Your Own Agent Harness
+status: current
+as_of: 2026-05-28
 ---
 
 # How to Build Your Own Agent Harness

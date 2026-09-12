@@ -1,12 +1,11 @@
 ---
 title: Hermes /goal — How to Turn a Chat Message Into a Standing Job
 tags:
-- hermes
-- goal
-- productivity
-- agents
-- workflows
-- autonomy
+  - hermes
+  - agents
+  - productivity
+  - workflows
+  - autonomy
 source: https://x.com/zaimiri/status/2061745669077926042
 date: 2026-06-02
 published: 2026-06-02
@@ -15,6 +14,8 @@ authors:
 type: bookmark
 raw: '[[raw/zaimiri_2061745669077926042]]'
 description: Hermes /goal — Standing Jobs Instead of Disposable Prompts
+status: current
+as_of: 2026-06-02
 ---
 
 # Hermes /goal — Standing Jobs Instead of Disposable Prompts

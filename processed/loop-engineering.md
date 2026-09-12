@@ -1,12 +1,12 @@
 ---
 tags:
-- loop-engineering
-- agent-orchestration
-- skills
-- worktrees
-- sub-agents
-- claude-code
-- codex
+  - loop-engineering
+  - orchestration
+  - skills
+  - coding-tools
+  - subagents
+  - claude-code
+  - codex
 source: https://x.com/addyosmani/status/2064127981161959567
 date: 2026-06-08
 type: bookmark
@@ -20,6 +20,8 @@ description: 'Loop engineering = designing the system that prompts agents instea
   of prompting them yourself. Five building blocks: automations, worktrees, skills,
   plugins/connectors, sub-agents + external memory. Both Codex and Claude Code now
   ship all five. The expensive part moved from tokens to loop management and verification.'
+status: current
+as_of: 2026-06-08
 ---
 
 # Loop Engineering

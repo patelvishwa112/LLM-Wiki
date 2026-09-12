@@ -1,8 +1,8 @@
 ---
 title: On mid-career (dis)satisfaction
 tags:
-- career
-- productivity
+  - career
+  - productivity
 source: https://x.com/shreyas/status/2061140507884155145
 date: 2026-06-01
 published: 2026-05-31
@@ -11,6 +11,8 @@ authors:
 type: bookmark
 raw: '[[raw/x_shreyas_mid-career-dissatisfaction]]'
 description: On mid-career (dis)satisfaction
+status: current
+as_of: 2026-06-01
 ---
 
 # On mid-career (dis)satisfaction

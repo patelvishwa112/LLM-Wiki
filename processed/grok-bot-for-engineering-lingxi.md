@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "multi-agent", "agent-ops", "agent-harness", "cronjob", "cursor", "verification", "xai"]
+tags:
+  - agents
+  - multi-agent
+  - agent-ops
+  - agent-harness
+  - automation
+  - coding-tools
+  - verification
+  - frontier-labs
 source: https://x.com/lingxi/status/2094493172516966781
 date: 2026-08-31
 type: bookmark
@@ -7,6 +15,8 @@ description: "Lingxi (xAI): Grok Bot mini-org — five domain engineer bots plus
 author: lingxi
 summary: "Lingxi (xAI): Grok Bot mini-org — five domain engineer bots plus Jenny ops, Notion 30-min cadence, nightly audits, P0 steering of Cursor cloud agents."
 raw: "[[raw/lingxi_2094493172516966781]]"
+status: current
+as_of: 2026-08-31
 ---
 
 # Grok Bot for Engineering

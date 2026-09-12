@@ -1,14 +1,12 @@
 ---
 tags:
-- polygres
-- postgres
-- agent-memory
-- agents
-- knowledge-graph
-- context-management
-- databases
-- enterprise
-- harness-engineering
+  - databases
+  - agent-memory
+  - agents
+  - knowledge-graph
+  - context-engineering
+  - enterprise
+  - harness-engineering
 source: https://x.com/daleverett/status/2080883869281386672
 date: 2026-07-25
 author: dale (@daleverett)
@@ -16,6 +14,8 @@ type: bookmark
 description: "Polygres 'thinking database': infinite context = addressable rows/relations/embeddings on demand, not stuffing the company into the prompt. Better context over more context; Postgres as system of thought."
 summary: "Polygres 'thinking database': infinite context = addressable rows/relations/embeddings on demand, not stuffing the company into the prompt. Better context over more context; Postgres as system of thought."
 raw: "[[raw/daleverett_2080883869281386672]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Thinking database / infinite context (Polygres)

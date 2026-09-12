@@ -1,12 +1,11 @@
 ---
 tags:
-- agent-architecture
-- agent-harness
-- rag
-- agents
-- retrieval
-- prompt-engineering
-- agent-ops
+  - agent-architecture
+  - agent-harness
+  - rag
+  - agents
+  - prompt-engineering
+  - agent-ops
 source: https://x.com/technmak/status/2068683947899273295
 type: bookmark
 related:
@@ -33,6 +32,7 @@ description: '"@techNmak''s Part 2 post on production AI systems. Focuses on whe
   and agent design (tool design, observation, verification, memory, termination).
   Strong emphasis on ''Model proposes. System verifies. Tool executes.'' Includes
   practical interview scenarios that distinguish builders from readers."'
+status: current
 ---
 
 # Production AI Systems: RAG and Agents (Part 2)

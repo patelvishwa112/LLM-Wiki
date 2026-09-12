@@ -1,5 +1,12 @@
 ---
-tags: ["training", "rl", "rlvr", "grpo", "post-training", "agents", "distillation", "trl", "verifiable-rewards", "dapo", "deepseek", "huggingface"]
+tags:
+  - training
+  - rl
+  - post-training
+  - agents
+  - distillation
+  - frontier-labs
+  - open-source
 source: https://x.com/sergiopaniego/status/2086805987705417851
 date: 2026-08-10
 type: bookmark
@@ -7,6 +14,8 @@ description: "Sergio Paniego maps 2026 frontier post-training RL — verifiable 
 author: SergioPaniego
 summary: "Sergio Paniego maps 2026 frontier post-training RL — verifiable rewards, GRPO variants (DAPO/GSPO/CISPO), agentic environments, and RL-then-distill pipelines."
 raw: "[[raw/sergiopaniego_2086805987705417851]]"
+status: current
+as_of: 2026-08-10
 ---
 
 # How frontier models train on outcomes in 2026

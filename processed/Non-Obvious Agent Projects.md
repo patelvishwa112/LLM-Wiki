@@ -1,17 +1,16 @@
 ---
 tags:
-- agents
-- project-ideas
-- critique
-- agentic-ai
-- personal-tools
+  - agents
+  - projects
+  - verification
 created: 2026-05-30
 source: Claude Code DeepSeek V4 Pro research session
-type: research-synthesis
+type: concept
 related:
 - '[[Agent Systems and Context Engineering Projects 2026]]'
 - '[[Bookmarks Index]]'
 description: Non-Obvious Agent Projects — Beyond the Listicles
+status: current
 ---
 
 # Non-Obvious Agent Projects — Beyond the Listicles

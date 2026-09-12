@@ -7,10 +7,9 @@ tags:
   - harness-engineering
   - training
   - rl
-  - sft
-  - context-management
+  - fine-tuning
+  - context-engineering
   - kv-cache
-  - plasticity
   - post-training
 source: https://x.com/oneill_c/status/2077453217609453784
 date: 2026-07-15
@@ -19,6 +18,8 @@ description: "Charlie ONeill — define continual learning for specialized agent
 author: oneill_c
 summary: "Charlie ONeill — define continual learning for specialized agents; amnesiac intern; KV vs weights; Still/latents; bake-in vs retrieve; weight-update failure modes."
 raw: "[[raw/oneill_c_2077453217609453784]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # Trying to actually define continual learning

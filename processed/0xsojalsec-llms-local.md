@@ -1,22 +1,17 @@
 ---
 tags:
-- local-llms
-- inference
-- ollama
-- llama-cpp
-- vllm
-- local-ai
-- hardware
-- agent-frameworks
-- rag
-- training
-- communities
-- resource-list
-- ml-research
+  - inference
+  - gpu
+  - agent-frameworks
+  - rag
+  - training
+  - ml-research
 source: https://github.com/0xSojalSec/LLMs-local
 type: bookmark
 ingested: 2026-06-19
 description: 'LLMs-local: Curated List of Local LLM Platforms, Tools, and Resources'
+status: current
+as_of: 2026-06-19
 ---
 
 # LLMs-local: Curated List of Local LLM Platforms, Tools, and Resources

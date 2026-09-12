@@ -1,5 +1,12 @@
 ---
-tags: ["career", "hiring", "interview-prep", "coding-tools", "agents", "fundamentals", "soft-skills", "ai-engineering"]
+tags:
+  - career
+  - hiring
+  - coding-tools
+  - agents
+  - learning
+  - communication
+  - ai-engineering
 source: https://x.com/shubhranshu2009/status/2089946957313953980
 date: 2026-08-19
 type: bookmark
@@ -7,6 +14,8 @@ description: "2026 tech interviews — clear thinking out loud > LeetCode grind;
 author: shubhranshu2009
 summary: "2026 tech interviews — clear thinking out loud > LeetCode grind; AI-use honesty; patterns not memorization; real stories; calm under I-don't-know."
 raw: "[[raw/shubhranshu2009_2089946957313953980]]"
+status: current
+as_of: 2026-08-19
 ---
 
 # How to clear any technical interview in 2026

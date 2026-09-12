@@ -1,13 +1,13 @@
 ---
 tags:
-- claude
-- claude-cowork
-- productivity
-- personal-assistant
-- projects
-- skills
-- context-engineering
-- second-brain
+  - claude
+  - claude-cowork
+  - productivity
+  - agents
+  - projects
+  - skills
+  - context-engineering
+  - second-brain
 source: https://x.com/0xMortyx/status/2063967160620245116
 date: 2026-06-08
 type: bookmark
@@ -23,6 +23,8 @@ related:
 description: A practical guide to building a personal AI assistant entirely within
   Claude using Projects, master prompts, context files, web search, and Artifacts
   — zero additional spend beyond the Claude subscription.
+status: current
+as_of: 2026-06-08
 ---
 
 # Claude Personal Assistant — $0 Build

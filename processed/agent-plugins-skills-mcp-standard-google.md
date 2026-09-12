@@ -1,5 +1,14 @@
 ---
-tags: ["skills", "mcp", "agents", "agent-harness", "standards", "google-cloud", "coding-tools", "progressive-disclosure", "open-source", "enterprise"]
+tags:
+  - skills
+  - mcp
+  - agents
+  - agent-harness
+  - infrastructure
+  - coding-tools
+  - context-engineering
+  - open-source
+  - enterprise
 source: https://x.com/googlecloudtech/status/2087733334617063503
 date: 2026-08-13
 type: bookmark
@@ -8,6 +17,8 @@ author: googlecloudtech
 summary: "Agent Plugins 1.0 Working Draft — portable folder of SKILL.md + mcp.json; Google joins TSC; skills+MCP travel together across clients."
 raw: "[[raw/googlecloudtech_2087733334617063503]]"
 spec_url: https://agent-plugins.org
+status: current
+as_of: 2026-08-13
 ---
 
 # Agent Plugins — skills + MCP in one portable folder

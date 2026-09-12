@@ -1,13 +1,11 @@
 ---
 tags:
-- rl
-- rlhf
-- training
-- interview-questions
-- ppo
-- grpo
-- infrastructure
-- llm
+  - rl
+  - rlhf
+  - training
+  - career
+  - infrastructure
+  - llm
 source: https://x.com/sheriyuo/status/2063295181131247674
 raw: '[[raw/sheriyuo_2063295181131247674]]'
 date: 2026-06-06
@@ -27,6 +25,8 @@ description: 35 RL interview questions distilled from Zhihu experiences and rece
   PPO/GRPO variants, reward design, KL penalty, DPO, MoE train-inference mismatch,
   async RL frameworks, KV cache, parallelism strategies, and staleness. Modern RL
   hiring expects full-stack understanding.
+status: current
+as_of: 2026-06-06
 ---
 
 # RL Interview Questions 2026

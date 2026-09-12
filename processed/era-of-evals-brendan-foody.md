@@ -2,10 +2,8 @@
 tags:
   - evals
   - rl
-  - rlvr
   - training
   - agents
-  - mercor
 source: https://x.com/brendanfoody/status/1939764763485171948
 date: 2025-06-30
 type: bookmark
@@ -14,6 +12,8 @@ description: "Brendan Foody — RL will saturate any eval, so the bottleneck is 
 summary: "Brendan Foody — RL will saturate any eval, so the bottleneck is building environments that map real work; evals are the new PRD."
 raw: "[[raw/brendanfoody_1939764763485171948]]"
 published: 2025-06-30
+status: current
+as_of: 2025-06-30
 ---
 
 # Welcome to The Era of Evals

@@ -2,20 +2,14 @@
 title: Mechanistic Interpretability Is Not the Whole Interpretability Field
 created: 2026-06-22
 updated: 2026-06-22
-type: summary
+type: concept
 tags:
-- interpretability
-- mechanistic-interpretability
-- faithfulness
-- probing
-- concept-bottleneck-models
-- feature-attribution
-- circuits
-- superposition
-- sparse-autoencoders
+  - interpretability
+  - sparse-autoencoders
 sources:
 - raw/giangnguyen2412_2068743875527844200.md
 description: Mechanistic Interpretability Is Not the Whole Interpretability Field
+status: current
 ---
 
 # Mechanistic Interpretability Is Not the Whole Interpretability Field

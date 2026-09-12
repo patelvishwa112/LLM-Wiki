@@ -1,15 +1,12 @@
 ---
 tags:
-- product
-- product-market-fit
-- startups
-- agents
-- pm
-- vibe-coding
-- distribution
-- retention
-- focus
-- user-research
+  - product
+  - startups
+  - agents
+  - pm
+  - coding-tools
+  - gtm
+  - productivity
 source: https://x.com/feitong_yang/status/2068822981946794438
 raw: '[[raw/feitong_yang_2068822981946794438]]'
 date: 2026-06-23
@@ -25,6 +22,8 @@ description: 'Feitong Yang''s ten commandments from two years at an AI agent sta
   that feel like progress—user contact, specific users, translation not breakthroughs,
   clear affordance, focus, outcomes over line count, no premature scale, missionary
   selling, retention as fuel not viral sparks.'
+status: current
+as_of: 2026-06-23
 ---
 
 # The Ten Commandments for Building Product

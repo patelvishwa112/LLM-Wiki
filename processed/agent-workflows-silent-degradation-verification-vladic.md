@@ -1,5 +1,13 @@
 ---
-tags: ["agents", "agent-harness", "verification", "claude-code", "dynamic-workflows", "agent-ops", "productivity", "evals"]
+tags:
+  - agents
+  - agent-harness
+  - verification
+  - claude-code
+  - workflows
+  - agent-ops
+  - productivity
+  - evals
 source: https://x.com/vladic_eth/status/2073723103629222127
 date: 2026-07-05
 type: bookmark
@@ -7,6 +15,8 @@ author: vladic_eth
 description: "Vladic argues agent workflows fail via silent degradation—not crashes—and that automated verification against external constraints (not model honesty alone) is what makes automations survive past week two."
 summary: "Vladic argues agent workflows fail via silent degradation—not crashes—and that automated verification against external constraints (not model honesty alone) is what makes automations survive past week two."
 raw: "[[raw/vladic_eth_2073723103629222127]]"
+status: current
+as_of: 2026-07-05
 ---
 
 # Silent degradation and verification layers

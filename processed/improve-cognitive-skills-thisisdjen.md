@@ -1,5 +1,7 @@
 ---
-tags: ["productivity", "learning"]
+tags:
+  - productivity
+  - learning
 source: https://x.com/thisisdjen/status/2096072170644418704
 date: 2026-09-05
 type: bookmark
@@ -7,6 +9,8 @@ description: "DJ.en: sleep consistency, languages, reading, creatine as cognitiv
 author: thisisdjen
 summary: "DJ.en: sleep consistency, languages, reading, creatine as cognitive hygiene for high-intensity work; claims are popular-science, not a methods paper."
 raw: "[[raw/thisisdjen_2096072170644418704]]"
+status: current
+as_of: 2026-09-05
 ---
 
 # Improve Your Cognitive Skills

@@ -1,5 +1,9 @@
 ---
-tags: ["agents", "ontology", "security", "knowledge-graph", "agent-ops"]
+tags:
+  - agents
+  - knowledge-graph
+  - security
+  - agent-ops
 source: https://x.com/_ar9av/status/2094477621593858344
 date: 2026-08-31
 type: bookmark
@@ -7,6 +11,8 @@ description: "Arnav Gupta: context drift is org-ontology drift; 'wrong' is a rel
 author: _ar9av
 summary: "Arnav Gupta: context drift is org-ontology drift; 'wrong' is a relationship not an action property; write the org graph outside the model and diff it."
 raw: "[[raw/_ar9av_2094477621593858344]]"
+status: current
+as_of: 2026-08-31
 ---
 
 # Context Drift Is an Ontology Problem

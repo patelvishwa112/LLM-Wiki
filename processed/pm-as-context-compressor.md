@@ -1,13 +1,11 @@
 ---
 tags:
-- pm
-- context-compression
-- productivity
-- skills
-- claude-code
-- agent-templates
-- communication
-- stakeholders
+  - pm
+  - long-context
+  - productivity
+  - skills
+  - claude-code
+  - communication
 source: https://x.com/nurijanian/status/2063188643683192835
 raw: '[[raw/nurijanian_2063188643683192835]]'
 date: 2026-06-06
@@ -25,6 +23,8 @@ description: 'The PM''s role as a context compression layer between execs and en
   confidently go the wrong direction. Information should compress upward, not downward.
   Practical system: STAKEHOLDERS.md + GOALS.md + COMPANY.md + /meeting (PM OS) + /review
   for pressure-testing. Two months per year lost to ambiguity — fix the structure.'
+status: current
+as_of: 2026-06-06
 ---
 
 # The PM as the Context Compressor

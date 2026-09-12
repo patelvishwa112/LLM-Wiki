@@ -1,5 +1,13 @@
 ---
-tags: ["continual-learning", "agents", "agent-harness", "self-improvement", "training", "rl", "open-source", "inference"]
+tags:
+  - continual-learning
+  - agents
+  - agent-harness
+  - productivity
+  - training
+  - rl
+  - open-source
+  - inference
 source: https://x.com/ao_qu18465/status/2094867930081337730
 date: 2026-09-01
 type: bookmark
@@ -7,6 +15,8 @@ description: "Ao Qu open-sources Reef: inference-first infra so agents evolve mo
 author: ao_qu18465
 summary: "Ao Qu open-sources Reef: inference-first infra so agents evolve model and harness from live experience (recipes, Git LFS releases, Cordis)."
 raw: "[[raw/ao_qu18465_2094867930081337730]]"
+status: current
+as_of: 2026-09-01
 ---
 
 # Reef — continual self-improving agents

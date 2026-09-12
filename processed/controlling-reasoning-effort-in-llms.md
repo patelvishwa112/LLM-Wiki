@@ -2,13 +2,11 @@
 tags:
   - training
   - rl
-  - rlvr
   - reasoning
-  - inference-scaling
   - post-training
-  - qwen
+  - frontier-labs
   - models
-  - sft
+  - fine-tuning
 source: https://magazine.sebastianraschka.com/p/controlling-reasoning-effort-in-llms
 date: 2026-07-18
 type: article
@@ -17,6 +15,8 @@ author: Sebastian Raschka
 summary: "Raschka explains how multi-level reasoning effort (low/medium/high) is trained via effort-conditioned RLVR length penalties, SFT, chat templates, and open-weight recipes (Qwen3, DeepSeek V4, Nemotron, Kimi, GLM-5, Inkling)."
 raw: "[[raw/sebastianraschka_controlling-reasoning-effort-in-llms]]"
 published: 2026-07-18
+status: current
+as_of: 2026-07-18
 ---
 
 # Controlling Reasoning Effort in LLMs

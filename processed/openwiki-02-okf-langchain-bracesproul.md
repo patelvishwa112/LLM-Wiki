@@ -1,5 +1,14 @@
 ---
-tags: ["okf", "openwiki", "langchain", "second-brain", "knowledge-graph", "agents", "agent-harness", "documentation", "standards", "obsidian"]
+tags:
+  - knowledge-management
+  - agent-frameworks
+  - second-brain
+  - knowledge-graph
+  - agents
+  - agent-harness
+  - writing
+  - mcp
+  - obsidian
 source: https://x.com/bracesproul/status/2077799049156338142
 date: 2026-07-16
 type: bookmark
@@ -7,6 +16,8 @@ description: "LangChain OpenWiki 0.2 adopts Google OKF — YAML frontmatter, ind
 author: bracesproul
 summary: "LangChain OpenWiki 0.2 adopts Google OKF — YAML frontmatter, index.md, logs.md for agent-navigable codebase wikis; deterministic tag/category filters over pure agentic search."
 raw: "[[raw/bracesproul_2077799049156338142]]"
+status: current
+as_of: 2026-07-16
 ---
 
 # OpenWiki 0.2 adopts the OKF spec

@@ -1,16 +1,17 @@
 ---
 tags:
-- claude-code
-- prompt-engineering
-- settings
+  - claude-code
+  - prompt-engineering
 source: https://x.com/zodchiii/status/2053042131111927976
 raw: '[[raw/zodchiii_2053042131111927976]]'
 date: 2026-05-09
-type: processed-note
+type: note
 related:
 - '[[claude-hidden-features-guide]]'
 - '[[claude-code-self-correcting-setup]]'
 description: Claude Code Hidden Settings Most Developers Never Touch
+status: current
+as_of: 2026-05-09
 ---
 
 # Claude Code Hidden Settings Most Developers Never Touch

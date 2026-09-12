@@ -2,14 +2,11 @@
 tags:
   - models
   - multimodal
-  - audio
-  - speech
   - inference
   - serving
   - moe
   - quantization
-  - thinky-machines
-  - asr
+  - frontier-labs
 source: https://x.com/huckiyang/status/2077625513384841679
 date: 2026-07-16
 type: bookmark
@@ -17,6 +14,8 @@ description: "Huck Yang on Thinky Inkling audio — no encoder; 7.9M dMel embedd
 author: huckiyang
 summary: "Huck Yang on Thinky Inkling audio — no encoder; 7.9M dMel embedding table at 20 tok/s; strong ASR/style evals; SGLang multi-state serve."
 raw: "[[raw/huckiyang_2077625513384841679]]"
+status: current
+as_of: 2026-07-16
 ---
 
 # Inkling's Ear Is a 7.9M Lookup Table

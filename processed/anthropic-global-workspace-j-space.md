@@ -1,21 +1,18 @@
 ---
 tags:
-  - mechanistic-interpretability
   - interpretability
   - anthropic
-  - global-workspace
-  - j-space
-  - consciousness
-  - neuroscience
   - safety
-  - monitoring
+  - observability
 source: https://www.anthropic.com/research/global-workspace
 date: 2026-07-06
-type: paper
+type: article
 description: "Anthropic identifies J-space — a Jacobian-derived internal workspace in Claude analogous to global workspace theory, with reportability, control, reasoning, and safety monitoring."
 author: Anthropic
 summary: "Anthropic identifies J-space — a Jacobian-derived internal workspace in Claude analogous to global workspace theory, with reportability, control, reasoning, and safety monitoring."
 raw: "[[raw/anthropic/articles/global-workspace]]"
+status: current
+as_of: 2026-07-06
 ---
 
 # A global workspace in language models (J-space)

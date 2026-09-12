@@ -1,13 +1,9 @@
 ---
 tags:
-- writing
-- content-strategy
-- creator-economy
-- productivity
-- ghostwriting
-- audience-building
-- ideation
-- digital-writing
+  - writing
+  - creator-economy
+  - productivity
+  - product
 source: https://x.com/nicolascole77/status/2081721221100740615
 date: 2026-07-28
 type: bookmark
@@ -15,6 +11,8 @@ author: Nicolas Cole (@Nicolascole77)
 raw: "[[raw/nicolascole77_2081721221100740615]]"
 description: "Question-based content engine — collect nuanced questions, unbundle angles, answer via 10 Magical Ways formats"
 summary: "Cole's fix for empty content calendars: stop hunting amorphous ideas; mine and answer nuanced reader questions, then multiply each question across angles and 10 answer formats."
+status: current
+as_of: 2026-07-28
 ---
 
 # How To Never Run Out Of Writing Ideas Again

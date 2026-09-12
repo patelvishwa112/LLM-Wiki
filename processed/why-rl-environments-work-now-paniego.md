@@ -1,5 +1,9 @@
 ---
-tags: ["rl", "training", "agents", "environments", "post-training"]
+tags:
+  - rl
+  - training
+  - agents
+  - post-training
 source: https://x.com/SergioPaniego/status/2096969377002213866
 date: 2026-09-07
 type: bookmark
@@ -7,6 +11,8 @@ description: "Sergio Paniego: Universe (2016) had the idea; RL environments work
 author: SergioPaniego
 summary: "Sergio Paniego: Universe (2016) had the idea; RL environments work now because of pretrained models, reachable tasks, text/tool interfaces, GRPO, cheap sandboxes."
 raw: "[[raw/SergioPaniego_2096969377002213866]]"
+status: current
+as_of: 2026-09-07
 ---
 
 # Why RL Environments Work Now (and Could Not in 2016)

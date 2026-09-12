@@ -6,7 +6,7 @@ tags:
   - openclaw
   - obsidian
   - second-brain
-  - gbrain
+  - projects
   - multi-agent
   - mcp
 source: https://x.com/matthewgunnin/status/2072772100973007203
@@ -16,6 +16,8 @@ author: matthewgunnin
 description: "Matt Gunnin's 4-layer memory stack for coordinated OpenClaw + Hermes agents—markdown identity/index, Hindsight retention, Nexus shared vault, gbrain MCP recall."
 summary: "Matt Gunnin's 4-layer memory stack for coordinated OpenClaw + Hermes agents—markdown identity/index, Hindsight retention, Nexus shared vault, gbrain MCP recall."
 raw: "[[raw/matthewgunnin_2072772100973007203]]"
+status: current
+as_of: 2026-07-02
 ---
 
 # Four-layer agent memory stack

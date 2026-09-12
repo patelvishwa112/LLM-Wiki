@@ -1,5 +1,12 @@
 ---
-tags: ["evals", "llm-judges", "agents", "agent-harness", "verification", "observability", "trace-data", "production", "regression-testing"]
+tags:
+  - evals
+  - llm-judges
+  - agents
+  - agent-harness
+  - verification
+  - observability
+  - production
 source: https://x.com/annabellschfr/status/2085381643687047434
 date: 2026-08-06
 type: bookmark
@@ -7,6 +14,8 @@ description: "Eval dataset design before row writing — goal, sources, distribu
 author: annabellschfr
 summary: "Eval dataset design before row writing — goal, sources, distribution, reference vs free eval, schema, 15-30 MVP rows, then expand from runs."
 raw: "[[raw/annabellschfr_2085381643687047434]]"
+status: current
+as_of: 2026-08-06
 ---
 
 # Scoping and curating eval datasets (@annabellschfr)

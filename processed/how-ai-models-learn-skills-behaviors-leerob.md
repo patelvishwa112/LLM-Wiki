@@ -1,5 +1,17 @@
 ---
-tags: ["training", "pretraining", "sft", "rl", "evals", "alignment", "model-spec", "continual-learning", "agents", "agent-memory", "llm-judges", "post-training"]
+tags:
+  - training
+  - pretraining
+  - fine-tuning
+  - rl
+  - evals
+  - alignment
+  - models
+  - continual-learning
+  - agents
+  - agent-memory
+  - llm-judges
+  - post-training
 source: https://x.com/leerob/status/2080467752897146898
 date: 2026-07-25
 type: bookmark
@@ -7,6 +19,8 @@ description: "Lee Robinson lay explainer: pretrain → SFT → RL as book/film/c
 author: leerob
 summary: "Lee Robinson lay explainer: pretrain → SFT → RL as book/film/coach; model specs + held-out evals; alignment quirks; agents still use file memory not true continual learning."
 raw: "[[raw/leerob_2080467752897146898]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # How do AI models learn new skills and behaviors? (Lee Robinson)

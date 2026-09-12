@@ -1,5 +1,10 @@
 ---
-tags: ["models", "transformers", "reasoning", "interpretability", "gpt-6"]
+tags:
+  - models
+  - transformers
+  - reasoning
+  - interpretability
+  - frontier-labs
 source: https://x.com/rasbt/status/2097677953450561596
 date: 2026-09-09
 type: bookmark
@@ -7,6 +12,8 @@ description: "Raschka: looped transformers reuse block weights for extra depth; 
 author: rasbt
 summary: "Raschka: looped transformers reuse block weights for extra depth; Astra's shorter CoT is capability not hidden neuralese. Article on Ahead of AI."
 raw: "[[raw/rasbt_2097677953450561596]]"
+status: current
+as_of: 2026-09-09
 ---
 
 # GPT-6 Astra, Looped Transformers, and Hidden Reasoning

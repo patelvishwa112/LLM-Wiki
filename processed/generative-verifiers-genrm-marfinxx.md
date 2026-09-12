@@ -1,5 +1,12 @@
 ---
-tags: ["papers", "evals", "reward-models", "reasoning", "inference-scaling", "verification", "deepmind", "agents"]
+tags:
+  - papers
+  - evals
+  - reward-modeling
+  - reasoning
+  - verification
+  - frontier-labs
+  - agents
 source: https://x.com/marfinxx/status/2089684002466619772
 date: 2026-08-18
 type: bookmark
@@ -7,6 +14,8 @@ description: "marfinxx on DeepMind GenRM — verification as Yes/No next-token +
 author: marfinxx
 summary: "marfinxx on DeepMind GenRM — verification as Yes/No next-token + CoT majority vote; GSM8K 73→93.4%, MATH easy-to-hard 28→44.6%."
 raw: "[[raw/marfinxx_2089684002466619772]]"
+status: current
+as_of: 2026-08-18
 ---
 
 # marfinxx on GenRM (DeepMind generative verifiers)

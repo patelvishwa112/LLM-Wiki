@@ -1,14 +1,13 @@
 ---
 tags:
-- agents
-- multi-agent
-- subagents
-- orchestration
-- langchain
-- deep-agents
-- workflows
-- rlm
-- code-interpreter
+  - agents
+  - multi-agent
+  - subagents
+  - orchestration
+  - agent-frameworks
+  - workflows
+  - reasoning
+  - coding-tools
 description: "LangChain Deep Agents dynamic subagents — agent-written JS orchestration via QuickJS task() for scale, coverage, and six workflow patterns (RLM-style)."
 summary: "LangChain Deep Agents dynamic subagents — agent-written JS orchestration via QuickJS task() for scale, coverage, and six workflow patterns (RLM-style)."
 source: https://x.com/sydneyrunkle/status/2071629451712983319
@@ -16,6 +15,8 @@ date: 2026-06-29
 type: bookmark
 author: sydneyrunkle
 raw: "[[raw/sydneyrunkle_2071629451712983319]]"
+status: current
+as_of: 2026-06-29
 ---
 
 # Introducing Dynamic Subagents in Deep Agents

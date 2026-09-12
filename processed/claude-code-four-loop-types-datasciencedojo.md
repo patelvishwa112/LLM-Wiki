@@ -1,5 +1,10 @@
 ---
-tags: ["loop-engineering", "claude-code", "agents", "agent-harness", "goal", "cronjob", "automation"]
+tags:
+  - loop-engineering
+  - claude-code
+  - agents
+  - agent-harness
+  - automation
 source: https://x.com/datasciencedojo/status/2075671400900157670
 date: 2026-07-11
 type: bookmark
@@ -7,6 +12,8 @@ author: datasciencedojo
 description: "Data Science Dojo maps four Claude Code loops by what starts and stops them: turn, /goal, /loop-/schedule, proactive."
 summary: "Data Science Dojo maps four Claude Code loops by what starts and stops them: turn, /goal, /loop-/schedule, proactive."
 raw: "[[raw/datasciencedojo_2075671400900157670]]"
+status: current
+as_of: 2026-07-11
 ---
 
 # Claude Code Four Loop Types

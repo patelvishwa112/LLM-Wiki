@@ -1,5 +1,16 @@
 ---
-tags: ["agent-harness", "harness-engineering", "claude-code", "crewai", "multi-agent", "sandbox", "memory", "planning", "subagents", "agents", "coding-tools"]
+tags:
+  - agent-harness
+  - harness-engineering
+  - claude-code
+  - agent-frameworks
+  - multi-agent
+  - agent-ops
+  - agent-memory
+  - planning
+  - subagents
+  - agents
+  - coding-tools
 source: https://x.com/akshay_pachaar/status/2077455755066868098
 date: 2026-07-15
 type: bookmark
@@ -7,6 +18,8 @@ description: "Akshay Pachaar rebuilds Claude Code-style coding harness in CrewAI
 author: akshay_pachaar
 summary: "Akshay Pachaar rebuilds Claude Code-style coding harness in CrewAI — loop, tools, planning/reasoning, hierarchical subagents, E2B sandbox, HITL, memory, checkpoints."
 raw: "[[raw/akshay_pachaar_2077455755066868098]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # Let’s build Claude Code’s harness (step-by-step)

@@ -1,18 +1,20 @@
 ---
 tags:
-- claude-code
-- architecture
-- agent-engineering
-- harness-engineering
-- paper
-- hermes
-- openclaw
+  - claude-code
+  - architecture
+  - ai-engineering
+  - harness-engineering
+  - papers
+  - hermes
+  - openclaw
 source: https://github.com/VILA-Lab/Dive-into-Claude-Code
 date: 2026-06-05
 type: resource
 author: VILA-Lab
 paper: https://arxiv.org/abs/2604.14228
 description: Dive into Claude Code (VILA-Lab)
+status: current
+as_of: 2026-06-05
 ---
 
 # Dive into Claude Code (VILA-Lab)

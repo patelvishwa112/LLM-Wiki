@@ -1,18 +1,19 @@
 ---
 tags:
-- multi-agent
-- agents
-- self-improving
-- loops
-- kimi
-- agent-swarm
-- verification
-- skills
-- agent-architecture
+  - multi-agent
+  - agents
+  - recursive-self-improvement
+  - loop-engineering
+  - frontier-labs
+  - verification
+  - skills
+  - agent-architecture
 source: https://x.com/0xMovez/status/2067291911468044494
 type: bookmark
 ingested: 2026-06-17
 description: 'The Self-Improving Loop: 300-Agent Swarm on Kimi'
+status: current
+as_of: 2026-06-17
 ---
 
 # The Self-Improving Loop: 300-Agent Swarm on Kimi

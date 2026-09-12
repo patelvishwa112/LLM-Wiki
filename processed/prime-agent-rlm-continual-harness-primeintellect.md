@@ -1,5 +1,15 @@
 ---
-tags: ["agents", "agent-harness", "harness-engineering", "rlm", "continual-learning", "self-improvement", "subagents", "coding-tools", "open-source", "prime-intellect", "ipython", "autonomous-agents"]
+tags:
+  - agents
+  - agent-harness
+  - harness-engineering
+  - reasoning
+  - continual-learning
+  - productivity
+  - subagents
+  - coding-tools
+  - open-source
+  - frontier-labs
 source: https://x.com/primeintellect/status/2085612369154281546
 date: 2026-08-07
 type: bookmark
@@ -8,6 +18,8 @@ author: PrimeIntellect
 summary: "Prime Intellect open-sources Prime Agent — self-improving coding harness built on Recursive Language Models (persistent IPython) and a Continual Harness the agent can CRUD."
 raw: "[[raw/primeintellect_2085612369154281546]]"
 code_url: https://github.com/PrimeIntellect-ai/prime-agent
+status: current
+as_of: 2026-08-07
 ---
 
 # Prime Agent (Prime Intellect)

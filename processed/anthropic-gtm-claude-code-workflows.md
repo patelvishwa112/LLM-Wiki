@@ -1,14 +1,13 @@
 ---
 tags:
-- anthropic
-- claude-code
-- claude-cowork
-- gtm
-- sales
-- skills
-- productivity
-- enterprise
-- mcp
+  - anthropic
+  - claude-code
+  - claude-cowork
+  - gtm
+  - skills
+  - productivity
+  - enterprise
+  - mcp
 source: https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering
 raw: '[[raw/anthropic-gtm-engineering-claude-code]]'
 date: 2026-06-05
@@ -29,6 +28,8 @@ description: 'How Jared Sires, a non-technical AE at Anthropic, used Claude Code
   — integrates Salesforce, Intercom, Gong, Gmail, Google Drive, BigQuery via MCP.
   Key skills: /customer-context (360° account view in 90s) and /pipeline-management
   (at-risk deals, forecasting).'
+status: current
+as_of: 2026-06-05
 ---
 
 # GTM Engineering with Claude Code: Jared Sires' Workflows

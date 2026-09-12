@@ -2,10 +2,8 @@
 tags:
   - agents
   - agent-harness
-  - langchain
-  - middleware
-  - deep-agents
-  - create-agent
+  - agent-frameworks
+  - infrastructure
   - human-in-the-loop
   - production
 source: https://www.langchain.com/blog/how-to-build-a-custom-agent-harness
@@ -15,6 +13,8 @@ author: Sydney Runkle
 description: "LangChain guide—agent = model + harness; customize via create_agent middleware hooks (memory, subagents, retries, HITL, cost limits) for task-harness fit."
 summary: "LangChain guide—agent = model + harness; customize via create_agent middleware hooks (memory, subagents, retries, HITL, cost limits) for task-harness fit."
 raw: "[[raw/langchain_blog_how-to-build-custom-agent-harness]]"
+status: current
+as_of: 2026-06-03
 ---
 
 # How to build a custom agent harness (LangChain)

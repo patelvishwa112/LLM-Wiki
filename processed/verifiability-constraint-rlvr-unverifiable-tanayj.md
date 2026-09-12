@@ -2,7 +2,6 @@
 tags:
   - training
   - rl
-  - rlvr
   - rlhf
   - evals
   - alignment
@@ -16,6 +15,8 @@ author: tanayj
 description: "Tanay Jaipuria on Dario's unverifiable-task uncertainty—RLVR in math/code, verifier's law, rubric/process/generative rewards, and lab/data/formalization/physical-loop companies."
 summary: "Tanay Jaipuria on Dario's unverifiable-task uncertainty—RLVR in math/code, verifier's law, rubric/process/generative rewards, and lab/data/formalization/physical-loop companies."
 raw: "[[raw/tanayj_2072766211256119475]]"
+status: current
+as_of: 2026-07-02
 ---
 
 # Verifiability constraint (RLVR vs unverifiable work)

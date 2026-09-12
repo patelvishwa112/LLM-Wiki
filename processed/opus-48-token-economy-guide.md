@@ -1,13 +1,12 @@
 ---
 title: Opus 4.8 Token Economy — Stop Burning Your Daily Limit in 30 Minutes
 tags:
-- claude
-- claude-code
-- opus
-- token-economy
-- prompt-engineering
-- skills
-- productivity
+  - claude
+  - claude-code
+  - ai-economics
+  - prompt-engineering
+  - skills
+  - productivity
 source: https://x.com/0x_kaize/status/2061475678143365248
 date: 2026-06-02
 published: 2026-06-01
@@ -16,6 +15,8 @@ authors:
 type: bookmark
 raw: '[[raw/0x_kaize_2061475678143365248]]'
 description: Opus 4.8 Token Economy Guide
+status: current
+as_of: 2026-06-02
 ---
 
 # Opus 4.8 Token Economy Guide

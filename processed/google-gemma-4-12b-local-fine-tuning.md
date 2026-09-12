@@ -1,11 +1,9 @@
 ---
 tags:
-- gemma
-- google
-- local-llm
-- fine-tuning
-- unsloth
-- huggingface
+  - frontier-labs
+  - inference
+  - fine-tuning
+  - open-source
 source: https://x.com/akshay_pachaar/status/2063610280182218847
 date: 2026-06-07
 type: bookmark
@@ -17,6 +15,8 @@ raw: '[[raw/akshay_pachaar_2063610280182218847]]'
 description: Google released Gemma 4 12B, a multimodal model (text, images, audio)
   that runs on 8GB VRAM. Plan to fine-tune locally with Unsloth and Hugging Face transformers
   for chess move prediction.
+status: current
+as_of: 2026-06-07
 ---
 
 # Google Gemma 4 12B — Local 8GB Fine-Tuning

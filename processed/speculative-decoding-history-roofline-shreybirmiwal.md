@@ -5,19 +5,15 @@ tags:
   - inference
   - serving
   - llm
-  - speculative-decoding
   - gpu
   - kv-cache
-  - throughput
-  - latency
-  - medusa
-  - eagle
-  - roofline
 source: https://x.com/shreybirmiwal/status/2074666256402448732
 date: 2026-07-08
 author: Shrey Birmiwal (@shreybirmiwal)
 summary: "Decode is memory-bound (low arithmetic intensity); draft models + parallel verification raise tokens per target forward pass with exact distribution via rejection sampling — tree and diffusion drafters reach 7–8x."
 raw: "[[raw/shreybirmiwal_2074666256402448732]]"
+status: current
+as_of: 2026-07-08
 ---
 
 # Speculative decoding — history and roofline intuition

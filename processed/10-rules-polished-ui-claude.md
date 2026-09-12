@@ -1,10 +1,8 @@
 ---
 tags:
-- ui
-- frontend-design
-- claude
-- prompt-engineering
-- artifacts
+  - web-dev
+  - claude
+  - prompt-engineering
 source: https://x.com/kvnkld/status/2066863634949779464
 type: bookmark
 related:
@@ -16,6 +14,7 @@ summary: Kevin shares 10 practical rules for generating truly polished, producti
 description: Kevin shares 10 practical rules for generating truly polished, production-ready
   UI components with Claude — emphasizing that polish comes from process and iteration,
   not just clever prompting.
+status: current
 ---
 
 # The 10 Rules to Ship Truly Polished UI with Claude

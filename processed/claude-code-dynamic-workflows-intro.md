@@ -1,12 +1,12 @@
 ---
 tags:
-- claude-code
-- anthropic
-- agents
-- multi-agent
-- orchestration
-- parallelism
-- agent-ops
+  - claude-code
+  - anthropic
+  - agents
+  - multi-agent
+  - orchestration
+  - distributed-systems
+  - agent-ops
 source: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 raw: '[[raw/anthropic-dynamic-workflows-claude-code]]'
 date: 2026-05-28
@@ -27,6 +27,8 @@ description: 'Dynamic workflows in Claude Code: Claude autonomously writes orche
   security audits, adversarial verification. Bun was ported from Zig to Rust (750K
   lines, 99.8% test pass) in 11 days using dynamic workflows. Available in research
   preview on Max/Team/Enterprise plans.'
+status: current
+as_of: 2026-05-28
 ---
 
 # Dynamic Workflows in Claude Code

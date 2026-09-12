@@ -4,10 +4,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- societal-impacts
-- regulation
-- policy
-- government
+  - ai-policy
 sources:
 - raw/anthropic/articles/anthropic-news-the-case-for-targeted-regulation.md
 - raw/anthropic/articles/anthropic-news-anthropic-is-endorsing-sb-53.md
@@ -19,6 +16,7 @@ sources:
 - raw/anthropic/articles/anthropic-research-2028-ai-leadership.md
 confidence: high
 description: AI Policy and Regulation
+status: current
 ---
 
 # AI Policy and Regulation

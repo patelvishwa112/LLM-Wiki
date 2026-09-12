@@ -3,11 +3,10 @@ tags:
   - skills
   - agent-harness
   - claude-code
-  - progressive-disclosure
-  - skillsbench
+  - context-engineering
+  - benchmarks
   - prompt-engineering
   - security
-  - agentskills
 source: https://x.com/free_ai_guides/status/2071666929451094227
 date: 2026-06-29
 type: bookmark
@@ -15,6 +14,8 @@ author: free_ai_guides
 description: "Practitioner guide to SKILL.md skills vs prompts/config, progressive disclosure, four failure-mode skill patterns, and community skill security."
 summary: "Practitioner guide to SKILL.md skills vs prompts/config, progressive disclosure, four failure-mode skill patterns, and community skill security."
 raw: "[[raw/free_ai_guides_2071666929451094227]]"
+status: current
+as_of: 2026-06-29
 ---
 
 # How to Create the Right Skill for Your AI Agent

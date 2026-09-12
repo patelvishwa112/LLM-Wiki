@@ -1,16 +1,14 @@
 ---
 tags:
   - multimodal
-  - vision
-  - vlm
-  - glm
+  - frontier-labs
   - post-training
-  - sft
+  - fine-tuning
   - rl
   - training
   - models
-  - projector
-  - grokking
+  - interpretability
+  - ml-research
 source: https://x.com/part_harry_/status/2077610277571637435
 date: 2026-07-15
 type: bookmark
@@ -18,6 +16,8 @@ description: "Harry Partridge — add vision to GLM 5.2 via 50M MLP projector on
 author: part_harry_
 summary: "Harry Partridge — add vision to GLM 5.2 via 50M MLP projector on Kimi tower; MMMU-Pro ~Haiku; SFT then RL grokking; frozen LLM."
 raw: "[[raw/part_harry__2077610277571637435]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # GLM 5.2 With Vision

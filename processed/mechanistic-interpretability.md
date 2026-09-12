@@ -4,15 +4,13 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- interpretability
-- circuits
-- features
-- superposition
+  - interpretability
 sources:
 - raw/anthropic/articles/*
 - raw/anthropic/papers/*
 confidence: high
 description: Mechanistic Interpretability
+status: current
 ---
 
 # Mechanistic Interpretability

@@ -1,6 +1,15 @@
 ---
 title: "What are Looped Transformers? Explained clearly"
-tags: [architecture, transformers, looped-transformers, recurrence, test-time-compute, training, inference, moe, universal-transformer, models, ml-research]
+tags:
+  - architecture
+  - transformers
+  - reasoning
+  - model-architecture
+  - training
+  - inference
+  - moe
+  - models
+  - ml-research
 source: https://x.com/neural_avb/status/2081741935883223196
 date: 2026-07-28
 published: 2026-07-27
@@ -10,6 +19,8 @@ description: "Looped Transformers reuse the same layers for iterative latent thi
 summary: "Looped Transformers reuse the same layers for iterative latent thinking — parameter savings with FLOPs similar to deeper stacks; UT→Huginn→MoR→Loopie lineage."
 author: neural_avb
 raw: "[[raw/neural_avb_2081741935883223196]]"
+status: current
+as_of: 2026-07-28
 ---
 
 # What are Looped Transformers? Explained clearly

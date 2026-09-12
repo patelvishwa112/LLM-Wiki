@@ -1,17 +1,18 @@
 ---
 tags:
-- claude-code
-- agent-loops
-- loops
-- agent-harness
-- verification
-- agent-ops
-- multi-agent
-- goal-execution
+  - claude-code
+  - loop-engineering
+  - agent-harness
+  - verification
+  - agent-ops
+  - multi-agent
+  - agents
 source: https://x.com/mvanhorn/status/2068426104088748331
 type: bookmark
 ingested: 2026-06-21
 description: 'WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running'
+status: current
+as_of: 2026-06-21
 ---
 
 # WTF Is a Loop? Part 2: The 15 Loops People Are Actually Running

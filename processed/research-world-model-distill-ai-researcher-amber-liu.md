@@ -1,11 +1,10 @@
 ---
 tags:
   - ai-research
-  - research-world-model
   - agent-harness
   - agents
   - knowledge-graph
-  - arc-agi
+  - benchmarks
   - claude-code
   - career
 source: https://x.com/jiachenliu8/status/2074558254328455577
@@ -14,6 +13,8 @@ type: bookmark
 author: jiachenliu8
 description: "Amber Liu — research intuition as compressed process traces; Research World Model externalizes exploration (ARC-AGI-3 ls20: 5000+ steps vs 63 with archive)."
 raw: "[[raw/jiachenliu8_2074558254328455577]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # How to Distill a $10M+ AI Researcher

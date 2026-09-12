@@ -2,13 +2,11 @@
 tags:
   - continual-learning
   - evals
-  - vibench
-  - replit
+  - benchmarks
+  - coding-tools
   - agent-harness
-  - production-traces
-  - vibe-coding
-  - self-improvement
   - observability
+  - productivity
 source: https://x.com/pirroh/status/2074118901143679414
 date: 2026-07-06
 type: bookmark
@@ -16,6 +14,8 @@ description: "Replit continual learning without weight updates — harness and c
 author: pirroh
 summary: "Replit continual learning without weight updates — harness and context layers, ViBench, A/B tests, Telescope clustering, and an autonomous improvement loop."
 raw: "[[raw/pirroh_2074118901143679414]]"
+status: current
+as_of: 2026-07-06
 ---
 
 # Continual learning for AI agents (Replit)

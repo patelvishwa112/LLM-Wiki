@@ -1,17 +1,19 @@
 ---
 tags:
-- design
-- agents
-- claude
-- creativity
-- strategy
-- business-models
+  - product
+  - agents
+  - claude
+  - productivity
+  - ai-strategy
+  - startups
 source: https://x.com/emmettshine/status/2054539694097015171
 date: 2026-05-13
 type: bookmark
 author: Emmett Shine & Alex Leiphart (Little Plains)
 raw: '[[raw/emmettshine_2054539694097015171]]'
 description: 'The HTML Brand: The Rise of Input-Based Outcomes'
+status: current
+as_of: 2026-05-13
 ---
 
 # The HTML Brand: The Rise of Input-Based Outcomes

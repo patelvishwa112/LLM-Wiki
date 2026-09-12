@@ -1,11 +1,11 @@
 ---
 tags:
-- rlhf
-- dpo
-- constitutional-ai
-- reward-model
-- alignment
-- training
+  - rlhf
+  - rl
+  - constitutional-ai
+  - reward-modeling
+  - alignment
+  - training
 source: https://x.com/itsreallyvivek/status/2063610589621219596
 date: 2026-06-07
 type: bookmark
@@ -19,6 +19,8 @@ description: 'Clear explanation of the RLHF pipeline: SFT → reward model (Brad
   on preference pairs) → PPO with KL penalty to prevent reward hacking. Covers failure
   modes (reward hacking, distributional shift, labeler bias) and post-RLHF methods
   (DPO, Constitutional AI, RLAIF). Emphasizes that measured preferences ≠ actual values.'
+status: current
+as_of: 2026-06-07
 ---
 
 # What Every Programmer Should Know About RLHF

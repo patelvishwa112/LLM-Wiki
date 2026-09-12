@@ -1,16 +1,13 @@
 ---
 tags:
-- obsidian
-- second-brain
-- agents
-- kimi-work
-- agent-swarm
-- knowledge-graph
-- atomic-notes
-- friction
-- playbooks
-- mcp
-- night-shift
+  - obsidian
+  - second-brain
+  - agents
+  - frontier-labs
+  - multi-agent
+  - knowledge-graph
+  - productivity
+  - mcp
 source: https://x.com/eng_khairallah1/status/2066437136354545981
 date: 2026-06-15
 type: bookmark
@@ -27,6 +24,8 @@ description: 'A complete autonomous second-brain system using Obsidian + Kimi Wo
   run overnight via four staged playbooks (Scout, Refinery, Editor, Audit). Pipeline:
   0-raw → 2-atoms → 3-threads with Prime Directive, [FRICTION] blocks, and MCP integration.
   Local-first, git-backed, zero manual filing.'
+status: current
+as_of: 2026-06-15
 ---
 
 ## Key Takeaways

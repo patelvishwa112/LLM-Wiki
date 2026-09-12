@@ -1,5 +1,13 @@
 ---
-tags: ["career", "applied-ai", "fde", "enterprise", "mcp", "skills", "agents", "evals", "product-sense"]
+tags:
+  - career
+  - ai-engineering
+  - enterprise
+  - mcp
+  - skills
+  - agents
+  - evals
+  - product
 source: https://x.com/0xMorlex/status/2083144963819270357
 date: 2026-08-01
 type: bookmark
@@ -7,6 +15,8 @@ description: "8-step FDE roadmap: embed, ship MCP/skills/sub-agents, breadth ove
 author: 0xMorlex
 summary: "8-step FDE roadmap: embed, ship MCP/skills/sub-agents, breadth over depth; comp ~$215K–$785K+ at Palantir/labs."
 raw: "[[raw/0xMorlex_2083144963819270357]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # How to Become a Forward Deployed Engineer (8 steps)

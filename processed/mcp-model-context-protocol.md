@@ -1,11 +1,10 @@
 ---
 tags:
-- mcp
-- model-context-protocol
-- agent-architecture
-- agents
-- prompt-engineering
-- agent-ops
+  - mcp
+  - agent-architecture
+  - agents
+  - prompt-engineering
+  - agent-ops
 source: https://x.com/imarun_chauhan/status/2068272573805367561
 type: bookmark
 related:
@@ -34,6 +33,7 @@ description: '"Arun Chauhan (@imarun_chauhan) explains Model Context Protocol (M
   a single standardized MCP layer (After). Includes a detailed 11-panel infographic
   showing architecture, flow (User → MCP Client → LangGraph → GPT → MCP Server → External
   APIs), perspectives, lifecycle, and protocol details."'
+status: current
 ---
 
 # What is MCP (Model Context Protocol)?

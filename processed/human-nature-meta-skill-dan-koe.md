@@ -1,12 +1,12 @@
 ---
 tags:
-  - meta-learning
-  - marketing
-  - persuasion
+  - learning
+  - gtm
+  - communication
   - creator-economy
   - writing
   - productivity
-  - human-nature
+  - decision-making
 source: https://x.com/thedankoe/status/2073418764058825045
 date: 2026-07-04
 type: bookmark
@@ -14,6 +14,8 @@ author: thedankoe
 description: "Dan Koe argues human nature is the timeless meta-skill that amplifies any technical craft via story, three tensions, and five persuasion levers."
 summary: "Dan Koe argues human nature is the timeless meta-skill that amplifies any technical craft via story, three tensions, and five persuasion levers."
 raw: "[[raw/thedankoe_2073418764058825045]]"
+status: current
+as_of: 2026-07-04
 ---
 
 # Human Nature as the Meta-Skill (Dan Koe)

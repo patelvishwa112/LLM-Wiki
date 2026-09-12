@@ -1,14 +1,15 @@
 ---
 tags:
-- interpretability
-- models
-- parameter-decomposition
-- sae
+  - interpretability
+  - models
+  - sparse-autoencoders
 source: https://x.com/BartBussmann/status/2051738729841041746
 raw: '[[raw/BartBussmann_2051738729841041746]]'
 date: 2026-05-05
 type: note
 description: Parameter Decomposition vs SAEs for LLM Interpretability
+status: current
+as_of: 2026-05-05
 ---
 
 # Parameter Decomposition vs SAEs for LLM Interpretability

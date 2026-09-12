@@ -1,15 +1,15 @@
 ---
 tags:
-- llm
-- training
-- tokenization
-- alignment
-- rlhf
-- data
-- evaluation
-- transformer
-- pretraining
-- sft
+  - llm
+  - training
+  - tokenization
+  - alignment
+  - rlhf
+  - data-engineering
+  - evals
+  - transformers
+  - pretraining
+  - fine-tuning
 source: https://x.com/sairahul1/status/2066076937806856661
 date: 2026-06-14
 type: bookmark
@@ -25,6 +25,8 @@ description: 'A complete 5-stage pipeline for building a working LLM from scratc
   data cleaning, BPE tokenization, decoder-only transformer training with next-token
   prediction, SFT + RLHF alignment, and evaluation with perplexity + human benchmarks.
   Includes minimal PyTorch code and 5 niche LLM product ideas.'
+status: current
+as_of: 2026-06-14
 ---
 
 ## Key Takeaways

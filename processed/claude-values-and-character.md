@@ -4,8 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- alignment
-- constitutional-ai
+  - alignment
+  - constitutional-ai
 sources:
 - raw/anthropic/articles/anthropic-research-values-wild.md
 - raw/anthropic/papers/pdf-values-in-the-wild.md
@@ -14,6 +14,7 @@ sources:
 - raw/anthropic/articles/anthropic-news-claude-is-a-space-to-think.md
 confidence: high
 description: Claude's Values and Character
+status: current
 ---
 
 # Claude's Values and Character

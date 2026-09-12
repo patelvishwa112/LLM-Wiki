@@ -1,16 +1,17 @@
 ---
 tags:
-- interpretability
-- safety
-- anthropic
-- nla
-- autoencoders
-- activation-engineering
+  - interpretability
+  - safety
+  - anthropic
+  - ml-research
+  - sparse-autoencoders
 source: https://x.com/AnthropicAI/status/2052435436157452769
 raw: '[[raw/AnthropicAI_2052435436157452769]]'
 date: 2026-05-07
 type: note
 description: 'Anthropic: Natural Language Autoencoders'
+status: current
+as_of: 2026-05-07
 ---
 
 # Anthropic: Natural Language Autoencoders

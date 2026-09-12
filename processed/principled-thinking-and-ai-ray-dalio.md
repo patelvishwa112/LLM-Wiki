@@ -1,10 +1,8 @@
 ---
 tags:
-- principles
-- decision-making
-- ai
-- investing
-- ray-dalio
+  - decision-making
+  - llm
+  - finance
 source: https://x.com/raydalio/status/2064758466447818954
 date: 2026-06-10
 type: bookmark
@@ -20,6 +18,8 @@ description: Ray Dalio argues that principled thinking and AI must be combined f
   writing explicit criteria/principles, backtesting them, and using AI as a transparent
   partner to compare logic, align thinking, and handle complexity unemotionally. Drawn
   from 50 years building Bridgewater's decision systems.
+status: current
+as_of: 2026-06-10
 ---
 
 # Principled Thinking and AI Need to Go Together

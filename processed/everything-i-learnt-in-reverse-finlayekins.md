@@ -1,5 +1,8 @@
 ---
-tags: ["productivity", "agents", "startups", "solo-operator"]
+tags:
+  - productivity
+  - agents
+  - startups
 source: https://x.com/finlayekins/status/2095326714142544045
 date: 2026-09-03
 type: bookmark
@@ -7,6 +10,8 @@ description: "Finlay (@finlayekins): reverse-order lessons from bootstrapping Ho
 author: finlayekins
 summary: "Finlay (@finlayekins): reverse-order lessons from bootstrapping Hourglass AI ($700 first month → $105k July); grim months are the moat, not a bug."
 raw: "[[raw/finlayekins_2095326714142544045]]"
+status: current
+as_of: 2026-09-03
 ---
 
 # Everything I Learnt in Reverse

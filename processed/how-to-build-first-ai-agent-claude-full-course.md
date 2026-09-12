@@ -1,16 +1,17 @@
 ---
 tags:
-- agents
-- claude
-- claude-code
-- beginner
-- workflow
-- agent-harness
-- practical-guide
+  - agents
+  - claude
+  - claude-code
+  - learning
+  - workflows
+  - agent-harness
 source: https://x.com/eng_khairallah1/status/2065721530546373016
 type: bookmark
 ingested: 2026-06-15
 description: How to Actually Build Your First AI Agent Using Claude (Full Course)
+status: current
+as_of: 2026-06-15
 ---
 
 # How to Actually Build Your First AI Agent Using Claude (Full Course)

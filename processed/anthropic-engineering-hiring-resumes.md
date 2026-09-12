@@ -1,10 +1,9 @@
 ---
 tags:
-- anthropic
-- hiring
-- resumes
-- career
-- engineering
+  - anthropic
+  - hiring
+  - career
+  - ai-engineering
 source: https://x.com/hiiinternet/status/2065117819948437765
 date: 2026-06-11
 type: bookmark
@@ -20,6 +19,8 @@ description: 'Data-driven breakdown of 1,680 Anthropic engineers: median 12+ yea
   only 13.7% hold PhDs. New-grad hiring is rare; juniors enter via elite internships,
   math/CS competitions, or alignment fellowships. Title is flattened to ''Member of
   Technical Staff''.'
+status: current
+as_of: 2026-06-11
 ---
 
 # I looked at 1,680 Anthropic resumes. Here's who they actually hire.

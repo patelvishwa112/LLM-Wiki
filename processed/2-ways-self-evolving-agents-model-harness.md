@@ -1,15 +1,17 @@
 ---
 tags:
-- agents
-- agent-harness
-- self-evolving-agents
-- model-vs-harness
-- training
-- architecture
+  - agents
+  - agent-harness
+  - recursive-self-improvement
+  - harness-engineering
+  - training
+  - architecture
 source: https://x.com/qinzytech/status/2066585405479371092
 type: bookmark
 ingested: 2026-06-15
 description: 2 Ways towards Self-Evolving Agents
+status: current
+as_of: 2026-06-15
 ---
 
 # 2 Ways towards Self-Evolving Agents

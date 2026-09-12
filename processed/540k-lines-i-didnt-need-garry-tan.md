@@ -1,15 +1,14 @@
 ---
 title: 540,000 Lines of Code I Didn't Need — Garry Tan on the Skillify Era
 tags:
-- skills
-- agents
-- garry-tan
-- gstack
-- markdown
-- code-generation
-- testing
-- architecture
-- skill-pack
+  - skills
+  - agents
+  - venture-capital
+  - projects
+  - writing
+  - coding-tools
+  - verification
+  - architecture
 source: https://x.com/garrytan/status/2061454423034110372
 date: 2026-06-02
 published: 2026-06-01
@@ -18,6 +17,8 @@ authors:
 type: bookmark
 raw: '[[raw/garrytan_2061454423034110372]]'
 description: 540,000 Lines I Didn't Need — Garry Tan's Skillify Manifesto
+status: current
+as_of: 2026-06-02
 ---
 
 # 540,000 Lines I Didn't Need — Garry Tan's Skillify Manifesto

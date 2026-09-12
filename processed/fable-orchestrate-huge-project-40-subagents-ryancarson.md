@@ -1,15 +1,15 @@
 ---
 tags:
-  - fable-5
+  - fable
   - agents
   - multi-agent
   - orchestration
   - subagents
-  - devin
+  - coding-agents
   - agent-harness
   - verification
   - production
-  - migration
+  - infrastructure
   - human-in-the-loop
 source: https://x.com/ryancarson/status/2074093250399330418
 date: 2026-07-06
@@ -17,6 +17,8 @@ type: bookmark
 author: ryancarson
 description: "Ryan Carson — Fable/Devin parent + 40 children for 834-file migration (prod data + schema); manifest, risk waves, gates, ~$1.1K, zero incidents."
 raw: "[[raw/ryancarson_2074093250399330418]]"
+status: current
+as_of: 2026-07-06
 ---
 
 # Fable orchestrator: huge migration with 40 sub-agents

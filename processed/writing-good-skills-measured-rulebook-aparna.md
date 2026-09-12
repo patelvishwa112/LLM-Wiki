@@ -4,9 +4,9 @@ tags:
   - evals
   - agent-harness
   - claude-code
-  - progressive-disclosure
-  - skillsbench
-  - arize
+  - context-engineering
+  - benchmarks
+  - observability
   - prompt-engineering
   - coding-tools
 source: https://x.com/aparnadhinak/status/2074569427346174039
@@ -15,6 +15,8 @@ type: bookmark
 author: aparnadhinak
 description: "Aparna Dhinakaran + @seldo — five measured rules for writing agent skills (SkillsBench, SkillComposer); expert-authored, focused, routed, per-harness, weak-domain eval loops."
 raw: "[[raw/aparnadhinak_2074569427346174039]]"
+status: current
+as_of: 2026-07-07
 ---
 
 # How do you write a good skill? There's actual data now.

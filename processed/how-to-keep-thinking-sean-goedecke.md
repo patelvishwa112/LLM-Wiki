@@ -1,5 +1,13 @@
 ---
-tags: ["productivity", "writing", "career", "agents", "clear-thinking", "meta-learning", "coding-tools", "agentic-engineering"]
+tags:
+  - productivity
+  - writing
+  - career
+  - agents
+  - decision-making
+  - learning
+  - coding-tools
+  - ai-engineering
 source: https://www.seangoedecke.com/how-to-keep-thinking/
 date: 2026-08-07
 type: bookmark
@@ -7,6 +15,8 @@ description: "Sean Goedecke — agentic work biases toward skim/judge; keep slow
 author: seangoedecke
 summary: "Sean Goedecke — agentic work biases toward skim/judge; keep slow thought via own-words writing and dense books (plus book reports)."
 raw: "[[raw/seangoedecke_how-to-keep-thinking]]"
+status: current
+as_of: 2026-08-07
 ---
 
 # How to keep thinking

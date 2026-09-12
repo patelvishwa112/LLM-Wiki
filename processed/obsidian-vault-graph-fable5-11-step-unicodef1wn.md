@@ -1,15 +1,14 @@
 ---
 tags:
-- graph-engineering
-- second-brain
-- obsidian
-- fable-5
-- agents
-- agent-memory
-- knowledge-graph
-- hermes
-- cost-optimization
-- context-engineering
+  - knowledge-graph
+  - second-brain
+  - obsidian
+  - fable
+  - agents
+  - agent-memory
+  - hermes
+  - cost-optimization
+  - context-engineering
 source: https://x.com/unicodef1wn/status/2080693998180606075
 date: 2026-07-25
 author: unicode (@unicodef1wn)
@@ -17,6 +16,8 @@ type: bookmark
 description: "Obsidian second-brain graph for agents (Fable 5): ROUTER + index + atomic nodes + edges + retrieval logic + state. Pretty graph view is for humans; index is the engine. Target 2–3 files per answer vs whole vault."
 summary: "Obsidian second-brain graph for agents (Fable 5): ROUTER + index + atomic nodes + edges + retrieval logic + state. Pretty graph view is for humans; index is the engine. Target 2–3 files per answer vs whole vault."
 raw: "[[raw/unicodef1wn_2080693998180606075]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Graph engineering: Obsidian vault → agent-usable graph (11 steps)

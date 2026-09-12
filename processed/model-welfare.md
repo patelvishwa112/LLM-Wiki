@@ -4,8 +4,7 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- safety
-- model-welfare
+  - safety
 sources:
 - raw/anthropic/articles/anthropic-research-exploring-model-welfare.md
 - raw/anthropic/articles/anthropic-research-end-subset-conversations.md
@@ -13,6 +12,7 @@ sources:
 - raw/anthropic/articles/anthropic-research-introspection.md
 confidence: medium
 description: Model Welfare
+status: current
 ---
 
 # Model Welfare

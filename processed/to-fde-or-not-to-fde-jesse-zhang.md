@@ -1,5 +1,14 @@
 ---
-tags: ["ai-strategy", "enterprise", "startups", "gtm", "agents", "product", "venture-capital", "agent-ops", "career"]
+tags:
+  - ai-strategy
+  - enterprise
+  - startups
+  - gtm
+  - agents
+  - product
+  - venture-capital
+  - agent-ops
+  - career
 source: https://x.com/thejessezhang/status/2087198484093149421
 date: 2026-08-11
 type: bookmark
@@ -7,6 +16,8 @@ description: "Decagon CEO Jesse Zhang — FDE for discovery not as business mode
 author: thejessezhang
 summary: "Decagon CEO Jesse Zhang — FDE for discovery not as business model; Palantir 'eat pain excrete product'; Decagon ~2/3 deploy via Duet product."
 raw: "[[raw/thejessezhang_2087198484093149421]]"
+status: current
+as_of: 2026-08-11
 ---
 
 # To FDE, or not to FDE?

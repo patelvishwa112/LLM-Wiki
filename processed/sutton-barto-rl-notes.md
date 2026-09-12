@@ -1,14 +1,16 @@
 ---
 tags:
-- rl
-- sutton-barto
-- books
-- notes
+  - rl
+  - ml-research
+  - learning
+  - second-brain
 source: https://x.com/latentchiz/status/2054605079349485675
 raw: '[[raw/latentchiz_2054605079349485675]]'
 date: 2026-03-30
 type: note
 description: Sutton & Barto RL Notes — Parts I & II
+status: current
+as_of: 2026-03-30
 ---
 
 # Sutton & Barto RL Notes — Parts I & II

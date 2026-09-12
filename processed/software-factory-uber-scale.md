@@ -1,5 +1,10 @@
 ---
-tags: ["agents", "agent-ops", "coding-agents", "cost", "mcp"]
+tags:
+  - agents
+  - agent-ops
+  - coding-agents
+  - cost-optimization
+  - mcp
 source: https://x.com/UberEng/status/2093444169037762840
 date: 2026-08-28
 type: bookmark
@@ -7,6 +12,8 @@ description: "Uber Eng (@udaykiran): software factory at scale — 70%+ PRs agen
 author: UberEng
 summary: "Uber Eng (@udaykiran): software factory at scale — 70%+ PRs agent-attributed, 3600 skills, 7x WAU; cost equation, MCP-via-CLI, code-mode, context graph."
 raw: "[[raw/UberEng_2093444169037762840]]"
+status: current
+as_of: 2026-08-28
 ---
 
 # Running a Software Factory Efficiently at Uber Scale

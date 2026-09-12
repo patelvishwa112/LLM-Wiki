@@ -1,11 +1,11 @@
 ---
 tags:
-- loops
-- agent-orchestration
-- skills
-- verification
-- claude-code
-- hermes
+  - loop-engineering
+  - orchestration
+  - skills
+  - verification
+  - claude-code
+  - hermes
 source: https://x.com/mvanhorn/status/2063865685558903149
 date: 2026-06-08
 type: bookmark
@@ -21,6 +21,8 @@ description: 'Synthesis of the ''design loops that prompt your agents'' discours
   the loop is only as good as its feedback/verification; the expensive resource shifted
   from tokens to loop management; reusable skills inside the loop are the real asset
   (not prompts).'
+status: current
+as_of: 2026-06-08
 ---
 
 # WTF Is a Loop? Peter Steinberger vs. Boris Cherny

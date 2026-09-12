@@ -1,5 +1,13 @@
 ---
-tags: ["second-brain", "obsidian", "agents", "hermes", "knowledge-graph", "karpathy", "cronjob", "creator-economy"]
+tags:
+  - second-brain
+  - obsidian
+  - agents
+  - hermes
+  - knowledge-graph
+  - ml-research
+  - automation
+  - creator-economy
 source: https://x.com/leopardracer/status/2073340097051689327
 date: 2026-07-04
 type: bookmark
@@ -7,6 +15,8 @@ author: leopardracer
 description: "Living Obsidian wiki built Karpathy-style; four Hermes cron agents (Post, Build, Stoic, Note) ingest Claude.ai/Code history, write back to wiki pages, and deliver journal insights every six hours."
 summary: "Living Obsidian wiki built Karpathy-style; four Hermes cron agents (Post, Build, Stoic, Note) ingest Claude.ai/Code history, write back to wiki pages, and deliver journal insights every six hours."
 raw: "[[raw/leopardracer_2073340097051689327]]"
+status: current
+as_of: 2026-07-04
 ---
 
 # Living wiki second brain (leopardracer)

@@ -1,12 +1,12 @@
 ---
 tags:
-- anthropic
-- fable-5
-- mythos
-- prompting
-- claude
-- agent-management
-- loops
+  - anthropic
+  - fable
+  - projects
+  - prompt-engineering
+  - claude
+  - multi-agent
+  - loop-engineering
 source: https://x.com/aiedge_/status/2065064961999847849
 date: 2026-06-11
 type: bookmark
@@ -22,6 +22,8 @@ description: 'Plain-English guide to prompting Anthropic''s Fable 5 (Mythos): lo
   superior vision, and coding/security audits. Optimal prompt structure includes Context
   + Request + Output format + Constraints. Effort levels (high/xhigh/ultracode) are
   the main control knob. Includes memory system and /loop patterns.'
+status: current
+as_of: 2026-06-11
 ---
 
 # Fable 5 (Mythos) Prompting Masterclass by Anthropic

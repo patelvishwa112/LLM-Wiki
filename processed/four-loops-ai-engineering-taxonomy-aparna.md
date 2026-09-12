@@ -5,9 +5,8 @@ tags:
   - agent-harness
   - observability
   - evals
-  - software-factory
-  - autoresearch
-  - arize
+  - ai-engineering
+  - ai-research
 source: https://x.com/aparnadhinak/status/2073492320159510869
 date: 2026-07-04
 type: bookmark
@@ -15,6 +14,8 @@ author: aparnadhinak
 description: "Aparna Dhinakaran maps four loop architectures (execution, task/Ralph, product factory, system/autoresearch) plus an oversight loop, from AIEWF June 2026 hype."
 summary: "Aparna Dhinakaran maps four loop architectures (execution, task/Ralph, product factory, system/autoresearch) plus an oversight loop, from AIEWF June 2026 hype."
 raw: "[[raw/aparnadhinak_2073492320159510869]]"
+status: current
+as_of: 2026-07-04
 ---
 
 # Four Loops in AI Engineering (Taxonomy)

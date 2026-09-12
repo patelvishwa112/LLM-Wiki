@@ -1,15 +1,15 @@
 ---
 tags:
-- graph-engineering
-- loop-engineering
-- agents
-- multi-agent
-- orchestration
-- agent-harness
-- harness-engineering
-- verification
-- langgraph
-- cost-optimization
+  - knowledge-graph
+  - loop-engineering
+  - agents
+  - multi-agent
+  - orchestration
+  - agent-harness
+  - harness-engineering
+  - verification
+  - agent-frameworks
+  - cost-optimization
 source: https://x.com/akshay_pachaar/status/2081089131808243999
 date: 2026-07-25
 author: Akshay (@akshay_pachaar)
@@ -17,6 +17,8 @@ type: bookmark
 description: "Graph engineering is coordination of loops (nodes/edges/state), not a loop replacement. Four hard parts: node worthiness, typed shared state, code-first routing, anti-groupthink reviewers. Most times graphs are overkill (~15x tokens)."
 summary: "Graph engineering is coordination of loops (nodes/edges/state), not a loop replacement. Four hard parts: node worthiness, typed shared state, code-first routing, anti-groupthink reviewers. Most times graphs are overkill (~15x tokens)."
 raw: "[[raw/akshay_pachaar_2081089131808243999]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Graph engineering: substance over the meme

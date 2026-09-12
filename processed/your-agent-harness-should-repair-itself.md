@@ -1,12 +1,10 @@
 ---
 tags:
-- agent-harness
-- observability
-- opik
-- debugging
-- regression-testing
-- self-repair
-- production
+  - agent-harness
+  - observability
+  - verification
+  - agent-ops
+  - production
 source: https://x.com/akshay_pachaar/status/2064051835636498924
 date: 2026-06-08
 type: bookmark
@@ -20,6 +18,8 @@ description: 'Opik closes the agent debugging loop automatically: trace → Olli
   root cause + proposes code fix → approve → rerun in sandbox → lock original failure
   as regression test. The harness gets harder to break with every cycle. 6-algorithm
   optimizer + 50+ framework integrations included.'
+status: current
+as_of: 2026-06-08
 ---
 
 # Your Agent Harness Should Repair Itself

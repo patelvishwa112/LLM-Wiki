@@ -2,9 +2,6 @@
 tags:
   - productivity
   - communication
-  - soft-skills
-  - networking
-  - relationships
   - career
   - creator-economy
 source: https://x.com/lifemaxxjourney/status/2078571200956301691
@@ -14,6 +11,8 @@ author: lifemaxxjourney
 description: "Six conversation habits: real curiosity, humble opinions, common-ground first, make others feel important, nonverbal presence, novelty — craft over charisma."
 summary: "Six conversation habits: real curiosity, humble opinions, common-ground first, make others feel important, nonverbal presence, novelty — craft over charisma."
 raw: "[[raw/lifemaxxjourney_2078571200956301691]]"
+status: current
+as_of: 2026-07-18
 ---
 
 # How to have better conversations

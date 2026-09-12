@@ -1,17 +1,15 @@
 ---
 tags:
-- peft
-- lora
-- fine-tuning
-- parameter-efficient
-- adapters
-- huggingface
-- training
-- slm
+  - fine-tuning
+  - open-source
+  - training
+  - slm
 source: https://huggingface.co/blog/peft-beyond-lora
 type: article
 ingested: 2026-06-18
 description: 'Beyond LoRA: Can you beat the most popular fine-tuning technique?'
+status: current
+as_of: 2026-06-18
 ---
 
 # Beyond LoRA: Can you beat the most popular fine-tuning technique?

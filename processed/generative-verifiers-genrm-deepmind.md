@@ -1,14 +1,26 @@
 ---
-tags: ["papers", "evals", "reward-models", "reasoning", "inference-scaling", "rl", "training", "post-training", "deepmind", "verification", "llm-judges"]
+tags:
+  - papers
+  - evals
+  - reward-modeling
+  - reasoning
+  - rl
+  - training
+  - post-training
+  - frontier-labs
+  - verification
+  - llm-judges
 source: https://arxiv.org/abs/2408.15240
 date: 2025-02
-type: paper
+type: article
 description: "DeepMind GenRM (ICLR 2025) — train verifiers as next-token Yes/No (+ CoT); Best-of-N beats discriminative RM and LLM-as-Judge; easy-to-hard MATH gains."
 author: zhang-et-al-deepmind
 summary: "DeepMind GenRM (ICLR 2025) — train verifiers as next-token Yes/No (+ CoT); Best-of-N beats discriminative RM and LLM-as-Judge; easy-to-hard MATH gains."
 raw: "[[raw/arxiv_2408.15240_generative_verifiers_genrm]]"
 arxiv: "2408.15240"
 venue: "ICLR 2025"
+status: current
+as_of: 2025-02
 ---
 
 # Generative Verifiers (GenRM) — reward modeling as next-token prediction

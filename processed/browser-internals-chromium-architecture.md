@@ -1,18 +1,14 @@
 ---
 tags:
-- browser-internals
-- chromium
-- v8
-- rendering-pipeline
-- networking
-- javascript-engine
-- frontend-performance
-- browser-agents
-- web-performance
+  - web-dev
+  - career
+  - browser-agents
 source: https://x.com/addyosmani/status/2068394292796871019
 type: concept
 ingested: 2026-06-20
 description: How Modern Browsers Work — Chromium Architecture Deep Dive
+status: current
+as_of: 2026-06-20
 ---
 
 # How Modern Browsers Work — Chromium Architecture Deep Dive

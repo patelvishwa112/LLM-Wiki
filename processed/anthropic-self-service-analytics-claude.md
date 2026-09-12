@@ -1,14 +1,13 @@
 ---
 tags:
-- anthropic
-- claude-code
-- data-analytics
-- skills
-- enterprise
-- evals
-- agent-ops
-- semantic-layer
-- data-engineering
+  - anthropic
+  - claude-code
+  - data-engineering
+  - skills
+  - enterprise
+  - evals
+  - agent-ops
+  - context-engineering
 source: https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
 raw: '[[raw/anthropic-self-service-analytics-claude]]'
 date: 2026-06-03
@@ -32,6 +31,8 @@ description: 'Anthropic''s internal self-service analytics system: 95% of busine
   21% → 95%+ accuracy), and validation (offline evals, ablations, adversarial review,
   provenance footers, active correction harvesting). Three failure modes: entity ambiguity,
   staleness, retrieval failure.'
+status: current
+as_of: 2026-06-03
 ---
 
 # Anthropic Self-Service Analytics with Claude

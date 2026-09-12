@@ -1,5 +1,13 @@
 ---
-tags: ["career", "ai-research", "interview-prep", "phd", "openai", "training", "rl", "transformers", "job-search", "productivity", "learning"]
+tags:
+  - career
+  - ai-research
+  - frontier-labs
+  - training
+  - rl
+  - transformers
+  - productivity
+  - learning
 source: https://x.com/iharnoorsingh/status/2077586051112280379
 date: 2026-07-15
 type: bookmark
@@ -7,6 +15,8 @@ description: "Alisa Wuffles (via Harnoor): 57 interviews / 11 companies → Open
 author: iharnoorsingh
 summary: "Alisa Wuffles (via Harnoor): 57 interviews / 11 companies → OpenAI — study full-time, implement transformers from scratch, public LLM/math notes + CS336 resource stack, negotiate hard."
 raw: "[[raw/iharnoorsingh_2077586051112280379]]"
+status: current
+as_of: 2026-07-15
 ---
 
 # Cracking the AI research interview (Alisa Wuffles)

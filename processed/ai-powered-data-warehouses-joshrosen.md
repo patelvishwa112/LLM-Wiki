@@ -1,5 +1,9 @@
 ---
-tags: ["data", "agents", "architecture", "evals"]
+tags:
+  - data-engineering
+  - agents
+  - architecture
+  - evals
 source: https://x.com/JoshARosen/status/2095488762532745712
 date: 2026-09-03
 type: bookmark
@@ -7,6 +11,8 @@ description: "Josh Rosen: seven warehouse-AI lessons — inference as operator, 
 author: JoshARosen
 summary: "Josh Rosen: seven warehouse-AI lessons — inference as operator, inferred transforms, semantic layer for agents, agent location, Flights, agent workload, AI lineage."
 raw: "[[raw/JoshARosen_2095488762532745712]]"
+status: current
+as_of: 2026-09-03
 ---
 
 # AI-Powered Data Warehouses: Architectural Lessons

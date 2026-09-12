@@ -1,5 +1,12 @@
 ---
-tags: ["prompt-engineering", "productivity", "writing", "agents", "context-engineering", "skills", "communication"]
+tags:
+  - prompt-engineering
+  - productivity
+  - writing
+  - agents
+  - context-engineering
+  - skills
+  - communication
 source: https://x.com/alex_prompter/status/2086807496942068197
 date: 2026-08-10
 type: bookmark
@@ -7,6 +14,8 @@ description: "Reverse prompting / Flipped Interaction — state a goal, let the 
 author: alex_prompter
 summary: "Reverse prompting / Flipped Interaction — state a goal, let the model interview you one question at a time, then produce; flip control on fuzzy work."
 raw: "[[raw/alex_prompter_2086807496942068197]]"
+status: current
+as_of: 2026-08-10
 ---
 
 # Reverse Prompting 101

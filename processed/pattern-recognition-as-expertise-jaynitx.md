@@ -1,10 +1,8 @@
 ---
 tags:
-- pattern-recognition
-- chunking
-- deliberate-practice
-- expertise
-- recognition-primed-decision-making
+  - rag
+  - learning
+  - decision-making
 source: https://x.com/jaynitx/status/2054200520575967698
 type: bookmark
 related:
@@ -31,6 +29,7 @@ description: '"@jaynitx shares a high-engagement thread on how pattern recogniti
   Decision Making. Covers how to build it faster through high volume + active analysis,
   while warning about false patterns. Applies across domains: content, programming,
   investing, reading."'
+status: current
 ---
 
 # Pattern Recognition Is the Real Foundation of Expertise

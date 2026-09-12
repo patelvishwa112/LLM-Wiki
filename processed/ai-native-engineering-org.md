@@ -1,12 +1,11 @@
 ---
 tags:
-- anthropic
-- claude-code
-- engineering-management
-- productivity
-- team-structure
-- code-review
-- ai-native
+  - anthropic
+  - claude-code
+  - career
+  - productivity
+  - coding-tools
+  - agents
 source: https://claude.com/blog/running-an-ai-native-engineering-org
 raw: '[[raw/anthropic-ai-native-engineering-org]]'
 date: 2026-06-03
@@ -26,6 +25,8 @@ description: 'How the Claude Code team restructured for AI-native engineering. F
   code, engineers design). Three core principles: dogfood, flat team, kill obsolete
   processes. Three metrics: onboarding ramp, PR cycle time, Claude-assisted commits
   (100%).'
+status: current
+as_of: 2026-06-03
 ---
 
 # Running an AI-Native Engineering Org

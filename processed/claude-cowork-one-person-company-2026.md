@@ -3,11 +3,9 @@ tags:
   - claude-cowork
   - anthropic
   - productivity
-  - solo-operator
+  - startups
   - agents
-  - plugins
-  - knowledge-work
-  - one-person-company
+  - claude-code
 source: https://x.com/cyrilxbt/status/2072139907615560054
 date: 2026-07-01
 type: bookmark
@@ -15,6 +13,8 @@ author: cyrilxbt
 description: "X Article framing Claude Cowork as Claude Code for non-coders—four solo-operator workflows (inbox, research, files, /schedule), plugins, and Dispatch for one-person companies."
 summary: "X Article framing Claude Cowork as Claude Code for non-coders—four solo-operator workflows (inbox, research, files, /schedule), plugins, and Dispatch for one-person companies."
 raw: "[[raw/cyrilxbt_2072139907615560054]]"
+status: current
+as_of: 2026-07-01
 ---
 
 # Claude Cowork and the One-Person Company (2026)

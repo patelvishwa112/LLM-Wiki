@@ -1,18 +1,18 @@
 ---
 tags:
-- github-copilot
-- data-analytics
-- internal-agent
-- qubot
-- agent-architecture
-- trino
-- kusto
-- analytics-agent
-- github-blog
+  - coding-tools
+  - data-engineering
+  - agents
+  - projects
+  - agent-architecture
+  - databases
+  - observability
 source: https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/
 type: bookmark
 ingested: 2026-06-20
 description: How we built an internal data analytics agent (Qubot)
+status: current
+as_of: 2026-06-20
 ---
 
 # How we built an internal data analytics agent (Qubot)

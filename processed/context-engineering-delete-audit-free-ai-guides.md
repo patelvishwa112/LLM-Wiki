@@ -1,5 +1,12 @@
 ---
-tags: ["context-engineering", "prompt-engineering", "claude-code", "agents", "agent-harness", "skills", "mcp", "compaction"]
+tags:
+  - context-engineering
+  - prompt-engineering
+  - claude-code
+  - agents
+  - agent-harness
+  - skills
+  - mcp
 source: https://x.com/free_ai_guides/status/2082463119742320825
 date: 2026-08-01
 type: bookmark
@@ -7,6 +14,8 @@ description: "4-layer context audit (instructions, memory, files, tools) with de
 author: free_ai_guides
 summary: "4-layer context audit (instructions, memory, files, tools) with delete tests after Anthropic cut ~80% of Claude Code system prompt."
 raw: "[[raw/free_ai_guides_2082463119742320825]]"
+status: current
+as_of: 2026-08-01
 ---
 
 # Context engineering rules changed: what to delete

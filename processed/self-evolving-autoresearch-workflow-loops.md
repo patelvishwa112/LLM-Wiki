@@ -1,10 +1,10 @@
 ---
 tags:
-- autoresearch
-- dynamic-workflows
-- self-evolving
-- agent-orchestration
-- claude-code
+  - ai-research
+  - workflows
+  - recursive-self-improvement
+  - orchestration
+  - claude-code
 source: https://x.com/alokbishoyi97/status/2064281952631525741
 date: 2026-06-09
 type: bookmark
@@ -18,6 +18,8 @@ description: 'evo 0.5 runs two concurrent workflows: the main optimize loop + a 
   loop that observes and rewrites the harness (phases, prompts, gates, verifiers)
   on the fly. Dynamic workflows make the loop itself evolvable data instead of fixed
   in-context orchestration.'
+status: current
+as_of: 2026-06-09
 ---
 
 # Self-Evolving Autoresearch Workflow Loops

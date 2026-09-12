@@ -1,11 +1,9 @@
 ---
 tags:
-- rlm
-- structured-outputs
-- subagents
-- recursive-language-models
-- agent-harness
-- json-schema
+  - reasoning
+  - prompt-engineering
+  - subagents
+  - agent-harness
 source: https://x.com/neural_avb/status/2063907440509571354
 date: 2026-06-08
 type: bookmark
@@ -21,6 +19,8 @@ description: RLM subagents produce far cleaner, hallucination-resistant results 
   on The Coxon Fund shows free-text fan-out leads to aggregation failure; boolean
   schema routing succeeds with the same token budget. Validation happens at FINAL()
   in the REPL.
+status: current
+as_of: 2026-06-08
 ---
 
 # RLM Agents live healthier when they talk via Structured Outputs

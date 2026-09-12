@@ -1,14 +1,11 @@
 ---
 tags:
-- security
-- anthropic
-- claude-code
-- vulnerability-scanning
-- skills
-- enterprise
-- threat-modeling
-- sandbox
-- agent-ops
+  - security
+  - anthropic
+  - claude-code
+  - skills
+  - enterprise
+  - agent-ops
 source: https://claude.com/blog/using-llms-to-secure-source-code
 raw: '[[raw/anthropic-securing-source-code-llms]]'
 date: 2026-05-27
@@ -29,6 +26,8 @@ description: 'Anthropic''s guide to using Claude Opus for security: a 6-step fin
   and patching. 1,596 OSS vulns disclosed, 97 patched. Well-defined threat model →
   90% exploitable findings. Adversarial verifier halves non-exploitables; PoC requirement
   → near-zero FPR.'
+status: current
+as_of: 2026-05-27
 ---
 
 # Using LLMs to Secure Source Code

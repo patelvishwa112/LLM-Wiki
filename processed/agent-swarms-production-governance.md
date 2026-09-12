@@ -1,16 +1,15 @@
 ---
 tags:
-- agents
-- multi-agent
-- subagents
-- orchestration
-- agent-harness
-- governance
-- production
-- compression
-- coordination
-- hermes
-- cost-optimization
+  - agents
+  - multi-agent
+  - subagents
+  - orchestration
+  - agent-harness
+  - ai-policy
+  - production
+  - quantization
+  - hermes
+  - cost-optimization
 source: https://x.com/nyk_builderz/status/2070346338269819043
 date: 2026-06-26
 type: bookmark
@@ -26,6 +25,8 @@ description: 'Nyk (@nyk_builderz): one agent doing research+code+review+orchestr
   only for coordination). Production org: worker sub-agents + coordinator; four governance
   controls (pretool guard, handoff artifact, controlled disagreement, completion gate).
   Claims ~1/3 token cost vs full multi-agent and LACP gate over 3k sessions.'
+status: current
+as_of: 2026-06-26
 ---
 
 # Agent Swarms That Don't Go Rogue

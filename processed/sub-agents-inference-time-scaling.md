@@ -1,15 +1,17 @@
 ---
 tags:
-- agents
-- sub-agents
-- inference-time-scaling
-- multi-agent
-- papers
+  - agents
+  - subagents
+  - reasoning
+  - multi-agent
+  - papers
 source: https://x.com/neural_avb/status/2056358393892540552
 raw: '[[raw/neural_avb_2056358393892540552]]'
 date: 2026-05-08
 type: bookmark
 description: Sub-Agents as Inference-Time Scaling Primitive
+status: current
+as_of: 2026-05-08
 ---
 
 # Sub-Agents as Inference-Time Scaling Primitive

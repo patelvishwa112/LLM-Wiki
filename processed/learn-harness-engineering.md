@@ -1,17 +1,19 @@
 ---
 tags:
-- harness-engineering
-- agents
-- claude-code
-- codex
-- agent-engineering
-- verification
-- course
+  - harness-engineering
+  - agents
+  - claude-code
+  - codex
+  - ai-engineering
+  - verification
+  - learning
 source: https://walkinglabs.github.io/learn-harness-engineering/en/
 date: 2026-06-05
 type: resource
 author: Walking Labs
 description: Learn Harness Engineering
+status: current
+as_of: 2026-06-05
 ---
 
 # Learn Harness Engineering

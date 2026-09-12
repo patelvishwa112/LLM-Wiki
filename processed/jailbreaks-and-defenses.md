@@ -4,9 +4,8 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- safety
-- jailbreaks
-- classifiers
+  - safety
+  - jailbreaks
 sources:
 - raw/anthropic/articles/anthropic-research-constitutional-classifiers.md
 - raw/anthropic/papers/arxiv-2501.18837.md
@@ -15,6 +14,7 @@ sources:
 - raw/anthropic/papers/arxiv-2306.05499.md
 confidence: high
 description: Jailbreaks and Defenses
+status: current
 ---
 
 # Jailbreaks and Defenses

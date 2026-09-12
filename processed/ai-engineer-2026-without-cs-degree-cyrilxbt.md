@@ -1,15 +1,14 @@
 ---
 tags:
-- ai-engineering
-- career
-- self-taught
-- rag
-- agents
-- portfolio
-- hiring
-- mlops
-- practical-guide
-- roadmap
+  - ai-engineering
+  - career
+  - learning
+  - rag
+  - agents
+  - finance
+  - hiring
+  - infrastructure
+  - product
 source: https://x.com/cyrilxbt/status/2071604212912246899
 date: 2026-06-29
 type: bookmark
@@ -17,6 +16,8 @@ author: cyrilxbt
 summary: "Practical 2026 guide to AI engineering without a CS degree—sequential stack (Python → RAG → agents → deploy), three portfolio projects, realistic timelines, and portfolio-over-credential hiring math."
 description: "Practical 2026 guide to AI engineering without a CS degree—sequential stack (Python → RAG → agents → deploy), three portfolio projects, realistic timelines, and portfolio-over-credential hiring math."
 raw: "[[raw/cyrilxbt_2071604212912246899]]"
+status: current
+as_of: 2026-06-29
 ---
 
 # How To Become An AI Engineer in 2026 (Without a CS Degree)

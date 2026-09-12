@@ -2,20 +2,20 @@
 tags:
   - training
   - llm
-  - diffusion
-  - dllm
-  - masked-diffusion
+  - diffusion-models
   - architecture
   - inference
   - scaling-laws
   - transformers
-  - tutorial
+  - learning
 source: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/
 date: 2026-01-01
 type: bookmark
 author: Kuleshov Group
 description: "Tutorial on diffusion LLMs — masked/uniform diffusion, remasking, block diffusion, distillation, post-training; Mercury 2, Gemma Diffusion, Nemotron; parallel inference scaling thesis."
 raw: "[[raw/kuleshov_how-to-build-diffusion-language-model_2026]]"
+status: current
+as_of: 2026-01-01
 ---
 
 # How to Build a Diffusion Language Model

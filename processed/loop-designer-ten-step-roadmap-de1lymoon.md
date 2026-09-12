@@ -1,12 +1,12 @@
 ---
 tags:
-- agents
-- claude-code
-- loop-engineering
-- agent-harness
-- skills
-- automation
-- verification
+  - agents
+  - claude-code
+  - loop-engineering
+  - agent-harness
+  - skills
+  - automation
+  - verification
 source: https://x.com/de1lymoon/status/2069726411724673077
 date: 2026-06-24
 type: bookmark
@@ -19,6 +19,8 @@ raw: '[[raw/de1lymoon_2069726411724673077]]'
 description: A three-tier roadmap (see, build, compound) for turning manual Claude
   Code prompting into self-scheduled loops with independent graders, state memory,
   skill distillation, and fail-safe hooks.
+status: current
+as_of: 2026-06-24
 ---
 
 ## Key takeaways

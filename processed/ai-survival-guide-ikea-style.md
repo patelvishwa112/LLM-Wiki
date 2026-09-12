@@ -1,12 +1,12 @@
 ---
 tags:
-- claude
-- claude-cowork
-- claude-code
-- skills
-- productivity
-- beginner
-- ask-user-question
+  - claude
+  - claude-cowork
+  - claude-code
+  - skills
+  - productivity
+  - learning
+  - human-in-the-loop
 source: https://x.com/rubenhassid/status/2063471959158260119
 raw: '[[raw/rubenhassid_2063471959158260119]]'
 date: 2026-06-06
@@ -25,6 +25,8 @@ description: 'A non-technical survival guide to AI in 6 levels: (1) Claude.ai wi
   Cowork for file creation, (4) app connectors (Gmail, Calendar), (5) custom skills
   via /skill-creator, (6) Claude Code for building apps without coding knowledge.
   Core trick: ''ask me questions first'' turns novice prompting into power-user interactions.'
+status: current
+as_of: 2026-06-06
 ---
 
 # AI Survival Guide (IKEA-Style)

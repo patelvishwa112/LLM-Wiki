@@ -1,15 +1,14 @@
 ---
 tags:
-- harness-engineering
-- agent-harness
-- agents
-- evals
-- verification
-- prompt-engineering
-- silent-failures
-- model-drift
-- feedback-loops
-- agent-ops
+  - harness-engineering
+  - agent-harness
+  - agents
+  - evals
+  - verification
+  - prompt-engineering
+  - observability
+  - loop-engineering
+  - agent-ops
 source: https://x.com/winterarc2125/status/2081042507471696318
 date: 2026-07-25
 author: Winter (@WinterArc2125)
@@ -17,6 +16,8 @@ type: bookmark
 description: "Five months / 104 commits on why harness work is structurally hard: non-deterministic tests, silent graded failures, prose debugging, additive prompt bloat, examples > rules, moving models, slow expensive loops — difficulty is the moat."
 summary: "Five months / 104 commits on why harness work is structurally hard: non-deterministic tests, silent graded failures, prose debugging, additive prompt bloat, examples > rules, moving models, slow expensive loops — difficulty is the moat."
 raw: "[[raw/winterarc2125_2081042507471696318]]"
+status: current
+as_of: 2026-07-25
 ---
 
 # Why Harness Engineering Is So Hard

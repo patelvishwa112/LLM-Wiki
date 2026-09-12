@@ -1,12 +1,12 @@
 ---
 title: 'A Harness for Every Task: Dynamic Workflows in Claude Code'
 tags:
-- claude-code
-- agents
-- workflows
-- multi-agent
-- orchestration
-- agent-harness
+  - claude-code
+  - agents
+  - workflows
+  - multi-agent
+  - orchestration
+  - agent-harness
 source: https://claude.com/blog/a-harness-for-every-task-dynamic-workflows-in-claude-code
 date: 2026-06-02
 published: 2026-06-02
@@ -16,6 +16,8 @@ authors:
 type: article
 raw: '[[raw/claude-com_dynamic-workflows]]'
 description: 'A Harness for Every Task: Dynamic Workflows in Claude Code'
+status: current
+as_of: 2026-06-02
 ---
 
 # A Harness for Every Task: Dynamic Workflows in Claude Code

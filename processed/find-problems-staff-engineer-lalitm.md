@@ -2,10 +2,8 @@
 tags:
   - career
   - productivity
-  - problem-first
-  - product-discovery
-  - staff-engineer
-  - clear-thinking
+  - decision-making
+  - product
 source: https://lalitm.com/post/find-problems-staff-engineer/
 date: 2026-07-25
 type: article
@@ -14,6 +12,8 @@ description: "Lalit Maganti — staff engineers find work by absorbing ambient p
 summary: "Lalit Maganti — staff engineers find work by absorbing ambient problems, waiting for repeats, collapsing requests into a common shape, then pressure-testing before building."
 raw: "[[raw/lalitm_find-problems-staff-engineer]]"
 published: 2026-07-25
+status: current
+as_of: 2026-07-25
 ---
 
 # How I Find Problems to Solve as a Staff Engineer

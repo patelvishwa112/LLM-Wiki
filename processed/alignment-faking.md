@@ -4,14 +4,13 @@ created: 2026-05-22
 updated: 2026-05-22
 type: concept
 tags:
-- alignment
-- alignment-faking
-- deceptive-alignment
+  - alignment
 sources:
 - raw/anthropic/articles/anthropic-research-alignment-faking.md
 - raw/anthropic/papers/arxiv-2412.14093.md
 confidence: high
 description: Alignment Faking
+status: current
 ---
 
 # Alignment Faking

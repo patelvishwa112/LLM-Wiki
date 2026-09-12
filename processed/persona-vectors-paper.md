@@ -1,17 +1,13 @@
 ---
 tags:
-- persona-vectors
-- mechanistic-interpretability
-- steering
-- activation-engineering
-- alignment
-- sycophancy
-- finetuning
-- arxiv
+  - interpretability
+  - alignment
+  - fine-tuning
+  - papers
 source: https://arxiv.org/abs/2507.21509
 raw: '[[raw/persona-vectors-arxiv-2507.21509]]'
 date: 2026-05-28
-type: paper
+type: article
 authors:
 - Runjin Chen
 - Andy Arditi
@@ -19,6 +15,8 @@ authors:
 - Owain Evans
 - Jack Lindsey
 description: Persona Vectors — Monitoring and Controlling Character Traits in LLMs
+status: current
+as_of: 2026-05-28
 ---
 
 # Persona Vectors — Monitoring and Controlling Character Traits in LLMs

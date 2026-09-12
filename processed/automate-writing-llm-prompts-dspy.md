@@ -1,21 +1,21 @@
 ---
 tags:
-- dspy
-- prompt-engineering
-- prompt-optimization
-- llm
-- automation
-- evaluation
-- meta-prompting
-- llm-as-judge
-- production
-- reliability
+  - agent-frameworks
+  - prompt-engineering
+  - llm
+  - automation
+  - evals
+  - llm-judges
+  - production
+  - agent-ops
 source: https://towardsdatascience.com/automate-writing-your-llm-prompts/
 raw: '[[raw/towardsdatascience_automate-writing-your-llm-prompts]]'
 type: article
 author: W Brett Kennedy
 date: 2026-06-05
 description: Automate Writing Your LLM Prompts with DSPy
+status: current
+as_of: 2026-06-05
 ---
 
 # Automate Writing Your LLM Prompts with DSPy

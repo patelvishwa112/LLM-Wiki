@@ -1,14 +1,10 @@
 ---
 tags:
-- mechanistic-interpretability
-- probing
-- patching
-- faithfulness
-- encoding-deployment-gap
-- superposition
-- experiment
-- mlx
-- qwen
+  - interpretability
+  - evals
+  - projects
+  - inference
+  - frontier-labs
 type: experiment
 date: 2026-05-27
 project: ~/Projects/ghost-in-residual-stream/
@@ -17,6 +13,8 @@ model: Qwen2.5-0.5B-Instruct (MLX 4-bit)
 hardware: Apple M1 Mac Mini, 8GB RAM
 description: 'The Ghost in the Residual Stream: I Probed Every Layer of a 0.5B Model
   and Found Something Weird'
+status: current
+as_of: 2026-05-27
 ---
 
 # The Ghost in the Residual Stream: I Probed Every Layer of a 0.5B Model and Found Something Weird

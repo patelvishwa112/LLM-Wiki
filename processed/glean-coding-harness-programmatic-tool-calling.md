@@ -4,19 +4,19 @@ description: "Glean's enterprise agent harness uses 100% programmatic Python too
 tags:
   - agent-harness
   - harness-engineering
-  - glean
   - enterprise
-  - programmatic-tool-calling
-  - context-management
-  - progressive-disclosure
+  - tool-use
+  - context-engineering
   - cost-optimization
-  - search
+  - rag
   - agent-ops
 source: https://x.com/tonygentilcore/status/2075234683202531403
 date: 2026-07-09
 author: Tony Gentilcore (@tonygentilcore)
 summary: "Glean moved to code-only tool orchestration in a sandbox, with truncated previews + on-disk full outputs and two core search tools for 1000+ enterprise skills — cutting tokens 24%."
 raw: "[[raw/tonygentilcore_2075234683202531403]]"
+status: current
+as_of: 2026-07-09
 ---
 
 # Glean coding harness — 100% programmatic tool calling
