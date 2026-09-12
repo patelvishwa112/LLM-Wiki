@@ -71,6 +71,6 @@ Dynamic workflows combat all three by spawning separate subagents, each with iso
 
 ## Related
 
-- [[Claude Code Best Practices]]
-- [[Agent Harness Architecture]]
-- [[Agentic Workflow Patterns]]
+- Claude Code Best Practices
+- Agent Harness Architecture
+- Agentic Workflow Patterns

@@ -1,11 +1,11 @@
 ---
 tags:
-  - claude-code
-  - skills
-  - anthropic
-  - ai-engineering
-  - productivity
-  - context-engineering
+- claude-code
+- skills
+- anthropic
+- ai-engineering
+- productivity
+- context-engineering
 source: https://claude.com/blog/lessons-from-building-claude-code-how-we-use-skills
 raw: '[[raw/anthropic-claude-code-skills-lessons]]'
 date: 2026-06-03
@@ -17,10 +17,6 @@ summary: 'Anthropic''s internal playbook for Claude Code skills: 9 categories (l
   disclosure, model-oriented descriptions, on-demand hooks, persistent memory via
   log files, and skill distribution via repo or marketplace. Verification skills had
   the most measurable impact on output quality.'
-related:
-- '[[claude-code-slash-command-library]]'
-- '[[15-claude-skills-that-stuck-vaibhav-sisinty]]'
-- '[[anthropic-self-service-analytics-claude]]'
 description: 'Anthropic''s internal playbook for Claude Code skills: 9 categories
   (library reference, product verification, data analysis, business automation, scaffolding,
   code review, CI/CD, runbooks, infra ops), plus tips on gotchas sections, progressive
@@ -68,3 +64,9 @@ as_of: 2026-06-03
 ## Measurement
 
 PreToolUse hook logs skill usage. Find popular skills and undertriggering ones vs expectations.
+
+## Related
+
+- [[claude-code-slash-command-library]]
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]
+- [[anthropic-self-service-analytics-claude]]

@@ -10,6 +10,15 @@ OKF bundle history (newest sections at top).
 
 - Ingest: 29 X bookmarks Sep 12–Oct 20 2026 (dair_ai 2098835038439961060 through HamelHusain 2112588257104216294; 29 raw + 25 processed, 5 captures of the Manidis/Mercor thread consolidated into one note)
 
+## 2026-09-12
+
+- Maintenance: Phase 0/1 knowledge-graph rebuild (link/frontmatter repair pass).
+  - Moved invalid `related:` wikilinks out of YAML frontmatter into body `## Related` sections for **83** notes (fixes PyYAML/TAG-INDEX breakage).
+  - Repaired **139** broken wikilink refs across **103** dead targets: **17** refs repointed to near-miss slugs, **6** concept stubs created to adopt frequently-referenced concepts (`agent-harness`, `multi-agent-orchestration`, `agent-architecture`, `agent-loops`, `second-brain`, `how-to-set-up-your-content-system`), **98** dead-link markups stripped (surrounding text preserved). Broken refs now **0**. See `docs/link-repair-report.md`.
+  - Orphan notes: **104** identified; **35** strongest tag-adjacent inbound links auto-added (orphans down to **69**). Proposals for the rest in `docs/orphan-adoption.md`.
+  - Regenerated all indexes under the 121-tag canonical taxonomy: `entities/TAG-INDEX.md` (121 tags / 545 notes), `processed/index.md` (545), and `INDEX.tsv` (557 rows). 100% coverage.
+  - Made vault scripts portable (derive vault root from file location) and added `scripts/regenerate-tag-index.py` (replaces the missing external tag-index generator). Retired stale `X Bookmarks Index.md` to `_deprecated/`.
+
 ## 2026-09-11
 
 - Ingest: OAATI goal model (profound_ideas_ 2098011857684435339)

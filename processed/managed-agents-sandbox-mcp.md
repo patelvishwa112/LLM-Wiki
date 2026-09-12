@@ -1,11 +1,11 @@
 ---
 tags:
-  - agents
-  - mcp
-  - enterprise
-  - anthropic
-  - security
-  - agent-ops
+- agents
+- mcp
+- enterprise
+- anthropic
+- security
+- agent-ops
 source: https://claude.com/blog/claude-managed-agents-updates
 raw: '[[raw/anthropic-managed-agents-sandbox-mcp]]'
 date: 2026-06-07
@@ -14,9 +14,6 @@ type: bookmark
 summary: Claude Managed Agents now support self-hosted sandboxes that keep execution
   within enterprise perimeters and MCP tunnels that connect agents to private internal
   services without exposing them to the public internet.
-related:
-- '[[mcp-core-architecture-explained]]'
-- '[[claude-managed-agents]]'
 description: Claude Managed Agents now support self-hosted sandboxes that keep execution
   within enterprise perimeters and MCP tunnels that connect agents to private internal
   services without exposing them to the public internet.
@@ -54,3 +51,9 @@ Two infrastructure updates that let Managed Agents operate entirely within enter
 ## Availability
 
 Self-hosted sandboxes: public beta. MCP tunnels: research preview (request access).
+
+## Related
+
+- [[mcp-core-architecture-explained]]
+- [[claude-managed-agents]]
+- [[llms-securing-source-code]]

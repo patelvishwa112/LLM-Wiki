@@ -32,9 +32,9 @@ GitHub built "Qubot", an internal data analytics agent powered by GitHub Copilot
 Excellent real-world case study of building a domain-specific internal agent (analytics) using Copilot. Directly relevant to agent-harness patterns, tool integration (Trino/Kusto as data tools), and production deployment of agents inside a company. High-signal for anyone building similar internal tools or data agents.
 
 ## Related Notes
-- [[github-copilot]]
+- github-copilot
 - [[agent-architecture]]
-- [[internal-tools]]
+- internal-tools
 
 ---
 *Raw source saved to: raw/github-qubot-data-analytics-agent.md*

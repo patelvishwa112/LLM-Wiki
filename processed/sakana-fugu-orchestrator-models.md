@@ -58,6 +58,6 @@ Reported highlights include strong **SWE-Bench Pro** scores vs pool models and n
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[universal-agent-thesis]]
-- [[sub-agents-are-a-promising-inference-time-scaling]]
+- [[sub-agents-inference-time-scaling]]
 - [[agent-harness-engineering-agentforge]]
 - [[what-is-kv-cache-llms]]

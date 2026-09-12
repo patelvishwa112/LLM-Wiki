@@ -69,4 +69,5 @@ Connects macro AI economics to harness/agent strategy (token allocation, task ho
 - [[post-agent-companies]]
 - [[how-to-read-company-ai-analyst]]
 - [[harness-is-the-product-context-aware-agents]]
-- [[sub-agents-are-a-promising-inference-time-scaling]]
+- [[sub-agents-inference-time-scaling]]
+- [[opus-5-explained-effort-dial-notegoyard]]

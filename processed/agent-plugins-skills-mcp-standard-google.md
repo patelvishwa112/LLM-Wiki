@@ -80,3 +80,4 @@ Working Draft + Google Cloud product surface (Agents CLI, Data Agent Kit). Confo
 - [[mcp-core-architecture-explained]]
 - [[open-knowledge-format-okf-google]]
 - [[openwiki-02-okf-langchain-bracesproul]]
+- [[long-running-agent-open-source-harness-sumanth]]

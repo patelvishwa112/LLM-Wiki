@@ -1,15 +1,14 @@
 ---
 tags:
-  - robotics
-  - agents
-  - llm
+- robotics
+- agents
+- llm
 source: https://interlatent.com/blog/interlatent-modern-ai-robotics-first-principles
 date: 2026-06-12
 type: bookmark
 author: interlatent
 summary: An Overview of Modern AI Robotics from First Principles
 raw: '[[raw/interlatent_interlatent-modern-ai-robotics-first-principles]]'
-related: []
 description: An Overview of Modern AI Robotics from First Principles
 status: current
 as_of: 2026-06-12

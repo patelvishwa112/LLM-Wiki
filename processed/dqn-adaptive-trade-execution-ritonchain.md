@@ -51,7 +51,7 @@ Connects **RL** domain to **trading** tag cluster and **Markov** state transitio
 ## Related
 
 - [[jim-simons-medallion-quant-framework]]
-- [[here-is-the-full-timeline-of-policy-gradients-from]]
+- here-is-the-full-timeline-of-policy-gradients-from
 - [[rl-algo-comprehensive-qa]]
 - [[rlhf-from-first-principles]]
 - [[how-to-read-company-ai-analyst]]

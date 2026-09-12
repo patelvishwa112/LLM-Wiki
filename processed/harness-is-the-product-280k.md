@@ -1,15 +1,15 @@
 ---
 tags:
-  - agent-harness
-  - claude-code
-  - mcp
-  - tool-use
-  - cost-optimization
-  - agent-memory
-  - subagents
-  - coding-tools
-  - prompt-engineering
-  - agents
+- agent-harness
+- claude-code
+- mcp
+- tool-use
+- cost-optimization
+- agent-memory
+- subagents
+- coding-tools
+- prompt-engineering
+- agents
 source: https://x.com/dunik_7/status/2064342854051209338
 date: 2026-06-09
 type: article
@@ -23,11 +23,6 @@ summary: 'A 5-dev team burns ~$280K/year running Claude Code with no harness: de
   unused), and THE TEAM (sub-agents with independent review gate). Same model. Different
   harness. Different outcome.'
 raw: '[[dunik_7_2064342854051209338]]'
-related:
-- '[[agent-first-vs-prompt-first-design]]'
-- '[[claude-code-dynamic-workflows-intro]]'
-- '[[harness-is-the-product-context-aware-agents]]'
-- '[[claude-managed-agents]]'
 description: 'A 5-dev team burns ~$280K/year running Claude Code with no harness:
   dead MCP tools taxing every request, no map re-explaining context, no memory re-litigating
   decisions, no sub-agent team or review gate. The fix is four layers: THE MAP (CLAUDE.md,
@@ -79,3 +74,11 @@ as_of: 2026-06-09
 ## The Key Insight
 
 Same model. Same subscription. Same prompts. The agent that shipped 5 production services across 98 sessions runs the exact same model as the one that breaks in someone else's demo. It just had a map, a memory, hands it actually used, and a team.
+
+## Related
+
+- agent-first-vs-prompt-first-design
+- [[claude-code-dynamic-workflows-intro]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[claude-managed-agents]]
+- [[6-mcp-servers-0-calls-280k-wasted]]

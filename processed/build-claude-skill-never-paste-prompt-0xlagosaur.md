@@ -66,3 +66,5 @@ Aligns with [[anthropic-claude-code-skills-lessons]], [[hermes-seven-skills-cobi
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[problem-first-skill-invert-bad-ideas]]
 - [[nvidia-skillspector-security-scanner]]
+- [[ai-chief-of-staff-morning-brief]]
+- [[harnessing-claudes-intelligence]]

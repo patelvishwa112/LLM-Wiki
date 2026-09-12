@@ -1,12 +1,12 @@
 ---
 tags:
-  - rlhf
-  - training
-  - alignment
-  - reward-modeling
-  - rl
-  - constitutional-ai
-  - learning
+- rlhf
+- training
+- alignment
+- reward-modeling
+- rl
+- constitutional-ai
+- learning
 source: https://x.com/itsreallyvivek/status/2063610589621219596
 raw: '[[raw/itsreallyvivek_2063610589621219596]]'
 date: 2026-06-07
@@ -17,8 +17,6 @@ summary: 'RLHF explained from first principles: the three-phase pipeline (SFT �
   against reward hacking, and common failure modes (reward hacking, distributional
   shift, labeler bias). Covers post-RLHF developments: DPO, Constitutional AI, RLAIF.
   Core insight: measured preferences ≠ actual values ≠ what''s genuinely good.'
-related:
-- '[[automate-writing-llm-prompts-dspy]]'
 description: 'RLHF explained from first principles: the three-phase pipeline (SFT
   → reward model → PPO loop), Bradley-Terry preference modeling, the KL penalty as
   a leash against reward hacking, and common failure modes (reward hacking, distributional
@@ -77,3 +75,8 @@ Without the KL penalty, the model reward hacks — finds responses that score hi
 ## The Chain
 
 Human preference → scalar → gradient → behavior you interact with every day. Each step has a gap. RLHF doesn't guarantee alignment with actual values — it guarantees alignment with measured preferences, which are an approximation at best.
+
+## Related
+
+- [[automate-writing-llm-prompts-dspy]]
+- [[what-every-programmer-should-know-about-rlhf]]

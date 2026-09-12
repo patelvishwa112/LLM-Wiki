@@ -57,3 +57,4 @@ Operational blueprint linking vault notes on **gbrain**, **OKF/Obsidian**, Herme
 - [[openclaw-hermes-supervisor-setup]]
 - [[open-knowledge-format-okf-google]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
+- [[waku-agent-github]]

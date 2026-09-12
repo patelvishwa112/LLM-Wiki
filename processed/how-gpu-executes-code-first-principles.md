@@ -1,8 +1,8 @@
 ---
 tags:
-  - gpu
-  - distributed-systems
-  - learning
+- gpu
+- distributed-systems
+- learning
 source: https://x.com/rocky_t07/status/2059997637726937492
 raw: '[[raw/rocky_t07_2059997637726937492]]'
 date: 2026-05-28
@@ -12,8 +12,6 @@ summary: A first-principles walkthrough of how GPUs execute code — from the th
   hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline,
   to why GPUs revolutionized parallel computation. Includes the memory aid GBWT (Grid
   → Block → Warp → Thread).
-related:
-- '[[what-is-kv-cache-llms]]'
 description: A first-principles walkthrough of how GPUs execute code — from the thread
   hierarchy (Thread → Warp → Block → SM → GPU), through the full execution pipeline,
   to why GPUs revolutionized parallel computation. Includes the memory aid GBWT (Grid
@@ -78,3 +76,7 @@ The SM is the actual execution unit. Each SM contains:
 > GPUs don't solve one difficult problem very fast — they solve millions of small problems together.
 
 When training an LLM, rendering a game, or running a simulation, you're feeding millions of tiny calculations into thousands of threads running simultaneously. The hierarchy is always the same: Thread → Warp → Block → SM → GPU.
+
+## Related
+
+- [[what-is-kv-cache-llms]]

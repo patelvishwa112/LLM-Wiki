@@ -1,20 +1,20 @@
 ---
 title: My Learnings From Training an LLM From Scratch — 5 Lessons From ~300 Experiments
 tags:
-  - training
-  - llm
-  - architecture
-  - rl
-  - scaling-laws
-  - infrastructure
-  - gpu
-  - projects
-  - writing
-  - inference
-  - model-architecture
-  - slm
-  - fine-tuning
-  - ai-research
+- training
+- llm
+- architecture
+- rl
+- scaling-laws
+- infrastructure
+- gpu
+- projects
+- writing
+- inference
+- model-architecture
+- slm
+- fine-tuning
+- ai-research
 source: https://x.com/harshbhatt7585/status/2063593933314113587
 date: 2026-06-07
 published: 2026-06-07
@@ -22,10 +22,6 @@ authors:
 - Harsh Bhatt (@harshbhatt7585)
 type: bookmark
 raw: '[[raw/harshbhatt7585_2063593933314113587]]'
-related:
-- '[[ai-engineering-roadmap-2026-from-scratch]]'
-- '[[rlhf-from-first-principles]]'
-- '[[how-gpu-executes-code-first-principles]]'
 summary: 'Harsh Bhatt trained a ~160M model combining MTP, HRM, and causal LM across
   ~300 experiments. Five hard-won lessons: simplify ideas to core mechanics, small
   models are narrow-task specialists, RL only works above a knowledge threshold, infrastructure
@@ -69,3 +65,9 @@ GPU utilization matters. During RL experiments, sequential rollout collection us
 Without documentation and leaderboards, experiments become emotional: "let's try increasing this, maybe it gets better." Created a leaderboard, ranked experiments, took benchmark-driven decisions. Curiosity without process wastes time.
 
 **Code:** https://github.com/harshbhatt7585/deep-learning-papers-implementation/blob/main/tinyGroot
+
+## Related
+
+- [[ai-engineering-roadmap-2026-from-scratch]]
+- [[rlhf-from-first-principles]]
+- [[how-gpu-executes-code-first-principles]]

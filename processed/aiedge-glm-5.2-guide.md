@@ -24,9 +24,9 @@ Post titled "GLM-5.2 Ultimate Guide" — likely a comprehensive overview or deep
 Adds to the wiki's coverage of frontier Chinese LLMs and model-specific guides. GLM series is relevant for ML Research and comparative analysis with Qwen, Mistral, etc.
 
 ## Related Notes
-- [[qwen]]
-- [[ml-research]]
-- [[llm]]
+- qwen
+- ml-research
+- llm
 
 ---
 *Raw source saved to: raw/aiedge__2067978505837850637.md*

@@ -74,3 +74,4 @@ HumanLayer product skill + brew install CTA. Visuals can be wrong or pretty-wron
 - [[reverse-prompting-101-alex-prompter]]
 - [[huggingface-model-architecture-visualizer]]
 - [[master-agent-architecture-harness-loop-graph-marfin]]
+- [[mcp-server-workflow-problems]]

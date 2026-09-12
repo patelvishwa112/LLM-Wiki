@@ -41,6 +41,6 @@ This framework provides a clear lens for evaluating which AI companies and strat
 - AI-native hiring and culture
 
 ## Related
-- [[phoebe]] (entity page recommended)
+- phoebe (entity page recommended)
 - Agent architecture and harness patterns in vault
 - Comparisons to neofirms and vertical SaaS models

@@ -1,10 +1,10 @@
 ---
 tags:
-  - claude-cowork
-  - anthropic
-  - productivity
-  - agents
-  - enterprise
+- claude-cowork
+- anthropic
+- productivity
+- agents
+- enterprise
 source: https://claude.com/blog/best-practices-for-getting-started-with-claude-cowork
 raw: '[[raw/anthropic-claude-cowork-best-practices]]'
 date: 2026-06-03
@@ -14,9 +14,6 @@ summary: 'Austin Lau''s guide to Claude Cowork for knowledge workers: when to us
   Chat vs Cowork vs Code, the five ingredients of a Cowork-shaped task, concrete marketing
   workflows (daily briefing, budget pacing, weekly reporting), and a 10-minute getting-started
   recipe. Key habit: make Claude ask clarifying questions before starting.'
-related:
-- '[[claude-cowork-product-guide]]'
-- '[[anthropic-gtm-claude-code-workflows]]'
 description: 'Austin Lau''s guide to Claude Cowork for knowledge workers: when to
   use Chat vs Cowork vs Code, the five ingredients of a Cowork-shaped task, concrete
   marketing workflows (daily briefing, budget pacing, weekly reporting), and a 10-minute
@@ -90,3 +87,8 @@ as_of: 2026-06-03
 ## Key Insight
 
 > The difference between mediocre and great Claude Cowork output is almost never your prompt — it's whether you're providing enough rich context.
+
+## Related
+
+- [[claude-cowork-product-guide]]
+- [[anthropic-gtm-claude-code-workflows]]

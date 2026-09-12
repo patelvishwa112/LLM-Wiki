@@ -1,13 +1,13 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - claude-cowork
-  - gtm
-  - skills
-  - productivity
-  - enterprise
-  - mcp
+- anthropic
+- claude-code
+- claude-cowork
+- gtm
+- skills
+- productivity
+- enterprise
+- mcp
 source: https://claude.com/blog/how-anthropic-uses-claude-gtm-engineering
 raw: '[[raw/anthropic-gtm-engineering-claude-code]]'
 date: 2026-06-05
@@ -18,10 +18,6 @@ summary: 'How Jared Sires, a non-technical AE at Anthropic, used Claude Code to 
   Sales plugin for Claude Cowork. The plugin — used by 80% of the sales org — integrates
   Salesforce, Intercom, Gong, Gmail, Google Drive, BigQuery via MCP. Key skills: /customer-context
   (360° account view in 90s) and /pipeline-management (at-risk deals, forecasting).'
-related:
-- '[[claude-cowork-product-guide]]'
-- '[[claude-cowork-best-practices]]'
-- '[[anthropic-claude-code-skills-lessons]]'
 description: 'How Jared Sires, a non-technical AE at Anthropic, used Claude Code to
   build CLAFTS (email drafting in his voice), daily brief/recap skills, and a 20+
   skill Sales plugin for Claude Cowork. The plugin — used by 80% of the sales org
@@ -68,3 +64,9 @@ as_of: 2026-06-05
 ## Key Insight
 
 > With Claude Code, the technical barrier dissolves. A non-coder can design and build tools that scale across a team. "I have space to work more creatively and strategically, and there's no turning back."
+
+## Related
+
+- [[claude-cowork-product-guide]]
+- [[claude-cowork-best-practices]]
+- [[anthropic-claude-code-skills-lessons]]

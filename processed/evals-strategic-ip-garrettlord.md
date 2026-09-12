@@ -1,18 +1,14 @@
 ---
 tags:
-  - evals
-  - world-models
-  - inference
-  - fine-tuning
-  - security
-  - agent-ops
-  - agent-architecture
+- evals
+- world-models
+- inference
+- fine-tuning
+- security
+- agent-ops
+- agent-architecture
 source: https://x.com/garrettlord/status/2068754262440767500
 type: bookmark
-related:
-- - 21-agent-building-mistakes
-- - iii-agent-harness-workers
-- - harness-engineering-2026-discipline
 summary: '"Garrett Lord (@GarrettLord, CEO of Handshake) argues that ''evals'' (evaluation
   suites) are the new strategic IP that will define the next era of AI. Companies
   must turn workflows, domain knowledge, and judgment into AI systems that improve

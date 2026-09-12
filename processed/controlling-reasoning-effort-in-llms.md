@@ -53,3 +53,4 @@ Explains product UX (effort sliders) as post-training design, not prompt magic. 
 - [[training-llm-from-scratch-5-lessons]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
+- [[behavior-parroting-cross-lab-distillation-completeskeptic]]

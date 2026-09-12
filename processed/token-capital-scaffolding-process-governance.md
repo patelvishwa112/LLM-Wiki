@@ -37,12 +37,12 @@ Reinforces core themes already present in the vault around agent harnesses, scaf
 - **Scaffolding as Moat**: Models are interchangeable; process + governance is not
 
 ## Related
-- [[agent-harness-engineering]]
-- [[feedback-loops]]
-- [[process-as-asset]]
-- [[enterprise-ai-readiness]]
-- [[compounding-systems]]
-- [[scaffolding-over-models]]
+- agent-harness-engineering
+- feedback-loops
+- process-as-asset
+- enterprise-ai-readiness
+- compounding-systems
+- scaffolding-over-models
 
 ## Tags
 token-capital, ai-scaffolding, process-design, feedback-loops, governance, human-capital, enterprise-ai, compounding-systems, agent-architecture, meta-learning

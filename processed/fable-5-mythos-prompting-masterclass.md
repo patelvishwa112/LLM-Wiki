@@ -62,3 +62,7 @@ AI Edge's translation of Anthropic's official playbook for the new Fable 5 model
 - Higher token cost.
 
 Directly relevant to Hermes prompting, skill design, and goal-execution patterns with the newest Claude models.
+
+## Related
+
+- [[fable-5-system-prompt]]

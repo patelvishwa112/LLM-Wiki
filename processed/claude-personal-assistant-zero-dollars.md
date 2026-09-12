@@ -1,13 +1,13 @@
 ---
 tags:
-  - claude
-  - claude-cowork
-  - productivity
-  - agents
-  - projects
-  - skills
-  - context-engineering
-  - second-brain
+- claude
+- claude-cowork
+- productivity
+- agents
+- projects
+- skills
+- context-engineering
+- second-brain
 source: https://x.com/0xMortyx/status/2063967160620245116
 date: 2026-06-08
 type: bookmark
@@ -17,9 +17,6 @@ summary: A practical guide to building a personal AI assistant entirely within C
   using Projects, master prompts, context files, web search, and Artifacts — zero
   additional spend beyond the Claude subscription.
 raw: '[[raw/0xmortyx_2063967160620245116]]'
-related:
-- '[[knowledge-system-compounding-obsidian-vellum]]'
-- '[[how-to-set-up-your-content-system]]'
 description: A practical guide to building a personal AI assistant entirely within
   Claude using Projects, master prompts, context files, web search, and Artifacts
   — zero additional spend beyond the Claude subscription.
@@ -44,3 +41,9 @@ as_of: 2026-06-08
 ## Why This Matters
 
 This is the same pattern appearing across the agent ecosystem: persistent context + reusable skills + tight feedback loops. The $0 Claude assistant is the consumer-grade version of the agent harness being built at the enterprise level (see [[wtf-is-a-loop]], [[harness-is-the-product-context-aware-agents]]). The architecture is the same — what differs is scale.
+
+## Related
+
+- [[knowledge-system-compounding-obsidian-vellum]]
+- [[how-to-set-up-your-content-system]]
+- [[personal-ai-assistant-claude-0-cost]]

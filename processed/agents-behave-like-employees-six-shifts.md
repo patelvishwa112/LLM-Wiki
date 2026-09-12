@@ -51,4 +51,4 @@ Same thesis as loop engineering + human-in-the-loop notes: chat UI is the wrong 
 - [[hermes-kanban-mission-control]]
 - [[hermes-goal-mode-guide]]
 - [[loop-engineering-clearly-explained]]
-- [[15-claude-code-settings-most-developers-never-touc]]
+- 15-claude-code-settings-most-developers-never-touc

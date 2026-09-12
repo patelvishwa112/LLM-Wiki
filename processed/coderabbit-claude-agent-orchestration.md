@@ -1,13 +1,13 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - agents
-  - orchestration
-  - coding-tools
-  - planning
-  - evals
-  - startups
+- anthropic
+- claude-code
+- agents
+- orchestration
+- coding-tools
+- planning
+- evals
+- startups
 source: https://claude.com/blog/how-coderabbit-used-claude-to-build-an-agent-orchestration-system
 raw: '[[raw/anthropic-coderabbit-agent-orchestration]]'
 date: 2026-05-27
@@ -20,9 +20,6 @@ summary: 'CodeRabbit built an agent orchestration layer on Claude that inserts a
   planning quality determines output quality, and late validation in AI workflows
   is very expensive. Evaluated via hand-tuned LLM judges + downstream code quality
   metrics.'
-related:
-- '[[harness-engineering-2026-discipline]]'
-- '[[anthropic-claude-code-skills-lessons]]'
 description: 'CodeRabbit built an agent orchestration layer on Claude that inserts
   a structured planning phase before code generation. The system coordinates Claude
   Opus (strategic direction), Sonnet (sequencing into steps), and Haiku (narrow tool
@@ -83,3 +80,8 @@ An orchestration layer that runs **before** any code generation:
 ## Key Insight
 
 > The cheaper code generation gets, the more expensive it becomes to move in the wrong direction. Late validation in AI workflows is very expensive. The plan itself becomes a quality gate — if it's good upfront, the downstream effect is pronounced.
+
+## Related
+
+- [[harness-engineering-2026-discipline]]
+- [[anthropic-claude-code-skills-lessons]]

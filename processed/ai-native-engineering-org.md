@@ -1,11 +1,11 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - career
-  - productivity
-  - coding-tools
-  - agents
+- anthropic
+- claude-code
+- career
+- productivity
+- coding-tools
+- agents
 source: https://claude.com/blog/running-an-ai-native-engineering-org
 raw: '[[raw/anthropic-ai-native-engineering-org]]'
 date: 2026-06-03
@@ -16,9 +16,6 @@ summary: 'How the Claude Code team restructured for AI-native engineering. Four 
   only domain expertise (Claude handles style/bugs/tests), roles blur (PMs code, engineers
   design). Three core principles: dogfood, flat team, kill obsolete processes. Three
   metrics: onboarding ramp, PR cycle time, Claude-assisted commits (100%).'
-related:
-- '[[anthropic-claude-code-skills-lessons]]'
-- '[[harness-engineering-2026-discipline]]'
 description: 'How the Claude Code team restructured for AI-native engineering. Four
   broken norms: JIT planning replaces roadmaps, ask Claude instead of authors, humans
   review only domain expertise (Claude handles style/bugs/tests), roles blur (PMs
@@ -63,3 +60,8 @@ Writing code, tests, and refactoring are no longer the bottleneck. **Verificatio
 > Don't confuse throughput with success. Throughput is one metric. The real metric is measuring the thing you're trying to solve.
 
 Start by picking your noisiest workflow and asking: is it still serving its purpose? If so, can it be automated?
+
+## Related
+
+- [[anthropic-claude-code-skills-lessons]]
+- [[harness-engineering-2026-discipline]]

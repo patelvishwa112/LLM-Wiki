@@ -56,3 +56,4 @@ Citations: Endor Labs ASL (Open SusVibes / CMU), prior Tunguz posts, Lumer promp
 - [[economy-of-tokens-vipulved-modular-ai]]
 - [[the-untrainable]]
 - [[how-to-build-company-os-kimi-k3]]
+- [[ai-demand-reflexivity-cattani]]

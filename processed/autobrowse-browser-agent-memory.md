@@ -37,6 +37,6 @@ https://x.com/kylejeong/status/2052103973377867913
 
 ## Related
 
-- [[hermes-agent-changed-how-i-work]] — Hermes skills as durable agent memory
-- [[anshuman-athletickoder-on-building-agents-from-first-princip]] — Agent architecture design patterns
-- [[sub-agents-are-a-promising-inference-time-scaling-primitive]] — Skills as reusable sub-agent primitives
+- [[hermes-agent]] — Hermes skills as durable agent memory
+- [[building-agents-from-first-principles]] — Agent architecture design patterns
+- [[sub-agents-inference-time-scaling]] — Skills as reusable sub-agent primitives

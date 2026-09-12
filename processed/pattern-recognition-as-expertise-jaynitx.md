@@ -1,13 +1,10 @@
 ---
 tags:
-  - rag
-  - learning
-  - decision-making
+- rag
+- learning
+- decision-making
 source: https://x.com/jaynitx/status/2054200520575967698
 type: bookmark
-related:
-- - how-to-be-good-at-ai-research
-- - effort-position-leverage-principles
 summary: '"@jaynitx shares a high-engagement thread on how pattern recognition (chunking)
   is the true foundation of expertise. Draws from chess masters (50k–100k patterns),
   deliberate practice with tight feedback loops, and Gary Klein’s Recognition-Primed

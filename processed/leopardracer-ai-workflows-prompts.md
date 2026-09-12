@@ -30,9 +30,9 @@ Directly relevant to the wiki's core themes of agent-harness design, skills deve
 - Reducing friction in daily AI usage
 
 ## Related Notes
-- [[prompt-engineering]]
+- prompt-engineering
 - [[agent-harness]]
-- [[skills]]
+- skills
 - [[claude-code]]
 - [[second-brain-obsidian-night-shift-300-agent-swarm]]
 

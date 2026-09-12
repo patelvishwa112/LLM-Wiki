@@ -4,20 +4,11 @@ title: Beyond the Ghost — SAE-Based Experiment Proposals for Understanding and
 date: 2026-05-29
 type: note
 tags:
-  - interpretability
-  - sparse-autoencoders
-  - projects
-  - evals
+- interpretability
+- sparse-autoencoders
+- projects
+- evals
 status: draft
-related:
-- '[[ghost-in-residual-stream-experiment]]'
-- '[[sparse-autoencoders]]'
-- '[[persona-vectors]]'
-- '[[priests-of-agi-interpretability-crisis]]'
-- '[[anthropic-natural-language-autoencoders]]'
-- '[[goodfire-parameter-decomposition-interpretability]]'
-- '[[raw/anthropic_evaluating-feature-steering]]'
-- '[[raw/anthropic_tracing-thoughts]]'
 description: 'Beyond the Ghost: SAE Experiments for Understanding and Steering Model
   Behavior'
 as_of: 2026-05-29
@@ -211,3 +202,15 @@ If we can identify circuit-level competitions in a 0.5B model, we can:
 3. Apply the same protocol to larger models where the gap may be even larger
 
 The ghost experiment found the ghost. SAEs can help us understand what's haunting it.
+
+## Related
+
+- [[ghost-in-residual-stream-experiment]]
+- [[sparse-autoencoders]]
+- [[persona-vectors]]
+- [[priests-of-agi-interpretability-crisis]]
+- [[anthropic-natural-language-autoencoders]]
+- [[goodfire-parameter-decomposition-interpretability]]
+- [[anthropic_evaluating-feature-steering]]
+- [[anthropic_tracing-thoughts]]
+- [[exp1-sae-gap-closure-initial-result]]

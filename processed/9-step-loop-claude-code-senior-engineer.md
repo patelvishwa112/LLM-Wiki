@@ -46,4 +46,4 @@ as_of: 2026-06-15
 - Tests + independent review = "done" is earned
 - Slash command = setup once, run forever
 
-**Related concepts in vault:** [[loop-engineering-14-step-roadmap]], [[claude-code-routines]], [[agent-harness]], [[skills-as-compound-interest]], [[sub-agents-are-a-promising-inference-time-scaling]]
+**Related concepts in vault:** [[loop-engineering-14-step-roadmap]], claude-code-routines, [[agent-harness]], skills-as-compound-interest, [[sub-agents-inference-time-scaling]]

@@ -6,7 +6,7 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-WIKI = Path("/Users/vishwapatel/Documents/Obsidian/wiki")
+WIKI = Path(__file__).resolve().parent.parent
 LOG = WIKI / "log.md"
 HEADER = "# Changelog\n\nOKF bundle history (newest sections at top).\n\n"
 

@@ -24,7 +24,7 @@ Directly relevant to agent architecture, memory management, and infrastructure f
 
 ## Related Notes
 - [[agent-architecture]]
-- [[agent-memory]]
+- agent-memory
 
 ---
 *Raw source saved to: raw/daleverett_2066210160876683667.md*

@@ -35,5 +35,5 @@ Recursive self-improvement refers to AI systems that can automate and improve th
 ## Related
 
 - [[self-improvement-loop-for-skills-zach-lloyd]]
-- [[self-evolving-agents-model-harness]]
+- [[2-ways-self-evolving-agents-model-harness]]
 - [[agent-loops]]

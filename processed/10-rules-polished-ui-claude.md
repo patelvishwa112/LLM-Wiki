@@ -1,13 +1,10 @@
 ---
 tags:
-  - web-dev
-  - claude
-  - prompt-engineering
+- web-dev
+- claude
+- prompt-engineering
 source: https://x.com/kvnkld/status/2066863634949779464
 type: bookmark
-related:
-- - - claude-artifacts
-- - - frontend-design
 summary: Kevin shares 10 practical rules for generating truly polished, production-ready
   UI components with Claude — emphasizing that polish comes from process and iteration,
   not just clever prompting.
@@ -35,8 +32,8 @@ This is one of the best practical guides for getting high-quality UI output from
 
 ## Related Notes
 
-- [[claude-artifacts]]
-- [[frontend-design]]
+- claude-artifacts
+- frontend-design
 
 ---
 

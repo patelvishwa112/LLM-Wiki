@@ -72,3 +72,5 @@ Mecha-nudge empirics are observational (seller FE, still selection). "OpenAI–H
 - [[distillation-post-training-frontier-2026]]
 - [[rlhf-from-first-principles]]
 - [[generative-verifiers-genrm-deepmind]]
+- [[on-policy-distillation-aha-neural-avb]]
+- [[opsd-off-policy-self-distillation]]

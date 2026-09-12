@@ -1,16 +1,16 @@
 ---
 tags:
-  - agents
-  - agent-harness
-  - tool-use
-  - safety
-  - security
-  - context-engineering
-  - subagents
-  - mcp
-  - skills
-  - verification
-  - agent-ops
+- agents
+- agent-harness
+- tool-use
+- safety
+- security
+- context-engineering
+- subagents
+- mcp
+- skills
+- verification
+- agent-ops
 source: https://x.com/bytemohit/status/2063493300884246598
 raw: '[[raw/bytemohit_2063493300884246598]]'
 date: 2026-06-07
@@ -21,9 +21,6 @@ summary: 'Building AgentForge — an agent harness from scratch in Python — ta
   other 80% is the harness: action space, approval policy, observation format, context
   budget, recovery paths, and persistence. Covers 13 components with concrete code
   lessons.'
-related:
-- '[[21-agent-building-mistakes]]'
-- '[[agentic-engineering-harness-is-all-you-need]]'
 description: 'Building AgentForge — an agent harness from scratch in Python — taught
   that an agent is not a model but a runtime. The model is ~20% of the engineering.
   The other 80% is the harness: action space, approval policy, observation format,
@@ -93,3 +90,8 @@ Atomic writes, owner-only permissions (0o600), crash-safe replacement, JSONL eve
 5. **Context is a budget** — progressive disclosure of skills, compaction of history
 6. **Test boundaries, not prose** — harness contracts are deterministic
 7. **Build one from scratch** — not to ship, to understand what frameworks hide
+
+## Related
+
+- [[21-agent-building-mistakes]]
+- agentic-engineering-harness-is-all-you-need

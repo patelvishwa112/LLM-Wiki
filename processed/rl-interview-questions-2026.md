@@ -1,11 +1,11 @@
 ---
 tags:
-  - rl
-  - rlhf
-  - training
-  - career
-  - infrastructure
-  - llm
+- rl
+- rlhf
+- training
+- career
+- infrastructure
+- llm
 source: https://x.com/sheriyuo/status/2063295181131247674
 raw: '[[raw/sheriyuo_2063295181131247674]]'
 date: 2026-06-06
@@ -16,10 +16,6 @@ summary: 35 RL interview questions distilled from Zhihu experiences and recent d
   reward design, KL penalty, DPO, MoE train-inference mismatch, async RL frameworks,
   KV cache, parallelism strategies, and staleness. Modern RL hiring expects full-stack
   understanding.
-related:
-- '[[rl-interview-answers-2026]]'
-- '[[rlhf-from-first-principles]]'
-- '[[microsoft-mai-thinking1-rank-noninvariance]]'
 description: 35 RL interview questions distilled from Zhihu experiences and recent
   discussions, spanning Algorithm (19) and Infrastructure (16). Covers Actor-Critic,
   PPO/GRPO variants, reward design, KL penalty, DPO, MoE train-inference mismatch,
@@ -83,3 +79,8 @@ as_of: 2026-06-06
 - No strict LLM RL / Agentic RL separation — answers differ by setting
 - Modern RL hiring expects full-stack: algo researchers get infra questions and vice versa
 - Answers available in [[rl-interview-answers-2026]]
+
+## Related
+
+- [[rlhf-from-first-principles]]
+- [[microsoft-mai-thinking1-rank-noninvariance]]

@@ -1,10 +1,10 @@
 ---
 tags:
-  - mcp
-  - architecture
-  - agents
-  - tool-use
-  - enterprise
+- mcp
+- architecture
+- agents
+- tool-use
+- enterprise
 source: https://x.com/techyoutbe/status/2063553215623577693
 raw: '[[raw/techyoutbe_2063553215623577693]]'
 date: 2026-06-07
@@ -15,9 +15,6 @@ summary: 'MCP core architecture broken into a clean mental model: 8 components (
   separation of concerns. Key principle: host orchestrates, client communicates, server
   exposes capabilities, backend does the real work. Covers request lifecycle, deployment
   shapes, common mistakes, and architectural trade-offs.'
-related:
-- '[[50-mcp-servers-guide]]'
-- '[[generative-ui-is-the-new-frontend]]'
 description: 'MCP core architecture broken into a clean mental model: 8 components
   (User, Host, Client, Server, Tools, Resources, Prompts, Backend), 5 layers, and
   strict separation of concerns. Key principle: host orchestrates, client communicates,
@@ -76,3 +73,8 @@ User request → Host interprets intent → Client discovers capability → Stru
 ## Trade-Off
 
 More layers and upfront design vs cleaner modularity, reuse, governance, and long-term maintainability. Worth it beyond prototype scale.
+
+## Related
+
+- [[50-mcp-servers-guide]]
+- [[generative-ui-is-the-new-frontend]]

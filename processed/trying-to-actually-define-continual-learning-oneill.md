@@ -95,3 +95,4 @@ Clearest public framing of specialized-agent continual learning: dual native sto
 - [[managed-agents-built-in-memory]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
 - [[longmemeval-evaluating-agent-memory-across-sessions]]
+- [[how-to-be-a-memory-engineer-n01ennn]]

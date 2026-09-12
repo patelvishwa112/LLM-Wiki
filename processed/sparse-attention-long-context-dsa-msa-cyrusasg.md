@@ -77,3 +77,4 @@ Trend: architectures designed **backwards from silicon** (128-token blocks, FP8 
 - [[inkling-ear-7-9m-lookup-table-huckiyang]]
 - [[glm-5-2-with-vision-projector-part-harry]]
 - [[continuous-batching-grpo-trl]]
+- [[context-engineering-feed-model-not-dumber-h100envy]]

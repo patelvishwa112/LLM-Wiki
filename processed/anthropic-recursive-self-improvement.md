@@ -1,14 +1,14 @@
 ---
 tags:
-  - anthropic
-  - recursive-self-improvement
-  - agents
-  - safety
-  - alignment
-  - ml-research
-  - coding-tools
-  - ai-research
-  - benchmarks
+- anthropic
+- recursive-self-improvement
+- agents
+- safety
+- alignment
+- ml-research
+- coding-tools
+- ai-research
+- benchmarks
 source: https://www.anthropic.com/institute/recursive-self-improvement
 date: 2026-06-08
 type: article
@@ -21,11 +21,6 @@ summary: 'The Anthropic Institute''s definitive analysis showing AI is already a
   more code, task horizons doubled from 4min to 16+ hours. Three futures mapped, with
   compounding efficiency as the most likely path.'
 raw: '[[raw/recursive-self-improvement]]'
-related:
-- '[[wtf-is-a-loop]]'
-- '[[harness-is-the-product-context-aware-agents]]'
-- '[[claude-managed-agents]]'
-- '[[claude-code-dynamic-workflows-intro]]'
 description: 'The Anthropic Institute''s definitive analysis showing AI is already
   accelerating AI development: >80% of Anthropic''s code is Claude-authored, engineers
   ship 8x more code, task horizons doubled from 4min to 16+ hours. Three futures mapped,
@@ -55,3 +50,10 @@ as_of: 2026-06-08
 ## The Critical Threshold
 
 The transition from human-written to human-reviewed to human-directed code is the arc of the entire piece. When code quality reaches "strictly better than human," the economic logic flips: humans become the bottleneck. The organization's limiting factor shifts from production to judgment.
+
+## Related
+
+- [[wtf-is-a-loop]]
+- [[harness-is-the-product-context-aware-agents]]
+- [[claude-managed-agents]]
+- [[claude-code-dynamic-workflows-intro]]

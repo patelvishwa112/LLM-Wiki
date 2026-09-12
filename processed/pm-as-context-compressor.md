@@ -1,11 +1,11 @@
 ---
 tags:
-  - pm
-  - long-context
-  - productivity
-  - skills
-  - claude-code
-  - communication
+- pm
+- long-context
+- productivity
+- skills
+- claude-code
+- communication
 source: https://x.com/nurijanian/status/2063188643683192835
 raw: '[[raw/nurijanian_2063188643683192835]]'
 date: 2026-06-06
@@ -16,8 +16,6 @@ summary: 'The PM''s role as a context compression layer between execs and engine
   confidently go the wrong direction. Information should compress upward, not downward.
   Practical system: STAKEHOLDERS.md + GOALS.md + COMPANY.md + /meeting (PM OS) + /review
   for pressure-testing. Two months per year lost to ambiguity — fix the structure.'
-related:
-- - problem-first-skill-invert-bad-ideas
 description: 'The PM''s role as a context compression layer between execs and engineering.
   Half-formed thoughts are more dangerous than silence — they give just enough to
   confidently go the wrong direction. Information should compress upward, not downward.
@@ -53,3 +51,7 @@ Compresses 2 days of triangulation into a 1-paragraph brief delivered before the
 ## The Cost
 
 One day/week deciphering = 10 weeks/year in ambiguity, plus 4-6 sprints delivering the wrong thing. Two months of your year burned on a structural problem you can fix.
+
+## Related
+
+- [[problem-first-skill-invert-bad-ideas]]

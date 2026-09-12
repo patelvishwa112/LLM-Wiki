@@ -1,10 +1,10 @@
 ---
 tags:
-  - agents
-  - security
-  - enterprise
-  - anthropic
-  - agent-ops
+- agents
+- security
+- enterprise
+- anthropic
+- agent-ops
 source: https://claude.com/blog/zero-trust-for-ai-agents
 raw: '[[raw/anthropic-zero-trust-ai-agents]]'
 date: 2026-05-27
@@ -15,11 +15,6 @@ summary: 'A practical framework for deploying autonomous AI agents in the enterp
   scoping, memory protection against poisoning, and defensive operations at the speed
   of autonomous attackers. Covers a three-tier maturity model (Foundation, Advanced,
   Optimized) and an eight-phase implementation workflow.'
-related:
-- '[[ai-cybersecurity]]'
-- '[[ai-agents]]'
-- '[[claude-code]]'
-- '[[model-context-protocol]]'
 description: 'A practical framework for deploying autonomous AI agents in the enterprise
   using Zero Trust principles: cryptographically rooted identities, per-task permission
   scoping, memory protection against poisoning, and defensive operations at the speed
@@ -71,3 +66,10 @@ Assume breach from day one. The organizations best positioned have fundamentals 
 ## Compliance
 
 Framework aligns with regulated industries including healthcare, finance, and government requirements.
+
+## Related
+
+- [[ai-cybersecurity]]
+- [[ai-agents]]
+- [[claude-code]]
+- [[model-context-protocol]]

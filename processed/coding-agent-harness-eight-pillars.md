@@ -54,3 +54,7 @@ Karl Wirth (CEO of Nimbalyst, ex-Evergage) on the system his team built around C
 ## Reference
 - Nimbalyst: https://nimbalyst.com/
 - THE_HARNESS.md: https://github.com/nimbalyst/nimbalyst/blob/main/docs/THE_HARNESS.md
+
+## Related
+
+- [[buzz-open-source-workspace-block-jack]]

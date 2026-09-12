@@ -1,12 +1,12 @@
 ---
 tags:
-  - claude-code
-  - anthropic
-  - agents
-  - multi-agent
-  - orchestration
-  - distributed-systems
-  - agent-ops
+- claude-code
+- anthropic
+- agents
+- multi-agent
+- orchestration
+- distributed-systems
+- agent-ops
 source: https://claude.com/blog/introducing-dynamic-workflows-in-claude-code
 raw: '[[raw/anthropic-dynamic-workflows-claude-code]]'
 date: 2026-05-28
@@ -18,9 +18,6 @@ summary: 'Dynamic workflows in Claude Code: Claude autonomously writes orchestra
   security audits, adversarial verification. Bun was ported from Zig to Rust (750K
   lines, 99.8% test pass) in 11 days using dynamic workflows. Available in research
   preview on Max/Team/Enterprise plans.'
-related:
-- '[[kimi-k2.6-agent-swarm-300-parallel-agents]]'
-- '[[harness-engineering-2026-discipline]]'
 description: 'Dynamic workflows in Claude Code: Claude autonomously writes orchestration
   scripts that fan out tens to hundreds of parallel subagents, checks its own work,
   and iterates until answers converge. Use cases: codebase-wide bug hunts, large migrations,
@@ -83,3 +80,8 @@ Claude dynamically writes orchestration scripts that spawn tens to hundreds of p
 ## Key Insight
 
 > Work that would normally take quarters finishes in days. A single pass by a single agent isn't enough for the hardest problems — parallel subagents, independent verification, and adversarial checking converge on answers no single pass can reach.
+
+## Related
+
+- [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[harness-engineering-2026-discipline]]

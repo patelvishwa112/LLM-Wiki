@@ -1,13 +1,13 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - data-engineering
-  - skills
-  - enterprise
-  - evals
-  - agent-ops
-  - context-engineering
+- anthropic
+- claude-code
+- data-engineering
+- skills
+- enterprise
+- evals
+- agent-ops
+- context-engineering
 source: https://claude.com/blog/how-anthropic-enables-self-service-data-analytics-with-claude
 raw: '[[raw/anthropic-self-service-analytics-claude]]'
 date: 2026-06-03
@@ -20,10 +20,6 @@ summary: 'Anthropic''s internal self-service analytics system: 95% of business q
   95%+ accuracy), and validation (offline evals, ablations, adversarial review, provenance
   footers, active correction harvesting). Three failure modes: entity ambiguity, staleness,
   retrieval failure.'
-related:
-- '[[harness-engineering-2026-discipline]]'
-- '[[claude-code-slash-command-library]]'
-- '[[15-claude-skills-that-stuck-vaibhav-sisinty]]'
 description: 'Anthropic''s internal self-service analytics system: 95% of business
   queries automated via Claude at ~95% accuracy. Four-layer stack: data foundations
   (canonical datasets, colocated artifacts, metadata as product), sources of truth
@@ -83,3 +79,9 @@ Coding is open-ended with natural guardrails (docs, tests). Analytics has a sing
 ## Key Insight
 
 > Collapse ambiguity into a single governed answer → make it discoverable → flag when either goes stale. That's the whole game.
+
+## Related
+
+- [[harness-engineering-2026-discipline]]
+- [[claude-code-slash-command-library]]
+- [[15-claude-skills-that-stuck-vaibhav-sisinty]]

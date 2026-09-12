@@ -36,5 +36,5 @@ https://x.com/de1lymoon/status/2059275498660757727
 
 ## Related
 
-- [[polymarket]] — Querying Polymarket markets and data
+- polymarket — Querying Polymarket markets and data
 - [[ghost-in-residual-stream-experiment]] — Our probing/patching experiment

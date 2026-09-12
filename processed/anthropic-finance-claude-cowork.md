@@ -1,11 +1,11 @@
 ---
 tags:
-  - anthropic
-  - claude-cowork
-  - finance
-  - enterprise
-  - productivity
-  - skills
+- anthropic
+- claude-cowork
+- finance
+- enterprise
+- productivity
+- skills
 source: https://claude.com/blog/how-anthropics-finance-team-uses-claude-to-shape-the-narrative-behind-the-numbers
 raw: '[[raw/anthropic-finance-team-claude]]'
 date: 2026-06-07
@@ -15,10 +15,6 @@ summary: How Anthropic's corporate finance team uses Claude Cowork and Claude fo
   Excel to maintain narrative integrity across board decks, automate monthly financial
   review commentary, and diagnose financial models — reclaiming 10–20 hours per week
   for higher-judgment work like framing and forward-looking analysis.
-related:
-- '[[enterprise-and-industry-applications]]'
-- '[[anthropic]]'
-- '[[claude-models]]'
 description: How Anthropic's corporate finance team uses Claude Cowork and Claude
   for Excel to maintain narrative integrity across board decks, automate monthly financial
   review commentary, and diagnose financial models — reclaiming 10–20 hours per week
@@ -62,3 +58,9 @@ Finance professionals spend most of their time verifying numbers are right — r
 ## Advice for Getting Started
 
 Start simple — ask Claude to read a doc and summarize — then push boundaries. Most valuable on recurring workflows where consistency compounds and project memory gets richer every pass. No elaborate stack needed: Claude Cowork projects, Claude for Excel, and Google Suite Connector are sufficient.
+
+## Related
+
+- [[enterprise-and-industry-applications]]
+- [[anthropic]]
+- [[claude-models]]

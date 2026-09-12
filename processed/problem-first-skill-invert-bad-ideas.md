@@ -73,3 +73,4 @@ This pattern generalizes beyond PM: any time a stakeholder proposes a specific t
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[Dynamic Workflows in Claude Code]]
 - [[colleague-skill-dot-skill]]
+- [[not-ambitious-enough-with-claude]]

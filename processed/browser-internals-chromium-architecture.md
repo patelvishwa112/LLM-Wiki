@@ -37,6 +37,6 @@ Addy noted the post was written by hand (with LLM assistance only for fact cross
 High-signal foundational knowledge for anyone building browser agents, web automation, frontend performance tooling, or agentic web systems. Directly relevant to `browser-agents`, `frontend-design`, and understanding the execution environment that agents interact with. Explains why certain optimizations (compositor-only animations, speculative loading, etc.) matter at the architectural level.
 
 ## Related
-- [[browser-agents]] and autobrowse patterns
-- [[frontend-design]] and UI performance
+- browser-agents and autobrowse patterns
+- frontend-design and UI performance
 - Web performance and rendering pipeline concepts in the vault

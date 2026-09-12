@@ -57,7 +57,7 @@ Validates the vault’s existing bet: **markdown + frontmatter + wikilinks + git
 
 ## Migration path for this vault
 
-**Current shape:** ~326 `processed/` notes, ~569 `raw/` captures, `entities/` profiles, `Bookmarks Index.md` + `TAG-INDEX.md`, Obsidian `[[wikilinks]]`, frontmatter `type: bookmark | concept | …`.
+**Current shape:** ~326 `processed/` notes, ~569 `raw/` captures, `entities/` profiles, `Bookmarks Index.md` + `TAG-INDEX.md`, Obsidian `wikilinks`, frontmatter `type: bookmark | concept | …`.
 
 **Already OKF-aligned (~80%):** flat concept files, YAML frontmatter, tags, git distribution, cross-links, human+agent readable.
 
@@ -82,7 +82,7 @@ Validates the vault’s existing bet: **markdown + frontmatter + wikilinks + git
 
 ### Tier 3 — Heavy (only if exporting to non-Obsidian consumers)
 
-- **Link portability:** Dual-write `## Related` with `/processed/slug.md` markdown links alongside `[[wikilinks]]`, or conversion script (regex wikilink → path).
+- **Link portability:** Dual-write `## Related` with `/processed/slug.md` markdown links alongside `wikilinks`, or conversion script (regex wikilink → path).
 - **`resource` field:** Set `source:` URLs as OKF `resource` where concepts describe external assets.
 - **`# Citations` sections:** Point processed notes at `raw/` via bundle-relative paths instead of only `raw:` frontmatter.
 - **Restructure:** Only if sharing a *subset* as a public OKF bundle (e.g. agents-only concepts without raw dumps) — split repo or `okf-export/` subtree.

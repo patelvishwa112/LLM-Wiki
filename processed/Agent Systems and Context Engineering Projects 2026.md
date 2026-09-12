@@ -1,18 +1,15 @@
 ---
 tags:
-  - agents
-  - context-engineering
-  - harness-engineering
-  - agent-memory
-  - orchestration
-  - projects
-  - claude-code
+- agents
+- context-engineering
+- harness-engineering
+- agent-memory
+- orchestration
+- projects
+- claude-code
 created: 2026-05-30
 source: Claude Code DeepSeek V4 Pro research session
 type: concept
-related:
-- '[[Llama SAE Interpretability Project]]'
-- '[[Bookmarks Index]]'
 description: Agent Systems & Context Engineering — Project Ideas (2026)
 status: current
 ---
@@ -97,3 +94,8 @@ status: current
 **Recommended path:** Semantic Watchdog (week 1, quick win) → Agent Git (weeks 2-3, builds on hook infra) → Agent Worktree or Context Compiler.
 
 The projects compose: Agent Git provides memory for Worktree's coordinator; Watchdog verifies Worktree's parallel output; Context Compiler optimizes prompts for all agents.
+
+## Related
+
+- [[Llama SAE Interpretability Project]]
+- [[Bookmarks Index]]

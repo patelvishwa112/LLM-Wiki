@@ -1,17 +1,13 @@
 ---
 tags:
-  - ml-research
-  - training
-  - distillation
-  - cost-optimization
-  - scaling-laws
+- ml-research
+- training
+- distillation
+- cost-optimization
+- scaling-laws
 source: https://x.com/theturingpost/status/2068474648925216861
 linked_article: https://www.turingpost.com/p/kd
 type: bookmark
-related:
-- - how-to-be-good-at-ai-research
-- - synthetic-data-generation
-- - values-slm
 summary: '"@TheTuringPost explains Knowledge Distillation (KD) as a core technique
   for creating smaller, capable models. Instead of training from scratch, a large
   teacher model transfers ''dark knowledge'' (confidence distributions and similarities
@@ -75,4 +71,4 @@ The student is trained to match these soft targets (typically via KL divergence)
 - “Dark knowledge” and temperature-based distillation are powerful patterns for transferring reasoning capabilities from large models to smaller ones
 - Complements other efficiency techniques (quantization, pruning, MoE)
 
-**Related:** [[how-to-be-good-at-ai-research]], [[synthetic-data-generation]], [[values-slm]], model compression, efficiency techniques.
+**Related:** [[how-to-be-good-at-ai-research]], [[autodata-synthetic-data-generation-explained]], values-slm, model compression, efficiency techniques.

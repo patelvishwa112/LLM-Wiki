@@ -1,12 +1,9 @@
 ---
 tags:
-  - ai-research
-  - learning
+- ai-research
+- learning
 source: https://x.com/adiix_official/status/2066853111763775949
 type: bookmark
-related:
-- - - second-brain
-- - - knowledge-graph
 summary: AdiiX argues that most people trying to get good at AI research optimize
   the wrong variable — they try to 'know more' instead of developing better research
   systems and filters for the firehose of information.
@@ -37,7 +34,7 @@ This aligns with vault principles around knowledge graphs, second-brain systems,
 ## Related Notes
 
 - [[second-brain]]
-- [[knowledge-graph]]
+- knowledge-graph
 
 ---
 

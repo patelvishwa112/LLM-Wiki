@@ -89,3 +89,4 @@ High-level map; “10k jobs” methodology not public. DeepLearning.AI product a
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[eval-engineering-merge-gate-hanakoxbt]]
 - [[how-to-keep-thinking-sean-goedecke]]
+- [[how-to-clear-technical-interview-2026-shubh]]

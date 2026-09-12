@@ -83,3 +83,4 @@ Compact map of the **recurrent + hybrid attention** line that Moonshot-style mod
 - [[how-vllm-works-amitiitbhu]]
 - [[looped-nanochat-two-pass-routing-kyleliang]]
 - [[kimi-k2.6-agent-swarm-300-parallel-agents]]
+- [[kimi-k3-explained-forgetting-swill1ams]]

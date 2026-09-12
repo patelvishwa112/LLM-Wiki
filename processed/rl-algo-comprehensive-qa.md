@@ -1,11 +1,11 @@
 ---
 tags:
-  - rl
-  - moe
-  - frontier-labs
-  - training
-  - reward-modeling
-  - projects
+- rl
+- moe
+- frontier-labs
+- training
+- reward-modeling
+- projects
 source: https://www.k-a.in/rl-algo.html
 date: 2026-06-08
 type: bookmark
@@ -15,11 +15,6 @@ summary: Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computat
   KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution.
   Based on Xiuyu Li's interview questions.
 raw: '[[raw/kain_rl-algo]]'
-related:
-- '[[rlhf-from-first-principles]]'
-- '[[rl-interview-questions-2026]]'
-- '[[rl-interview-answers-2026]]'
-- '[[here-is-the-full-timeline-of-policy-gradients-from]]'
 description: Comprehensive RL Q&A covering GRPO/PPO/DPO variants, advantage computation,
   KL penalties, MoE routing, hyperparameter selection, and DeepSeek R1→V3.2→V4 evolution.
   Based on Xiuyu Li's interview questions.
@@ -67,4 +62,8 @@ as_of: 2026-06-08
 
 ## Connection to Other Notes
 
-This pairs with [[rl-interview-questions-2026]] (questions) and [[rl-interview-answers-2026]] (answers from Vivek). Together they form a complete RL interview prep reference. The DeepSeek arc complements the policy gradient timeline in [[here-is-the-full-timeline-of-policy-gradients-from]].
+This pairs with [[rl-interview-questions-2026]] (questions) and [[rl-interview-answers-2026]] (answers from Vivek). Together they form a complete RL interview prep reference. The DeepSeek arc complements the policy gradient timeline in here-is-the-full-timeline-of-policy-gradients-from.
+
+## Related
+
+- [[rlhf-from-first-principles]]

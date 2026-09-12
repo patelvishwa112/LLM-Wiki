@@ -52,8 +52,8 @@ Maps directly to Hermes patterns: `skill_manage`, memory vs skills split, Obsidi
 
 ## Related
 
-- [[hermes-agent-changed-how-i-work]]
-- [[what-i-use-hermes-agent-for-and-how-i-use-it]]
+- [[hermes-agent]]
+- what-i-use-hermes-agent-for-and-how-i-use-it
 - [[feedback-loops-claude-code-less-babysitting]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]

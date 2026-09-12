@@ -1,17 +1,12 @@
 ---
 tags:
-  - claude-code
-  - agent-harness
-  - skills
-  - prompt-engineering
-  - agent-ops
+- claude-code
+- agent-harness
+- skills
+- prompt-engineering
+- agent-ops
 source: https://x.com/mikenevermiss/status/2068197417506222428
 type: bookmark
-related:
-- - hermes-agent-skill-authoring
-- - writing-plans
-- - iii-agent-harness-workers
-- - agent-harness-engineering-claude-14-step-roadmap
 summary: '"@mikenevermiss proposes an expanded 12-rule CLAUDE.md template for Claude
   Code (building on the original 4 rules from Karpathy/Forrest). Addresses modern
   multi-agent setups, hooks, skill libraries, and long-running workflows. Includes
@@ -118,6 +113,6 @@ The post claims this drops unsupervised error rates from ~41% (no CLAUDE.md) →
 ## Relevance to Vault
 - Directly informs the vault's own CLAUDE.md and the hermes-agent-skill-authoring skill
 - Strong patterns for agent isolation (worktrees), cost control (token budgets), verifiability, and explicit failure handling
-- Complements [[hermes-agent-skill-authoring]], [[writing-plans]], [[iii-agent-harness-workers]], and [[agent-harness-engineering-claude-14-step-roadmap]]
+- Complements hermes-agent-skill-authoring, writing-plans, [[iii-agent-harness-workers]], and [[agent-harness-engineering-claude-14-step-roadmap]]
 
 **Related:** claude-code, agent-harness, skills files, prompt engineering, agent safety.

@@ -35,3 +35,7 @@ Amit Shekhar's complete guide to the five parts of a production loop.
 A prompt is a single move. A loop is the strategy that plays the full game.
 
 Relevant to Hermes /goal and agent loop design.
+
+## Related
+
+- [[the-full-loop-in-code]]

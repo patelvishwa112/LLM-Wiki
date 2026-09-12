@@ -52,3 +52,4 @@ Practical map from Claude Code concepts to configurable CrewAI flags — good co
 - [[harness-engineering-2026-discipline]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[agent-harness-should-repair-itself]]
+- [[coderabbit-claude-agent-orchestration]]

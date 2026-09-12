@@ -1,13 +1,12 @@
 ---
 tags:
-  - agents
+- agents
 source: https://x.com/hiiinternet/status/2065117819948437765
 date: 2026-06-12
 type: bookmark
 author: hiiinternet
 summary: X post by hiiinternet
 raw: '[[raw/hiiinternet_2065117819948437765]]'
-related: []
 description: X post by hiiinternet
 status: current
 as_of: 2026-06-12

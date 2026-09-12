@@ -41,3 +41,4 @@ Turns “reward engineering” into comparative prompt design and makes agent se
 - [[grpo-trl-training-agents-class3-sergiopaniego]]
 - [[agent-as-a-judge-trajectory-evals-aparna]]
 - [[build-claude-code-harness-crewai-akshay]]
+- [[trace-turn-level-reward-credit-assignment-agents]]

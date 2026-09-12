@@ -1,10 +1,10 @@
 ---
 tags:
-  - anthropic
-  - security
-  - claude
-  - enterprise
-  - agents
+- anthropic
+- security
+- claude
+- enterprise
+- agents
 source: https://claude.com/blog/how-our-partners-are-putting-opus-to-work-for-cybersecurity
 raw: '[[raw/anthropic-partners-opus-cybersecurity]]'
 date: 2026-06-07
@@ -16,10 +16,6 @@ summary: 'Anthropic''s partners are deploying Claude Opus for cybersecurity at s
   effort in under three weeks, and Accenture takes security testing coverage from
   10% to 80%+ across 1,600 applications with scan turnaround cut from days to under
   an hour.'
-related:
-- '[[ai-cybersecurity]]'
-- '[[claude-models]]'
-- '[[ai-agents]]'
 description: 'Anthropic''s partners are deploying Claude Opus for cybersecurity at
   scale: Wiz surfaces thousands of validated high/critical findings weekly across
   150K+ production assets with zero false positives, Palo Alto Networks completes
@@ -61,3 +57,9 @@ as_of: 2026-06-07
 ## Growing Ecosystem
 
 BCG, Infosys, and SentinelOne are also building defensive cyber offerings on Opus. All run on the same underlying capability: reasoning about code, understanding exposure-to-risk translation, and sustaining long agentic workflows.
+
+## Related
+
+- [[ai-cybersecurity]]
+- [[claude-models]]
+- [[ai-agents]]

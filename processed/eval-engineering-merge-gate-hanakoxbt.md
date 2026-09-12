@@ -99,3 +99,4 @@ Practical production recipe for **auto-merge gates** on agent work: treat evals 
 ## Source
 
 https://x.com/hanakoxbt/status/2083540339147567268
+- [[how-to-build-eval-set-you-can-maintain-lotte]]

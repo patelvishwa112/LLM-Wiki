@@ -1,13 +1,10 @@
 ---
 tags:
-  - ml-research
-  - scaling-laws
-  - architecture
+- ml-research
+- scaling-laws
+- architecture
 source: https://x.com/rumik_ai/status/2066984970783166907
 type: bookmark
-related:
-- - - scaling-laws
-- - - bitter-lesson
 summary: rumik discusses how Sutton's Bitter Lesson continues to play out in modality
   interfaces — hand-designed encoders and codecs keep getting replaced by simpler,
   scale-driven encoder-free approaches.
@@ -36,7 +33,7 @@ This is a core pattern in modern ML. Understanding where hand-engineering is bei
 ## Related Notes
 
 - [[scaling-laws]]
-- [[bitter-lesson]]
+- bitter-lesson
 
 ---
 

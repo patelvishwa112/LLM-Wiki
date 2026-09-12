@@ -56,4 +56,4 @@ as_of: 2026-06-14
 
 **Core insight:** Two labs with identical architecture produce wildly different models. The architecture is shared; data quality, cleaning, alignment, and honest evaluation are where the real differentiation happens.
 
-**Related concepts in vault:** [[llm-training-pipeline]], [[rlhf]], [[data-quality]], [[transformer-architecture]], [[alignment]]
+**Related concepts in vault:** llm-training-pipeline, [[rlhf]], data-quality, transformer-architecture, [[ai-alignment]]

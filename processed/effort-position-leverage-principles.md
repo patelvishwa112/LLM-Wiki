@@ -54,6 +54,6 @@ Strong connection to second-brain / personal effectiveness systems and the "bitt
 - Track results, not time or effort
 
 ## Related
-- [[career-coaching]] patterns
+- career-coaching patterns
 - AI-native org and role transition notes
 - Leverage and network effects concepts in the vault

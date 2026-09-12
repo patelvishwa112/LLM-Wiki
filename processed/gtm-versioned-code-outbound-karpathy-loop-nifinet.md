@@ -70,7 +70,7 @@ Concrete transfer of Autoresearch/Karpathy swarm thinking from training metrics 
 
 ## Related
 
-- [[karpathys-autoresearch-is-changing-how-campaigns-g]]
+- [[karpathy-autoresearch-marketing-optimization]]
 - [[anthropic-gtm-claude-code-workflows]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[self-improving-ai-native-company-deel-bug-loop-westgarth]]

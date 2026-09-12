@@ -1,16 +1,12 @@
 ---
 tags:
-  - loop-engineering
-  - skills
-  - agent-architecture
-  - prompt-engineering
-  - recursive-self-improvement
+- loop-engineering
+- skills
+- agent-architecture
+- prompt-engineering
+- recursive-self-improvement
 source: https://x.com/anatolikopadze/status/2068328135611822149
 type: bookmark
-related:
-- - wtf-is-a-loop
-- - self-improvement-loop-for-skills-zach-lloyd
-- - wtf-is-a-loop-part-2-15-loops-ai-agents
 summary: '"Anatoli Kopadze (@anatolikopadze) explains AI loops as the shift from one-prompt-at-a-time
   usage to autonomous iterative workflows. A real loop requires Goal + Verify (the
   most critical element) + State + Stop condition. Includes when loops are worth building,

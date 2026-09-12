@@ -10,12 +10,8 @@ authors:
 published: 2026-05-29
 type: article
 tags:
-  - training
-  - gpu
-related:
-- '[[custom-kernels-agent-skills]]'
-- '[[accelerating-generative-ai]]'
-- '[[delta-weight-sync]]'
+- training
+- gpu
 raw: '[[raw/huggingface_torch-profiler]]'
 description: 'Profiling in PyTorch: A Beginner''s Guide to torch.profiler'
 status: current
@@ -109,3 +105,9 @@ This series bridges the gap between "I know I should profile" and "I can actuall
 - **Part 1 (this post):** `matmul + add` — learn to read traces
 - **Part 2 (coming):** `nn.Linear` + MLP — optimize from traces
 - **Part 3 (coming):** LLMs with `transformers` — real-world profiling
+
+## Related
+
+- custom-kernels-agent-skills
+- accelerating-generative-ai
+- delta-weight-sync

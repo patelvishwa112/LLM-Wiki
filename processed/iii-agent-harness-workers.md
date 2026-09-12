@@ -42,7 +42,7 @@ https://x.com/mfpiccolo/status/2060069083878408689
 ## Related
 
 - [[autobrowse-browser-agent-memory]] — Skills as durable agent memory
-- [[anshuman-athletickoder-on-building-agents-from-first-princip]] — Agent architecture from first principles
-- [[sub-agents-are-a-promising-inference-time-scaling-primitive]] — Skills as reusable sub-agent primitives
-- [[hermes-agent-changed-how-i-work]] — Hermes skills as durable memory
+- [[building-agents-from-first-principles]] — Agent architecture from first principles
+- [[sub-agents-inference-time-scaling]] — Skills as reusable sub-agent primitives
+- [[hermes-agent]] — Hermes skills as durable memory
 - [[coding-agent-harness-eight-pillars]] — Agent harness evaluation framework

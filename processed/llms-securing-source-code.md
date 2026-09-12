@@ -1,11 +1,11 @@
 ---
 tags:
-  - security
-  - anthropic
-  - claude-code
-  - skills
-  - enterprise
-  - agent-ops
+- security
+- anthropic
+- claude-code
+- skills
+- enterprise
+- agent-ops
 source: https://claude.com/blog/using-llms-to-secure-source-code
 raw: '[[raw/anthropic-securing-source-code-llms]]'
 date: 2026-05-27
@@ -17,9 +17,6 @@ summary: 'Anthropic''s guide to using Claude Opus for security: a 6-step find-an
   and patching. 1,596 OSS vulns disclosed, 97 patched. Well-defined threat model →
   90% exploitable findings. Adversarial verifier halves non-exploitables; PoC requirement
   → near-zero FPR.'
-related:
-- '[[anthropic-self-service-analytics-claude]]'
-- '[[nvidia-skillspector-security-scanner]]'
 description: 'Anthropic''s guide to using Claude Opus for security: a 6-step find-and-fix
   loop (threat model → sandbox → discovery → verification → triage → patching). Key
   insight: discovery is now easy to parallelize; the bottleneck is verification, triage,
@@ -67,3 +64,8 @@ Threat Model → Sandbox → Discovery → Verification → Triage → Patching
 - **Separate discovery from verification.** Same agent doing both self-censors and excludes true positives.
 - **Sandbox faithfully.** The agent downloading wrong library version → phantom vulnerability.
 - **Triage prevents alert fatigue.** Send product engineers a pile where majority are non-exploitable → they stop reading.
+
+## Related
+
+- [[anthropic-self-service-analytics-claude]]
+- [[nvidia-skillspector-security-scanner]]

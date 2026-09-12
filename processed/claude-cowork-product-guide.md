@@ -1,11 +1,11 @@
 ---
 tags:
-  - claude-cowork
-  - anthropic
-  - productivity
-  - enterprise
-  - agents
-  - skills
+- claude-cowork
+- anthropic
+- productivity
+- enterprise
+- agents
+- skills
 source: https://claude.com/blog/the-claude-cowork-product-guide
 raw: '[[raw/anthropic-claude-cowork-product-guide]]'
 date: 2026-06-05
@@ -16,9 +16,6 @@ summary: 'Claude Cowork is Anthropic''s knowledge work agent for the desktop app
   tasks, and multi-step deliverables. Seven common workflows span research briefs,
   meeting prep, recurring reports, and more. Plugins available for marketing and product
   management.'
-related:
-- '[[claude-cowork-best-practices]]'
-- '[[anthropic-gtm-claude-code-workflows]]'
 description: 'Claude Cowork is Anthropic''s knowledge work agent for the desktop app:
   local file access, cross-app integration (Slack, Google Drive), subagents, scheduled
   tasks, and multi-step deliverables. Seven common workflows span research briefs,
@@ -61,3 +58,8 @@ as_of: 2026-06-05
 ## Key Insight
 
 > Claude Cowork flips the model: instead of bringing your work to Claude, you bring Claude to your work. Point it at a folder, connect your apps, describe the outcome, and step away.
+
+## Related
+
+- [[claude-cowork-best-practices]]
+- [[anthropic-gtm-claude-code-workflows]]

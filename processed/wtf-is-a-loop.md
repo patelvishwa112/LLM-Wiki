@@ -1,11 +1,11 @@
 ---
 tags:
-  - agents
-  - loop-engineering
-  - claude-code
-  - orchestration
-  - agent-harness
-  - skills
+- agents
+- loop-engineering
+- claude-code
+- orchestration
+- agent-harness
+- skills
 source: https://x.com/mvanhorn/status/2063865685558903149
 date: 2026-06-08
 type: bookmark
@@ -15,9 +15,6 @@ summary: 'A deep analysis of AI coding loops: what they are, their 5-year lineag
   from ReAct to orchestration, why the loop (not the model) is now the expensive part,
   and how skills inside loops create compounding systems.'
 raw: '[[raw/mvanhorn_2063865685558903149]]'
-related:
-- '[[rlm-structured-outputs]]'
-- '[[4-agent-trading-desk]]'
 description: 'A deep analysis of AI coding loops: what they are, their 5-year lineage
   from ReAct to orchestration, why the loop (not the model) is now the expensive part,
   and how skills inside loops create compounding systems.'
@@ -56,3 +53,8 @@ Essential guardrails: maximum iteration count, no-progress detection, token/doll
 ## Consciousness of Approach
 
 This connects to the broader agent harness discourse: the move from human-in-the-loop to human-above-the-loop. The engineer's job shifts from writing code to writing the thing that writes the code. The same pattern appears in RLMs (subagent fan-out), trading desks (4-agent pipeline), and CI/CD loops.
+
+## Related
+
+- [[rlm-structured-outputs]]
+- [[4-agent-trading-desk]]

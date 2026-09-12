@@ -1,11 +1,11 @@
 ---
 tags:
-  - agents
-  - agent-harness
-  - claude
-  - skills
-  - mcp
-  - prompt-engineering
+- agents
+- agent-harness
+- claude
+- skills
+- mcp
+- prompt-engineering
 source: https://claude.com/blog/harnessing-claudes-intelligence
 raw: '[[raw/anthropic-harnessing-claudes-intelligence]]'
 date: 2026-06-07
@@ -14,11 +14,6 @@ type: bookmark
 summary: Design patterns for building applications that keep pace with Claude's evolving
   intelligence — use what it already knows, ask what you can stop doing, and set boundaries
   carefully.
-related:
-- '[[agent-harness-engineering-agentforge]]'
-- '[[claude-code-changed-what-agents-look-like]]'
-- '[[anthropic-claude-code-skills-lessons]]'
-- '[[harness-engineering-2026-discipline]]'
 description: Design patterns for building applications that keep pace with Claude's
   evolving intelligence — use what it already knows, ask what you can stop doing,
   and set boundaries carefully.
@@ -53,3 +48,10 @@ Three design patterns for building agent applications that adapt to Claude's imp
 ## Model Evolution Example
 
 In Pokémon (a long-horizon game), Sonnet 3.5 treated memory as a transcript — 31 files of raw NPC dialogue after 14,000 steps, still in the second town. Opus 4.6 at the same step count had 10 organized files, three gym badges, and a learnings file distilled from its own failures.
+
+## Related
+
+- [[agent-harness-engineering-agentforge]]
+- [[claude-code-changed-what-agents-look-like]]
+- [[anthropic-claude-code-skills-lessons]]
+- [[harness-engineering-2026-discipline]]

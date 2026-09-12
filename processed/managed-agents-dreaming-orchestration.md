@@ -1,11 +1,11 @@
 ---
 tags:
-  - agents
-  - anthropic
-  - agent-memory
-  - orchestration
-  - multi-agent
-  - agent-ops
+- agents
+- anthropic
+- agent-memory
+- orchestration
+- multi-agent
+- agent-ops
 source: https://claude.com/blog/new-in-claude-managed-agents
 raw: '[[raw/anthropic-managed-agents-dreaming]]'
 date: 2026-06-07
@@ -14,10 +14,6 @@ type: bookmark
 summary: 'Three major Managed Agents updates: dreaming for cross-session self-improvement,
   outcomes for rubric-driven self-evaluation, and multiagent orchestration for parallelizing
   complex work across specialist subagents.'
-related:
-- '[[managed-agents-built-in-memory]]'
-- '[[claude-managed-agents]]'
-- '[[ai-agents]]'
 description: 'Three major Managed Agents updates: dreaming for cross-session self-improvement,
   outcomes for rubric-driven self-evaluation, and multiagent orchestration for parallelizing
   complex work across specialist subagents.'
@@ -58,3 +54,9 @@ Lead agent spawns specialist subagents that work in parallel. Each specialist ha
 - **Netflix** — Analysis agent processes logs from hundreds of builds, parallel batch analysis
 - **Spiral (Every)** — Writing agent: Haiku lead fields requests, Opus subagents draft in parallel, outcomes enforce editorial standards
 - **Wisedocs** — Document quality checks with outcomes grading; reviews 50% faster
+
+## Related
+
+- [[managed-agents-built-in-memory]]
+- [[claude-managed-agents]]
+- [[ai-agents]]

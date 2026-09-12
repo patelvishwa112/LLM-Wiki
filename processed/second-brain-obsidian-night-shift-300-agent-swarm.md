@@ -61,4 +61,4 @@ as_of: 2026-06-15
 
 **MCP integration:** Expose vault as MCP server so Kimi Work, coding agents, editors, and any MCP tool share the same memory.
 
-**Related concepts in vault:** [[obsidian]], [[second-brain]], [[agent-swarm]], [[atomic-notes]], [[friction]], [[knowledge-graph]], [[mcp]]
+**Related concepts in vault:** obsidian, [[second-brain]], agent-swarm, atomic-notes, friction, knowledge-graph, [[mcp-model-context-protocol]]

@@ -35,12 +35,12 @@ This represents a shift from one-shot prompting or static workflows (e.g., LangG
 - **Background Promotion**: Turn stable loops into proactive scheduled agents
 
 ## Related
-- [[multi-agent-systems]]
-- [[agent-skills]]
-- [[self-improving-agents]]
+- multi-agent-systems
+- agent-skills
+- self-improving-agents
 - [[agent-loops]]
-- [[kimi-ai]]
-- [[verification-gates]]
+- kimi-ai
+- verification-gates
 
 ## Tags
 multi-agent, agents, self-improving, loops, kimi, agent-swarm, verification, skills, agent-architecture

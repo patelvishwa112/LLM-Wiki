@@ -69,3 +69,4 @@ Product pitch: `mckinsey-issue-tree` as one of 243 PM skills in **AI PM OS** (Cl
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[pm-as-context-compressor]]
 - [[bezos-writing-framework-six-page-memos-dickiebush]]
+- [[causal-tree-second-third-order-effects-nurijanian]]

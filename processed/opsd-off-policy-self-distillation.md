@@ -51,8 +51,8 @@ as_of: 2026-06-13
 
 ## Related
 
-- [[rl-training-pipelines]]
-- [[off-policy-rl]]
-- [[grpo-advantages]]
-- [[self-distillation]]
-- [[ar0cket1]]
+- rl-training-pipelines
+- off-policy-rl
+- grpo-advantages
+- self-distillation
+- ar0cket1

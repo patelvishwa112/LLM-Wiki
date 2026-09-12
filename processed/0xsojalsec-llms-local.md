@@ -33,15 +33,15 @@ This is high-signal raw material for the LLM wiki's "ML Research" and "local inf
 - **Communities**: Links to relevant Discord/Slack/Reddit groups.
 
 ## Related Notes
-- [[ollama]] (inferred from existing patterns)
-- [[llama-cpp]]
-- [[vllm]]
-- [[mlx-lm]]
-- [[local-ai-setup]]
-- [[agent-frameworks]]
-- [[rag]]
+- ollama (inferred from existing patterns)
+- llama-cpp
+- vllm
+- mlx-lm
+- local-ai-setup
+- agent-frameworks
+- rag
 - [[computer-use]]
-- [[browser-agents]]
+- browser-agents
 
 ## Tags for Cross-Reference
 local-llms, inference-engines, ollama, llama-cpp, vllm, mlx, local-ai, hardware, tutorials, communities, resource-list, ml-research, agent-frameworks, rag, training

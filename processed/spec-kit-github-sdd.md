@@ -82,5 +82,5 @@ GitHub's bet on post-vibe-coding workflow. The `/speckit.analyze` cross-artifact
 
 - [[colleague-skill-dot-skill]]
 - [[problem-first-skill-invert-bad-ideas]]
-- [[gstack-garry-tan-claude-code-skills]]
+- gstack-garry-tan-claude-code-skills
 - [[Dynamic Workflows in Claude Code]]

@@ -1,16 +1,13 @@
 ---
 tags:
-  - claude-cowork
-  - agents
-  - productivity
-  - skills
+- claude-cowork
+- agents
+- productivity
+- skills
 source: https://x.com/shmidtqq/status/2051755298772095238
 raw: '[[raw/shmidtqq_2051755298772095238]]'
 date: 2026-05-05
 type: note
-related:
-- '[[claude-cowork-plugin-building-guide]]'
-- '[[goal-primitive-guide]]'
 description: The 60 Claude Cowork Power Moves
 status: current
 as_of: 2026-05-05

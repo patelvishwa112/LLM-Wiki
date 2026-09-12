@@ -43,3 +43,4 @@ High experiment volume is enabled by tooling (parallel agent sessions, paper/X f
 - [[how-to-be-good-at-research]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[loop-engineering-quietly-ate-prompt-engineering]]
+- [[how-to-get-a-job-at-frontier-labs-vlad-fineberg-deepmind]]

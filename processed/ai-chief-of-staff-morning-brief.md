@@ -1,13 +1,11 @@
 ---
 tags:
-  - skills
-  - agent-harness
-  - claude-code
-  - prompt-engineering
+- skills
+- agent-harness
+- claude-code
+- prompt-engineering
 source: https://x.com/dklineii/status/2068331296032424433
 type: bookmark
-related:
-- - self-improvement-loop-for-skills-zach-lloyd
 summary: '"Dave Kline (@dklineii) shares a detailed skills file for building an AI
   Chief of Staff in the form of a daily Morning Brief. The system uses six structured
   reads (The Day, The Decisions, The People, The Meetings, The World, The Move) plus

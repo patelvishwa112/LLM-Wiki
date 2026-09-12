@@ -86,3 +86,4 @@ Headline bench numbers need careful reading (Best@k, model pairing). Reward hack
 - [[managed-deep-agents-harrison-chase]]
 - [[how-to-build-custom-agent-harness-langchain]]
 - [[self-improvement-loop-for-skills-zach-lloyd]]
+- [[reef-continual-self-improving-agents]]

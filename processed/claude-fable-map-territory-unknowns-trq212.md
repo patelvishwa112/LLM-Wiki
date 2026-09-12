@@ -60,3 +60,4 @@ Official articulation of **agentic coding as unknown management**—complements 
 - [[learn-harness-engineering]]
 - [[claude-code-changed-what-agents-look-like]]
 - [[problem-first-skill-invert-bad-ideas]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]

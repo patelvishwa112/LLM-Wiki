@@ -1,14 +1,12 @@
 ---
 tags:
-  - prompt-engineering
-  - writing
-  - claude
+- prompt-engineering
+- writing
+- claude
 source: https://x.com/rubenhassid/status/2050878032609530144
 raw: '[[raw/rubenhassid_2050878032609530144]]'
 date: 2026-04-29
 type: note
-related:
-- '[[claude-code-cost-optimization-prompts]]'
 description: 'Anti-AI Writing Style: Making AI Sound Human'
 status: current
 as_of: 2026-04-29

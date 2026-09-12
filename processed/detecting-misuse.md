@@ -48,5 +48,5 @@ classifiers, [[anthropic-research-clio|Clio]]-style privacy-preserving analytics
 - [[ai-cybersecurity]]
 - [[ai-persuasion]]
 - [[anthropic-news-strategic-warning-for-ai-risk-progress-and-insights-from-our-frontier-red-team]]
-- [[clio-tool]]
+- clio-tool
 - [[jailbreaks-and-defenses]]

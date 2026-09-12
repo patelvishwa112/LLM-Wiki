@@ -1,18 +1,16 @@
 ---
 tags:
-  - agents
-  - startups
-  - data-engineering
-  - claude
-  - product
-  - automation
-  - ml-research
+- agents
+- startups
+- data-engineering
+- claude
+- product
+- automation
+- ml-research
 source: https://x.com/damir_akaza/article/2059621796052193667
 raw: '[[raw/damir_akaza_2059621796052193667]]'
 type: bookmark
 created: 2026-05-30
-related:
-- '[[Bookmarks Index]]'
 description: Business Idea Discovery Agent — Reddit Scraping + Claude Pipeline
 status: current
 ---
@@ -62,3 +60,7 @@ The clustering stage is where the magic happens — different people describe th
 2. **Competition awareness is incomplete** — post-cutoff startups are invisible
 3. **"Would pay" signals are weak** — people saying ≠ people paying
 4. **Agent doesn't make decisions** — it gives a shortlist; you still need to verify (read sources, talk to 5 people, Google competitors, landing page test)
+
+## Related
+
+- [[Bookmarks Index]]

@@ -34,4 +34,4 @@ Addresses the challenge of weight synchronization in asynchronous Reinforcement 
 
 ## Related
 
-- [[rl-training-infrastructure]]
+- rl-training-infrastructure

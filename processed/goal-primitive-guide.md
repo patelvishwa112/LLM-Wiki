@@ -1,17 +1,13 @@
 ---
 tags:
-  - agents
-  - claude-code
-  - coding-tools
-  - orchestration
+- agents
+- claude-code
+- coding-tools
+- orchestration
 source: https://x.com/Saboo_Shubham_/status/2054988166541770782
 raw: '[[raw/Saboo_Shubham__2054988166541770782]]'
 date: 2026-05-12
 type: note
-related:
-- '[[coding-agent-harness-eight-pillars]]'
-- '[[iii-agent-harness-workers]]'
-- '[[claude-cowork-60-power-moves]]'
 description: '/goal: The Agent Primitive'
 status: current
 as_of: 2026-05-12

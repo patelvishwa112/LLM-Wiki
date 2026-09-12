@@ -7,7 +7,7 @@ Thumbs.db
 
 # Personal/sensitive — never push
 Career/
-PERSONAL.md
+PERSONAL*.md
 
 # Raw scrape artifacts (auto-generated, not curated content)
 raw/scrape_batches.json

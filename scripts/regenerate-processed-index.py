@@ -12,7 +12,7 @@ except ImportError:
     print("PyYAML required", file=sys.stderr)
     sys.exit(1)
 
-WIKI = Path("/Users/vishwapatel/Documents/Obsidian/wiki")
+WIKI = Path(__file__).resolve().parent.parent
 PROCESSED = WIKI / "processed"
 OUTPUT = PROCESSED / "index.md"
 

@@ -83,3 +83,7 @@ Feature vector: last 20 returns + factor exposures + regime probabilities + hurs
 ## The Real Secret
 
 Renaissance has ~400 people (~200 on models). Every other fund has thousands with competing strategies. **Renaissance has one model everyone works on together.** The edge isn't any single formula — it's the pipeline where each layer filters noise until only statistical certainty remains.
+
+## Related
+
+- [[luck-runs-out-on-schedule-trading-0xspivach]]

@@ -38,9 +38,9 @@ This is core material for the wiki's "Agent Architecture" and "Claude/AI Tools" 
 ## Related Notes
 - [[agent-harness]]
 - [[claude-code]]
-- [[mcp]]
-- [[prompt-engineering]]
-- [[skills]]
+- [[mcp-model-context-protocol]]
+- prompt-engineering
+- skills
 - [[anthropic-harnessing-claudes-intelligence]]
 
 ---

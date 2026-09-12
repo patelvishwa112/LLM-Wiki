@@ -1,12 +1,12 @@
 ---
 tags:
-  - anthropic
-  - claude-code
-  - multi-agent
-  - mcp
-  - coding-tools
-  - agents
-  - infrastructure
+- anthropic
+- claude-code
+- multi-agent
+- mcp
+- coding-tools
+- agents
+- infrastructure
 source: https://x.com/hey_madni/status/2063606029146034375
 raw: '[[raw/hey_madni_2063606029146034375]]'
 date: 2026-06-07
@@ -18,11 +18,6 @@ summary: Comprehensive guide to Anthropic's ant CLI — a typed API client for t
   orchestration, self-hosted sandboxes with worker polling, MCP tunnels, Claude Code
   integration via /claude-api skill, agents-as-code CI/CD, and production shell pipelines.
   Four major releases in 55 days drove 80x Q1 growth.
-related:
-- '[[claude-managed-agents]]'
-- '[[managed-agents-sandbox-mcp]]'
-- '[[managed-agents-dreaming-orchestration]]'
-- '[[claude-code-slash-command-library]]'
 description: Comprehensive guide to Anthropic's ant CLI — a typed API client for the
   Claude platform. Covers installation, output formats, the four Managed Agents primitives
   (Agent, Environment, Session, Events), the full deploy workflow, Dreaming/Outcomes/multi-agent
@@ -93,3 +88,10 @@ ant = layer connecting both
 ## The Big Picture
 
 Anthropic spent two years being a model company. ant is the clearest signal that the actual product is now the platform. Model companies sell intelligence access. Platform companies sell the infrastructure to deploy intelligence at scale. 80x Q1 2026 growth, four major releases in 55 days.
+
+## Related
+
+- [[claude-managed-agents]]
+- [[managed-agents-sandbox-mcp]]
+- [[managed-agents-dreaming-orchestration]]
+- [[claude-code-slash-command-library]]

@@ -1,17 +1,12 @@
 ---
 tags:
-  - mcp
-  - agent-architecture
-  - agents
-  - prompt-engineering
-  - agent-ops
+- mcp
+- agent-architecture
+- agents
+- prompt-engineering
+- agent-ops
 source: https://x.com/imarun_chauhan/status/2068272573805367561
 type: bookmark
-related:
-- - native-mcp
-- - mcp-builder
-- - agent-architecture
-- - iii-agent-harness-workers
 summary: '"Arun Chauhan (@imarun_chauhan) explains Model Context Protocol (MCP) as
   an open-source standard that unifies how AI agents connect to external tools, data
   sources, and workflows. Contrasts fragmented custom integrations (Before) with a
@@ -79,4 +74,4 @@ Arrows show bidirectional flows; the visual positions MCP as the essential "plum
 - Strong patterns for agent-architecture, tool integration, and standardization in agent-harness design
 - The visual architecture provides concrete mental models for building interoperable agent systems
 
-**Related:** [[native-mcp]], [[mcp-builder]], [[agent-architecture]], [[iii-agent-harness-workers]], agent integration patterns.
+**Related:** native-mcp, mcp-builder, [[agent-architecture]], [[iii-agent-harness-workers]], agent integration patterns.

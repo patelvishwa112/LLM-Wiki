@@ -148,4 +148,4 @@ The 40-day training run with almost no sleep shows the reality of shipping front
 
 This interview is essential for anyone targeting frontier labs in 2026–2027. The skills Fineberg describes are not "nice to have" — they are the current hiring bottlenecks.
 
-**Related notes:** [[scaling-laws]], [[frontier-labs-hiring]], [[research-taste-mdp]], [[distillation-infrastructure]], [[inference-code-design]]
+**Related notes:** [[scaling-laws]], frontier-labs-hiring, research-taste-mdp, distillation-infrastructure, inference-code-design

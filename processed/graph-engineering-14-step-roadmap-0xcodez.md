@@ -82,3 +82,4 @@ Security route sweep; cited `/deep-research`; file-by-file module port with test
 - [[fable-orchestrate-huge-project-40-subagents-ryancarson]]
 - [[agent-workflows-silent-degradation-verification-vladic]]
 - [[loop-engineering-technical-roadmap-h100envy]]
+- [[graph-engineering-work-plans-claude-code-mojeskoqq]]

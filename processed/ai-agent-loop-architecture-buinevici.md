@@ -1,18 +1,13 @@
 ---
 tags:
-  - agent-architecture
-  - loop-engineering
-  - security
-  - agents
-  - agent-ops
-  - mcp
+- agent-architecture
+- loop-engineering
+- security
+- agents
+- agent-ops
+- mcp
 source: https://x.com/igor_buinevici/status/2067246032648364310
 type: bookmark
-related:
-- - wtf-is-a-loop
-- - ai-loops-anatoli-kopadze
-- - iii-agent-harness-workers
-- - mcp-model-context-protocol
 summary: '"Igor Buinevici shares Brij Kishore Pandey’s clear explanation of the universal
   AI agent architecture: Perceive ➤ Remember ➤ Think ➤ Plan ➤ Act ➤ Observe (with
   Guardrails). Emphasizes that the core loop is the same across frameworks (LangGraph,

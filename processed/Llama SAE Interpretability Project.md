@@ -1,20 +1,18 @@
 ---
 tags:
-  - interpretability
-  - sparse-autoencoders
-  - frontier-labs
-  - inference
-  - llm
-  - ai-research
-  - projects
+- interpretability
+- sparse-autoencoders
+- frontier-labs
+- inference
+- llm
+- ai-research
+- projects
 type: concept
-description: "Personal Llama SAE interpretability project — sparse autoencoders and steering on local MLX stack."
+description: Personal Llama SAE interpretability project — sparse autoencoders and
+  steering on local MLX stack.
 created: 2026-05-30
 status: active
 repo: https://github.com/patelvishwa112/llama-sae-interp
-related:
-  - "[[Bookmarks Index]]"
-  - "[[SAE Interpretability]]"
 ---
 
 # Llama SAE Interpretability — Steering LLM Behavior via Sparse Autoencoders
@@ -90,3 +88,8 @@ Full 21KB article at [ARTICLE.md](https://github.com/patelvishwa112/llama-sae-in
 ## Future Directions
 
 See Claude Code research session for next research directions in SAE interpretability space.
+
+## Related
+
+- [[Bookmarks Index]]
+- SAE Interpretability

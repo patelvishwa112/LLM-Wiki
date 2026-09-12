@@ -33,7 +33,7 @@ Key historical warnings come from the "faithfulness crisis" (Adebayo et al. 2018
 
 ## Why It Matters
 
-This directly supports the vault's [[interpretability]] domain and the owner's career transition target (AI interpretability/safety roles). Entering the field narrowly through SAEs/circuits without the broader context is a common trap. The note emphasizes choosing the right tool for the question rather than defaulting to circuits. It connects to existing notes on [[superposition]], [[sparse-autoencoders]], [[probing]], and [[circuits]] while expanding the taxonomy to include attribution and concept-based approaches that are often more appropriate for certain evaluation or high-stakes use cases.
+This directly supports the vault's [[mechanistic-interpretability]] domain and the owner's career transition target (AI interpretability/safety roles). Entering the field narrowly through SAEs/circuits without the broader context is a common trap. The note emphasizes choosing the right tool for the question rather than defaulting to circuits. It connects to existing notes on [[superposition]], [[sparse-autoencoders]], probing, and circuits while expanding the taxonomy to include attribution and concept-based approaches that are often more appropriate for certain evaluation or high-stakes use cases.
 
 Recommended reading from the thread aligns with vault goals: Saphra & Wiegreffe (2024) “Mechanistic?”, Adebayo sanity checks, and Lipton on the “mythos” of interpretability.
 
@@ -41,11 +41,11 @@ Recommended reading from the thread aligns with vault goals: Saphra & Wiegreffe 
 
 - [[superposition]]
 - [[sparse-autoencoders]]
-- [[probing]]
-- [[circuits]]
-- [[feature-attribution]] (new tag candidate)
-- [[concept-bottleneck-models]] (new tag candidate)
-- [[faithfulness]]
+- probing
+- circuits
+- feature-attribution (new tag candidate)
+- concept-bottleneck-models (new tag candidate)
+- faithfulness
 
 ## References
 

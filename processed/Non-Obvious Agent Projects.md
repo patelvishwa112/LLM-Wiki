@@ -1,14 +1,11 @@
 ---
 tags:
-  - agents
-  - projects
-  - verification
+- agents
+- projects
+- verification
 created: 2026-05-30
 source: Claude Code DeepSeek V4 Pro research session
 type: concept
-related:
-- '[[Agent Systems and Context Engineering Projects 2026]]'
-- '[[Bookmarks Index]]'
 description: Non-Obvious Agent Projects — Beyond the Listicles
 status: current
 ---
@@ -116,3 +113,8 @@ Every one:
 - **Could genuinely surprise you** with its findings
 
 The standard listicle projects answer "can I wire up an LLM to an API?" — answered in 2023. These answer "can an agent help me understand something I wouldn't have seen on my own?"
+
+## Related
+
+- [[Agent Systems and Context Engineering Projects 2026]]
+- [[Bookmarks Index]]

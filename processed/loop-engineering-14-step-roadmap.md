@@ -54,4 +54,4 @@ as_of: 2026-06-09
 
 **Economics note:** Loops favor teams with repetitive, machine-checkable work and generous token budgets. Solo builders on consumer plans often lose money on token costs before seeing gains.
 
-**Related concepts in vault:** [[claude-code-routines]], [[agent-harness]], [[mcp-connectors]], [[skills-as-compound-interest]]
+**Related concepts in vault:** claude-code-routines, [[agent-harness]], mcp-connectors, skills-as-compound-interest

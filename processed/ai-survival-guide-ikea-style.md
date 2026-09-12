@@ -1,12 +1,12 @@
 ---
 tags:
-  - claude
-  - claude-cowork
-  - claude-code
-  - skills
-  - productivity
-  - learning
-  - human-in-the-loop
+- claude
+- claude-cowork
+- claude-code
+- skills
+- productivity
+- learning
+- human-in-the-loop
 source: https://x.com/rubenhassid/status/2063471959158260119
 raw: '[[raw/rubenhassid_2063471959158260119]]'
 date: 2026-06-06
@@ -17,9 +17,6 @@ summary: 'A non-technical survival guide to AI in 6 levels: (1) Claude.ai with O
   for file creation, (4) app connectors (Gmail, Calendar), (5) custom skills via /skill-creator,
   (6) Claude Code for building apps without coding knowledge. Core trick: ''ask me
   questions first'' turns novice prompting into power-user interactions.'
-related:
-- '[[claude-cowork-14-day-guide]]'
-- '[[claude-code-self-correcting-setup]]'
 description: 'A non-technical survival guide to AI in 6 levels: (1) Claude.ai with
   Opus + Thinking + AskUserQuestion, (2) voice dictation via Wispr Flow, (3) Claude
   Cowork for file creation, (4) app connectors (Gmail, Calendar), (5) custom skills
@@ -53,3 +50,8 @@ Claude asks 3-5 questions. You click answers. The more you say, the better the o
 ## Key Principle
 
 AI just needs context. It needs to know you. Connect your apps, give it your files, teach it your preferences through skills. The bar to knowing is trying — most people never even tried.
+
+## Related
+
+- [[claude-cowork-14-day-guide]]
+- [[claude-code-self-correcting-setup]]

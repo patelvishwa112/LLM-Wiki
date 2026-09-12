@@ -34,12 +34,12 @@ Directly relevant to this wiki's own design and CLAUDE.md conventions. Reinforce
 - **Second Self Test**: Does the system act/think on your behalf when you're not in the room?
 
 ## Related
-- [[obsidian-vault-architecture]]
-- [[claude-md-identity-layer]]
-- [[second-brain-limitations]]
-- [[knowledge-synthesis]]
-- [[personal-knowledge-management]]
-- [[meta-learning]]
+- obsidian-vault-architecture
+- claude-md-identity-layer
+- second-brain-limitations
+- knowledge-synthesis
+- personal-knowledge-management
+- meta-learning
 
 ## Tags
 second-self, obsidian, second-brain, claude-md, knowledge-graph, synthesis, identity-layer, vault-architecture, personal-knowledge-management, meta-learning

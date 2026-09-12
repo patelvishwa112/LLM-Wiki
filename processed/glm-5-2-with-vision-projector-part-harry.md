@@ -66,3 +66,4 @@ Efficient **multimodal retrofit** pattern: frozen strong text model + frozen/pub
 - [[distillation-post-training-frontier-2026]]
 - [[aiedge-glm-5.2-guide]]
 - [[joint-embedding-predictive-architecture-jepa]]
+- [[ai-ml-engineer-interview-guide-2026-part1]]
