@@ -83,10 +83,20 @@ When adding a new article or source:
 1. **Save raw** → `raw/author_statusid.md` with `source_url`, `ingested` date, `sha256`
 2. **Create processed note** → `processed/slug.md` with YAML frontmatter (`tags`, `source`, `date`, **`type`** (required), **`description`** (required, one line; OKF — duplicate `summary` text if both present), quoted `summary` optional, `raw: "[[raw/...]]"`). Put `## Related` wikilinks in the body only, not invalid `related:` YAML lists.
 3. **Update Bookmarks Index** → add to both By Topic section and A-Z listing
-4. **Regenerate OKF indexes** → `python3 scripts/regenerate-okf-indexes.py` (TAG-INDEX + `processed/index.md`)
-5. **Append changelog** → `python3 scripts/append-okf-log.py "Ingest: <title> (<source>)"`
-6. **Create entity pages** → if the article introduces a new company, person, tool, or concept that warrants a standalone entity page, create one in `entities/`
-7. **Run wiki-sync** → `~/scripts/wiki-sync.sh` or wait for cron job (`c09d51fd4ed2`, every 6 hours)
+4. **Create entity pages** → if the article introduces a new company, person, tool, or concept that warrants a standalone entity page, create one in `entities/`
+5. **Finalize (SINGLE command)** → `python3 scripts/finalize-ingest.py --apply -m "Ingest: <title> (<source>)"`
+   This one idempotent command replaces the old manual steps: it fixes stray
+   `related:` YAML, rebuilds `INDEX.tsv`, regenerates `entities/TAG-INDEX.md` and
+   `processed/index.md`, and appends the `log.md` changelog. **Never do those steps
+   by hand and never skip them** — that drift is what `finalize-ingest` prevents.
+   (Equivalent: `python3 scripts/maintain.py finalize --apply -m "..."`.)
+6. **Run wiki-sync** → `~/scripts/wiki-sync.sh` or wait for cron job (`c09d51fd4ed2`, every 6 hours). The 6-hour cron must end by calling `finalize-ingest` — see `docs/automation.md`.
+
+Beyond ingest, the vault self-maintains on two more cadences (one entry point,
+`scripts/maintain.py`): **nightly** (`nightly-reconcile.py` — supersession +
+orphan/broken-link/`as_of` health sweep → `docs/health.md`) and **weekly**
+(`weekly-friction.py` — contradiction briefing → `briefings/`). Full cadence spec
+and cron lines: **`docs/automation.md`**.
 
 ### Sensitive Information Policy
 

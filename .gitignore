@@ -21,3 +21,7 @@ raw/bookmark_urls.txt
 # Vault cache / temp
 *.tmp
 *.bak
+
+# Python bytecode from scripts/
+__pycache__/
+*.pyc
