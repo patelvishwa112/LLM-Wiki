@@ -1,12 +1,12 @@
 ---
 title: Data broker and frontier lab postings are a public roadmap
 type: bookmark
-description: "Will Manidis's claim that data-broker procurement and frontier-lab job postings are a leading indicator of where the frontier is, relayed across five accounts in the vault alongside Mercor's $100K-per-company data referral offer."
+description: "Will Manidis's claim that data-broker procurement and frontier-lab job postings are a leading indicator of where the frontier is, relayed across seven accounts in the vault alongside Mercor's $100K-per-company data referral offer."
 tags: [ai-economics, training-data, data-labeling, hiring, market-research]
 source: https://x.com/HamelHusain/status/2112588257104216294
 date: 2026-10-20
 author: Hamel Husain
-summary: "Will Manidis's claim that data-broker procurement and frontier-lab job postings are a leading indicator of where the frontier is, relayed across five accounts in the vault alongside Mercor's $100K-per-company data referral offer."
+summary: "Will Manidis's claim that data-broker procurement and frontier-lab job postings are a leading indicator of where the frontier is, relayed across seven accounts in the vault alongside Mercor's $100K-per-company data referral offer."
 raw: "[[raw/HamelHusain_2112588257104216294]]"
 ---
 
@@ -32,7 +32,7 @@ For anyone building or investing in AI, this is a cheap, legal, under-used alter
 - Referral target profile: 100+ employees with data in code, gaming, manufacturing, healthcare, or professional services.
 - The post provides no evidence or methodology; the value is the directional signal and the disclosed price, not a validated predictor.
 - Relay structure matters: the claim is Manidis's, the pricing detail is Foody's, and the surrounding posts are distribution channels.
-- Spread is itself the signal that the heuristic is becoming crowded: five captures in the vault over one month (Sep 20 → Oct 20), with the Mercor numbers unchanged.
+- Spread is itself the signal that the heuristic is becoming crowded: seven captures in the vault (six dated within five weeks, Sep 20 → Oct 20), with the Mercor numbers unchanged.
 
 ## Captures
 

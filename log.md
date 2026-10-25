@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-10-25
 
+- Ingest: 28 more X bookmarks saved after 2026-09-11 (UnslothAI 2107868866361930236 through DrDominicNg 2018735498622087346; 28 raw + 28 processed). Also corrected 6 mis-captured raws (X served stale pages) and repaired 8 raws carrying reply-thread junk.
+
+## 2026-10-25
+
 - Ingest: 29 X bookmarks Sep 12–Oct 20 2026 (dair_ai 2098835038439961060 through HamelHusain 2112588257104216294; 29 raw + 25 processed, 5 captures of the Manidis/Mercor thread consolidated into one note)
 
 ## 2026-09-11

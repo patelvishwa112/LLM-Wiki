@@ -239,6 +239,8 @@
 - [[learning-from-experience-noise-oaklab-handsdiff]] — [Learning from experience needs noise handling (Oak Lab / IDBD)](https://x.com/handsdiff/status/2077392432505708714) `[continual-learning, training, rl, credit-assignment, agents, agent-memory, jepa, oak-lab, sutton, online-learning]`
 - [[jev-agent-memory-context-engineering-dhravya]] — [How Jev Changes Agent Memory and Context Engineering](https://x.com/DhravyaShah/status/2103314339239428201) `[agent-memory, memory, retrieval, chunking, cost-optimization, context-engineering, agent-harness]`
 - [[recursive-self-improvement-stages-autonomy-dair-survey]] — [Recursive Self-Improvement: A Survey of Autonomy Stages](https://x.com/dair_ai/status/2098835038439961060) `[recursive-self-improvement, agents, research, self-improvement, evals, ai-research]`
+- [[296-agents-one-graph-loop-engineering-gpt6-astra]] — [From 296 Agents to One Graph](https://x.com/N01ennn/status/2096962591125905888) `[agents, loop-engineering, graph-engineering, agent-harness, orchestration, verification, langgraph]`
+- [[knowledge-engineer-docs-for-agents-mintlify]] — [The rise of the knowledge engineer](https://x.com/hahnbeelee/status/2100619585561256277) `[agents, documentation, enterprise, content-strategy, knowledge-work, context-engineering, rag]`
 
 ### Ai Ml
 
@@ -302,6 +304,11 @@
 - [[ai-powered-data-warehouses-joshrosen]] — [AI-Powered Data Warehouses: Architectural Lessons](https://x.com/JoshARosen/status/2095488762532745712) `[data, agents, architecture, evals]`
 - [[handwired-javascript-to-neural-net-cheng-lou]] — [Handwired: compiling JavaScript into a trainable neural net](https://x.com/_chenglou/status/2110558507699466522) `[architecture, ml-research, gpu, inference, parallelism, differentiable-programming, compilers]`
 - [[text-classification-bag-of-words-to-jev-rasbt]] — [Text Classification from Bag-of-Words to Jev](https://x.com/rasbt/status/2104923912920281279) `[models, training, fine-tuning, cost-optimization, inference, harness-engineering]`
+- [[cuda-from-zero-to-hero-1-goyal]] — [CUDA from Zero to Hero #1 — Hardware First, Then Kernels](https://x.com/goyal__pramod/status/2103565642800431533) `[cuda, gpu, gpu-architecture, parallelism, fundamentals, hardware]`
+- [[system-design-essentials-20-building-blocks]] — [System Design Essentials — 20 Building Blocks](https://x.com/anurag_gharat/status/2102227321256337439) `[architecture, scaling, databases, distributed-systems, fundamentals, backend]`
+- [[system-design-essentials-caching-rate-limiting]] — [System Design Essentials Part 3: Caching, Rate Limiting, Distributed Systems](https://x.com/anurag_gharat/status/2106960326436794427) `[distributed-systems, architecture, systems, caching, rate-limiting, networking]`
+- [[system-design-essentials-part-2-architecture-auth-load-balancing]] — [System Design Essentials Part 2: Architecture Styles, Auth and Load Balancing](https://x.com/anurag_gharat/status/2104493200870433145) `[architecture, distributed-systems, scaling, networking, systems, fundamentals]`
+- [[system-design-interview-notes-repo-liquidslr]] — [System Design Interview Notes — 28-Chapter Open Repo](https://x.com/jianw851/status/2107508223549092294) `[distributed-systems, architecture, systems, interview, resources]`
 
 
 ### Coding Tools
@@ -348,6 +355,7 @@
 - [[claude-code-dynamic-workflows-intro]] — [Introducing dynamic workflows in Claude Code](https://claude.com/blog/introducing-dynamic-workflows-in-claude-code) `[claude-code, anthropic, agents, multi-agent, orchestration, agent-ops]`
 - [[code-w-claude-london-2026]] — [Code w/ Claude London 2026](https://claude.com/blog/code-w-claude-london-2026-rethinking-how-we-build) `[claude-code, anthropic, agents, managed-agents, mcp, developer-platform, conference]`
 - [[8-software-books-ai-made-relevant-bibryam]] — [8 Software Books AI Has Made More Relevant](https://x.com/bibryam/status/2096524948365775313) `[coding-agents, architecture, engineering, agents]`
+- [[spending-your-effort-claude-code-thariq]] — [Using Claude Code: Spending Your Effort](https://x.com/trq212/status/2103576349499855160) `[claude-code, anthropic, evals, benchmarks, verification, cost-optimization, reasoning]`
 
 
 ### Design
@@ -355,6 +363,7 @@
 - [[the-html-brand-input-based-outcomes]] — [The HTML Brand: The Rise of Input-Based Outcomes](https://x.com/emmettshine/status/2054539694097015171) `[design, agents, claude, creativity, strategy, business-models]`
 - [[how-to-actually-design-with-ai-lexnlin]] — [How To Actually Design With AI](https://x.com/lexnlin/status/2076422557180608888) `[design, skills, ui, frontend, prompt-engineering, taste, creativity]`
 - [[how-openai-sol-learned-design-taste-designarena]] — [How OpenAI Sol learned design taste (Design Arena)](https://x.com/designarena/status/2077432249033830706) `[design, frontend, models, openai, gpt-5.6, sol, evals, designarena, taste]`
+- [[beautiful-ui-ai-native-primitives]] — [Beautiful UI — AI-native interface primitives](https://x.com/suraj_sharma14/status/2107137706673504448) `[ui, frontend-design, frontend, generative-ui, components, design]`
 
 ### Document Processing
 
@@ -431,6 +440,7 @@
 - [[buzz-open-source-workspace-block-jack]] — [Buzz — Nostr/crypto identity workspace, people + agents equal (Jack/Block)](https://x.com/jack/status/2080056638820450400) `[agents, agent-harness, harness-engineering, enterprise, open-source, nostr, block, goose, context-management, agent-ops]`
 - [[free-the-models-harness-delegation-pirroh]] — [Free the Models: Harness Design at the Frontier](https://x.com/pirroh/status/2104976589180252218) `[agent-harness, subagents, orchestration, cost-optimization, models, harness-engineering]`
 - [[trusting-agent-work-inverse-pyramid-poteto]] — [Trusting agent work: the inverse pyramid of enforcement](https://x.com/morganlinton/status/2111169018082054497) `[agents, verification, code-review, agent-harness, harness-engineering, static-analysis, human-in-the-loop]`
+- [[jev-harness-model-routing-auto-mode-runkle]] — [Building a Harness with Jev](https://x.com/sydneyrunkle/status/2100754364545761643) `[agents, agent-harness, routing, cost-optimization, inference, structured-outputs, langchain]`
 
 ### Evals
 
@@ -459,6 +469,10 @@
 - [[jev-as-judge-probability-uncertainty-signal]] — [Jev as a Judge: Probability as a Cheaper Uncertainty Signal](https://x.com/ehutt_/status/2104674562583748874) `[evals, llm-judges, cost-optimization, benchmarks, inference, observability]`
 - [[jev-call-outcome-forecasting-2029-calls-muratcan]] — [2,029 Real Calls, Zero-Shot Turn-Level Forecasting with Jev](https://x.com/muratcan/status/2104959648482701686) `[evals, observability, production, trace-data, inference, models]`
 - [[jev-reasoning-intensive-regression-testing-dianetc]] — [Jev on Reasoning-Intensive Regression: GPT-5-Level CCC at Lower NMSE](https://x.com/dianetc_/status/2104648568459948469) `[evals, llm-judges, benchmarks, inference, models]`
+- [[eval-engineering-failure-first-yarchi]] — [Eval engineering, explained from failures up](https://x.com/undefinedKi/status/2099590541650378856) `[evals, llm-judges, rubrics, agents, verification]`
+- [[evals-tasks-environments-self-improving-loop-lieberman]] — [Evals: easy mode to god mode](https://x.com/businessbarista/status/2099565601312166157) `[evals, agent-harness, observability, verification, langchain, sandbox]`
+- [[jev-as-a-judge-langchain-agent-evals]] — [Jev-as-a-Judge for Agent Evals](https://x.com/LangChain/status/2101454284927959080) `[evals, llm-judges, cost-optimization, benchmarks, langchain, inference]`
+- [[jev-enterprise-tests-glean-gentilcore]] — [Is Jev Overhyped? Glean's Four Enterprise Tests](https://x.com/tonygentilcore/status/2104639390266036251) `[evals, llm-judges, structured-outputs, cost-optimization, enterprise, inference, routing]`
 
 
 ### Finance
@@ -561,6 +575,11 @@
 - [[efficiently-scaling-transformer-inference-checklist-wafer]] — [Efficiently Scaling Transformer Inference as a Diagnostic Checklist](https://x.com/wafer_ai/status/2105092095786762676) `[inference, serving, kv-cache, gpu, hardware, quantization, performance]`
 - [[jev-system-one-decisions-akshay]] — [Jev Clearly Explained: System One Decisions Instead of Chat](https://x.com/akshay_pachaar/status/2101037514945597645) `[agents, structured-outputs, routing, cost-optimization, inference, calibration]`
 - [[kev-small-decision-models-jaredpalmer]] — [Kev: Small Decision Models You Can Train and Run Yourself](https://x.com/jaredpalmer/status/2105803387220726185) `[small-models, decision-models, fine-tuning, local-llms, inference, calibration, apple-silicon]`
+- [[anyjev-typed-choices-open-llms-avichawla]] — [AnyJev: Turning Open LLMs into Typed Decision Models](https://x.com/_avichawla/status/2103393403207901217) `[structured-outputs, calibration, inference, open-weights, models, evals]`
+- [[gliner25-decide-lora-dedup-jev-parity]] — [GLiNER2.5-Decide + LoRA: A Local Decision Model That Matches Jev](https://x.com/imohitmayank/status/2104236841419649301) `[small-models, decision-models, fine-tuning, lora, inference, calibration, local-llms]`
+- [[local-fixed-answer-scoring-sglang-avichawla]] — [Build your own Jev: fixed-answer scoring with SGLang](https://x.com/_avichawla/status/2101563610644496464) `[inference, serving, structured-outputs, local-llms, cost-optimization, throughput, qwen]`
+- [[multi-lora-serving-one-gpu-vllm-chawla]] — [Serving 100 fine-tuned models on one GPU with multi-LoRA](https://x.com/_avichawla/status/2099772866225148024) `[lora, vllm, inference, serving, gpu, fine-tuning, cost-optimization]`
+- [[vllm-architecture-appreciation-attharrva]] — [vLLM's Architecture, Appreciated: Paging, Blocks, and Continuous Batching](https://x.com/attharrva15/status/2103918757446062165) `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu]`
 
 
 ### Papers
@@ -640,6 +659,10 @@
 - [[how-to-be-more-ambitious-felix-rieseberg]] — [How to be more ambitious: a tutorial for humans with models](https://x.com/felixrieseberg/status/2110023283169247623) `[agents, prompt-engineering, productivity, anthropic, agent-harness, ambition]`
 - [[karpathy-doing-well-in-your-courses-advice]] — [Karpathy: Doing Well in Your Courses (the 85% Heuristic)](https://x.com/neuralkian/status/2109623110857027852) `[career, learning, meta-learning, karpathy, education]`
 - [[product-management-still-telling-stories-joshelman]] — [Product Management Is Still About Telling Stories](https://x.com/joshelman/status/2099498819914551344) `[pm, product, product-discovery, onboarding, ai-product, judgment]`
+- [[getting-rich-is-a-skill-issue-devon-canup]] — [Your Entire Life Changes When You Realize Getting Rich Is A Skill Issue](https://x.com/devoncnp/status/2105345806870126935) `[career, creator-economy, self-improvement, business, solopreneur, monetization]`
+- [[how-to-articulate-thoughts-callum]] — [How to articulate thoughts like the top 0.01%](https://x.com/callumhyman24/status/2098902833525391716) `[communication, soft-skills, clear-thinking, writing, career, productivity]`
+- [[pattern-recognition-mastery-tim-denning]] — [Pattern Recognition as Mastery: Michael Larson, Chunking, and Pattern Interrupts](https://x.com/Tim_Denning/status/2101263475909775641) `[pattern-recognition, expertise, deliberate-practice, meta-learning, learning, productivity]`
+- [[post-work-fatigue-glutamate-prefrontal-cortex]] — [Why You Waste Your Evenings: Post-Work Fatigue and Prefrontal Glutamate](https://x.com/DrDominicNg/status/2018735498622087346) `[productivity, neuroscience, health, energy, focus, time-management]`
 
 
 ### Rl
@@ -657,6 +680,9 @@
 - [[jev-reward-model-rl-anti-slop-fireworks-sophiamyang]] — [Your First RL Run with Jev as the Reward Model](https://x.com/sophiamyang/status/2102861619889918023) `[rl, grpo, reward-models, llm-judges, lora, post-training]`
 - [[raschka-rlvr-grpo-clipped-ratios-kl-format-rewards]] — [Raschka: RLVR Round 2 — GRPO Stability, KL and Format Rewards](https://x.com/rasbt/status/2108908657786355788) `[rl, grpo, rlvr, training, post-training, reasoning]`
 - [[robotics-rl-post-training-recipe-perry-dong-finn]] — [Towards Universal Post-Training for Robotics](https://x.com/perryadong/status/2102805448936305107) `[robotics, rl, post-training, vla, reward-models, training-data]`
+- [[mimo-oss-agentic-rl-environments-verl]] — [Xiaomi MiMo open-sources agentic RL environments and verl training code](https://x.com/eliebakouch/status/2103670720249164197) `[rl-environments, rl, training, post-training, agent-harness, open-source, qwen]`
+- [[rl-algorithm-progression-vpg-ppo-grpo-cwolfe]] — [The RL Algorithm Progression: VPG to REINFORCE to PPO to GRPO](https://x.com/cwolferesearch/status/2103195163740832169) `[rl, training, post-training, grpo, rlhf, models]`
+- [[training-search-agents-grpo-jasper-lu]] — [Training Search Agents with GRPO](https://x.com/lu__jasper/status/2100601963813507268) `[rl, grpo, post-training, agent-harness, training, rag]`
 
 
 ### Security
@@ -701,6 +727,8 @@
 - [[signal-in-robotics-data-varunnair]] — [Where is the Signal in Robotics Data](https://x.com/_varunnair/status/2096119538589008251) `[robotics, training, data, annotation]`
 - [[finetuning-with-sampling-sft-karan-chen-du]] — [Finetuning with Sampling: SFT Learns Better Than You Think](https://x.com/aakaran31/status/2106037829059133903) `[sft, post-training, sampling, mcmc, rl, distillation, forgetting]`
 - [[gero-4b-calibrated-decision-model-rl]] — [Gero-4B: Training a Calibrated Decision Model with Staged RL](https://x.com/TheVixhal/status/2106439792800198966) `[rl, training, post-training, calibration, decision-making, lora, evals]`
+- [[fine-tune-small-llm-own-data-guide-sairahul1]] — [How To Fine-Tune a Small LLM on Your Own Data (Full Guide)](https://x.com/sairahul1/status/2100882424343265527) `[training, fine-tuning, lora, slm, data-curation, evals, production]`
+- [[unsloth-decision-model-qwen35-4gb-lora]] — [Unsloth Decision Models: Qwen3.5 0.8B to 74.3% on 4GB VRAM](https://x.com/UnslothAI/status/2107868866361930236) `[training, fine-tuning, lora, slm, gpu, inference]`
 
 
 ### Weather
@@ -710,6 +738,7 @@
 
 ## All Bookmarks (A-Z)
 - [[18-months-browser-use-alezander]] `[browser-agents, evals, agents, agent-harness]`
+- [[296-agents-one-graph-loop-engineering-gpt6-astra]] `[agents, loop-engineering, graph-engineering, agent-harness, orchestration, verification, langgraph]`
 - [[4-agent-trading-desk]] `[agents, trading, multi-agent, orchestration, automation, finance]`
 - [[15-claude-code-settings-most-developers-never-touc]] `[claude-code, coding-tools, productivity]`
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]] `[claude-code, skills, catalog, superpowers, gsd, context-mode, interview-me, meta-skills, curation]`
@@ -762,6 +791,7 @@
 - [[anthropic-self-service-analytics-claude]] `[anthropic, claude-code, data-analytics, skills, enterprise, evals, semantic-layer, data-engineering]`
 - [[antithesis-principle-shreyas-doshi]] `[clear-thinking, decision-making, leadership, productivity, meta-learning, pm, human-nature, wisdom, product-sense]`
 - [[antpalkin]] `[agents]`
+- [[anyjev-typed-choices-open-llms-avichawla]] `[structured-outputs, calibration, inference, open-weights, models, evals]`
 - [[applied-ai-doesnt-work-vasuman]] `[agents, enterprise, process, productivity]`
 - [[are-you-still-tuning-llms-by-hand-gepa]] `[dspy, gepa, prompt-optimization, prompt-engineering, evals, llm-judges, pretraining, microsoft-ai, mai-thinking]`
 - [[article]] `[evals, agents]`
@@ -783,6 +813,7 @@
 - [[attention-qkv-math-amitiitbhu]] `[transformers, attention, llm, fundamentals, math, qkv, softmax, embeddings, education]`
 - [[automate-writing-llm-prompts-dspy]] `[dspy, prompt-engineering, prompt-optimization, llm, automation, evaluation, meta-prompting, production]`
 - [[autodata-synthetic-data-generation-explained]] `[synthetic-data, grpo, rl, training, agents, slm, data-generation, autodata]`
+- [[beautiful-ui-ai-native-primitives]] `[ui, frontend-design, frontend, generative-ui, components, design]`
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]] `[skills, claude, claude-code, prompt-engineering, progressive-disclosure, agent-harness, hermes, mcp]`
 - [[build-claude-code-harness-crewai-akshay]] `[agent-harness, harness-engineering, claude-code, crewai, multi-agent, sandbox, memory, planning, subagents, agents, coding-tools]`
 - [[build-your-own-llm-workshop-justin-angel]] `[training, llm, from-scratch, course, transformers, pretraining, instruction-tuning, rl]`
@@ -829,6 +860,7 @@
 - [[context-engineering-field-guide-phosphenq]] `[context-engineering, prompt-engineering, agents, agent-harness, context-management, context-rot, compaction, subagents, token-economy]`
 - [[context-engineering-os-loop-engineering-vartekxx]] `[context-engineering, loop-engineering, prompt-engineering, agents, agent-harness, claude-code, subagents, verification, context-rot, skills]`
 - [[controlling-reasoning-effort-in-llms]] `[training, rl, rlvr, reasoning, inference-scaling, post-training, qwen, models, sft]`
+- [[cuda-from-zero-to-hero-1-goyal]] `[cuda, gpu, gpu-architecture, parallelism, fundamentals, hardware]`
 - [[daily-dose-of-premium-content]] `[agents, models]`
 - [[dark-arts-of-skill-engineering-pbakaus]] `[skills, agent-harness, harness-engineering, claude-code, codex, hooks, multi-agent, progressive-disclosure, design, frontend, impeccable, cross-harness]`
 - [[data-broker-postings-frontier-roadmap]] `[ai-economics, training-data, data-labeling, hiring, market-research]`
@@ -853,7 +885,9 @@
 - [[economy-of-tokens-vipulved-modular-ai]] `[ai-strategy, ai-economics, open-weights, venture-capital, agent-harness, mcp, transformers, inference, token-economy, modularization, together-ai, infrastructure]`
 - [[efficiently-scaling-transformer-inference-checklist-wafer]] `[inference, serving, kv-cache, gpu, hardware, quantization, performance]`
 - [[era-of-evals-brendan-foody]] `[evals, rl, rlvr, training, agents, mercor]`
+- [[eval-engineering-failure-first-yarchi]] `[evals, llm-judges, rubrics, agents, verification]`
 - [[eval-engineering-merge-gate-hanakoxbt]] `[evals, llm-judges, agents, agent-harness, harness-engineering, verification, trajectories, observability, production, trace-data]`
+- [[evals-tasks-environments-self-improving-loop-lieberman]] `[evals, agent-harness, observability, verification, langchain, sandbox]`
 - [[every-agentic-engineering-hack-june-2026]] `[agentic-engineering, claude-code, codex, productivity, skills, workflows, hacks]`
 - [[everything-i-learnt-in-reverse-finlayekins]] `[productivity, agents, startups, solo-operator]`
 - [[explorative-modeling-third-pretraining-axis-xm]] `[training, pretraining, generative-models, diffusion, scaling-laws, image-generation, video-generation, language-models, robotics, world-models, efficiency, papers]`
@@ -863,6 +897,7 @@
 - [[fault-tolerance-langgraph-retries-timeouts]] `[agents, langgraph, fault-tolerance, retries, error-handling, saga, production]`
 - [[feedback-loops-claude-code-less-babysitting]] `[claude-code, agents, skills, feedback-loops, verification, code-review]`
 - [[find-problems-staff-engineer-lalitm]] `[career, productivity, problem-first, product-discovery, staff-engineer, clear-thinking]`
+- [[fine-tune-small-llm-own-data-guide-sairahul1]] `[training, fine-tuning, lora, slm, data-curation, evals, production]`
 - [[finetune-free-trl-colab-cli-paniego]] `[training, fine-tuning, agents, trl]`
 - [[finetuning-with-sampling-sft-karan-chen-du]] `[sft, post-training, sampling, mcmc, rl, distillation, forgetting]`
 - [[finished-going-through-studying-and-taking-detaile]] `[rl]`
@@ -878,7 +913,9 @@
 - [[generative-verifiers-genrm-deepmind]] `[papers, evals, reward-models, reasoning, inference-scaling, rl, training, post-training, deepmind, verification, llm-judges]`
 - [[generative-verifiers-genrm-marfinxx]] `[papers, evals, reward-models, reasoning, inference-scaling, verification, deepmind, agents]`
 - [[gero-4b-calibrated-decision-model-rl]] `[rl, training, post-training, calibration, decision-making, lora, evals]`
+- [[getting-rich-is-a-skill-issue-devon-canup]] `[career, creator-economy, self-improvement, business, solopreneur, monetization]`
 - [[glean-coding-harness-programmatic-tool-calling]] `[agent-harness, harness-engineering, glean, enterprise, programmatic-tool-calling, progressive-disclosure, cost-optimization, context-management, search, agent-ops]`
+- [[gliner25-decide-lora-dedup-jev-parity]] `[small-models, decision-models, fine-tuning, lora, inference, calibration, local-llms]`
 - [[glm-5-2-with-vision-projector-part-harry]] `[multimodal, vision, vlm, glm, post-training, sft, rl, training, models, projector, grokking]`
 - [[goldmine-selling-data-frontier-labs-viks-rum]] `[ai-economics, training-data, venture-capital, ai-strategy, evals, agent-environments, data-labeling, robotics, enterprise-ai, investing]`
 - [[googlegemma]] `[interpretability]`
@@ -910,6 +947,7 @@
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
 - [[hermes-seven-skills-cobi-bean]] `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, mermaid, meta-skills, superpowers]`
 - [[how-staff-engineer-finds-problems-erayajk]] `[engineering, productivity]`
+- [[how-to-articulate-thoughts-callum]] `[communication, soft-skills, clear-thinking, writing, career, productivity]`
 - [[how-to-be-more-ambitious-felix-rieseberg]] `[agents, prompt-engineering, productivity, anthropic, agent-harness, ambition]`
 - [[human-in-the-loop-agent-loops]] `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, productivity, cursor, cloud-agents, multi-agent]`
 - [[human-nature-meta-skill-dan-koe]] `[meta-learning, marketing, persuasion, creator-economy, writing, productivity, human-nature]`
@@ -959,22 +997,32 @@
 - [[inference-optimizations-sub-second-llm-checklist]] `[inference, serving, llm, kv-cache, speculative-decoding, flashattention, pagedattention, quantization, throughput, latency]`
 - [[inkling-ear-7-9m-lookup-table-huckiyang]] `[models, multimodal, audio, speech, inference, serving, moe, quantization, asr, thinky-machines]`
 - [[jev-agent-memory-context-engineering-dhravya]] `[agent-memory, memory, retrieval, chunking, cost-optimization, context-engineering, agent-harness]`
+- [[jev-as-a-judge-langchain-agent-evals]] `[evals, llm-judges, cost-optimization, benchmarks, langchain, inference]`
 - [[jev-as-judge-probability-uncertainty-signal]] `[evals, llm-judges, cost-optimization, benchmarks, inference, observability]`
 - [[jev-call-outcome-forecasting-2029-calls-muratcan]] `[evals, observability, production, trace-data, inference, models]`
+- [[jev-enterprise-tests-glean-gentilcore]] `[evals, llm-judges, structured-outputs, cost-optimization, enterprise, inference, routing]`
+- [[jev-harness-model-routing-auto-mode-runkle]] `[agents, agent-harness, routing, cost-optimization, inference, structured-outputs, langchain]`
 - [[jev-reasoning-intensive-regression-testing-dianetc]] `[evals, llm-judges, benchmarks, inference, models]`
 - [[jev-reward-model-rl-anti-slop-fireworks-sophiamyang]] `[rl, grpo, reward-models, llm-judges, lora, post-training]`
 - [[jev-system-one-decisions-akshay]] `[agents, structured-outputs, routing, cost-optimization, inference, calibration]`
 - [[karpathy-doing-well-in-your-courses-advice]] `[career, learning, meta-learning, karpathy, education]`
 - [[karpathy-three-folders-compiler-v1lrok]] `[second-brain, knowledge-graph, obsidian, agents, claude]`
 - [[kev-small-decision-models-jaredpalmer]] `[small-models, decision-models, fine-tuning, local-llms, inference, calibration, apple-silicon]`
+- [[knowledge-engineer-docs-for-agents-mintlify]] `[agents, documentation, enterprise, content-strategy, knowledge-work, context-engineering, rag]`
 - [[llm-as-judge-architectures-runtime-joshrosen]] `[evals, agents, agent-harness, llm-as-judge]`
+- [[local-fixed-answer-scoring-sglang-avichawla]] `[inference, serving, structured-outputs, local-llms, cost-optimization, throughput, qwen]`
+- [[mimo-oss-agentic-rl-environments-verl]] `[rl-environments, rl, training, post-training, agent-harness, open-source, qwen]`
+- [[multi-lora-serving-one-gpu-vllm-chawla]] `[lora, vllm, inference, serving, gpu, fine-tuning, cost-optimization]`
 - [[neural-networks-not-already-clean]] `[interpretability, mechanistic-interpretability, superposition, circuits, alignment, sae]`
 - [[on-policy-distillation-aha-neural-avb]] `[training, distillation, rl, post-training]`
+- [[pattern-recognition-mastery-tim-denning]] `[pattern-recognition, expertise, deliberate-practice, meta-learning, learning, productivity]`
 - [[post-training-rlm-agents-ma-diligence-harvey]] `[agents, rl, evals, legal-ai, rlm, post-training]`
+- [[post-work-fatigue-glutamate-prefrontal-cortex]] `[productivity, neuroscience, health, energy, focus, time-management]`
 - [[product-management-still-telling-stories-joshelman]] `[pm, product, product-discovery, onboarding, ai-product, judgment]`
 - [[raschka-rlvr-grpo-clipped-ratios-kl-format-rewards]] `[rl, grpo, rlvr, training, post-training, reasoning]`
 - [[recursive-self-improvement-stages-autonomy-dair-survey]] `[recursive-self-improvement, agents, research, self-improvement, evals, ai-research]`
 - [[rethinking-skills-prompts-gpt6-astra-pvncher]] `[skills, prompt-engineering, agents, gpt-6, coding-agents]`
+- [[rl-algorithm-progression-vpg-ppo-grpo-cwolfe]] `[rl, training, post-training, grpo, rlhf, models]`
 - [[robotics-rl-post-training-recipe-perry-dong-finn]] `[robotics, rl, post-training, vla, reward-models, training-data]`
 - [[signal-in-robotics-data-varunnair]] `[robotics, training, data, annotation]`
 - [[software-factory-uber-scale]] `[agents, agent-ops, coding-agents, cost, mcp]`
@@ -1092,9 +1140,16 @@
 - [[ridarketh]] `[ai-ml]`
 - [[rl-algo-comprehensive-qa]] `[rl, grpo, ppo, dpo, moe, deepseek, training, advantage, kl-divergence, importance-sampling, reward-design]`
 - [[rlhf-from-first-principles]] `[rlhf, training, alignment, reward-modeling, ppo, dpo, constitutional-ai, fundamentals]`
+- [[spending-your-effort-claude-code-thariq]] `[claude-code, anthropic, evals, benchmarks, verification, cost-optimization, reasoning]`
+- [[system-design-essentials-20-building-blocks]] `[architecture, scaling, databases, distributed-systems, fundamentals, backend]`
+- [[system-design-essentials-caching-rate-limiting]] `[distributed-systems, architecture, systems, caching, rate-limiting, networking]`
+- [[system-design-essentials-part-2-architecture-auth-load-balancing]] `[architecture, distributed-systems, scaling, networking, systems, fundamentals]`
+- [[system-design-interview-notes-repo-liquidslr]] `[distributed-systems, architecture, systems, interview, resources]`
 - [[taking-karpathy-wiki-to-work-kmelve]] `[second-brain, knowledge-graph, agents, content-ops]`
 - [[text-classification-bag-of-words-to-jev-rasbt]] `[models, training, fine-tuning, cost-optimization, inference, harness-engineering]`
+- [[training-search-agents-grpo-jasper-lu]] `[rl, grpo, post-training, agent-harness, training, rag]`
 - [[trusting-agent-work-inverse-pyramid-poteto]] `[agents, verification, code-review, agent-harness, harness-engineering, static-analysis, human-in-the-loop]`
+- [[unsloth-decision-model-qwen35-4gb-lora]] `[training, fine-tuning, lora, slm, gpu, inference]`
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]] `[training, rl, rlvr, rlhf, evals, alignment, agents, scaling-laws, ai-research]`
 - [[rlm-structured-outputs]] `[agents, rlm, structured-outputs, subagents, recursive-language-models, agent-harness, json-schema]`
 - [[rohonchain]] `[ai-ml]`
@@ -1149,6 +1204,7 @@
 - [[career-platform-email-list-ryan-holiday]] `[career, platform, email-list, creator-economy, audience-building, perennial-seller, productivity, meta-learning]`
 - [[understanding-video-models-rl-post-training]] `[training, rl, rlhf, rlvr, dpo, grpo, video-generation, diffusion, flow-matching, post-training, reward-models, geometric-consistency]`
 - [[units-of-time-alfred-lin]] `[philosophy, productivity, career, life, time-management]`
+- [[vllm-architecture-appreciation-attharrva]] `[vllm, inference, serving, kv-cache, pagedattention, continuous-batching, gpu]`
 - [[waku-agent-github]] `[agents, agent-harness, harness-engineering, agent-memory, evals, llm-judges, loop-engineering, mcp, hermes, openclaw, skills, observability, local-first, sqlite]`
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
