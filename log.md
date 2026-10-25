@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-10-25
+
+- Ingest: 29 X bookmarks Sep 12–Oct 20 2026 (dair_ai 2098835038439961060 through HamelHusain 2112588257104216294; 29 raw + 25 processed, 5 captures of the Manidis/Mercor thread consolidated into one note)
+
 ## 2026-09-11
 
 - Ingest: OAATI goal model (profound_ideas_ 2098011857684435339)
