@@ -4,6 +4,10 @@ OKF bundle history (newest sections at top).
 
 ## 2026-10-26
 
+- Ingest: 3 X bookmarks — pstack Pt. 1 (poteto 2094457600259842065), pstack Pt. 2 (poteto 2097732320606507506), Claude Code code review (addyosmani 2114604912520921136)
+
+## 2026-10-26
+
 - Ingest: 4 X bookmarks — Andrew Ng SWE fundamentals, harness engineering (Google Cloud Tech), double-blind evals (DeepMind), RL post-training primer (iScienceLuvr)
 
 ## 2026-10-25

@@ -3,7 +3,7 @@
 > Auto-generated. Maps every canonical tag to all processed notes using it.
 > Regenerate: `python3 scripts/regenerate-tag-index.py`
 
-> 229 canonical tags across 600 processed notes.
+> 236 canonical tags across 603 processed notes.
 
 ## High-Frequency Tags (5+ notes)
 
@@ -57,7 +57,7 @@
 - [[own-your-intelligence-harrison-chase]]
 - [[stanford-storm-method-claude-research]]
 
-### agent-harness (147)
+### agent-harness (150)
 
 - [[18-months-browser-use-alezander]]
 - [[2-ways-self-evolving-agents-model-harness]]
@@ -123,6 +123,7 @@
 - [[hermes-agent-10x-faster-vault-index]]
 - [[hermes-harness-deep-dive-aparnadhinak]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - [[how-to-be-a-memory-engineer-n01ennn]]
 - [[how-to-be-more-ambitious-felix-rieseberg]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
@@ -187,6 +188,8 @@
 - [[software-factory-linear-claude-cloud-routines]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[training-search-agents-grpo-jasper-lu]]
@@ -255,7 +258,7 @@
 - [[waku-agent-github]]
 - [[your-ais-memory-is-quietly-making-it-dumber]]
 
-### agent-ops (60)
+### agent-ops (63)
 
 - [[21-agent-building-mistakes]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
@@ -285,6 +288,7 @@
 - [[harness-engineering-2026-discipline]]
 - [[hermes-alpha-trackers-onchain-forensics-0xjeff]]
 - [[hermes-seven-skills-cobi-bean]]
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - [[how-to-actually-use-claude-fable-5]]
 - [[how-to-automate-disaster-recovery-with-agents]]
 - [[how-to-build-company-os-kimi-k3]]
@@ -308,6 +312,8 @@
 - [[sierra-pinecone-singular-company-agent]]
 - [[software-factory-uber-scale]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[two-tracks-not-ten-agents]]
@@ -770,7 +776,7 @@
 - [[verifiability-constraint-rlvr-unverifiable-tanayj]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### anthropic (38)
+### anthropic (39)
 
 - [[ai-native-engineering-org]]
 - [[ai-native-sdlc-playbook]]
@@ -798,6 +804,7 @@
 - [[graph-engineering-vs-rag-graphrag-sprytixl]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-context-aware-agents]]
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - [[how-to-be-more-ambitious-felix-rieseberg]]
 - [[llms-securing-source-code]]
 - [[managed-agents-built-in-memory]]
@@ -811,7 +818,7 @@
 - [[vscode-copilot-token-efficiency]]
 - [[zero-trust-ai-agents]]
 
-### architecture (36)
+### architecture (37)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -847,6 +854,7 @@
 - [[system-design-essentials-caching-rate-limiting]]
 - [[system-design-essentials-part-2-architecture-auth-load-balancing]]
 - [[system-design-interview-notes-repo-liquidslr]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - [[training-llm-from-scratch-5-lessons]]
 - [[universal-agent-thesis]]
 
@@ -1017,7 +1025,7 @@
 - [[the-html-brand-input-based-outcomes]]
 - [[using-claude-to-go-viral-on-x-mrbeast-framework]]
 
-### claude-code (108)
+### claude-code (110)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[50-mcp-servers-guide]]
@@ -1081,6 +1089,7 @@
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
 - [[harness-engineering-2026-discipline]]
 - [[harness-is-the-product-280k]]
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - [[how-to-build-first-ai-agent-claude-full-course]]
 - [[how-to-create-loops-claude-code-sairahul1]]
 - [[how-to-create-right-skill-ai-agent]]
@@ -1119,6 +1128,7 @@
 - [[spending-your-effort-claude-code-thariq]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
 - [[the-full-loop-in-code]]
 - [[twenty-core-agent-concepts-sairahul1]]
 - [[voxyz-ai-10-lessons-agents-md]]
@@ -1267,7 +1277,7 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (49)
+### context-engineering (50)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1312,6 +1322,7 @@
 - [[skill-solo-millionaires-ai-era]]
 - [[software-factories-light-and-dark-addy-osmani]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[trying-to-actually-define-continual-learning-oneill]]
 - [[what-if-harness-comes-before-pretraining-lihanc02]]
@@ -1568,7 +1579,7 @@
 - [[who-will-set-price-intelligence]]
 - [[zero-trust-ai-agents]]
 
-### evals (81)
+### evals (82)
 
 - [[18-months-browser-use-alezander]]
 - [[70-ideas-ai-product-process-nurijanian]]
@@ -1616,6 +1627,7 @@
 - [[harbor-rl-coding-environments]]
 - [[how-ai-models-learn-skills-behaviors-leerob]]
 - [[how-openai-sol-learned-design-taste-designarena]]
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - [[how-to-become-applied-ai-engineer-eyad-khrais]]
 - [[how-to-build-eval-set-you-can-maintain-lotte]]
 - [[how-to-build-your-own-llm-from-scratch-5-stage-pipeline]]
@@ -1829,7 +1841,7 @@
 - [[to-fde-or-not-to-fde-jesse-zhang]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### harness-engineering (56)
+### harness-engineering (57)
 
 - [[2-ways-self-evolving-agents-model-harness]]
 - [[Agent Systems and Context Engineering Projects 2026]]
@@ -1877,6 +1889,7 @@
 - [[software-factories-no-slop-dzhng]]
 - [[text-classification-bag-of-words-to-jev-rasbt]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[thinking-database-infinite-context-polygres-daleverett]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
@@ -2718,6 +2731,14 @@
 - [[persona-vectors-paper]]
 - [[sub-agents-inference-time-scaling]]
 
+### planning (5)
+
+- [[build-claude-code-harness-crewai-akshay]]
+- [[claude-fable-map-territory-unknowns-trq212]]
+- [[coderabbit-claude-agent-orchestration]]
+- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
+
 ### pm (16)
 
 - [[ambient-pm-agents-evidence-first-prd]]
@@ -3367,7 +3388,7 @@
 - [[the-best-models-for-hermes-agent]]
 - [[vllm-architecture-appreciation-attharrva]]
 
-### skills (83)
+### skills (85)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[5-ai-skills-six-figures-2027]]
@@ -3445,6 +3466,8 @@
 - [[spec-kit-github-sdd]]
 - [[structure-problem-top-down-bottom-up-decision-memo]]
 - [[the-agentic-engineer-workflow-aashatwt]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - [[waku-agent-github]]
 - [[wikiskill-google-omarsar]]
 - [[writing-agent-skills-posthog-ian-vanagas]]
@@ -3699,7 +3722,7 @@
 - [[who-will-set-price-intelligence]]
 - [[wtf-is-storytelling-for-vcs-laurie-owen]]
 
-### verification (69)
+### verification (72)
 
 - [[296-agents-one-graph-loop-engineering-gpt6-astra]]
 - [[540k-lines-i-didnt-need-garry-tan]]
@@ -3734,6 +3757,7 @@
 - [[graph-engineering-three-commitments-cyrilxbt]]
 - [[graph-engineering-work-plans-claude-code-mojeskoqq]]
 - [[grok-bot-for-engineering-lingxi]]
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - [[how-to-actually-use-claude-fable-5]]
 - [[how-to-build-company-os-kimi-k3]]
 - [[how-to-build-conductor-multi-agent-leanxbt]]
@@ -3761,6 +3785,8 @@
 - [[software-factories-no-slop-dzhng]]
 - [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
 - [[spending-your-effort-claude-code-thariq]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - [[the-great-flattening-tokenmaxx-vorflux-myprasanna]]
 - [[three-layers-harness-loop-graph-lunarresearcher]]
 - [[torch-internals-part1-fx-graphs]]
@@ -3860,6 +3886,17 @@
 - [[hermes-goal-mode-guide]]
 - [[universal-agent-thesis]]
 
+### code-quality (3)
+
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
+
+### code-review (2)
+
+- [[how-the-claude-code-team-does-code-review-addy-osmani]]
+- [[trusting-agent-work-inverse-pyramid-poteto]]
+
 ### computer-use (3)
 
 - [[astra-computer-use-a11y-kylejeong]]
@@ -3923,22 +3960,21 @@
 - [[system-design-essentials-caching-rate-limiting]]
 - [[system-design-essentials-part-2-architecture-auth-load-balancing]]
 
-### parallelism (2)
+### parallelism (3)
 
 - [[cuda-from-zero-to-hero-1-goyal]]
 - [[handwired-javascript-to-neural-net-cheng-lou]]
-
-### planning (4)
-
-- [[build-claude-code-harness-crewai-akshay]]
-- [[claude-fable-map-territory-unknowns-trq212]]
-- [[coderabbit-claude-agent-orchestration]]
-- [[spec-engineering-three-failures-vibe-coding-0xmortyx]]
+- [[the-complete-guide-to-pstack-part-1-verification]]
 
 ### prediction-markets (2)
 
 - [[graph-engineering-multi-factor-alpha-rohonchain]]
 - [[markov-chains-polymarket-trading]]
+
+### pstack (2)
+
+- [[the-complete-guide-to-pstack-part-1-verification]]
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 
 ### qwen (2)
 
@@ -4033,14 +4069,15 @@
 - **business** — [[getting-rich-is-a-skill-issue-devon-canup]]
 - **caching** — [[system-design-essentials-caching-rate-limiting]]
 - **chunking** — [[jev-agent-memory-context-engineering-dhravya]]
+- **ci-cd** — [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - **circuits** — [[neural-networks-not-already-clean]]
 - **clear-thinking** — [[how-to-articulate-thoughts-callum]]
-- **code-review** — [[trusting-agent-work-inverse-pyramid-poteto]]
 - **compilers** — [[handwired-javascript-to-neural-net-cheng-lou]]
 - **components** — [[beautiful-ui-ai-native-primitives]]
 - **confidential-computing** — [[double-blind-ai-evaluations-google-deepmind]]
 - **content-strategy** — [[knowledge-engineer-docs-for-agents-mintlify]]
 - **continuous-batching** — [[vllm-architecture-appreciation-attharrva]]
+- **controls** — [[the-complete-guide-to-pstack-part-1-verification]]
 - **cuda** — [[cuda-from-zero-to-hero-1-goyal]]
 - **data** — [[ai-engineering-skills-map-software-fundamentals-andrew-ng]]
 - **data-curation** — [[fine-tune-small-llm-own-data-guide-sairahul1]]
@@ -4055,6 +4092,7 @@
 - **entropy** — [[demystifying-rl-post-training-language-models]]
 - **expertise** — [[pattern-recognition-mastery-tim-denning]]
 - **exploration** — [[demystifying-rl-post-training-language-models]]
+- **feature-flags** — [[how-the-claude-code-team-does-code-review-addy-osmani]]
 - **focus** — [[post-work-fatigue-glutamate-prefrontal-cortex]]
 - **forgetting** — [[finetuning-with-sampling-sft-karan-chen-du]]
 - **frontend** — [[beautiful-ui-ai-native-primitives]]
@@ -4067,6 +4105,7 @@
 - **governance** — [[double-blind-ai-evaluations-google-deepmind]]
 - **gpu-architecture** — [[cuda-from-zero-to-hero-1-goyal]]
 - **graph-engineering** — [[296-agents-one-graph-loop-engineering-gpt6-astra]]
+- **grok-bot** — [[the-complete-guide-to-pstack-part-1-verification]]
 - **health** — [[post-work-fatigue-glutamate-prefrontal-cortex]]
 - **interview** — [[system-design-interview-notes-repo-liquidslr]]
 - **investing** — [[ai-roi-productivity-paradox-chamath]]
@@ -4088,6 +4127,7 @@
 - **pattern-recognition** — [[pattern-recognition-mastery-tim-denning]]
 - **performance** — [[efficiently-scaling-transformer-inference-checklist-wafer]]
 - **product-discovery** — [[product-management-still-telling-stories-joshelman]]
+- **prototyping** — [[the-complete-guide-to-pstack-part-2-supervising-planning]]
 - **rate-limiting** — [[system-design-essentials-caching-rate-limiting]]
 - **red-teaming** — [[red-teaming]]
 - **research** — [[recursive-self-improvement-stages-autonomy-dair-survey]]

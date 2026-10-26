@@ -241,6 +241,7 @@
 - [[recursive-self-improvement-stages-autonomy-dair-survey]] — [Recursive Self-Improvement: A Survey of Autonomy Stages](https://x.com/dair_ai/status/2098835038439961060) `[recursive-self-improvement, agents, research, self-improvement, evals, ai-research]`
 - [[296-agents-one-graph-loop-engineering-gpt6-astra]] — [From 296 Agents to One Graph](https://x.com/N01ennn/status/2096962591125905888) `[agents, loop-engineering, graph-engineering, agent-harness, orchestration, verification, langgraph]`
 - [[knowledge-engineer-docs-for-agents-mintlify]] — [The rise of the knowledge engineer](https://x.com/hahnbeelee/status/2100619585561256277) `[agents, documentation, enterprise, content-strategy, knowledge-work, context-engineering, rag]`
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]] — [The Complete Guide to pstack Pt. 2 — supervising and planning in code](https://x.com/poteto/status/2097732320606507506) `[pstack, planning, context-engineering, prototyping, architecture, verification, skills]`
 
 ### Ai Ml
 
@@ -443,6 +444,7 @@
 - [[trusting-agent-work-inverse-pyramid-poteto]] — [Trusting agent work: the inverse pyramid of enforcement](https://x.com/morganlinton/status/2111169018082054497) `[agents, verification, code-review, agent-harness, harness-engineering, static-analysis, human-in-the-loop]`
 - [[jev-harness-model-routing-auto-mode-runkle]] — [Building a Harness with Jev](https://x.com/sydneyrunkle/status/2100754364545761643) `[agents, agent-harness, routing, cost-optimization, inference, structured-outputs, langchain]`
 - [[what-is-harness-engineering-google-cloud-tech]] — [What Is Harness Engineering and Why Should I Care?](https://x.com/GoogleCloudTech/status/2091986652595950079) `[harness-engineering, agent-harness, agents, coding-agents, sandbox, verification, loop-engineering, google-adk, antigravity]`
+- [[the-complete-guide-to-pstack-part-1-verification]] — [The Complete Guide to pstack Pt. 1 — verification is infrastructure](https://x.com/poteto/status/2094457600259842065) `[pstack, verification, agent-harness, harness-engineering, skills, claude-code, controls, parallelism, code-quality]`
 
 ### Evals
 
@@ -476,6 +478,7 @@
 - [[jev-as-a-judge-langchain-agent-evals]] — [Jev-as-a-Judge for Agent Evals](https://x.com/LangChain/status/2101454284927959080) `[evals, llm-judges, cost-optimization, benchmarks, langchain, inference]`
 - [[jev-enterprise-tests-glean-gentilcore]] — [Is Jev Overhyped? Glean's Four Enterprise Tests](https://x.com/tonygentilcore/status/2104639390266036251) `[evals, llm-judges, structured-outputs, cost-optimization, enterprise, inference, routing]`
 - [[double-blind-ai-evaluations-google-deepmind]] — [Piloting the World's First Double-Blind AI Evaluations](https://x.com/GoogleDeepMind/status/2092961763553677387) `[evals, model-evaluation, benchmark-contamination, safety-evals, frontier-ai, confidential-computing, security, governance, google]`
+- [[how-the-claude-code-team-does-code-review-addy-osmani]] — [How the Claude Code team does code review](https://x.com/addyosmani/status/2114604912520921136) `[code-review, claude-code, anthropic, evals, verification, ci-cd, feature-flags, code-quality]`
 
 
 ### Finance
@@ -954,6 +957,7 @@
 - [[hermes-kanban-mission-control]] `[hermes, kanban, agents, multi-agent, orchestration, skills, profiles]`
 - [[hermes-seven-skills-cobi-bean]] `[hermes, skills, agent-harness, agent-ops, obsidian, soul-md, mermaid, meta-skills, superpowers]`
 - [[how-staff-engineer-finds-problems-erayajk]] `[engineering, productivity]`
+- [[how-the-claude-code-team-does-code-review-addy-osmani]] `[code-review, claude-code, anthropic, evals, verification, ci-cd, feature-flags, code-quality]`
 - [[how-to-articulate-thoughts-callum]] `[communication, soft-skills, clear-thinking, writing, career, productivity]`
 - [[how-to-be-more-ambitious-felix-rieseberg]] `[agents, prompt-engineering, productivity, anthropic, agent-harness, ambition]`
 - [[human-in-the-loop-agent-loops]] `[agents, loop-engineering, claude-code, agent-harness, evals, verification, mcp, productivity, cursor, cloud-agents, multi-agent]`
@@ -1154,6 +1158,8 @@
 - [[system-design-interview-notes-repo-liquidslr]] `[distributed-systems, architecture, systems, interview, resources]`
 - [[taking-karpathy-wiki-to-work-kmelve]] `[second-brain, knowledge-graph, agents, content-ops]`
 - [[text-classification-bag-of-words-to-jev-rasbt]] `[models, training, fine-tuning, cost-optimization, inference, harness-engineering]`
+- [[the-complete-guide-to-pstack-part-1-verification]] `[pstack, verification, agent-harness, harness-engineering, skills, claude-code, controls, parallelism, code-quality]`
+- [[the-complete-guide-to-pstack-part-2-supervising-planning]] `[pstack, planning, context-engineering, prototyping, architecture, verification, skills]`
 - [[training-search-agents-grpo-jasper-lu]] `[rl, grpo, post-training, agent-harness, training, rag]`
 - [[trusting-agent-work-inverse-pyramid-poteto]] `[agents, verification, code-review, agent-harness, harness-engineering, static-analysis, human-in-the-loop]`
 - [[unsloth-decision-model-qwen35-4gb-lora]] `[training, fine-tuning, lora, slm, gpu, inference]`
