@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-10-26
+
+- Ingest: 4 X bookmarks — Andrew Ng SWE fundamentals, harness engineering (Google Cloud Tech), double-blind evals (DeepMind), RL post-training primer (iScienceLuvr)
+
 ## 2026-10-25
 
 - Ingest: 28 more X bookmarks saved after 2026-09-11 (UnslothAI 2107868866361930236 through DrDominicNg 2018735498622087346; 28 raw + 28 processed). Also corrected 6 mis-captured raws (X served stale pages) and repaired 8 raws carrying reply-thread junk.

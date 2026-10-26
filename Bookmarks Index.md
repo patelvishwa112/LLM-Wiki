@@ -309,6 +309,7 @@
 - [[system-design-essentials-caching-rate-limiting]] — [System Design Essentials Part 3: Caching, Rate Limiting, Distributed Systems](https://x.com/anurag_gharat/status/2106960326436794427) `[distributed-systems, architecture, systems, caching, rate-limiting, networking]`
 - [[system-design-essentials-part-2-architecture-auth-load-balancing]] — [System Design Essentials Part 2: Architecture Styles, Auth and Load Balancing](https://x.com/anurag_gharat/status/2104493200870433145) `[architecture, distributed-systems, scaling, networking, systems, fundamentals]`
 - [[system-design-interview-notes-repo-liquidslr]] — [System Design Interview Notes — 28-Chapter Open Repo](https://x.com/jianw851/status/2107508223549092294) `[distributed-systems, architecture, systems, interview, resources]`
+- [[ai-engineering-skills-map-software-fundamentals-andrew-ng]] — [AI Engineering Skills Map: Software Engineering Fundamentals (Andrew Ng)](https://x.com/AndrewYNg/status/2093388974194872781) `[ai-engineering, software-engineering, fundamentals, agents, coding-tools, career, hiring, architecture, data]`
 
 
 ### Coding Tools
@@ -441,6 +442,7 @@
 - [[free-the-models-harness-delegation-pirroh]] — [Free the Models: Harness Design at the Frontier](https://x.com/pirroh/status/2104976589180252218) `[agent-harness, subagents, orchestration, cost-optimization, models, harness-engineering]`
 - [[trusting-agent-work-inverse-pyramid-poteto]] — [Trusting agent work: the inverse pyramid of enforcement](https://x.com/morganlinton/status/2111169018082054497) `[agents, verification, code-review, agent-harness, harness-engineering, static-analysis, human-in-the-loop]`
 - [[jev-harness-model-routing-auto-mode-runkle]] — [Building a Harness with Jev](https://x.com/sydneyrunkle/status/2100754364545761643) `[agents, agent-harness, routing, cost-optimization, inference, structured-outputs, langchain]`
+- [[what-is-harness-engineering-google-cloud-tech]] — [What Is Harness Engineering and Why Should I Care?](https://x.com/GoogleCloudTech/status/2091986652595950079) `[harness-engineering, agent-harness, agents, coding-agents, sandbox, verification, loop-engineering, google-adk, antigravity]`
 
 ### Evals
 
@@ -473,6 +475,7 @@
 - [[evals-tasks-environments-self-improving-loop-lieberman]] — [Evals: easy mode to god mode](https://x.com/businessbarista/status/2099565601312166157) `[evals, agent-harness, observability, verification, langchain, sandbox]`
 - [[jev-as-a-judge-langchain-agent-evals]] — [Jev-as-a-Judge for Agent Evals](https://x.com/LangChain/status/2101454284927959080) `[evals, llm-judges, cost-optimization, benchmarks, langchain, inference]`
 - [[jev-enterprise-tests-glean-gentilcore]] — [Is Jev Overhyped? Glean's Four Enterprise Tests](https://x.com/tonygentilcore/status/2104639390266036251) `[evals, llm-judges, structured-outputs, cost-optimization, enterprise, inference, routing]`
+- [[double-blind-ai-evaluations-google-deepmind]] — [Piloting the World's First Double-Blind AI Evaluations](https://x.com/GoogleDeepMind/status/2092961763553677387) `[evals, model-evaluation, benchmark-contamination, safety-evals, frontier-ai, confidential-computing, security, governance, google]`
 
 
 ### Finance
@@ -683,6 +686,7 @@
 - [[mimo-oss-agentic-rl-environments-verl]] — [Xiaomi MiMo open-sources agentic RL environments and verl training code](https://x.com/eliebakouch/status/2103670720249164197) `[rl-environments, rl, training, post-training, agent-harness, open-source, qwen]`
 - [[rl-algorithm-progression-vpg-ppo-grpo-cwolfe]] — [The RL Algorithm Progression: VPG to REINFORCE to PPO to GRPO](https://x.com/cwolferesearch/status/2103195163740832169) `[rl, training, post-training, grpo, rlhf, models]`
 - [[training-search-agents-grpo-jasper-lu]] — [Training Search Agents with GRPO](https://x.com/lu__jasper/status/2100601963813507268) `[rl, grpo, post-training, agent-harness, training, rag]`
+- [[demystifying-rl-post-training-language-models]] — [Demystifying RL Post-Training of Language Models](https://x.com/iScienceLuvr/status/2092900877031895511) `[rl, rlvr, post-training, reasoning, entropy, exploration, reward-design, papers, training]`
 
 
 ### Security
@@ -761,6 +765,7 @@
 - [[agent-workflows-silent-degradation-verification-vladic]] `[agents, agent-harness, verification, claude-code, dynamic-workflows, agent-ops, productivity, evals]`
 - [[agents-behave-like-employees-six-shifts]] `[agents, agent-harness, human-in-the-loop, multi-agent, orchestration, approvals, productivity, cronjob]`
 - [[ai-engineer-2026-without-cs-degree-cyrilxbt]] `[ai-engineering, career, self-taught, rag, agents, portfolio, hiring, mlops, practical-guide, roadmap]`
+- [[ai-engineering-skills-map-software-fundamentals-andrew-ng]] `[ai-engineering, software-engineering, fundamentals, agents, coding-tools, career, hiring, architecture, data]`
 - [[ai-native-engineering-org]] `[anthropic, claude-code, engineering-management, productivity, team-structure, code-review]`
 - [[ai-native-sdlc-playbook]] `[anthropic, claude-code, software-factory, agent-harness, harness-engineering, evals, verification, skills, enterprise]`
 - [[ai-powered-data-warehouses-joshrosen]] `[data, agents, architecture, evals]`
@@ -871,12 +876,14 @@
 - [[deep-agents-prompt-caching]] `[agents, agent-harness, prompt-caching, kv-cache, cost-optimization, langchain, langsmith, deep-agents, observability, inference, token-economy]`
 - [[deepseek-harness-five-patterns-saboo]] `[agent-harness, agents, harness-engineering, deepseek, observability, loop-engineering, context-management, coding-tools, open-source, production]`
 - [[deepseek-v4-now-speaks-claude-code-natively]] `[coding-tools]`
+- [[demystifying-rl-post-training-language-models]] `[rl, rlvr, post-training, reasoning, entropy, exploration, reward-design, papers, training]`
 - [[dens-sumesh-densumesh-building-a-virtual-filesyste]] `[agents, papers]`
 - [[design-good-ml-experiments-grigorev]] `[training, ml-research, research-methodology, experiments, scaling-laws, pretraining, architecture, agents]`
 - [[diffusiongemma-jev-cloud-run-one-command]] `[gemma, diffusion, inference, serving, cost-optimization, google, vllm]`
 - [[distillation-post-training-frontier-2026]] `[distillation, training, post-training, rl, sft, agents, continual-learning, trl, gemma, deepseek]`
 - [[dimitrispapail]] `[papers]`
 - [[dimitrispapail]] `[papers]`
+- [[double-blind-ai-evaluations-google-deepmind]] `[evals, model-evaluation, benchmark-contamination, safety-evals, frontier-ai, confidential-computing, security, governance, google]`
 - [[dqn-adaptive-trade-execution-ritonchain]] `[trading, quant, reinforcement-learning, dqn, execution, twap, vwap, markov-chains, finance, systematic-trading]`
 - [[dive-into-claude-code-vila-lab]] `[claude-code, architecture, agent-engineering, harness-engineering, paper, hermes, openclaw]`
 - [[do-automated-evals-work-parlance-labs]] `[evals, llm-judges, error-analysis, observability, braintrust, arize, langsmith, traces, criteria-drift, agents]`
@@ -1209,6 +1216,7 @@
 - [[was-reading-a-paper-last-night-that-felt-very-time]] `[papers]`
 - [[what-i-use-hermes-agent-for-and-how-i-use-it]] `[agents, papers]`
 - [[what-if-harness-comes-before-pretraining-lihanc02]] `[harness-engineering, agent-harness, agents, pretraining, data-flywheel, sft, rl, continual-learning, distillation, training]`
+- [[what-is-harness-engineering-google-cloud-tech]] `[harness-engineering, agent-harness, agents, coding-agents, sandbox, verification, loop-engineering, google-adk, antigravity]`
 - [[what-is-kv-cache-llms]] `[llm, transformers, attention, kv-cache, inference, fundamentals]`
 - [[what-the-actual-fck-are-these-dudes-on]] `[weather]`
 - [[who-will-set-price-intelligence]] `[ai-strategy, investing, venture-capital, ai-economics, geopolitics, inference-time-compute, open-weights, enterprise-ai, startups, agents]`
