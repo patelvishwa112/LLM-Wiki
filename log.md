@@ -2,6 +2,10 @@
 
 OKF bundle history (newest sections at top).
 
+## 2026-10-28
+
+- Ingest: Alpha generation p1 — self-editing heartbeats with seeds (Google Doc)
+
 ## 2026-10-26
 
 - Ingest: 3 X bookmarks — pstack Pt. 1 (poteto 2094457600259842065), pstack Pt. 2 (poteto 2097732320606507506), Claude Code code review (addyosmani 2114604912520921136)

@@ -3,7 +3,7 @@
 > Auto-generated. Maps every canonical tag to all processed notes using it.
 > Regenerate: `python3 scripts/regenerate-tag-index.py`
 
-> 236 canonical tags across 603 processed notes.
+> 238 canonical tags across 604 processed notes.
 
 ## High-Frequency Tags (5+ notes)
 
@@ -324,7 +324,7 @@
 - [[your-agent-harness-should-repair-itself]]
 - [[zero-trust-ai-agents]]
 
-### agents (301)
+### agents (302)
 
 - [[15-prompts-cut-coding-costs-88-percent]]
 - [[18-months-browser-use-alezander]]
@@ -371,6 +371,7 @@
 - [[ai-powered-data-warehouses-joshrosen]]
 - [[ai-velocity-pod-senior-engineer-agents-mardehaym]]
 - [[aiesi-post-training-world-adaptation]]
+- [[alpha-generation-self-editing-heartbeats]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[anthropic-ant-cli-guide]]
 - [[anthropic-internal-claude-code-workflow]]
@@ -873,10 +874,11 @@
 - [[sparse-attention-long-context-dsa-msa-cyrusasg]]
 - [[what-is-kv-cache-llms]]
 
-### automation (22)
+### automation (23)
 
 - [[Business Idea Discovery Agent - Reddit + Claude Pipeline]]
 - [[agents-behave-like-employees-six-shifts]]
+- [[alpha-generation-self-editing-heartbeats]]
 - [[ambient-pm-agents-evidence-first-prd]]
 - [[automate-writing-llm-prompts-dspy]]
 - [[claude-code-four-loop-types-datasciencedojo]]
@@ -1155,12 +1157,13 @@
 - [[not-ambitious-enough-with-claude]]
 - [[problem-first-skill-invert-bad-ideas]]
 
-### codex (22)
+### codex (23)
 
 - [[50-mcp-servers-guide]]
 - [[addy-osmani-agent-autonomy-ladder-six-levels]]
 - [[aftermarket-harnesses-ttunguz]]
 - [[agent-memory-landscape-2026]]
+- [[alpha-generation-self-editing-heartbeats]]
 - [[buzz-open-source-workspace-block-jack]]
 - [[coding-agent-harness-eight-pillars]]
 - [[dark-arts-of-skill-engineering-pbakaus]]
@@ -1277,12 +1280,13 @@
 - [[rlhf-from-first-principles]]
 - [[what-every-programmer-should-know-about-rlhf]]
 
-### context-engineering (50)
+### context-engineering (51)
 
 - [[15-claude-skills-that-stuck-vaibhav-sisinty]]
 - [[Agent Systems and Context Engineering Projects 2026]]
 - [[agent-harness-engineering-agentforge]]
 - [[agent-plugins-skills-mcp-standard-google]]
+- [[alpha-generation-self-editing-heartbeats]]
 - [[anthropic-claude-code-skills-lessons]]
 - [[anthropic-self-service-analytics-claude]]
 - [[build-claude-skill-never-paste-prompt-0xlagosaur]]
@@ -4060,6 +4064,7 @@
 
 ## Single-Use Tags
 
+- **agent-loops** — [[alpha-generation-self-editing-heartbeats]]
 - **ai-product** — [[product-management-still-telling-stories-joshelman]]
 - **ambition** — [[how-to-be-more-ambitious-felix-rieseberg]]
 - **antigravity** — [[what-is-harness-engineering-google-cloud-tech]]
@@ -4082,6 +4087,7 @@
 - **data** — [[ai-engineering-skills-map-software-fundamentals-andrew-ng]]
 - **data-curation** — [[fine-tune-small-llm-own-data-guide-sairahul1]]
 - **data-labeling** — [[data-broker-postings-frontier-roadmap]]
+- **deep-research** — [[alpha-generation-self-editing-heartbeats]]
 - **deliberate-practice** — [[pattern-recognition-mastery-tim-denning]]
 - **design** — [[beautiful-ui-ai-native-primitives]]
 - **differentiable-programming** — [[handwired-javascript-to-neural-net-cheng-lou]]

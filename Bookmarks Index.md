@@ -242,6 +242,7 @@
 - [[296-agents-one-graph-loop-engineering-gpt6-astra]] — [From 296 Agents to One Graph](https://x.com/N01ennn/status/2096962591125905888) `[agents, loop-engineering, graph-engineering, agent-harness, orchestration, verification, langgraph]`
 - [[knowledge-engineer-docs-for-agents-mintlify]] — [The rise of the knowledge engineer](https://x.com/hahnbeelee/status/2100619585561256277) `[agents, documentation, enterprise, content-strategy, knowledge-work, context-engineering, rag]`
 - [[the-complete-guide-to-pstack-part-2-supervising-planning]] — [The Complete Guide to pstack Pt. 2 — supervising and planning in code](https://x.com/poteto/status/2097732320606507506) `[pstack, planning, context-engineering, prototyping, architecture, verification, skills]`
+- [[alpha-generation-self-editing-heartbeats]] — [Alpha generation p1 (self-editing heartbeats with seeds)](https://docs.google.com/document/d/14qXSLPBZENOTmYJMJPQ7xFRtMzm00qCF9foTKqque70/mobilebasic) `[agents, agent-loops, codex, automation, deep-research, context-engineering]`
 
 ### Ai Ml
 
@@ -787,6 +788,7 @@
 - [[aiesi-post-training-world-adaptation]] `[training, post-training, rl, sft, distillation, rlvr, kto, agents, economics]`
 - [[akshaypachaar]] `[agents]`
 - [[akshaypachaar]] `[agents, papers]`
+- [[alpha-generation-self-editing-heartbeats]] `[agents, agent-loops, codex, automation, deep-research, context-engineering]`
 - [[ambient-pm-agents-evidence-first-prd]] `[pm, prd, agents, product-discovery, evidence, stakeholders, ambient-agents, cronjob, product-management]`
 - [[amitiitbhu]] `[ai-ml]`
 - [[an-alien-mind-pachocki]] `[safety, alignment, reasoning, openai, rsi]`

@@ -1,6 +1,6 @@
 # Processed concepts
 
-> Auto-generated OKF catalog. 603 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
+> Auto-generated OKF catalog. 604 concepts. Regenerate: `python3 scripts/regenerate-processed-index.py`
 
 Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only when needed.
 
@@ -76,6 +76,7 @@ Markdown paths are bundle-root absolute (`/processed/...`). Open a concept only 
 - [aiedge-glm-5.2-guide.md](/processed/aiedge-glm-5.2-guide.md) — *bookmark* — GLM-5.2 Ultimate Guide
 - [aiesi-post-training-world-adaptation.md](/processed/aiesi-post-training-world-adaptation.md) — *article* — Kawin Ethayarajh AIESI 2026 deck — post-training stack SFT through distillation, then world adaptation and mecha-nudges as the next problem for economists.
 - [alignment-faking.md](/processed/alignment-faking.md) — *concept* — Alignment Faking
+- [alpha-generation-self-editing-heartbeats.md](/processed/alpha-generation-self-editing-heartbeats.md) — *article* — Self-editing heartbeat loop for rare-token research: seed the first prompt with known-good sources, treat the automation prompt as a rewritable scratchpad, take one bespoke action per one-minute wakeup, checkpoint fin...
 - [alphago-mcts-llm-rl-dwarkesh-eric-jang.md](/processed/alphago-mcts-llm-rl-dwarkesh-eric-jang.md) — *note* — AlphaGo, MCTS, and LLM RL — Dwarkesh Patel with Eric Jang
 - [ambient-pm-agents-evidence-first-prd.md](/processed/ambient-pm-agents-evidence-first-prd.md) — *bookmark* — Nurijanian ambient PM agents — cron evidence packets before PRDs, PR-style stakeholder review, keep uncertainty visible not polished doc theater.
 - [an-alien-mind-pachocki.md](/processed/an-alien-mind-pachocki.md) — *bookmark* — Pachocki (OpenAI): An Alien Mind — goal vs value alignment, CoT monitoring decaying, RSI pacing; no lab has solved alignment enough for max-speed scaling.
